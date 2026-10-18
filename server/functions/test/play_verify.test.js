@@ -62,7 +62,8 @@ test('cancelled purchase is invalid', async () => {
 
 test('refunded purchase is invalid', async () => {
   const r = await run(publisher({ purchase: { purchaseState: 0 }, voided: [{ purchaseToken: 'other' }, { purchaseToken: TOKEN }] }));
-  assert.deepEqual(r, { state: 'invalid', reason: 'refunded' });
+  assert.equal(r.state, 'invalid');
+  assert.equal(r.reason, 'refunded');
 });
 
 test('unknown token is invalid', async () => {

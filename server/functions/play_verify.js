@@ -29,7 +29,7 @@ async function verifyPurchase({ publisher, packageName, allowedProducts, product
   // purchaseState: 0 purchased, 1 cancelled, 2 pending.
   if (purchase.purchaseState === 2) return { state: 'pending' };
   if (purchase.purchaseState !== 0) return { state: 'invalid', reason: 'cancelled' };
-  if (await isVoided({ publisher, packageName, purchaseToken })) return { state: 'invalid', reason: 'refunded' };
+  if (await isVoided({ publisher, packageName, purchaseToken })) return { state: 'invalid', reason: 'refunded', orderId: purchase.orderId };
 
   return {
     state: 'valid',

@@ -19,8 +19,10 @@ r.get('/content/:type', wrap(async (req, res) => {
   if (req.query.since) filter.updatedAt = { $gt: new Date(String(req.query.since)) };
   if (req.query.boardId) filter.boardId = String(req.query.boardId);
   if (req.query.classLevel) filter.classLevel = Number(req.query.classLevel);
-  const docs = await ContentItem.find(filter).select('data updatedAt').lean();
-  res.json({ serverTime: new Date().toISOString(), items: docs.map((d) => d.data) });
+  const docs = await ContentItem.find(filter).select('data hiSrc').lean();
+  // File-level Hindi provenance the app applies to texts that do not set their own.
+  const hiSrc = Object.fromEntries(docs.filter((d) => d.hiSrc).map((d) => [d.data.id, d.hiSrc]));
+  res.json({ serverTime: new Date().toISOString(), items: docs.map((d) => d.data), hiSrc });
 }));
 
 r.get('/config', wrap(async (_req, res) => {

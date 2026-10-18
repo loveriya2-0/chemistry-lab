@@ -36,6 +36,13 @@ Roles: `admin` (all), `editor` (content, announcements, feedback, revenue view),
 - `POST /api/v1/public/install`, `/events`, `/feedback`
 - `POST /api/v1/internal/purchases` (header `x-internal-secret`) — call from `server/functions` after Google Play verification
 
+## Flutter app connection
+Build the app with `--dart-define=CONTENT_API_URL=https://your-api` (empty = fully offline, as before).
+- On launch the app sends an anonymous install ping and downloads reviewed content (`lib/sync/remote_content.dart`), cached in SharedPreferences.
+- `ContentRepository` merges the cache over the bundled JSON: console items replace bundled ones with the same id, and new items are added. The merge happens at the next launch, so a screen never changes while being read. Offline or a bad cache → bundled content.
+- Limitation: un-publishing an item in the console does not hide a bundled copy until the next app release.
+- Purchases: set `CONSOLE_API_URL` and `CONSOLE_INTERNAL_SECRET` (same value as the API's `INTERNAL_SECRET`) on the `verifyPurchase` function and it reports orders and refunds to the console. Test purchases are skipped.
+
 ## Not done yet
-- Flutter app still reads bundled JSON; remote content sync, event reporting and the `verifyPurchase` → `/internal/purchases` call are the next phase.
+- The app does not send quiz/session events yet, so weak-topic and DAU charts stay empty (the `/public/events` endpoint is ready).
 - AI tutor proxy endpoint (usage stats and limits are in place, the proxy itself is not).
