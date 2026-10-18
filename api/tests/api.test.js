@@ -1,4 +1,4 @@
-import { afterAll, beforeAll, describe, expect, it } from 'vitest';
+import { afterAll, beforeAll, describe, expect, it, vi } from 'vitest';
 import mongoose from 'mongoose';
 import bcrypt from 'bcryptjs';
 import request from 'supertest';
@@ -6,7 +6,17 @@ import { MongoMemoryServer } from 'mongodb-memory-server';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { createApp } from '../src/app.js';
+import { config } from '../src/config.js';
+import { verifyGoogleToken } from '../src/google.js';
 import { User, ContentItem } from '../src/models/index.js';
+
+// Google's servers are not called in tests: the "credential" is a JSON string we control.
+vi.mock('../src/google.js', () => ({
+  verifyGoogleToken: vi.fn(async (credential) => {
+    if (credential.startsWith('bad')) throw new Error('invalid token');
+    return JSON.parse(credential);
+  }),
+}));
 import { seedContent } from '../src/seed/seedContent.js';
 
 const contentDir = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../../assets/content');
@@ -39,6 +49,62 @@ describe('auth', () => {
   it('rejects bad credentials and unauthenticated calls', async () => {
     expect((await request(app).post('/api/v1/auth/login').send({ email: 'admin@t.io', password: 'nope' })).status).toBe(401);
     expect((await request(app).get('/api/v1/content/question')).status).toBe(401);
+  });
+});
+
+describe('google sign-in', () => {
+  const token = (o) => JSON.stringify({ sub: 'g-1', email: 'guest@t.io', emailVerified: true, name: 'Guest', picture: 'http://p/x.png', ...o });
+  const google = (credential) => request(app).post('/api/v1/auth/google').send({ credential });
+
+  it('is disabled until a client id is configured', async () => {
+    config.googleClientId = '';
+    expect((await request(app).get('/api/v1/auth/config')).body.googleClientId).toBeNull();
+    expect((await google(token({}) + ' '.repeat(20))).status).toBe(404);
+  });
+
+  it('only lets invited members in, and links the Google account', async () => {
+    config.googleClientId = 'test-client';
+    expect((await request(app).get('/api/v1/auth/config')).body.googleClientId).toBe('test-client');
+    const pad = ' '.repeat(20); // credentials must look like real tokens (min length)
+
+    // not invited
+    const stranger = await google(token({ email: 'stranger@t.io' }) + pad);
+    expect(stranger.status).toBe(403);
+    expect(stranger.body.error).toMatch(/invited/);
+
+    // admin invites a Google-only member (no password)
+    const add = await request(app).post('/api/v1/team').set(auth(admin)).send({ name: 'Guest', email: 'guest@t.io', role: 'reviewer' });
+    expect(add.status).toBe(201);
+
+    const ok = await google(token({}) + pad);
+    expect(ok.status).toBe(200);
+    expect(ok.body.user).toMatchObject({ email: 'guest@t.io', role: 'reviewer', picture: 'http://p/x.png' });
+    const me = await request(app).get('/api/v1/auth/me').set(auth(ok.body.token));
+    expect(me.body.user.email).toBe('guest@t.io');
+
+    // password login is impossible for a Google-only member
+    expect((await request(app).post('/api/v1/auth/login').send({ email: 'guest@t.io', password: 'anything123' })).status).toBe(401);
+
+    // a different Google account with the same email cannot take over the linked one
+    expect((await google(token({ sub: 'g-2' }) + pad)).status).toBe(403);
+  });
+
+  it('rejects unverified emails, bad tokens and disabled members', async () => {
+    config.googleClientId = 'test-client';
+    const pad = ' '.repeat(20);
+    expect((await google(token({ emailVerified: false }) + pad)).status).toBe(401);
+    expect((await google('bad-token-xxxxxxxxxxxxxxxx')).status).toBe(401);
+    expect((await google('short')).status).toBe(400);
+
+    const guest = await User.findOne({ email: 'guest@t.io' });
+    await request(app).patch(`/api/v1/team/${guest._id}`).set(auth(admin)).send({ active: false });
+    expect((await google(token({}) + pad)).status).toBe(403);
+  });
+
+  it('requires a password for new members when Google is off', async () => {
+    config.googleClientId = '';
+    const res = await request(app).post('/api/v1/team').set(auth(admin)).send({ name: 'X', email: 'x@t.io', role: 'editor' });
+    expect(res.status).toBe(400);
   });
 });
 

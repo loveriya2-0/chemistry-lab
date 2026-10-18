@@ -12,9 +12,11 @@ export default function Team() {
   const { user, can } = useAuth();
   const [f, setF] = useState({ name: '', email: '', password: '', role: 'editor' });
   const list = useQuery({ queryKey: ['team'], queryFn: () => api<any[]>('/team'), enabled: can() });
+  const cfg = useQuery({ queryKey: ['auth-config'], queryFn: () => api<{ googleClientId: string | null }>('/auth/config') });
+  const googleOn = !!cfg.data?.googleClientId;
   const refresh = () => qc.invalidateQueries({ queryKey: ['team'] });
   const add = useMutation({
-    mutationFn: () => api('/team', { method: 'POST', body: f }),
+    mutationFn: () => api('/team', { method: 'POST', body: { ...f, password: f.password || undefined } }),
     onSuccess: () => { toast('ok', 'Member added'); setF({ name: '', email: '', password: '', role: 'editor' }); refresh(); },
     onError: (e: Error) => toast('err', e.message),
   });
@@ -33,7 +35,9 @@ export default function Team() {
           <h2 className="font-medium">Add member</h2>
           <input className="input" placeholder="Name" required value={f.name} onChange={(e) => setF({ ...f, name: e.target.value })} />
           <input className="input" type="email" placeholder="Email" required value={f.email} onChange={(e) => setF({ ...f, email: e.target.value })} />
-          <input className="input" type="password" placeholder="Temporary password (min 8)" minLength={8} required value={f.password} onChange={(e) => setF({ ...f, password: e.target.value })} />
+          <input className="input" type="password" autoComplete="new-password" minLength={8} required={!googleOn} value={f.password}
+            placeholder={googleOn ? 'Password (optional — can use Google)' : 'Temporary password (min 8)'} onChange={(e) => setF({ ...f, password: e.target.value })} />
+          {googleOn && <p className="text-xs text-slate-500">Leave the password empty to let them sign in with the Google account for this email.</p>}
           <select className="input" value={f.role} onChange={(e) => setF({ ...f, role: e.target.value })}>{Object.keys(ROLE_HELP).map((r) => <option key={r}>{r}</option>)}</select>
           <p className="text-xs text-slate-500">{ROLE_HELP[f.role as keyof typeof ROLE_HELP]}</p>
           <button className="btn-primary w-full" disabled={add.isPending}>Add</button>

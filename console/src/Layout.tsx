@@ -52,9 +52,11 @@ export default function Layout() {
         </nav>
         <div className="border-t border-slate-200 p-3 dark:border-slate-800">
           <div className="flex items-center gap-3 rounded-lg px-2 py-1.5">
-            <div className="flex h-8 w-8 items-center justify-center rounded-full bg-brand-600 text-sm font-semibold text-white">
-              {user!.name.slice(0, 1).toUpperCase()}
-            </div>
+            {user!.picture
+              ? <img src={user!.picture} alt="" referrerPolicy="no-referrer" className="h-8 w-8 rounded-full" />
+              : <div className="flex h-8 w-8 items-center justify-center rounded-full bg-brand-600 text-sm font-semibold text-white">
+                  {user!.name.slice(0, 1).toUpperCase()}
+                </div>}
             <div className="min-w-0 flex-1">
               <p className="truncate text-sm font-medium">{user!.name}</p>
               <p className="text-xs capitalize text-slate-500">{user!.role}</p>

@@ -19,7 +19,7 @@ export function createApp() {
   app.get('/health', (_req, res) => res.json({ ok: true }));
 
   const v1 = express.Router();
-  v1.use('/auth/login', rateLimit({ windowMs: 15 * 60_000, limit: 20, standardHeaders: true, legacyHeaders: false }));
+  v1.use(['/auth/login', '/auth/google'], rateLimit({ windowMs: 15 * 60_000, limit: 20, standardHeaders: true, legacyHeaders: false }));
   v1.use('/auth', auth);
   v1.use('/public', publicRoutes);
   v1.use('/internal', internal);

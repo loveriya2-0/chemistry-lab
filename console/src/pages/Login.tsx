@@ -1,19 +1,24 @@
 import { useState, type FormEvent } from 'react';
+import { useQuery } from '@tanstack/react-query';
 import { FlaskConical } from 'lucide-react';
+import { api } from '../api';
 import { useAuth } from '../auth';
+import GoogleButton from '../GoogleButton';
 
 export default function Login() {
-  const { login } = useAuth();
+  const { login, loginWithGoogle } = useAuth();
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [error, setError] = useState('');
   const [busy, setBusy] = useState(false);
+  const cfg = useQuery({ queryKey: ['auth-config'], queryFn: () => api<{ googleClientId: string | null }>('/auth/config'), retry: false });
+  const googleId = cfg.data?.googleClientId;
 
-  const submit = async (e: FormEvent) => {
-    e.preventDefault();
+  const run = async (fn: () => Promise<void>) => {
     setBusy(true); setError('');
-    try { await login(email, password); } catch (err) { setError((err as Error).message); } finally { setBusy(false); }
+    try { await fn(); } catch (err) { setError((err as Error).message); } finally { setBusy(false); }
   };
+  const submit = (e: FormEvent) => { e.preventDefault(); run(() => login(email, password)); };
 
   return (
     <div className="flex min-h-screen items-center justify-center bg-gradient-to-br from-brand-50 via-slate-50 to-sky-50 p-4 dark:from-slate-950 dark:via-slate-950 dark:to-brand-700/20">
@@ -23,6 +28,18 @@ export default function Login() {
           <h1 className="text-xl font-semibold">Lab Console</h1>
           <p className="text-sm text-slate-500">Sign in to manage Virtual Chemistry Lab</p>
         </div>
+
+        {googleId && (
+          <>
+            <div className={busy ? 'pointer-events-none opacity-60' : ''}>
+              <GoogleButton clientId={googleId} onCredential={(c) => run(() => loginWithGoogle(c))} />
+            </div>
+            <div className="flex items-center gap-3 text-xs text-slate-400">
+              <span className="h-px flex-1 bg-slate-200 dark:bg-slate-800" />or<span className="h-px flex-1 bg-slate-200 dark:bg-slate-800" />
+            </div>
+          </>
+        )}
+
         <label className="block text-sm font-medium">Email
           <input className="input mt-1" type="email" autoComplete="username" required value={email} onChange={(e) => setEmail(e.target.value)} />
         </label>

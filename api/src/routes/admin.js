@@ -1,7 +1,7 @@
 import { Router } from 'express';
 import bcrypt from 'bcryptjs';
 import { z } from 'zod';
-import { ROLES } from '../config.js';
+import { ROLES, config } from '../config.js';
 import {
   Announcement, AppConfig, AppUser, AuditLog, ContentItem, Event, Feedback, Purchase, User,
 } from '../models/index.js';
@@ -211,9 +211,13 @@ r.get('/audit', requireRole('editor', 'reviewer'), wrap(async (req, res) => {
 r.get('/team', requireRole(), wrap(async (_req, res) => res.json(await User.find().sort({ createdAt: 1 }).lean())));
 r.post('/team', requireRole(), wrap(async (req, res) => {
   const b = z.object({
-    name: z.string().min(1), email: z.string().email(), password: z.string().min(8), role: z.enum(ROLES),
+    name: z.string().min(1), email: z.string().email(), password: z.string().min(8).optional(), role: z.enum(ROLES),
   }).parse(req.body);
-  const user = await User.create({ name: b.name, email: b.email, role: b.role, passwordHash: await bcrypt.hash(b.password, 12) });
+  // Without a password the member can only sign in with Google.
+  if (!b.password && !config.googleClientId) throw new HttpError(400, 'Set a password (Google sign-in is not enabled)');
+  const user = await User.create({
+    name: b.name, email: b.email, role: b.role, passwordHash: b.password ? await bcrypt.hash(b.password, 12) : undefined,
+  });
   audit(req, 'create', 'user', String(user._id), `Added ${b.role} ${b.email}`);
   res.status(201).json({ id: user._id, name: user.name, email: user.email, role: user.role });
 }));

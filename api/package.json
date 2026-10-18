@@ -3,20 +3,24 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "engines": { "node": ">=20" },
+  "engines": {
+    "node": ">=20"
+  },
   "scripts": {
     "dev": "node --watch --env-file-if-exists=.env src/server.js",
     "start": "node --env-file-if-exists=.env src/server.js",
     "dev:mem": "node src/seed/devServer.js",
-    "seed":"node --env-file-if-exists=.env src/seed/seed.js",
+    "seed": "node --env-file-if-exists=.env src/seed/seed.js",
     "create-admin": "node --env-file-if-exists=.env src/seed/createAdmin.js",
     "test": "vitest run"
   },
   "dependencies": {
+    "@cloudflare/containers": "^0.3.7",
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
     "express": "^4.21.2",
     "express-rate-limit": "^7.5.0",
+    "google-auth-library": "^11.3.1",
     "helmet": "^8.0.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.9.5",

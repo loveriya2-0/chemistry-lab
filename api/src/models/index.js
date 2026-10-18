@@ -7,7 +7,10 @@ const opts = { timestamps: true };
 export const User = mongoose.model('User', new Schema({
   name: { type: String, required: true, trim: true },
   email: { type: String, required: true, unique: true, lowercase: true, trim: true },
-  passwordHash: { type: String, required: true, select: false },
+  // Absent for members who only sign in with Google.
+  passwordHash: { type: String, select: false },
+  googleId: { type: String, unique: true, sparse: true },
+  picture: String,
   role: { type: String, enum: ROLES, default: 'editor' },
   active: { type: Boolean, default: true },
   lastLoginAt: Date,

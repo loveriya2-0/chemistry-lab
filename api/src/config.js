@@ -5,6 +5,8 @@ export const config = {
   jwtExpiresIn: process.env.JWT_EXPIRES_IN || '8h',
   corsOrigins: (process.env.CORS_ORIGINS || 'http://localhost:5173').split(',').map((s) => s.trim()),
   internalSecret: process.env.INTERNAL_SECRET || '',
+  // OAuth "Web application" client id; empty disables "Continue with Google".
+  googleClientId: process.env.GOOGLE_CLIENT_ID || '',
   contentDir: process.env.CONTENT_DIR || '../assets/content',
 };
 

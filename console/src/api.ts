@@ -39,7 +39,7 @@ export async function download(path: string, filename: string) {
 
 export type Role = 'admin' | 'editor' | 'reviewer';
 export type Review = 'draft' | 'needsReview' | 'sourceChecked' | 'verified';
-export interface Me { id: string; name: string; email: string; role: Role }
+export interface Me { id: string; name: string; email: string; role: Role; picture?: string }
 export interface ContentRow {
   _id: string; type: string; itemId: string; title: string; review: Review; boardId?: string;
   classLevel?: number; chapterId?: string; topicId?: string; updatedAt: string;

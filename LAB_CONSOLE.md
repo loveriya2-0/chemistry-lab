@@ -46,3 +46,19 @@ Build the app with `--dart-define=CONTENT_API_URL=https://your-api` (empty = ful
 ## Not done yet
 - The app does not send quiz/session events yet, so weak-topic and DAU charts stay empty (the `/public/events` endpoint is ready).
 - AI tutor proxy endpoint (usage stats and limits are in place, the proxy itself is not).
+
+## Hosting on Cloudflare
+- **Console** (static): project root `console`, build `npm run build`, deploy `npx wrangler deploy`, build variable `VITE_API_URL=<api url>`.
+- **API** (Cloudflare Containers, needs the Workers Paid plan): project root `api`, deploy `npx wrangler deploy`. `api/Dockerfile` runs the Express server and `api/worker/index.js` routes requests to it.
+  1. Create a free MongoDB Atlas cluster; allow access from anywhere (`0.0.0.0/0`) since container IPs are not fixed.
+  2. Set Worker secrets (dashboard → the API project → Settings → Variables and Secrets, or `npx wrangler secret put NAME`): `MONGODB_URI`, `JWT_SECRET`, `INTERNAL_SECRET`, `CORS_ORIGINS` (the console's URL).
+  3. Deploy, then once from your computer with `MONGODB_URI` in `api/.env`: `npm run seed` and `npm run create-admin`.
+- The first request after 15 idle minutes starts the container (a few seconds).
+
+## Continue with Google
+Only people an admin has added in **Team** can sign in; Google just proves who they are (email must be verified). Nobody can sign up on their own.
+1. [Google Cloud Console](https://console.cloud.google.com/apis/credentials) → Create credentials → **OAuth client ID** → type **Web application** (set up the consent screen first if asked).
+2. **Authorized JavaScript origins:** `http://localhost:5173` and the console's production URL (e.g. `https://lab-console.<you>.workers.dev`). No redirect URI is needed.
+3. Put the client id in the API's `GOOGLE_CLIENT_ID` (`api/.env` locally; a Worker variable/secret on Cloudflare). The console reads it from the API, so there is nothing to set in `console/`.
+4. First admin without a password: set only `ADMIN_EMAIL` and run `npm run create-admin`, then sign in with that Google account. Add others in Team (leave the password empty for Google-only members).
+Without `GOOGLE_CLIENT_ID` the button is hidden and email/password works as before.
