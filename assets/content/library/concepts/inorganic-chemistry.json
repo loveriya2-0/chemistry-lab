@@ -1,0 +1,117 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "periodic-trends",
+      "type": "concept",
+      "title": {"en": "Periodic trends in properties", "hi": "गुणों में आवर्ती प्रवृत्तियाँ"},
+      "sections": {
+        "whatIsIt": {"en": "Atomic radius, ionisation enthalpy, electron gain enthalpy, electronegativity and metallic character vary regularly across periods and down groups because of changing nuclear charge and number of shells.", "hi": "परमाणु त्रिज्या, आयनन एन्थैल्पी, इलेक्ट्रॉन लब्धि एन्थैल्पी, विद्युत-ऋणात्मकता और धात्विक लक्षण नाभिकीय आवेश और कोशों की संख्या बदलने के कारण आवर्तों और वर्गों में नियमित रूप से बदलते हैं।"},
+        "howItWorks": {"en": "Across a period effective nuclear charge rises, so radius decreases and ionisation enthalpy and electronegativity increase; down a group a new shell is added, so radius increases and ionisation enthalpy decreases. Cations are smaller and anions larger than their parent atoms; isoelectronic species shrink as nuclear charge increases.", "hi": "आवर्त में आगे बढ़ने पर प्रभावी नाभिकीय आवेश बढ़ता है, इसलिए त्रिज्या घटती है और आयनन एन्थैल्पी तथा विद्युत-ऋणात्मकता बढ़ती है; वर्ग में नीचे नया कोश जुड़ता है, इसलिए त्रिज्या बढ़ती और आयनन एन्थैल्पी घटती है। धनायन अपने जनक परमाणुओं से छोटे और ऋणायन बड़े होते हैं; समइलेक्ट्रॉनी स्पीशीज़ नाभिकीय आवेश बढ़ने पर छोटी होती जाती हैं।"},
+        "whyImportant": {"en": "These trends explain the reactivity, bonding and nature of oxides of the elements.", "hi": "ये प्रवृत्तियाँ तत्वों की क्रियाशीलता, आबंधन और ऑक्साइडों की प्रकृति समझाती हैं।"},
+        "realLifeUses": {"en": "Chemists use periodic trends to predict properties of new materials and to choose elements for alloys and semiconductors.", "hi": "रसायनज्ञ नए पदार्थों के गुणों का पूर्वानुमान लगाने और मिश्रातुओं तथा अर्धचालकों के लिए तत्व चुनने में आवर्ती प्रवृत्तियों का प्रयोग करते हैं।"},
+        "rememberForExam": {"en": "Exceptions: N has higher ionisation enthalpy than O (half-filled 2p); Cl has more negative electron gain enthalpy than F (small size of F).", "hi": "अपवाद: N की आयनन एन्थैल्पी O से अधिक (अर्धपूरित 2p); Cl की इलेक्ट्रॉन लब्धि एन्थैल्पी F से अधिक ऋणात्मक (F का छोटा आकार)।"}
+      },
+      "equations": [],
+      "relatedConceptIds": ["periodic-classification", "quantum-mechanical-model"],
+      "sources": [{"sourceId": "ncert-11-en", "section": "3.7"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "bond-parameters",
+      "type": "concept",
+      "title": {"en": "Bond parameters, polarity and hydrogen bonding", "hi": "आबंध प्राचल, ध्रुवता और हाइड्रोजन आबंधन"},
+      "sections": {
+        "whatIsIt": {"en": "Covalent bonds are described by bond length, bond angle, bond enthalpy and bond order; unequal sharing of electrons makes a bond polar and gives molecules a dipole moment.", "hi": "सहसंयोजक आबंधों का वर्णन आबंध लंबाई, आबंध कोण, आबंध एन्थैल्पी और आबंध कोटि से होता है; इलेक्ट्रॉनों की असमान साझेदारी आबंध को ध्रुवीय बनाती है और अणुओं को द्विध्रुव आघूर्ण देती है।"},
+        "howItWorks": {"en": "Higher bond order means a shorter, stronger bond. Resonance structures describe molecules such as O₃ and CO₃²⁻. Dipole moment μ = charge × distance (in debye); symmetric molecules like CO₂ and BF₃ have zero dipole moment. Fajans' rules predict covalent character in ionic bonds. A hydrogen bond forms between H attached to F, O or N and another such electronegative atom; it can be intermolecular or intramolecular.", "hi": "अधिक आबंध कोटि का अर्थ छोटा और प्रबल आबंध। O₃ और CO₃²⁻ जैसे अणुओं को अनुनादी संरचनाएँ दर्शाती हैं। द्विध्रुव आघूर्ण μ = आवेश × दूरी (डिबाई में); CO₂ और BF₃ जैसे सममित अणुओं का द्विध्रुव आघूर्ण शून्य होता है। फ़ायान्स नियम आयनिक आबंधों में सहसंयोजक लक्षण बताते हैं। F, O या N से जुड़े H और ऐसे ही अन्य विद्युत-ऋणात्मक परमाणु के बीच हाइड्रोजन आबंध बनता है; यह अंतराअणुक या अंतःअणुक हो सकता है।"},
+        "whyImportant": {"en": "Bond parameters and hydrogen bonding explain boiling points, solubility and molecular shape.", "hi": "आबंध प्राचल और हाइड्रोजन आबंधन क्वथनांक, विलेयता और आण्विक आकृति को समझाते हैं।"},
+        "realLifeUses": {"en": "Hydrogen bonding makes water a liquid at room temperature and holds the two strands of DNA together.", "hi": "हाइड्रोजन आबंधन जल को कमरे के ताप पर द्रव बनाता है और DNA के दोनों रज्जुकों को जोड़े रखता है।"},
+        "rememberForExam": {"en": "NH₃ has a larger dipole moment than NF₃ because in NH₃ the lone-pair and bond moments act in the same direction.", "hi": "NH₃ का द्विध्रुव आघूर्ण NF₃ से अधिक है क्योंकि NH₃ में एकाकी युग्म और आबंध आघूर्ण एक ही दिशा में होते हैं।"}
+      },
+      "equations": ["μ = Q × r"],
+      "relatedConceptIds": ["covalent-bond", "vsepr-and-hybridisation"],
+      "sources": [{"sourceId": "ncert-11-en", "section": "4.3, 4.9"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "vsepr-and-hybridisation",
+      "type": "concept",
+      "title": {"en": "VSEPR theory, valence bond theory and hybridisation", "hi": "VSEPR सिद्धांत, संयोजकता आबंध सिद्धांत और संकरण"},
+      "sections": {
+        "whatIsIt": {"en": "VSEPR theory predicts molecular shapes from the repulsion between electron pairs around the central atom; hybridisation mixes atomic orbitals into equivalent hybrid orbitals that form σ bonds.", "hi": "VSEPR सिद्धांत केंद्रीय परमाणु के चारों ओर इलेक्ट्रॉन युग्मों के प्रतिकर्षण से आण्विक आकृतियाँ बताता है; संकरण परमाणु कक्षकों को मिलाकर समतुल्य संकर कक्षक बनाता है जो σ आबंध बनाते हैं।"},
+        "howItWorks": {"en": "Repulsion order: lone pair–lone pair > lone pair–bond pair > bond pair–bond pair, so lone pairs reduce bond angles (CH₄ 109.5°, NH₃ 107°, H₂O 104.5°). sp (linear, 180°, BeCl₂), sp² (trigonal planar, 120°, BF₃, C₂H₄), sp³ (tetrahedral, 109.5°, CH₄), sp³d (trigonal bipyramidal, PCl₅), sp³d² (octahedral, SF₆). σ bonds come from head-on overlap, π bonds from sideways overlap of p orbitals.", "hi": "प्रतिकर्षण क्रम: एकाकी युग्म–एकाकी युग्म > एकाकी युग्म–आबंध युग्म > आबंध युग्म–आबंध युग्म, इसलिए एकाकी युग्म आबंध कोण घटाते हैं (CH₄ 109.5°, NH₃ 107°, H₂O 104.5°)। sp (रैखिक, 180°, BeCl₂), sp² (त्रिकोणीय समतली, 120°, BF₃, C₂H₄), sp³ (चतुष्फलकीय, 109.5°, CH₄), sp³d (त्रिकोणीय द्विपिरामिडी, PCl₅), sp³d² (अष्टफलकीय, SF₆)। σ आबंध सम्मुख अतिव्यापन से और π आबंध p कक्षकों के पार्श्व अतिव्यापन से बनते हैं।"},
+        "whyImportant": {"en": "Shape decides polarity, reactivity and biological activity of molecules.", "hi": "आकृति अणुओं की ध्रुवता, क्रियाशीलता और जैविक सक्रियता तय करती है।"},
+        "realLifeUses": {"en": "The bent shape of water makes it polar, which is why it dissolves salts and sugars.", "hi": "जल की मुड़ी आकृति उसे ध्रुवीय बनाती है, इसीलिए वह लवण और शर्कराएँ घोलता है।"},
+        "rememberForExam": {"en": "Count σ bonds + lone pairs on the central atom: 2 → sp, 3 → sp², 4 → sp³, 5 → sp³d, 6 → sp³d².", "hi": "केंद्रीय परमाणु पर σ आबंध + एकाकी युग्म गिनें: 2 → sp, 3 → sp², 4 → sp³, 5 → sp³d, 6 → sp³d²।"}
+      },
+      "equations": [],
+      "relatedConceptIds": ["bond-parameters", "molecular-orbital-theory"],
+      "sources": [{"sourceId": "ncert-11-en", "section": "4.4–4.6"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "molecular-orbital-theory",
+      "type": "concept",
+      "title": {"en": "Molecular orbital theory", "hi": "आण्विक कक्षक सिद्धांत"},
+      "sections": {
+        "whatIsIt": {"en": "Atomic orbitals of comparable energy and proper symmetry combine (LCAO) to form bonding and antibonding molecular orbitals that belong to the whole molecule.", "hi": "तुलनीय ऊर्जा और उचित सममिति वाले परमाणु कक्षक संयोजित होकर (LCAO) बंधी और प्रतिबंधी आण्विक कक्षक बनाते हैं जो पूरे अणु के होते हैं।"},
+        "howItWorks": {"en": "Electrons fill MOs by Aufbau, Pauli and Hund rules. Bond order = ½(Nb − Na); a positive bond order means a stable molecule, and a higher bond order a shorter, stronger bond. For B₂, C₂ and N₂ the π2p orbitals lie below σ2pz; for O₂ and F₂ σ2pz lies lower. O₂ has two unpaired electrons in π* orbitals, so it is paramagnetic.", "hi": "इलेक्ट्रॉन आउफ़बाउ, पाउली और हुंड नियमों से आण्विक कक्षक भरते हैं। आबंध कोटि = ½(Nb − Na); धनात्मक आबंध कोटि का अर्थ स्थायी अणु, और अधिक आबंध कोटि का अर्थ छोटा व प्रबल आबंध। B₂, C₂ और N₂ के लिए π2p कक्षक σ2pz से नीचे होते हैं; O₂ और F₂ के लिए σ2pz नीचे होता है। O₂ के π* कक्षकों में दो अयुग्मित इलेक्ट्रॉन होते हैं, इसलिए यह अनुचुंबकीय है।"},
+        "whyImportant": {"en": "It explains magnetism and bond strength of molecules that Lewis and VB theories cannot, such as the paramagnetism of O₂.", "hi": "यह अणुओं के चुंबकत्व और आबंध सामर्थ्य को समझाता है जिन्हें लूइस और VB सिद्धांत नहीं समझा पाते, जैसे O₂ का अनुचुंबकत्व।"},
+        "realLifeUses": {"en": "Liquid oxygen is attracted between the poles of a magnet, a direct proof of MO theory.", "hi": "द्रव ऑक्सीजन चुंबक के ध्रुवों के बीच आकर्षित होती है, जो MO सिद्धांत का सीधा प्रमाण है।"},
+        "rememberForExam": {"en": "Bond orders: H₂ = 1, He₂ = 0 (does not exist), N₂ = 3, O₂ = 2, F₂ = 1.", "hi": "आबंध कोटि: H₂ = 1, He₂ = 0 (अस्तित्व नहीं), N₂ = 3, O₂ = 2, F₂ = 1।"}
+      },
+      "equations": ["Bond order = ½ (Nb − Na)"],
+      "relatedConceptIds": ["vsepr-and-hybridisation"],
+      "sources": [{"sourceId": "ncert-11-en", "section": "4.7–4.8"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "transition-elements",
+      "type": "concept",
+      "title": {"en": "Transition and inner transition elements", "hi": "संक्रमण और आंतरिक संक्रमण तत्व"},
+      "sections": {
+        "whatIsIt": {"en": "d-block elements (groups 3–12) fill (n−1)d orbitals; transition metals have an incomplete d subshell in the atom or ion. f-block lanthanoids and actinoids fill 4f and 5f orbitals.", "hi": "d-ब्लॉक तत्व (वर्ग 3–12) (n−1)d कक्षक भरते हैं; संक्रमण धातुओं के परमाणु या आयन में अपूर्ण d उपकोश होता है। f-ब्लॉक के लैन्थेनॉयड और एक्टिनॉयड 4f और 5f कक्षक भरते हैं।"},
+        "howItWorks": {"en": "Partly filled d orbitals give variable oxidation states, coloured ions (d–d transitions), paramagnetism (μ = √(n(n+2)) BM), catalytic activity and complex formation. Poor shielding by 4f electrons causes the lanthanoid contraction, making Zr and Hf nearly the same size.", "hi": "आंशिक भरे d कक्षक परिवर्ती ऑक्सीकरण अवस्थाएँ, रंगीन आयन (d–d संक्रमण), अनुचुंबकत्व (μ = √(n(n+2)) BM), उत्प्रेरकीय सक्रियता और संकुल निर्माण देते हैं। 4f इलेक्ट्रॉनों का कमज़ोर परिरक्षण लैन्थेनॉयड आकुंचन का कारण है, जिससे Zr और Hf का आकार लगभग समान होता है।"},
+        "whyImportant": {"en": "Transition metals are central to construction, industry, catalysis and biology.", "hi": "संक्रमण धातुएँ निर्माण, उद्योग, उत्प्रेरण और जीव विज्ञान में केंद्रीय हैं।"},
+        "realLifeUses": {"en": "Steel, copper wiring, catalysts for ammonia and sulphuric acid, and K₂Cr₂O₇ and KMnO₄ as oxidants.", "hi": "स्टील, कॉपर के तार, अमोनिया और सल्फ़्यूरिक अम्ल के उत्प्रेरक, तथा ऑक्सीकारक के रूप में K₂Cr₂O₇ और KMnO₄।"},
+        "rememberForExam": {"en": "Zn, Cd, Hg are not transition metals; Mn shows +2 to +7; Ce⁴⁺, Eu²⁺ and Yb²⁺ owe their stability to f⁰, f⁷ and f¹⁴.", "hi": "Zn, Cd, Hg संक्रमण धातु नहीं; Mn +2 से +7 दर्शाता है; Ce⁴⁺, Eu²⁺ और Yb²⁺ का स्थायित्व f⁰, f⁷ और f¹⁴ के कारण।"}
+      },
+      "equations": ["μ = √(n(n + 2)) BM", "Cr₂O₇²⁻ + 14H⁺ + 6e⁻ → 2Cr³⁺ + 7H₂O"],
+      "relatedConceptIds": ["coordination-compounds", "oxidation-number"],
+      "sources": [{"sourceId": "ncert-12-en", "section": "4.1–4.7"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "coordination-compounds",
+      "type": "concept",
+      "title": {"en": "Coordination compounds: Werner's theory, terms, nomenclature and isomerism", "hi": "उपसहसंयोजन यौगिक: वर्नर सिद्धांत, पद, नामपद्धति और समावयवता"},
+      "sections": {
+        "whatIsIt": {"en": "Coordination compounds contain a central metal atom or ion bonded to a fixed number of ligands (ions or molecules that donate electron pairs) forming a coordination entity.", "hi": "उपसहसंयोजन यौगिकों में एक केंद्रीय धातु परमाणु या आयन निश्चित संख्या में लिगेंडों (इलेक्ट्रॉन युग्म देने वाले आयन या अणु) से बंधकर उपसहसंयोजन सत्ता बनाता है।"},
+        "howItWorks": {"en": "Werner: primary (ionisable) and secondary (non-ionisable, = coordination number) valences. Ligands may be uni-, di- or polydentate (EDTA hexadentate), chelating or ambidentate. IUPAC names list ligands alphabetically before the metal; anions end in -ate. Isomerism may be geometrical, optical, linkage, coordination, ionisation or solvate.", "hi": "वर्नर: प्राथमिक (आयननीय) और द्वितीयक (अनआयननीय, = उपसहसंयोजन संख्या) संयोजकताएँ। लिगेंड एक-, द्वि- या बहुदंतुर (EDTA षट्दंतुर), कीलेटकारी या उभयदंती हो सकते हैं। IUPAC नामों में लिगेंड धातु से पहले वर्णानुक्रम में; ऋणायनों के नाम -ate पर समाप्त। समावयवता ज्यामितीय, प्रकाशिक, बंधनी, उपसहसंयोजन, आयनन या विलायकयोजन हो सकती है।"},
+        "whyImportant": {"en": "Many biological molecules, catalysts, dyes and analytical reagents are coordination compounds.", "hi": "अनेक जैविक अणु, उत्प्रेरक, रंजक और विश्लेषणात्मक अभिकर्मक उपसहसंयोजन यौगिक हैं।"},
+        "realLifeUses": {"en": "Haemoglobin, chlorophyll and vitamin B₁₂; EDTA for water hardness; cisplatin for cancer.", "hi": "हीमोग्लोबिन, क्लोरोफ़िल और विटामिन B₁₂; जल की कठोरता के लिए EDTA; कैंसर के लिए सिसप्लैटिन।"},
+        "rememberForExam": {"en": "Moles of AgCl precipitated = number of Cl⁻ outside the square bracket; tetrahedral complexes show no geometrical isomerism.", "hi": "अवक्षेपित AgCl के मोल = वर्ग कोष्ठक के बाहर Cl⁻ की संख्या; चतुष्फलकीय संकुल ज्यामितीय समावयवता नहीं दर्शाते।"}
+      },
+      "equations": ["[Co(NH₃)₆]Cl₃ → [Co(NH₃)₆]³⁺ + 3Cl⁻"],
+      "relatedConceptIds": ["crystal-field-theory", "transition-elements"],
+      "sources": [{"sourceId": "ncert-12-en", "section": "5.1–5.4, 5.6–5.7"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "crystal-field-theory",
+      "type": "concept",
+      "title": {"en": "Bonding in complexes: valence bond and crystal field theories", "hi": "संकुलों में आबंधन: संयोजकता आबंध और क्रिस्टल क्षेत्र सिद्धांत"},
+      "sections": {
+        "whatIsIt": {"en": "VBT explains complexes through hybridisation of metal orbitals; CFT treats ligands as point charges that split the five metal d orbitals into sets of different energy.", "hi": "VBT धातु कक्षकों के संकरण द्वारा संकुलों को समझाता है; CFT लिगेंडों को बिंदु आवेश मानता है जो धातु के पाँच d कक्षकों को भिन्न ऊर्जा के समुच्चयों में विपाटित करते हैं।"},
+        "howItWorks": {"en": "In an octahedral field d orbitals split into lower t₂g and higher eg by Δ₀. Strong-field ligands (Δ₀ > P) give low-spin complexes, weak-field ligands (Δ₀ < P) high-spin. Δt = (4/9)Δ₀. The spectrochemical series orders ligands by field strength (I⁻ weakest, CO strongest). d–d transitions give complexes their colour.", "hi": "अष्टफलकीय क्षेत्र में d कक्षक Δ₀ द्वारा निम्न t₂g और उच्च eg में विपाटित होते हैं। प्रबल क्षेत्र लिगेंड (Δ₀ > P) निम्न-चक्रण और दुर्बल क्षेत्र लिगेंड (Δ₀ < P) उच्च-चक्रण संकुल देते हैं। Δt = (4/9)Δ₀। स्पेक्ट्रमरासायनिक श्रेणी लिगेंडों को क्षेत्र सामर्थ्य के क्रम में रखती है (I⁻ सबसे दुर्बल, CO सबसे प्रबल)। d–d संक्रमण संकुलों को रंग देते हैं।"},
+        "whyImportant": {"en": "It explains the colour, magnetic behaviour and shape of transition metal complexes.", "hi": "यह संक्रमण धातु संकुलों के रंग, चुंबकीय व्यवहार और आकृति को समझाता है।"},
+        "realLifeUses": {"en": "The colours of ruby and emerald come from Cr³⁺ ions in crystal fields.", "hi": "माणिक्य और पन्ने के रंग क्रिस्टल क्षेत्र में Cr³⁺ आयनों से आते हैं।"},
+        "rememberForExam": {"en": "[Ni(CN)₄]²⁻ is dsp², square planar and diamagnetic; [NiCl₄]²⁻ is sp³, tetrahedral and paramagnetic.", "hi": "[Ni(CN)₄]²⁻ dsp², वर्ग समतली और प्रतिचुंबकीय; [NiCl₄]²⁻ sp³, चतुष्फलकीय और अनुचुंबकीय।"}
+      },
+      "equations": ["Δt = (4/9) Δ₀"],
+      "relatedConceptIds": ["coordination-compounds", "vsepr-and-hybridisation"],
+      "sources": [{"sourceId": "ncert-12-en", "section": "5.5"}],
+      "review": {"status": "sourceChecked"}
+    }
+  ]
+}

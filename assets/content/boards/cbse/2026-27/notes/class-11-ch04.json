@@ -1,0 +1,715 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "note-cbse-11-ch04-t4.1",
+      "targetId": "cbse-11-ch04-t4.1",
+      "covers": [],
+      "definition": {
+        "en": "The Kössel–Lewis approach says atoms combine to attain a stable noble-gas (octet) configuration, either by transferring electrons (ionic bond) or by sharing electron pairs (covalent bond).",
+        "hi": "कॉसेल–लूइस अवधारणा कहती है कि परमाणु उत्कृष्ट गैस (अष्टक) विन्यास पाने के लिए जुड़ते हैं — इलेक्ट्रॉन स्थानांतरण (आयनिक आबंध) से या इलेक्ट्रॉन युग्म साझा करके (सहसंयोजी आबंध)।"
+      },
+      "explanation": {
+        "en": "Lewis symbols show valence electrons as dots around the symbol. In Lewis structures, shared pairs form single, double or triple bonds and the rest are lone pairs. Formal charge = valence electrons − non-bonding electrons − ½ bonding electrons; the structure with the lowest formal charges is preferred (e.g. O₃). Limitations of the octet rule: incomplete octet (BeCl₂, BCl₃, LiCl), odd-electron molecules (NO, NO₂) and expanded octet (PCl₅, SF₆, H₂SO₄); it also cannot explain shapes or bond energies.",
+        "hi": "लूइस प्रतीक संयोजकता इलेक्ट्रॉनों को प्रतीक के चारों ओर बिंदुओं से दिखाते हैं। लूइस संरचनाओं में साझा युग्म एकल, द्वि या त्रि आबंध बनाते हैं और शेष एकाकी युग्म होते हैं। औपचारिक आवेश = संयोजकता इलेक्ट्रॉन − अनाबंधी इलेक्ट्रॉन − ½ आबंधी इलेक्ट्रॉन; न्यूनतम औपचारिक आवेश वाली संरचना श्रेष्ठ (जैसे O₃)। अष्टक नियम की सीमाएँ: अपूर्ण अष्टक (BeCl₂, BCl₃, LiCl), विषम इलेक्ट्रॉन अणु (NO, NO₂) और विस्तारित अष्टक (PCl₅, SF₆, H₂SO₄); यह आकृतियाँ और आबंध ऊर्जाएँ भी नहीं समझा पाता।"
+      },
+      "keyPoints": [
+        {
+          "en": "Only valence electrons take part in bonding.",
+          "hi": "आबंधन में केवल संयोजकता इलेक्ट्रॉन भाग लेते हैं।"
+        },
+        {
+          "en": "Formal charges help choose the most stable Lewis structure; they are not real charges.",
+          "hi": "औपचारिक आवेश सबसे स्थायी लूइस संरचना चुनने में सहायक हैं; ये वास्तविक आवेश नहीं हैं।"
+        }
+      ],
+      "realLife": {
+        "en": "Lewis structures are the first step in predicting how any drug or material molecule behaves.",
+        "hi": "किसी भी दवा या पदार्थ के अणु के व्यवहार का अनुमान लगाने का पहला चरण लूइस संरचना है।"
+      },
+      "examFocus": {
+        "en": "Draw Lewis structures (CO₃²⁻, O₃, HNO₃), calculate formal charges and give exceptions to the octet rule.",
+        "hi": "लूइस संरचनाएँ (CO₃²⁻, O₃, HNO₃) बनाना, औपचारिक आवेश निकालना और अष्टक नियम के अपवाद देना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Forgetting to add electrons for negative ions (or remove for positive ions) when counting total valence electrons.",
+          "hi": "कुल संयोजकता इलेक्ट्रॉन गिनते समय ऋणायन के लिए इलेक्ट्रॉन जोड़ना (या धनायन के लिए घटाना) भूल जाना।"
+        }
+      ],
+      "formulas": [
+        "Formal charge = V − L − ½B"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "covalent-bond"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "4.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Formal charge = V − L − ½B (Valence, Lone, Bonding)\"",
+            "hi": "\"औपचारिक आवेश = V − L − ½B (संयोजकता, एकाकी, आबंधी)\""
+          },
+          "recall": {
+            "en": "Formal charge = valence electrons of the free atom − lone-pair (non-bonding) electrons − half the bonding (shared) electrons.",
+            "hi": "औपचारिक आवेश = मुक्त परमाणु के संयोजकता इलेक्ट्रॉन − एकाकी युग्म (अनाबंधी) इलेक्ट्रॉन − आबंधी (साझा) इलेक्ट्रॉनों का आधा।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Atoms bond to reach a noble-gas octet by transferring or sharing electrons.",
+          "hi": "परमाणु इलेक्ट्रॉनों के स्थानांतरण या साझेदारी से उत्कृष्ट गैस अष्टक पाने हेतु आबंध बनाते हैं।"
+        },
+        "formula": "Formal charge = V − L − ½B",
+        "points": [
+          {
+            "en": "Only valence electrons take part in bonding.",
+            "hi": "आबंधन में केवल संयोजकता इलेक्ट्रॉन भाग लेते हैं।"
+          },
+          {
+            "en": "Octet rule fails for odd-electron, expanded and incomplete octets.",
+            "hi": "विषम-इलेक्ट्रॉन, विस्तारित और अपूर्ण अष्टक में अष्टक नियम विफल।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch04-t4.2",
+      "targetId": "cbse-11-ch04-t4.2",
+      "covers": [],
+      "definition": {
+        "en": "An ionic (electrovalent) bond forms by transfer of electrons from an element of low ionisation enthalpy to one of high negative electron gain enthalpy, the ions being held by electrostatic attraction.",
+        "hi": "आयनिक (वैद्युत संयोजी) आबंध कम आयनन एन्थैल्पी वाले तत्व से अधिक ऋणात्मक इलेक्ट्रॉन लब्धि एन्थैल्पी वाले तत्व को इलेक्ट्रॉन स्थानांतरण से बनता है; आयन स्थिर-वैद्युत आकर्षण से बँधे रहते हैं।"
+      },
+      "explanation": {
+        "en": "Formation of ionic compounds is favoured by low ionisation enthalpy of the metal, negative electron gain enthalpy of the non-metal and, above all, high lattice enthalpy — the energy needed to separate one mole of a solid ionic compound into gaseous ions. Lattice enthalpy of NaCl is 788 kJ mol⁻¹. Ionic solids are crystalline with high melting points.",
+        "hi": "आयनिक यौगिक बनने के अनुकूल हैं: धातु की कम आयनन एन्थैल्पी, अधातु की ऋणात्मक इलेक्ट्रॉन लब्धि एन्थैल्पी और सबसे बढ़कर उच्च जालक एन्थैल्पी — एक मोल ठोस आयनिक यौगिक को गैसीय आयनों में अलग करने के लिए आवश्यक ऊर्जा। NaCl की जालक एन्थैल्पी 788 kJ mol⁻¹ है। आयनिक ठोस क्रिस्टलीय और उच्च गलनांक वाले होते हैं।"
+      },
+      "keyPoints": [
+        {
+          "en": "Lattice energy compensates for the energy needed to form the ions.",
+          "hi": "जालक ऊर्जा आयन बनाने में लगी ऊर्जा की पूर्ति करती है।"
+        }
+      ],
+      "realLife": {
+        "en": "High lattice enthalpy is why table salt is a hard, high-melting solid.",
+        "hi": "उच्च जालक एन्थैल्पी के कारण ही खाने का नमक कठोर, उच्च गलनांक वाला ठोस है।"
+      },
+      "examFocus": {
+        "en": "Factors favouring ionic bond formation; define lattice enthalpy.",
+        "hi": "आयनिक आबंध बनने के अनुकूल कारक; जालक एन्थैल्पी की परिभाषा।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Thinking electron transfer alone releases energy — forming Na⁺ needs energy; it is the lattice energy that makes the process favourable.",
+          "hi": "यह सोचना कि केवल इलेक्ट्रॉन स्थानांतरण से ऊर्जा निकलती है — Na⁺ बनने में ऊर्जा लगती है; जालक ऊर्जा ही प्रक्रम को अनुकूल बनाती है।"
+        }
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": [
+        "ionic-bond"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "4.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "quickRevision": {
+        "oneLine": {
+          "en": "Ionic bond: electron transfer from low-IE atom to high-EGE atom; ions held by electrostatic force.",
+          "hi": "आयनिक आबंध: कम IE वाले परमाणु से अधिक EGE वाले परमाणु को इलेक्ट्रॉन स्थानांतरण; आयन स्थिरवैद्युत बल से जुड़े।"
+        },
+        "points": [
+          {
+            "en": "Lattice enthalpy makes ionic compound formation favourable.",
+            "hi": "जालक एन्थैल्पी आयनिक यौगिक बनना अनुकूल बनाती है।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch04-t4.3",
+      "targetId": "cbse-11-ch04-t4.3",
+      "covers": [],
+      "definition": {
+        "en": "Bond parameters describe a bond: bond length, bond angle, bond enthalpy and bond order. Resonance and polarity (dipole moment) further describe molecules.",
+        "hi": "आबंध प्राचल आबंध का वर्णन करते हैं: आबंध लंबाई, आबंध कोण, आबंध एन्थैल्पी और आबंध कोटि। अनुनाद और ध्रुवता (द्विध्रुव आघूर्ण) अणुओं का और वर्णन करते हैं।"
+      },
+      "explanation": {
+        "en": "Bond order = number of bonds between two atoms; as bond order increases, bond enthalpy increases and bond length decreases (N≡N is shorter and stronger than O=O). When one Lewis structure cannot describe a molecule, it is a resonance hybrid of canonical forms (O₃, CO₃²⁻ — all C–O bonds equal). A covalent bond between atoms of different electronegativity is polar; dipole moment μ = charge × distance (unit debye, D). Net dipole moment depends on shape: CO₂ and BF₃ are zero; H₂O (1.85 D) and NH₃ are polar; NF₃ has a smaller dipole than NH₃. Covalent character of ionic bonds (Fajans' rules) increases with small cation, large anion and high charge.",
+        "hi": "आबंध कोटि = दो परमाणुओं के बीच आबंधों की संख्या; आबंध कोटि बढ़ने पर आबंध एन्थैल्पी बढ़ती और आबंध लंबाई घटती है (N≡N, O=O से छोटा और प्रबल)। जब एक लूइस संरचना अणु को नहीं समझा पाती, तो वह विहित रूपों का अनुनाद संकर होता है (O₃, CO₃²⁻ — सभी C–O आबंध समान)। भिन्न विद्युत-ऋणात्मकता वाले परमाणुओं के बीच सहसंयोजी आबंध ध्रुवी होता है; द्विध्रुव आघूर्ण μ = आवेश × दूरी (मात्रक डिबाई, D)। कुल द्विध्रुव आघूर्ण आकृति पर निर्भर है: CO₂ और BF₃ में शून्य; H₂O (1.85 D) और NH₃ ध्रुवी; NF₃ का द्विध्रुव NH₃ से कम। आयनिक आबंध में सहसंयोजी गुण (फ़ायान्स नियम) छोटे धनायन, बड़े ऋणायन और अधिक आवेश के साथ बढ़ता है।"
+      },
+      "keyPoints": [
+        {
+          "en": "Resonance lowers the energy and stabilises the molecule; canonical forms do not exist separately.",
+          "hi": "अनुनाद ऊर्जा घटाकर अणु को स्थायी बनाता है; विहित रूप अलग से अस्तित्व में नहीं होते।"
+        },
+        {
+          "en": "1 D = 3.33564 × 10⁻³⁰ C m.",
+          "hi": "1 D = 3.33564 × 10⁻³⁰ C m।"
+        }
+      ],
+      "realLife": {
+        "en": "Water's dipole moment makes it an excellent solvent for salts and explains microwave heating.",
+        "hi": "जल का द्विध्रुव आघूर्ण उसे लवणों का उत्कृष्ट विलायक बनाता है और माइक्रोवेव तापन को समझाता है।"
+      },
+      "examFocus": {
+        "en": "Compare bond lengths/enthalpies using bond order; explain resonance; explain why CO₂ is non-polar and NH₃ > NF₃ in dipole moment.",
+        "hi": "आबंध कोटि से आबंध लंबाई/एन्थैल्पी की तुलना; अनुनाद समझाना; CO₂ अध्रुवी क्यों और NH₃ का द्विध्रुव NF₃ से अधिक क्यों।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Saying a molecule with polar bonds must be polar — symmetric molecules (CO₂, BF₃, CCl₄) cancel their bond dipoles.",
+          "hi": "यह कहना कि ध्रुवी आबंध वाला अणु अवश्य ध्रुवी होगा — सममित अणुओं (CO₂, BF₃, CCl₄) में आबंध द्विध्रुव निरस्त हो जाते हैं।"
+        }
+      ],
+      "formulas": [
+        "μ = q × d",
+        "Bond order ↑ ⇒ bond length ↓, bond enthalpy ↑"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "bond-parameters"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "4.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"More bonds, closer and stronger\"",
+            "hi": "\"अधिक आबंध, अधिक पास और अधिक प्रबल\""
+          },
+          "recall": {
+            "en": "As bond order increases (single → double → triple), bond length decreases and bond enthalpy increases: C≡C is shorter and stronger than C=C, which is shorter and stronger than C–C.",
+            "hi": "आबंध कोटि बढ़ने पर (एकल → द्वि → त्रि) आबंध लंबाई घटती है और आबंध एन्थैल्पी बढ़ती है: C≡C, C=C से छोटा और प्रबल है, और C=C, C–C से छोटा और प्रबल है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Bond length, angle, enthalpy and order describe a bond; higher order = shorter, stronger.",
+          "hi": "आबंध लंबाई, कोण, एन्थैल्पी और कोटि आबंध का वर्णन करते हैं; अधिक कोटि = छोटा, प्रबल।"
+        },
+        "formula": "μ = q × d",
+        "points": [
+          {
+            "en": "Resonance hybrid is more stable than any canonical form.",
+            "hi": "अनुनादी संकर किसी भी विहित रूप से अधिक स्थायी।"
+          },
+          {
+            "en": "Symmetric CO₂, BF₃, CH₄ have zero dipole moment.",
+            "hi": "सममित CO₂, BF₃, CH₄ का द्विध्रुव आघूर्ण शून्य।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch04-t4.4",
+      "targetId": "cbse-11-ch04-t4.4",
+      "covers": [],
+      "definition": {
+        "en": "VSEPR theory predicts molecular shapes: electron pairs around the central atom repel each other and arrange themselves as far apart as possible.",
+        "hi": "VSEPR सिद्धांत अणुओं की आकृतियाँ बताता है: केंद्रीय परमाणु के चारों ओर इलेक्ट्रॉन युग्म एक-दूसरे को प्रतिकर्षित करते हैं और यथासंभव दूर व्यवस्थित होते हैं।"
+      },
+      "explanation": {
+        "en": "Repulsion order: lone pair–lone pair > lone pair–bond pair > bond pair–bond pair. With only bond pairs: 2 linear (BeCl₂, 180°), 3 trigonal planar (BF₃, 120°), 4 tetrahedral (CH₄, 109.5°), 5 trigonal bipyramidal (PCl₅), 6 octahedral (SF₆). Lone pairs distort shapes: NH₃ (3 bp + 1 lp) is trigonal pyramidal (107°); H₂O (2 bp + 2 lp) is bent (104.5°); SF₄ see-saw; ClF₃ T-shaped; XeF₂ linear; BrF₅ square pyramidal; XeF₄ square planar.",
+        "hi": "प्रतिकर्षण क्रम: एकाकी युग्म–एकाकी युग्म > एकाकी युग्म–आबंधी युग्म > आबंधी युग्म–आबंधी युग्म। केवल आबंधी युग्म: 2 रैखिक (BeCl₂, 180°), 3 त्रिकोणीय समतलीय (BF₃, 120°), 4 चतुष्फलकीय (CH₄, 109.5°), 5 त्रिकोणीय द्विपिरैमिडी (PCl₅), 6 अष्टफलकीय (SF₆)। एकाकी युग्म आकृतियाँ विकृत करते हैं: NH₃ (3 bp + 1 lp) त्रिकोणीय पिरैमिडी (107°); H₂O (2 bp + 2 lp) बंकित (104.5°); SF₄ सी-सॉ; ClF₃ T-आकार; XeF₂ रैखिक; BrF₅ वर्ग पिरैमिडी; XeF₄ वर्ग समतलीय।"
+      },
+      "keyPoints": [
+        {
+          "en": "A multiple bond is treated as one 'super pair' in VSEPR.",
+          "hi": "VSEPR में बहु-आबंध को एक 'सुपर युग्म' माना जाता है।"
+        },
+        {
+          "en": "More lone pairs → smaller bond angle (CH₄ 109.5° > NH₃ 107° > H₂O 104.5°).",
+          "hi": "अधिक एकाकी युग्म → छोटा आबंध कोण (CH₄ 109.5° > NH₃ 107° > H₂O 104.5°)।"
+        }
+      ],
+      "realLife": {
+        "en": "Molecular shape decides how a drug fits its target protein and why ice floats.",
+        "hi": "अणु की आकृति तय करती है कि दवा अपने लक्ष्य प्रोटीन में कैसे बैठेगी और बर्फ़ क्यों तैरती है।"
+      },
+      "examFocus": {
+        "en": "Predict shapes and bond angles of given molecules; explain why H₂O's angle is smaller than NH₃'s.",
+        "hi": "दिए गए अणुओं की आकृति और आबंध कोण बताना; H₂O का कोण NH₃ से छोटा क्यों।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Calling NH₃ tetrahedral — its electron pairs are tetrahedral but the molecular shape (atoms only) is trigonal pyramidal.",
+          "hi": "NH₃ को चतुष्फलकीय कहना — इलेक्ट्रॉन युग्म चतुष्फलकीय हैं पर आण्विक आकृति (केवल परमाणु) त्रिकोणीय पिरैमिडी है।"
+        }
+      ],
+      "formulas": [
+        "lp–lp > lp–bp > bp–bp"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "vsepr-and-hybridisation"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "4.4"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Lone pairs Love Lots of space\"",
+            "hi": "\"एकाकी युग्मों को सबसे अधिक जगह चाहिए\""
+          },
+          "recall": {
+            "en": "Lone pairs occupy more space than bond pairs, so each lone pair squeezes the bond angles: 109.5° → 107° → 104.5°.",
+            "hi": "एकाकी युग्म आबंध युग्मों से अधिक जगह घेरते हैं, इसलिए हर एकाकी युग्म आबंध कोण घटाता है: 109.5° → 107° → 104.5°।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "VSEPR: electron pairs repel and spread out; lone pairs repel most.",
+          "hi": "VSEPR: इलेक्ट्रॉन युग्म एक-दूसरे को प्रतिकर्षित कर दूर फैलते हैं; एकाकी युग्म सबसे अधिक प्रतिकर्षित करते हैं।"
+        },
+        "formula": "lp–lp > lp–bp > bp–bp",
+        "points": [
+          {
+            "en": "CH₄ 109.5° > NH₃ 107° > H₂O 104.5°.",
+            "hi": "CH₄ 109.5° > NH₃ 107° > H₂O 104.5°।"
+          },
+          {
+            "en": "A multiple bond counts as one electron domain.",
+            "hi": "बहु-आबंध एक इलेक्ट्रॉन डोमेन गिना जाता है।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch04-t4.5",
+      "targetId": "cbse-11-ch04-t4.5",
+      "covers": [],
+      "definition": {
+        "en": "Valence bond theory: a covalent bond forms by the overlap of half-filled atomic orbitals of two atoms; greater overlap gives a stronger bond.",
+        "hi": "संयोजकता आबंध सिद्धांत: सहसंयोजी आबंध दो परमाणुओं के अर्धपूरित परमाणु कक्षकों के अतिव्यापन से बनता है; अधिक अतिव्यापन = प्रबल आबंध।"
+      },
+      "explanation": {
+        "en": "As two H atoms approach, attractive forces lower the energy until a minimum at the bond length (74 pm); the energy released is the bond enthalpy (435.8 kJ mol⁻¹). Overlap can be positive, negative or zero. Head-on (axial) overlap gives a sigma (σ) bond; sideways overlap of parallel p orbitals gives a pi (π) bond. σ bonds are stronger than π bonds; a double bond has one σ + one π, a triple bond one σ + two π.",
+        "hi": "दो H परमाणु पास आने पर आकर्षण बल ऊर्जा घटाते हैं, आबंध लंबाई (74 pm) पर न्यूनतम ऊर्जा होती है; मुक्त ऊर्जा आबंध एन्थैल्पी (435.8 kJ mol⁻¹) है। अतिव्यापन धनात्मक, ऋणात्मक या शून्य हो सकता है। सिरे-से-सिरे (अक्षीय) अतिव्यापन से सिग्मा (σ) आबंध; समांतर p कक्षकों के पार्श्व अतिव्यापन से पाई (π) आबंध। σ आबंध π से प्रबल होते हैं; द्विआबंध में एक σ + एक π, त्रिआबंध में एक σ + दो π।"
+      },
+      "keyPoints": [
+        {
+          "en": "There is free rotation about a σ bond but not about a π bond.",
+          "hi": "σ आबंध के चारों ओर मुक्त घूर्णन होता है, π आबंध के चारों ओर नहीं।"
+        }
+      ],
+      "realLife": {
+        "en": "Restricted rotation about C=C bonds is why cis and trans forms of a compound can have different properties.",
+        "hi": "C=C आबंधों के चारों ओर सीमित घूर्णन के कारण यौगिक के समपक्ष और विपक्ष रूपों के गुण भिन्न हो सकते हैं।"
+      },
+      "examFocus": {
+        "en": "Explain H₂ formation with an energy curve; distinguish σ and π bonds; count σ and π bonds in molecules (C₂H₄: 5σ, 1π).",
+        "hi": "ऊर्जा वक्र से H₂ बनना समझाना; σ और π आबंध में अंतर; अणुओं में σ और π आबंध गिनना (C₂H₄: 5σ, 1π)।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Counting a double bond as two σ bonds.",
+          "hi": "द्विआबंध को दो σ आबंध गिनना।"
+        }
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": [
+        "vsepr-and-hybridisation"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "4.5"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"σ spins, π pins\"",
+            "hi": "\"σ घूमता है, π जकड़ता है\""
+          },
+          "recall": {
+            "en": "Atoms can rotate freely about a σ (head-on overlap) bond, but a π bond (sideways overlap) locks them in place, so there is no free rotation about a double or triple bond.",
+            "hi": "σ आबंध (सीधा अतिव्यापन) के चारों ओर परमाणु स्वतंत्र रूप से घूम सकते हैं, पर π आबंध (पार्श्व अतिव्यापन) उन्हें जकड़ देता है, इसलिए द्वि या त्रि आबंध के चारों ओर मुक्त घूर्णन नहीं होता।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "VB theory: covalent bonds form by overlap of half-filled orbitals.",
+          "hi": "VB सिद्धांत: अर्धपूरित कक्षकों के अतिव्यापन से सहसंयोजक आबंध बनते हैं।"
+        },
+        "points": [
+          {
+            "en": "σ bond: head-on overlap (strong); π bond: sideways overlap (weaker).",
+            "hi": "σ आबंध: सम्मुख अतिव्यापन (प्रबल); π आबंध: पार्श्व अतिव्यापन (दुर्बल)।"
+          },
+          {
+            "en": "Free rotation about σ, not about π.",
+            "hi": "σ के परितः मुक्त घूर्णन, π के परितः नहीं।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch04-t4.6",
+      "targetId": "cbse-11-ch04-t4.6",
+      "covers": [],
+      "definition": {
+        "en": "Hybridisation is the intermixing of atomic orbitals of slightly different energies on the same atom to form an equal number of identical hybrid orbitals.",
+        "hi": "संकरण एक ही परमाणु के थोड़ी भिन्न ऊर्जा वाले परमाणु कक्षकों का आपस में मिलकर उतनी ही संख्या में समान संकर कक्षक बनाना है।"
+      },
+      "explanation": {
+        "en": "sp: linear, 180° (BeCl₂, C₂H₂); sp²: trigonal planar, 120° (BCl₃, C₂H₄); sp³: tetrahedral, 109.5° (CH₄; NH₃ and H₂O with lone pairs in hybrid orbitals); sp³d: trigonal bipyramidal (PCl₅ — axial bonds longer than equatorial); sp³d²: octahedral (SF₆). Hybrid orbitals form stronger σ bonds than pure orbitals and explain the equal bonds in CH₄ that simple overlap cannot.",
+        "hi": "sp: रैखिक, 180° (BeCl₂, C₂H₂); sp²: त्रिकोणीय समतलीय, 120° (BCl₃, C₂H₄); sp³: चतुष्फलकीय, 109.5° (CH₄; NH₃ और H₂O जिनके एकाकी युग्म संकर कक्षकों में); sp³d: त्रिकोणीय द्विपिरैमिडी (PCl₅ — अक्षीय आबंध विषुवतीय से लंबे); sp³d²: अष्टफलकीय (SF₆)। संकर कक्षक शुद्ध कक्षकों से प्रबल σ आबंध बनाते हैं और CH₄ के समान आबंधों को समझाते हैं जो साधारण अतिव्यापन से नहीं समझ आते।"
+      },
+      "keyPoints": [
+        {
+          "en": "Number of hybrid orbitals = number of atomic orbitals mixed.",
+          "hi": "संकर कक्षकों की संख्या = मिश्रित परमाणु कक्षकों की संख्या।"
+        },
+        {
+          "en": "π bonds are formed by unhybridised p orbitals.",
+          "hi": "π आबंध असंकरित p कक्षकों से बनते हैं।"
+        }
+      ],
+      "realLife": {
+        "en": "sp² carbon in graphite conducts electricity; sp³ carbon in diamond makes it the hardest natural substance.",
+        "hi": "ग्रेफ़ाइट का sp² कार्बन विद्युत चालक है; हीरे का sp³ कार्बन उसे सबसे कठोर प्राकृतिक पदार्थ बनाता है।"
+      },
+      "examFocus": {
+        "en": "State hybridisation and shape of given molecules; explain why PCl₅'s axial bonds are longer.",
+        "hi": "दिए गए अणुओं का संकरण और आकृति बताना; PCl₅ के अक्षीय आबंध लंबे क्यों हैं।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Using hybridisation to explain bonding in molecules like H₂ where no hybridisation is needed.",
+          "hi": "H₂ जैसे अणुओं में संकरण मानना जहाँ उसकी आवश्यकता नहीं।"
+        }
+      ],
+      "formulas": [
+        "sp 180°, sp² 120°, sp³ 109.5°"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "vsepr-and-hybridisation"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "4.6"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Count the domains: 2-3-4-5-6 = sp, sp², sp³, sp³d, sp³d²\"",
+            "hi": "\"डोमेन गिनो: 2-3-4-5-6 = sp, sp², sp³, sp³d, sp³d²\""
+          },
+          "recall": {
+            "en": "Add σ bonds and lone pairs on the central atom; that number fixes the hybridisation.",
+            "hi": "केंद्रीय परमाणु पर σ आबंध और एकाकी युग्म जोड़ें; वही संख्या संकरण तय करती है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Hybridisation mixes orbitals of one atom into equivalent hybrid orbitals.",
+          "hi": "संकरण एक परमाणु के कक्षकों को मिलाकर समतुल्य संकर कक्षक बनाता है।"
+        },
+        "formula": "sp 180°, sp² 120°, sp³ 109.5°",
+        "points": [
+          {
+            "en": "sp³d: trigonal bipyramidal (PCl₅); sp³d²: octahedral (SF₆).",
+            "hi": "sp³d: त्रिकोणीय द्विपिरामिडी (PCl₅); sp³d²: अष्टफलकीय (SF₆)।"
+          },
+          {
+            "en": "Number of hybrid orbitals = number of orbitals mixed.",
+            "hi": "संकर कक्षकों की संख्या = मिश्रित कक्षकों की संख्या।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch04-t4.7",
+      "targetId": "cbse-11-ch04-t4.7",
+      "covers": [],
+      "definition": {
+        "en": "Molecular orbital theory: atomic orbitals combine (LCAO) to form molecular orbitals spread over the whole molecule — lower-energy bonding MOs and higher-energy antibonding MOs.",
+        "hi": "आण्विक कक्षक सिद्धांत: परमाणु कक्षक मिलकर (LCAO) पूरे अणु पर फैले आण्विक कक्षक बनाते हैं — कम ऊर्जा के आबंधी MO और अधिक ऊर्जा के प्रतिआबंधी MO।"
+      },
+      "explanation": {
+        "en": "Combining atomic orbitals must have similar energy, the same symmetry about the molecular axis and good overlap. Electrons fill MOs by Aufbau, Pauli and Hund's rules. Bond order = ½(N_b − N_a); positive bond order means a stable molecule. Higher bond order → shorter, stronger bond. Unpaired electrons make a molecule paramagnetic.",
+        "hi": "मिलने वाले परमाणु कक्षकों की ऊर्जा समान, आण्विक अक्ष के सापेक्ष समान सममिति और अच्छा अतिव्यापन होना चाहिए। इलेक्ट्रॉन ऑफ़बाऊ, पाउली और हुंड नियमों से MO भरते हैं। आबंध कोटि = ½(N_b − N_a); धनात्मक आबंध कोटि = स्थायी अणु। अधिक आबंध कोटि → छोटा, प्रबल आबंध। अयुग्मित इलेक्ट्रॉन अणु को अनुचुंबकीय बनाते हैं।"
+      },
+      "keyPoints": [
+        {
+          "en": "MO energy order for Li₂ to N₂: σ1s, σ*1s, σ2s, σ*2s, (π2pₓ = π2p_y), σ2p_z, (π*2pₓ = π*2p_y), σ*2p_z; for O₂ and F₂, σ2p_z lies below π2p.",
+          "hi": "Li₂ से N₂ तक MO ऊर्जा क्रम: σ1s, σ*1s, σ2s, σ*2s, (π2pₓ = π2p_y), σ2p_z, (π*2pₓ = π*2p_y), σ*2p_z; O₂ और F₂ में σ2p_z, π2p से नीचे।"
+        }
+      ],
+      "realLife": {
+        "en": "MO theory explains why liquid oxygen sticks to a magnet, which simple Lewis structures cannot.",
+        "hi": "MO सिद्धांत समझाता है कि द्रव ऑक्सीजन चुंबक से क्यों चिपकती है, जो साधारण लूइस संरचनाएँ नहीं समझा पातीं।"
+      },
+      "examFocus": {
+        "en": "Calculate bond order and predict magnetic behaviour and stability of diatomic species and ions.",
+        "hi": "द्विपरमाणुक स्पीशीज़ और आयनों की आबंध कोटि, चुंबकीय व्यवहार और स्थायित्व ज्ञात करना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Using the O₂ energy order for N₂ (or vice versa).",
+          "hi": "N₂ के लिए O₂ का ऊर्जा क्रम (या उलटा) लेना।"
+        }
+      ],
+      "formulas": [
+        "Bond order = ½(N_b − N_a)"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "molecular-orbital-theory"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "4.7"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Up to N₂, π comes first; from O₂, σ comes first\"",
+            "hi": "\"N₂ तक π पहले; O₂ से σ पहले\""
+          },
+          "recall": {
+            "en": "For Li₂ to N₂ the π2p orbitals lie below σ2p_z; for O₂ and F₂, σ2p_z lies below π2p.",
+            "hi": "Li₂ से N₂ तक π2p कक्षक σ2p_z से नीचे होते हैं; O₂ और F₂ में σ2p_z, π2p से नीचे होता है।"
+          }
+        },
+        {
+          "trick": {
+            "en": "\"Bond order = (Bonding − Antibonding) ÷ 2\"",
+            "hi": "\"आबंध कोटि = (आबंधी − प्रतिआबंधी) ÷ 2\""
+          },
+          "recall": {
+            "en": "Bond order = ½(N_b − N_a). Zero or negative bond order means the molecule is not stable; a higher bond order means a shorter, stronger bond.",
+            "hi": "आबंध कोटि = ½(N_b − N_a)। शून्य या ऋणात्मक आबंध कोटि का अर्थ है कि अणु स्थायी नहीं है; अधिक आबंध कोटि का अर्थ है छोटा और प्रबल आबंध।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "MO theory: AOs combine (LCAO) into bonding and antibonding MOs over the whole molecule.",
+          "hi": "MO सिद्धांत: AO संयोजित होकर (LCAO) पूरे अणु पर बंधी और प्रतिबंधी MO बनाते हैं।"
+        },
+        "formula": "Bond order = ½(N_b − N_a)",
+        "points": [
+          {
+            "en": "Bond order > 0 → molecule exists.",
+            "hi": "आबंध कोटि > 0 → अणु का अस्तित्व।"
+          },
+          {
+            "en": "Up to N₂: π2p below σ2p; O₂, F₂: σ2p below π2p.",
+            "hi": "N₂ तक: π2p, σ2p से नीचे; O₂, F₂: σ2p, π2p से नीचे।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch04-t4.8",
+      "targetId": "cbse-11-ch04-t4.8",
+      "covers": [],
+      "definition": {
+        "en": "MO configurations of H₂, He₂, Li₂, C₂ and O₂ explain their existence, bond order and magnetic behaviour.",
+        "hi": "H₂, He₂, Li₂, C₂ और O₂ के MO विन्यास उनके अस्तित्व, आबंध कोटि और चुंबकीय व्यवहार को समझाते हैं।"
+      },
+      "explanation": {
+        "en": "H₂: (σ1s)², bond order 1, diamagnetic. He₂: (σ1s)²(σ*1s)², bond order 0 — does not exist. Li₂: bond order 1. C₂: bond order 2, diamagnetic (both bonds π). O₂: KK(σ2s)²(σ*2s)²(σ2p_z)²(π2p)⁴(π*2p)², bond order 2, two unpaired electrons — paramagnetic. N₂ has bond order 3.",
+        "hi": "H₂: (σ1s)², आबंध कोटि 1, प्रतिचुंबकीय। He₂: (σ1s)²(σ*1s)², आबंध कोटि 0 — अस्तित्व नहीं। Li₂: आबंध कोटि 1। C₂: आबंध कोटि 2, प्रतिचुंबकीय (दोनों आबंध π)। O₂: KK(σ2s)²(σ*2s)²(σ2p_z)²(π2p)⁴(π*2p)², आबंध कोटि 2, दो अयुग्मित इलेक्ट्रॉन — अनुचुंबकीय। N₂ की आबंध कोटि 3।"
+      },
+      "keyPoints": [
+        {
+          "en": "O₂⁺ (2.5) > O₂ (2) > O₂⁻ (1.5) > O₂²⁻ (1) in bond order and stability.",
+          "hi": "आबंध कोटि और स्थायित्व: O₂⁺ (2.5) > O₂ (2) > O₂⁻ (1.5) > O₂²⁻ (1)।"
+        }
+      ],
+      "realLife": {
+        "en": "The paramagnetism of oxygen is used in oxygen analysers in hospitals and industry.",
+        "hi": "ऑक्सीजन का अनुचुंबकत्व अस्पतालों और उद्योग में ऑक्सीजन विश्लेषकों में प्रयुक्त होता है।"
+      },
+      "examFocus": {
+        "en": "Write MO configurations and compare bond order, bond length and magnetic nature of O₂ and its ions.",
+        "hi": "MO विन्यास लिखना; O₂ और उसके आयनों की आबंध कोटि, लंबाई और चुंबकीय प्रकृति की तुलना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Predicting O₂ to be diamagnetic from its Lewis structure — MO theory shows two unpaired electrons.",
+          "hi": "लूइस संरचना से O₂ को प्रतिचुंबकीय मानना — MO सिद्धांत दो अयुग्मित इलेक्ट्रॉन दिखाता है।"
+        }
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": [
+        "molecular-orbital-theory"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "4.8"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"O₂⁺ > O₂ > O₂⁻ > O₂²⁻: add electrons, lose bond order\"",
+            "hi": "\"O₂⁺ > O₂ > O₂⁻ > O₂²⁻: इलेक्ट्रॉन जोड़ो, आबंध कोटि घटाओ\""
+          },
+          "recall": {
+            "en": "Bond orders 2.5, 2, 1.5, 1 — each extra electron goes into an antibonding π* orbital.",
+            "hi": "आबंध कोटियाँ 2.5, 2, 1.5, 1 — हर अतिरिक्त इलेक्ट्रॉन प्रतिबंधी π* कक्षक में जाता है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "MO configurations give bond order and magnetism of H₂, He₂, Li₂, C₂, O₂.",
+          "hi": "MO विन्यास H₂, He₂, Li₂, C₂, O₂ की आबंध कोटि और चुंबकत्व बताते हैं।"
+        },
+        "points": [
+          {
+            "en": "He₂ bond order 0 → does not exist.",
+            "hi": "He₂ आबंध कोटि 0 → अस्तित्व नहीं।"
+          },
+          {
+            "en": "O₂ is paramagnetic (two unpaired π* electrons).",
+            "hi": "O₂ अनुचुंबकीय है (दो अयुग्मित π* इलेक्ट्रॉन)।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch04-t4.9",
+      "targetId": "cbse-11-ch04-t4.9",
+      "covers": [],
+      "definition": {
+        "en": "A hydrogen bond is the attractive force between a hydrogen atom bonded to a highly electronegative atom (F, O, N) and another electronegative atom.",
+        "hi": "हाइड्रोजन आबंध किसी अत्यधिक विद्युत-ऋणात्मक परमाणु (F, O, N) से जुड़े हाइड्रोजन परमाणु और दूसरे विद्युत-ऋणात्मक परमाणु के बीच का आकर्षण बल है।"
+      },
+      "explanation": {
+        "en": "Intermolecular hydrogen bonds join different molecules (HF, H₂O, alcohols) and raise boiling points and solubility. Intramolecular hydrogen bonds form within one molecule (o-nitrophenol), lowering its boiling point compared with the para isomer. Hydrogen bonds are much weaker than covalent bonds but strongly affect physical properties.",
+        "hi": "अंतराआण्विक हाइड्रोजन आबंध भिन्न अणुओं को जोड़ते हैं (HF, H₂O, ऐल्कोहॉल) और क्वथनांक तथा विलेयता बढ़ाते हैं। अंतःआण्विक हाइड्रोजन आबंध एक ही अणु के भीतर बनते हैं (o-नाइट्रोफ़ीनॉल), जिससे उसका क्वथनांक पैरा समावयव से कम होता है। हाइड्रोजन आबंध सहसंयोजी आबंधों से बहुत दुर्बल हैं पर भौतिक गुणों को अत्यधिक प्रभावित करते हैं।"
+      },
+      "keyPoints": [
+        {
+          "en": "H₂O is a liquid while H₂S is a gas because of hydrogen bonding.",
+          "hi": "हाइड्रोजन आबंध के कारण H₂O द्रव है जबकि H₂S गैस।"
+        }
+      ],
+      "realLife": {
+        "en": "Hydrogen bonds hold the two strands of DNA together and give ice its open structure.",
+        "hi": "हाइड्रोजन आबंध DNA के दोनों रज्जुकों को जोड़े रखते हैं और बर्फ़ को खुली संरचना देते हैं।"
+      },
+      "examFocus": {
+        "en": "Distinguish inter- and intramolecular hydrogen bonds with examples; explain boiling-point anomalies.",
+        "hi": "उदाहरण सहित अंतरा- और अंतःआण्विक हाइड्रोजन आबंध में अंतर; क्वथनांक की असामान्यताएँ समझाना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Calling the O–H bond inside water a hydrogen bond — that is a covalent bond; the hydrogen bond is between molecules.",
+          "hi": "जल के भीतर O–H आबंध को हाइड्रोजन आबंध कहना — वह सहसंयोजी आबंध है; हाइड्रोजन आबंध अणुओं के बीच है।"
+        }
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": [
+        "bond-parameters"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "4.9"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"H-bonds need a FON partner\"",
+            "hi": "\"H-आबंध को FON साथी चाहिए\""
+          },
+          "recall": {
+            "en": "Hydrogen bonding occurs only when H is bonded to F, O or N.",
+            "hi": "हाइड्रोजन आबंधन तभी होता है जब H, F, O या N से जुड़ा हो।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Hydrogen bond: H on F, O or N attracted to another F, O or N.",
+          "hi": "हाइड्रोजन आबंध: F, O या N से जुड़े H का अन्य F, O या N से आकर्षण।"
+        },
+        "points": [
+          {
+            "en": "Intermolecular H-bonds raise boiling points (H₂O liquid, H₂S gas).",
+            "hi": "अंतराअणुक H-आबंध क्वथनांक बढ़ाते हैं (H₂O द्रव, H₂S गैस)।"
+          },
+          {
+            "en": "Intramolecular H-bond in o-nitrophenol lowers its b.p.",
+            "hi": "o-नाइट्रोफ़ीनॉल में अंतःअणुक H-आबंध क्वथनांक घटाता है।"
+          }
+        ]
+      }
+    }
+  ]
+}

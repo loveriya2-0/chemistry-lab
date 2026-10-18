@@ -1,0 +1,425 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "note-cbse-12-ch06-t6.1",
+      "targetId": "cbse-12-ch06-t6.1",
+      "covers": [],
+      "definition": {
+        "en": "Haloalkanes have a halogen bonded to an sp³ carbon of an alkyl group; haloarenes have a halogen bonded to an sp² carbon of an aromatic ring. They are classified as mono-, di- or polyhalogen compounds and by the type of carbon bearing the halogen.",
+        "hi": "हैलोऐल्केनों में हैलोजन ऐल्किल समूह के sp³ कार्बन से बंधा होता है; हैलोऐरीनों में हैलोजन ऐरोमैटिक वलय के sp² कार्बन से बंधा होता है। इन्हें मोनो-, डाई- या पॉलिहैलोजन यौगिकों में तथा हैलोजन वाले कार्बन के प्रकार के आधार पर वर्गीकृत किया जाता है।"
+      },
+      "explanation": {
+        "en": "Compounds with an sp³ C–X bond include alkyl halides (CₙH₂ₙ₊₁X; primary, secondary or tertiary by the carbon bearing X), allylic halides (X on the sp³ carbon next to C=C) and benzylic halides (X on the sp³ carbon next to an aromatic ring). Compounds with an sp² C–X bond include vinylic halides (X on a C=C carbon) and aryl halides (X directly on the ring).",
+        "hi": "sp³ C–X आबंध वाले यौगिकों में ऐल्किल हैलाइड (CₙH₂ₙ₊₁X; X वाले कार्बन के अनुसार प्राथमिक, द्वितीयक या तृतीयक), ऐलिलिक हैलाइड (C=C के बगल वाले sp³ कार्बन पर X) और बेन्ज़िलिक हैलाइड (ऐरोमैटिक वलय के बगल वाले sp³ कार्बन पर X) आते हैं। sp² C–X आबंध वाले यौगिकों में वाइनिलिक हैलाइड (C=C के कार्बन पर X) और ऐरिल हैलाइड (सीधे वलय पर X) आते हैं।"
+      },
+      "keyPoints": [
+        {"en": "1°, 2°, 3° depends on whether the carbon holding X is attached to one, two or three other carbons.", "hi": "1°, 2°, 3° इस पर निर्भर है कि X वाला कार्बन एक, दो या तीन अन्य कार्बनों से जुड़ा है।"},
+        {"en": "Chloramphenicol (typhoid), thyroxine (iodine hormone), chloroquine (malaria) and halothane (anaesthetic) are organohalogen compounds.", "hi": "क्लोरैम्फ़ेनिकॉल (टाइफ़ॉइड), थायरॉक्सिन (आयोडीन हॉर्मोन), क्लोरोक्वीन (मलेरिया) और हैलोथेन (निश्चेतक) कार्बहैलोजन यौगिक हैं।"}
+      ],
+      "realLife": {
+        "en": "Halogen compounds are used as solvents, in medicines and as starting materials, but many persist in the environment because soil bacteria cannot break them down.",
+        "hi": "हैलोजन यौगिक विलायक, औषधियों और प्रारंभिक पदार्थों के रूप में प्रयुक्त होते हैं, पर अनेक पर्यावरण में बने रहते हैं क्योंकि मृदा जीवाणु उन्हें नहीं तोड़ पाते।"
+      },
+      "examFocus": {
+        "en": "Classify given halides as 1°/2°/3° alkyl, allylic, benzylic, vinylic or aryl.",
+        "hi": "दिए गए हैलाइडों को 1°/2°/3° ऐल्किल, ऐलिलिक, बेन्ज़िलिक, वाइनिलिक या ऐरिल में वर्गीकृत कीजिए।"
+      },
+      "commonMistakes": [
+        {"en": "Confusing allylic (X on sp³ carbon next to C=C) with vinylic (X on the sp² C=C carbon itself).", "hi": "ऐलिलिक (C=C के बगल वाले sp³ कार्बन पर X) को वाइनिलिक (स्वयं C=C के sp² कार्बन पर X) समझ लेना।"}
+      ],
+      "formulas": ["CₙH₂ₙ₊₁X"],
+      "practicalIds": [],
+      "conceptIds": ["nucleophilic-substitution"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "6.1"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "'Allylic is Next to the double bond; Vinylic is ON it'", "hi": "'ऐलिलिक द्विआबंध के बगल में; वाइनिलिक उसी पर'"},
+          "recall": {"en": "Allylic halide: X on the sp³ carbon next to C=C. Vinylic halide: X on the sp² carbon of C=C.", "hi": "ऐलिलिक हैलाइड: C=C के बगल वाले sp³ कार्बन पर X। वाइनिलिक हैलाइड: C=C के sp² कार्बन पर X।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Haloalkane: X on sp³ C; haloarene: X on aromatic sp² C.", "hi": "हैलोऐल्केन: sp³ C पर X; हैलोऐरीन: ऐरोमैटिक sp² C पर X।"},
+        "points": [
+          {"en": "sp³ C–X: alkyl, allylic, benzylic; sp² C–X: vinylic, aryl.", "hi": "sp³ C–X: ऐल्किल, ऐलिलिक, बेन्ज़िलिक; sp² C–X: वाइनिलिक, ऐरिल।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch06-t6.2",
+      "targetId": "cbse-12-ch06-t6.2",
+      "covers": [],
+      "definition": {
+        "en": "Common names of alkyl halides are 'alkyl group + halide' (ethyl chloride); IUPAC names treat them as halo-substituted hydrocarbons (chloroethane).",
+        "hi": "ऐल्किल हैलाइडों के सामान्य नाम 'ऐल्किल समूह + हैलाइड' होते हैं (एथिल क्लोराइड); IUPAC नामों में इन्हें हैलो-प्रतिस्थापित हाइड्रोकार्बन माना जाता है (क्लोरोएथेन)।"
+      },
+      "explanation": {
+        "en": "For dihalobenzenes, the common system uses o-, m-, p- while IUPAC uses 1,2-, 1,3-, 1,4-. Dihalides with both halogens on the same carbon are geminal (gem-) and are called alkylidene halides in common names; with halogens on adjacent carbons they are vicinal (vic-) and called alkylene dihalides. In IUPAC both are dihaloalkanes, e.g. CH₃CHCl₂ is 1,1-dichloroethane (ethylidene chloride) and ClCH₂CH₂Cl is 1,2-dichloroethane (ethylene dichloride).",
+        "hi": "डाइहैलोबेन्ज़ीनों के लिए सामान्य पद्धति में o-, m-, p- और IUPAC में 1,2-, 1,3-, 1,4- प्रयुक्त होते हैं। जिन डाइहैलाइडों में दोनों हैलोजन एक ही कार्बन पर हों वे जेमिनल (gem-) हैं और सामान्य नाम में ऐल्किलिडीन हैलाइड कहलाते हैं; जिनमें हैलोजन सटे कार्बनों पर हों वे विसिनल (vic-) हैं और ऐल्किलीन डाइहैलाइड कहलाते हैं। IUPAC में दोनों डाइहैलोऐल्केन हैं, जैसे CH₃CHCl₂ 1,1-डाइक्लोरोएथेन (एथिलिडीन क्लोराइड) और ClCH₂CH₂Cl 1,2-डाइक्लोरोएथेन (एथिलीन डाइक्लोराइड) है।"
+      },
+      "keyPoints": [
+        {"en": "(CH₃)₃CBr: common name tert-butyl bromide; IUPAC name 2-bromo-2-methylpropane.", "hi": "(CH₃)₃CBr: सामान्य नाम tert-ब्यूटिल ब्रोमाइड; IUPAC नाम 2-ब्रोमो-2-मेथिलप्रोपेन।"},
+        {"en": "CH₂=CHCl is chloroethene (vinyl chloride); CH₂=CHCH₂Br is 3-bromopropene (allyl bromide).", "hi": "CH₂=CHCl क्लोरोएथीन (वाइनिल क्लोराइड) है; CH₂=CHCH₂Br 3-ब्रोमोप्रोपीन (ऐलिल ब्रोमाइड) है।"},
+        {"en": "C₅H₁₁Br has eight structural isomers (bromides of pentane, 2-methylbutane and 2,2-dimethylpropane).", "hi": "C₅H₁₁Br के आठ संरचनात्मक समावयवी हैं (पेन्टेन, 2-मेथिलब्यूटेन और 2,2-डाइमेथिलप्रोपेन के ब्रोमाइड)।"}
+      ],
+      "realLife": {
+        "en": "Correct names on solvent and drug labels (e.g. dichloromethane, 1,1,1-trichloroethane) prevent dangerous mix-ups.",
+        "hi": "विलायक और औषधि के लेबलों पर सही नाम (जैसे डाइक्लोरोमेथेन, 1,1,1-ट्राइक्लोरोएथेन) ख़तरनाक भ्रम से बचाते हैं।"
+      },
+      "examFocus": {
+        "en": "Write IUPAC names and structures of halides; identify gem and vic dihalides.",
+        "hi": "हैलाइडों के IUPAC नाम और संरचनाएँ लिखिए; gem और vic डाइहैलाइड पहचानिए।"
+      },
+      "commonMistakes": [
+        {"en": "Numbering from the wrong end — the chain is numbered to give the substituents the lowest locants.", "hi": "ग़लत सिरे से क्रमांकन — शृंखला को इस प्रकार क्रमांकित करते हैं कि प्रतिस्थापियों को न्यूनतम स्थान-संख्या मिले।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["nucleophilic-substitution"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "6.2"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "'GEMini = twins on one carbon; VICinal = neighbours'", "hi": "'जेमिनल = एक कार्बन पर जुड़वाँ; विसिनल = पड़ोसी'"},
+          "recall": {"en": "gem-dihalide: both X on the same carbon (alkylidene halide); vic-dihalide: X on adjacent carbons (alkylene dihalide).", "hi": "gem-डाइहैलाइड: दोनों X एक ही कार्बन पर (ऐल्किलिडीन हैलाइड); vic-डाइहैलाइड: X सटे कार्बनों पर (ऐल्किलीन डाइहैलाइड)।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "IUPAC: haloalkane names (chloroethane); common: alkyl halide (ethyl chloride).", "hi": "IUPAC: हैलोऐल्केन नाम (क्लोरोएथेन); सामान्य: ऐल्किल हैलाइड (एथिल क्लोराइड)।"},
+        "points": [
+          {"en": "gem = same carbon; vic = adjacent carbons.", "hi": "gem = एक ही कार्बन; vic = सटे कार्बन।"},
+          {"en": "o/m/p in common names = 1,2/1,3/1,4 in IUPAC.", "hi": "सामान्य नामों के o/m/p = IUPAC में 1,2/1,3/1,4।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch06-t6.3",
+      "targetId": "cbse-12-ch06-t6.3",
+      "covers": [],
+      "definition": {
+        "en": "The C–X bond is polar: halogen is more electronegative, so carbon carries a partial positive charge (δ+) and halogen a partial negative charge (δ−).",
+        "hi": "C–X आबंध ध्रुवीय है: हैलोजन अधिक विद्युत-ऋणात्मक है, इसलिए कार्बन पर आंशिक धनावेश (δ+) और हैलोजन पर आंशिक ऋणावेश (δ−) होता है।"
+      },
+      "explanation": {
+        "en": "Down the group the halogen atom becomes larger, so the C–X bond length increases from C–F to C–I and the bond enthalpy decreases. The δ+ carbon is the site attacked by nucleophiles, which is why haloalkanes undergo nucleophilic substitution.",
+        "hi": "वर्ग में नीचे जाने पर हैलोजन परमाणु बड़ा होता है, इसलिए C–X आबंध लंबाई C–F से C–I तक बढ़ती है और आबंध एन्थैल्पी घटती है। δ+ कार्बन पर नाभिकस्नेही आक्रमण करते हैं, इसीलिए हैलोऐल्केन नाभिकस्नेही प्रतिस्थापन करते हैं।"
+      },
+      "keyPoints": [
+        {"en": "Bond length: C–F < C–Cl < C–Br < C–I; bond strength: C–F > C–Cl > C–Br > C–I.", "hi": "आबंध लंबाई: C–F < C–Cl < C–Br < C–I; आबंध सामर्थ्य: C–F > C–Cl > C–Br > C–I।"},
+        {"en": "Among CH₂Cl₂, CHCl₃ and CCl₄, CH₂Cl₂ has the highest dipole moment; CCl₄ is non-polar (symmetric).", "hi": "CH₂Cl₂, CHCl₃ और CCl₄ में CH₂Cl₂ का द्विध्रुव आघूर्ण सबसे अधिक है; CCl₄ अध्रुवीय है (सममित)।"}
+      ],
+      "realLife": {
+        "en": "The very strong C–F bond is why fluorinated compounds are so stable and unreactive.",
+        "hi": "बहुत प्रबल C–F आबंध के कारण ही फ़्लुओरीनयुक्त यौगिक इतने स्थायी और अक्रियाशील होते हैं।"
+      },
+      "examFocus": {
+        "en": "Explain polarity of the C–X bond and trends in bond length, bond enthalpy and dipole moment.",
+        "hi": "C–X आबंध की ध्रुवता तथा आबंध लंबाई, आबंध एन्थैल्पी और द्विध्रुव आघूर्ण की प्रवृत्तियाँ समझाइए।"
+      },
+      "commonMistakes": [
+        {"en": "Expecting the C–F bond to break most easily because F is most electronegative — it is the strongest bond; C–I breaks most easily.", "hi": "यह मानना कि F सबसे अधिक विद्युत-ऋणात्मक है इसलिए C–F सबसे आसानी से टूटेगा — यह सबसे प्रबल आबंध है; C–I सबसे आसानी से टूटता है।"}
+      ],
+      "formulas": ["Cᵟ⁺–Xᵟ⁻"],
+      "practicalIds": [],
+      "conceptIds": ["nucleophilic-substitution"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "6.3"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Bigger halogen, longer and weaker bond\"",
+            "hi": "\"बड़ा हैलोजन, लंबा और दुर्बल आबंध\""
+          },
+          "recall": {
+            "en": "Going from F to I the halogen atom gets larger, so the C–X bond gets longer and its bond enthalpy falls: C–F is the shortest and strongest, C–I the longest and weakest.",
+            "hi": "F से I की ओर जाने पर हैलोजन परमाणु बड़ा होता जाता है, इसलिए C–X आबंध लंबा होता है और उसकी आबंध एन्थैल्पी घटती है: C–F सबसे छोटा और प्रबल, C–I सबसे लंबा और दुर्बल है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "C–X is polar (Cδ+, Xδ−); C–I is the longest and weakest.", "hi": "C–X ध्रुवीय है (Cδ+, Xδ−); C–I सबसे लंबा और सबसे दुर्बल है।"},
+        "formula": "Cᵟ⁺–Xᵟ⁻",
+        "points": [
+          {"en": "Bond length increases and bond enthalpy decreases from C–F to C–I.", "hi": "C–F से C–I तक आबंध लंबाई बढ़ती और आबंध एन्थैल्पी घटती है।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch06-t6.4",
+      "targetId": "cbse-12-ch06-t6.4",
+      "covers": [],
+      "definition": {
+        "en": "Haloalkanes are prepared from alcohols (with HX, PX₃, PCl₅ or SOCl₂), from hydrocarbons (free radical halogenation of alkanes, addition of HX or X₂ to alkenes) and by halogen exchange (Finkelstein and Swarts reactions).",
+        "hi": "हैलोऐल्केन ऐल्कोहॉलों से (HX, PX₃, PCl₅ या SOCl₂ द्वारा), हाइड्रोकार्बनों से (ऐल्केनों का मुक्त मूलक हैलोजनन, ऐल्कीनों पर HX या X₂ का योग) और हैलोजन विनिमय (फ़िंकेलस्टाइन और स्वार्ट्स अभिक्रियाएँ) से बनाए जाते हैं।"
+      },
+      "explanation": {
+        "en": "Thionyl chloride is preferred because the by-products SO₂ and HCl are gases that escape, leaving pure alkyl chloride. Primary and secondary alcohols need ZnCl₂ with HCl; tertiary alcohols react with conc. HCl on shaking at room temperature; reactivity is 3° > 2° > 1°. PBr₃ and PI₃ are generated in situ from red phosphorus with Br₂ or I₂. Free radical halogenation gives mixtures that are hard to separate. Alkenes add HX following Markovnikov's rule; addition of Br₂ in CCl₄ (loss of reddish-brown colour) tests for a double bond. Finkelstein: R–Cl/Br + NaI in dry acetone → R–I (NaCl/NaBr precipitates, driving the reaction forward). Swarts: alkyl chloride/bromide heated with AgF, Hg₂F₂, CoF₂ or SbF₃ → alkyl fluoride.",
+        "hi": "थायोनिल क्लोराइड को वरीयता दी जाती है क्योंकि उपोत्पाद SO₂ और HCl गैसें हैं जो निकल जाती हैं और शुद्ध ऐल्किल क्लोराइड बचता है। प्राथमिक और द्वितीयक ऐल्कोहॉलों को HCl के साथ ZnCl₂ चाहिए; तृतीयक ऐल्कोहॉल कमरे के ताप पर सांद्र HCl के साथ हिलाने से ही अभिक्रिया करते हैं; क्रियाशीलता 3° > 2° > 1° है। PBr₃ और PI₃ लाल फ़ॉस्फ़ोरस से Br₂ या I₂ की अभिक्रिया द्वारा अभिक्रिया मिश्रण में ही बनाए जाते हैं। मुक्त मूलक हैलोजनन से ऐसे मिश्रण मिलते हैं जिन्हें अलग करना कठिन है। ऐल्कीन मार्कोवनिकॉफ़ नियम के अनुसार HX जोड़ते हैं; CCl₄ में Br₂ का योग (लाल-भूरे रंग का लोप) द्विआबंध का परीक्षण है। फ़िंकेलस्टाइन: R–Cl/Br + शुष्क ऐसीटोन में NaI → R–I (NaCl/NaBr अवक्षेपित होकर अभिक्रिया को आगे बढ़ाते हैं)। स्वार्ट्स: ऐल्किल क्लोराइड/ब्रोमाइड को AgF, Hg₂F₂, CoF₂ या SbF₃ के साथ गरम करने पर → ऐल्किल फ़्लुओराइड।"
+      },
+      "keyPoints": [
+        {"en": "H₂SO₄ is not used with KI: it converts KI to HI and then oxidises HI to I₂.", "hi": "KI के साथ H₂SO₄ प्रयुक्त नहीं होता: यह KI को HI में बदलकर फिर HI को I₂ में ऑक्सीकृत कर देता है।"},
+        {"en": "Alcohol methods do not work for aryl halides: the C–O bond in phenols has partial double bond character.", "hi": "ऐल्कोहॉल वाली विधियाँ ऐरिल हैलाइडों के लिए काम नहीं करतीं: फ़ीनॉलों में C–O आबंध में आंशिक द्विआबंध लक्षण होता है।"},
+        {"en": "Propene + HBr gives 2-bromopropane as the major product (Markovnikov).", "hi": "प्रोपीन + HBr से मुख्य उत्पाद 2-ब्रोमोप्रोपेन बनता है (मार्कोवनिकॉफ़)।"}
+      ],
+      "realLife": {
+        "en": "Halogen exchange is how alkyl iodides and fluorides needed in drug synthesis are made in good yield.",
+        "hi": "औषधि संश्लेषण में आवश्यक ऐल्किल आयोडाइड और फ़्लुओराइड हैलोजन विनिमय से ही अच्छी लब्धि में बनाए जाते हैं।"
+      },
+      "examFocus": {
+        "en": "Write equations for preparing haloalkanes from alcohols and alkenes; name and write the Finkelstein and Swarts reactions; explain why SOCl₂ is preferred.",
+        "hi": "ऐल्कोहॉलों और ऐल्कीनों से हैलोऐल्केन बनाने के समीकरण लिखिए; फ़िंकेलस्टाइन और स्वार्ट्स अभिक्रियाओं के नाम व समीकरण लिखिए; बताइए SOCl₂ को वरीयता क्यों दी जाती है।"
+      },
+      "commonMistakes": [
+        {"en": "Swapping the two exchange reactions: Finkelstein makes iodides (NaI, acetone); Swarts makes fluorides (metallic fluorides).", "hi": "दोनों विनिमय अभिक्रियाओं को उलटना: फ़िंकेलस्टाइन से आयोडाइड बनते हैं (NaI, ऐसीटोन); स्वार्ट्स से फ़्लुओराइड बनते हैं (धात्विक फ़्लुओराइड)।"}
+      ],
+      "formulas": [
+        "R–OH + SOCl₂ → R–Cl + SO₂↑ + HCl↑",
+        "R–OH + HCl (ZnCl₂) → R–Cl + H₂O",
+        "3R–OH + PCl₃ → 3R–Cl + H₃PO₃",
+        "R–OH + PCl₅ → R–Cl + POCl₃ + HCl",
+        "R–X + NaI → R–I + NaX (dry acetone)",
+        "H₃C–Br + AgF → H₃C–F + AgBr"
+      ],
+      "practicalIds": [],
+      "conceptIds": ["nucleophilic-substitution"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "6.4"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "'FinkelsteIn → Iodide; SWarts → fluoride (Silver/metal Fluoride)'", "hi": "'फ़िंकेलस्टाइन → आयोडाइड; स्वार्ट्स → फ़्लुओराइड (धात्विक फ़्लुओराइड से)'"},
+          "recall": {"en": "Finkelstein: R–Cl/Br + NaI (dry acetone) → R–I. Swarts: R–Cl/Br + AgF, Hg₂F₂, CoF₂ or SbF₃ → R–F.", "hi": "फ़िंकेलस्टाइन: R–Cl/Br + NaI (शुष्क ऐसीटोन) → R–I। स्वार्ट्स: R–Cl/Br + AgF, Hg₂F₂, CoF₂ या SbF₃ → R–F।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Best route: alcohol + SOCl₂ (gaseous by-products give pure R–Cl).", "hi": "सर्वोत्तम विधि: ऐल्कोहॉल + SOCl₂ (गैसीय उपोत्पाद, शुद्ध R–Cl)।"},
+        "formula": "R–OH + SOCl₂ → R–Cl + SO₂↑ + HCl↑",
+        "points": [
+          {"en": "Reactivity of alcohols with HX: 3° > 2° > 1°.", "hi": "HX के साथ ऐल्कोहॉलों की क्रियाशीलता: 3° > 2° > 1°।"},
+          {"en": "Finkelstein → R–I; Swarts → R–F.", "hi": "फ़िंकेलस्टाइन → R–I; स्वार्ट्स → R–F।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch06-t6.5",
+      "targetId": "cbse-12-ch06-t6.5",
+      "covers": [],
+      "definition": {
+        "en": "Haloarenes are prepared by electrophilic substitution of arenes with Cl₂ or Br₂ in the presence of a Lewis acid catalyst, and from diazonium salts (Sandmeyer reaction; KI for iodides).",
+        "hi": "हैलोऐरीन लूइस अम्ल उत्प्रेरक की उपस्थिति में ऐरीनों के Cl₂ या Br₂ के साथ इलेक्ट्रॉनस्नेही प्रतिस्थापन से तथा डाइऐज़ोनियम लवणों से (सैन्डमायर अभिक्रिया; आयोडाइड के लिए KI) बनाए जाते हैं।"
+      },
+      "explanation": {
+        "en": "Toluene with Cl₂ and Fe in the dark gives o- and p-chlorotoluene, which are easily separated because their melting points differ greatly. Iodination is reversible and needs an oxidising agent (HNO₃, HIO₄) to remove HI; fluoro compounds are not made this way because fluorine is too reactive. A primary aromatic amine in cold mineral acid with NaNO₂ gives a diazonium salt; warming it with Cu₂Cl₂ or Cu₂Br₂ replaces –N₂⁺ by –Cl or –Br (Sandmeyer). Iodine replaces it simply on shaking with KI.",
+        "hi": "अंधेरे में Cl₂ और Fe के साथ टॉलूईन o- और p-क्लोरोटॉलूईन देता है, जिन्हें उनके गलनांकों में बड़े अंतर के कारण आसानी से अलग किया जाता है। आयोडीनन उत्क्रमणीय है और HI हटाने के लिए ऑक्सीकारक (HNO₃, HIO₄) चाहिए; फ़्लुओरीन के अत्यधिक क्रियाशील होने के कारण फ़्लुओरो यौगिक इस विधि से नहीं बनाए जाते। ठंडे खनिज अम्ल में प्राथमिक ऐरोमैटिक ऐमीन NaNO₂ के साथ डाइऐज़ोनियम लवण देती है; इसे Cu₂Cl₂ या Cu₂Br₂ के साथ मिलाने पर –N₂⁺ का स्थान –Cl या –Br ले लेता है (सैन्डमायर)। KI के साथ केवल हिलाने से आयोडीन उसका स्थान ले लेती है।"
+      },
+      "keyPoints": [
+        {"en": "Catalyst for ring halogenation: Fe or FeCl₃ (Lewis acid), in the dark.", "hi": "वलय हैलोजनन का उत्प्रेरक: अंधेरे में Fe या FeCl₃ (लूइस अम्ल)।"},
+        {"en": "Sandmeyer needs cuprous halide; iodination of a diazonium salt does not.", "hi": "सैन्डमायर के लिए क्यूप्रस हैलाइड चाहिए; डाइऐज़ोनियम लवण के आयोडीनन के लिए नहीं।"}
+      ],
+      "realLife": {
+        "en": "The diazonium route lets chemists put a halogen exactly where an –NH₂ group was, which is used in dye and drug synthesis.",
+        "hi": "डाइऐज़ोनियम मार्ग से रसायनज्ञ ठीक उसी स्थान पर हैलोजन लगा सकते हैं जहाँ –NH₂ समूह था; इसका उपयोग रंजक और औषधि संश्लेषण में होता है।"
+      },
+      "examFocus": {
+        "en": "Write the Sandmeyer reaction and ring halogenation with catalyst; convert aniline to chlorobenzene or iodobenzene.",
+        "hi": "सैन्डमायर अभिक्रिया और उत्प्रेरक सहित वलय हैलोजनन लिखिए; ऐनिलीन को क्लोरोबेन्ज़ीन या आयोडोबेन्ज़ीन में बदलिए।"
+      },
+      "commonMistakes": [
+        {"en": "Writing ring fluorination with F₂ — fluorine is too reactive; aryl fluorides are not made by this method.", "hi": "F₂ से वलय फ़्लुओरीनन लिखना — फ़्लुओरीन अत्यधिक क्रियाशील है; ऐरिल फ़्लुओराइड इस विधि से नहीं बनते।"}
+      ],
+      "formulas": [
+        "C₆H₆ + Cl₂ → C₆H₅Cl + HCl (Fe, dark)",
+        "C₆H₅N₂⁺Cl⁻ + Cu₂Cl₂ → C₆H₅Cl + N₂",
+        "C₆H₅N₂⁺Cl⁻ + KI → C₆H₅I + KCl + N₂"
+      ],
+      "practicalIds": [],
+      "conceptIds": ["nucleophilic-substitution"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "6.5"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Cl and Br need copper; iodine needs only KI\"",
+            "hi": "\"Cl और Br को कॉपर चाहिए; आयोडीन को केवल KI\""
+          },
+          "recall": {
+            "en": "A diazonium salt gives ArCl or ArBr only with cuprous halide (Sandmeyer), but simply shaking it with potassium iodide gives ArI.",
+            "hi": "डाइऐज़ोनियम लवण ArCl या ArBr केवल क्यूप्रस हैलाइड (सैन्डमायर) के साथ देता है, पर पोटैशियम आयोडाइड के साथ हिलाने मात्र से ArI बन जाता है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Haloarenes: ring halogenation (Fe/FeCl₃) or Sandmeyer from diazonium salts.", "hi": "हैलोऐरीन: वलय हैलोजनन (Fe/FeCl₃) या डाइऐज़ोनियम लवणों से सैन्डमायर।"},
+        "formula": "C₆H₅N₂⁺Cl⁻ + Cu₂Cl₂ → C₆H₅Cl + N₂",
+        "points": [
+          {"en": "Iodobenzene: diazonium salt + KI (no copper needed).", "hi": "आयोडोबेन्ज़ीन: डाइऐज़ोनियम लवण + KI (कॉपर की आवश्यकता नहीं)।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch06-t6.6",
+      "targetId": "cbse-12-ch06-t6.6",
+      "covers": [],
+      "definition": {
+        "en": "Haloalkanes are colourless when pure, have higher boiling points than parent hydrocarbons, are denser than water when they are bromo, iodo or polychloro compounds, and are only slightly soluble in water.",
+        "hi": "शुद्ध हैलोऐल्केन रंगहीन होते हैं, इनके क्वथनांक जनक हाइड्रोकार्बनों से अधिक होते हैं, ब्रोमो, आयोडो और पॉलिक्लोरो यौगिक जल से भारी होते हैं, और ये जल में बहुत कम घुलनशील हैं।"
+      },
+      "explanation": {
+        "en": "Greater polarity and molar mass give stronger dipole–dipole and van der Waals forces, so boiling points are higher than those of hydrocarbons of similar mass. For the same alkyl group: RI > RBr > RCl > RF. Branching lowers the boiling point (2-bromo-2-methylpropane is lowest among its isomers). Para-dihalobenzenes have higher melting points than ortho and meta because their symmetry fits the crystal lattice better. Solubility in water is low because the energy released by new haloalkane–water attractions is less than that needed to break water's hydrogen bonds; they dissolve well in organic solvents.",
+        "hi": "अधिक ध्रुवता और मोलर द्रव्यमान से द्विध्रुव–द्विध्रुव और वान्डरवाल्स बल प्रबल होते हैं, इसलिए क्वथनांक समान द्रव्यमान वाले हाइड्रोकार्बनों से अधिक होते हैं। समान ऐल्किल समूह के लिए: RI > RBr > RCl > RF। शाखन क्वथनांक घटाता है (अपने समावयवियों में 2-ब्रोमो-2-मेथिलप्रोपेन का सबसे कम)। पैरा-डाइहैलोबेन्ज़ीनों के गलनांक ऑर्थो और मेटा से अधिक होते हैं क्योंकि उनकी सममिति क्रिस्टल जालक में बेहतर बैठती है। जल में विलेयता कम है क्योंकि नए हैलोऐल्केन–जल आकर्षणों से मुक्त ऊर्जा, जल के हाइड्रोजन आबंध तोड़ने के लिए आवश्यक ऊर्जा से कम होती है; कार्बनिक विलायकों में ये अच्छी तरह घुलते हैं।"
+      },
+      "keyPoints": [
+        {"en": "Bromides and iodides develop colour on exposure to light; many volatile halides smell sweet.", "hi": "ब्रोमाइड और आयोडाइड प्रकाश में रंगीन हो जाते हैं; अनेक वाष्पशील हैलाइडों की गंध मीठी होती है।"},
+        {"en": "CH₃Cl, CH₃Br, C₂H₅Cl and some chlorofluoromethanes are gases at room temperature.", "hi": "CH₃Cl, CH₃Br, C₂H₅Cl और कुछ क्लोरोफ़्लुओरोमेथेन कमरे के ताप पर गैसें हैं।"},
+        {"en": "Density rises with the number of C atoms, number of halogen atoms and the atomic mass of the halogen.", "hi": "घनत्व C परमाणुओं की संख्या, हैलोजन परमाणुओं की संख्या और हैलोजन के परमाणु द्रव्यमान के साथ बढ़ता है।"}
+      ],
+      "realLife": {
+        "en": "Because haloalkanes dissolve fats but not in water, dichloromethane is used as a paint remover and degreasing solvent.",
+        "hi": "हैलोऐल्केन वसा घोलते हैं पर जल में नहीं घुलते, इसलिए डाइक्लोरोमेथेन पेंट हटाने और चिकनाई हटाने वाले विलायक के रूप में प्रयुक्त होता है।"
+      },
+      "examFocus": {
+        "en": "Arrange halides in order of boiling point; explain the high melting point of p-dichlorobenzene and the low water solubility of haloalkanes.",
+        "hi": "हैलाइडों को क्वथनांक के क्रम में लगाइए; p-डाइक्लोरोबेन्ज़ीन का उच्च गलनांक और हैलोऐल्केनों की कम जल-विलेयता समझाइए।"
+      },
+      "commonMistakes": [
+        {"en": "Thinking polar haloalkanes must dissolve in water — they cannot form hydrogen bonds strong enough to replace water's hydrogen bonds.", "hi": "यह सोचना कि ध्रुवीय हैलोऐल्केन जल में अवश्य घुलेंगे — वे इतने प्रबल हाइड्रोजन आबंध नहीं बना पाते जो जल के हाइड्रोजन आबंधों का स्थान ले सकें।"}
+      ],
+      "formulas": ["b.p.: RI > RBr > RCl > RF"],
+      "practicalIds": [],
+      "conceptIds": ["nucleophilic-substitution"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "6.6"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "'Para packs Perfectly'", "hi": "'पैरा पूरी तरह फ़िट'"},
+          "recall": {"en": "para-Dihalobenzenes are symmetric and pack better in the crystal, so they have higher melting points than ortho and meta isomers.", "hi": "पैरा-डाइहैलोबेन्ज़ीन सममित होते हैं और क्रिस्टल में बेहतर संकुलित होते हैं, इसलिए उनके गलनांक ऑर्थो और मेटा समावयवियों से अधिक होते हैं।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "b.p. RI > RBr > RCl > RF; branching lowers b.p.; para isomer melts highest.", "hi": "क्वथनांक RI > RBr > RCl > RF; शाखन क्वथनांक घटाता है; पैरा समावयवी का गलनांक सबसे अधिक।"},
+        "formula": "b.p.: RI > RBr > RCl > RF",
+        "points": [
+          {"en": "Slightly soluble in water, soluble in organic solvents.", "hi": "जल में अल्प विलेय, कार्बनिक विलायकों में विलेय।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch06-t6.7",
+      "targetId": "cbse-12-ch06-t6.7",
+      "covers": [],
+      "definition": {
+        "en": "Haloalkanes undergo nucleophilic substitution (SN1, SN2), β-elimination and reactions with metals; haloarenes are much less reactive towards nucleophilic substitution but undergo electrophilic substitution and reactions with sodium.",
+        "hi": "हैलोऐल्केन नाभिकस्नेही प्रतिस्थापन (SN1, SN2), β-विलोपन और धातुओं से अभिक्रियाएँ करते हैं; हैलोऐरीन नाभिकस्नेही प्रतिस्थापन के प्रति बहुत कम क्रियाशील हैं पर इलेक्ट्रॉनस्नेही प्रतिस्थापन और सोडियम से अभिक्रियाएँ करते हैं।"
+      },
+      "explanation": {
+        "en": "SN2: one step, rate = k[RX][Nu⁻], backside attack through a transition state with five groups on carbon, inversion of configuration; reactivity 1° > 2° > 3° (steric hindrance). SN1: two steps in polar protic solvents, slow ionisation to a planar carbocation, rate = k[RX], racemisation; reactivity 3° > 2° > 1° (carbocation stability), and allylic and benzylic halides react fast. For both, R–I > R–Br > R–Cl >> R–F. KCN gives cyanides but AgCN gives isocyanides (ambident CN⁻). With alcoholic KOH, β-elimination gives the more substituted alkene as major product (Zaitsev rule). Mg in dry ether gives Grignard reagents RMgX, which react with any proton source; Na in dry ether gives the Wurtz reaction. Haloarenes resist nucleophilic substitution because of resonance (partial double bond), sp² carbon (shorter C–Cl, 169 pm vs 177 pm), an unstable phenyl cation and repulsion of the nucleophile; –NO₂ at ortho/para positions increases reactivity. Halogen is deactivating but ortho/para directing in electrophilic substitution.",
+        "hi": "SN2: एक चरण, दर = k[RX][Nu⁻], पीछे से आक्रमण, संक्रमण अवस्था में कार्बन पर पाँच समूह, विन्यास का प्रतीपन; क्रियाशीलता 1° > 2° > 3° (त्रिविम बाधा)। SN1: ध्रुवीय प्रोटिक विलायकों में दो चरण, धीमे आयनन से समतली कार्बधनायन, दर = k[RX], रेसिमीकरण; क्रियाशीलता 3° > 2° > 1° (कार्बधनायन स्थायित्व), और ऐलिलिक व बेन्ज़िलिक हैलाइड तेज़ी से अभिक्रिया करते हैं। दोनों में R–I > R–Br > R–Cl >> R–F। KCN सायनाइड देता है पर AgCN आइसोसायनाइड (उभयदंती CN⁻)। ऐल्कोहॉलिक KOH के साथ β-विलोपन से अधिक प्रतिस्थापित ऐल्कीन मुख्य उत्पाद बनती है (ज़ायत्सेव नियम)। शुष्क ईथर में Mg से ग्रिन्यार अभिकर्मक RMgX बनते हैं जो किसी भी प्रोटॉन स्रोत से अभिक्रिया करते हैं; शुष्क ईथर में Na से वुर्ट्ज़ अभिक्रिया होती है। हैलोऐरीन नाभिकस्नेही प्रतिस्थापन का विरोध करते हैं क्योंकि अनुनाद (आंशिक द्विआबंध), sp² कार्बन (छोटा C–Cl, 169 pm बनाम 177 pm), अस्थायी फ़ेनिल धनायन और नाभिकस्नेही का प्रतिकर्षण; ऑर्थो/पैरा पर –NO₂ क्रियाशीलता बढ़ाता है। इलेक्ट्रॉनस्नेही प्रतिस्थापन में हैलोजन निष्क्रियक पर ऑर्थो/पैरा निर्देशक है।"
+      },
+      "keyPoints": [
+        {"en": "SN2 → inversion (e.g. (−)-2-bromooctane → (+)-octan-2-ol); SN1 → racemisation (2-bromobutane → (±)-butan-2-ol).", "hi": "SN2 → प्रतीपन (जैसे (−)-2-ब्रोमोऑक्टेन → (+)-ऑक्टेन-2-ऑल); SN1 → रेसिमीकरण (2-ब्रोमोब्यूटेन → (±)-ब्यूटेन-2-ऑल)।"},
+        {"en": "A chiral molecule has an asymmetric carbon with four different groups and is non-superimposable on its mirror image; a 50:50 mixture of enantiomers (racemic) is optically inactive.", "hi": "किरेल अणु में चार भिन्न समूहों वाला असममित कार्बन होता है और वह अपने दर्पण-प्रतिबिंब पर अध्यारोपित नहीं होता; प्रतिबिंबरूपों का 50:50 मिश्रण (रेसिमिक) प्रकाशिक निष्क्रिय होता है।"},
+        {"en": "Aqueous KOH gives alcohols (substitution); alcoholic KOH gives alkenes (elimination).", "hi": "जलीय KOH ऐल्कोहॉल देता है (प्रतिस्थापन); ऐल्कोहॉलिक KOH ऐल्कीन देता है (विलोपन)।"},
+        {"en": "Chlorobenzene → phenol needs aq. NaOH at 623 K and 300 atm.", "hi": "क्लोरोबेन्ज़ीन → फ़ीनॉल के लिए 623 K और 300 atm पर जलीय NaOH चाहिए।"}
+      ],
+      "realLife": {
+        "en": "Grignard reagents are among the most useful tools for building new carbon–carbon bonds in making drugs and fragrances.",
+        "hi": "ग्रिन्यार अभिकर्मक औषधियाँ और सुगंधियाँ बनाने में नए कार्बन–कार्बन आबंध बनाने के सबसे उपयोगी साधनों में से हैं।"
+      },
+      "examFocus": {
+        "en": "Compare SN1 and SN2 (kinetics, steps, stereochemistry, reactivity order); explain low reactivity of haloarenes; write Wurtz, Wurtz–Fittig, Fittig and Grignard reactions; predict the Zaitsev product.",
+        "hi": "SN1 और SN2 की तुलना (गतिकी, चरण, त्रिविम रसायन, क्रियाशीलता क्रम); हैलोऐरीनों की कम क्रियाशीलता समझाइए; वुर्ट्ज़, वुर्ट्ज़–फ़िटिग, फ़िटिग और ग्रिन्यार अभिक्रियाएँ लिखिए; ज़ायत्सेव उत्पाद बताइए।"
+      },
+      "commonMistakes": [
+        {"en": "Giving 3° > 2° > 1° for SN2 — that is the SN1 order; SN2 is the reverse because of steric hindrance.", "hi": "SN2 के लिए 3° > 2° > 1° लिखना — यह SN1 का क्रम है; त्रिविम बाधा के कारण SN2 में उलटा क्रम होता है।"},
+        {"en": "Preparing Grignard reagent in moist ether — traces of water destroy it (RMgX + H₂O → RH).", "hi": "नम ईथर में ग्रिन्यार अभिकर्मक बनाना — जल के अंश इसे नष्ट कर देते हैं (RMgX + H₂O → RH)।"}
+      ],
+      "formulas": [
+        "SN2: rate = k[RX][OH⁻]",
+        "SN1: rate = k[RX]",
+        "R–X + Mg → RMgX (dry ether)",
+        "RMgX + H₂O → RH + Mg(OH)X",
+        "2RX + 2Na → R–R + 2NaX (dry ether)",
+        "C₆H₅X + RX + 2Na → C₆H₅R + 2NaX",
+        "2C₆H₅X + 2Na → C₆H₅–C₆H₅ + 2NaX"
+      ],
+      "practicalIds": [],
+      "conceptIds": ["nucleophilic-substitution"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "6.7"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "'SN1: One molecule, carbocation, Racemic; SN2: Two molecules, one step, Inversion'", "hi": "'SN1: एक अणु, कार्बधनायन, रेसिमिक; SN2: दो अणु, एक चरण, प्रतीपन'"},
+          "recall": {"en": "SN1 rate depends on [RX] only and gives racemisation (favoured by 3°); SN2 rate depends on [RX][Nu⁻] and gives inversion (favoured by 1°).", "hi": "SN1 की दर केवल [RX] पर निर्भर है और रेसिमीकरण देती है (3° को वरीयता); SN2 की दर [RX][Nu⁻] पर निर्भर है और प्रतीपन देती है (1° को वरीयता)।"}
+        },
+        {
+          "trick": {"en": "'Alcoholic KOH Always makes Alkene'", "hi": "'ऐल्कोहॉलिक KOH से ऐल्कीन'"},
+          "recall": {"en": "Alcoholic KOH causes β-elimination (alkene, Zaitsev product); aqueous KOH causes substitution (alcohol).", "hi": "ऐल्कोहॉलिक KOH β-विलोपन कराता है (ऐल्कीन, ज़ायत्सेव उत्पाद); जलीय KOH प्रतिस्थापन कराता है (ऐल्कोहॉल)।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Haloalkanes: SN1/SN2, elimination, Grignard/Wurtz; haloarenes: poor SN, o/p-directing SE.", "hi": "हैलोऐल्केन: SN1/SN2, विलोपन, ग्रिन्यार/वुर्ट्ज़; हैलोऐरीन: कमज़ोर SN, o/p-निर्देशक SE।"},
+        "formula": "SN2: rate = k[RX][OH⁻]",
+        "points": [
+          {"en": "SN2: 1° > 2° > 3°, inversion; SN1: 3° > 2° > 1°, racemisation.", "hi": "SN2: 1° > 2° > 3°, प्रतीपन; SN1: 3° > 2° > 1°, रेसिमीकरण।"},
+          {"en": "Leaving group: I⁻ > Br⁻ > Cl⁻ >> F⁻.", "hi": "निर्गामी समूह: I⁻ > Br⁻ > Cl⁻ >> F⁻।"},
+          {"en": "Haloarene C–Cl has partial double bond character (resonance).", "hi": "हैलोऐरीन के C–Cl में आंशिक द्विआबंध लक्षण (अनुनाद)।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch06-t6.8",
+      "targetId": "cbse-12-ch06-t6.8",
+      "covers": [],
+      "definition": {
+        "en": "Polyhalogen compounds contain more than one halogen atom; important ones are dichloromethane, chloroform, iodoform, carbon tetrachloride, freons and DDT.",
+        "hi": "पॉलिहैलोजन यौगिकों में एक से अधिक हैलोजन परमाणु होते हैं; महत्वपूर्ण उदाहरण डाइक्लोरोमेथेन, क्लोरोफ़ॉर्म, आयोडोफ़ॉर्म, कार्बन टेट्राक्लोराइड, फ़्रिऑन और DDT हैं।"
+      },
+      "explanation": {
+        "en": "Dichloromethane is a paint remover, aerosol propellant and process solvent but harms the central nervous system. Chloroform is a solvent and is used to make freon R-22; it was once an anaesthetic. In light and air it oxidises to poisonous phosgene (COCl₂), so it is stored in closed, dark, completely filled bottles. Iodoform was used as an antiseptic because it liberates iodine. CCl₄ was used for refrigerants, propellants and as a cleaning fluid; it damages the liver and depletes ozone. Freons (CFCs such as CCl₂F₂, freon-12) are stable, non-toxic refrigerants and propellants made by the Swarts reaction, but in the stratosphere they start radical chain reactions that destroy ozone. DDT, an insecticide effective against malaria mosquitoes, is not metabolised quickly, accumulates in fatty tissue and is toxic to fish; it was banned in the USA in 1973.",
+        "hi": "डाइक्लोरोमेथेन पेंट हटाने वाला, ऐरोसॉल नोदक और प्रक्रम विलायक है पर केंद्रीय तंत्रिका तंत्र को हानि पहुँचाता है। क्लोरोफ़ॉर्म विलायक है और फ़्रिऑन R-22 बनाने में प्रयुक्त होता है; कभी यह निश्चेतक था। प्रकाश और वायु में यह विषैले फ़ॉस्जीन (COCl₂) में ऑक्सीकृत होता है, इसलिए इसे बंद, गहरे रंग की, पूरी भरी बोतलों में रखा जाता है। आयोडोफ़ॉर्म आयोडीन मुक्त करने के कारण पूतिरोधी के रूप में प्रयुक्त होता था। CCl₄ प्रशीतकों, नोदकों और सफ़ाई द्रव के रूप में प्रयुक्त होता था; यह यकृत को हानि पहुँचाता है और ओज़ोन का क्षय करता है। फ़्रिऑन (CFC जैसे CCl₂F₂, फ़्रिऑन-12) स्थायी, अविषैले प्रशीतक और नोदक हैं जो स्वार्ट्स अभिक्रिया से बनते हैं, पर समतापमंडल में ये मुक्त मूलक शृंखला अभिक्रियाएँ आरंभ कर ओज़ोन नष्ट करते हैं। मलेरिया के मच्छरों के विरुद्ध प्रभावी कीटनाशी DDT शीघ्र उपापचित नहीं होता, वसा ऊतकों में जमा होता है और मछलियों के लिए विषैला है; 1973 में अमेरिका में इस पर प्रतिबंध लगा।"
+      },
+      "keyPoints": [
+        {"en": "Chloroform + O₂ (light) → phosgene, so it is kept in dark, completely filled bottles.", "hi": "क्लोरोफ़ॉर्म + O₂ (प्रकाश) → फ़ॉस्जीन, इसलिए इसे गहरी, पूरी भरी बोतलों में रखते हैं।"},
+        {"en": "Iodoform's antiseptic action is due to the iodine it releases, not to iodoform itself.", "hi": "आयोडोफ़ॉर्म की पूतिरोधी क्रिया इससे मुक्त होने वाली आयोडीन के कारण है, स्वयं आयोडोफ़ॉर्म के कारण नहीं।"},
+        {"en": "Freon-12 is CCl₂F₂; freons deplete the ozone layer.", "hi": "फ़्रिऑन-12 CCl₂F₂ है; फ़्रिऑन ओज़ोन परत का क्षय करते हैं।"}
+      ],
+      "realLife": {
+        "en": "The ban on CFCs and on DDT shows how chemicals that seemed safe can harm the environment over time.",
+        "hi": "CFC और DDT पर प्रतिबंध दिखाता है कि सुरक्षित लगने वाले रसायन समय के साथ पर्यावरण को कैसे हानि पहुँचा सकते हैं।"
+      },
+      "examFocus": {
+        "en": "Give uses and environmental effects of CH₂Cl₂, CHCl₃, CHI₃, CCl₄, freons and DDT; explain how chloroform is stored.",
+        "hi": "CH₂Cl₂, CHCl₃, CHI₃, CCl₄, फ़्रिऑन और DDT के उपयोग और पर्यावरणीय प्रभाव बताइए; क्लोरोफ़ॉर्म के भंडारण की विधि समझाइए।"
+      },
+      "commonMistakes": [
+        {"en": "Saying freons are toxic at ground level — they are non-toxic; their harm is ozone depletion in the stratosphere.", "hi": "फ़्रिऑनों को भूतल पर विषैला कहना — ये अविषैले हैं; इनकी हानि समतापमंडल में ओज़ोन क्षय है।"}
+      ],
+      "formulas": ["2CHCl₃ + O₂ → 2COCl₂ + 2HCl (light)"],
+      "practicalIds": [],
+      "conceptIds": ["nucleophilic-substitution"],
+      "chemicalIds": ["chloroform"],
+      "sources": [{"sourceId": "ncert-12-en", "section": "6.8"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "'Chloroform in the Dark, Phosgene kept apart'", "hi": "'क्लोरोफ़ॉर्म अंधेरे में, फ़ॉस्जीन से दूर'"},
+          "recall": {"en": "Light and air oxidise chloroform to poisonous phosgene, so it is stored in dark, closed, completely filled bottles.", "hi": "प्रकाश और वायु क्लोरोफ़ॉर्म को विषैले फ़ॉस्जीन में ऑक्सीकृत करते हैं, इसलिए इसे गहरी, बंद, पूरी भरी बोतलों में रखते हैं।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Polyhalogen compounds are useful but many harm health or the ozone layer.", "hi": "पॉलिहैलोजन यौगिक उपयोगी हैं पर अनेक स्वास्थ्य या ओज़ोन परत को हानि पहुँचाते हैं।"},
+        "formula": "2CHCl₃ + O₂ → 2COCl₂ + 2HCl (light)",
+        "points": [
+          {"en": "Freons and CCl₄ deplete ozone; DDT accumulates in fatty tissue.", "hi": "फ़्रिऑन और CCl₄ ओज़ोन का क्षय करते हैं; DDT वसा ऊतकों में जमा होता है।"}
+        ]
+      }
+    }
+  ]
+}

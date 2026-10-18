@@ -1,0 +1,577 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "note-cbse-10-ch04-t4.1",
+      "targetId": "cbse-10-ch04-t4.1",
+      "covers": [],
+      "definition": {
+        "en": "A covalent bond is a bond formed by the sharing of electron pairs between two atoms. Carbon forms covalent bonds because it has four valence electrons.",
+        "hi": "दो परमाणुओं के बीच इलेक्ट्रॉन युग्मों की साझेदारी से बना आबंध सहसंयोजी आबंध कहलाता है। कार्बन सहसंयोजी आबंध बनाता है क्योंकि उसके चार संयोजकता इलेक्ट्रॉन होते हैं।"
+      },
+      "explanation": {
+        "en": "Carbon (2, 4) could gain four electrons to form C⁴⁻, but a nucleus with six protons cannot hold ten electrons. It could lose four to form C⁴⁺, but that needs too much energy. So carbon shares its four valence electrons — with hydrogen in methane (CH₄), with another carbon atom, or with oxygen. Two atoms can share one pair (single bond), two pairs (double bond, O=O) or three pairs (triple bond, N≡N). Covalent compounds have weak forces between molecules, so they have low melting and boiling points, and they are poor conductors because they form no ions.",
+        "hi": "कार्बन (2, 4) चार इलेक्ट्रॉन ग्रहण कर C⁴⁻ बना सकता था, पर छह प्रोटॉन वाला नाभिक दस इलेक्ट्रॉन नहीं सँभाल सकता। चार इलेक्ट्रॉन खोकर C⁴⁺ बना सकता था, पर इसमें बहुत अधिक ऊर्जा लगती है। इसलिए कार्बन अपने चार संयोजकता इलेक्ट्रॉन साझा करता है — मेथेन (CH₄) में हाइड्रोजन से, किसी दूसरे कार्बन परमाणु से, या ऑक्सीजन से। दो परमाणु एक युग्म (एकल आबंध), दो युग्म (द्विआबंध, O=O) या तीन युग्म (त्रिआबंध, N≡N) साझा कर सकते हैं। सहसंयोजी यौगिकों में अणुओं के बीच दुर्बल बल होते हैं, इसलिए उनके गलनांक और क्वथनांक कम होते हैं, और आयन न बनने के कारण वे विद्युत के कुचालक होते हैं।"
+      },
+      "keyPoints": [
+        {"en": "Carbon forms neither C⁴⁺ nor C⁴⁻; it shares electrons.", "hi": "कार्बन न C⁴⁺ बनाता है न C⁴⁻; वह इलेक्ट्रॉन साझा करता है।"},
+        {"en": "The bond between carbon and hydrogen is covalent.", "hi": "कार्बन और हाइड्रोजन के बीच का आबंध सहसंयोजी है।"},
+        {"en": "Electron-dot structures: H₂, O₂, N₂, CH₄, CO₂, NH₃, H₂O.", "hi": "इलेक्ट्रॉन-बिंदु संरचनाएँ: H₂, O₂, N₂, CH₄, CO₂, NH₃, H₂O।"}
+      ],
+      "realLife": {
+        "en": "Food, clothes, medicines, fuels and our own bodies are made largely of covalent carbon compounds.",
+        "hi": "भोजन, वस्त्र, दवाएँ, ईंधन और हमारा शरीर — सब मुख्यतः सहसंयोजी कार्बन यौगिकों से बने हैं।"
+      },
+      "examFocus": {
+        "en": "Explain why carbon forms covalent bonds; draw electron-dot structures; compare covalent and ionic compounds.",
+        "hi": "कार्बन के सहसंयोजी आबंध बनाने का कारण बताना; इलेक्ट्रॉन-बिंदु संरचनाएँ बनाना; सहसंयोजी और आयनिक यौगिकों की तुलना।"
+      },
+      "commonMistakes": [
+        {"en": "Drawing only the shared electrons and forgetting the lone pairs on O, N or Cl in dot structures.", "hi": "बिंदु संरचनाओं में केवल साझा इलेक्ट्रॉन दिखाना और O, N या Cl के एकाकी युग्म भूल जाना।"}
+      ],
+      "formulas": ["H–H", "O=O", "N≡N", "CH₄", "O=C=O"],
+      "practicalIds": [],
+      "conceptIds": ["covalent-bond", "versatile-nature-of-carbon"],
+      "chemicalIds": ["methane"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "4.1, Table 4.1"}],
+      "quickRevision": {
+        "oneLine": {"en": "Covalent bond: formed by sharing electron pairs. Carbon forms covalent bonds because it has four valence electrons.", "hi": "सहसंयोजी आबंध: इलेक्ट्रॉन युग्मों की साझेदारी से बनता है। चार संयोजी इलेक्ट्रॉनों के कारण कार्बन सहसंयोजी आबंध बनाता है।"},
+        "points": [
+          {"en": "Carbon forms neither C⁴⁺ nor C⁴⁻; it shares electrons.", "hi": "कार्बन न C⁴⁺ बनाता है, न C⁴⁻; वह इलेक्ट्रॉन साझा करता है।"},
+          {"en": "Single, double, triple bonds: H–H, O=O, N≡N.", "hi": "एकल, द्वि, त्रि आबंध: H–H, O=O, N≡N।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-10-ch04-t4.2",
+      "targetId": "cbse-10-ch04-t4.2",
+      "covers": ["cbse-10-ch04-t4.2.1"],
+      "definition": {
+        "en": "Catenation is carbon's ability to bond with other carbon atoms to form long chains, branches and rings; tetravalency is its ability to form four bonds. Compounds with only single C–C bonds are saturated; those with C=C double or C≡C triple bonds are unsaturated.",
+        "hi": "शृंखलन कार्बन का अन्य कार्बन परमाणुओं से जुड़कर लंबी शृंखलाएँ, शाखाएँ और वलय बनाने का गुण है; चतुःसंयोजकता उसका चार आबंध बनाने का गुण है। केवल एकल C–C आबंध वाले यौगिक संतृप्त हैं; C=C द्विआबंध या C≡C त्रिआबंध वाले असंतृप्त।"
+      },
+      "explanation": {
+        "en": "No other element shows catenation as much as carbon (silicon forms chains of only seven or eight atoms, and they are reactive). Being small, carbon forms very strong bonds, so its compounds are stable. Catenation and tetravalency together give millions of carbon compounds. Ethane (C₂H₆) is saturated; ethene (C₂H₄, CH₂=CH₂) and ethyne (C₂H₂, HC≡CH) are unsaturated. Compounds of only carbon and hydrogen are hydrocarbons: alkanes (saturated), alkenes (one double bond) and alkynes (one triple bond).",
+        "hi": "कोई अन्य तत्व कार्बन जितना शृंखलन नहीं दिखाता (सिलिकॉन केवल सात-आठ परमाणुओं की शृंखलाएँ बनाता है, और वे क्रियाशील होती हैं)। छोटे आकार के कारण कार्बन बहुत प्रबल आबंध बनाता है, इसलिए उसके यौगिक स्थायी होते हैं। शृंखलन और चतुःसंयोजकता मिलकर लाखों कार्बन यौगिक बनाते हैं। एथेन (C₂H₆) संतृप्त है; एथीन (C₂H₄, CH₂=CH₂) और एथाइन (C₂H₂, HC≡CH) असंतृप्त हैं। केवल कार्बन और हाइड्रोजन वाले यौगिक हाइड्रोकार्बन हैं: ऐल्केन (संतृप्त), ऐल्कीन (एक द्विआबंध) और ऐल्काइन (एक त्रिआबंध)।"
+      },
+      "keyPoints": [
+        {"en": "Alkanes CₙH₂ₙ₊₂, alkenes CₙH₂ₙ, alkynes CₙH₂ₙ₋₂.", "hi": "ऐल्केन CₙH₂ₙ₊₂, ऐल्कीन CₙH₂ₙ, ऐल्काइन CₙH₂ₙ₋₂।"},
+        {"en": "Ethyne (HC≡CH) shares 3 pairs between the carbons and 1 pair with each H: 5 pairs = 10 electrons in all.", "hi": "एथाइन (HC≡CH) में कार्बनों के बीच 3 युग्म और प्रत्येक H के साथ 1 युग्म: कुल 5 युग्म = 10 इलेक्ट्रॉन साझा।"},
+        {"en": "Saturated compounds burn with a clean blue flame; unsaturated ones give a sooty yellow flame.", "hi": "संतृप्त यौगिक स्वच्छ नीली ज्वाला से जलते हैं; असंतृप्त यौगिक कालिखयुक्त पीली ज्वाला देते हैं।"}
+      ],
+      "realLife": {
+        "en": "LPG and CNG are mostly saturated alkanes; vegetable oils are unsaturated, animal fats saturated.",
+        "hi": "एल.पी.जी. और सी.एन.जी. मुख्यतः संतृप्त ऐल्केन हैं; वनस्पति तेल असंतृप्त और जंतु वसा संतृप्त होती है।"
+      },
+      "examFocus": {
+        "en": "State the two properties of carbon that give many compounds; classify hydrocarbons; count shared electrons in ethyne; draw ethane and ethene.",
+        "hi": "कार्बन के वे दो गुण बताना जिनसे अनेक यौगिक बनते हैं; हाइड्रोकार्बनों का वर्गीकरण; एथाइन में साझा इलेक्ट्रॉन गिनना; एथेन और एथीन की संरचना बनाना।"
+      },
+      "commonMistakes": [
+        {"en": "Counting shared pairs instead of shared electrons (ethyne: 5 pairs but 10 electrons).", "hi": "साझा इलेक्ट्रॉनों के स्थान पर साझा युग्म गिनना (एथाइन: 5 युग्म पर 10 इलेक्ट्रॉन)।"}
+      ],
+      "formulas": ["Ethane C₂H₆: CH₃–CH₃", "Ethene C₂H₄: CH₂=CH₂", "Ethyne C₂H₂: HC≡CH"],
+      "practicalIds": [],
+      "conceptIds": ["versatile-nature-of-carbon"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-10-en", "section": "4.2, 4.2.1"}],
+      "memoryTricks": [
+        {"trick": {"en": "A → E → Y: alkANE, alkENE, alkYNE lose 2 H at each step", "hi": "A → E → Y: ऐल्केन (ANE), ऐल्कीन (ENE), ऐल्काइन (YNE) — हर कदम पर 2 H कम"}, "recall": {"en": "Alkanes CₙH₂ₙ₊₂ (single bonds), alkenes CₙH₂ₙ (one double bond), alkynes CₙH₂ₙ₋₂ (one triple bond).", "hi": "ऐल्केन CₙH₂ₙ₊₂ (एकल आबंध), ऐल्कीन CₙH₂ₙ (एक द्वि आबंध), ऐल्काइन CₙH₂ₙ₋₂ (एक त्रि आबंध)।"}},
+        {"trick": {"en": "Saturated → Single bonds only (S–S)", "hi": "संतृप्त (Saturated) → केवल एकल (Single) आबंध (S–S)"}, "recall": {"en": "Any C=C or C≡C makes the compound unsaturated.", "hi": "कोई भी C=C या C≡C यौगिक को असंतृप्त बनाता है।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Catenation: carbon bonds with carbon to form chains, branches and rings; tetravalency: it forms four bonds.", "hi": "शृंखलन: कार्बन, कार्बन से जुड़कर शृंखलाएँ, शाखाएँ और वलय बनाता है; चतुःसंयोजकता: यह चार आबंध बनाता है।"},
+        "formula": "Ethyne C₂H₂: HC≡CH",
+        "points": [
+          {"en": "Saturated: only C–C single bonds; unsaturated: C=C or C≡C.", "hi": "संतृप्त: केवल C–C एकल आबंध; असंतृप्त: C=C या C≡C।"},
+          {"en": "Saturated compounds burn with a clean blue flame; unsaturated give a sooty yellow flame.", "hi": "संतृप्त यौगिक स्वच्छ नीली ज्वाला से जलते हैं; असंतृप्त कालिख वाली पीली ज्वाला देते हैं।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-10-ch04-t4.2.2",
+      "targetId": "cbse-10-ch04-t4.2.2",
+      "covers": [],
+      "definition": {
+        "en": "Structural isomers are compounds with the same molecular formula but different structures. Carbon atoms can be arranged in straight chains, branched chains or rings.",
+        "hi": "संरचनात्मक समावयव वे यौगिक हैं जिनका आणविक सूत्र समान पर संरचना भिन्न होती है। कार्बन परमाणु सीधी शृंखला, शाखित शृंखला या वलय में व्यवस्थित हो सकते हैं।"
+      },
+      "explanation": {
+        "en": "Butane, C₄H₁₀, can have a straight four-carbon chain (n-butane) or a three-carbon chain with a branch (isobutane) — two isomers. Cyclohexane, C₆H₁₂, has six carbons in a ring. Benzene, C₆H₆, is a ring with alternating single and double bonds. Straight, branched and ring compounds can all be saturated or unsaturated.",
+        "hi": "ब्यूटेन, C₄H₁₀, में चार कार्बनों की सीधी शृंखला (n-ब्यूटेन) या तीन कार्बनों की शृंखला पर एक शाखा (आइसोब्यूटेन) हो सकती है — दो समावयव। साइक्लोहेक्सेन, C₆H₁₂, में छह कार्बन एक वलय में होते हैं। बेंज़ीन, C₆H₆, एकांतर एकल और द्विआबंधों वाला वलय है। सीधी, शाखित और वलयी — सभी प्रकार के यौगिक संतृप्त या असंतृप्त हो सकते हैं।"
+      },
+      "keyPoints": [
+        {"en": "Methane, ethane and propane have no isomers; butane has two; pentane has three.", "hi": "मेथेन, एथेन और प्रोपेन के कोई समावयव नहीं; ब्यूटेन के दो; पेंटेन के तीन।"},
+        {"en": "Butene (C₄H₈) shows isomers by changing the position of the double bond (but-1-ene, but-2-ene).", "hi": "ब्यूटीन (C₄H₈) द्विआबंध की स्थिति बदलकर समावयव दर्शाता है (ब्यूट-1-ईन, ब्यूट-2-ईन)।"}
+      ],
+      "realLife": {
+        "en": "Isomers can have different properties — branched alkanes burn more smoothly in engines than straight ones.",
+        "hi": "समावयवों के गुण भिन्न हो सकते हैं — इंजनों में शाखित ऐल्केन सीधी शृंखला वालों की तुलना में अधिक सुचारु रूप से जलते हैं।"
+      },
+      "examFocus": {
+        "en": "Draw isomers of butane, pentane or butene; draw the structures of cyclohexane and benzene.",
+        "hi": "ब्यूटेन, पेंटेन या ब्यूटीन के समावयव बनाना; साइक्लोहेक्सेन और बेंज़ीन की संरचनाएँ बनाना।"
+      },
+      "commonMistakes": [
+        {"en": "Drawing the same chain bent differently and calling it a new isomer — the connectivity must differ.", "hi": "एक ही शृंखला को अलग तरह मोड़कर नया समावयव मान लेना — परमाणुओं का जुड़ाव भिन्न होना चाहिए।"}
+      ],
+      "formulas": ["n-Butane: CH₃–CH₂–CH₂–CH₃", "Isobutane: CH₃–CH(CH₃)–CH₃", "Cyclohexane: C₆H₁₂", "Benzene: C₆H₆"],
+      "practicalIds": [],
+      "conceptIds": ["versatile-nature-of-carbon"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-10-en", "section": "4.2.2, Table 4.2"}],
+      "memoryTricks": [
+        {"trick": {"en": "C1, C2, C3: no isomers → C4: 2 → C5: 3", "hi": "C1, C2, C3: कोई समावयव नहीं → C4: 2 → C5: 3"}, "recall": {"en": "Methane, ethane and propane have only one structure; butane has two isomers and pentane three.", "hi": "मेथेन, एथेन और प्रोपेन की केवल एक संरचना है; ब्यूटेन के दो और पेंटेन के तीन समावयव हैं।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Structural isomers: same molecular formula, different structures.", "hi": "संरचनात्मक समावयव: समान आण्विक सूत्र, भिन्न संरचनाएँ।"},
+        "formula": "Isobutane: CH₃–CH(CH₃)–CH₃",
+        "points": [
+          {"en": "Carbon chains can be straight, branched or ring-shaped.", "hi": "कार्बन शृंखलाएँ सीधी, शाखित या वलय के रूप में हो सकती हैं।"},
+          {"en": "Butene shows isomers by moving the double bond (but-1-ene, but-2-ene).", "hi": "ब्यूटीन में द्वि आबंध का स्थान बदलने से समावयव बनते हैं (ब्यूट-1-ईन, ब्यूट-2-ईन)।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-10-ch04-t4.2.3",
+      "targetId": "cbse-10-ch04-t4.2.3",
+      "covers": [],
+      "definition": {
+        "en": "A heteroatom is an element other than carbon or hydrogen (such as Cl, Br, O, N, S) in a carbon compound. A functional group is the atom or group of atoms that gives the compound its characteristic properties.",
+        "hi": "कार्बन यौगिक में कार्बन या हाइड्रोजन के अतिरिक्त कोई तत्व (जैसे Cl, Br, O, N, S) विषमपरमाणु (हेटेरोऐटम) कहलाता है। प्रकार्यात्मक समूह वह परमाणु या परमाणुओं का समूह है जो यौगिक को उसके विशिष्ट गुण देता है।"
+      },
+      "explanation": {
+        "en": "Carbon bonds readily with other elements. When a heteroatom replaces hydrogen, the compound's properties are decided by that group, whatever the length of the carbon chain. Important functional groups: halo (–Cl, –Br), alcohol (–OH), aldehyde (–CHO), ketone (>C=O), carboxylic acid (–COOH).",
+        "hi": "कार्बन अन्य तत्वों से भी आसानी से आबंध बनाता है। जब कोई विषमपरमाणु हाइड्रोजन को प्रतिस्थापित करता है, तो यौगिक के गुण उसी समूह से तय होते हैं, कार्बन शृंखला की लंबाई चाहे जितनी हो। मुख्य प्रकार्यात्मक समूह: हैलो (–Cl, –Br), ऐल्कोहॉल (–OH), ऐल्डिहाइड (–CHO), कीटोन (>C=O), कार्बोक्सिलिक अम्ल (–COOH)।"
+      },
+      "keyPoints": [
+        {"en": "Free valency of the group is shown by a single line.", "hi": "समूह की मुक्त संयोजकता एक रेखा से दर्शाई जाती है।"},
+        {"en": "The functional group decides the chemical properties of the compound.", "hi": "प्रकार्यात्मक समूह यौगिक के रासायनिक गुण तय करता है।"}
+      ],
+      "realLife": {
+        "en": "Alcohols in sanitisers, carboxylic acids in vinegar and citrus fruits, ketones in nail-polish remover (acetone).",
+        "hi": "सैनिटाइज़र में ऐल्कोहॉल, सिरके और खट्टे फलों में कार्बोक्सिलिक अम्ल, नेल-पॉलिश रिमूवर (ऐसीटोन) में कीटोन।"
+      },
+      "examFocus": {
+        "en": "Identify the functional group in a given formula or structure and name the class of compound.",
+        "hi": "दिए गए सूत्र या संरचना में प्रकार्यात्मक समूह पहचानना और यौगिक का वर्ग बताना।"
+      },
+      "commonMistakes": [
+        {"en": "Confusing –CHO (aldehyde, at the end of a chain) with >C=O (ketone, in the middle of a chain).", "hi": "–CHO (ऐल्डिहाइड, शृंखला के सिरे पर) और >C=O (कीटोन, शृंखला के बीच में) में भ्रम।"}
+      ],
+      "formulas": ["–Cl / –Br (halo)", "–OH (alcohol)", "–CHO (aldehyde)", ">C=O (ketone)", "–COOH (carboxylic acid)"],
+      "practicalIds": [],
+      "conceptIds": ["functional-groups-and-nomenclature"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-10-en", "section": "4.2.3, Table 4.3"}],
+      "quickRevision": {
+        "oneLine": {"en": "Functional group: the atom or group of atoms that gives a carbon compound its characteristic properties.", "hi": "प्रकार्यात्मक समूह: वह परमाणु या परमाणु-समूह जो कार्बन यौगिक को उसके विशिष्ट गुण देता है।"},
+        "points": [
+          {"en": "Heteroatoms: elements other than C and H, such as Cl, Br, O, N, S.", "hi": "विषम परमाणु: C और H के अतिरिक्त तत्व, जैसे Cl, Br, O, N, S।"},
+          {"en": "–OH alcohol, –CHO aldehyde, >C=O ketone, –COOH carboxylic acid.", "hi": "–OH ऐल्कोहॉल, –CHO ऐल्डिहाइड, >C=O कीटोन, –COOH कार्बोक्सिलिक अम्ल।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-10-ch04-t4.2.4",
+      "targetId": "cbse-10-ch04-t4.2.4",
+      "covers": [],
+      "definition": {
+        "en": "A homologous series is a series of carbon compounds with the same functional group, in which successive members differ by a –CH₂– unit (14 u in molecular mass).",
+        "hi": "समजातीय श्रेणी समान प्रकार्यात्मक समूह वाले कार्बन यौगिकों की वह श्रेणी है, जिसमें क्रमागत सदस्य –CH₂– इकाई (आणविक द्रव्यमान में 14 u) से भिन्न होते हैं।"
+      },
+      "explanation": {
+        "en": "Methane CH₄, ethane C₂H₆, propane C₃H₈ and butane C₄H₁₀ form one homologous series; CH₃OH, C₂H₅OH, C₃H₇OH and C₄H₉OH form another. As molecular mass increases, physical properties such as melting point, boiling point and solubility change gradually. Chemical properties stay similar, because they are decided by the functional group, which is the same throughout the series.",
+        "hi": "मेथेन CH₄, एथेन C₂H₆, प्रोपेन C₃H₈ और ब्यूटेन C₄H₁₀ एक समजातीय श्रेणी बनाते हैं; CH₃OH, C₂H₅OH, C₃H₇OH और C₄H₉OH दूसरी। आणविक द्रव्यमान बढ़ने पर गलनांक, क्वथनांक और विलेयता जैसे भौतिक गुण धीरे-धीरे बदलते हैं। रासायनिक गुण समान रहते हैं, क्योंकि वे प्रकार्यात्मक समूह से तय होते हैं, जो पूरी श्रेणी में एक ही है।"
+      },
+      "keyPoints": [
+        {"en": "Successive members differ by CH₂ and 14 u.", "hi": "क्रमागत सदस्य CH₂ और 14 u से भिन्न होते हैं।"},
+        {"en": "Physical properties show gradation; chemical properties do not.", "hi": "भौतिक गुणों में क्रमिक परिवर्तन होता है; रासायनिक गुणों में नहीं।"},
+        {"en": "C₄H₈ has a higher boiling point than C₃H₆ or C₂H₄ because its molecular mass is larger.", "hi": "C₄H₈ का क्वथनांक C₃H₆ या C₂H₄ से अधिक है क्योंकि उसका आणविक द्रव्यमान अधिक है।"}
+      ],
+      "realLife": {
+        "en": "In petroleum refining, members of the alkane series are separated because their boiling points rise steadily with chain length.",
+        "hi": "पेट्रोलियम शोधन में ऐल्केन श्रेणी के सदस्य इसलिए अलग किए जा सकते हैं क्योंकि शृंखला लंबी होने पर उनके क्वथनांक क्रमशः बढ़ते हैं।"
+      },
+      "examFocus": {
+        "en": "Define homologous series; explain why physical properties change but chemical properties do not; identify members of the same series.",
+        "hi": "समजातीय श्रेणी की परिभाषा; भौतिक गुण बदलने पर भी रासायनिक गुण न बदलने का कारण; एक ही श्रेणी के सदस्य पहचानना।"
+      },
+      "commonMistakes": [
+        {"en": "Putting an alkene and an alkane in the same series because they have similar carbon numbers — the functional group must be the same.", "hi": "समान कार्बन संख्या के कारण ऐल्कीन और ऐल्केन को एक ही श्रेणी में रखना — प्रकार्यात्मक समूह एक ही होना चाहिए।"}
+      ],
+      "formulas": ["CH₄, C₂H₆, C₃H₈, C₄H₁₀ (alkanes)", "C₂H₄, C₃H₆, C₄H₈ (alkenes)", "CH₃OH, C₂H₅OH, C₃H₇OH (alcohols)"],
+      "practicalIds": [],
+      "conceptIds": ["homologous-series"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-10-en", "section": "4.2.4, Activity 4.2"}],
+      "memoryTricks": [
+        {"trick": {"en": "Next member = + CH₂ = + 14 u (12 + 1 + 1)", "hi": "अगला सदस्य = + CH₂ = + 14 u (12 + 1 + 1)"}, "recall": {"en": "One carbon (12 u) and two hydrogens (2 × 1 u) are added at every step of a homologous series.", "hi": "समजातीय श्रेणी के हर कदम पर एक कार्बन (12 u) और दो हाइड्रोजन (2 × 1 u) जुड़ते हैं।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Homologous series: compounds with the same functional group whose successive members differ by –CH₂– (14 u).", "hi": "समजातीय श्रेणी: समान प्रकार्यात्मक समूह वाले यौगिक, जिनके क्रमागत सदस्यों में –CH₂– (14 u) का अंतर होता है।"},
+        "formula": "CH₄, C₂H₆, C₃H₈, C₄H₁₀ (alkanes)",
+        "points": [
+          {"en": "Physical properties show gradation; chemical properties stay similar.", "hi": "भौतिक गुणों में क्रमिक परिवर्तन होता है; रासायनिक गुण समान रहते हैं।"},
+          {"en": "Larger molecular mass → higher boiling point.", "hi": "अधिक आण्विक द्रव्यमान → अधिक क्वथनांक।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-10-ch04-t4.2.5",
+      "targetId": "cbse-10-ch04-t4.2.5",
+      "covers": [],
+      "definition": {
+        "en": "In IUPAC nomenclature a carbon compound is named from the number of carbon atoms in its chain (meth-, eth-, prop-, but-, pent-…) plus a prefix or suffix for its functional group or bond type.",
+        "hi": "IUPAC नामपद्धति में कार्बन यौगिक का नाम उसकी शृंखला के कार्बन परमाणुओं की संख्या (मेथ-, एथ-, प्रोप-, ब्यूट-, पेंट-…) तथा उसके प्रकार्यात्मक समूह या आबंध प्रकार के लिए उपसर्ग या प्रत्यय से बनता है।"
+      },
+      "explanation": {
+        "en": "Steps: (1) count the carbon atoms; (2) a halogen is a prefix (chloropropane, bromoethane); (3) other groups are suffixes, dropping the final 'e' if the suffix begins with a vowel — propanol (–ol), propanal (–al), propanone (–one), propanoic acid (–oic acid); (4) an unsaturated chain changes '-ane' to '-ene' (propene) or '-yne' (propyne). So C₃H₆O can be the aldehyde propanal (CH₃CH₂CHO) or the ketone propanone (CH₃COCH₃).",
+        "hi": "चरण: (1) कार्बन परमाणु गिनें; (2) हैलोजन उपसर्ग होता है (क्लोरोप्रोपेन, ब्रोमोएथेन); (3) अन्य समूह प्रत्यय होते हैं, और प्रत्यय स्वर से आरंभ हो तो अंतिम 'e' हटा देते हैं — प्रोपेनॉल (–ol), प्रोपेनैल (–al), प्रोपेनोन (–one), प्रोपेनॉइक अम्ल (–oic acid); (4) असंतृप्त शृंखला में '-ane' को '-ene' (प्रोपीन) या '-yne' (प्रोपाइन) में बदलते हैं। इस प्रकार C₃H₆O ऐल्डिहाइड प्रोपेनैल (CH₃CH₂CHO) या कीटोन प्रोपेनोन (CH₃COCH₃) हो सकता है।"
+      },
+      "keyPoints": [
+        {"en": "Prefix: chloro-/bromo-. Suffixes: -ol, -al, -one, -oic acid, -ene, -yne.", "hi": "उपसर्ग: क्लोरो-/ब्रोमो-। प्रत्यय: -ॉल, -ैल, -ोन, -ॉइक अम्ल, -ईन, -आइन।"},
+        {"en": "CH₃CH₂CH₂Cl is chloropropane; CH₃COCH₂CH₃ is butanone.", "hi": "CH₃CH₂CH₂Cl क्लोरोप्रोपेन है; CH₃COCH₂CH₃ ब्यूटेनोन है।"}
+      ],
+      "realLife": {
+        "en": "Systematic names on chemical bottles and medicine packs tell scientists everywhere exactly which compound is inside.",
+        "hi": "रासायनिक बोतलों और दवाओं के पैकेटों पर लिखे व्यवस्थित नाम हर जगह के वैज्ञानिकों को ठीक-ठीक बताते हैं कि भीतर कौन-सा यौगिक है।"
+      },
+      "examFocus": {
+        "en": "Name compounds from structures (halo-, -ol, -al, -one, -oic acid, -ene, -yne) and draw structures from names.",
+        "hi": "संरचनाओं से यौगिकों के नाम लिखना (हैलो-, -ॉल, -ैल, -ोन, -ॉइक अम्ल, -ईन, -आइन) और नामों से संरचनाएँ बनाना।"
+      },
+      "commonMistakes": [
+        {"en": "Counting the carbon of –CHO or –COOH separately — it is part of the main chain (CH₃CHO is ethanal, not methanal).", "hi": "–CHO या –COOH के कार्बन को अलग गिनना — वह मुख्य शृंखला का भाग है (CH₃CHO एथेनैल है, मेथेनैल नहीं)।"}
+      ],
+      "formulas": ["CH₃CH₂CHO propanal", "CH₃COCH₃ propanone", "CH₃CH₂OH ethanol", "CH₃COOH ethanoic acid", "CH₃CH=CH₂ propene"],
+      "practicalIds": [],
+      "conceptIds": ["functional-groups-and-nomenclature"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-10-en", "section": "4.2.5, Table 4.4"}],
+      "memoryTricks": [
+        {"trick": {"en": "\"Monkeys Eat Peeled Bananas\" = Meth, Eth, Prop, But = 1, 2, 3, 4 carbons", "hi": "\"Monkeys Eat Peeled Bananas\" = मेथ, एथ, प्रोप, ब्यूट = 1, 2, 3, 4 कार्बन"}, "recall": {"en": "The first letters give the stems for chains of 1 to 4 carbon atoms; pent- (5) is like pentagon.", "hi": "पहले अक्षर 1 से 4 कार्बन वाली शृंखला के मूल नाम बताते हैं; पेंट- (5) पेंटागन जैसा है।"}},
+        {"trick": {"en": "The suffix hides in the name: alcohOL → -ol, ALdehyde → -al, ketONE → -one", "hi": "अनुलग्न नाम में ही छिपा है: alcohOL → -ऑल, ALdehyde → -ऐल, ketONE → -ओन"}, "recall": {"en": "Ethanol (alcohol), propanal (aldehyde), propanone (ketone); carboxylic acids end in -oic acid.", "hi": "एथेनॉल (ऐल्कोहॉल), प्रोपेनैल (ऐल्डिहाइड), प्रोपेनोन (कीटोन); कार्बोक्सिलिक अम्ल -ऑइक अम्ल पर समाप्त होते हैं।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "IUPAC name = stem for the number of carbons (meth-, eth-, prop-, but-, pent-) + prefix or suffix for the functional group or bond.", "hi": "IUPAC नाम = कार्बनों की संख्या का मूल (मेथ-, एथ-, प्रोप-, ब्यूट-, पेंट-) + प्रकार्यात्मक समूह या आबंध का पूर्वलग्न या अनुलग्न।"},
+        "formula": "CH₃COCH₃ propanone",
+        "points": [
+          {"en": "Suffixes: -ol, -al, -one, -oic acid, -ene, -yne; prefixes: chloro-, bromo-.", "hi": "अनुलग्न: -ऑल, -ऐल, -ओन, -ऑइक अम्ल, -ईन, -आइन; पूर्वलग्न: क्लोरो-, ब्रोमो-।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-10-ch04-t4.3",
+      "targetId": "cbse-10-ch04-t4.3",
+      "covers": ["cbse-10-ch04-t4.3.1"],
+      "definition": {
+        "en": "Combustion is the burning of a substance in oxygen to give carbon dioxide and water (for carbon compounds), releasing heat and light.",
+        "hi": "दहन किसी पदार्थ का ऑक्सीजन में जलना है, जिसमें (कार्बन यौगिकों के लिए) कार्बन डाइऑक्साइड और जल बनते हैं तथा ऊष्मा और प्रकाश मुक्त होते हैं।"
+      },
+      "explanation": {
+        "en": "Carbon in all its forms burns to CO₂. Saturated hydrocarbons generally burn with a clean blue flame, while unsaturated compounds burn with a yellow, sooty flame. Even a saturated fuel gives a sooty flame if the air supply is limited — the air holes of a gas stove let in enough air for a clean blue flame; blackened vessel bottoms mean the air holes are blocked. Coal and petroleum also contain nitrogen and sulphur, so their burning releases oxides that cause acid rain.",
+        "hi": "कार्बन अपने सभी रूपों में जलकर CO₂ बनाता है। संतृप्त हाइड्रोकार्बन सामान्यतः स्वच्छ नीली ज्वाला से जलते हैं, जबकि असंतृप्त यौगिक पीली, कालिखयुक्त ज्वाला देते हैं। वायु की आपूर्ति सीमित हो तो संतृप्त ईंधन भी कालिखयुक्त ज्वाला देता है — गैस चूल्हे के वायु-छिद्र स्वच्छ नीली ज्वाला के लिए पर्याप्त वायु देते हैं; बर्तनों की तली काली हो रही हो तो वायु-छिद्र बंद हैं। कोयले और पेट्रोलियम में नाइट्रोजन और सल्फ़र भी होते हैं, इसलिए इनके जलने से अम्लीय वर्षा उत्पन्न करने वाले ऑक्साइड निकलते हैं।"
+      },
+      "keyPoints": [
+        {"en": "CH₄ + 2O₂ → CO₂ + 2H₂O + heat and light.", "hi": "CH₄ + 2O₂ → CO₂ + 2H₂O + ऊष्मा और प्रकाश।"},
+        {"en": "A flame is produced only when gaseous substances burn; wood and charcoal glow when their volatile parts are used up.", "hi": "ज्वाला केवल तब बनती है जब गैसीय पदार्थ जलते हैं; लकड़ी और चारकोल वाष्पशील भाग जल जाने पर केवल दहकते हैं।"},
+        {"en": "Methane burns with a clean (blue) flame.", "hi": "मेथेन स्वच्छ (नीली) ज्वाला से जलती है।"}
+      ],
+      "realLife": {
+        "en": "Burning LPG, CNG, petrol and coal provides most of our energy; incomplete combustion produces soot and poisonous carbon monoxide.",
+        "hi": "एल.पी.जी., सी.एन.जी., पेट्रोल और कोयले के जलने से हमारी अधिकांश ऊर्जा मिलती है; अपूर्ण दहन से कालिख और विषैली कार्बन मोनोऑक्साइड बनती है।"
+      },
+      "examFocus": {
+        "en": "Balance combustion equations (methane, ethanol); explain the type of flame for saturated and unsaturated compounds.",
+        "hi": "दहन समीकरण संतुलित करना (मेथेन, एथनॉल); संतृप्त और असंतृप्त यौगिकों की ज्वाला का प्रकार समझाना।"
+      },
+      "commonMistakes": [
+        {"en": "Leaving combustion equations unbalanced — CH₄ needs 2O₂; C₂H₅OH needs 3O₂.", "hi": "दहन समीकरण असंतुलित छोड़ देना — CH₄ के लिए 2O₂; C₂H₅OH के लिए 3O₂।"}
+      ],
+      "formulas": ["C + O₂ → CO₂ + heat and light", "CH₄ + 2O₂ → CO₂ + 2H₂O + heat and light", "CH₃CH₂OH + 3O₂ → 2CO₂ + 3H₂O + heat and light"],
+      "practicalIds": [],
+      "conceptIds": ["reactions-of-carbon-compounds"],
+      "chemicalIds": ["methane", "ethanol"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "4.3, 4.3.1, Activities 4.3–4.4"}],
+      "quickRevision": {
+        "oneLine": {"en": "Combustion: burning in oxygen, giving carbon dioxide and water (for carbon compounds) with heat and light.", "hi": "दहन: ऑक्सीजन में जलना, जिससे (कार्बन यौगिकों से) कार्बन डाइऑक्साइड और जल बनते हैं तथा ऊष्मा और प्रकाश निकलते हैं।"},
+        "formula": "CH₄ + 2O₂ → CO₂ + 2H₂O + heat and light",
+        "points": [
+          {"en": "A flame forms only when gaseous substances burn.", "hi": "ज्वाला केवल तब बनती है जब गैसीय पदार्थ जलते हैं।"},
+          {"en": "Methane burns with a clean blue flame.", "hi": "मेथेन स्वच्छ नीली ज्वाला से जलती है।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-10-ch04-t4.3.2",
+      "targetId": "cbse-10-ch04-t4.3.2",
+      "covers": [],
+      "definition": {
+        "en": "Oxidation of carbon compounds here means adding oxygen with the help of an oxidising agent; alcohols are oxidised to carboxylic acids.",
+        "hi": "यहाँ कार्बन यौगिकों के ऑक्सीकरण का अर्थ ऑक्सीकारक की सहायता से ऑक्सीजन जोड़ना है; ऐल्कोहॉल ऑक्सीकृत होकर कार्बोक्सिलिक अम्ल बनते हैं।"
+      },
+      "explanation": {
+        "en": "Warm ethanol and add 5% alkaline potassium permanganate drop by drop: the purple colour disappears at first because the permanganate is used up in oxidising ethanol; once excess is added, the colour stays. Alkaline KMnO₄ and acidified K₂Cr₂O₇ are oxidising agents that convert ethanol to ethanoic acid. Combustion is also oxidation, but complete.",
+        "hi": "गरम एथनॉल में 5% क्षारीय पोटैशियम परमैंगनेट बूँद-बूँद डालें: पहले बैंगनी रंग ग़ायब होता है क्योंकि परमैंगनेट एथनॉल के ऑक्सीकरण में ख़र्च हो जाता है; अधिक मात्रा डालने पर रंग बना रहता है। क्षारीय KMnO₄ और अम्लीकृत K₂Cr₂O₇ ऑक्सीकारक हैं जो एथनॉल को एथेनॉइक अम्ल में बदलते हैं। दहन भी ऑक्सीकरण है, पर पूर्ण।"
+      },
+      "keyPoints": [
+        {"en": "CH₃CH₂OH →(alkaline KMnO₄ + heat, or acidified K₂Cr₂O₇ + heat) CH₃COOH.", "hi": "CH₃CH₂OH →(क्षारीय KMnO₄ + ऊष्मा, या अम्लीकृत K₂Cr₂O₇ + ऊष्मा) CH₃COOH।"},
+        {"en": "Disappearance of the purple colour shows the permanganate is being used up.", "hi": "बैंगनी रंग का ग़ायब होना दर्शाता है कि परमैंगनेट ख़र्च हो रहा है।"}
+      ],
+      "realLife": {
+        "en": "Breath-analysers used by traffic police were based on the colour change when dichromate oxidises alcohol; vinegar forms when alcohol is oxidised.",
+        "hi": "यातायात पुलिस के ब्रेथ-एनालाइज़र डाइक्रोमेट द्वारा ऐल्कोहॉल के ऑक्सीकरण पर रंग परिवर्तन पर आधारित थे; ऐल्कोहॉल के ऑक्सीकरण से सिरका बनता है।"
+      },
+      "examFocus": {
+        "en": "Name oxidising agents that convert ethanol to ethanoic acid and write the equation; explain the colour change of KMnO₄.",
+        "hi": "एथनॉल को एथेनॉइक अम्ल में बदलने वाले ऑक्सीकारकों के नाम और समीकरण लिखना; KMnO₄ का रंग परिवर्तन समझाना।"
+      },
+      "commonMistakes": [
+        {"en": "Saying the colour disappears because KMnO₄ is reduced by water — it is used up in oxidising ethanol.", "hi": "यह कहना कि जल के कारण KMnO₄ का रंग जाता है — वह एथनॉल के ऑक्सीकरण में ख़र्च होता है।"}
+      ],
+      "formulas": ["CH₃CH₂OH →(alkaline KMnO₄ + heat / acidified K₂Cr₂O₇ + heat) CH₃COOH"],
+      "practicalIds": [],
+      "conceptIds": ["reactions-of-carbon-compounds"],
+      "chemicalIds": ["ethanol", "ethanoic-acid"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "4.3.2, Activity 4.5"}],
+      "quickRevision": {
+        "oneLine": {"en": "Alcohols are oxidised to carboxylic acids by oxidising agents such as alkaline KMnO₄ or acidified K₂Cr₂O₇ on heating.", "hi": "क्षारीय KMnO₄ या अम्लीकृत K₂Cr₂O₇ जैसे उपचायक गरम करने पर ऐल्कोहॉल को कार्बोक्सिलिक अम्ल में उपचयित करते हैं।"},
+        "formula": "CH₃CH₂OH →(alkaline KMnO₄ + heat / acidified K₂Cr₂O₇ + heat) CH₃COOH",
+        "points": [
+          {"en": "The purple colour of KMnO₄ disappears as it is used up.", "hi": "KMnO₄ के उपयोग होने पर उसका बैंगनी रंग ग़ायब हो जाता है।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-10-ch04-t4.3.3",
+      "targetId": "cbse-10-ch04-t4.3.3",
+      "covers": [],
+      "definition": {
+        "en": "In an addition reaction, atoms are added across a double or triple bond of an unsaturated compound, making it saturated. Adding hydrogen in the presence of a nickel or palladium catalyst is hydrogenation.",
+        "hi": "संकलन अभिक्रिया में असंतृप्त यौगिक के द्वि या त्रिआबंध पर परमाणु जुड़ जाते हैं और वह संतृप्त बन जाता है। निकेल या पैलेडियम उत्प्रेरक की उपस्थिति में हाइड्रोजन जोड़ना हाइड्रोजनीकरण कहलाता है।"
+      },
+      "explanation": {
+        "en": "A catalyst is a substance that makes a reaction happen or go faster without being changed itself. Vegetable oils, which have long unsaturated carbon chains, are hydrogenated with a nickel catalyst to make vanaspati ghee. Animal fats contain saturated fatty acids that are considered harmful to health, so oils with unsaturated fatty acids are a better choice for cooking.",
+        "hi": "उत्प्रेरक वह पदार्थ है जो स्वयं परिवर्तित हुए बिना अभिक्रिया को होने देता या तेज़ करता है। लंबी असंतृप्त कार्बन शृंखलाओं वाले वनस्पति तेलों का निकेल उत्प्रेरक की उपस्थिति में हाइड्रोजनीकरण करके वनस्पति घी बनाया जाता है। जंतु वसा में संतृप्त वसा अम्ल होते हैं जिन्हें स्वास्थ्य के लिए हानिकारक माना जाता है, इसलिए खाना पकाने के लिए असंतृप्त वसा अम्लों वाले तेल बेहतर हैं।"
+      },
+      "keyPoints": [
+        {"en": "Only unsaturated compounds give addition reactions.", "hi": "केवल असंतृप्त यौगिक संकलन अभिक्रिया देते हैं।"},
+        {"en": "CH₃CH=CH₂ + H₂ →(Ni) CH₃CH₂CH₃ (propene → propane).", "hi": "CH₃CH=CH₂ + H₂ →(Ni) CH₃CH₂CH₃ (प्रोपीन → प्रोपेन)।"}
+      ],
+      "realLife": {
+        "en": "Vanaspati ghee is made by hydrogenating vegetable oil; the hydrogen comes partly from the chlor-alkali process.",
+        "hi": "वनस्पति घी वनस्पति तेल के हाइड्रोजनीकरण से बनता है; हाइड्रोजन आंशिक रूप से क्लोर-क्षार प्रक्रम से आती है।"
+      },
+      "examFocus": {
+        "en": "Write the hydrogenation equation with its condition (Ni/Pd catalyst); explain the conversion of oil to ghee.",
+        "hi": "शर्त (Ni/Pd उत्प्रेरक) सहित हाइड्रोजनीकरण का समीकरण लिखना; तेल से घी बनने की प्रक्रिया समझाना।"
+      },
+      "commonMistakes": [
+        {"en": "Writing an addition reaction for an alkane — alkanes are saturated and undergo substitution instead.", "hi": "ऐल्केन के लिए संकलन अभिक्रिया लिखना — ऐल्केन संतृप्त हैं और प्रतिस्थापन अभिक्रिया देते हैं।"}
+      ],
+      "formulas": ["R₂C=CR₂ + H₂ →(Ni/Pd catalyst) R₂CH–CHR₂", "CH₃CH=CH₂ + H₂ →(Ni) CH₃CH₂CH₃"],
+      "practicalIds": [],
+      "conceptIds": ["reactions-of-carbon-compounds"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-10-en", "section": "4.3.3"}],
+      "quickRevision": {
+        "oneLine": {"en": "Addition reaction: atoms add across a double or triple bond, making an unsaturated compound saturated.", "hi": "संकलन अभिक्रिया: द्वि या त्रि आबंध पर परमाणु जुड़ते हैं, जिससे असंतृप्त यौगिक संतृप्त हो जाता है।"},
+        "formula": "CH₃CH=CH₂ + H₂ →(Ni) CH₃CH₂CH₃",
+        "points": [
+          {"en": "Hydrogenation needs a nickel or palladium catalyst.", "hi": "हाइड्रोजनीकरण के लिए निकेल या पैलेडियम उत्प्रेरक चाहिए।"},
+          {"en": "Only unsaturated compounds give addition reactions.", "hi": "केवल असंतृप्त यौगिक संकलन अभिक्रिया देते हैं।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-10-ch04-t4.3.4",
+      "targetId": "cbse-10-ch04-t4.3.4",
+      "covers": [],
+      "definition": {
+        "en": "In a substitution reaction one atom or group in a molecule is replaced by another. Saturated hydrocarbons react with chlorine in sunlight, one hydrogen at a time being replaced by chlorine.",
+        "hi": "प्रतिस्थापन अभिक्रिया में अणु का कोई परमाणु या समूह दूसरे से प्रतिस्थापित होता है। संतृप्त हाइड्रोकार्बन सूर्य के प्रकाश में क्लोरीन से अभिक्रिया करते हैं, जिसमें एक-एक करके हाइड्रोजन क्लोरीन से प्रतिस्थापित होती है।"
+      },
+      "explanation": {
+        "en": "Alkanes are fairly unreactive, but in sunlight methane reacts quickly with chlorine: CH₄ + Cl₂ → CH₃Cl + HCl. Chloromethane forms first; further substitution can give products with more chlorine atoms. With higher alkanes, several products form depending on which hydrogen is replaced.",
+        "hi": "ऐल्केन काफ़ी अक्रियाशील हैं, पर सूर्य के प्रकाश में मेथेन क्लोरीन से तेज़ी से अभिक्रिया करती है: CH₄ + Cl₂ → CH₃Cl + HCl। पहले क्लोरोमेथेन बनता है; आगे प्रतिस्थापन से अधिक क्लोरीन वाले उत्पाद बन सकते हैं। उच्चतर ऐल्केनों में, कौन-सी हाइड्रोजन प्रतिस्थापित होती है उसके अनुसार अनेक उत्पाद बनते हैं।"
+      },
+      "keyPoints": [
+        {"en": "Condition: sunlight (or UV light).", "hi": "शर्त: सूर्य का प्रकाश (या पराबैंगनी प्रकाश)।"},
+        {"en": "Addition is typical of unsaturated compounds; substitution of saturated ones.", "hi": "संकलन असंतृप्त यौगिकों का और प्रतिस्थापन संतृप्त यौगिकों का विशिष्ट गुण है।"}
+      ],
+      "realLife": {
+        "en": "Chlorinated hydrocarbons have been used as solvents and refrigerants; some (CFCs) damage the ozone layer.",
+        "hi": "क्लोरीनीकृत हाइड्रोकार्बन विलायकों और प्रशीतकों के रूप में प्रयुक्त हुए हैं; इनमें से कुछ (CFC) ओज़ोन परत को हानि पहुँचाते हैं।"
+      },
+      "examFocus": {
+        "en": "Write the methane–chlorine equation with its condition, name the product and the reaction type.",
+        "hi": "शर्त सहित मेथेन–क्लोरीन का समीकरण लिखना, उत्पाद और अभिक्रिया का प्रकार बताना।"
+      },
+      "commonMistakes": [
+        {"en": "Forgetting HCl as the second product.", "hi": "दूसरे उत्पाद HCl को भूल जाना।"}
+      ],
+      "formulas": ["CH₄ + Cl₂ →(sunlight) CH₃Cl + HCl"],
+      "practicalIds": [],
+      "conceptIds": ["reactions-of-carbon-compounds"],
+      "chemicalIds": ["methane"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "4.3.4"}],
+      "memoryTricks": [
+        {"trick": {"en": "S–S and U–A: Saturated → Substitution; Unsaturated → Addition", "hi": "S–S और U–A: संतृप्त (Saturated) → प्रतिस्थापन (Substitution); असंतृप्त (Unsaturated) → संकलन (Addition)"}, "recall": {"en": "Alkanes swap an H for Cl in sunlight; alkenes and alkynes add atoms across the multiple bond.", "hi": "ऐल्केन सूर्य के प्रकाश में H को Cl से बदलते हैं; ऐल्कीन और ऐल्काइन बहु-आबंध पर परमाणु जोड़ते हैं।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Substitution reaction: one atom or group is replaced by another; saturated hydrocarbons react with chlorine in sunlight.", "hi": "प्रतिस्थापन अभिक्रिया: एक परमाणु या समूह दूसरे से बदल जाता है; संतृप्त हाइड्रोकार्बन सूर्य के प्रकाश में क्लोरीन से अभिक्रिया करते हैं।"},
+        "formula": "CH₄ + Cl₂ →(sunlight) CH₃Cl + HCl",
+        "points": [
+          {"en": "Hydrogens are replaced by chlorine one at a time.", "hi": "हाइड्रोजन एक-एक करके क्लोरीन से प्रतिस्थापित होते हैं।"},
+          {"en": "Condition: sunlight (or UV light).", "hi": "शर्त: सूर्य का प्रकाश (या पराबैंगनी प्रकाश)।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-10-ch04-t4.4",
+      "targetId": "cbse-10-ch04-t4.4",
+      "covers": ["cbse-10-ch04-t4.4.1"],
+      "definition": {
+        "en": "Ethanol (ethyl alcohol, C₂H₅OH) is a liquid at room temperature, soluble in water in all proportions, and is the active ingredient of alcoholic drinks.",
+        "hi": "एथनॉल (एथिल ऐल्कोहॉल, C₂H₅OH) कक्ष ताप पर द्रव है, जल में सभी अनुपातों में घुलनशील है और ऐल्कोहॉली पेयों का सक्रिय घटक है।"
+      },
+      "explanation": {
+        "en": "Ethanol is a good solvent, used in tincture of iodine, cough syrups and tonics. Its solution is neutral to litmus. Reactions: (1) with sodium it gives sodium ethoxide and hydrogen — 2Na + 2CH₃CH₂OH → 2CH₃CH₂O⁻Na⁺ + H₂; (2) heated at 443 K with excess concentrated sulphuric acid it loses water to form ethene — conc. H₂SO₄ acts as a dehydrating agent. Taking ethanol slows metabolism and depresses the nervous system; methanol is far more dangerous and can cause blindness and death. Industrial alcohol is denatured by adding poisonous methanol and a blue dye.",
+        "hi": "एथनॉल एक अच्छा विलायक है, जो टिंचर आयोडीन, कफ़ सिरप और टॉनिक में प्रयुक्त होता है। इसका विलयन लिटमस के प्रति उदासीन है। अभिक्रियाएँ: (1) सोडियम के साथ सोडियम एथॉक्साइड और हाइड्रोजन देता है — 2Na + 2CH₃CH₂OH → 2CH₃CH₂O⁻Na⁺ + H₂; (2) 443 K पर अधिक सांद्र सल्फ़्यूरिक अम्ल के साथ गरम करने पर जल खोकर एथीन बनाता है — सांद्र H₂SO₄ निर्जलीकारक का काम करता है। एथनॉल के सेवन से उपापचय धीमा होता है और तंत्रिका तंत्र शिथिल होता है; मेथनॉल कहीं अधिक घातक है और अंधापन व मृत्यु तक कर सकता है। औद्योगिक ऐल्कोहॉल में विषैला मेथनॉल और नीला रंग मिलाकर उसे विकृत (डीनेचर्ड) किया जाता है।"
+      },
+      "keyPoints": [
+        {"en": "Test: ethanol + sodium → hydrogen gas (pop test).", "hi": "परीक्षण: एथनॉल + सोडियम → हाइड्रोजन गैस (पॉप परीक्षण)।"},
+        {"en": "Dehydration: CH₃CH₂OH →(hot conc. H₂SO₄, 443 K) CH₂=CH₂ + H₂O.", "hi": "निर्जलीकरण: CH₃CH₂OH →(गरम सांद्र H₂SO₄, 443 K) CH₂=CH₂ + H₂O।"},
+        {"en": "Ethanol from sugarcane molasses is blended with petrol as a cleaner fuel.", "hi": "गन्ने के शीरे से बना एथनॉल स्वच्छ ईंधन के रूप में पेट्रोल में मिलाया जाता है।"}
+      ],
+      "realLife": {
+        "en": "Hand sanitisers, medicines, ethanol-blended petrol; strict laws exist because spurious liquor containing methanol kills.",
+        "hi": "हैंड सैनिटाइज़र, दवाएँ, एथनॉल-मिश्रित पेट्रोल; मेथनॉल वाली नकली शराब जानलेवा होती है, इसलिए कड़े क़ानून हैं।"
+      },
+      "examFocus": {
+        "en": "Identify a neutral compound C₂H₆O that gives hydrogen with sodium (ethanol) and write its reactions with Na and with conc. H₂SO₄ at 443 K, stating the role of the acid.",
+        "hi": "सोडियम के साथ हाइड्रोजन देने वाला उदासीन यौगिक C₂H₆O (एथनॉल) पहचानना और उसकी Na तथा 443 K पर सांद्र H₂SO₄ के साथ अभिक्रियाएँ लिखना, अम्ल की भूमिका सहित।"
+      },
+      "commonMistakes": [
+        {"en": "Calling conc. H₂SO₄ an oxidising agent in this reaction — here it acts as a dehydrating agent.", "hi": "इस अभिक्रिया में सांद्र H₂SO₄ को ऑक्सीकारक कहना — यहाँ यह निर्जलीकारक है।"}
+      ],
+      "formulas": ["2Na + 2CH₃CH₂OH → 2CH₃CH₂O⁻Na⁺ + H₂", "CH₃CH₂OH →(hot conc. H₂SO₄, 443 K) CH₂=CH₂ + H₂O"],
+      "practicalIds": [],
+      "conceptIds": ["ethanol-and-ethanoic-acid"],
+      "chemicalIds": ["ethanol"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "4.4, 4.4.1, Activity 4.6"}],
+      "quickRevision": {
+        "oneLine": {"en": "Ethanol (C₂H₅OH): a liquid at room temperature that mixes with water in all proportions.", "hi": "एथेनॉल (C₂H₅OH): कमरे के ताप पर द्रव, जो जल में हर अनुपात में घुल जाता है।"},
+        "formula": "CH₃CH₂OH →(hot conc. H₂SO₄, 443 K) CH₂=CH₂ + H₂O",
+        "points": [
+          {"en": "Ethanol + sodium → hydrogen gas (pop test).", "hi": "एथेनॉल + सोडियम → हाइड्रोजन गैस (पॉप परीक्षण)।"},
+          {"en": "Ethanol from sugarcane molasses is blended with petrol as a cleaner fuel.", "hi": "गन्ने के शीरे से बना एथेनॉल पेट्रोल में स्वच्छ ईंधन के रूप में मिलाया जाता है।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-10-ch04-t4.4.2",
+      "targetId": "cbse-10-ch04-t4.4.2",
+      "covers": [],
+      "definition": {
+        "en": "Ethanoic acid (acetic acid, CH₃COOH) is a carboxylic acid. A 5–8% solution in water is vinegar; pure ethanoic acid freezes in cold weather and is called glacial acetic acid.",
+        "hi": "एथेनॉइक अम्ल (ऐसीटिक अम्ल, CH₃COOH) एक कार्बोक्सिलिक अम्ल है। जल में इसका 5–8% विलयन सिरका है; शुद्ध एथेनॉइक अम्ल ठंड में जम जाता है और ग्लेशियल ऐसीटिक अम्ल कहलाता है।"
+      },
+      "explanation": {
+        "en": "Ethanoic acid is a weak acid compared with HCl. Reactions: (1) Esterification — with ethanol in the presence of an acid catalyst it forms a sweet-smelling ester, ethyl ethanoate: CH₃COOH + CH₃CH₂OH → CH₃COOCH₂CH₃ + H₂O. (2) Saponification — the ester heated with NaOH gives back the alcohol and sodium ethanoate; this reaction is used to make soap. (3) With a base: NaOH + CH₃COOH → CH₃COONa + H₂O. (4) With carbonates and hydrogencarbonates it gives a salt, water and CO₂ (brisk effervescence).",
+        "hi": "HCl की तुलना में एथेनॉइक अम्ल दुर्बल अम्ल है। अभिक्रियाएँ: (1) एस्टरीकरण — अम्ल उत्प्रेरक की उपस्थिति में एथनॉल के साथ मीठी गंध वाला एस्टर, एथिल एथेनोएट, बनाता है: CH₃COOH + CH₃CH₂OH → CH₃COOCH₂CH₃ + H₂O। (2) साबुनीकरण — एस्टर को NaOH के साथ गरम करने पर ऐल्कोहॉल और सोडियम एथेनोएट पुनः बनते हैं; इसी अभिक्रिया से साबुन बनता है। (3) क्षारक के साथ: NaOH + CH₃COOH → CH₃COONa + H₂O। (4) कार्बोनेट और हाइड्रोजनकार्बोनेट के साथ लवण, जल और CO₂ देता है (तीव्र बुदबुदाहट)।"
+      },
+      "keyPoints": [
+        {"en": "Esters are used in perfumes and as flavouring agents.", "hi": "एस्टर इत्र और सुगंधकारक के रूप में प्रयुक्त होते हैं।"},
+        {"en": "2CH₃COOH + Na₂CO₃ → 2CH₃COONa + H₂O + CO₂; CH₃COOH + NaHCO₃ → CH₃COONa + H₂O + CO₂.", "hi": "2CH₃COOH + Na₂CO₃ → 2CH₃COONa + H₂O + CO₂; CH₃COOH + NaHCO₃ → CH₃COONa + H₂O + CO₂।"},
+        {"en": "Ethanoic acid turns blue litmus red; its smell is like vinegar.", "hi": "एथेनॉइक अम्ल नीले लिटमस को लाल करता है; उसकी गंध सिरके जैसी होती है।"}
+      ],
+      "realLife": {
+        "en": "Vinegar preserves pickles; esters give fruits and perfumes their smell; saponification is how soap is made.",
+        "hi": "सिरका अचार को सुरक्षित रखता है; फलों और इत्रों की सुगंध एस्टरों से आती है; साबुन साबुनीकरण से बनता है।"
+      },
+      "examFocus": {
+        "en": "Identify X, Y and Z in esterification/saponification questions; write the four reactions of ethanoic acid; complete CH₃COOC₂H₅ + NaOH →.",
+        "hi": "एस्टरीकरण/साबुनीकरण प्रश्नों में X, Y और Z पहचानना; एथेनॉइक अम्ल की चारों अभिक्रियाएँ लिखना; CH₃COOC₂H₅ + NaOH → पूरा करना।"
+      },
+      "commonMistakes": [
+        {"en": "Forgetting the acid catalyst in esterification or writing NaOH there — esterification needs an acid catalyst; NaOH is for saponification.", "hi": "एस्टरीकरण में अम्ल उत्प्रेरक भूल जाना या वहाँ NaOH लिखना — एस्टरीकरण को अम्ल उत्प्रेरक चाहिए; NaOH साबुनीकरण के लिए है।"}
+      ],
+      "formulas": ["CH₃COOH + CH₃CH₂OH →(acid) CH₃COOCH₂CH₃ + H₂O", "CH₃COOC₂H₅ →(NaOH) C₂H₅OH + CH₃COONa", "NaOH + CH₃COOH → CH₃COONa + H₂O", "CH₃COOH + NaHCO₃ → CH₃COONa + H₂O + CO₂"],
+      "practicalIds": ["cbse-10-p8"],
+      "conceptIds": ["ethanol-and-ethanoic-acid"],
+      "chemicalIds": ["ethanoic-acid", "esterification-reaction"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "4.4.2, Activities 4.7–4.9"}],
+      "memoryTricks": [
+        {"trick": {"en": "GLACIAL = ice", "hi": "ग्लेशियल (GLACIAL) = बर्फ़"}, "recall": {"en": "Pure ethanoic acid freezes in cold weather and looks like ice, so it is called glacial acetic acid.", "hi": "शुद्ध एथेनॉइक अम्ल ठंड में जमकर बर्फ़ जैसा दिखता है, इसलिए इसे ग्लेशियल ऐसीटिक अम्ल कहते हैं।"}},
+        {"trick": {"en": "SAPO = soap: ester + NaOH → alcohol + sodium salt", "hi": "SAPO = साबुन: एस्टर + NaOH → ऐल्कोहॉल + सोडियम लवण"}, "recall": {"en": "Breaking an ester with NaOH is saponification — the reaction used to make soap.", "hi": "NaOH से एस्टर को तोड़ना साबुनीकरण है — साबुन बनाने में यही अभिक्रिया होती है।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Ethanoic acid (CH₃COOH) is a carboxylic acid; a 5–8% solution in water is vinegar.", "hi": "एथेनॉइक अम्ल (CH₃COOH) एक कार्बोक्सिलिक अम्ल है; जल में इसका 5–8% विलयन सिरका है।"},
+        "formula": "CH₃COOH + CH₃CH₂OH →(acid) CH₃COOCH₂CH₃ + H₂O",
+        "points": [
+          {"en": "Acid + alcohol → ester (used in perfumes and flavours).", "hi": "अम्ल + ऐल्कोहॉल → एस्टर (इत्र और सुगंध में उपयोगी)।"},
+          {"en": "With NaHCO₃ or Na₂CO₃ it gives CO₂.", "hi": "NaHCO₃ या Na₂CO₃ के साथ यह CO₂ देता है।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-10-ch04-t4.5",
+      "targetId": "cbse-10-ch04-t4.5",
+      "covers": [],
+      "definition": {
+        "en": "Soaps are sodium or potassium salts of long-chain carboxylic acids. Detergents are generally sodium salts of sulphonic acids or ammonium salts with chloride or bromide ions. A micelle is a cluster of soap molecules with their hydrocarbon tails inside and ionic heads outside.",
+        "hi": "साबुन लंबी शृंखला वाले कार्बोक्सिलिक अम्लों के सोडियम या पोटैशियम लवण हैं। अपमार्जक प्रायः सल्फ़ोनिक अम्लों के सोडियम लवण या क्लोराइड/ब्रोमाइड आयनों वाले अमोनियम लवण होते हैं। मिसेल साबुन के अणुओं का वह गुच्छा है जिसमें हाइड्रोकार्बन पूँछें भीतर और आयनिक सिर बाहर होते हैं।"
+      },
+      "explanation": {
+        "en": "A soap molecule has an ionic (hydrophilic) end that dissolves in water and a long hydrocarbon (hydrophobic) tail that dissolves in oil. In water, the tails point inward into the oily dirt and the ionic heads face the water, forming micelles that trap the dirt; rinsing washes the micelles away. In hard water, soap reacts with calcium and magnesium salts to form an insoluble scum, so more soap is wasted and less foam forms. Detergents do not form scum with hard water because their charged ends do not form insoluble precipitates with calcium and magnesium ions, so they work in hard water too.",
+        "hi": "साबुन के अणु का एक आयनिक (जलरागी) सिरा जल में घुलता है और लंबी हाइड्रोकार्बन (जलविरागी) पूँछ तेल में। जल में पूँछें तैलीय मैल की ओर भीतर और आयनिक सिर जल की ओर रहते हैं, जिससे मिसेल बनते हैं जो मैल को फँसा लेते हैं; पानी से धोने पर मिसेल बह जाते हैं। कठोर जल में साबुन कैल्सियम और मैग्नीशियम लवणों से अभिक्रिया कर अघुलनशील झाग-मैल (स्कम) बनाता है, जिससे साबुन व्यर्थ जाता है और झाग कम बनता है। अपमार्जक कठोर जल में स्कम नहीं बनाते, क्योंकि उनके आवेशित सिरे कैल्सियम और मैग्नीशियम आयनों के साथ अघुलनशील अवक्षेप नहीं बनाते; इसलिए वे कठोर जल में भी काम करते हैं।"
+      },
+      "keyPoints": [
+        {"en": "Hydrophilic head faces water; hydrophobic tail goes into oil/dirt.", "hi": "जलरागी सिर जल की ओर; जलविरागी पूँछ तेल/मैल में।"},
+        {"en": "Less foam and white scum with soap → the water is hard.", "hi": "साबुन से कम झाग और सफ़ेद स्कम → जल कठोर है।"},
+        {"en": "Detergents are used in shampoos and for washing clothes.", "hi": "अपमार्जक शैम्पू और कपड़े धोने में प्रयुक्त होते हैं।"}
+      ],
+      "realLife": {
+        "en": "Tubewell or hand-pump water is often hard, which is why soap lathers poorly there and detergents are preferred for laundry.",
+        "hi": "ट्यूबवेल या हैंडपंप का पानी प्रायः कठोर होता है, इसीलिए वहाँ साबुन ठीक से झाग नहीं देता और कपड़े धोने के लिए अपमार्जक पसंद किए जाते हैं।"
+      },
+      "examFocus": {
+        "en": "Explain the cleansing action of soap with a labelled micelle diagram; compare soap and detergent in hard water; describe the soft/hard water practical.",
+        "hi": "नामांकित मिसेल चित्र सहित साबुन की सफ़ाई क्रिया समझाना; कठोर जल में साबुन और अपमार्जक की तुलना; मृदु/कठोर जल वाले प्रयोग का वर्णन।"
+      },
+      "commonMistakes": [
+        {"en": "Drawing micelles with the ionic heads inside — in water, the hydrocarbon tails are inside and the ionic heads outside.", "hi": "मिसेल में आयनिक सिर भीतर दिखाना — जल में हाइड्रोकार्बन पूँछें भीतर और आयनिक सिर बाहर होते हैं।"}
+      ],
+      "formulas": [],
+      "practicalIds": ["cbse-10-p9"],
+      "conceptIds": ["soaps-and-detergents"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-10-en", "section": "4.5, Activities 4.10–4.12"}],
+      "memoryTricks": [
+        {"trick": {"en": "HydroPHILIC = water-loving head; hydroPHOBIC = water-fearing tail", "hi": "जलरागी (PHILIC = प्रेम) सिर; जलविरागी (PHOBIC = डर) पूँछ"}, "recall": {"en": "In a micelle the heads face the water and the tails hide inside, trapping oil and dirt.", "hi": "मिसेल में सिर जल की ओर रहते हैं और पूँछें अंदर छिपकर तेल व मैल को फँसा लेती हैं।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Soaps are sodium or potassium salts of long-chain carboxylic acids; a micelle has tails inside and ionic heads outside.", "hi": "साबुन लंबी शृंखला वाले कार्बोक्सिलिक अम्लों के सोडियम या पोटैशियम लवण हैं; मिसेल में पूँछें अंदर और आयनिक सिर बाहर होते हैं।"},
+        "points": [
+          {"en": "Hydrophilic head faces water; hydrophobic tail goes into oil or dirt.", "hi": "जलरागी सिर जल की ओर; जलविरागी पूँछ तेल या मैल में।"},
+          {"en": "Less foam and white scum with soap → the water is hard.", "hi": "साबुन से कम झाग और सफ़ेद मैल → जल कठोर है।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    }
+  ]
+}

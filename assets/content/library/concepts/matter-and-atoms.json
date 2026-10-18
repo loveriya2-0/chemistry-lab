@@ -1,0 +1,279 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "mixture-types", "type": "concept",
+      "title": {"en": "Homogeneous and heterogeneous mixtures", "hi": "समांगी और विषमांगी मिश्रण"},
+      "sections": {
+        "whatIsIt": {"en": "A mixture contains two or more substances that are not chemically combined. It is homogeneous if its composition is the same throughout, and heterogeneous if it is not.", "hi": "मिश्रण में दो या अधिक पदार्थ होते हैं जो रासायनिक रूप से जुड़े नहीं होते। संघटन पूरे में एक जैसा हो तो मिश्रण समांगी, नहीं तो विषमांगी होता है।"},
+        "howItWorks": {"en": "Each component keeps its own properties, so mixtures can be separated by physical methods that use differences in size, density, solubility, boiling point or the ability to sublime.", "hi": "प्रत्येक घटक अपने गुण बनाए रखता है, इसलिए मिश्रणों को आकार, घनत्व, विलेयता, क्वथनांक या ऊर्ध्वपातन के अंतर पर आधारित भौतिक विधियों से अलग किया जा सकता है।"},
+        "whyImportant": {"en": "The type of mixture decides which separation method will work.", "hi": "मिश्रण का प्रकार तय करता है कि कौन-सी पृथक्करण विधि काम करेगी।"},
+        "realLifeUses": {"en": "Air, sea water, alloys, milk, smoke and muddy water are all mixtures we deal with daily.", "hi": "वायु, समुद्री जल, मिश्रधातुएँ, दूध, धुआँ और गंदला पानी — सब मिश्रण हैं जिनसे हम रोज़ जुड़ते हैं।"},
+        "rememberForExam": {"en": "Be ready to classify everyday mixtures with a reason, and to name a suitable separation method for each.", "hi": "रोज़मर्रा के मिश्रणों को कारण सहित वर्गीकृत करने और प्रत्येक के लिए उपयुक्त पृथक्करण विधि बताने के लिए तैयार रहें।"}
+      },
+      "equations": [], "relatedConceptIds": ["colloids-and-suspensions", "concentration-of-solution"],
+      "sources": [{"sourceId": "ncert-9-en", "section": "5.1, 5.4"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "concentration-of-solution", "type": "concept",
+      "title": {"en": "Concentration of a solution", "hi": "विलयन की सांद्रता"},
+      "sections": {
+        "whatIsIt": {"en": "The amount of solute dissolved in a given amount of solvent or solution, expressed in Class 9 as % m/m, % m/v or % v/v.", "hi": "विलायक या विलयन की दी गई मात्रा में घुले विलेय की मात्रा, जिसे कक्षा 9 में % m/m, % m/v या % v/v में व्यक्त करते हैं।"},
+        "howItWorks": {"en": "Divide the amount of solute by the amount of the whole solution and multiply by 100, using mass or volume as the situation requires.", "hi": "विलेय की मात्रा को पूरे विलयन की मात्रा से भाग देकर 100 से गुणा करें; स्थिति के अनुसार द्रव्यमान या आयतन लें।"},
+        "whyImportant": {"en": "Medicines, ORS, pesticide sprays and food products work safely only at the right concentration.", "hi": "दवाएँ, ओ.आर.एस., कीटनाशक घोल और खाद्य पदार्थ सही सांद्रता पर ही सुरक्षित रूप से काम करते हैं।"},
+        "realLifeUses": {"en": "0.9% m/v saline drips, 5% glucose solution, vinegar about 5% v/v acetic acid, nutrition labels.", "hi": "0.9% m/v सलाइन ड्रिप, 5% ग्लूकोस विलयन, लगभग 5% v/v ऐसीटिक अम्ल वाला सिरका, पोषण लेबल।"},
+        "rememberForExam": {"en": "Numericals: always use the mass/volume of the solution (solute + solvent) in the denominator.", "hi": "आंकिक प्रश्न: हर में सदैव विलयन (विलेय + विलायक) का द्रव्यमान/आयतन लें।"}
+      },
+      "equations": ["% m/m = (mass of solute ÷ mass of solution) × 100", "% m/v = (mass of solute ÷ volume of solution) × 100", "% v/v = (volume of solute ÷ volume of solution) × 100"],
+      "relatedConceptIds": ["solubility"],
+      "sources": [{"sourceId": "ncert-9-en", "section": "5.2.1–5.2.2"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "solubility", "type": "concept",
+      "title": {"en": "Solubility and saturated solutions", "hi": "विलेयता और संतृप्त विलयन"},
+      "sections": {
+        "whatIsIt": {"en": "The maximum mass of solute that dissolves in 100 g of solvent at a given temperature; a solution holding that much is saturated.", "hi": "किसी ताप पर 100 g विलायक में घुल सकने वाले विलेय का अधिकतम द्रव्यमान; इतना विलेय रखने वाला विलयन संतृप्त होता है।"},
+        "howItWorks": {"en": "For most solids solubility rises with temperature; for gases it falls. Cooling a hot saturated solution therefore releases the excess solid.", "hi": "अधिकांश ठोसों की विलेयता ताप के साथ बढ़ती है; गैसों की घटती है। इसलिए गरम संतृप्त विलयन को ठंडा करने पर अतिरिक्त ठोस बाहर आ जाता है।"},
+        "whyImportant": {"en": "It is the principle behind crystallisation and explains why warm water holds less oxygen for fish.", "hi": "यही क्रिस्टलीकरण का सिद्धांत है और यह भी समझाता है कि गरम पानी में मछलियों के लिए कम ऑक्सीजन क्यों होती है।"},
+        "realLifeUses": {"en": "Making sugar syrup, growing crystals, salt manufacture, fizzy drinks losing gas when warm.", "hi": "चाशनी बनाना, क्रिस्टल उगाना, नमक निर्माण, गरम होने पर कोल्ड ड्रिंक से गैस निकलना।"},
+        "rememberForExam": {"en": "Read solubility tables/curves and scale values for masses of water other than 100 g.", "hi": "विलेयता तालिकाएँ/वक्र पढ़ें और 100 g के अलावा पानी की अन्य मात्राओं के लिए मान अनुपात से निकालें।"}
+      },
+      "equations": [], "relatedConceptIds": ["crystallisation", "concentration-of-solution"],
+      "sources": [{"sourceId": "ncert-9-en", "section": "5.2.3"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "crystallisation", "type": "process",
+      "title": {"en": "Crystallisation", "hi": "क्रिस्टलीकरण"},
+      "sections": {
+        "whatIsIt": {"en": "A method of obtaining a pure solid as crystals from its saturated solution.", "hi": "संतृप्त विलयन से शुद्ध ठोस को क्रिस्टल के रूप में प्राप्त करने की विधि।"},
+        "howItWorks": {"en": "Make a hot saturated solution, filter off insoluble impurities, then cool slowly; the pure solid crystallises and soluble impurities stay dissolved.", "hi": "गरम संतृप्त विलयन बनाएँ, अघुलनशील अशुद्धियाँ छान दें, फिर धीरे-धीरे ठंडा करें; शुद्ध ठोस क्रिस्टलित होता है और घुलनशील अशुद्धियाँ घुली रहती हैं।"},
+        "whyImportant": {"en": "It gives purer products than evaporation to dryness and does not decompose heat-sensitive solids.", "hi": "यह पूर्ण वाष्पन से अधिक शुद्ध उत्पाद देता है और ऊष्मा से अपघटित होने वाले ठोसों को नष्ट नहीं करता।"},
+        "realLifeUses": {"en": "Salt from sea water, sugar and mishri, alum, copper sulphate and medicines.", "hi": "समुद्री जल से नमक, चीनी और मिश्री, फिटकरी, कॉपर सल्फ़ेट और दवाएँ।"},
+        "rememberForExam": {"en": "Write the steps in order and the reason for slow cooling (larger, well-formed crystals).", "hi": "चरण क्रम से लिखें और धीरे ठंडा करने का कारण बताएँ (बड़े, सुडौल क्रिस्टल)।"}
+      },
+      "equations": [], "relatedConceptIds": ["solubility"],
+      "sources": [{"sourceId": "ncert-9-en", "section": "5.3.1"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "distillation", "type": "process",
+      "title": {"en": "Distillation and fractional distillation", "hi": "आसवन और प्रभाजी आसवन"},
+      "sections": {
+        "whatIsIt": {"en": "Separating a liquid from a mixture by boiling it and condensing its vapour; fractional distillation does this for liquids with close boiling points.", "hi": "मिश्रण से द्रव को उबालकर और उसकी वाष्प को संघनित करके अलग करना; निकट क्वथनांक वाले द्रवों के लिए यही काम प्रभाजी आसवन करता है।"},
+        "howItWorks": {"en": "The lower-boiling liquid vaporises first, passes through a cooled condenser and is collected as the distillate.", "hi": "कम क्वथनांक वाला द्रव पहले वाष्प बनता है, ठंडे संघनित्र से गुज़रता है और आसुत के रूप में एकत्र होता है।"},
+        "whyImportant": {"en": "It is the only simple way to separate miscible liquids and to recover a solvent.", "hi": "मिश्रणीय द्रवों को अलग करने और विलायक को वापस पाने का यही सरल तरीका है।"},
+        "realLifeUses": {"en": "Distilled water, perfumes such as Kannauj's ittar, petroleum refining into LPG, petrol, kerosene and diesel.", "hi": "आसुत जल, कन्नौज के इत्र जैसे सुगंध, पेट्रोलियम से एल.पी.जी., पेट्रोल, केरोसिन और डीज़ल बनाना।"},
+        "rememberForExam": {"en": "Simple distillation needs a boiling-point difference of about 25 °C or more; draw and label the apparatus.", "hi": "सरल आसवन के लिए क्वथनांकों में लगभग 25 °C या अधिक का अंतर चाहिए; उपकरण का नामांकित चित्र बनाएँ।"}
+      },
+      "equations": [], "relatedConceptIds": ["mixture-types"],
+      "sources": [{"sourceId": "ncert-9-en", "section": "5.3.2"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "paper-chromatography", "type": "process",
+      "title": {"en": "Paper chromatography", "hi": "कागज़ वर्णलेखन (क्रोमैटोग्राफी)"},
+      "sections": {
+        "whatIsIt": {"en": "A technique that separates dissolved coloured substances by letting a solvent carry them up a strip of paper.", "hi": "वह तकनीक जिसमें विलायक घुले हुए रंगीन पदार्थों को कागज़ की पट्टी पर ऊपर ले जाकर अलग करता है।"},
+        "howItWorks": {"en": "Components move at different speeds because they differ in how strongly they stick to the paper and how well they dissolve in the solvent.", "hi": "घटक अलग-अलग गति से चलते हैं क्योंकि वे कागज़ से भिन्न सीमा तक चिपकते हैं और विलायक में भिन्न सीमा तक घुलते हैं।"},
+        "whyImportant": {"en": "It separates very small amounts of similar substances that other methods cannot.", "hi": "यह समान प्रकार के पदार्थों की बहुत थोड़ी मात्रा को भी अलग कर देती है, जो अन्य विधियाँ नहीं कर पातीं।"},
+        "realLifeUses": {"en": "Analysing inks, dyes, food colours, leaf and flower pigments; testing for drugs and adulterants.", "hi": "स्याही, रंजक, खाद्य रंग, पत्ती और फूलों के वर्णकों का विश्लेषण; दवाओं और मिलावट की जाँच।"},
+        "rememberForExam": {"en": "The spot is above the solvent level and the line is drawn in pencil.", "hi": "धब्बा विलायक-स्तर से ऊपर होता है और रेखा पेंसिल से खींची जाती है।"}
+      },
+      "equations": [], "relatedConceptIds": ["mixture-types"],
+      "sources": [{"sourceId": "ncert-9-en", "section": "5.3.3"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "sublimation", "type": "process",
+      "title": {"en": "Sublimation", "hi": "ऊर्ध्वपातन"},
+      "sections": {
+        "whatIsIt": {"en": "The direct change of a solid into vapour on heating, without melting; the reverse is deposition.", "hi": "गरम करने पर ठोस का बिना पिघले सीधे वाष्प बनना; इसका उलटा निक्षेपण है।"},
+        "howItWorks": {"en": "Heating a mixture vaporises only the sublimable solid, which deposits again on a cool surface, leaving the other solid behind.", "hi": "मिश्रण गरम करने पर केवल ऊर्ध्वपातनीय ठोस वाष्प बनता है, जो ठंडी सतह पर फिर जम जाता है और दूसरा ठोस पीछे रह जाता है।"},
+        "whyImportant": {"en": "It separates solids such as camphor, naphthalene or ammonium chloride from non-sublimable solids.", "hi": "इससे कपूर, नैफ़्थलीन या अमोनियम क्लोराइड जैसे ठोस अऊर्ध्वपातनीय ठोसों से अलग होते हैं।"},
+        "realLifeUses": {"en": "Naphthalene balls shrinking in cupboards, dry ice for cold storage.", "hi": "अलमारी में नैफ़्थलीन गोलियों का घटना, ठंडे भंडारण के लिए शुष्क बर्फ़।"},
+        "rememberForExam": {"en": "Draw the china dish–inverted funnel set-up and distinguish sublimation from evaporation.", "hi": "चीनी मिट्टी की प्याली–उलटी कीप वाला चित्र बनाएँ और ऊर्ध्वपातन तथा वाष्पन में अंतर करें।"}
+      },
+      "equations": [], "relatedConceptIds": ["mixture-types"],
+      "sources": [{"sourceId": "ncert-9-en", "section": "5.4.2"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "colloids-and-suspensions", "type": "concept",
+      "title": {"en": "Solutions, colloids and suspensions", "hi": "विलयन, कोलॉइड और निलंबन"},
+      "sections": {
+        "whatIsIt": {"en": "Three kinds of mixtures that differ in particle size: solution (< 1 nm), colloid (1–1000 nm) and suspension (> 1000 nm).", "hi": "कण आकार में भिन्न तीन प्रकार के मिश्रण: विलयन (< 1 nm), कोलॉइड (1–1000 nm) और निलंबन (> 1000 nm)।"},
+        "howItWorks": {"en": "Particle size decides whether particles are visible, settle down, pass through filter paper and scatter light.", "hi": "कणों का आकार तय करता है कि वे दिखेंगे या नहीं, बैठेंगे या नहीं, फ़िल्टर पेपर से निकलेंगे या नहीं और प्रकाश बिखेरेंगे या नहीं।"},
+        "whyImportant": {"en": "It explains everyday materials like milk, blood and fog, and how to separate them (centrifugation, coagulation).", "hi": "यह दूध, रक्त और कोहरे जैसे रोज़मर्रा के पदार्थों को और उन्हें अलग करने (अपकेंद्रण, स्कंदन) को समझाता है।"},
+        "realLifeUses": {"en": "Alum clears muddy water; centrifuges separate blood components; emulsions make creams and medicines.", "hi": "फिटकरी गंदला पानी साफ़ करती है; अपकेंद्रित्र रक्त के घटक अलग करता है; पायस से क्रीम और दवाएँ बनती हैं।"},
+        "rememberForExam": {"en": "Memorise the comparison table: nature, particle size, visibility, filtration, settling, Tyndall effect.", "hi": "तुलना तालिका याद रखें: प्रकृति, कण आकार, दृश्यता, निस्यंदन, बैठना, टिंडल प्रभाव।"}
+      },
+      "equations": [], "relatedConceptIds": ["tyndall-effect", "mixture-types"],
+      "sources": [{"sourceId": "ncert-9-en", "section": "5.4.3, 5.4.4"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "tyndall-effect", "type": "concept",
+      "title": {"en": "Tyndall effect", "hi": "टिंडल प्रभाव"},
+      "sections": {
+        "whatIsIt": {"en": "The scattering of a light beam by the particles of a colloid or suspension, which makes the beam's path visible.", "hi": "कोलॉइड या निलंबन के कणों द्वारा प्रकाश-किरण का प्रकीर्णन, जिससे किरण का मार्ग दिखाई देता है।"},
+        "howItWorks": {"en": "Particles bigger than about 1 nm deflect light sideways; the tiny particles of a true solution are too small to do so.", "hi": "लगभग 1 nm से बड़े कण प्रकाश को बगल की ओर मोड़ देते हैं; वास्तविक विलयन के सूक्ष्म कण इतने छोटे होते हैं कि ऐसा नहीं कर पाते।"},
+        "whyImportant": {"en": "It is a simple test to tell a colloid from a true solution.", "hi": "कोलॉइड को वास्तविक विलयन से पहचानने का यह सरल परीक्षण है।"},
+        "realLifeUses": {"en": "Sunbeams in a dusty room or forest, headlights in fog, hazy skies over polluted cities.", "hi": "धूल भरे कमरे या जंगल में धूप की किरणें, कोहरे में हेडलाइट, प्रदूषित शहरों का धुँधला आकाश।"},
+        "rememberForExam": {"en": "Solutions do not show it because their particles are too small (not too large).", "hi": "विलयन यह प्रभाव नहीं दिखाते क्योंकि उनके कण बहुत छोटे होते हैं (बहुत बड़े नहीं)।"}
+      },
+      "equations": [], "relatedConceptIds": ["colloids-and-suspensions"],
+      "sources": [{"sourceId": "ncert-9-en", "section": "5.5"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "atomic-models", "type": "concept",
+      "title": {"en": "Development of atomic models", "hi": "परमाणु मॉडलों का विकास"},
+      "sections": {
+        "whatIsIt": {"en": "The sequence of ideas about the structure of the atom: Dalton (indivisible), Thomson (plum pudding), Rutherford (nuclear), Bohr (energy levels) and the modern quantum mechanical model.", "hi": "परमाणु की संरचना के विचारों का क्रम: डाल्टन (अविभाज्य), टॉमसन (प्लम पुडिंग), रदरफ़ोर्ड (नाभिकीय), बोर (ऊर्जा स्तर) और आधुनिक क्वांटम यांत्रिक मॉडल।"},
+        "howItWorks": {"en": "Each model was replaced when a new experiment could not be explained: cathode rays showed electrons; the gold foil experiment showed a nucleus; atomic stability needed Bohr's fixed orbits.", "hi": "जब कोई नया प्रयोग समझाया न जा सका तो मॉडल बदला गया: कैथोड किरणों ने इलेक्ट्रॉन दिखाए; स्वर्ण पर्णिका प्रयोग ने नाभिक दिखाया; परमाणु स्थायित्व के लिए बोर की निश्चित कक्षाएँ आवश्यक हुईं।"},
+        "whyImportant": {"en": "It shows how science improves step by step through evidence, and it is the basis of electronic configuration and bonding.", "hi": "यह दिखाता है कि विज्ञान प्रमाणों के आधार पर क्रमशः कैसे सुधरता है, और यह इलेक्ट्रॉनिक विन्यास तथा आबंधन का आधार है।"},
+        "realLifeUses": {"en": "Nuclear energy, radiation medicine and electron microscopes all grew out of these discoveries.", "hi": "नाभिकीय ऊर्जा, विकिरण चिकित्सा और इलेक्ट्रॉन सूक्ष्मदर्शी — सब इन्हीं खोजों से विकसित हुए।"},
+        "rememberForExam": {"en": "Arrange the models in order; link each gold-foil observation to its conclusion; state Rutherford's limitation and Bohr's solution.", "hi": "मॉडलों को क्रम में लगाएँ; स्वर्ण पर्णिका के प्रत्येक प्रेक्षण को निष्कर्ष से जोड़ें; रदरफ़ोर्ड की सीमा और बोर का समाधान लिखें।"}
+      },
+      "equations": [], "relatedConceptIds": ["subatomic-particles", "electron-distribution"],
+      "sources": [{"sourceId": "ncert-9-en", "section": "8.1–8.2.3"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "subatomic-particles", "type": "concept",
+      "title": {"en": "Electrons, protons and neutrons", "hi": "इलेक्ट्रॉन, प्रोटॉन और न्यूट्रॉन"},
+      "sections": {
+        "whatIsIt": {"en": "The three particles that make up atoms: electrons (−1, very light, outside the nucleus), protons (+1, in the nucleus) and neutrons (0, in the nucleus, mass ≈ proton).", "hi": "परमाणु बनाने वाले तीन कण: इलेक्ट्रॉन (−1, बहुत हल्के, नाभिक के बाहर), प्रोटॉन (+1, नाभिक में) और न्यूट्रॉन (0, नाभिक में, द्रव्यमान ≈ प्रोटॉन)।"},
+        "howItWorks": {"en": "Protons fix the atomic number (identity); protons + neutrons give the mass number; electrons equal protons in a neutral atom and decide chemical behaviour.", "hi": "प्रोटॉन परमाणु क्रमांक (पहचान) तय करते हैं; प्रोटॉन + न्यूट्रॉन से द्रव्यमान संख्या मिलती है; उदासीन परमाणु में इलेक्ट्रॉन प्रोटॉनों के बराबर होते हैं और रासायनिक व्यवहार तय करते हैं।"},
+        "whyImportant": {"en": "All atomic calculations — atomic number, mass number, ions, isotopes — use these three particles.", "hi": "परमाणु संबंधी सभी गणनाएँ — परमाणु क्रमांक, द्रव्यमान संख्या, आयन, समस्थानिक — इन्हीं तीन कणों पर आधारित हैं।"},
+        "realLifeUses": {"en": "Electric current is a flow of electrons; neutron beams are used in reactors and material research.", "hi": "विद्युत धारा इलेक्ट्रॉनों का प्रवाह है; रिएक्टरों और पदार्थ अनुसंधान में न्यूट्रॉन किरणें प्रयुक्त होती हैं।"},
+        "rememberForExam": {"en": "Neutrons = A − Z; for ions adjust electrons by the charge (Na⁺: 10 e; Cl⁻: 18 e).", "hi": "न्यूट्रॉन = A − Z; आयनों के लिए आवेश के अनुसार इलेक्ट्रॉन बदलें (Na⁺: 10 e; Cl⁻: 18 e)।"}
+      },
+      "equations": ["Neutrons = A − Z"], "relatedConceptIds": ["atomic-models", "isotopes-and-isobars"],
+      "sources": [{"sourceId": "ncert-9-en", "section": "8.2–8.6"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "electron-distribution", "type": "concept",
+      "title": {"en": "Distribution of electrons in shells", "hi": "कोशों में इलेक्ट्रॉनों का वितरण"},
+      "sections": {
+        "whatIsIt": {"en": "The arrangement of an atom's electrons in the K, L, M… shells, written as numbers like 2, 8, 1.", "hi": "किसी परमाणु के इलेक्ट्रॉनों की K, L, M… कोशों में व्यवस्था, जिसे 2, 8, 1 जैसी संख्याओं में लिखा जाता है।"},
+        "howItWorks": {"en": "Shells fill from the inside; shell n holds at most 2n² electrons and the outermost shell at most 8.", "hi": "कोश भीतर से भरते हैं; n वें कोश में अधिकतम 2n² इलेक्ट्रॉन और सबसे बाहरी कोश में अधिकतम 8।"},
+        "whyImportant": {"en": "The outermost electrons decide valency, the type of bond and reactivity.", "hi": "सबसे बाहरी इलेक्ट्रॉन संयोजकता, आबंध का प्रकार और क्रियाशीलता तय करते हैं।"},
+        "realLifeUses": {"en": "Explains why sodium must be stored under kerosene while neon fills inert lamps.", "hi": "समझाता है कि सोडियम को केरोसिन में क्यों रखना पड़ता है जबकि नियॉन अक्रिय लैंपों में भरी जाती है।"},
+        "rememberForExam": {"en": "Write configurations for Z = 1–20 and draw atomic diagrams.", "hi": "Z = 1–20 के विन्यास लिखें और परमाणु-चित्र बनाएँ।"}
+      },
+      "equations": ["Maximum electrons in shell n = 2n²"], "relatedConceptIds": ["valency", "atomic-models"],
+      "sources": [{"sourceId": "ncert-9-en", "section": "8.7"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "valency", "type": "concept",
+      "title": {"en": "Valency", "hi": "संयोजकता"},
+      "sections": {
+        "whatIsIt": {"en": "The combining capacity of an atom — the number of electrons it loses, gains or shares to complete its octet.", "hi": "परमाणु की संयोजन क्षमता — अष्टक पूरा करने के लिए वह जितने इलेक्ट्रॉन खोता, ग्रहण करता या साझा करता है।"},
+        "howItWorks": {"en": "With 1–3 valence electrons atoms usually lose them; with 5–7 they gain 8 minus that number; carbon with 4 shares them.", "hi": "1–3 संयोजकता इलेक्ट्रॉन वाले परमाणु प्रायः उन्हें खोते हैं; 5–7 वाले (8 − वह संख्या) ग्रहण करते हैं; 4 वाला कार्बन साझा करता है।"},
+        "whyImportant": {"en": "Valencies let us write correct chemical formulae by criss-crossing.", "hi": "संयोजकताओं के क्रॉस-गुणन से सही रासायनिक सूत्र लिखे जाते हैं।"},
+        "realLifeUses": {"en": "Predicting formulas of salts, fertilisers and medicines.", "hi": "लवणों, उर्वरकों और दवाओं के सूत्र बताना।"},
+        "rememberForExam": {"en": "Chlorine (2, 8, 7) has valency 1, not 7; noble gases have valency 0.", "hi": "क्लोरीन (2, 8, 7) की संयोजकता 1 है, 7 नहीं; उत्कृष्ट गैसों की संयोजकता 0 है।"}
+      },
+      "equations": [], "relatedConceptIds": ["electron-distribution", "writing-chemical-formulae"],
+      "sources": [{"sourceId": "ncert-9-en", "section": "8.8"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "isotopes-and-isobars", "type": "concept",
+      "title": {"en": "Isotopes and isobars", "hi": "समस्थानिक और समभारिक"},
+      "sections": {
+        "whatIsIt": {"en": "Isotopes: same element, same atomic number, different mass numbers. Isobars: different elements, same mass number.", "hi": "समस्थानिक: एक ही तत्व, समान परमाणु क्रमांक, भिन्न द्रव्यमान संख्या। समभारिक: भिन्न तत्व, समान द्रव्यमान संख्या।"},
+        "howItWorks": {"en": "Isotopes differ only in neutrons, so their chemistry is the same; isobars differ in protons, so they are different elements.", "hi": "समस्थानिक केवल न्यूट्रॉनों में भिन्न होते हैं, इसलिए उनका रसायन समान होता है; समभारिक प्रोटॉनों में भिन्न होते हैं, इसलिए वे भिन्न तत्व हैं।"},
+        "whyImportant": {"en": "Isotopes explain fractional atomic masses (Cl = 35.5 u) and have important uses.", "hi": "समस्थानिक भिन्नात्मक परमाणु द्रव्यमान (Cl = 35.5 u) को समझाते हैं और उनके महत्वपूर्ण उपयोग हैं।"},
+        "realLifeUses": {"en": "U-235 nuclear fuel, Co-60 cancer therapy, I-131 for thyroid disease, C-14 dating.", "hi": "U-235 नाभिकीय ईंधन, Co-60 कैंसर चिकित्सा, I-131 थायरॉइड रोग, C-14 से आयु निर्धारण।"},
+        "rememberForExam": {"en": "Average atomic mass is a weighted average using percentage abundances.", "hi": "औसत परमाणु द्रव्यमान प्रतिशत प्रचुरता का उपयोग कर निकाला गया भारित औसत है।"}
+      },
+      "equations": ["Average atomic mass = Σ (mass × % abundance ÷ 100)"], "relatedConceptIds": ["subatomic-particles"],
+      "sources": [{"sourceId": "ncert-9-en", "section": "8.9"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "law-of-conservation-of-mass", "type": "law",
+      "title": {"en": "Law of conservation of mass", "hi": "द्रव्यमान संरक्षण का नियम"},
+      "sections": {
+        "whatIsIt": {"en": "In a chemical reaction mass is neither created nor destroyed: total mass of reactants = total mass of products (Lavoisier, 1789).", "hi": "रासायनिक अभिक्रिया में द्रव्यमान न बनता है, न नष्ट होता है: अभिकारकों का कुल द्रव्यमान = उत्पादों का कुल द्रव्यमान (लवाज़िए, 1789)।"},
+        "howItWorks": {"en": "Atoms are only rearranged, never created or destroyed, so their total mass stays the same.", "hi": "परमाणु केवल पुनर्व्यवस्थित होते हैं, न बनते हैं न नष्ट होते हैं, इसलिए उनका कुल द्रव्यमान वही रहता है।"},
+        "whyImportant": {"en": "It is the reason chemical equations must be balanced.", "hi": "इसी कारण रासायनिक समीकरणों को संतुलित करना पड़ता है।"},
+        "realLifeUses": {"en": "Calculating the amounts of raw materials and products in industry.", "hi": "उद्योग में कच्चे माल और उत्पादों की मात्राओं की गणना।"},
+        "rememberForExam": {"en": "When a gas escapes from an open vessel the reading falls; use a closed system to verify the law.", "hi": "खुले पात्र से गैस निकलने पर पाठ्यांक घटता है; नियम के सत्यापन के लिए बंद निकाय लें।"}
+      },
+      "equations": ["Mass of reactants = Mass of products"], "relatedConceptIds": ["law-of-constant-proportions", "dalton-atomic-theory", "balancing-chemical-equations"],
+      "sources": [{"sourceId": "ncert-9-en", "section": "9.1"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "law-of-constant-proportions", "type": "law",
+      "title": {"en": "Law of constant proportions", "hi": "स्थिर अनुपात का नियम"},
+      "sections": {
+        "whatIsIt": {"en": "A compound always contains the same elements in the same fixed ratio by mass, whatever its source (Proust).", "hi": "किसी यौगिक में सदैव वही तत्व द्रव्यमान के उसी निश्चित अनुपात में होते हैं, स्रोत चाहे जो हो (प्राउस्ट)।"},
+        "howItWorks": {"en": "A compound has a fixed number and kind of atoms, and each atom has a fixed mass, so the mass ratio is fixed.", "hi": "यौगिक में परमाणुओं की संख्या और प्रकार निश्चित होते हैं और प्रत्येक परमाणु का द्रव्यमान निश्चित है, इसलिए द्रव्यमान अनुपात निश्चित रहता है।"},
+        "whyImportant": {"en": "It distinguishes compounds from mixtures and supports Dalton's theory.", "hi": "यह यौगिकों को मिश्रणों से अलग करता है और डाल्टन के सिद्धांत का समर्थन करता है।"},
+        "realLifeUses": {"en": "Quality control of chemicals and medicines; water is always H : O = 1 : 8 by mass.", "hi": "रसायनों और दवाओं का गुणवत्ता नियंत्रण; जल में द्रव्यमान से सदैव H : O = 1 : 8।"},
+        "rememberForExam": {"en": "Use the ratio to find an unknown mass; equivalent ratios (4 : 1 and 8 : 2) obey the law.", "hi": "अज्ञात द्रव्यमान ज्ञात करने में अनुपात का प्रयोग करें; तुल्य अनुपात (4 : 1 और 8 : 2) नियम का पालन करते हैं।"}
+      },
+      "equations": [], "relatedConceptIds": ["law-of-conservation-of-mass", "dalton-atomic-theory"],
+      "sources": [{"sourceId": "ncert-9-en", "section": "9.2"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "dalton-atomic-theory", "type": "concept",
+      "title": {"en": "Dalton's atomic theory", "hi": "डाल्टन का परमाणु सिद्धांत"},
+      "sections": {
+        "whatIsIt": {"en": "Postulates (1808) that matter is made of indivisible atoms that combine in simple whole-number ratios and only rearrange in reactions.", "hi": "अभिधारणाएँ (1808) कि द्रव्य अविभाज्य परमाणुओं से बना है जो सरल पूर्ण-संख्या अनुपात में जुड़ते हैं और अभिक्रियाओं में केवल पुनर्व्यवस्थित होते हैं।"},
+        "howItWorks": {"en": "'Atoms are not created or destroyed' explains conservation of mass; 'fixed kinds and numbers of atoms in a compound' explains constant proportions.", "hi": "'परमाणु न बनते हैं न नष्ट होते हैं' द्रव्यमान संरक्षण को समझाता है; 'यौगिक में परमाणुओं के निश्चित प्रकार और संख्या' स्थिर अनुपात को समझाता है।"},
+        "whyImportant": {"en": "It was the first scientific atomic theory and the start of modern chemistry.", "hi": "यह पहला वैज्ञानिक परमाणु सिद्धांत और आधुनिक रसायन का आरंभ था।"},
+        "realLifeUses": {"en": "Every chemical formula and balanced equation builds on it.", "hi": "हर रासायनिक सूत्र और संतुलित समीकरण इसी पर आधारित है।"},
+        "rememberForExam": {"en": "Know which postulates were later found incorrect (atoms are divisible; isotopes differ in mass).", "hi": "जानें कि कौन-सी अभिधारणाएँ बाद में ग़लत पाई गईं (परमाणु विभाज्य हैं; समस्थानिकों के द्रव्यमान भिन्न होते हैं)।"}
+      },
+      "equations": [], "relatedConceptIds": ["law-of-conservation-of-mass", "law-of-constant-proportions", "atomic-models"],
+      "sources": [{"sourceId": "ncert-9-en", "section": "9.3"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "covalent-bond", "type": "concept",
+      "title": {"en": "Covalent bond", "hi": "सहसंयोजक (सहसंयोजी) आबंध"},
+      "sections": {
+        "whatIsIt": {"en": "A bond formed when two atoms share one or more pairs of electrons (single, double or triple bond).", "hi": "दो परमाणुओं द्वारा एक या अधिक इलेक्ट्रॉन युग्म साझा करने से बना आबंध (एकल, द्वि या त्रिआबंध)।"},
+        "howItWorks": {"en": "Each atom contributes electrons to the shared pair so that both reach a stable octet (or duplet for hydrogen).", "hi": "प्रत्येक परमाणु साझा युग्म में इलेक्ट्रॉन देता है ताकि दोनों स्थायी अष्टक (हाइड्रोजन के लिए द्विक) पा सकें।"},
+        "whyImportant": {"en": "Most molecules of life, fuels and plastics are held together by covalent bonds.", "hi": "जीवन के अधिकांश अणु, ईंधन और प्लास्टिक सहसंयोजक आबंधों से बँधे होते हैं।"},
+        "realLifeUses": {"en": "Water, oxygen, methane, sugar and alcohol are covalent; they are usually poor conductors with low melting points.", "hi": "जल, ऑक्सीजन, मेथेन, चीनी और ऐल्कोहॉल सहसंयोजक हैं; ये प्रायः कुचालक और कम गलनांक वाले होते हैं।"},
+        "rememberForExam": {"en": "Draw electron-dot structures (H₂, Cl₂, O₂, N₂, HCl, H₂O, NH₃, CH₄, CO₂).", "hi": "इलेक्ट्रॉन-बिंदु संरचनाएँ बनाएँ (H₂, Cl₂, O₂, N₂, HCl, H₂O, NH₃, CH₄, CO₂)।"}
+      },
+      "equations": ["H–H", "O=O", "N≡N"], "relatedConceptIds": ["ionic-bond", "versatile-nature-of-carbon"],
+      "sources": [{"sourceId": "ncert-9-en", "section": "9.4.1"}, {"sourceId": "ncert-10-en", "section": "4.1"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "ionic-bond", "type": "concept",
+      "title": {"en": "Ionic bond", "hi": "आयनिक आबंध"},
+      "sections": {
+        "whatIsIt": {"en": "The electrostatic attraction between oppositely charged ions formed by transfer of electrons, usually from a metal to a non-metal.", "hi": "इलेक्ट्रॉन स्थानांतरण से बने विपरीत आवेशित आयनों के बीच स्थिर-वैद्युत आकर्षण, प्रायः धातु से अधातु को।"},
+        "howItWorks": {"en": "The metal loses electrons to become a cation, the non-metal gains them to become an anion, and the ions pack into a crystal lattice.", "hi": "धातु इलेक्ट्रॉन खोकर धनायन बनती है, अधातु उन्हें ग्रहण कर ऋणायन बनती है, और आयन क्रिस्टल जालक में व्यवस्थित होते हैं।"},
+        "whyImportant": {"en": "It explains the high melting points, solubility in water and conductivity (molten/aqueous) of salts.", "hi": "यह लवणों के उच्च गलनांक, जल में विलेयता और (पिघली/जलीय अवस्था में) चालकता को समझाता है।"},
+        "realLifeUses": {"en": "Common salt, lime and many minerals are ionic; molten ionic compounds are electrolysed to obtain reactive metals.", "hi": "साधारण नमक, चूना और अनेक खनिज आयनिक हैं; क्रियाशील धातुएँ प्राप्त करने के लिए पिघले आयनिक यौगिकों का विद्युत-अपघटन किया जाता है।"},
+        "rememberForExam": {"en": "Show NaCl, MgCl₂ and MgO formation with configurations; ionic solids do not conduct because ions cannot move.", "hi": "विन्यासों सहित NaCl, MgCl₂ और MgO का बनना दिखाएँ; आयनिक ठोस चालन नहीं करते क्योंकि आयन गति नहीं कर पाते।"}
+      },
+      "equations": ["Na → Na⁺ + e⁻", "Cl + e⁻ → Cl⁻", "Mg → Mg²⁺ + 2e⁻"], "relatedConceptIds": ["covalent-bond", "writing-chemical-formulae"],
+      "sources": [{"sourceId": "ncert-9-en", "section": "9.4.2, 9.6"}, {"sourceId": "ncert-10-en", "section": "3.3"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "writing-chemical-formulae", "type": "concept",
+      "title": {"en": "Writing chemical formulae", "hi": "रासायनिक सूत्र लिखना"},
+      "sections": {
+        "whatIsIt": {"en": "Writing the symbols of a compound's elements with subscripts that show how many of each atom or ion are present.", "hi": "किसी यौगिक के तत्वों के प्रतीक ऐसे पादांकों सहित लिखना जो बताएँ कि प्रत्येक परमाणु या आयन कितने हैं।"},
+        "howItWorks": {"en": "Criss-cross the valencies (or ion charges), simplify by a common factor, and bracket polyatomic ions used more than once.", "hi": "संयोजकताओं (या आयन-आवेशों) का क्रॉस-गुणन करें, उभयनिष्ठ गुणनखंड से सरल करें, और एक से अधिक बार प्रयुक्त बहुपरमाणुक आयनों को कोष्ठक में लिखें।"},
+        "whyImportant": {"en": "Correct formulas are needed for every equation and every calculation.", "hi": "हर समीकरण और हर गणना के लिए सही सूत्र आवश्यक हैं।"},
+        "realLifeUses": {"en": "Reading labels: NaHCO₃ (antacid), NH₄NO₃ (fertiliser), CaCO₃ (chalk).", "hi": "लेबल पढ़ना: NaHCO₃ (प्रत्याम्ल), NH₄NO₃ (उर्वरक), CaCO₃ (खड़िया)।"},
+        "rememberForExam": {"en": "Al(OH)₃ not AlOH₃; Mg₂O₂ is written MgO; total + charge = total − charge.", "hi": "Al(OH)₃ लिखें, AlOH₃ नहीं; Mg₂O₂ को MgO लिखें; कुल + आवेश = कुल − आवेश।"}
+      },
+      "equations": ["CaCl₂", "Al₂O₃", "Al₂(SO₄)₃", "Mg(OH)₂"], "relatedConceptIds": ["valency", "ionic-bond"],
+      "sources": [{"sourceId": "ncert-9-en", "section": "9.5"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "molecular-and-formula-unit-mass", "type": "concept",
+      "title": {"en": "Molecular mass and formula unit mass", "hi": "आण्विक द्रव्यमान और सूत्र इकाई द्रव्यमान"},
+      "sections": {
+        "whatIsIt": {"en": "The sum of atomic masses in a molecule (covalent) or in one formula unit (ionic), in unified atomic mass units (u).", "hi": "किसी अणु (सहसंयोजक) या एक सूत्र इकाई (आयनिक) के परमाणु द्रव्यमानों का योग, एकीकृत परमाणु द्रव्यमान इकाई (u) में।"},
+        "howItWorks": {"en": "Multiply each atomic mass by the number of atoms of that element and add, including everything inside brackets.", "hi": "प्रत्येक परमाणु द्रव्यमान को उस तत्व के परमाणुओं की संख्या से गुणा कर जोड़ें, कोष्ठक के भीतर की सभी चीज़ें सम्मिलित करते हुए।"},
+        "whyImportant": {"en": "It links formulas to measurable masses and prepares for mole calculations in Class 11.", "hi": "यह सूत्रों को मापने योग्य द्रव्यमानों से जोड़ता है और कक्षा 11 की मोल गणनाओं की तैयारी कराता है।"},
+        "realLifeUses": {"en": "Pharmacists, fertiliser makers and laboratories use these masses to weigh out substances.", "hi": "फ़ार्मासिस्ट, उर्वरक निर्माता और प्रयोगशालाएँ पदार्थ तौलने में इन द्रव्यमानों का प्रयोग करते हैं।"},
+        "rememberForExam": {"en": "Use 'formula unit mass' for ionic compounds such as NaCl and Ca(NO₃)₂.", "hi": "NaCl और Ca(NO₃)₂ जैसे आयनिक यौगिकों के लिए 'सूत्र इकाई द्रव्यमान' शब्द प्रयोग करें।"}
+      },
+      "equations": ["H₂O = 18 u", "CO₂ = 44 u", "Ca(NO₃)₂ = 164 u"], "relatedConceptIds": ["writing-chemical-formulae"],
+      "sources": [{"sourceId": "ncert-9-en", "section": "9.7, 9.8"}], "review": {"status": "sourceChecked"}
+    }
+  ]
+}

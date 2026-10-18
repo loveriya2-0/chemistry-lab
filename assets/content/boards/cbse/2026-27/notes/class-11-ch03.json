@@ -1,0 +1,510 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "note-cbse-11-ch03-t3.1",
+      "targetId": "cbse-11-ch03-t3.1",
+      "covers": [],
+      "definition": {
+        "en": "Classifying elements means arranging them so that elements with similar properties are grouped together, which makes studying more than a hundred elements systematic.",
+        "hi": "तत्वों के वर्गीकरण का अर्थ है उन्हें ऐसे व्यवस्थित करना कि समान गुणों वाले तत्व एक साथ हों, जिससे सौ से अधिक तत्वों का अध्ययन व्यवस्थित हो सके।"
+      },
+      "explanation": {
+        "en": "By 1800 about 31 elements were known; by 1865 about 63; today 118. Studying each element separately is impossible, so scientists looked for patterns in properties. A good classification lets us predict the properties of an element from its position.",
+        "hi": "1800 तक लगभग 31 तत्व ज्ञात थे; 1865 तक लगभग 63; आज 118। हर तत्व को अलग-अलग पढ़ना असंभव है, इसलिए वैज्ञानिकों ने गुणों में पैटर्न खोजे। अच्छा वर्गीकरण स्थिति से तत्व के गुणों का अनुमान लगाने देता है।"
+      },
+      "keyPoints": [
+        {
+          "en": "Classification turns a long list of facts into predictable trends.",
+          "hi": "वर्गीकरण तथ्यों की लंबी सूची को अनुमेय प्रवृत्तियों में बदल देता है।"
+        }
+      ],
+      "realLife": {
+        "en": "Chemists choose substitutes for scarce elements (for catalysts, batteries) by looking at neighbours in the periodic table.",
+        "hi": "रसायनज्ञ दुर्लभ तत्वों के विकल्प (उत्प्रेरक, बैटरी के लिए) आवर्त सारणी में पड़ोसी तत्व देखकर चुनते हैं।"
+      },
+      "examFocus": {
+        "en": "Background for the chapter; short answers on why classification is needed.",
+        "hi": "अध्याय की पृष्ठभूमि; वर्गीकरण क्यों आवश्यक है, इस पर लघु उत्तर।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Assuming all 118 elements occur naturally — several are synthetic.",
+          "hi": "यह मानना कि सभी 118 तत्व प्राकृतिक हैं — कई कृत्रिम हैं।"
+        }
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": [
+        "periodic-classification"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "3.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "quickRevision": {
+        "oneLine": {
+          "en": "Classification groups similar elements so their study becomes systematic.",
+          "hi": "वर्गीकरण समान तत्वों को समूहित करता है ताकि उनका अध्ययन क्रमबद्ध हो।"
+        },
+        "points": [
+          {
+            "en": "Turns many facts into predictable trends.",
+            "hi": "अनेक तथ्यों को पूर्वानुमेय प्रवृत्तियों में बदलता है।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch03-t3.2",
+      "targetId": "cbse-11-ch03-t3.2",
+      "covers": [],
+      "definition": {
+        "en": "Early attempts at classification: Döbereiner's triads, Newlands' law of octaves and Mendeléev's periodic law (properties are a periodic function of atomic weights).",
+        "hi": "वर्गीकरण के प्रारंभिक प्रयास: डॉबेराइनर के त्रिक, न्यूलैंड्स का अष्टक नियम और मेंडेलीफ़ का आवर्त नियम (गुण परमाणु भारों के आवर्ती फलन हैं)।"
+      },
+      "explanation": {
+        "en": "Döbereiner found triads in which the middle element's atomic weight is about the average of the other two (Li, Na, K). Newlands noted that every eighth element resembled the first — true only up to calcium. Lothar Meyer plotted physical properties against atomic weight and saw periodicity. Mendeléev arranged elements by atomic weight but gave priority to similar properties: he left gaps and predicted undiscovered elements (eka-aluminium = gallium, eka-silicon = germanium), and corrected some atomic weights.",
+        "hi": "डॉबेराइनर ने ऐसे त्रिक पाए जिनमें बीच के तत्व का परमाणु भार शेष दो का लगभग औसत होता है (Li, Na, K)। न्यूलैंड्स ने देखा कि हर आठवाँ तत्व पहले जैसा है — केवल कैल्सियम तक सही। लोथर मेयर ने भौतिक गुणों को परमाणु भार के विरुद्ध आलेखित कर आवर्तिता देखी। मेंडेलीफ़ ने तत्वों को परमाणु भार से व्यवस्थित किया पर समान गुणों को प्राथमिकता दी: रिक्त स्थान छोड़े और अनखोजे तत्वों की भविष्यवाणी की (एका-ऐलुमिनियम = गैलियम, एका-सिलिकॉन = जर्मेनियम), तथा कुछ परमाणु भार सुधारे।"
+      },
+      "keyPoints": [
+        {
+          "en": "Mendeléev's boldness in leaving gaps made his table widely accepted.",
+          "hi": "रिक्त स्थान छोड़ने के मेंडेलीफ़ के साहस से उनकी सारणी व्यापक रूप से स्वीकृत हुई।"
+        }
+      ],
+      "realLife": {
+        "en": "Mendeléev's correct predictions are a classic example of a scientific model making testable forecasts.",
+        "hi": "मेंडेलीफ़ की सही भविष्यवाणियाँ परीक्षण-योग्य अनुमान देने वाले वैज्ञानिक मॉडल का उत्कृष्ट उदाहरण हैं।"
+      },
+      "examFocus": {
+        "en": "Compare the three early attempts and give Mendeléev's contributions and limitations.",
+        "hi": "तीनों प्रारंभिक प्रयासों की तुलना; मेंडेलीफ़ के योगदान और सीमाएँ।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Saying Mendeléev arranged elements by atomic number — he used atomic weight.",
+          "hi": "यह कहना कि मेंडेलीफ़ ने परमाणु क्रमांक से व्यवस्थित किया — उन्होंने परमाणु भार लिया।"
+        }
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": [
+        "periodic-classification"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "3.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Triads, Octaves, then Table\" — Döbereiner, Newlands, Mendeléev",
+            "hi": "\"त्रिक, अष्टक, फिर सारणी\" — डॉबेराइनर, न्यूलैंड्स, मेन्डेलीव"
+          },
+          "recall": {
+            "en": "The order of early classifications: Döbereiner's triads, Newlands' law of octaves, Mendeléev's periodic table.",
+            "hi": "आरंभिक वर्गीकरणों का क्रम: डॉबेराइनर के त्रिक, न्यूलैंड्स का अष्टक नियम, मेन्डेलीव की आवर्त सारणी।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Döbereiner's triads → Newlands' octaves → Mendeléev's periodic law (atomic weights).",
+          "hi": "डॉबेराइनर के त्रिक → न्यूलैंड्स के अष्टक → मेन्डेलीव का आवर्त नियम (परमाणु भार)।"
+        },
+        "points": [
+          {
+            "en": "Mendeléev left gaps and predicted eka-aluminium (Ga) and eka-silicon (Ge).",
+            "hi": "मेन्डेलीव ने रिक्त स्थान छोड़े और एका-ऐलुमिनियम (Ga) तथा एका-सिलिकॉन (Ge) का पूर्वानुमान किया।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch03-t3.3",
+      "targetId": "cbse-11-ch03-t3.3",
+      "covers": [],
+      "definition": {
+        "en": "Modern periodic law: the physical and chemical properties of elements are periodic functions of their atomic numbers. The long form of the periodic table has 7 periods and 18 groups.",
+        "hi": "आधुनिक आवर्त नियम: तत्वों के भौतिक और रासायनिक गुण उनके परमाणु क्रमांकों के आवर्ती फलन हैं। आवर्त सारणी के दीर्घ रूप में 7 आवर्त और 18 समूह हैं।"
+      },
+      "explanation": {
+        "en": "Moseley showed that atomic number, not atomic mass, is the fundamental property. The period number equals the highest principal quantum number (n) of the element. Periods contain 2, 8, 8, 18, 18, 32 and 32 elements. Lanthanoids and actinoids (f-block) are placed separately at the bottom.",
+        "hi": "मोज़ले ने दिखाया कि परमाणु द्रव्यमान नहीं, परमाणु क्रमांक मूल गुण है। आवर्त संख्या तत्व की उच्चतम मुख्य क्वांटम संख्या (n) के बराबर होती है। आवर्तों में 2, 8, 8, 18, 18, 32 और 32 तत्व हैं। लैन्थेनॉयड और ऐक्टिनॉयड (f-ब्लॉक) नीचे अलग रखे जाते हैं।"
+      },
+      "keyPoints": [
+        {
+          "en": "Elements in a group have the same valence-shell configuration, hence similar properties.",
+          "hi": "एक समूह के तत्वों का संयोजकता कोश विन्यास समान होता है, अतः गुण समान।"
+        }
+      ],
+      "realLife": {
+        "en": "The periodic table on every chemistry lab wall is this long form, recommended by IUPAC.",
+        "hi": "हर रसायन प्रयोगशाला की दीवार पर टँगी आवर्त सारणी यही दीर्घ रूप है, जिसे IUPAC ने अनुशंसित किया।"
+      },
+      "examFocus": {
+        "en": "State the modern periodic law; relate period number to n.",
+        "hi": "आधुनिक आवर्त नियम लिखना; आवर्त संख्या को n से जोड़ना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Thinking the number of elements in each period equals 2n² — it depends on which orbitals are filled.",
+          "hi": "यह सोचना कि हर आवर्त में तत्वों की संख्या 2n² है — यह भरे जाने वाले कक्षकों पर निर्भर है।"
+        }
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": [
+        "periodic-classification"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "3.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Mendeléev → Mass; Moseley → Number\"",
+            "hi": "\"मेंडेलीफ → द्रव्यमान; मोज़ले → संख्या\""
+          },
+          "recall": {
+            "en": "Mendeléev's periodic law was based on atomic mass; Moseley showed that atomic number is the fundamental property, which gives the modern periodic law.",
+            "hi": "मेंडेलीफ का आवर्त नियम परमाणु द्रव्यमान पर आधारित था; मोज़ले ने दिखाया कि परमाणु क्रमांक मूल गुण है, जिससे आधुनिक आवर्त नियम बना।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Modern periodic law: properties are periodic functions of atomic number; 7 periods, 18 groups.",
+          "hi": "आधुनिक आवर्त नियम: गुण परमाणु क्रमांक के आवर्ती फलन हैं; 7 आवर्त, 18 वर्ग।"
+        },
+        "points": [
+          {
+            "en": "Same group → same valence-shell configuration → similar properties.",
+            "hi": "समान वर्ग → समान संयोजकता कोश विन्यास → समान गुण।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch03-t3.4",
+      "targetId": "cbse-11-ch03-t3.4",
+      "covers": [],
+      "definition": {
+        "en": "Until permanent names are approved, IUPAC names elements with Z > 100 from Latin/Greek roots of their digits: 0 nil, 1 un, 2 bi, 3 tri, 4 quad, 5 pent, 6 hex, 7 sept, 8 oct, 9 enn, ending in -ium.",
+        "hi": "स्थायी नाम स्वीकृत होने तक IUPAC Z > 100 वाले तत्वों के नाम उनके अंकों के लैटिन/यूनानी मूलों से रखता है: 0 nil, 1 un, 2 bi, 3 tri, 4 quad, 5 pent, 6 hex, 7 sept, 8 oct, 9 enn, अंत में -ium।"
+      },
+      "explanation": {
+        "en": "Z = 101 → un-nil-un-ium, Unnilunium (Unu); Z = 120 → unbinilium (Ubn). Disputes over who first made a new element were resolved by this temporary system; the permanent name is given later (e.g. Z = 101 is mendelevium, Md).",
+        "hi": "Z = 101 → un-nil-un-ium, अनिलअनियम (Unu); Z = 120 → अनबाइनिलियम (Ubn)। नया तत्व पहले किसने बनाया, ऐसे विवाद इस अस्थायी पद्धति से सुलझे; स्थायी नाम बाद में दिया जाता है (जैसे Z = 101 मेंडेलीवियम, Md है)।"
+      },
+      "keyPoints": [
+        {
+          "en": "The symbol is the first letters of the three roots (Uuo for 118 earlier; now oganesson, Og).",
+          "hi": "प्रतीक तीनों मूलों के पहले अक्षर हैं (118 के लिए पहले Uuo; अब ओगेनेसॉन, Og)।"
+        }
+      ],
+      "realLife": {
+        "en": "Shows how the international scientific community agrees on names for newly made elements.",
+        "hi": "दिखाता है कि अंतरराष्ट्रीय वैज्ञानिक समुदाय नए बने तत्वों के नामों पर कैसे सहमत होता है।"
+      },
+      "examFocus": {
+        "en": "Write IUPAC temporary names and symbols for given atomic numbers.",
+        "hi": "दिए गए परमाणु क्रमांकों के IUPAC अस्थायी नाम और प्रतीक लिखना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Ignoring the spelling rules: the final \"i\" of \"bi\" and \"tri\" is dropped before \"-ium\" (Z = 112 → ununbium), and \"enn\" drops one \"n\" before \"nil\" (Z = 190 → unennilium).",
+          "hi": "वर्तनी के नियम भूल जाना: \"-ium\" से पहले \"bi\" और \"tri\" का अंतिम \"i\" हट जाता है (Z = 112 → ununbium), और \"nil\" से पहले \"enn\" का एक \"n\" हटता है (Z = 190 → unennilium)।"
+        }
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": [
+        "periodic-classification"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "3.4"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Nil Un Bi Tri Quad Pent Hex Sept Oct Enn\" = 0 to 9",
+            "hi": "\"Nil Un Bi Tri Quad Pent Hex Sept Oct Enn\" = 0 से 9"
+          },
+          "recall": {
+            "en": "Read the atomic number digit by digit with these roots and add -ium, e.g. 120 = un-bi-nil-ium (Ubn).",
+            "hi": "परमाणु क्रमांक के अंकों को इन मूलों से पढ़कर -ium जोड़ें, जैसे 120 = un-bi-nil-ium (Ubn)।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "IUPAC temporary names for Z > 100 use digit roots + -ium.",
+          "hi": "Z > 100 के IUPAC अस्थायी नाम अंक मूलों + -ium से बनते हैं।"
+        },
+        "points": [
+          {
+            "en": "0 nil, 1 un, 2 bi, 3 tri, 4 quad, 5 pent, 6 hex, 7 sept, 8 oct, 9 enn.",
+            "hi": "0 nil, 1 un, 2 bi, 3 tri, 4 quad, 5 pent, 6 hex, 7 sept, 8 oct, 9 enn।"
+          },
+          {
+            "en": "Z = 101: Unnilunium (Unu).",
+            "hi": "Z = 101: अननिलयूनियम (Unu)।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch03-t3.5",
+      "targetId": "cbse-11-ch03-t3.5",
+      "covers": [],
+      "definition": {
+        "en": "The position of an element in the periodic table reflects its electronic configuration: the period is the outermost shell number n, and the group is linked to the number of valence electrons.",
+        "hi": "आवर्त सारणी में तत्व की स्थिति उसके इलेक्ट्रॉनिक विन्यास को दर्शाती है: आवर्त सबसे बाहरी कोश संख्या n है, और समूह संयोजकता इलेक्ट्रॉनों की संख्या से जुड़ा है।"
+      },
+      "explanation": {
+        "en": "Period 1 fills 1s (2 elements); periods 2 and 3 fill ns and np (8 each); period 4 fills 4s, 3d and 4p (18); period 5 likewise (18); period 6 fills 6s, 4f, 5d, 6p (32); period 7 is similar (32). Thus the length of a period depends on which orbitals are being filled.",
+        "hi": "आवर्त 1 में 1s भरता है (2 तत्व); आवर्त 2 और 3 में ns और np (8-8); आवर्त 4 में 4s, 3d और 4p (18); आवर्त 5 भी (18); आवर्त 6 में 6s, 4f, 5d, 6p (32); आवर्त 7 भी इसी प्रकार (32)। अतः आवर्त की लंबाई भरे जा रहे कक्षकों पर निर्भर है।"
+      },
+      "keyPoints": [
+        {
+          "en": "Elements of the same group have the same outer configuration, e.g. alkali metals ns¹.",
+          "hi": "एक समूह के तत्वों का बाहरी विन्यास समान होता है, जैसे क्षार धातुएँ ns¹।"
+        }
+      ],
+      "realLife": {
+        "en": "From an element's configuration you can find its block, period and group without memorising the table.",
+        "hi": "तत्व के विन्यास से सारणी याद किए बिना उसका ब्लॉक, आवर्त और समूह ज्ञात किया जा सकता है।"
+      },
+      "examFocus": {
+        "en": "Find period, group and block from a given configuration or atomic number.",
+        "hi": "दिए गए विन्यास या परमाणु क्रमांक से आवर्त, समूह और ब्लॉक ज्ञात करना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Assigning 3d to period 3 — 3d is filled in period 4.",
+          "hi": "3d को आवर्त 3 में मानना — 3d आवर्त 4 में भरता है।"
+        }
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": [
+        "periodic-classification",
+        "quantum-mechanical-model"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "3.5"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "quickRevision": {
+        "oneLine": {
+          "en": "Period = outermost shell n; group reflects valence electrons.",
+          "hi": "आवर्त = बाह्यतम कोश n; वर्ग संयोजकता इलेक्ट्रॉनों को दर्शाता है।"
+        },
+        "points": [
+          {
+            "en": "Alkali metals: ns¹; halogens: ns²np⁵.",
+            "hi": "क्षार धातुएँ: ns¹; हैलोजन: ns²np⁵।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch03-t3.6",
+      "targetId": "cbse-11-ch03-t3.6",
+      "covers": [],
+      "definition": {
+        "en": "Elements are grouped into s, p, d and f blocks according to the subshell receiving the last electron.",
+        "hi": "अंतिम इलेक्ट्रॉन जिस उपकोश में जाता है उसके अनुसार तत्वों को s, p, d और f ब्लॉक में बाँटा जाता है।"
+      },
+      "explanation": {
+        "en": "s-block (groups 1–2, ns¹⁻²): reactive metals with low ionisation enthalpies (alkali and alkaline earth metals). p-block (groups 13–18, ns²np¹⁻⁶): includes non-metals, metalloids and noble gases (ns²np⁶, very stable); s and p blocks together are the representative or main-group elements. d-block (groups 3–12, (n−1)d¹⁻¹⁰ns⁰⁻²): transition metals, often coloured ions, variable valence, paramagnetism, catalysts. f-block ((n−2)f¹⁻¹⁴(n−1)d⁰⁻¹ns²): lanthanoids and actinoids (inner transition elements); actinoids are radioactive. Metals are on the left; non-metals on the upper right; metalloids (Si, Ge, As, Sb, Te) lie along the border.",
+        "hi": "s-ब्लॉक (समूह 1–2, ns¹⁻²): कम आयनन एन्थैल्पी वाली क्रियाशील धातुएँ (क्षार और क्षारीय मृदा धातुएँ)। p-ब्लॉक (समूह 13–18, ns²np¹⁻⁶): अधातुएँ, उपधातुएँ और उत्कृष्ट गैसें (ns²np⁶, अत्यंत स्थायी); s और p ब्लॉक मिलकर प्रतिनिधि या मुख्य समूह तत्व हैं। d-ब्लॉक (समूह 3–12, (n−1)d¹⁻¹⁰ns⁰⁻²): संक्रमण धातुएँ — प्रायः रंगीन आयन, परिवर्ती संयोजकता, अनुचुंबकत्व, उत्प्रेरक। f-ब्लॉक ((n−2)f¹⁻¹⁴(n−1)d⁰⁻¹ns²): लैन्थेनॉयड और ऐक्टिनॉयड (आंतरिक संक्रमण तत्व); ऐक्टिनॉयड रेडियोऐक्टिव हैं। धातुएँ बाईं ओर; अधातुएँ ऊपर दाईं ओर; उपधातुएँ (Si, Ge, As, Sb, Te) सीमा पर।"
+      },
+      "keyPoints": [
+        {
+          "en": "Group number for s-block = valence electrons; for p-block = 10 + valence electrons.",
+          "hi": "s-ब्लॉक का समूह = संयोजकता इलेक्ट्रॉन; p-ब्लॉक का समूह = 10 + संयोजकता इलेक्ट्रॉन।"
+        },
+        {
+          "en": "Hydrogen (1s¹) is placed with group 1 but also resembles halogens.",
+          "hi": "हाइड्रोजन (1s¹) समूह 1 में रखा जाता है पर हैलोजनों से भी समानता रखता है।"
+        }
+      ],
+      "realLife": {
+        "en": "d-block metals such as iron, copper and platinum are the workhorses of industry and catalysis.",
+        "hi": "लोहा, ताँबा, प्लैटिनम जैसी d-ब्लॉक धातुएँ उद्योग और उत्प्रेरण की रीढ़ हैं।"
+      },
+      "examFocus": {
+        "en": "Identify block, period and group from configuration; give characteristics of each block.",
+        "hi": "विन्यास से ब्लॉक, आवर्त और समूह पहचानना; प्रत्येक ब्लॉक की विशेषताएँ।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Calling zinc a typical transition element — Zn (3d¹⁰4s²) is in the d-block but has a full d subshell.",
+          "hi": "ज़िंक को विशिष्ट संक्रमण तत्व कहना — Zn (3d¹⁰4s²) d-ब्लॉक में है पर उसका d उपकोश पूर्ण है।"
+        }
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": [
+        "periodic-classification"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "3.6"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Block width = subshell capacity: s 2, p 6, d 10, f 14\"",
+            "hi": "\"ब्लॉक की चौड़ाई = उपकोश की क्षमता: s 2, p 6, d 10, f 14\""
+          },
+          "recall": {
+            "en": "The s-block has 2 groups (1–2), the p-block 6 groups (13–18), the d-block 10 groups (3–12) and each f series has 14 elements — exactly the number of electrons each subshell can hold.",
+            "hi": "s-ब्लॉक में 2 वर्ग (1–2), p-ब्लॉक में 6 वर्ग (13–18), d-ब्लॉक में 10 वर्ग (3–12) और प्रत्येक f श्रेणी में 14 तत्त्व हैं — ठीक उतने, जितने इलेक्ट्रॉन वह उपकोश रख सकता है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Blocks s, p, d, f are named by the subshell receiving the last electron.",
+          "hi": "ब्लॉक s, p, d, f का नाम अंतिम इलेक्ट्रॉन पाने वाले उपकोश से है।"
+        },
+        "points": [
+          {
+            "en": "s-block group = valence electrons; p-block group = 10 + valence electrons.",
+            "hi": "s-ब्लॉक वर्ग = संयोजकता इलेक्ट्रॉन; p-ब्लॉक वर्ग = 10 + संयोजकता इलेक्ट्रॉन।"
+          },
+          {
+            "en": "d-block: transition metals; f-block: lanthanoids and actinoids.",
+            "hi": "d-ब्लॉक: संक्रमण धातुएँ; f-ब्लॉक: लैन्थेनॉयड और एक्टिनॉयड।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch03-t3.7",
+      "targetId": "cbse-11-ch03-t3.7",
+      "covers": [],
+      "definition": {
+        "en": "Periodic trends are regular changes in atomic radius, ionic radius, ionisation enthalpy, electron gain enthalpy, electronegativity and valence across periods and down groups.",
+        "hi": "आवर्ती प्रवृत्तियाँ आवर्तों में और समूहों में नीचे परमाणु त्रिज्या, आयनिक त्रिज्या, आयनन एन्थैल्पी, इलेक्ट्रॉन लब्धि एन्थैल्पी, विद्युत-ऋणात्मकता और संयोजकता में नियमित परिवर्तन हैं।"
+      },
+      "explanation": {
+        "en": "Across a period, effective nuclear charge increases, so atomic radius decreases, and ionisation enthalpy and electronegativity generally increase. Down a group, new shells are added and shielding increases, so radius increases and ionisation enthalpy decreases. A cation is smaller than its parent atom; an anion is larger; among isoelectronic species, greater nuclear charge means smaller size. Exceptions in ionisation enthalpy: B < Be and O < N (because of 2p vs 2s electron and half-filled stability). Electron gain enthalpy becomes more negative across a period; Cl has the most negative value (F is less negative due to its small size). Metallic character decreases across a period and increases down a group; oxides go from basic to acidic across a period. Second-period elements show anomalous behaviour and diagonal relationships (Li–Mg, Be–Al).",
+        "hi": "आवर्त में बाएँ से दाएँ प्रभावी नाभिकीय आवेश बढ़ता है, अतः परमाणु त्रिज्या घटती है तथा आयनन एन्थैल्पी और विद्युत-ऋणात्मकता सामान्यतः बढ़ती हैं। समूह में नीचे नए कोश जुड़ते हैं और परिरक्षण बढ़ता है, अतः त्रिज्या बढ़ती है और आयनन एन्थैल्पी घटती है। धनायन अपने परमाणु से छोटा, ऋणायन बड़ा होता है; समइलेक्ट्रॉनिक स्पीशीज़ में अधिक नाभिकीय आवेश = छोटा आकार। आयनन एन्थैल्पी के अपवाद: B < Be और O < N (2p बनाम 2s इलेक्ट्रॉन और अर्धपूरित स्थायित्व के कारण)। इलेक्ट्रॉन लब्धि एन्थैल्पी आवर्त में अधिक ऋणात्मक होती है; Cl का मान सबसे ऋणात्मक है (छोटे आकार के कारण F का कम)। धात्विक गुण आवर्त में घटता और समूह में बढ़ता है; आवर्त में ऑक्साइड क्षारकीय से अम्लीय होते जाते हैं। दूसरे आवर्त के तत्व असंगत व्यवहार और विकर्ण संबंध (Li–Mg, Be–Al) दिखाते हैं।"
+      },
+      "keyPoints": [
+        {
+          "en": "Order of size for isoelectronic ions: O²⁻ > F⁻ > Na⁺ > Mg²⁺.",
+          "hi": "समइलेक्ट्रॉनिक आयनों के आकार का क्रम: O²⁻ > F⁻ > Na⁺ > Mg²⁺।"
+        },
+        {
+          "en": "Noble gases have large positive electron gain enthalpies.",
+          "hi": "उत्कृष्ट गैसों की इलेक्ट्रॉन लब्धि एन्थैल्पी अत्यधिक धनात्मक होती है।"
+        },
+        {
+          "en": "Electronegativity (Pauling scale) is highest for F (4.0).",
+          "hi": "विद्युत-ऋणात्मकता (पॉलिंग पैमाना) F की सबसे अधिक (4.0) है।"
+        }
+      ],
+      "realLife": {
+        "en": "Trends predict which metals corrode easily, which non-metals are strong oxidisers, and why fluorine compounds are so stable.",
+        "hi": "प्रवृत्तियों से अनुमान होता है कि कौन-सी धातुएँ आसानी से संक्षारित होंगी, कौन-सी अधातुएँ प्रबल ऑक्सीकारक हैं, और फ़्लुओरीन यौगिक इतने स्थायी क्यों हैं।"
+      },
+      "examFocus": {
+        "en": "Arrange elements or ions by size, ionisation enthalpy, electron gain enthalpy; explain exceptions (Be/B, N/O, F/Cl).",
+        "hi": "तत्वों या आयनों को आकार, आयनन एन्थैल्पी, इलेक्ट्रॉन लब्धि एन्थैल्पी के क्रम में लगाना; अपवाद (Be/B, N/O, F/Cl) समझाना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Saying fluorine has the most negative electron gain enthalpy — chlorine does.",
+          "hi": "यह कहना कि फ़्लुओरीन की इलेक्ट्रॉन लब्धि एन्थैल्पी सबसे ऋणात्मक है — क्लोरीन की है।"
+        }
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": [
+        "periodic-trends"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "3.7"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Across: Shrinks and Grabs; Down: Grows and Gives\"",
+            "hi": "\"आवर्त में: सिकुड़ता और खींचता; वर्ग में नीचे: बढ़ता और देता\""
+          },
+          "recall": {
+            "en": "Across a period atoms get smaller and hold electrons more strongly (higher IE, EN); down a group they get larger and lose electrons more easily.",
+            "hi": "आवर्त में परमाणु छोटे होते हैं और इलेक्ट्रॉनों को अधिक मज़बूती से पकड़ते हैं (अधिक IE, EN); वर्ग में नीचे बड़े होते हैं और इलेक्ट्रॉन आसानी से खोते हैं।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Across a period radius falls and IE, EN rise; down a group the reverse.",
+          "hi": "आवर्त में त्रिज्या घटती और IE, EN बढ़ती है; वर्ग में नीचे इसका उलटा।"
+        },
+        "points": [
+          {
+            "en": "Isoelectronic size: O²⁻ > F⁻ > Na⁺ > Mg²⁺.",
+            "hi": "समइलेक्ट्रॉनी आकार: O²⁻ > F⁻ > Na⁺ > Mg²⁺।"
+          },
+          {
+            "en": "F has the highest electronegativity (4.0).",
+            "hi": "F की विद्युत-ऋणात्मकता सबसे अधिक (4.0)।"
+          }
+        ]
+      }
+    }
+  ]
+}

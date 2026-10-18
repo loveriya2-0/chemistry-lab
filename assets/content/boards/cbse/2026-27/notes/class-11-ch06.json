@@ -1,0 +1,1005 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "note-cbse-11-ch06-t6.1",
+      "targetId": "cbse-11-ch06-t6.1",
+      "covers": [],
+      "definition": {
+        "en": "Physical equilibrium is the state in which two phases of a substance coexist with opposing processes (melting/freezing, evaporation/condensation, dissolving/crystallising) occurring at equal rates.",
+        "hi": "भौतिक साम्यावस्था वह अवस्था है जिसमें किसी पदार्थ की दो प्रावस्थाएँ साथ रहती हैं और विपरीत प्रक्रम (गलन/हिमीकरण, वाष्पन/संघनन, घुलना/क्रिस्टलन) समान दर से होते हैं।"
+      },
+      "explanation": {
+        "en": "Ice and water at 273 K and 1 atm, water and its vapour in a closed vessel (equilibrium vapour pressure), a saturated solution with undissolved solid, and a gas dissolved in a liquid in a sealed bottle are examples. Henry's law: the mass of gas dissolved is proportional to its pressure above the liquid (why a soda bottle fizzes when opened).",
+        "hi": "273 K और 1 atm पर बर्फ़ और जल, बंद पात्र में जल और उसकी वाष्प (साम्य वाष्प दाब), अघुलित ठोस सहित संतृप्त विलयन, और बंद बोतल में द्रव में घुली गैस — इसके उदाहरण हैं। हेनरी का नियम: घुली गैस का द्रव्यमान द्रव के ऊपर उसके दाब के समानुपाती होता है (इसीलिए सोडा की बोतल खोलने पर बुदबुदाहट होती है)।"
+      },
+      "keyPoints": [
+        {
+          "en": "Equilibrium is possible only in a closed system and is dynamic.",
+          "hi": "साम्यावस्था केवल बंद निकाय में संभव है और गतिक होती है।"
+        },
+        {
+          "en": "At equilibrium measurable properties stay constant.",
+          "hi": "साम्य पर मापने योग्य गुण स्थिर रहते हैं।"
+        }
+      ],
+      "realLife": {
+        "en": "Carbonated drinks, pressure cookers and wet clothes drying are governed by physical equilibria.",
+        "hi": "कार्बोनेटेड पेय, प्रेशर कुकर और गीले कपड़ों का सूखना भौतिक साम्यावस्थाओं से नियंत्रित हैं।"
+      },
+      "examFocus": {
+        "en": "Give examples and features of physical equilibria; state Henry's law.",
+        "hi": "भौतिक साम्यावस्थाओं के उदाहरण और विशेषताएँ; हेनरी का नियम।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Thinking processes stop at equilibrium — both continue at equal rates.",
+          "hi": "यह सोचना कि साम्य पर प्रक्रम रुक जाते हैं — दोनों समान दर से चलते रहते हैं।"
+        }
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": [
+        "chemical-equilibrium"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "6.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "quickRevision": {
+        "oneLine": {
+          "en": "Physical equilibrium: two phases coexist with opposing processes at equal rates.",
+          "hi": "भौतिक साम्य: दो प्रावस्थाएँ साथ रहती हैं और विपरीत प्रक्रम समान दर से होते हैं।"
+        },
+        "points": [
+          {
+            "en": "Only in a closed system; equilibrium is dynamic.",
+            "hi": "केवल बंद तंत्र में; साम्य गतिक है।"
+          },
+          {
+            "en": "Measurable properties stay constant at equilibrium.",
+            "hi": "साम्य पर मापनीय गुण स्थिर रहते हैं।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch06-t6.2",
+      "targetId": "cbse-11-ch06-t6.2",
+      "covers": [],
+      "definition": {
+        "en": "Chemical equilibrium is reached in a reversible reaction when the rate of the forward reaction equals the rate of the backward reaction, so concentrations stop changing.",
+        "hi": "उत्क्रमणीय अभिक्रिया में रासायनिक साम्यावस्था तब आती है जब अग्र अभिक्रिया की दर पश्च अभिक्रिया की दर के बराबर हो जाती है और सांद्रताएँ बदलना बंद कर देती हैं।"
+      },
+      "explanation": {
+        "en": "Equilibrium is dynamic: both reactions continue. The same equilibrium is reached whether we start with reactants or products — shown with radioactive (deuterium) tracers in the ammonia synthesis, where D appears in NH₃ even after equilibrium is reached.",
+        "hi": "साम्यावस्था गतिक है: दोनों अभिक्रियाएँ चलती रहती हैं। अभिकारकों से शुरू करें या उत्पादों से, वही साम्यावस्था आती है — अमोनिया संश्लेषण में ड्यूटीरियम अनुरेखक से दिखाया गया कि साम्य के बाद भी D, NH₃ में पहुँचता है।"
+      },
+      "keyPoints": [
+        {
+          "en": "Equilibrium can be approached from either side.",
+          "hi": "साम्यावस्था किसी भी ओर से प्राप्त की जा सकती है।"
+        }
+      ],
+      "realLife": {
+        "en": "Oxygen binding to haemoglobin in blood is a dynamic equilibrium that shifts between lungs and tissues.",
+        "hi": "रक्त में हीमोग्लोबिन से ऑक्सीजन का जुड़ना गतिक साम्य है जो फेफड़ों और ऊतकों के बीच स्थानांतरित होता है।"
+      },
+      "examFocus": {
+        "en": "Explain the dynamic nature of equilibrium with an example.",
+        "hi": "उदाहरण सहित साम्य की गतिक प्रकृति समझाना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Assuming reactant and product concentrations are equal at equilibrium — they are constant, not necessarily equal.",
+          "hi": "यह मानना कि साम्य पर अभिकारक और उत्पाद की सांद्रताएँ बराबर होती हैं — वे स्थिर होती हैं, आवश्यक नहीं कि बराबर।"
+        }
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": [
+        "chemical-equilibrium"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "6.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "quickRevision": {
+        "oneLine": {
+          "en": "Chemical equilibrium: forward rate = backward rate; concentrations stop changing.",
+          "hi": "रासायनिक साम्य: अग्र दर = पश्च दर; सांद्रताएँ बदलना बंद।"
+        },
+        "points": [
+          {
+            "en": "Can be reached from either side.",
+            "hi": "किसी भी ओर से प्राप्त किया जा सकता है।"
+          },
+          {
+            "en": "Reactions do not stop at equilibrium — it is dynamic.",
+            "hi": "साम्य पर अभिक्रियाएँ रुकती नहीं — यह गतिक है।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch06-t6.3",
+      "targetId": "cbse-11-ch06-t6.3",
+      "covers": [],
+      "definition": {
+        "en": "Law of chemical equilibrium (law of mass action, Guldberg and Waage): for aA + bB ⇌ cC + dD at a given temperature, Kc = [C]ᶜ[D]ᵈ / [A]ᵃ[B]ᵇ is constant.",
+        "hi": "रासायनिक साम्यावस्था का नियम (द्रव्य-अनुपाती क्रिया नियम, गुल्डबर्ग और वागे): दिए गए ताप पर aA + bB ⇌ cC + dD के लिए Kc = [C]ᶜ[D]ᵈ / [A]ᵃ[B]ᵇ स्थिर होता है।"
+      },
+      "explanation": {
+        "en": "Kc depends only on temperature. For the reverse reaction K′ = 1/Kc; multiplying the equation by n gives Kcⁿ; dividing by n gives Kc^(1/n). Concentrations are equilibrium molar concentrations.",
+        "hi": "Kc केवल ताप पर निर्भर है। उलटी अभिक्रिया के लिए K′ = 1/Kc; समीकरण को n से गुणा करने पर Kcⁿ; n से भाग देने पर Kc^(1/n)। सांद्रताएँ साम्य मोलर सांद्रताएँ हैं।"
+      },
+      "keyPoints": [
+        {
+          "en": "The value of K does not depend on initial concentrations.",
+          "hi": "K का मान प्रारंभिक सांद्रताओं पर निर्भर नहीं करता।"
+        }
+      ],
+      "realLife": {
+        "en": "K tells industry how far a reaction can go before more reactant stops helping.",
+        "hi": "K उद्योग को बताता है कि अभिक्रिया कितनी आगे जा सकती है।"
+      },
+      "examFocus": {
+        "en": "Write Kc expressions; relate K for reversed and multiplied equations; calculate Kc from equilibrium data.",
+        "hi": "Kc व्यंजक लिखना; उलटे और गुणित समीकरणों के K का संबंध; साम्य आँकड़ों से Kc की गणना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Using initial instead of equilibrium concentrations in Kc.",
+          "hi": "Kc में साम्य के बजाय प्रारंभिक सांद्रताएँ लेना।"
+        }
+      ],
+      "formulas": [
+        "Kc = [C]ᶜ[D]ᵈ / [A]ᵃ[B]ᵇ",
+        "K(reverse) = 1/K"
+      ],
+      "practicalIds": [
+        "cbse-11-pD"
+      ],
+      "conceptIds": [
+        "chemical-equilibrium"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "6.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"K = Products on Top\"",
+            "hi": "\"K = उत्पाद ऊपर\""
+          },
+          "recall": {
+            "en": "In every equilibrium expression the product concentrations go in the numerator and reactants in the denominator.",
+            "hi": "हर साम्य व्यंजक में उत्पादों की सांद्रताएँ अंश में और अभिकारकों की हर में होती हैं।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Law of mass action: Kc = products over reactants, each raised to its coefficient.",
+          "hi": "द्रव्य-अनुपाती क्रिया नियम: Kc = उत्पाद ÷ अभिकारक, प्रत्येक अपने गुणांक की घात पर।"
+        },
+        "formula": "Kc = [C]ᶜ[D]ᵈ / [A]ᵃ[B]ᵇ",
+        "points": [
+          {
+            "en": "K does not depend on initial concentrations.",
+            "hi": "K प्रारंभिक सांद्रताओं पर निर्भर नहीं।"
+          },
+          {
+            "en": "Reverse reaction: 1/K; equation × n: Kⁿ.",
+            "hi": "उत्क्रम अभिक्रिया: 1/K; समीकरण × n: Kⁿ।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch06-t6.4",
+      "targetId": "cbse-11-ch06-t6.4",
+      "covers": [],
+      "definition": {
+        "en": "In a homogeneous equilibrium all reactants and products are in the same phase. For gases, the equilibrium constant can also be written in partial pressures, Kp.",
+        "hi": "समांग साम्यावस्था में सभी अभिकारक और उत्पाद एक ही प्रावस्था में होते हैं। गैसों के लिए साम्यावस्था स्थिरांक आंशिक दाबों में भी लिखा जा सकता है, Kp।"
+      },
+      "explanation": {
+        "en": "Examples: N₂(g) + 3H₂(g) ⇌ 2NH₃(g); CH₃COOC₂H₅(aq) + H₂O(l) ⇌ CH₃COOH(aq) + C₂H₅OH(aq). Kp = Kc(RT)^Δn, where Δn = moles of gaseous products − moles of gaseous reactants; if Δn = 0, Kp = Kc. Use R = 0.0831 bar L mol⁻¹ K⁻¹ with pressure in bar.",
+        "hi": "उदाहरण: N₂(g) + 3H₂(g) ⇌ 2NH₃(g); CH₃COOC₂H₅(aq) + H₂O(l) ⇌ CH₃COOH(aq) + C₂H₅OH(aq)। Kp = Kc(RT)^Δn, जहाँ Δn = गैसीय उत्पादों के मोल − गैसीय अभिकारकों के मोल; Δn = 0 हो तो Kp = Kc। bar में दाब के साथ R = 0.0831 bar L mol⁻¹ K⁻¹ लें।"
+      },
+      "keyPoints": [
+        {
+          "en": "For H₂ + I₂ ⇌ 2HI, Δn = 0 so Kp = Kc.",
+          "hi": "H₂ + I₂ ⇌ 2HI में Δn = 0, अतः Kp = Kc।"
+        }
+      ],
+      "realLife": {
+        "en": "The Haber process for ammonia is a homogeneous gas-phase equilibrium.",
+        "hi": "अमोनिया का हाबर प्रक्रम एक समांग गैस-प्रावस्था साम्यावस्था है।"
+      },
+      "examFocus": {
+        "en": "Write Kp; convert between Kp and Kc.",
+        "hi": "Kp लिखना; Kp और Kc में रूपांतरण।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Using R = 8.314 J K⁻¹ mol⁻¹ in Kp = Kc(RT)^Δn with concentrations in mol L⁻¹ and pressures in bar.",
+          "hi": "mol L⁻¹ और bar के साथ Kp = Kc(RT)^Δn में R = 8.314 J K⁻¹ mol⁻¹ लेना।"
+        }
+      ],
+      "formulas": [
+        "Kp = Kc(RT)^Δn"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "chemical-equilibrium"
+      ],
+      "chemicalIds": [
+        "ammonia"
+      ],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "6.4"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Δn = gas Products − gas Reactants; Δn = 0 → Kp = Kc\"",
+            "hi": "\"Δn = गैसीय उत्पाद − गैसीय अभिकारक; Δn = 0 → Kp = Kc\""
+          },
+          "recall": {
+            "en": "In Kp = Kc(RT)^Δn, Δn counts only gaseous moles (products minus reactants). When gas moles are equal on both sides, as in H₂ + I₂ ⇌ 2HI, Kp = Kc.",
+            "hi": "Kp = Kc(RT)^Δn में Δn केवल गैसीय मोल गिनता है (उत्पाद घटा अभिकारक)। जब दोनों ओर गैसीय मोल बराबर हों, जैसे H₂ + I₂ ⇌ 2HI में, तब Kp = Kc।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Homogeneous equilibrium: all species in one phase; for gases Kp = Kc(RT)^Δn.",
+          "hi": "समांगी साम्य: सभी स्पीशीज़ एक प्रावस्था में; गैसों के लिए Kp = Kc(RT)^Δn।"
+        },
+        "formula": "Kp = Kc(RT)^Δn",
+        "points": [
+          {
+            "en": "Δn = gaseous moles of products − reactants.",
+            "hi": "Δn = उत्पादों के गैसीय मोल − अभिकारकों के।"
+          },
+          {
+            "en": "If Δn = 0 (H₂ + I₂ ⇌ 2HI), Kp = Kc.",
+            "hi": "यदि Δn = 0 (H₂ + I₂ ⇌ 2HI), तो Kp = Kc।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch06-t6.5",
+      "targetId": "cbse-11-ch06-t6.5",
+      "covers": [],
+      "definition": {
+        "en": "A heterogeneous equilibrium involves more than one phase. The concentrations (activities) of pure solids and pure liquids are constant and are left out of the equilibrium expression.",
+        "hi": "विषमांग साम्यावस्था में एक से अधिक प्रावस्थाएँ होती हैं। शुद्ध ठोसों और शुद्ध द्रवों की सांद्रताएँ (सक्रियताएँ) स्थिर होती हैं और साम्य व्यंजक में नहीं लिखी जातीं।"
+      },
+      "explanation": {
+        "en": "CaCO₃(s) ⇌ CaO(s) + CO₂(g): Kc = [CO₂], Kp = p(CO₂). Ni(s) + 4CO(g) ⇌ Ni(CO)₄(g): Kc = [Ni(CO)₄]/[CO]⁴. The amounts of the solids present do not affect the equilibrium (as long as some is present).",
+        "hi": "CaCO₃(s) ⇌ CaO(s) + CO₂(g): Kc = [CO₂], Kp = p(CO₂)। Ni(s) + 4CO(g) ⇌ Ni(CO)₄(g): Kc = [Ni(CO)₄]/[CO]⁴। उपस्थित ठोसों की मात्रा साम्य को प्रभावित नहीं करती (बशर्ते कुछ उपस्थित हो)।"
+      },
+      "keyPoints": [
+        {
+          "en": "Water as a solvent in dilute solution is also omitted.",
+          "hi": "तनु विलयन में विलायक के रूप में जल भी छोड़ा जाता है।"
+        }
+      ],
+      "realLife": {
+        "en": "Lime kilns operate on the CaCO₃ ⇌ CaO + CO₂ equilibrium; removing CO₂ drives decomposition forward.",
+        "hi": "चूना भट्ठियाँ CaCO₃ ⇌ CaO + CO₂ साम्य पर चलती हैं; CO₂ हटाने से वियोजन आगे बढ़ता है।"
+      },
+      "examFocus": {
+        "en": "Write Kc and Kp for heterogeneous equilibria.",
+        "hi": "विषमांग साम्यों के लिए Kc और Kp लिखना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Including solids such as CaCO₃ or CaO in the expression.",
+          "hi": "व्यंजक में CaCO₃ या CaO जैसे ठोस सम्मिलित करना।"
+        }
+      ],
+      "formulas": [
+        "CaCO₃(s) ⇌ CaO(s) + CO₂(g); Kp = p(CO₂)"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "chemical-equilibrium"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "6.5"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Solids and liquids sit out of K\"",
+            "hi": "\"ठोस और द्रव K से बाहर बैठते हैं\""
+          },
+          "recall": {
+            "en": "Pure solids and pure liquids do not appear in the equilibrium constant expression.",
+            "hi": "शुद्ध ठोस और शुद्ध द्रव साम्य स्थिरांक व्यंजक में नहीं आते।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Heterogeneous equilibrium: more than one phase; pure solids and liquids are omitted.",
+          "hi": "विषमांगी साम्य: एक से अधिक प्रावस्थाएँ; शुद्ध ठोस और द्रव छोड़ दिए जाते हैं।"
+        },
+        "formula": "CaCO₃(s) ⇌ CaO(s) + CO₂(g); Kp = p(CO₂)",
+        "points": [
+          {
+            "en": "Their activity is taken as 1.",
+            "hi": "इनकी सक्रियता 1 मानी जाती है।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch06-t6.6",
+      "targetId": "cbse-11-ch06-t6.6",
+      "covers": [],
+      "definition": {
+        "en": "The equilibrium constant predicts the extent of a reaction, its direction (by comparing the reaction quotient Q with K) and equilibrium concentrations.",
+        "hi": "साम्यावस्था स्थिरांक अभिक्रिया की सीमा, दिशा (अभिक्रिया भागफल Q की K से तुलना करके) और साम्य सांद्रताएँ बताता है।"
+      },
+      "explanation": {
+        "en": "K > 10³: products predominate (nearly complete); K < 10⁻³: reactants predominate; between: appreciable amounts of both. Q has the same form as K but uses concentrations at any moment. If Q < K the reaction goes forward; Q > K backward; Q = K equilibrium. Equilibrium concentrations are found with an ICE (initial–change–equilibrium) table.",
+        "hi": "K > 10³: उत्पाद प्रमुख (लगभग पूर्ण); K < 10⁻³: अभिकारक प्रमुख; बीच में: दोनों पर्याप्त मात्रा में। Q का रूप K जैसा है पर किसी भी क्षण की सांद्रताएँ लेता है। Q < K हो तो अभिक्रिया आगे; Q > K पीछे; Q = K साम्य। साम्य सांद्रताएँ ICE (प्रारंभिक–परिवर्तन–साम्य) तालिका से निकलती हैं।"
+      },
+      "keyPoints": [
+        {
+          "en": "Comparing Q and K tells the direction of net change.",
+          "hi": "Q और K की तुलना शुद्ध परिवर्तन की दिशा बताती है।"
+        }
+      ],
+      "realLife": {
+        "en": "Plant operators measure Q to decide whether to add reactant or remove product.",
+        "hi": "संयंत्र संचालक Q मापकर तय करते हैं कि अभिकारक जोड़ें या उत्पाद हटाएँ।"
+      },
+      "examFocus": {
+        "en": "Predict direction from Q and K; calculate equilibrium concentrations.",
+        "hi": "Q और K से दिशा बताना; साम्य सांद्रताओं की गणना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Reversing the rule: Q < K means the reaction proceeds forward, not backward.",
+          "hi": "नियम उलटना: Q < K का अर्थ है अभिक्रिया आगे बढ़ेगी, पीछे नहीं।"
+        }
+      ],
+      "formulas": [
+        "Q < K → forward; Q > K → backward; Q = K → equilibrium"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "chemical-equilibrium"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "6.6"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Q less, go ahead; Q more, go back\"",
+            "hi": "\"Q कम, आगे बढ़ो; Q अधिक, पीछे जाओ\""
+          },
+          "recall": {
+            "en": "If Q < K the reaction moves forward; if Q > K it moves backward until Q = K.",
+            "hi": "यदि Q < K तो अभिक्रिया आगे बढ़ती है; यदि Q > K तो पीछे, जब तक Q = K न हो।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Compare Q with K to predict the direction of a reaction.",
+          "hi": "अभिक्रिया की दिशा जानने के लिए Q की K से तुलना करें।"
+        },
+        "formula": "Q < K → forward; Q > K → backward; Q = K → equilibrium",
+        "points": [
+          {
+            "en": "K > 10³: products dominate; K < 10⁻³: reactants dominate.",
+            "hi": "K > 10³: उत्पाद प्रधान; K < 10⁻³: अभिकारक प्रधान।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch06-t6.7",
+      "targetId": "cbse-11-ch06-t6.7",
+      "covers": [],
+      "definition": {
+        "en": "ΔG = ΔG⊖ + RT ln Q. At equilibrium ΔG = 0 and Q = K, so ΔG⊖ = −RT ln K.",
+        "hi": "ΔG = ΔG⊖ + RT ln Q। साम्य पर ΔG = 0 और Q = K, अतः ΔG⊖ = −RT ln K।"
+      },
+      "explanation": {
+        "en": "If ΔG⊖ < 0, K > 1 and the forward reaction is favoured; if ΔG⊖ > 0, K < 1. K = e^(−ΔG⊖/RT). This connects thermodynamics (Chapter 5) with equilibrium.",
+        "hi": "ΔG⊖ < 0 हो तो K > 1 और अग्र अभिक्रिया अनुकूल; ΔG⊖ > 0 हो तो K < 1। K = e^(−ΔG⊖/RT)। यह ऊष्मागतिकी (अध्याय 5) को साम्यावस्था से जोड़ता है।"
+      },
+      "keyPoints": [
+        {
+          "en": "K changes only when temperature changes.",
+          "hi": "K केवल ताप बदलने पर बदलता है।"
+        }
+      ],
+      "realLife": {
+        "en": "Thermodynamic tables let engineers predict equilibrium yields without doing the experiment.",
+        "hi": "ऊष्मागतिकीय सारणियों से इंजीनियर बिना प्रयोग के साम्य लब्धि का अनुमान लगाते हैं।"
+      },
+      "examFocus": {
+        "en": "Numericals linking ΔG⊖ and K.",
+        "hi": "ΔG⊖ और K को जोड़ने वाले आंकिक।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Using log instead of ln without the factor 2.303.",
+          "hi": "2.303 गुणक के बिना ln के स्थान पर log लेना।"
+        }
+      ],
+      "formulas": [
+        "ΔG = ΔG⊖ + RT ln Q",
+        "ΔG⊖ = −RT ln K = −2.303 RT log K"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "chemical-equilibrium",
+        "entropy-and-gibbs-energy"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "6.7"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"ΔG = RT ln(Q/K): Q below K, ΔG below zero\"",
+            "hi": "\"ΔG = RT ln(Q/K): Q, K से कम तो ΔG शून्य से कम\""
+          },
+          "recall": {
+            "en": "Substituting ΔG⊖ = −RT ln K into ΔG = ΔG⊖ + RT ln Q gives ΔG = RT ln(Q/K). If Q < K, ΔG is negative and the forward reaction is spontaneous; if Q > K, ΔG is positive; if Q = K, ΔG = 0 (equilibrium).",
+            "hi": "ΔG = ΔG⊖ + RT ln Q में ΔG⊖ = −RT ln K रखने पर ΔG = RT ln(Q/K) मिलता है। यदि Q < K, तो ΔG ऋणात्मक है और अग्र अभिक्रिया स्वतःप्रवर्तित है; यदि Q > K, तो ΔG धनात्मक है; यदि Q = K, तो ΔG = 0 (साम्य)।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "ΔG = ΔG⊖ + RT ln Q; at equilibrium ΔG⊖ = −RT ln K.",
+          "hi": "ΔG = ΔG⊖ + RT ln Q; साम्य पर ΔG⊖ = −RT ln K।"
+        },
+        "formula": "ΔG⊖ = −RT ln K = −2.303 RT log K",
+        "points": [
+          {
+            "en": "ΔG⊖ < 0 → K > 1.",
+            "hi": "ΔG⊖ < 0 → K > 1।"
+          },
+          {
+            "en": "Only temperature changes K.",
+            "hi": "केवल ताप K बदलता है।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch06-t6.8",
+      "targetId": "cbse-11-ch06-t6.8",
+      "covers": [],
+      "definition": {
+        "en": "Le Chatelier's principle: if a system at equilibrium is disturbed by a change in concentration, pressure or temperature, the equilibrium shifts in the direction that tends to undo the change.",
+        "hi": "ला-शातैलिए सिद्धांत: यदि साम्यावस्था में स्थित निकाय की सांद्रता, दाब या ताप बदलकर उसे विक्षुब्ध किया जाए, तो साम्य उस दिशा में खिसकता है जो परिवर्तन को निष्प्रभावी करने की प्रवृत्ति रखती है।"
+      },
+      "explanation": {
+        "en": "Adding a reactant (or removing a product) shifts the equilibrium forward. Increasing pressure (decreasing volume) shifts towards fewer gaseous moles (N₂ + 3H₂ ⇌ 2NH₃ goes forward). Raising temperature favours the endothermic direction and changes K: for exothermic reactions K decreases. A catalyst speeds up both directions equally and does not change K; adding an inert gas at constant volume has no effect. Fe³⁺ + SCN⁻ ⇌ [Fe(SCN)]²⁺ (blood-red) is used to show concentration effects.",
+        "hi": "अभिकारक जोड़ने (या उत्पाद हटाने) से साम्य आगे खिसकता है। दाब बढ़ाने (आयतन घटाने) पर साम्य कम गैसीय मोल की ओर जाता है (N₂ + 3H₂ ⇌ 2NH₃ आगे)। ताप बढ़ाने पर ऊष्माशोषी दिशा अनुकूल होती है और K बदलता है: ऊष्माक्षेपी अभिक्रियाओं का K घटता है। उत्प्रेरक दोनों दिशाओं को समान रूप से तेज़ करता है, K नहीं बदलता; स्थिर आयतन पर अक्रिय गैस मिलाने का कोई प्रभाव नहीं। Fe³⁺ + SCN⁻ ⇌ [Fe(SCN)]²⁺ (रक्त-लाल) से सांद्रता का प्रभाव दिखाया जाता है।"
+      },
+      "keyPoints": [
+        {
+          "en": "Haber process: high pressure, moderate temperature (~500 °C) and iron catalyst.",
+          "hi": "हाबर प्रक्रम: उच्च दाब, मध्यम ताप (~500 °C) और लौह उत्प्रेरक।"
+        },
+        {
+          "en": "Only temperature changes the value of K.",
+          "hi": "केवल ताप K का मान बदलता है।"
+        }
+      ],
+      "realLife": {
+        "en": "Fertiliser plants use high pressure to maximise ammonia; the [Co(H₂O)₆]²⁺/Cl⁻ colour change shows equilibrium shifts in the lab.",
+        "hi": "उर्वरक संयंत्र अधिकतम अमोनिया के लिए उच्च दाब लेते हैं; प्रयोगशाला में [Co(H₂O)₆]²⁺/Cl⁻ का रंग परिवर्तन साम्य का खिसकना दिखाता है।"
+      },
+      "examFocus": {
+        "en": "Predict the effect of concentration, pressure, temperature, catalyst and inert gas on given equilibria.",
+        "hi": "दिए गए साम्यों पर सांद्रता, दाब, ताप, उत्प्रेरक और अक्रिय गैस का प्रभाव बताना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Saying a catalyst increases the yield at equilibrium — it only helps reach equilibrium faster.",
+          "hi": "यह कहना कि उत्प्रेरक साम्य पर लब्धि बढ़ाता है — यह केवल साम्य जल्दी लाता है।"
+        }
+      ],
+      "formulas": [
+        "Fe³⁺(aq) + SCN⁻(aq) ⇌ [Fe(SCN)]²⁺(aq)",
+        "N₂(g) + 3H₂(g) ⇌ 2NH₃(g); ΔH < 0"
+      ],
+      "practicalIds": [
+        "cbse-11-pD"
+      ],
+      "conceptIds": [
+        "le-chatelier-principle"
+      ],
+      "chemicalIds": [
+        "ammonia"
+      ],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "6.8"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Equilibrium is a stubborn friend — it opposes what you do\"",
+            "hi": "\"साम्य ज़िद्दी मित्र है — आप जो करें उसका विरोध करता है\""
+          },
+          "recall": {
+            "en": "Add reactant → it uses it up (forward); heat it → it absorbs heat (endothermic way); squeeze it → it makes fewer gas molecules.",
+            "hi": "अभिकारक जोड़ो → उसे खपाता है (अग्र); गरम करो → ऊष्मा अवशोषित करता है (ऊष्माशोषी दिशा); दबाओ → कम गैस अणु बनाता है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Le Chatelier: a disturbed equilibrium shifts to undo the change.",
+          "hi": "ला-शातेलिए: विचलित साम्य परिवर्तन को निष्फल करने की दिशा में खिसकता है।"
+        },
+        "formula": "N₂(g) + 3H₂(g) ⇌ 2NH₃(g); ΔH < 0",
+        "points": [
+          {
+            "en": "↑ pressure → side with fewer gas moles; ↑ temperature → endothermic side.",
+            "hi": "↑ दाब → कम गैस मोलों वाला पक्ष; ↑ ताप → ऊष्माशोषी पक्ष।"
+          },
+          {
+            "en": "Catalyst changes neither K nor the position of equilibrium.",
+            "hi": "उत्प्रेरक न K बदलता है न साम्य की स्थिति।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch06-t6.9",
+      "targetId": "cbse-11-ch06-t6.9",
+      "covers": [],
+      "definition": {
+        "en": "Ionic equilibrium is equilibrium between un-ionised molecules and their ions in solution. Strong electrolytes ionise almost completely; weak electrolytes only partly.",
+        "hi": "आयनिक साम्यावस्था विलयन में अनायनित अणुओं और उनके आयनों के बीच का साम्य है। प्रबल विद्युत-अपघट्य लगभग पूर्णतः आयनित होते हैं; दुर्बल केवल आंशिक रूप से।"
+      },
+      "explanation": {
+        "en": "Faraday classified substances as electrolytes and non-electrolytes. NaCl and HCl are strong electrolytes; acetic acid is weak — its solution contains an equilibrium between CH₃COOH and CH₃COO⁻ + H₃O⁺.",
+        "hi": "फ़ैराडे ने पदार्थों को विद्युत-अपघट्य और अविद्युत-अपघट्य में बाँटा। NaCl और HCl प्रबल विद्युत-अपघट्य हैं; ऐसीटिक अम्ल दुर्बल है — उसके विलयन में CH₃COOH और CH₃COO⁻ + H₃O⁺ के बीच साम्य रहता है।"
+      },
+      "keyPoints": [
+        {
+          "en": "Degree of ionisation α is the fraction of molecules ionised.",
+          "hi": "आयनन की मात्रा α आयनित अणुओं का अंश है।"
+        }
+      ],
+      "realLife": {
+        "en": "The weak ionisation of acetic acid is why vinegar is safe to eat while HCl of the same concentration is corrosive.",
+        "hi": "ऐसीटिक अम्ल के दुर्बल आयनन के कारण सिरका खाने योग्य है जबकि उसी सांद्रता का HCl संक्षारक है।"
+      },
+      "examFocus": {
+        "en": "Distinguish strong and weak electrolytes with examples.",
+        "hi": "उदाहरण सहित प्रबल और दुर्बल विद्युत-अपघट्यों में अंतर।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Equating 'weak' with 'dilute' — weak refers to degree of ionisation, dilute to concentration.",
+          "hi": "'दुर्बल' को 'तनु' समझना — दुर्बल आयनन की मात्रा है, तनु सांद्रता।"
+        }
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": [
+        "acids-bases-ph-equilibrium"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "6.9"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "quickRevision": {
+        "oneLine": {
+          "en": "Strong electrolytes ionise almost fully; weak electrolytes partly (degree α).",
+          "hi": "प्रबल वैद्युत-अपघट्य लगभग पूर्ण आयनित; दुर्बल आंशिक (मात्रा α)।"
+        },
+        "points": [
+          {
+            "en": "Ionic equilibrium exists only for weak electrolytes.",
+            "hi": "आयनिक साम्य केवल दुर्बल वैद्युत-अपघट्यों में।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch06-t6.10",
+      "targetId": "cbse-11-ch06-t6.10",
+      "covers": [],
+      "definition": {
+        "en": "Three acid–base concepts: Arrhenius (acids give H⁺, bases give OH⁻ in water), Brönsted–Lowry (acids donate protons, bases accept protons) and Lewis (acids accept an electron pair, bases donate one).",
+        "hi": "अम्ल–क्षारक की तीन अवधारणाएँ: आरेनियस (जल में अम्ल H⁺ और क्षारक OH⁻ देते हैं), ब्रोंस्टेड–लौरी (अम्ल प्रोटॉन दाता, क्षारक प्रोटॉन ग्राही) और लूइस (अम्ल इलेक्ट्रॉन युग्म ग्राही, क्षारक दाता)।"
+      },
+      "explanation": {
+        "en": "In Brönsted–Lowry theory each acid has a conjugate base and each base a conjugate acid, differing by one proton (HCl/Cl⁻, NH₄⁺/NH₃). A strong acid has a very weak conjugate base. Water is amphoteric (acts as acid and base). Lewis acids include BF₃, AlCl₃ and metal ions; Lewis bases include NH₃ and OH⁻. The Lewis concept covers reactions without protons.",
+        "hi": "ब्रोंस्टेड–लौरी सिद्धांत में हर अम्ल का संयुग्मी क्षारक और हर क्षारक का संयुग्मी अम्ल होता है, जो एक प्रोटॉन से भिन्न होते हैं (HCl/Cl⁻, NH₄⁺/NH₃)। प्रबल अम्ल का संयुग्मी क्षारक बहुत दुर्बल होता है। जल उभयधर्मी है (अम्ल और क्षारक दोनों)। लूइस अम्ल: BF₃, AlCl₃, धातु आयन; लूइस क्षारक: NH₃, OH⁻। लूइस अवधारणा प्रोटॉन-रहित अभिक्रियाओं को भी समाहित करती है।"
+      },
+      "keyPoints": [
+        {
+          "en": "H⁺ exists as the hydronium ion H₃O⁺ in water.",
+          "hi": "जल में H⁺ हाइड्रोनियम आयन H₃O⁺ के रूप में रहता है।"
+        }
+      ],
+      "realLife": {
+        "en": "Ammonia acting as a Brönsted base is how it neutralises acid gases in industry.",
+        "hi": "अमोनिया ब्रोंस्टेड क्षारक बनकर उद्योग में अम्लीय गैसों को उदासीन करती है।"
+      },
+      "examFocus": {
+        "en": "Write conjugate acids/bases; classify species as Lewis acids or bases.",
+        "hi": "संयुग्मी अम्ल/क्षारक लिखना; स्पीशीज़ को लूइस अम्ल या क्षारक में वर्गीकृत करना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Writing the conjugate base of H₂SO₄ as SO₄²⁻ — it is HSO₄⁻ (one proton less).",
+          "hi": "H₂SO₄ का संयुग्मी क्षारक SO₄²⁻ लिखना — यह HSO₄⁻ है (एक प्रोटॉन कम)।"
+        }
+      ],
+      "formulas": [
+        "HA + H₂O ⇌ H₃O⁺ + A⁻"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "acids-bases-ph-equilibrium"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "6.10"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Brönsted: Proton; Lewis: Lone pair\"",
+            "hi": "\"ब्रॉन्स्टेड: प्रोटॉन; लूइस: एकाकी युग्म\""
+          },
+          "recall": {
+            "en": "Brönsted–Lowry acids donate protons; Lewis acids accept an electron (lone) pair.",
+            "hi": "ब्रॉन्स्टेड–लौरी अम्ल प्रोटॉन देते हैं; लूइस अम्ल इलेक्ट्रॉन (एकाकी) युग्म ग्रहण करते हैं।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Arrhenius (H⁺/OH⁻), Brönsted–Lowry (proton donor/acceptor), Lewis (electron-pair acceptor/donor).",
+          "hi": "आरेनियस (H⁺/OH⁻), ब्रॉन्स्टेड–लौरी (प्रोटॉन दाता/ग्राही), लूइस (इलेक्ट्रॉन-युग्म ग्राही/दाता)।"
+        },
+        "formula": "HA + H₂O ⇌ H₃O⁺ + A⁻",
+        "points": [
+          {
+            "en": "Conjugate acid–base pairs differ by one proton.",
+            "hi": "संयुग्मी अम्ल–क्षारक युग्म एक प्रोटॉन से भिन्न।"
+          },
+          {
+            "en": "BF₃ and AlCl₃ are Lewis acids; NH₃ is a Lewis base.",
+            "hi": "BF₃ और AlCl₃ लूइस अम्ल; NH₃ लूइस क्षारक।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch06-t6.11",
+      "targetId": "cbse-11-ch06-t6.11",
+      "covers": [],
+      "definition": {
+        "en": "The ionic product of water Kw = [H₃O⁺][OH⁻] = 1.0 × 10⁻¹⁴ at 298 K. pH = −log[H₃O⁺]; weak acids and bases are described by Ka and Kb.",
+        "hi": "जल का आयनिक गुणनफल Kw = [H₃O⁺][OH⁻] = 298 K पर 1.0 × 10⁻¹⁴। pH = −log[H₃O⁺]; दुर्बल अम्ल और क्षारक Ka और Kb से वर्णित होते हैं।"
+      },
+      "explanation": {
+        "en": "pH + pOH = 14 at 298 K. For a weak acid HA of concentration c: Ka = cα²/(1 − α) ≈ cα², [H⁺] = √(Ka c). pKa = −log Ka; smaller pKa = stronger acid. For a conjugate pair, Ka × Kb = Kw. Polybasic acids (H₂SO₄, H₃PO₄) ionise in steps with Ka₁ > Ka₂. Common-ion effect: adding a common ion (CH₃COONa to acetic acid) suppresses ionisation of the weak electrolyte. Salt hydrolysis: salts of weak acid + strong base are basic (pH = 7 + ½(pKa + log c)); of strong acid + weak base are acidic; of weak acid + weak base depend on pKa − pKb.",
+        "hi": "298 K पर pH + pOH = 14। c सांद्रता वाले दुर्बल अम्ल HA के लिए: Ka = cα²/(1 − α) ≈ cα², [H⁺] = √(Ka c)। pKa = −log Ka; छोटा pKa = प्रबल अम्ल। संयुग्मी युग्म के लिए Ka × Kb = Kw। बहुक्षारकी अम्ल (H₂SO₄, H₃PO₄) चरणों में आयनित होते हैं, Ka₁ > Ka₂। सम-आयन प्रभाव: समान आयन (ऐसीटिक अम्ल में CH₃COONa) मिलाने से दुर्बल विद्युत-अपघट्य का आयनन दबता है। लवण जल-अपघटन: दुर्बल अम्ल + प्रबल क्षारक के लवण क्षारकीय (pH = 7 + ½(pKa + log c)); प्रबल अम्ल + दुर्बल क्षारक के अम्लीय; दुर्बल अम्ल + दुर्बल क्षारक के pKa − pKb पर निर्भर।"
+      },
+      "keyPoints": [
+        {
+          "en": "Neutral water at 298 K has [H₃O⁺] = 1.0 × 10⁻⁷ M, pH 7; Kw increases with temperature.",
+          "hi": "298 K पर उदासीन जल में [H₃O⁺] = 1.0 × 10⁻⁷ M, pH 7; ताप बढ़ने पर Kw बढ़ता है।"
+        }
+      ],
+      "realLife": {
+        "en": "Blood, soil and swimming-pool chemistry are all controlled by these ionisation equilibria.",
+        "hi": "रक्त, मिट्टी और तरणताल का रसायन — सब इन आयनन साम्यों से नियंत्रित हैं।"
+      },
+      "examFocus": {
+        "en": "pH numericals for strong and weak acids/bases, degree of ionisation, salt hydrolysis and common-ion effect.",
+        "hi": "प्रबल और दुर्बल अम्लों/क्षारकों का pH, आयनन की मात्रा, लवण जल-अपघटन और सम-आयन प्रभाव पर आंकिक।"
+      },
+      "commonMistakes": [
+        {
+          "en": "For very dilute strong acids (e.g. 10⁻⁸ M HCl) forgetting the H⁺ from water — the pH is slightly below 7, not 8.",
+          "hi": "अति तनु प्रबल अम्लों (जैसे 10⁻⁸ M HCl) में जल से आने वाले H⁺ को भूलना — pH 7 से थोड़ा कम होगा, 8 नहीं।"
+        }
+      ],
+      "formulas": [
+        "Kw = [H₃O⁺][OH⁻] = 1.0 × 10⁻¹⁴ (298 K)",
+        "pH = −log[H₃O⁺]",
+        "pH + pOH = 14",
+        "Ka ≈ cα²",
+        "Ka × Kb = Kw"
+      ],
+      "practicalIds": [
+        "cbse-11-pC"
+      ],
+      "conceptIds": [
+        "acids-bases-ph-equilibrium"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "6.11"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Ka × Kb = Kw: one up, the other down\"",
+            "hi": "\"Ka × Kb = Kw: एक बढ़े तो दूसरा घटे\""
+          },
+          "recall": {
+            "en": "For a conjugate acid–base pair Ka × Kb = Kw (1.0 × 10⁻¹⁴ at 298 K), so the stronger the acid, the weaker its conjugate base. In the same way, pH + pOH = 14 at 298 K.",
+            "hi": "संयुग्मी अम्ल–क्षारक युग्म के लिए Ka × Kb = Kw (298 K पर 1.0 × 10⁻¹⁴), इसलिए अम्ल जितना प्रबल, उसका संयुग्मी क्षारक उतना ही दुर्बल। इसी प्रकार 298 K पर pH + pOH = 14।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Kw = 1.0 × 10⁻¹⁴ at 298 K; pH = −log[H₃O⁺]; weak acids/bases have Ka/Kb.",
+          "hi": "298 K पर Kw = 1.0 × 10⁻¹⁴; pH = −log[H₃O⁺]; दुर्बल अम्लों/क्षारकों के Ka/Kb।"
+        },
+        "formula": "pH + pOH = 14",
+        "points": [
+          {
+            "en": "Ka × Kb = Kw for a conjugate pair.",
+            "hi": "संयुग्मी युग्म के लिए Ka × Kb = Kw।"
+          },
+          {
+            "en": "Kw increases with temperature.",
+            "hi": "Kw ताप के साथ बढ़ता है।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch06-t6.12",
+      "targetId": "cbse-11-ch06-t6.12",
+      "covers": [],
+      "definition": {
+        "en": "A buffer solution resists change in pH on adding small amounts of acid or base or on dilution. It is a mixture of a weak acid and its salt (acidic buffer) or a weak base and its salt (basic buffer).",
+        "hi": "बफ़र विलयन थोड़ा अम्ल या क्षारक मिलाने अथवा तनु करने पर pH में परिवर्तन का प्रतिरोध करता है। यह दुर्बल अम्ल और उसके लवण (अम्लीय बफ़र) या दुर्बल क्षारक और उसके लवण (क्षारकीय बफ़र) का मिश्रण है।"
+      },
+      "explanation": {
+        "en": "Acetic acid + sodium acetate buffers around pH 4.75; ammonium hydroxide + ammonium chloride around pH 9.25. Added H⁺ is taken up by the conjugate base, added OH⁻ by the weak acid. Henderson–Hasselbalch equation: pH = pKa + log([salt]/[acid]); when [salt] = [acid], pH = pKa.",
+        "hi": "ऐसीटिक अम्ल + सोडियम ऐसीटेट लगभग pH 4.75 पर, अमोनियम हाइड्रॉक्साइड + अमोनियम क्लोराइड लगभग pH 9.25 पर बफ़र करते हैं। जोड़ा गया H⁺ संयुग्मी क्षारक ग्रहण करता है, OH⁻ दुर्बल अम्ल। हेंडरसन–हैसलबाख समीकरण: pH = pKa + log([लवण]/[अम्ल]); [लवण] = [अम्ल] होने पर pH = pKa।"
+      },
+      "keyPoints": [
+        {
+          "en": "Buffers work best when pH ≈ pKa.",
+          "hi": "pH ≈ pKa होने पर बफ़र सबसे अच्छा काम करते हैं।"
+        }
+      ],
+      "realLife": {
+        "en": "Blood is buffered near pH 7.4; buffers are used in medicines, shampoos and fermentation.",
+        "hi": "रक्त pH 7.4 के निकट बफ़रित है; दवाओं, शैम्पू और किण्वन में बफ़र प्रयुक्त होते हैं।"
+      },
+      "examFocus": {
+        "en": "Define buffers with examples; calculate buffer pH.",
+        "hi": "उदाहरण सहित बफ़र की परिभाषा; बफ़र का pH निकालना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Calling HCl + NaCl a buffer — a strong acid and its salt cannot buffer.",
+          "hi": "HCl + NaCl को बफ़र कहना — प्रबल अम्ल और उसका लवण बफ़र नहीं बनाते।"
+        }
+      ],
+      "formulas": [
+        "pH = pKa + log([salt]/[acid])",
+        "pOH = pKb + log([salt]/[base])"
+      ],
+      "practicalIds": [
+        "cbse-11-pC"
+      ],
+      "conceptIds": [
+        "acids-bases-ph-equilibrium"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "6.12"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Salt over acid; equal amounts → pH = pKa\"",
+            "hi": "\"लवण ऊपर, अम्ल नीचे; बराबर मात्रा → pH = pKa\""
+          },
+          "recall": {
+            "en": "In pH = pKa + log([salt]/[acid]) the salt is in the numerator. When [salt] = [acid], log 1 = 0, so pH = pKa — which is why a buffer works best near its pKa.",
+            "hi": "pH = pKa + log([लवण]/[अम्ल]) में लवण अंश में है। जब [लवण] = [अम्ल], तब log 1 = 0, इसलिए pH = pKa — इसी कारण बफ़र अपने pKa के निकट सबसे अच्छा कार्य करता है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Buffers resist pH change: weak acid + its salt or weak base + its salt.",
+          "hi": "बफ़र pH परिवर्तन का प्रतिरोध करते हैं: दुर्बल अम्ल + उसका लवण या दुर्बल क्षारक + उसका लवण।"
+        },
+        "formula": "pH = pKa + log([salt]/[acid])",
+        "points": [
+          {
+            "en": "Best buffer action when pH ≈ pKa.",
+            "hi": "सर्वोत्तम बफ़र क्रिया जब pH ≈ pKa।"
+          },
+          {
+            "en": "CH₃COOH + CH₃COONa: acidic buffer; NH₄OH + NH₄Cl: basic buffer.",
+            "hi": "CH₃COOH + CH₃COONa: अम्लीय बफ़र; NH₄OH + NH₄Cl: क्षारीय बफ़र।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch06-t6.13",
+      "targetId": "cbse-11-ch06-t6.13",
+      "covers": [],
+      "definition": {
+        "en": "For a sparingly soluble salt in equilibrium with its saturated solution, the solubility product Ksp is the product of the ion concentrations raised to their stoichiometric powers.",
+        "hi": "अपने संतृप्त विलयन के साथ साम्य में अल्पविलेय लवण के लिए विलेयता गुणनफल Ksp आयनों की सांद्रताओं का उनकी स्टॉइकियोमीट्रिक घातों सहित गुणनफल है।"
+      },
+      "explanation": {
+        "en": "BaSO₄(s) ⇌ Ba²⁺ + SO₄²⁻: Ksp = [Ba²⁺][SO₄²⁻] = S². For a salt MₓXᵧ with molar solubility S: Ksp = xˣ yʸ S^(x+y) (e.g. Zr₃(PO₄)₄: Ksp = 6912 S⁷). Precipitation occurs when the ionic product Q_sp exceeds Ksp. A common ion lowers solubility (salt purification by passing HCl gas; precipitating sulphides in qualitative analysis).",
+        "hi": "BaSO₄(s) ⇌ Ba²⁺ + SO₄²⁻: Ksp = [Ba²⁺][SO₄²⁻] = S²। मोलर विलेयता S वाले लवण MₓXᵧ के लिए: Ksp = xˣ yʸ S^(x+y) (जैसे Zr₃(PO₄)₄: Ksp = 6912 S⁷)। आयनिक गुणनफल Q_sp, Ksp से अधिक होने पर अवक्षेपण होता है। सम-आयन विलेयता घटाता है (HCl गैस प्रवाहित कर नमक का शोधन; गुणात्मक विश्लेषण में सल्फ़ाइडों का अवक्षेपण)।"
+      },
+      "keyPoints": [
+        {
+          "en": "Compare solubilities through S, not directly through Ksp, when salts have different formula types.",
+          "hi": "भिन्न सूत्र-प्रकार के लवणों में Ksp से सीधे नहीं, S से विलेयता की तुलना करें।"
+        }
+      ],
+      "realLife": {
+        "en": "Qualitative salt analysis in the lab depends on selective precipitation controlled by Ksp and the common-ion effect.",
+        "hi": "प्रयोगशाला में लवण का गुणात्मक विश्लेषण Ksp और सम-आयन प्रभाव से नियंत्रित चयनात्मक अवक्षेपण पर निर्भर है।"
+      },
+      "examFocus": {
+        "en": "Write Ksp expressions; calculate S from Ksp and vice versa; predict precipitation.",
+        "hi": "Ksp व्यंजक लिखना; Ksp से S और S से Ksp; अवक्षेपण का अनुमान।"
+      },
+      "commonMistakes": [
+        {
+          "en": "For CaF₂ writing Ksp = S² instead of 4S³.",
+          "hi": "CaF₂ के लिए Ksp = 4S³ के बजाय S² लिखना।"
+        }
+      ],
+      "formulas": [
+        "Ksp(MₓXᵧ) = xˣ yʸ S^(x+y)",
+        "Precipitation if Q_sp > Ksp"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "acids-bases-ph-equilibrium"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "6.13"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"AB → S², AB₂ → 4S³, AB₃ → 27S⁴, A₂B₃ → 108S⁵ (S = solubility)\"",
+            "hi": "\"AB → S², AB₂ → 4S³, AB₃ → 27S⁴, A₂B₃ → 108S⁵ (S = विलेयता)\""
+          },
+          "recall": {
+            "en": "These come from Ksp = xˣ yʸ S^(x+y): for AB₂, 1¹ × 2² × S³ = 4S³; for AB₃, 3³ = 27; for A₂B₃, 2² × 3³ = 108.",
+            "hi": "ये Ksp = xˣ yʸ S^(x+y) से आते हैं: AB₂ के लिए 1¹ × 2² × S³ = 4S³; AB₃ के लिए 3³ = 27; A₂B₃ के लिए 2² × 3³ = 108।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Ksp = product of ion concentrations of a saturated sparingly soluble salt.",
+          "hi": "Ksp = अल्प विलेय लवण के संतृप्त विलयन में आयन सांद्रताओं का गुणनफल।"
+        },
+        "formula": "Ksp(MₓXᵧ) = xˣ yʸ S^(x+y)",
+        "points": [
+          {
+            "en": "Precipitation when ionic product > Ksp.",
+            "hi": "आयनिक गुणनफल > Ksp होने पर अवक्षेपण।"
+          },
+          {
+            "en": "Common ion lowers solubility.",
+            "hi": "सम आयन विलेयता घटाता है।"
+          }
+        ]
+      }
+    }
+  ]
+}

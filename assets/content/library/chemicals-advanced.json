@@ -1,0 +1,171 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "oxalic-acid",
+      "kind": "compound",
+      "name": {"en": "Oxalic acid (ethanedioic acid)", "hi": "ऑक्सैलिक अम्ल (एथेनडाइऑइक अम्ल)"},
+      "formula": "(COOH)₂·2H₂O",
+      "properties": [
+        {"en": "White crystalline dicarboxylic acid; the crystals contain two molecules of water of crystallisation (molar mass 126 g mol⁻¹).", "hi": "सफ़ेद क्रिस्टलीय डाइकार्बोक्सिलिक अम्ल; क्रिस्टलों में क्रिस्टलन जल के दो अणु होते हैं (मोलर द्रव्यमान 126 g mol⁻¹)।"},
+        {"en": "Oxidised by acidified KMnO₄ to CO₂ at about 333 K.", "hi": "लगभग 333 K पर अम्लीकृत KMnO₄ द्वारा CO₂ में ऑक्सीकृत होता है।"}
+      ],
+      "uses": [
+        {"en": "Primary standard for preparing standard solutions in titrations.", "hi": "अनुमापनों में मानक विलयन बनाने के लिए प्राथमिक मानक।"},
+        {"en": "Standardising KMnO₄ and NaOH solutions.", "hi": "KMnO₄ और NaOH विलयनों का मानकीकरण।"}
+      ],
+      "equations": ["5C₂O₄²⁻ + 2MnO₄⁻ + 16H⁺ → 2Mn²⁺ + 8H₂O + 10CO₂"],
+      "explanation": {"en": "Because pure crystals can be weighed accurately and do not change on standing, a solution of known molarity can be made directly by weighing and dissolving.", "hi": "शुद्ध क्रिस्टल सटीक तौले जा सकते हैं और रखने पर बदलते नहीं, इसलिए तौलकर और घोलकर सीधे ज्ञात मोलरता का विलयन बनाया जा सकता है।"},
+      "practicalNote": {"en": "Weighed to prepare a standard solution, then titrated against KMnO₄ (warm, acidified) in volumetric analysis.", "hi": "मानक विलयन बनाने हेतु तौला जाता है, फिर आयतनमितीय विश्लेषण में KMnO₄ (गरम, अम्लीकृत) के विरुद्ध अनुमापित किया जाता है।"},
+      "sources": [{"sourceId": "ncert-11-en", "section": "1.10"}, {"sourceId": "ncert-12-en", "section": "4.4"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "ammonia",
+      "kind": "compound",
+      "name": {"en": "Ammonia", "hi": "अमोनिया"},
+      "formula": "NH₃",
+      "properties": [
+        {"en": "Colourless gas with a pungent smell; pyramidal molecule with a lone pair on nitrogen.", "hi": "तीखी गंध वाली रंगहीन गैस; नाइट्रोजन पर एकाकी युग्म वाला पिरामिडी अणु।"},
+        {"en": "Weak base in water: NH₃ + H₂O ⇌ NH₄⁺ + OH⁻ (pKb 4.75).", "hi": "जल में दुर्बल क्षारक: NH₃ + H₂O ⇌ NH₄⁺ + OH⁻ (pKb 4.75)।"}
+      ],
+      "uses": [
+        {"en": "Manufacture of nitrogenous fertilisers.", "hi": "नाइट्रोजनी उर्वरकों का निर्माण।"},
+        {"en": "Ligand (ammine) in coordination compounds such as [Cu(NH₃)₄]²⁺.", "hi": "[Cu(NH₃)₄]²⁺ जैसे उपसहसंयोजन यौगिकों में लिगेंड (ऐम्मीन)।"}
+      ],
+      "equations": ["N₂(g) + 3H₂(g) ⇌ 2NH₃(g)  ΔH = −92.38 kJ mol⁻¹"],
+      "explanation": {"en": "Made by the Haber process: the forward reaction is exothermic and reduces the number of gas molecules, so high pressure and an optimum temperature with an iron catalyst give a good yield (Le Chatelier's principle).", "hi": "हाबर प्रक्रम से बनती है: अग्र अभिक्रिया ऊष्माक्षेपी है और गैस अणुओं की संख्या घटाती है, इसलिए उच्च दाब और आयरन उत्प्रेरक के साथ इष्टतम ताप अच्छी लब्धि देते हैं (ला-शातेलिए सिद्धांत)।"},
+      "sources": [{"sourceId": "ncert-11-en", "section": "6.8"}, {"sourceId": "ncert-12-en", "section": "9.6"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "potassium-permanganate",
+      "kind": "compound",
+      "name": {"en": "Potassium permanganate", "hi": "पोटैशियम परमैंगनेट"},
+      "formula": "KMnO₄",
+      "properties": [
+        {"en": "Dark purple (almost black) crystals; Mn is in the +7 state; permanganate ion is tetrahedral and diamagnetic.", "hi": "गहरे बैंगनी (लगभग काले) क्रिस्टल; Mn +7 अवस्था में; परमैंगनेट आयन चतुष्फलकीय और प्रतिचुंबकीय।"},
+        {"en": "Strong oxidant: gains 5 electrons in acid (to Mn²⁺) and 3 electrons in neutral or faintly alkaline solution (to MnO₂).", "hi": "प्रबल ऑक्सीकारक: अम्ल में 5 इलेक्ट्रॉन (Mn²⁺ बनता है) और उदासीन या हल्के क्षारीय विलयन में 3 इलेक्ट्रॉन (MnO₂ बनता है) ग्रहण करता है।"}
+      ],
+      "uses": [
+        {"en": "Redox titrations (self-indicator: pink end point).", "hi": "रेडॉक्स अनुमापन (स्व-सूचक: गुलाबी अंत्य बिंदु)।"},
+        {"en": "Bleaching wool, cotton and silk; decolourising oils; oxidant in organic chemistry.", "hi": "ऊन, कपास और रेशम का विरंजन; तेलों को रंगहीन करना; कार्बनिक रसायन में ऑक्सीकारक।"}
+      ],
+      "equations": ["MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O", "2MnO₂ + 4KOH + O₂ → 2K₂MnO₄ + 2H₂O", "3MnO₄²⁻ + 4H⁺ → 2MnO₄⁻ + MnO₂ + 2H₂O"],
+      "explanation": {"en": "Prepared by fusing MnO₂ with KOH and an oxidant to give green manganate, which disproportionates (or is oxidised electrolytically) to purple permanganate.", "hi": "MnO₂ को KOH और ऑक्सीकारक के साथ संगलित कर हरा मैंगनेट बनाया जाता है, जो असमानुपातित होकर (या विद्युत-अपघटनी ऑक्सीकरण से) बैंगनी परमैंगनेट देता है।"},
+      "practicalNote": {"en": "Its molarity is found by titration against standard oxalic acid or Mohr's salt; it is not used with HCl because HCl is oxidised to Cl₂.", "hi": "इसकी मोलरता मानक ऑक्सैलिक अम्ल या मोर लवण के विरुद्ध अनुमापन से ज्ञात की जाती है; इसे HCl के साथ प्रयोग नहीं करते क्योंकि HCl, Cl₂ में ऑक्सीकृत हो जाता है।"},
+      "sources": [{"sourceId": "ncert-11-en", "section": "7.3"}, {"sourceId": "ncert-12-en", "section": "4.4"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "potassium-dichromate",
+      "kind": "compound",
+      "name": {"en": "Potassium dichromate", "hi": "पोटैशियम डाइक्रोमेट"},
+      "formula": "K₂Cr₂O₇",
+      "properties": [
+        {"en": "Orange crystals; Cr is in the +6 state; dichromate ion consists of two CrO₄ tetrahedra sharing one oxygen.", "hi": "नारंगी क्रिस्टल; Cr +6 अवस्था में; डाइक्रोमेट आयन एक ऑक्सीजन साझा करते दो CrO₄ चतुष्फलकों से बना है।"},
+        {"en": "Strong oxidant in acid, reducing to green Cr³⁺; interconverts with yellow chromate as pH changes.", "hi": "अम्ल में प्रबल ऑक्सीकारक, हरे Cr³⁺ में अपचित होता है; pH बदलने पर पीले क्रोमेट से परस्पर बदलता है।"}
+      ],
+      "uses": [
+        {"en": "Primary standard in volumetric analysis.", "hi": "आयतनमितीय विश्लेषण में प्राथमिक मानक।"},
+        {"en": "Leather industry and oxidant for making azo compounds.", "hi": "चमड़ा उद्योग और ऐज़ो यौगिक बनाने हेतु ऑक्सीकारक।"}
+      ],
+      "equations": ["4FeCr₂O₄ + 8Na₂CO₃ + 7O₂ → 8Na₂CrO₄ + 2Fe₂O₃ + 8CO₂", "Na₂Cr₂O₇ + 2KCl → K₂Cr₂O₇ + 2NaCl", "Cr₂O₇²⁻ + 14H⁺ + 6e⁻ → 2Cr³⁺ + 7H₂O"],
+      "explanation": {"en": "Made from chromite ore via sodium chromate and sodium dichromate; the less soluble potassium salt crystallises when KCl is added.", "hi": "क्रोमाइट अयस्क से सोडियम क्रोमेट और सोडियम डाइक्रोमेट द्वारा बनता है; KCl मिलाने पर कम विलेय पोटैशियम लवण क्रिस्टलित होता है।"},
+      "sources": [{"sourceId": "ncert-12-en", "section": "4.4"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "benzene",
+      "kind": "compound",
+      "name": {"en": "Benzene", "hi": "बेन्ज़ीन"},
+      "formula": "C₆H₆",
+      "properties": [
+        {"en": "Planar hexagonal ring of six sp² carbons with six delocalised π electrons; aromatic (4n + 2 rule).", "hi": "छह sp² कार्बनों का समतली षट्कोणीय वलय जिसमें छह विस्थानीकृत π इलेक्ट्रॉन; ऐरोमैटिक (4n + 2 नियम)।"},
+        {"en": "Resists addition; undergoes electrophilic substitution (nitration, halogenation, sulphonation, Friedel–Crafts).", "hi": "योग का प्रतिरोध करता है; इलेक्ट्रॉनस्नेही प्रतिस्थापन करता है (नाइट्रोकरण, हैलोजनन, सल्फ़ोनीकरण, फ़्रीडेल–क्राफ़्ट्स)।"}
+      ],
+      "uses": [
+        {"en": "Starting material for dyes, drugs, plastics and detergents.", "hi": "रंजकों, औषधियों, प्लास्टिक और अपमार्जकों का प्रारंभिक पदार्थ।"},
+        {"en": "Solvent (its use is limited because it is carcinogenic).", "hi": "विलायक (कैंसरजनक होने के कारण इसका उपयोग सीमित है)।"}
+      ],
+      "equations": ["C₆H₆ + HNO₃ → C₆H₅NO₂ + H₂O (conc. H₂SO₄)", "C₆H₆ + Cl₂ → C₆H₅Cl + HCl (anhyd. AlCl₃)"],
+      "explanation": {"en": "Resonance spreads the π electrons over all six carbons, so all C–C bonds are equal and the ring is unusually stable.", "hi": "अनुनाद π इलेक्ट्रॉनों को सभी छह कार्बनों पर फैला देता है, इसलिए सभी C–C आबंध बराबर होते हैं और वलय असाधारण रूप से स्थायी होता है।"},
+      "sources": [{"sourceId": "ncert-11-en", "section": "9.5–9.6"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "chloroform",
+      "kind": "compound",
+      "name": {"en": "Chloroform (trichloromethane)", "hi": "क्लोरोफ़ॉर्म (ट्राइक्लोरोमेथेन)"},
+      "formula": "CHCl₃",
+      "properties": [
+        {"en": "Sweet-smelling volatile liquid; depresses the central nervous system when inhaled.", "hi": "मीठी गंध वाला वाष्पशील द्रव; साँस में लेने पर केंद्रीय तंत्रिका तंत्र को अवसादित करता है।"},
+        {"en": "Slowly oxidised by air in light to poisonous phosgene (COCl₂).", "hi": "प्रकाश में वायु द्वारा धीरे-धीरे विषैले फ़ॉस्जीन (COCl₂) में ऑक्सीकृत होता है।"}
+      ],
+      "uses": [
+        {"en": "Solvent for fats, alkaloids and iodine.", "hi": "वसाओं, ऐल्केलॉइडों और आयोडीन का विलायक।"},
+        {"en": "Production of the freon refrigerant R-22; reagent in the carbylamine and Reimer–Tiemann reactions.", "hi": "फ़्रिऑन प्रशीतक R-22 का उत्पादन; कार्बिलऐमीन और राइमर–टीमन अभिक्रियाओं में अभिकर्मक।"}
+      ],
+      "equations": ["2CHCl₃ + O₂ → 2COCl₂ + 2HCl (light)"],
+      "explanation": {"en": "Because it forms phosgene, chloroform is kept in closed, dark-coloured bottles filled to the top to keep air out.", "hi": "फ़ॉस्जीन बनने के कारण क्लोरोफ़ॉर्म को वायु से दूर रखने हेतु बंद, गहरे रंग की, ऊपर तक भरी बोतलों में रखा जाता है।"},
+      "sources": [{"sourceId": "ncert-12-en", "section": "6.8"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "phenol",
+      "kind": "compound",
+      "name": {"en": "Phenol (carbolic acid)", "hi": "फ़ीनॉल (कार्बोलिक अम्ल)"},
+      "formula": "C₆H₅OH",
+      "properties": [
+        {"en": "Weakly acidic (pKa ≈ 10): reacts with Na and NaOH but not with NaHCO₃.", "hi": "दुर्बल अम्लीय (pKa ≈ 10): Na और NaOH से अभिक्रिया करता है पर NaHCO₃ से नहीं।"},
+        {"en": "The –OH group strongly activates the ring towards electrophilic substitution at ortho and para positions.", "hi": "–OH समूह वलय को ऑर्थो और पैरा स्थितियों पर इलेक्ट्रॉनस्नेही प्रतिस्थापन के लिए प्रबल रूप से सक्रिय करता है।"}
+      ],
+      "uses": [
+        {"en": "Making bakelite (with formaldehyde), aspirin and picric acid.", "hi": "बेकेलाइट (फ़ॉर्मैल्डिहाइड के साथ), ऐस्पिरिन और पिक्रिक अम्ल बनाना।"},
+        {"en": "Antiseptic (0.2% solution) and disinfectant (1% solution).", "hi": "पूतिरोधी (0.2% विलयन) और विसंक्रामी (1% विलयन)।"}
+      ],
+      "equations": ["C₆H₅OH + NaOH → C₆H₅ONa + H₂O", "C₆H₅OH + 3Br₂ → 2,4,6-tribromophenol + 3HBr"],
+      "explanation": {"en": "First isolated from coal tar; now made mainly by the cumene process, which also gives acetone.", "hi": "पहले कोलतार से पृथक किया गया; अब मुख्यतः क्यूमीन प्रक्रम से बनता है, जिससे ऐसीटोन भी मिलता है।"},
+      "practicalNote": {"en": "Gives a violet colour with neutral FeCl₃ in the test for the phenolic group.", "hi": "फ़ीनॉलिक समूह के परीक्षण में उदासीन FeCl₃ से बैंगनी रंग देता है।"},
+      "sources": [{"sourceId": "ncert-12-en", "section": "7.4"}, {"sourceId": "cbse-chem-rm", "section": "Chemistry in Everyday Life"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "aniline",
+      "kind": "compound",
+      "name": {"en": "Aniline (benzenamine)", "hi": "ऐनिलीन (बेन्ज़ीनऐमीन)"},
+      "formula": "C₆H₅NH₂",
+      "properties": [
+        {"en": "Colourless liquid that darkens on storage due to air oxidation; weaker base than ammonia (lone pair delocalised into the ring).", "hi": "रंगहीन द्रव जो वायु ऑक्सीकरण से भंडारण में गहरा हो जाता है; अमोनिया से दुर्बल क्षारक (एकाकी युग्म वलय में विस्थानीकृत)।"},
+        {"en": "Gives a white precipitate of 2,4,6-tribromoaniline with bromine water; forms benzenediazonium chloride with NaNO₂/HCl at 273–278 K.", "hi": "ब्रोमीन जल से 2,4,6-ट्राइब्रोमोऐनिलीन का सफ़ेद अवक्षेप देता है; 273–278 K पर NaNO₂/HCl से बेन्ज़ीनडाइऐज़ोनियम क्लोराइड बनाता है।"}
+      ],
+      "uses": [
+        {"en": "Manufacture of azo dyes and drugs via diazonium salts.", "hi": "डाइऐज़ोनियम लवणों द्वारा ऐज़ो रंजकों और औषधियों का निर्माण।"},
+        {"en": "Froth stabiliser in the froth floatation of ores.", "hi": "अयस्कों के फेन प्लवन में फेन स्थायीकारी।"}
+      ],
+      "equations": ["C₆H₅NO₂ + 6[H] → C₆H₅NH₂ + 2H₂O (Fe/HCl)", "C₆H₅NH₂ + NaNO₂ + 2HCl → C₆H₅N₂⁺Cl⁻ + NaCl + 2H₂O"],
+      "explanation": {"en": "Prepared by reducing nitrobenzene with iron scrap and HCl; its high reactivity is controlled by acetylation before substitution.", "hi": "नाइट्रोबेन्ज़ीन को आयरन छीलन और HCl से अपचित कर बनाया जाता है; प्रतिस्थापन से पहले ऐसीटिलीकरण द्वारा इसकी उच्च क्रियाशीलता नियंत्रित की जाती है।"},
+      "sources": [{"sourceId": "ncert-12-en", "section": "9.4–9.6"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "glucose",
+      "kind": "compound",
+      "name": {"en": "Glucose (dextrose)", "hi": "ग्लूकोस (डेक्स्ट्रोस)"},
+      "formula": "C₆H₁₂O₆",
+      "properties": [
+        {"en": "An aldohexose that exists mainly as cyclic α- and β-pyranose forms (anomers); D-(+) configuration.", "hi": "एक ऐल्डोहेक्सोस जो मुख्यतः चक्रीय α- और β-पाइरानोस रूपों (ऐनोमर) में रहता है; D-(+) विन्यास।"},
+        {"en": "Reducing sugar: reduces Tollens' and Fehling's reagents; oxidised by bromine water to gluconic acid.", "hi": "अपचायी शर्करा: टॉलेन्स और फ़ेहलिंग अभिकर्मकों को अपचित करता है; ब्रोमीन जल से ग्लूकोनिक अम्ल में ऑक्सीकृत होता है।"}
+      ],
+      "uses": [
+        {"en": "Main source of energy for the body; monomer of starch, cellulose and glycogen.", "hi": "शरीर के लिए ऊर्जा का मुख्य स्रोत; स्टार्च, सेलुलोस और ग्लाइकोजन का एकलक।"},
+        {"en": "Fermented by yeast to ethanol.", "hi": "यीस्ट द्वारा एथेनॉल में किण्वित होता है।"}
+      ],
+      "equations": ["(C₆H₁₀O₅)ₙ + nH₂O → nC₆H₁₂O₆ (H⁺, 393 K)", "C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂ (zymase)"],
+      "explanation": {"en": "Obtained commercially by hydrolysing starch with dilute H₂SO₄ under pressure; found in sweet fruits, honey and ripe grapes.", "hi": "व्यावसायिक रूप से दाब में तनु H₂SO₄ से स्टार्च के जल-अपघटन द्वारा प्राप्त; मीठे फलों, शहद और पके अंगूरों में पाया जाता है।"},
+      "practicalNote": {"en": "Gives a positive Fehling's and Tollens' test in the characteristic tests of carbohydrates.", "hi": "कार्बोहाइड्रेटों के अभिलाक्षणिक परीक्षणों में फ़ेहलिंग और टॉलेन्स परीक्षण धनात्मक देता है।"},
+      "sources": [{"sourceId": "ncert-12-en", "section": "10.1"}],
+      "review": {"status": "sourceChecked"}
+    }
+  ]
+}

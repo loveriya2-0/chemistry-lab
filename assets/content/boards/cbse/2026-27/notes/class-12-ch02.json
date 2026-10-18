@@ -1,0 +1,655 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "note-cbse-12-ch02-t2.1",
+      "targetId": "cbse-12-ch02-t2.1",
+      "covers": [],
+      "definition": {
+        "en": "Electrochemistry studies the production of electricity from spontaneous chemical reactions and the use of electricity to bring about non-spontaneous reactions.",
+        "hi": "वैद्युतरसायन स्वतःप्रवर्ती रासायनिक अभिक्रियाओं से विद्युत उत्पादन और विद्युत द्वारा अस्वतःप्रवर्ती अभिक्रियाएँ कराने का अध्ययन है।"
+      },
+      "explanation": {
+        "en": "Galvanic (voltaic) cells convert chemical energy into electrical energy; electrolytic cells use electrical energy to drive chemical change (making Na, Al, Cl₂, NaOH; refining metals). Batteries, fuel cells and corrosion prevention all rely on electrochemistry.",
+        "hi": "गैल्वैनी (वोल्टीय) सेल रासायनिक ऊर्जा को विद्युत ऊर्जा में बदलते हैं; वैद्युतअपघटनी सेल विद्युत ऊर्जा से रासायनिक परिवर्तन कराते हैं (Na, Al, Cl₂, NaOH बनाना; धातुओं का परिष्करण)। बैटरियाँ, ईंधन सेल और संक्षारण से बचाव — सब वैद्युतरसायन पर आधारित हैं।"
+      },
+      "keyPoints": [
+        {
+          "en": "In both types of cell, oxidation occurs at the anode and reduction at the cathode.",
+          "hi": "दोनों प्रकार के सेलों में उपचयन ऐनोड पर और अपचयन कैथोड पर होता है।"
+        }
+      ],
+      "realLife": {
+        "en": "Phones, cars, pacemakers and electroplated taps depend on electrochemistry.",
+        "hi": "फ़ोन, कार, पेसमेकर और विद्युत-लेपित नल — सब वैद्युतरसायन पर निर्भर हैं।"
+      },
+      "examFocus": {
+        "en": "Distinguish galvanic and electrolytic cells.",
+        "hi": "गैल्वैनी और वैद्युतअपघटनी सेलों में अंतर।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Assuming the anode is always negative — it is negative in a galvanic cell but positive in an electrolytic cell.",
+          "hi": "यह मानना कि ऐनोड सदैव ऋणात्मक है — गैल्वैनी सेल में ऋणात्मक पर वैद्युतअपघटनी सेल में धनात्मक होता है।"
+        }
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": [
+        "electrochemical-cells"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-12-en",
+          "section": "2.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"AN OX and a RED CAT\"",
+            "hi": "\"AN OX and a RED CAT\" (ऐनोड-ऑक्सीकरण, कैथोड-अपचयन)"
+          },
+          "recall": {
+            "en": "ANode → OXidation; REDuction → CAThode, whatever the type of cell.",
+            "hi": "सेल का प्रकार कुछ भी हो, ऐनोड पर ऑक्सीकरण और कैथोड पर अपचयन।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Electrochemistry: chemical energy ⇄ electrical energy.",
+          "hi": "वैद्युतरसायन: रासायनिक ऊर्जा ⇄ विद्युत ऊर्जा।"
+        },
+        "points": [
+          {
+            "en": "Galvanic cell: spontaneous reaction → electricity; electrolytic cell: electricity → reaction.",
+            "hi": "गैल्वेनी सेल: स्वतःप्रवर्तित अभिक्रिया → विद्युत; विद्युत-अपघटनी सेल: विद्युत → अभिक्रिया।"
+          },
+          {
+            "en": "Anode = oxidation, cathode = reduction in both.",
+            "hi": "दोनों में ऐनोड = ऑक्सीकरण, कैथोड = अपचयन।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch02-t2.2",
+      "targetId": "cbse-12-ch02-t2.2",
+      "covers": [],
+      "definition": {
+        "en": "A galvanic cell has two half-cells (electrodes in their electrolytes) joined by a salt bridge; the potential difference between them is the cell potential (emf), E_cell = E_right − E_left = E_cathode − E_anode.",
+        "hi": "गैल्वैनी सेल में दो अर्ध-सेल (अपने विद्युत-अपघट्यों में इलेक्ट्रोड) लवण सेतु से जुड़े होते हैं; उनके बीच विभवांतर सेल विभव (emf) है, E_cell = E_दायाँ − E_बायाँ = E_कैथोड − E_ऐनोड।"
+      },
+      "explanation": {
+        "en": "Daniell cell: Zn(s)|Zn²⁺(aq) || Cu²⁺(aq)|Cu(s), E⊖ = 1.1 V. Standard electrode potentials are measured against the standard hydrogen electrode (SHE: Pt in 1 M H⁺ with H₂ at 1 bar, E⊖ = 0). A negative E⊖ means the metal is a stronger reducing agent than H₂ (Zn −0.76 V); a positive E⊖ means its ion is more easily reduced (Cu +0.34 V). The electrochemical series ranks couples: F₂ is the strongest oxidising agent, Li the strongest reducing agent.",
+        "hi": "डेनियल सेल: Zn(s)|Zn²⁺(aq) || Cu²⁺(aq)|Cu(s), E⊖ = 1.1 V। मानक इलेक्ट्रोड विभव मानक हाइड्रोजन इलेक्ट्रोड (SHE: 1 M H⁺ में Pt, 1 bar पर H₂, E⊖ = 0) के सापेक्ष मापे जाते हैं। ऋणात्मक E⊖ = धातु H₂ से प्रबल अपचायक (Zn −0.76 V); धनात्मक E⊖ = उसका आयन आसानी से अपचयित (Cu +0.34 V)। वैद्युतरासायनिक श्रेणी युग्मों को क्रम देती है: F₂ सबसे प्रबल ऑक्सीकारक, Li सबसे प्रबल अपचायक।"
+      },
+      "keyPoints": [
+        {
+          "en": "Cell notation: anode on the left, cathode on the right, || for the salt bridge.",
+          "hi": "सेल संकेतन: बाईं ओर ऐनोड, दाईं ओर कैथोड, लवण सेतु के लिए ||।"
+        }
+      ],
+      "realLife": {
+        "en": "The voltage printed on a battery is its cell potential.",
+        "hi": "बैटरी पर लिखा वोल्टेज उसका सेल विभव है।"
+      },
+      "examFocus": {
+        "en": "Write cell representation and half reactions; calculate E⊖cell; predict feasibility.",
+        "hi": "सेल निरूपण और अर्ध-अभिक्रियाएँ लिखना; E⊖cell की गणना; संभाव्यता का अनुमान।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Multiplying E⊖ by stoichiometric coefficients — electrode potentials are intensive and are not multiplied.",
+          "hi": "E⊖ को स्टॉइकियोमीट्रिक गुणांकों से गुणा करना — इलेक्ट्रोड विभव गहन गुण है, गुणा नहीं होता।"
+        }
+      ],
+      "formulas": [
+        "E⊖cell = E⊖cathode − E⊖anode",
+        "Zn|Zn²⁺ || Cu²⁺|Cu, E⊖ = 1.1 V"
+      ],
+      "practicalIds": [
+        "cbse-12-pD"
+      ],
+      "conceptIds": [
+        "electrochemical-cells"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-12-en",
+          "section": "2.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"A before C: Anode on the left, Cathode on the right\"",
+            "hi": "\"A पहले, C बाद में: ऐनोड बाएँ, कैथोड दाएँ\""
+          },
+          "recall": {
+            "en": "As A comes before C in the alphabet, the anode is written first (left) in cell notation, Zn|Zn²⁺ || Cu²⁺|Cu, and E⊖cell = E⊖cathode − E⊖anode (right minus left).",
+            "hi": "जैसे वर्णमाला में A, C से पहले आता है, वैसे ही सेल संकेतन में ऐनोड पहले (बाएँ) लिखा जाता है, Zn|Zn²⁺ || Cu²⁺|Cu, और E⊖सेल = E⊖कैथोड − E⊖ऐनोड (दायाँ घटा बायाँ)।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Galvanic cell emf = E_cathode − E_anode; the Daniell cell gives 1.1 V.",
+          "hi": "गैल्वेनी सेल का emf = E_कैथोड − E_ऐनोड; डेनियल सेल 1.1 V देता है।"
+        },
+        "formula": "E⊖cell = E⊖cathode − E⊖anode",
+        "points": [
+          {
+            "en": "Cell notation: anode | anode solution || cathode solution | cathode.",
+            "hi": "सेल संकेतन: ऐनोड | ऐनोड विलयन || कैथोड विलयन | कैथोड।"
+          },
+          {
+            "en": "SHE is assigned 0 V; more negative E⊖ = stronger reducing agent.",
+            "hi": "SHE को 0 V; अधिक ऋणात्मक E⊖ = प्रबल अपचायक।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch02-t2.3",
+      "targetId": "cbse-12-ch02-t2.3",
+      "covers": [],
+      "definition": {
+        "en": "The Nernst equation gives the electrode or cell potential at any concentration: E = E⊖ − (2.303RT/nF) log Q, which at 298 K is E = E⊖ − (0.059/n) log Q.",
+        "hi": "नेर्न्स्ट समीकरण किसी भी सांद्रता पर इलेक्ट्रोड या सेल विभव देता है: E = E⊖ − (2.303RT/nF) log Q, जो 298 K पर E = E⊖ − (0.059/n) log Q है।"
+      },
+      "explanation": {
+        "en": "For the Daniell cell, E_cell = E⊖_cell − (0.059/2) log([Zn²⁺]/[Cu²⁺]). At equilibrium E_cell = 0, so E⊖_cell = (0.059/n) log K_c. Gibbs energy: Δ_rG = −nFE_cell and Δ_rG⊖ = −nFE⊖_cell = −RT ln K. A positive E_cell means negative ΔG — a spontaneous reaction. F = 96487 C mol⁻¹.",
+        "hi": "डेनियल सेल के लिए E_cell = E⊖_cell − (0.059/2) log([Zn²⁺]/[Cu²⁺])। साम्य पर E_cell = 0, अतः E⊖_cell = (0.059/n) log K_c। गिब्ज़ ऊर्जा: Δ_rG = −nFE_cell और Δ_rG⊖ = −nFE⊖_cell = −RT ln K। धनात्मक E_cell = ऋणात्मक ΔG — स्वतःप्रवर्ती अभिक्रिया। F = 96487 C mol⁻¹।"
+      },
+      "keyPoints": [
+        {
+          "en": "Pure solids are not included in Q.",
+          "hi": "शुद्ध ठोस Q में सम्मिलित नहीं होते।"
+        }
+      ],
+      "realLife": {
+        "en": "A battery's voltage drops as it discharges because the ion concentrations change — exactly as the Nernst equation predicts.",
+        "hi": "डिस्चार्ज होते समय बैटरी का वोल्टेज घटता है क्योंकि आयन सांद्रताएँ बदलती हैं — नेर्न्स्ट समीकरण ठीक यही बताता है।"
+      },
+      "examFocus": {
+        "en": "Numericals on E_cell, K_c and ΔG⊖ from E⊖.",
+        "hi": "E⊖ से E_cell, K_c और ΔG⊖ पर आंकिक।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Writing Q as [reactant ion]/[product ion] — Q = [products]/[reactants] for the cell reaction.",
+          "hi": "Q को [अभिकारक आयन]/[उत्पाद आयन] लिखना — सेल अभिक्रिया के लिए Q = [उत्पाद]/[अभिकारक]।"
+        }
+      ],
+      "formulas": [
+        "E = E⊖ − (0.059/n) log Q (298 K)",
+        "E⊖cell = (0.059/n) log Kc",
+        "ΔrG⊖ = −nFE⊖cell",
+        "ΔrG = −nFEcell"
+      ],
+      "practicalIds": [
+        "cbse-12-pD"
+      ],
+      "conceptIds": [
+        "nernst-and-conductance"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-12-en",
+          "section": "2.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Q up, E down; E = 0 when Q = Kc\"",
+            "hi": "\"Q बढ़े, E घटे; Q = Kc होने पर E = 0\""
+          },
+          "recall": {
+            "en": "In E = E⊖ − (0.059/n) log Q, products build up as the cell works, so Q rises and E falls. At equilibrium E = 0 and Q = Kc, which gives E⊖cell = (0.059/n) log Kc.",
+            "hi": "E = E⊖ − (0.059/n) log Q में सेल चलने पर उत्पाद बढ़ते हैं, इसलिए Q बढ़ता है और E घटता है। साम्य पर E = 0 और Q = Kc, जिससे E⊖सेल = (0.059/n) log Kc मिलता है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Nernst: E = E⊖ − (0.059/n) log Q at 298 K.",
+          "hi": "नेर्न्स्ट: 298 K पर E = E⊖ − (0.059/n) log Q।"
+        },
+        "formula": "E = E⊖ − (0.059/n) log Q (298 K)",
+        "points": [
+          {
+            "en": "At equilibrium E = 0, so E⊖cell = (0.059/n) log Kc.",
+            "hi": "साम्य पर E = 0, इसलिए E⊖cell = (0.059/n) log Kc।"
+          },
+          {
+            "en": "ΔrG⊖ = −nFE⊖cell; positive E means spontaneous.",
+            "hi": "ΔrG⊖ = −nFE⊖cell; धनात्मक E का अर्थ स्वतःप्रवर्तित।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch02-t2.4",
+      "targetId": "cbse-12-ch02-t2.4",
+      "covers": [],
+      "definition": {
+        "en": "Conductivity (κ) is the conductance of a solution between electrodes 1 cm² in area and 1 cm apart; molar conductivity Λm = κ/c is the conductivity per mole of electrolyte.",
+        "hi": "चालकता (κ) 1 cm² क्षेत्रफल और 1 cm दूरी वाले इलेक्ट्रोडों के बीच विलयन का चालकत्व है; मोलर चालकता Λm = κ/c प्रति मोल विद्युत-अपघट्य की चालकता है।"
+      },
+      "explanation": {
+        "en": "R = ρ(l/A); G = 1/R; κ = G × G* where cell constant G* = l/A. Conductivity is measured with a conductivity cell and an AC Wheatstone bridge. Λm (S cm² mol⁻¹) = κ × 1000/M. On dilution κ decreases (fewer ions per volume) but Λm increases. Strong electrolytes: Λm = Λ°m − A√c (Λ°m found by extrapolation). Weak electrolytes: Λm rises steeply at low c; Λ°m is found with Kohlrausch's law of independent migration, Λ°m = ν₊λ°₊ + ν₋λ°₋. Degree of dissociation α = Λm/Λ°m and Ka = cα²/(1 − α).",
+        "hi": "R = ρ(l/A); G = 1/R; κ = G × G* जहाँ सेल स्थिरांक G* = l/A। चालकता, चालकता सेल और AC व्हीटस्टोन सेतु से मापी जाती है। Λm (S cm² mol⁻¹) = κ × 1000/M। तनुकरण पर κ घटती है (प्रति आयतन कम आयन) पर Λm बढ़ती है। प्रबल विद्युत-अपघट्य: Λm = Λ°m − A√c (Λ°m बहिर्वेशन से)। दुर्बल विद्युत-अपघट्य: कम c पर Λm तेज़ी से बढ़ती है; Λ°m कोलराउश के स्वतंत्र आयन अभिगमन नियम से, Λ°m = ν₊λ°₊ + ν₋λ°₋। वियोजन मात्रा α = Λm/Λ°m और Ka = cα²/(1 − α)।"
+      },
+      "keyPoints": [
+        {
+          "en": "Units: κ in S cm⁻¹ (or S m⁻¹), Λm in S cm² mol⁻¹.",
+          "hi": "मात्रक: κ — S cm⁻¹ (या S m⁻¹), Λm — S cm² mol⁻¹।"
+        }
+      ],
+      "realLife": {
+        "en": "Conductivity meters check water purity and the salt content of drinking water.",
+        "hi": "चालकता मापी जल की शुद्धता और पेयजल में लवण की मात्रा जाँचते हैं।"
+      },
+      "examFocus": {
+        "en": "Numericals on κ, Λm, cell constant, Kohlrausch's law and α; explain variation with dilution.",
+        "hi": "κ, Λm, सेल स्थिरांक, कोलराउश नियम और α पर आंकिक; तनुकरण के साथ परिवर्तन समझाना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Saying conductivity increases on dilution — molar conductivity increases, conductivity decreases.",
+          "hi": "यह कहना कि तनुकरण पर चालकता बढ़ती है — मोलर चालकता बढ़ती है, चालकता घटती है।"
+        }
+      ],
+      "formulas": [
+        "κ = G × (l/A)",
+        "Λm = κ × 1000 / M",
+        "Λm = Λ°m − A√c",
+        "Λ°m = ν₊λ°₊ + ν₋λ°₋",
+        "α = Λm/Λ°m"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "nernst-and-conductance"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-12-en",
+          "section": "2.4"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Dilute it: κ Drops, Λm Lifts\"",
+            "hi": "\"तनु करो: κ गिरे, Λm बढ़े\""
+          },
+          "recall": {
+            "en": "Fewer ions per cm³ lower κ, but each mole of electrolyte conducts better, so Λm increases.",
+            "hi": "प्रति cm³ कम आयनों से κ घटता है, पर इलेक्ट्रोलाइट का हर मोल बेहतर चालन करता है, इसलिए Λm बढ़ता है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Conductivity κ falls on dilution, but molar conductivity Λm rises.",
+          "hi": "तनुकरण पर चालकता κ घटती है, पर मोलर चालकता Λm बढ़ती है।"
+        },
+        "formula": "Λm = κ × 1000 / M",
+        "points": [
+          {
+            "en": "Strong electrolytes: Λm = Λ°m − A√c.",
+            "hi": "प्रबल वैद्युत-अपघट्य: Λm = Λ°m − A√c।"
+          },
+          {
+            "en": "Kohlrausch: Λ°m = sum of ionic contributions; gives Λ°m and α of weak electrolytes.",
+            "hi": "कोलराउश: Λ°m = आयनिक योगदानों का योग; दुर्बल वैद्युत-अपघट्यों के Λ°m और α देता है।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch02-t2.5",
+      "targetId": "cbse-12-ch02-t2.5",
+      "covers": [],
+      "definition": {
+        "en": "In an electrolytic cell an external voltage drives a non-spontaneous reaction (electrolysis). Faraday's laws relate the amount of substance produced to the charge passed.",
+        "hi": "वैद्युतअपघटनी सेल में बाह्य वोल्टेज अस्वतःप्रवर्ती अभिक्रिया (वैद्युतअपघटन) कराता है। फ़ैराडे के नियम उत्पन्न पदार्थ की मात्रा को प्रवाहित आवेश से जोड़ते हैं।"
+      },
+      "explanation": {
+        "en": "First law: mass deposited ∝ charge (w = ZIt). Second law: for the same charge, masses of different substances are proportional to their equivalent masses. 1 F = 96487 C is the charge of one mole of electrons. Products depend on the electrolyte and electrodes: molten NaCl gives Na and Cl₂; aqueous NaCl gives H₂ at the cathode and Cl₂ at the anode (overpotential makes Cl₂ form instead of O₂); aqueous CuSO₄ with copper electrodes deposits Cu and dissolves the anode; dilute H₂SO₄ gives O₂ at the anode, concentrated gives S₂O₈²⁻.",
+        "hi": "प्रथम नियम: जमा द्रव्यमान ∝ आवेश (w = ZIt)। द्वितीय नियम: समान आवेश के लिए भिन्न पदार्थों के द्रव्यमान उनके तुल्यांकी द्रव्यमानों के समानुपाती। 1 F = 96487 C एक मोल इलेक्ट्रॉनों का आवेश है। उत्पाद विद्युत-अपघट्य और इलेक्ट्रोड पर निर्भर: पिघला NaCl — Na और Cl₂; जलीय NaCl — कैथोड पर H₂ और ऐनोड पर Cl₂ (अधिविभव के कारण O₂ के बजाय Cl₂); ताँबे के इलेक्ट्रोडों के साथ जलीय CuSO₄ — Cu जमा होता है और ऐनोड घुलता है; तनु H₂SO₄ — ऐनोड पर O₂, सांद्र में S₂O₈²⁻।"
+      },
+      "keyPoints": [
+        {
+          "en": "Charge Q = I × t; moles of electrons = Q/F.",
+          "hi": "आवेश Q = I × t; इलेक्ट्रॉनों के मोल = Q/F।"
+        }
+      ],
+      "realLife": {
+        "en": "Aluminium production, electroplating jewellery and refining copper are electrolytic processes.",
+        "hi": "ऐलुमिनियम उत्पादन, आभूषणों का विद्युत-लेपन और ताँबे का परिष्करण वैद्युतअपघटनी प्रक्रम हैं।"
+      },
+      "examFocus": {
+        "en": "Numericals using Faraday's laws; predict electrolysis products.",
+        "hi": "फ़ैराडे के नियमों से आंकिक; वैद्युतअपघटन के उत्पादों का अनुमान।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Forgetting the number of electrons per ion (Al³⁺ needs 3 F per mole of Al).",
+          "hi": "प्रति आयन इलेक्ट्रॉनों की संख्या भूलना (Al के एक मोल के लिए Al³⁺ को 3 F चाहिए)।"
+        }
+      ],
+      "formulas": [
+        "Q = It",
+        "w = ZIt",
+        "Mass deposited = (Q × M) / (n × F)",
+        "1 F = 96487 C mol⁻¹"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "electrochemical-cells"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-12-en",
+          "section": "2.5"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Mass = MIT ÷ nF\"",
+            "hi": "\"द्रव्यमान = MIT ÷ nF\""
+          },
+          "recall": {
+            "en": "Mass deposited = (M × I × t) ÷ (n × F): molar mass × current (A) × time (s), divided by electrons per ion × 96487 C mol⁻¹.",
+            "hi": "निक्षेपित द्रव्यमान = (M × I × t) ÷ (n × F): मोलर द्रव्यमान × धारा (A) × समय (s), भाग प्रति आयन इलेक्ट्रॉन × 96487 C mol⁻¹।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Electrolysis drives non-spontaneous reactions; mass deposited follows Faraday's laws.",
+          "hi": "विद्युत-अपघटन अस्वतःप्रवर्तित अभिक्रियाएँ कराता है; जमा द्रव्यमान फ़ैराडे नियमों का पालन करता है।"
+        },
+        "formula": "w = ZIt",
+        "points": [
+          {
+            "en": "Q = It; 1 F = 96487 C mol⁻¹ of electrons.",
+            "hi": "Q = It; 1 F = 96487 C प्रति मोल इलेक्ट्रॉन।"
+          },
+          {
+            "en": "Products depend on electrode, electrolyte and overpotential.",
+            "hi": "उत्पाद इलेक्ट्रोड, वैद्युत-अपघट्य और अधिविभव पर निर्भर।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch02-t2.6",
+      "targetId": "cbse-12-ch02-t2.6",
+      "covers": [],
+      "definition": {
+        "en": "A battery is one or more galvanic cells used as a portable source of electricity. Primary batteries cannot be recharged; secondary batteries can.",
+        "hi": "बैटरी एक या अधिक गैल्वैनी सेल है जो विद्युत के सुवाह्य स्रोत के रूप में प्रयुक्त होती है। प्राथमिक बैटरियाँ पुनः आवेशित नहीं हो सकतीं; द्वितीयक हो सकती हैं।"
+      },
+      "explanation": {
+        "en": "Dry (Leclanché) cell: zinc container anode, carbon (graphite) cathode with MnO₂, paste of NH₄Cl and ZnCl₂; ~1.5 V. Mercury cell: Zn–Hg amalgam anode, HgO + carbon cathode, KOH + ZnO paste; constant 1.35 V (hearing aids, watches). Lead storage battery (secondary): Pb anode, PbO₂ cathode, 38% H₂SO₄; discharge Pb + PbO₂ + 2H₂SO₄ → 2PbSO₄ + 2H₂O; recharging reverses it. Nickel–cadmium cells are rechargeable and longer-lasting.",
+        "hi": "शुष्क (लेक्लांशे) सेल: ज़िंक पात्र ऐनोड, MnO₂ सहित कार्बन (ग्रेफ़ाइट) कैथोड, NH₄Cl और ZnCl₂ का लेप; ~1.5 V। मर्करी सेल: Zn–Hg अमलगम ऐनोड, HgO + कार्बन कैथोड, KOH + ZnO लेप; स्थिर 1.35 V (श्रवण यंत्र, घड़ियाँ)। सीसा संचायक बैटरी (द्वितीयक): Pb ऐनोड, PbO₂ कैथोड, 38% H₂SO₄; डिस्चार्ज Pb + PbO₂ + 2H₂SO₄ → 2PbSO₄ + 2H₂O; पुनः आवेशन से अभिक्रिया उलट जाती है। निकेल–कैडमियम सेल पुनः आवेशनीय और अधिक टिकाऊ हैं।"
+      },
+      "keyPoints": [
+        {
+          "en": "The mercury cell's voltage stays constant because no ions are involved in the overall reaction.",
+          "hi": "मर्करी सेल का वोल्टेज स्थिर रहता है क्योंकि कुल अभिक्रिया में कोई आयन सम्मिलित नहीं।"
+        }
+      ],
+      "realLife": {
+        "en": "Car and inverter batteries are lead storage batteries.",
+        "hi": "कार और इन्वर्टर की बैटरियाँ सीसा संचायक बैटरियाँ हैं।"
+      },
+      "examFocus": {
+        "en": "Electrode reactions of dry cell, mercury cell and lead storage battery; primary vs secondary.",
+        "hi": "शुष्क सेल, मर्करी सेल और सीसा संचायक बैटरी की इलेक्ट्रोड अभिक्रियाएँ; प्राथमिक बनाम द्वितीयक।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Calling the dry cell rechargeable.",
+          "hi": "शुष्क सेल को पुनः आवेशनीय कहना।"
+        }
+      ],
+      "formulas": [
+        "Pb(s) + PbO₂(s) + 2H₂SO₄(aq) → 2PbSO₄(s) + 2H₂O(l)",
+        "Zn(Hg) + HgO(s) → ZnO(s) + Hg(l)"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "electrochemical-cells"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-12-en",
+          "section": "2.6"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Secondary = second life\"",
+            "hi": "\"द्वितीयक = दूसरा जीवन\""
+          },
+          "recall": {
+            "en": "A secondary battery (lead storage, nickel–cadmium) can be recharged and used again; a primary battery (dry cell, mercury cell) works only once.",
+            "hi": "द्वितीयक बैटरी (लेड संचायक, निकैल–कैडमियम) को पुनः आवेशित करके फिर उपयोग किया जा सकता है; प्राथमिक बैटरी (शुष्क सेल, मर्करी सेल) केवल एक बार कार्य करती है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Primary batteries cannot be recharged; secondary batteries (lead storage, Ni–Cd) can.",
+          "hi": "प्राथमिक बैटरियाँ पुनः आवेशित नहीं होतीं; द्वितीयक बैटरियाँ (लेड संचायक, Ni–Cd) होती हैं।"
+        },
+        "formula": "Pb(s) + PbO₂(s) + 2H₂SO₄(aq) → 2PbSO₄(s) + 2H₂O(l)",
+        "points": [
+          {
+            "en": "Dry cell (Leclanché): Zn anode, carbon cathode, MnO₂ + NH₄Cl paste.",
+            "hi": "शुष्क सेल (लेक्लांशे): Zn ऐनोड, कार्बन कैथोड, MnO₂ + NH₄Cl लेई।"
+          },
+          {
+            "en": "Mercury cell gives a constant 1.35 V.",
+            "hi": "मर्करी सेल स्थिर 1.35 V देता है।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch02-t2.7",
+      "targetId": "cbse-12-ch02-t2.7",
+      "covers": [],
+      "definition": {
+        "en": "A fuel cell converts the energy of combustion of a fuel (such as hydrogen) directly into electricity while the reactants are supplied continuously.",
+        "hi": "ईंधन सेल किसी ईंधन (जैसे हाइड्रोजन) की दहन ऊर्जा को सीधे विद्युत में बदलता है, जबकि अभिकारक लगातार दिए जाते हैं।"
+      },
+      "explanation": {
+        "en": "H₂–O₂ fuel cell: gases are bubbled through porous carbon electrodes into concentrated aqueous NaOH. Cathode: O₂ + 2H₂O + 4e⁻ → 4OH⁻; anode: 2H₂ + 4OH⁻ → 4H₂O + 4e⁻; overall 2H₂ + O₂ → 2H₂O. Efficiency is about 70% (vs ~40% for thermal plants) and the only product is water; used in the Apollo space programme, where the water was drunk by astronauts.",
+        "hi": "H₂–O₂ ईंधन सेल: गैसें सरंध्र कार्बन इलेक्ट्रोडों से सांद्र जलीय NaOH में प्रवाहित की जाती हैं। कैथोड: O₂ + 2H₂O + 4e⁻ → 4OH⁻; ऐनोड: 2H₂ + 4OH⁻ → 4H₂O + 4e⁻; कुल 2H₂ + O₂ → 2H₂O। दक्षता लगभग 70% (तापीय संयंत्रों ~40%) और एकमात्र उत्पाद जल; अपोलो अंतरिक्ष कार्यक्रम में प्रयुक्त, जहाँ अंतरिक्ष यात्रियों ने वह जल पिया।"
+      },
+      "keyPoints": [
+        {
+          "en": "Catalysts like finely divided Pt or Pd speed up the electrode reactions.",
+          "hi": "सूक्ष्म विभाजित Pt या Pd जैसे उत्प्रेरक इलेक्ट्रोड अभिक्रियाओं को तेज़ करते हैं।"
+        }
+      ],
+      "realLife": {
+        "en": "Hydrogen fuel-cell buses and cars produce only water vapour as exhaust.",
+        "hi": "हाइड्रोजन ईंधन-सेल बसें और कारें निकास में केवल जलवाष्प छोड़ती हैं।"
+      },
+      "examFocus": {
+        "en": "Electrode reactions and advantages of the H₂–O₂ fuel cell.",
+        "hi": "H₂–O₂ ईंधन सेल की इलेक्ट्रोड अभिक्रियाएँ और लाभ।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Writing O₂ at the anode — O₂ is reduced at the cathode.",
+          "hi": "O₂ को ऐनोड पर लिखना — O₂ कैथोड पर अपचयित होती है।"
+        }
+      ],
+      "formulas": [
+        "Cathode: O₂ + 2H₂O + 4e⁻ → 4OH⁻",
+        "Anode: 2H₂ + 4OH⁻ → 4H₂O + 4e⁻",
+        "Overall: 2H₂ + O₂ → 2H₂O"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "electrochemical-cells"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-12-en",
+          "section": "2.7"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Fuel to the anode, oxygen to the cathode\"",
+            "hi": "\"ईंधन ऐनोड पर, ऑक्सीजन कैथोड पर\""
+          },
+          "recall": {
+            "en": "In the H₂–O₂ fuel cell, hydrogen is oxidised at the anode (2H₂ + 4OH⁻ → 4H₂O + 4e⁻) and oxygen is reduced at the cathode (O₂ + 2H₂O + 4e⁻ → 4OH⁻).",
+            "hi": "H₂–O₂ ईंधन सेल में हाइड्रोजन का ऐनोड पर ऑक्सीकरण होता है (2H₂ + 4OH⁻ → 4H₂O + 4e⁻) और ऑक्सीजन का कैथोड पर अपचयन होता है (O₂ + 2H₂O + 4e⁻ → 4OH⁻)।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Fuel cells convert a fuel's combustion energy directly into electricity.",
+          "hi": "ईंधन सेल ईंधन की दहन ऊर्जा को सीधे विद्युत में बदलते हैं।"
+        },
+        "formula": "Overall: 2H₂ + O₂ → 2H₂O",
+        "points": [
+          {
+            "en": "H₂–O₂ cell powered the Apollo space programme; product water was drunk by astronauts.",
+            "hi": "H₂–O₂ सेल ने अपोलो अंतरिक्ष कार्यक्रम को ऊर्जा दी; उत्पाद जल अंतरिक्ष यात्रियों ने पिया।"
+          },
+          {
+            "en": "High efficiency and pollution-free.",
+            "hi": "उच्च दक्षता और प्रदूषण-मुक्त।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch02-t2.8",
+      "targetId": "cbse-12-ch02-t2.8",
+      "covers": [],
+      "definition": {
+        "en": "Corrosion is an electrochemical process in which a metal is oxidised by its surroundings; in rusting, a spot on iron acts as an anode and another as a cathode.",
+        "hi": "संक्षारण एक वैद्युतरासायनिक प्रक्रम है जिसमें धातु अपने परिवेश द्वारा उपचयित होती है; ज़ंग लगने में लोहे का एक भाग ऐनोड और दूसरा कैथोड बनता है।"
+      },
+      "explanation": {
+        "en": "Anode: 2Fe → 2Fe²⁺ + 4e⁻; cathode: O₂ + 4H⁺ + 4e⁻ → 2H₂O (H⁺ from H₂CO₃ formed by dissolved CO₂). Overall 2Fe + O₂ + 4H⁺ → 2Fe²⁺ + 2H₂O; Fe²⁺ is further oxidised to hydrated ferric oxide, Fe₂O₃·xH₂O (rust). Prevention: barrier coatings (paint, oil), galvanising or sacrificial protection with a more active metal (Zn, Mg), and chemicals such as bisphenol.",
+        "hi": "ऐनोड: 2Fe → 2Fe²⁺ + 4e⁻; कैथोड: O₂ + 4H⁺ + 4e⁻ → 2H₂O (H⁺ घुली CO₂ से बने H₂CO₃ से)। कुल 2Fe + O₂ + 4H⁺ → 2Fe²⁺ + 2H₂O; Fe²⁺ आगे ऑक्सीकृत होकर जलयोजित फ़ेरिक ऑक्साइड, Fe₂O₃·xH₂O (ज़ंग) बनता है। बचाव: अवरोधी लेप (पेंट, तेल), यशदलेपन या अधिक सक्रिय धातु (Zn, Mg) से बलिदानी सुरक्षा, और बिसफ़ीनॉल जैसे रसायन।"
+      },
+      "keyPoints": [
+        {
+          "en": "Salt water speeds up rusting because it increases conductivity.",
+          "hi": "खारा जल चालकता बढ़ाकर ज़ंग की गति बढ़ाता है।"
+        }
+      ],
+      "realLife": {
+        "en": "Ship hulls and pipelines are protected with blocks of zinc or magnesium (sacrificial anodes).",
+        "hi": "जहाज़ों के पेंदे और पाइपलाइनें ज़िंक या मैग्नीशियम के खंडों (बलिदानी ऐनोड) से सुरक्षित की जाती हैं।"
+      },
+      "examFocus": {
+        "en": "Electrochemical mechanism of rusting and methods of prevention.",
+        "hi": "ज़ंग लगने की वैद्युतरासायनिक क्रियाविधि और बचाव की विधियाँ।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Thinking a scratched tin coating protects iron like zinc does — tin is less reactive, so iron then corrodes faster.",
+          "hi": "यह सोचना कि खरोंची टिन परत ज़िंक की तरह लोहे की रक्षा करती है — टिन कम सक्रिय है, अतः लोहा और तेज़ी से संक्षारित होता है।"
+        }
+      ],
+      "formulas": [
+        "Anode: 2Fe → 2Fe²⁺ + 4e⁻",
+        "Cathode: O₂ + 4H⁺ + 4e⁻ → 2H₂O",
+        "Rust: Fe₂O₃·xH₂O"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "corrosion-and-rancidity",
+        "electrochemical-cells"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-12-en",
+          "section": "2.8"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"The rusting spot is the anode: it gets eaten\"",
+            "hi": "\"ज़ंग लगने वाला स्थान ऐनोड है: वही खाया जाता है\""
+          },
+          "recall": {
+            "en": "Where iron is oxidised (2Fe → 2Fe²⁺ + 4e⁻) it acts as the anode and is lost; oxygen is reduced at another spot that acts as the cathode. Rusting needs both oxygen and water, and salt water speeds it up.",
+            "hi": "जहाँ लोहे का ऑक्सीकरण होता है (2Fe → 2Fe²⁺ + 4e⁻) वह स्थान ऐनोड बनकर नष्ट होता है; ऑक्सीजन का अपचयन दूसरे स्थान पर होता है जो कैथोड का कार्य करता है। ज़ंग लगने के लिए ऑक्सीजन और जल दोनों आवश्यक हैं, और लवणीय जल इसे तेज़ कर देता है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Corrosion is electrochemical oxidation of a metal; rust is Fe₂O₃·xH₂O.",
+          "hi": "संक्षारण धातु का वैद्युतरासायनिक ऑक्सीकरण है; जंग Fe₂O₃·xH₂O है।"
+        },
+        "formula": "Rust: Fe₂O₃·xH₂O",
+        "points": [
+          {
+            "en": "Prevented by painting, galvanising (Zn) and sacrificial electrodes (Mg, Zn).",
+            "hi": "पेंट, यशदलेपन (Zn) और बलिदानी इलेक्ट्रोड (Mg, Zn) से रोका जाता है।"
+          },
+          {
+            "en": "Salt water speeds rusting (better conductor).",
+            "hi": "लवणीय जल जंग तेज़ करता है (बेहतर चालक)।"
+          }
+        ]
+      }
+    }
+  ]
+}

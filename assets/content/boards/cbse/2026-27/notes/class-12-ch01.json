@@ -1,0 +1,552 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "note-cbse-12-ch01-t1.1",
+      "targetId": "cbse-12-ch01-t1.1",
+      "covers": [],
+      "definition": {
+        "en": "A solution is a homogeneous mixture of two or more components; the component present in the largest amount is the solvent. Solutions are classified by the physical state of the solvent (gaseous, liquid, solid) and solute.",
+        "hi": "विलयन दो या अधिक घटकों का समांगी मिश्रण है; सबसे अधिक मात्रा वाला घटक विलायक है। विलयनों का वर्गीकरण विलायक (गैसीय, द्रव, ठोस) और विलेय की भौतिक अवस्था से होता है।"
+      },
+      "explanation": {
+        "en": "Nine types exist: e.g. gas in gas (air), gas in liquid (O₂ in water), liquid in liquid (ethanol in water), solid in liquid (glucose in water), gas in solid (H₂ in palladium), liquid in solid (amalgam of mercury with sodium), solid in solid (copper dissolved in gold). This chapter mainly deals with binary liquid solutions.",
+        "hi": "नौ प्रकार होते हैं: जैसे गैस में गैस (वायु), द्रव में गैस (जल में O₂), द्रव में द्रव (जल में एथनॉल), द्रव में ठोस (जल में ग्लूकोस), ठोस में गैस (पैलेडियम में H₂), ठोस में द्रव (सोडियम के साथ मर्करी का अमलगम), ठोस में ठोस (सोने में घुला ताँबा)। यह अध्याय मुख्यतः द्विअंगी द्रव विलयनों से संबंधित है।"
+      },
+      "keyPoints": [
+        {
+          "en": "Alloys like brass are solid solutions.",
+          "hi": "पीतल जैसी मिश्रातुएँ ठोस विलयन हैं।"
+        }
+      ],
+      "realLife": {
+        "en": "Air, sea water, alloys and medicines are all solutions.",
+        "hi": "वायु, समुद्री जल, मिश्रातुएँ और दवाएँ — सब विलयन हैं।"
+      },
+      "examFocus": {
+        "en": "Give examples of each type of solution.",
+        "hi": "प्रत्येक प्रकार के विलयन के उदाहरण देना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Thinking a solution must be a liquid.",
+          "hi": "यह सोचना कि विलयन अवश्य द्रव होगा।"
+        }
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": [
+        "solutions-concentration"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-12-en",
+          "section": "1.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "quickRevision": {
+        "oneLine": {
+          "en": "A solution is a homogeneous mixture; the component in the largest amount is the solvent.",
+          "hi": "विलयन समांगी मिश्रण है; सबसे अधिक मात्रा वाला घटक विलायक है।"
+        },
+        "points": [
+          {
+            "en": "Classified by the states of solute and solvent (9 types).",
+            "hi": "विलेय और विलायक की अवस्थाओं से वर्गीकृत (9 प्रकार)।"
+          },
+          {
+            "en": "Brass is a solid solution; air is a gaseous solution.",
+            "hi": "पीतल ठोस विलयन; वायु गैसीय विलयन।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch01-t1.2",
+      "targetId": "cbse-12-ch01-t1.2",
+      "covers": [],
+      "definition": {
+        "en": "Concentration can be expressed as mass %, volume %, mass by volume %, parts per million (ppm), mole fraction (x), molarity (M) and molality (m).",
+        "hi": "सांद्रता को द्रव्यमान %, आयतन %, द्रव्यमान/आयतन %, प्रति दस लाख भाग (ppm), मोल-अंश (x), मोलरता (M) और मोललता (m) में व्यक्त किया जाता है।"
+      },
+      "explanation": {
+        "en": "Molarity = moles of solute per litre of solution (changes with temperature as volume changes). Molality = moles of solute per kg of solvent (temperature-independent). Mole fractions of all components add up to 1. ppm is used for trace amounts, e.g. fluoride in drinking water, pollutants in air.",
+        "hi": "मोलरता = प्रति लीटर विलयन में विलेय के मोल (आयतन बदलने से ताप के साथ बदलती है)। मोललता = प्रति kg विलायक में विलेय के मोल (ताप से स्वतंत्र)। सभी घटकों के मोल-अंशों का योग 1 है। ppm सूक्ष्म मात्राओं के लिए प्रयुक्त होता है, जैसे पेयजल में फ़्लुओराइड, वायु में प्रदूषक।"
+      },
+      "keyPoints": [
+        {
+          "en": "Mass %, ppm, mole fraction and molality do not depend on temperature.",
+          "hi": "द्रव्यमान %, ppm, मोल-अंश और मोललता ताप पर निर्भर नहीं करते।"
+        }
+      ],
+      "realLife": {
+        "en": "Water-quality reports give fluoride and lead in ppm; IV drips are labelled in % (w/v).",
+        "hi": "जल-गुणवत्ता रिपोर्टें फ़्लुओराइड और लेड को ppm में देती हैं; IV ड्रिप पर % (w/v) लिखा होता है।"
+      },
+      "examFocus": {
+        "en": "Numericals inter-converting concentration terms.",
+        "hi": "सांद्रता पदों के परस्पर रूपांतरण पर आंकिक।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Using mass of solution instead of mass of solvent in molality.",
+          "hi": "मोललता में विलायक के बजाय विलयन का द्रव्यमान लेना।"
+        }
+      ],
+      "formulas": [
+        "M = n_solute ÷ V_solution (L)",
+        "m = n_solute ÷ w_solvent (kg)",
+        "ppm = (mass of component ÷ total mass) × 10⁶",
+        "x_A + x_B = 1"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "solutions-concentration",
+        "stoichiometry"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-12-en",
+          "section": "1.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Molality Loves Mass (kg of solvent); Molarity Relies on volume\"",
+            "hi": "\"मोललता द्रव्यमान (kg विलायक) पर; मोलरता आयतन पर\""
+          },
+          "recall": {
+            "en": "Molality uses mass of solvent and is temperature-independent; molarity uses volume of solution and changes with temperature.",
+            "hi": "मोललता विलायक का द्रव्यमान लेती है और ताप-स्वतंत्र है; मोलरता विलयन का आयतन लेती है और ताप से बदलती है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Concentration: mass %, volume %, ppm, mole fraction, molarity, molality.",
+          "hi": "सांद्रता: द्रव्यमान %, आयतन %, ppm, मोल-अंश, मोलरता, मोललता।"
+        },
+        "formula": "m = n_solute ÷ w_solvent (kg)",
+        "points": [
+          {
+            "en": "Temperature-independent: mass %, ppm, x, molality.",
+            "hi": "ताप-स्वतंत्र: द्रव्यमान %, ppm, x, मोललता।"
+          },
+          {
+            "en": "Molarity changes with temperature (volume changes).",
+            "hi": "मोलरता ताप से बदलती है (आयतन बदलता है)।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch01-t1.3",
+      "targetId": "cbse-12-ch01-t1.3",
+      "covers": [],
+      "definition": {
+        "en": "Solubility is the maximum amount of a substance that dissolves in a specified amount of solvent at a given temperature. For gases, Henry's law states that the partial pressure of the gas is proportional to its mole fraction in solution: p = K_H x.",
+        "hi": "विलेयता किसी दिए गए ताप पर विलायक की निश्चित मात्रा में घुल सकने वाले पदार्थ की अधिकतम मात्रा है। गैसों के लिए हेनरी का नियम कहता है कि गैस का आंशिक दाब विलयन में उसके मोल-अंश के समानुपाती होता है: p = K_H x।"
+      },
+      "explanation": {
+        "en": "'Like dissolves like': polar solutes dissolve in polar solvents. Solubility of solids in liquids depends on temperature (Le Chatelier) and hardly on pressure. Solubility of gases increases with pressure and decreases with temperature. Higher K_H means lower solubility. Applications: soft drinks are bottled under high CO₂ pressure; deep-sea divers get 'bends' from N₂ bubbles in blood, so their tanks use helium-diluted air; climbers at high altitude suffer anoxia due to low O₂ partial pressure.",
+        "hi": "'समान, समान को घोलता है': ध्रुवी विलेय ध्रुवी विलायकों में घुलते हैं। द्रवों में ठोसों की विलेयता ताप पर निर्भर करती है (ला-शातैलिए) और दाब पर लगभग नहीं। गैसों की विलेयता दाब के साथ बढ़ती और ताप के साथ घटती है। अधिक K_H = कम विलेयता। अनुप्रयोग: शीतल पेय उच्च CO₂ दाब पर बोतलबंद होते हैं; गहरे समुद्र के गोताखोरों को रक्त में N₂ के बुलबुलों से 'बेंड्स' होती है, इसलिए उनके टैंकों में हीलियम-मिश्रित वायु होती है; ऊँचाई पर पर्वतारोहियों को O₂ के कम आंशिक दाब से एनॉक्सिया होता है।"
+      },
+      "keyPoints": [
+        {
+          "en": "K_H depends on the nature of the gas and on temperature.",
+          "hi": "K_H गैस की प्रकृति और ताप पर निर्भर करता है।"
+        }
+      ],
+      "realLife": {
+        "en": "Aquatic animals prefer cold water, which holds more dissolved oxygen.",
+        "hi": "जलीय जीव ठंडा जल पसंद करते हैं, जिसमें अधिक घुली ऑक्सीजन होती है।"
+      },
+      "examFocus": {
+        "en": "State Henry's law with applications; numericals on gas solubility.",
+        "hi": "अनुप्रयोगों सहित हेनरी का नियम; गैस विलेयता पर आंकिक।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Thinking a larger K_H means higher solubility — it means lower.",
+          "hi": "यह सोचना कि बड़ा K_H अधिक विलेयता दर्शाता है — यह कम विलेयता दर्शाता है।"
+        }
+      ],
+      "formulas": [
+        "p = K_H x"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "solutions-concentration",
+        "solubility"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-12-en",
+          "section": "1.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"High K_H, Hardly dissolves\"",
+            "hi": "\"अधिक K_H, मुश्किल से घुले\""
+          },
+          "recall": {
+            "en": "Since p = K_H x, a larger K_H means a smaller mole fraction at the same pressure, i.e. lower solubility.",
+            "hi": "चूँकि p = K_H x, अधिक K_H का अर्थ समान दाब पर कम मोल-अंश, यानी कम विलेयता।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Henry's law: partial pressure of a gas = K_H × its mole fraction in solution.",
+          "hi": "हेनरी नियम: गैस का आंशिक दाब = K_H × विलयन में उसका मोल-अंश।"
+        },
+        "formula": "p = K_H x",
+        "points": [
+          {
+            "en": "Higher K_H → lower solubility.",
+            "hi": "अधिक K_H → कम विलेयता।"
+          },
+          {
+            "en": "Gas solubility falls as temperature rises.",
+            "hi": "ताप बढ़ने पर गैस की विलेयता घटती है।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch01-t1.4",
+      "targetId": "cbse-12-ch01-t1.4",
+      "covers": [],
+      "definition": {
+        "en": "Raoult's law: for a solution of volatile liquids, the partial vapour pressure of each component is proportional to its mole fraction, p₁ = p₁° x₁. For a non-volatile solute, the vapour pressure of the solution is lowered.",
+        "hi": "राउल्ट नियम: वाष्पशील द्रवों के विलयन में प्रत्येक घटक का आंशिक वाष्प दाब उसके मोल-अंश के समानुपाती होता है, p₁ = p₁° x₁। अवाष्पशील विलेय होने पर विलयन का वाष्प दाब घटता है।"
+      },
+      "explanation": {
+        "en": "Total vapour pressure p_total = p₁° x₁ + p₂° x₂, which varies linearly with mole fraction. The vapour is richer in the more volatile component (y₁ = p₁/p_total). Raoult's law is a special case of Henry's law with K_H = p₁°. A non-volatile solute occupies part of the surface, so fewer solvent molecules escape and vapour pressure falls.",
+        "hi": "कुल वाष्प दाब p_कुल = p₁° x₁ + p₂° x₂, जो मोल-अंश के साथ रैखिक रूप से बदलता है। वाष्प में अधिक वाष्पशील घटक अधिक होता है (y₁ = p₁/p_कुल)। राउल्ट नियम हेनरी नियम का विशेष रूप है जहाँ K_H = p₁°। अवाष्पशील विलेय सतह का कुछ भाग घेरता है, इसलिए कम विलायक अणु निकलते हैं और वाष्प दाब घटता है।"
+      },
+      "keyPoints": [
+        {
+          "en": "Mole fraction of a component in the vapour = its partial pressure ÷ total pressure.",
+          "hi": "वाष्प में घटक का मोल-अंश = उसका आंशिक दाब ÷ कुल दाब।"
+        }
+      ],
+      "realLife": {
+        "en": "Fractional distillation of liquid mixtures relies on the vapour being richer in the more volatile liquid.",
+        "hi": "द्रव मिश्रणों का प्रभाजी आसवन इस पर निर्भर है कि वाष्प में अधिक वाष्पशील द्रव अधिक होता है।"
+      },
+      "examFocus": {
+        "en": "Numericals on total vapour pressure and vapour composition.",
+        "hi": "कुल वाष्प दाब और वाष्प संघटन पर आंकिक।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Using liquid-phase mole fractions for the vapour composition.",
+          "hi": "वाष्प संघटन के लिए द्रव-प्रावस्था के मोल-अंश लेना।"
+        }
+      ],
+      "formulas": [
+        "p₁ = p₁° x₁",
+        "p_total = p₁° x₁ + p₂° x₂",
+        "y₁ = p₁ / p_total"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "raoult-law-and-colligative"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-12-en",
+          "section": "1.4"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"The vapour favours the volatile\"",
+            "hi": "\"वाष्प वाष्पशील का पक्ष लेती है\""
+          },
+          "recall": {
+            "en": "Since y₁ = p₁/p_total and the more volatile liquid has the higher partial vapour pressure, the vapour in equilibrium with the solution is always richer in the more volatile component.",
+            "hi": "क्योंकि y₁ = p₁/p_कुल और अधिक वाष्पशील द्रव का आंशिक वाष्प दाब अधिक होता है, इसलिए विलयन के साथ साम्य में वाष्प सदैव अधिक वाष्पशील घटक से समृद्ध होती है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Raoult's law: partial vapour pressure = pure vapour pressure × mole fraction.",
+          "hi": "राउल्ट नियम: आंशिक वाष्प दाब = शुद्ध वाष्प दाब × मोल-अंश।"
+        },
+        "formula": "p₁ = p₁° x₁",
+        "points": [
+          {
+            "en": "A non-volatile solute lowers the vapour pressure.",
+            "hi": "अवाष्पशील विलेय वाष्प दाब घटाता है।"
+          },
+          {
+            "en": "Vapour is richer in the more volatile component.",
+            "hi": "वाष्प में अधिक वाष्पशील घटक अधिक होता है।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch01-t1.5",
+      "targetId": "cbse-12-ch01-t1.5",
+      "covers": [],
+      "definition": {
+        "en": "An ideal solution obeys Raoult's law at all concentrations, with ΔmixH = 0 and ΔmixV = 0. Non-ideal solutions show positive or negative deviations.",
+        "hi": "आदर्श विलयन सभी सांद्रताओं पर राउल्ट नियम का पालन करता है, ΔmixH = 0 और ΔmixV = 0। अनादर्श विलयन धनात्मक या ऋणात्मक विचलन दिखाते हैं।"
+      },
+      "explanation": {
+        "en": "Ideal: A–B interactions equal A–A and B–B (n-hexane + n-heptane, benzene + toluene). Positive deviation: A–B interactions weaker, vapour pressure higher than predicted, ΔmixH > 0 (ethanol + acetone, ethanol + water). Negative deviation: A–B interactions stronger, vapour pressure lower, ΔmixH < 0 (chloroform + acetone, phenol + aniline, HNO₃ + water). Azeotropes boil at constant temperature with the same composition in liquid and vapour: minimum-boiling (large positive deviation, ethanol–water ~95%) and maximum-boiling (large negative deviation, HNO₃–water ~68%).",
+        "hi": "आदर्श: A–B अन्योन्यक्रियाएँ A–A और B–B के बराबर (n-हेक्सेन + n-हेप्टेन, बेंज़ीन + टॉलूईन)। धनात्मक विचलन: A–B अन्योन्यक्रियाएँ दुर्बल, वाष्प दाब अपेक्षा से अधिक, ΔmixH > 0 (एथनॉल + ऐसीटोन, एथनॉल + जल)। ऋणात्मक विचलन: A–B अन्योन्यक्रियाएँ प्रबल, वाष्प दाब कम, ΔmixH < 0 (क्लोरोफ़ॉर्म + ऐसीटोन, फ़ीनॉल + ऐनिलीन, HNO₃ + जल)। स्थिरक्वाथी (एज़ियोट्रोप) स्थिर ताप पर उबलते हैं और द्रव व वाष्प का संघटन समान रहता है: न्यूनतम-क्वथनांकी (अधिक धनात्मक विचलन, एथनॉल–जल ~95%) और अधिकतम-क्वथनांकी (अधिक ऋणात्मक विचलन, HNO₃–जल ~68%)।"
+      },
+      "keyPoints": [
+        {
+          "en": "Azeotropes cannot be separated by fractional distillation.",
+          "hi": "स्थिरक्वाथी प्रभाजी आसवन से अलग नहीं हो सकते।"
+        }
+      ],
+      "realLife": {
+        "en": "Ethanol from fermentation cannot be distilled beyond about 95% purity because of the azeotrope.",
+        "hi": "स्थिरक्वाथी के कारण किण्वन से प्राप्त एथनॉल को आसवन द्वारा लगभग 95% से अधिक शुद्ध नहीं किया जा सकता।"
+      },
+      "examFocus": {
+        "en": "Distinguish ideal and non-ideal solutions with examples; explain azeotropes.",
+        "hi": "उदाहरण सहित आदर्श और अनादर्श विलयनों में अंतर; स्थिरक्वाथी समझाना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Matching positive deviation with a maximum-boiling azeotrope — it gives a minimum-boiling one.",
+          "hi": "धनात्मक विचलन को अधिकतम-क्वथनांकी स्थिरक्वाथी से जोड़ना — इससे न्यूनतम-क्वथनांकी बनता है।"
+        }
+      ],
+      "formulas": [
+        "Ideal: ΔmixH = 0, ΔmixV = 0"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "raoult-law-and-colligative"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-12-en",
+          "section": "1.5"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Positive deviation = Pushing apart (more vapour); Negative = Nestling (less vapour)\"",
+            "hi": "\"धनात्मक विचलन = दूर धकेलना (अधिक वाष्प); ऋणात्मक = पास आना (कम वाष्प)\""
+          },
+          "recall": {
+            "en": "In positive deviation unlike molecules attract less, so vapour pressure is higher than Raoult's value; in negative deviation they attract more, so it is lower.",
+            "hi": "धनात्मक विचलन में असमान अणु कम आकर्षित करते हैं, इसलिए वाष्प दाब राउल्ट मान से अधिक; ऋणात्मक में अधिक आकर्षित करते हैं, इसलिए कम।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Ideal solutions obey Raoult's law with ΔmixH = 0 and ΔmixV = 0.",
+          "hi": "आदर्श विलयन राउल्ट नियम का पालन करते हैं, ΔmixH = 0 और ΔmixV = 0।"
+        },
+        "formula": "Ideal: ΔmixH = 0, ΔmixV = 0",
+        "points": [
+          {
+            "en": "Positive deviation (ethanol + acetone): weaker A–B forces, minimum-boiling azeotrope.",
+            "hi": "धनात्मक विचलन (एथेनॉल + ऐसीटोन): दुर्बल A–B बल, न्यूनतम-क्वथनांकी स्थिरक्वाथी।"
+          },
+          {
+            "en": "Negative deviation (chloroform + acetone): stronger A–B forces, maximum-boiling azeotrope.",
+            "hi": "ऋणात्मक विचलन (क्लोरोफ़ॉर्म + ऐसीटोन): प्रबल A–B बल, अधिकतम-क्वथनांकी स्थिरक्वाथी।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch01-t1.6",
+      "targetId": "cbse-12-ch01-t1.6",
+      "covers": [],
+      "definition": {
+        "en": "Colligative properties depend only on the number of solute particles, not their nature: relative lowering of vapour pressure, elevation of boiling point, depression of freezing point and osmotic pressure.",
+        "hi": "अणुसंख्य गुणधर्म केवल विलेय कणों की संख्या पर निर्भर करते हैं, उनकी प्रकृति पर नहीं: वाष्प दाब का आपेक्षिक अवनमन, क्वथनांक उन्नयन, हिमांक अवनमन और परासरण दाब।"
+      },
+      "explanation": {
+        "en": "Relative lowering of vapour pressure (p₁° − p₁)/p₁° = x₂. Boiling-point elevation ΔT_b = K_b m. Freezing-point depression ΔT_f = K_f m (K_b, K_f are molal constants of the solvent). Osmosis: solvent flows through a semipermeable membrane from pure solvent (or dilute solution) to the concentrated solution; the pressure needed to stop it is the osmotic pressure π = CRT. Isotonic solutions have equal π (0.9% NaCl is isotonic with blood); in hypertonic solution cells shrink, in hypotonic they swell. Applying pressure greater than π reverses the flow — reverse osmosis desalinates sea water. Each property can be used to find molar mass: M₂ = K_b w₂ × 1000 / (ΔT_b w₁); osmotic pressure is best for macromolecules such as proteins.",
+        "hi": "वाष्प दाब का आपेक्षिक अवनमन (p₁° − p₁)/p₁° = x₂। क्वथनांक उन्नयन ΔT_b = K_b m। हिमांक अवनमन ΔT_f = K_f m (K_b, K_f विलायक के मोलल स्थिरांक)। परासरण: अर्धपारगम्य झिल्ली से विलायक शुद्ध विलायक (या तनु विलयन) से सांद्र विलयन की ओर बहता है; इसे रोकने के लिए आवश्यक दाब परासरण दाब π = CRT है। समपरासरी विलयनों का π समान होता है (0.9% NaCl रक्त के साथ समपरासरी); अतिपरासरी विलयन में कोशिकाएँ सिकुड़ती, अल्पपरासरी में फूलती हैं। π से अधिक दाब लगाने पर प्रवाह उलट जाता है — उत्क्रम परासरण समुद्री जल का विलवणीकरण करता है। प्रत्येक गुण से मोलर द्रव्यमान ज्ञात किया जा सकता है: M₂ = K_b w₂ × 1000 / (ΔT_b w₁); प्रोटीन जैसे बृहदणुओं के लिए परासरण दाब सबसे उपयुक्त।"
+      },
+      "keyPoints": [
+        {
+          "en": "Osmotic pressure is measured at room temperature and gives large values even for dilute solutions.",
+          "hi": "परासरण दाब कक्ष ताप पर मापा जाता है और तनु विलयनों के लिए भी बड़ा मान देता है।"
+        }
+      ],
+      "realLife": {
+        "en": "Salt on icy roads (freezing-point depression), antifreeze in radiators, RO water purifiers and salting pickles (osmosis) use colligative properties.",
+        "hi": "बर्फ़ीली सड़कों पर नमक (हिमांक अवनमन), रेडिएटर में प्रतिहिम, RO जल शोधक और अचार में नमक (परासरण) — अणुसंख्य गुणधर्मों के उपयोग हैं।"
+      },
+      "examFocus": {
+        "en": "Numericals on all four properties and molar mass determination; explain isotonic, hypertonic and reverse osmosis.",
+        "hi": "चारों गुणधर्मों और मोलर द्रव्यमान निर्धारण पर आंकिक; समपरासरी, अतिपरासरी और उत्क्रम परासरण समझाना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Using molarity in ΔT_b = K_b m — it requires molality.",
+          "hi": "ΔT_b = K_b m में मोलरता लेना — इसमें मोललता चाहिए।"
+        }
+      ],
+      "formulas": [
+        "(p₁° − p₁)/p₁° = x₂",
+        "ΔT_b = K_b m",
+        "ΔT_f = K_f m",
+        "π = CRT",
+        "M₂ = (K_b × w₂ × 1000) / (ΔT_b × w₁)"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "raoult-law-and-colligative"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-12-en",
+          "section": "1.6"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "Four colligatives: \"Lower, Elevate, Depress, Osmose\"",
+            "hi": "चार अणुसंख्य: \"घटाओ, बढ़ाओ, गिराओ, परासरण\""
+          },
+          "recall": {
+            "en": "Relative lowering of vapour pressure, elevation of boiling point, depression of freezing point and osmotic pressure.",
+            "hi": "वाष्प दाब का आपेक्षिक अवनमन, क्वथनांक उन्नयन, हिमांक अवनमन और परासरण दाब।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Colligative properties depend only on the number of solute particles.",
+          "hi": "अणुसंख्य गुणधर्म केवल विलेय कणों की संख्या पर निर्भर करते हैं।"
+        },
+        "formula": "π = CRT",
+        "points": [
+          {
+            "en": "RLVP, ΔT_b = K_b m, ΔT_f = K_f m, π = CRT.",
+            "hi": "RLVP, ΔT_b = K_b m, ΔT_f = K_f m, π = CRT।"
+          },
+          {
+            "en": "Osmotic pressure suits proteins and polymers (room temperature).",
+            "hi": "परासरण दाब प्रोटीनों और बहुलकों के लिए उपयुक्त (कमरे का ताप)।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch01-t1.7",
+      "targetId": "cbse-12-ch01-t1.7",
+      "covers": [],
+      "definition": {
+        "en": "When solutes dissociate or associate in solution, the observed colligative property differs from the expected value, giving an abnormal molar mass. The van 't Hoff factor i corrects for this.",
+        "hi": "जब विलेय विलयन में वियोजित या संगुणित होते हैं, तो प्रेक्षित अणुसंख्य गुण अपेक्षित मान से भिन्न होता है और असामान्य मोलर द्रव्यमान मिलता है। वान्ट हॉफ़ गुणक i इसका संशोधन करता है।"
+      },
+      "explanation": {
+        "en": "i = normal molar mass ÷ abnormal molar mass = observed colligative property ÷ calculated property = total particles after dissociation/association ÷ particles before. For KCl (complete dissociation) i ≈ 2; for ethanoic acid dimerising in benzene i ≈ 0.5. Modified equations: ΔT_b = i K_b m, ΔT_f = i K_f m, π = i CRT.",
+        "hi": "i = सामान्य मोलर द्रव्यमान ÷ असामान्य मोलर द्रव्यमान = प्रेक्षित अणुसंख्य गुण ÷ परिकलित गुण = वियोजन/संगुणन के बाद कुल कण ÷ पहले के कण। KCl (पूर्ण वियोजन) के लिए i ≈ 2; बेंज़ीन में द्वितयन करने वाले एथेनॉइक अम्ल के लिए i ≈ 0.5। संशोधित समीकरण: ΔT_b = i K_b m, ΔT_f = i K_f m, π = i CRT।"
+      },
+      "keyPoints": [
+        {
+          "en": "Dissociation: i > 1, molar mass appears lower. Association: i < 1, molar mass appears higher.",
+          "hi": "वियोजन: i > 1, मोलर द्रव्यमान कम प्रतीत होता है। संगुणन: i < 1, मोलर द्रव्यमान अधिक प्रतीत होता है।"
+        }
+      ],
+      "realLife": {
+        "en": "CaCl₂ (i ≈ 3) melts ice more effectively than the same moles of NaCl (i ≈ 2).",
+        "hi": "CaCl₂ (i ≈ 3) समान मोल NaCl (i ≈ 2) की तुलना में बर्फ़ अधिक प्रभावी रूप से पिघलाता है।"
+      },
+      "examFocus": {
+        "en": "Calculate i and degree of dissociation/association; compare freezing points of solutions.",
+        "hi": "i तथा वियोजन/संगुणन की मात्रा की गणना; विलयनों के हिमांकों की तुलना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Comparing 0.1 m glucose and 0.1 m NaCl as if they had equal effects — NaCl gives about twice the particles.",
+          "hi": "0.1 m ग्लूकोस और 0.1 m NaCl को समान प्रभाव वाला मानना — NaCl लगभग दोगुने कण देता है।"
+        }
+      ],
+      "formulas": [
+        "i = normal molar mass ÷ abnormal molar mass",
+        "ΔT_f = i K_f m",
+        "π = i CRT"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "raoult-law-and-colligative"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-12-en",
+          "section": "1.7"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Dissociate → i Do increase; Associate → i Always decrease\"",
+            "hi": "\"वियोजन → i बढ़ता; संगुणन → i घटता\""
+          },
+          "recall": {
+            "en": "Splitting into ions makes more particles (i > 1); molecules pairing up makes fewer particles (i < 1).",
+            "hi": "आयनों में टूटने से कण अधिक (i > 1); अणुओं के जुड़ने से कण कम (i < 1)।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Association or dissociation gives abnormal molar mass; van 't Hoff factor i corrects it.",
+          "hi": "संगुणन या वियोजन असामान्य मोलर द्रव्यमान देता है; वान्ट हॉफ़ गुणक i इसे संशोधित करता है।"
+        },
+        "formula": "i = normal molar mass ÷ abnormal molar mass",
+        "points": [
+          {
+            "en": "Dissociation: i > 1 (NaCl ≈ 2); association: i < 1 (ethanoic acid in benzene ≈ 0.5).",
+            "hi": "वियोजन: i > 1 (NaCl ≈ 2); संगुणन: i < 1 (बेन्ज़ीन में एथेनॉइक अम्ल ≈ 0.5)।"
+          }
+        ]
+      }
+    }
+  ]
+}

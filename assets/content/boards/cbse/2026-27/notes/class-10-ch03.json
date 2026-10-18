@@ -1,0 +1,534 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "note-cbse-10-ch03-t3.1",
+      "targetId": "cbse-10-ch03-t3.1",
+      "covers": ["cbse-10-ch03-t3.1.1", "cbse-10-ch03-t3.1.2"],
+      "definition": {
+        "en": "Metals are generally lustrous, hard, malleable, ductile, sonorous and good conductors of heat and electricity. Non-metals are generally dull, brittle, non-sonorous and poor conductors.",
+        "hi": "धातुएँ सामान्यतः चमकीली (धात्विक चमक), कठोर, आघातवर्धनीय, तन्य, ध्वानिक तथा ऊष्मा और विद्युत की सुचालक होती हैं। अधातुएँ सामान्यतः मंद, भंगुर, अध्वानिक और कुचालक होती हैं।"
+      },
+      "explanation": {
+        "en": "Malleability means a metal can be beaten into thin sheets (gold and silver are the most malleable); ductility means it can be drawn into wires (about 2 km of wire from 1 g of gold). Silver and copper are the best conductors of heat; lead and mercury are comparatively poor. There are many exceptions, so physical properties alone cannot classify elements: mercury is a liquid metal; sodium and potassium are soft enough to cut with a knife; gallium and caesium melt on the palm; iodine is a lustrous non-metal; graphite (carbon) conducts electricity; diamond is the hardest natural substance; bromine is a liquid non-metal.",
+        "hi": "आघातवर्धनीयता का अर्थ है धातु को पीटकर पतली चादर बनाया जा सकता है (सोना और चाँदी सबसे अधिक आघातवर्धनीय); तन्यता का अर्थ है उसे खींचकर तार बनाया जा सकता है (1 g सोने से लगभग 2 km लंबा तार)। चाँदी और ताँबा ऊष्मा के सर्वश्रेष्ठ चालक हैं; लेड और मर्करी तुलनात्मक रूप से कुचालक हैं। अनेक अपवाद हैं, इसलिए केवल भौतिक गुणों से तत्वों का वर्गीकरण नहीं हो सकता: मर्करी द्रव धातु है; सोडियम और पोटैशियम इतने नरम हैं कि चाकू से कट जाते हैं; गैलियम और सीज़ियम हथेली पर पिघल जाते हैं; आयोडीन चमकीली अधातु है; ग्रेफ़ाइट (कार्बन) विद्युत चालक है; हीरा सबसे कठोर प्राकृतिक पदार्थ है; ब्रोमीन द्रव अधातु है।"
+      },
+      "keyPoints": [
+        {"en": "Liquid at room temperature: mercury (metal) and bromine (non-metal).", "hi": "कक्ष ताप पर द्रव: मर्करी (धातु) और ब्रोमीन (अधातु)।"},
+        {"en": "Carbon exists in different forms called allotropes (diamond, graphite).", "hi": "कार्बन भिन्न रूपों में पाया जाता है जिन्हें अपररूप कहते हैं (हीरा, ग्रेफ़ाइट)।"},
+        {"en": "School bells are made of metal because metals are sonorous.", "hi": "स्कूल की घंटियाँ धातु की बनती हैं क्योंकि धातुएँ ध्वानिक होती हैं।"}
+      ],
+      "realLife": {
+        "en": "Copper and aluminium for electric wires, aluminium and copper for cooking vessels, gold and silver foil for jewellery and sweets.",
+        "hi": "विद्युत तारों के लिए ताँबा और ऐलुमिनियम, खाना पकाने के बर्तनों के लिए ऐलुमिनियम और ताँबा, आभूषणों और मिठाइयों के लिए सोने-चाँदी के वर्क।"
+      },
+      "examFocus": {
+        "en": "Give examples of exceptions (soft metal cut with a knife, non-metal that conducts, liquid metal and non-metal); explain uses from properties.",
+        "hi": "अपवादों के उदाहरण देना (चाकू से कटने वाली नरम धातु, विद्युत चालक अधातु, द्रव धातु और अधातु); गुणों के आधार पर उपयोग समझाना।"
+      },
+      "commonMistakes": [
+        {"en": "Swapping the pair: mercury is the liquid metal and bromine the liquid non-metal.", "hi": "जोड़ी उलट देना: मर्करी द्रव धातु और ब्रोमीन द्रव अधातु है।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["metals-and-non-metals"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-10-en", "section": "3.1, Activities 3.1–3.7"}],
+      "quickRevision": {
+        "oneLine": {"en": "Metals: lustrous, hard, malleable, ductile, sonorous, good conductors. Non-metals: dull, brittle, non-sonorous, poor conductors.", "hi": "धातुएँ: चमकीली, कठोर, आघातवर्ध्य, तन्य, ध्वानिक, सुचालक। अधातुएँ: मंद, भंगुर, अध्वानिक, कुचालक।"},
+        "points": [
+          {"en": "Liquid at room temperature: mercury (metal) and bromine (non-metal).", "hi": "कमरे के ताप पर द्रव: पारा (धातु) और ब्रोमीन (अधातु)।"},
+          {"en": "Carbon has allotropes: diamond and graphite.", "hi": "कार्बन के अपररूप: हीरा और ग्रेफ़ाइट।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-10-ch03-t3.2",
+      "targetId": "cbse-10-ch03-t3.2",
+      "covers": ["cbse-10-ch03-t3.2.1"],
+      "definition": {
+        "en": "Most metals combine with oxygen on heating to form metal oxides, which are basic. Oxides that react with both acids and bases to give salt and water, such as aluminium oxide and zinc oxide, are amphoteric.",
+        "hi": "अधिकांश धातुएँ गरम करने पर ऑक्सीजन से जुड़कर धातु ऑक्साइड बनाती हैं, जो क्षारकीय होते हैं। जो ऑक्साइड अम्ल और क्षारक दोनों से अभिक्रिया कर लवण और जल देते हैं, जैसे ऐलुमिनियम ऑक्साइड और ज़िंक ऑक्साइड, उभयधर्मी कहलाते हैं।"
+      },
+      "explanation": {
+        "en": "Copper heated in air forms black copper(II) oxide; aluminium forms aluminium oxide; magnesium burns with a dazzling flame to MgO. Some soluble metal oxides dissolve in water to form alkalis (Na₂O and K₂O give NaOH and KOH). Metals react with oxygen at different rates: potassium and sodium catch fire in open air, so they are kept under kerosene; magnesium, aluminium, zinc and lead are protected by a thin oxide layer; iron burns only as filings in a flame; copper only forms an oxide coating; silver and gold do not react with oxygen even at high temperature.",
+        "hi": "वायु में गरम करने पर ताँबा काला कॉपर(II) ऑक्साइड बनाता है; ऐलुमिनियम, ऐलुमिनियम ऑक्साइड बनाता है; मैग्नीशियम चमकदार लौ के साथ जलकर MgO बनाता है। कुछ धातु ऑक्साइड जल में घुलकर क्षार बनाते हैं (Na₂O और K₂O से NaOH और KOH)। धातुएँ ऑक्सीजन से भिन्न दरों पर अभिक्रिया करती हैं: पोटैशियम और सोडियम खुली वायु में आग पकड़ लेते हैं, इसलिए केरोसिन में रखे जाते हैं; मैग्नीशियम, ऐलुमिनियम, ज़िंक और लेड पर ऑक्साइड की पतली रक्षक परत बन जाती है; लोहा केवल बुरादे के रूप में लौ में जलता है; ताँबे पर केवल ऑक्साइड की परत चढ़ती है; चाँदी और सोना उच्च ताप पर भी ऑक्सीजन से अभिक्रिया नहीं करते।"
+      },
+      "keyPoints": [
+        {"en": "Metal + Oxygen → Metal oxide.", "hi": "धातु + ऑक्सीजन → धातु ऑक्साइड।"},
+        {"en": "Al₂O₃ + 6HCl → 2AlCl₃ + 3H₂O and Al₂O₃ + 2NaOH → 2NaAlO₂ + H₂O show amphoteric behaviour.", "hi": "Al₂O₃ + 6HCl → 2AlCl₃ + 3H₂O और Al₂O₃ + 2NaOH → 2NaAlO₂ + H₂O उभयधर्मी व्यवहार दर्शाते हैं।"},
+        {"en": "Anodising makes the protective oxide layer on aluminium thicker.", "hi": "ऐनोडीकरण से ऐलुमिनियम पर रक्षक ऑक्साइड परत मोटी की जाती है।"}
+      ],
+      "realLife": {
+        "en": "Sodium is stored under kerosene; anodised aluminium vessels and window frames resist corrosion.",
+        "hi": "सोडियम को केरोसिन में रखा जाता है; ऐनोडीकृत ऐलुमिनियम के बर्तन और खिड़कियों के फ़्रेम संक्षारण से बचे रहते हैं।"
+      },
+      "examFocus": {
+        "en": "Write the products of burning Al and Mg (Al₂O₃ and MgO); define amphoteric oxides with equations; name oxides of Al and Zn as amphoteric.",
+        "hi": "Al और Mg के दहन के उत्पाद लिखना (Al₂O₃ और MgO); समीकरण सहित उभयधर्मी ऑक्साइड की परिभाषा; Al और Zn के ऑक्साइडों को उभयधर्मी बताना।"
+      },
+      "commonMistakes": [
+        {"en": "Calling sodium oxide amphoteric — it is a basic oxide (it dissolves to give NaOH).", "hi": "सोडियम ऑक्साइड को उभयधर्मी कहना — यह क्षारकीय ऑक्साइड है (घुलकर NaOH देता है)।"}
+      ],
+      "formulas": ["2Cu + O₂ → 2CuO", "4Al + 3O₂ → 2Al₂O₃", "2Mg + O₂ → 2MgO", "Al₂O₃ + 6HCl → 2AlCl₃ + 3H₂O", "Al₂O₃ + 2NaOH → 2NaAlO₂ + H₂O", "Na₂O(s) + H₂O(l) → 2NaOH(aq)"],
+      "practicalIds": [],
+      "conceptIds": ["amphoteric-oxides", "metals-and-non-metals"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-10-en", "section": "3.2, 3.2.1"}],
+      "memoryTricks": [
+        {"trick": {"en": "AMPHI = both: Al₂O₃ and ZnO react with both acids and bases", "hi": "AMPHI = दोनों: Al₂O₃ और ZnO अम्ल और क्षारक दोनों से अभिक्रिया करते हैं"}, "recall": {"en": "Amphoteric oxides give salt and water with acids and with bases.", "hi": "उभयधर्मी ऑक्साइड अम्लों और क्षारकों दोनों के साथ लवण और जल देते हैं।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Metal + oxygen → metal oxide, which is basic; Al₂O₃ and ZnO are amphoteric.", "hi": "धातु + ऑक्सीजन → धातु ऑक्साइड, जो क्षारकीय है; Al₂O₃ और ZnO उभयधर्मी हैं।"},
+        "formula": "Al₂O₃ + 2NaOH → 2NaAlO₂ + H₂O",
+        "points": [
+          {"en": "Al₂O₃ + 6HCl → 2AlCl₃ + 3H₂O shows its basic side.", "hi": "Al₂O₃ + 6HCl → 2AlCl₃ + 3H₂O इसका क्षारकीय गुण दिखाता है।"},
+          {"en": "Anodising makes the oxide layer on aluminium thicker.", "hi": "ऐनोडीकरण से ऐलुमिनियम पर ऑक्साइड की परत मोटी होती है।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-10-ch03-t3.2.2",
+      "targetId": "cbse-10-ch03-t3.2.2",
+      "covers": [],
+      "definition": {
+        "en": "Reactive metals react with water to form a metal hydroxide (or oxide) and hydrogen gas.",
+        "hi": "क्रियाशील धातुएँ जल से अभिक्रिया कर धातु हाइड्रॉक्साइड (या ऑक्साइड) और हाइड्रोजन गैस बनाती हैं।"
+      },
+      "explanation": {
+        "en": "Potassium and sodium react violently with cold water; so much heat is given out that the hydrogen catches fire. Calcium reacts less violently and starts floating, because bubbles of hydrogen stick to its surface. Magnesium does not react with cold water but reacts with hot water and also floats due to hydrogen bubbles. Aluminium, iron and zinc react only with steam, forming the metal oxide and hydrogen. Lead, copper, silver and gold do not react with water at all.",
+        "hi": "पोटैशियम और सोडियम ठंडे जल से तीव्र अभिक्रिया करते हैं; इतनी ऊष्मा निकलती है कि हाइड्रोजन आग पकड़ लेती है। कैल्सियम कम तीव्रता से अभिक्रिया करता है और तैरने लगता है, क्योंकि हाइड्रोजन के बुलबुले उसकी सतह से चिपक जाते हैं। मैग्नीशियम ठंडे जल से नहीं, गरम जल से अभिक्रिया करता है और हाइड्रोजन के बुलबुलों के कारण तैरता है। ऐलुमिनियम, लोहा और ज़िंक केवल भाप से अभिक्रिया कर धातु ऑक्साइड और हाइड्रोजन बनाते हैं। लेड, ताँबा, चाँदी और सोना जल से बिल्कुल अभिक्रिया नहीं करते।"
+      },
+      "keyPoints": [
+        {"en": "Metal + Water → Metal hydroxide/oxide + Hydrogen.", "hi": "धातु + जल → धातु हाइड्रॉक्साइड/ऑक्साइड + हाइड्रोजन।"},
+        {"en": "Hydrogen is tested by the pop sound with a burning splinter.", "hi": "जलती तीली से 'पॉप' ध्वनि द्वारा हाइड्रोजन का परीक्षण होता है।"},
+        {"en": "Observations with Na/K: violent reaction, lots of heat, the gas may catch fire.", "hi": "Na/K के साथ प्रेक्षण: तीव्र अभिक्रिया, बहुत ऊष्मा, गैस आग पकड़ सकती है।"}
+      ],
+      "realLife": {
+        "en": "This is why sodium and potassium are never handled with wet hands and are stored under kerosene.",
+        "hi": "इसीलिए सोडियम और पोटैशियम को कभी गीले हाथों से नहीं छुआ जाता और उन्हें केरोसिन में रखा जाता है।"
+      },
+      "examFocus": {
+        "en": "Name two metals that react violently with cold water and list observations; explain why calcium and magnesium float; write equations for reactions with water and steam.",
+        "hi": "ठंडे जल से तीव्र अभिक्रिया करने वाली दो धातुओं के नाम और प्रेक्षण लिखना; कैल्सियम और मैग्नीशियम के तैरने का कारण बताना; जल और भाप के साथ अभिक्रियाओं के समीकरण लिखना।"
+      },
+      "commonMistakes": [
+        {"en": "Saying magnesium floats because it is lighter than water — it floats because hydrogen bubbles stick to it.", "hi": "यह कहना कि मैग्नीशियम जल से हल्का होने के कारण तैरता है — वह हाइड्रोजन के बुलबुले चिपकने के कारण तैरता है।"}
+      ],
+      "formulas": ["2K(s) + 2H₂O(l) → 2KOH(aq) + H₂(g) + heat", "2Na(s) + 2H₂O(l) → 2NaOH(aq) + H₂(g) + heat", "Ca(s) + 2H₂O(l) → Ca(OH)₂(aq) + H₂(g)", "2Al(s) + 3H₂O(g) → Al₂O₃(s) + 3H₂(g)", "3Fe(s) + 4H₂O(g) → Fe₃O₄(s) + 4H₂(g)"],
+      "practicalIds": [],
+      "conceptIds": ["reactivity-series"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-10-en", "section": "3.2.2, Activity 3.10"}],
+      "memoryTricks": [
+        {"trick": {"en": "Water → hydroxide; steam → oxide", "hi": "जल → हाइड्रॉक्साइड; भाप → ऑक्साइड"}, "recall": {"en": "K, Na and Ca with water give KOH, NaOH, Ca(OH)₂. Al and Fe react only with steam and give Al₂O₃ and Fe₃O₄. Hydrogen forms every time.", "hi": "K, Na और Ca जल से KOH, NaOH, Ca(OH)₂ देते हैं। Al और Fe केवल भाप से अभिक्रिया कर Al₂O₃ और Fe₃O₄ देते हैं। हर बार हाइड्रोजन बनती है।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Reactive metal + water → metal hydroxide (or oxide) + hydrogen.", "hi": "अभिक्रियाशील धातु + जल → धातु हाइड्रॉक्साइड (या ऑक्साइड) + हाइड्रोजन।"},
+        "formula": "2Na(s) + 2H₂O(l) → 2NaOH(aq) + H₂(g) + heat",
+        "points": [
+          {"en": "Hydrogen burns with a pop sound near a burning splinter.", "hi": "जलती तीली पास लाने पर हाइड्रोजन पॉप ध्वनि के साथ जलती है।"},
+          {"en": "Na and K react violently with lots of heat.", "hi": "Na और K बहुत ऊष्मा के साथ तीव्र अभिक्रिया करते हैं।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-10-ch03-t3.2.3",
+      "targetId": "cbse-10-ch03-t3.2.3",
+      "covers": [],
+      "definition": {
+        "en": "Metals above hydrogen in the reactivity series react with dilute acids to form a salt and hydrogen gas.",
+        "hi": "सक्रियता श्रेणी में हाइड्रोजन से ऊपर की धातुएँ तनु अम्लों से अभिक्रिया कर लवण और हाइड्रोजन गैस बनाती हैं।"
+      },
+      "explanation": {
+        "en": "With dilute HCl, magnesium reacts most vigorously, then aluminium, zinc and iron; copper does not react. Hydrogen is not evolved when a metal reacts with nitric acid, because HNO₃ is a strong oxidising agent: it oxidises the hydrogen to water and is itself reduced to nitrogen oxides. Only magnesium and manganese give hydrogen with very dilute nitric acid. Aqua regia, a fresh 3 : 1 mixture of concentrated HCl and concentrated HNO₃, dissolves even gold and platinum.",
+        "hi": "तनु HCl के साथ मैग्नीशियम सबसे तीव्र, फिर ऐलुमिनियम, ज़िंक और लोहा अभिक्रिया करते हैं; ताँबा अभिक्रिया नहीं करता। नाइट्रिक अम्ल के साथ धातु की अभिक्रिया में हाइड्रोजन नहीं निकलती, क्योंकि HNO₃ प्रबल ऑक्सीकारक है: वह हाइड्रोजन को जल में ऑक्सीकृत कर देता है और स्वयं नाइट्रोजन के ऑक्साइडों में अपचयित हो जाता है। केवल मैग्नीशियम और मैंगनीज़ अति तनु नाइट्रिक अम्ल से हाइड्रोजन देते हैं। अम्लराज (ऐक्वा रेजिया), सांद्र HCl और सांद्र HNO₃ का 3 : 1 का ताज़ा मिश्रण, सोने और प्लैटिनम को भी घोल देता है।"
+      },
+      "keyPoints": [
+        {"en": "Metal + Dilute acid → Salt + Hydrogen.", "hi": "धातु + तनु अम्ल → लवण + हाइड्रोजन।"},
+        {"en": "Order of vigour with dilute HCl: Mg > Al > Zn > Fe; Cu none.", "hi": "तनु HCl के साथ तीव्रता का क्रम: Mg > Al > Zn > Fe; Cu कोई नहीं।"},
+        {"en": "With equal amounts, HCl reacts with Mg more vigorously than acetic acid does, because HCl is a stronger acid.", "hi": "समान मात्रा में HCl, ऐसीटिक अम्ल की तुलना में Mg से अधिक तीव्र अभिक्रिया करता है, क्योंकि HCl प्रबलतर अम्ल है।"}
+      ],
+      "realLife": {
+        "en": "Copper and gold vessels are not attacked by mild acids; aqua regia is used to dissolve and refine gold.",
+        "hi": "ताँबे और सोने के पात्रों पर हल्के अम्लों का प्रभाव नहीं पड़ता; सोने को घोलने और शुद्ध करने में अम्लराज का उपयोग होता है।"
+      },
+      "examFocus": {
+        "en": "Assertion–reason on why zinc gives no hydrogen with nitric acid; order metals by their reaction with dilute HCl.",
+        "hi": "ज़िंक नाइट्रिक अम्ल के साथ हाइड्रोजन क्यों नहीं देता — इस पर अभिकथन–कारण; तनु HCl के साथ अभिक्रिया के आधार पर धातुओं का क्रम।"
+      },
+      "commonMistakes": [
+        {"en": "Writing H₂ as a product of Zn + HNO₃ — nitric acid gives oxides of nitrogen instead.", "hi": "Zn + HNO₃ के उत्पाद में H₂ लिखना — नाइट्रिक अम्ल इसके स्थान पर नाइट्रोजन के ऑक्साइड देता है।"}
+      ],
+      "formulas": ["Fe + 2HCl → FeCl₂ + H₂", "Mg + 2HCl → MgCl₂ + H₂", "2Al + 6HCl → 2AlCl₃ + 3H₂", "Zn + 2HCl → ZnCl₂ + H₂"],
+      "practicalIds": [],
+      "conceptIds": ["reactivity-series"],
+      "chemicalIds": ["hydrochloric-acid"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "3.2.3, Activity 3.11"}],
+      "quickRevision": {
+        "oneLine": {"en": "Metals above hydrogen in the reactivity series + dilute acid → salt + hydrogen.", "hi": "सक्रियता श्रेणी में हाइड्रोजन से ऊपर की धातुएँ + तनु अम्ल → लवण + हाइड्रोजन।"},
+        "formula": "Mg + 2HCl → MgCl₂ + H₂",
+        "points": [
+          {"en": "Vigour with dilute HCl: Mg > Al > Zn > Fe; copper does not react.", "hi": "तनु HCl के साथ तीव्रता: Mg > Al > Zn > Fe; कॉपर अभिक्रिया नहीं करता।"},
+          {"en": "HCl reacts with Mg more vigorously than acetic acid, a weaker acid.", "hi": "HCl, Mg के साथ ऐसीटिक अम्ल (दुर्बल अम्ल) से अधिक तीव्र अभिक्रिया करता है।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-10-ch03-t3.2.4",
+      "targetId": "cbse-10-ch03-t3.2.4",
+      "covers": ["cbse-10-ch03-t3.2.5"],
+      "definition": {
+        "en": "A more reactive metal displaces a less reactive metal from a solution of its salt. Arranging metals in order of decreasing reactivity gives the reactivity (activity) series.",
+        "hi": "अधिक क्रियाशील धातु कम क्रियाशील धातु को उसके लवण के विलयन से विस्थापित कर देती है। धातुओं को घटती सक्रियता के क्रम में लगाने से सक्रियता श्रेणी बनती है।"
+      },
+      "explanation": {
+        "en": "A clean copper wire in iron sulphate solution shows no change, but an iron nail in copper sulphate solution gets coated with copper — so iron is more reactive than copper. Repeating such tests gives the series: K > Na > Ca > Mg > Al > Zn > Fe > Pb > [H] > Cu > Hg > Ag > Au. A metal displaces any metal below it from its salt solution, and metals above hydrogen displace hydrogen from dilute acids.",
+        "hi": "आयरन सल्फ़ेट विलयन में ताँबे का साफ़ तार डालने पर कोई परिवर्तन नहीं होता, पर कॉपर सल्फ़ेट विलयन में लोहे की कील पर ताँबे की परत चढ़ जाती है — अतः लोहा ताँबे से अधिक क्रियाशील है। ऐसे परीक्षणों से श्रेणी बनती है: K > Na > Ca > Mg > Al > Zn > Fe > Pb > [H] > Cu > Hg > Ag > Au। कोई धातु अपने नीचे की किसी भी धातु को उसके लवण-विलयन से विस्थापित करती है, और हाइड्रोजन से ऊपर की धातुएँ तनु अम्लों से हाइड्रोजन विस्थापित करती हैं।"
+      },
+      "keyPoints": [
+        {"en": "Metal A + Salt solution of B → Salt solution of A + Metal B (if A is more reactive).", "hi": "धातु A + B का लवण-विलयन → A का लवण-विलयन + धातु B (यदि A अधिक क्रियाशील हो)।"},
+        {"en": "Zinc in CuSO₄: the blue colour fades; silver in CuSO₄: no change.", "hi": "CuSO₄ में ज़िंक: नीला रंग फीका पड़ता है; CuSO₄ में चाँदी: कोई परिवर्तन नहीं।"},
+        {"en": "Of ZnSO₄, CuSO₄, FeSO₄ and Al₂(SO₄)₃ solutions, iron reacts only with CuSO₄.", "hi": "ZnSO₄, CuSO₄, FeSO₄ और Al₂(SO₄)₃ विलयनों में से लोहा केवल CuSO₄ से अभिक्रिया करता है।"}
+      ],
+      "realLife": {
+        "en": "The series explains why gold and silver stay shiny, why copper sulphate cannot be stored in iron containers, and which metals need electrolysis to extract.",
+        "hi": "यह श्रेणी समझाती है कि सोना-चाँदी क्यों चमकते रहते हैं, कॉपर सल्फ़ेट लोहे के पात्र में क्यों नहीं रखा जा सकता, और किन धातुओं के निष्कर्षण के लिए विद्युत-अपघटन चाहिए।"
+      },
+      "examFocus": {
+        "en": "Predict which test tube shows a reaction (and why) when a metal is added to several salt solutions; write the balanced equation; arrange metals in order from experimental data.",
+        "hi": "किसी धातु को कई लवण-विलयनों में डालने पर किस परखनली में अभिक्रिया होगी (और क्यों) बताना; संतुलित समीकरण लिखना; प्रायोगिक आँकड़ों से धातुओं का क्रम लगाना।"
+      },
+      "commonMistakes": [
+        {"en": "Expecting iron to displace zinc or aluminium — they are more reactive than iron.", "hi": "यह अपेक्षा करना कि लोहा ज़िंक या ऐलुमिनियम को विस्थापित करेगा — वे लोहे से अधिक क्रियाशील हैं।"}
+      ],
+      "formulas": ["Fe(s) + CuSO₄(aq) → FeSO₄(aq) + Cu(s)", "Zn(s) + CuSO₄(aq) → ZnSO₄(aq) + Cu(s)", "K > Na > Ca > Mg > Al > Zn > Fe > Pb > H > Cu > Hg > Ag > Au"],
+      "practicalIds": ["cbse-10-p3"],
+      "conceptIds": ["reactivity-series", "displacement-reaction"],
+      "chemicalIds": ["copper-sulfate-pentahydrate"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "3.2.4, 3.2.5, Activity 3.12, Table 3.2"}],
+      "memoryTricks": [
+        {"trick": {"en": "\"Please Stop Calling Me A Zebra; I Like Her Calling Me Silly Goose\"", "hi": "\"Please Stop Calling Me A Zebra; I Like Her Calling Me Silly Goose\" — हर शब्द का पहला अक्षर धातु के अंग्रेज़ी नाम का पहला अक्षर"}, "recall": {"en": "Potassium, Sodium, Calcium, Magnesium, Aluminium, Zinc, Iron, Lead, Hydrogen, Copper, Mercury, Silver, Gold — most reactive first: K > Na > Ca > Mg > Al > Zn > Fe > Pb > H > Cu > Hg > Ag > Au.", "hi": "पोटैशियम, सोडियम, कैल्सियम, मैग्नीशियम, ऐलुमिनियम, ज़िंक, आयरन, लेड, हाइड्रोजन, कॉपर, मर्करी, सिल्वर, गोल्ड — सबसे अधिक अभिक्रियाशील पहले: K > Na > Ca > Mg > Al > Zn > Fe > Pb > H > Cu > Hg > Ag > Au।"}},
+        {"trick": {"en": "Above H → gives H₂ with dilute acids; below H → no H₂", "hi": "H से ऊपर → तनु अम्लों से H₂ देती हैं; H से नीचे → H₂ नहीं"}, "recall": {"en": "Cu, Hg, Ag and Au sit below hydrogen, so they do not give hydrogen with dilute acids.", "hi": "Cu, Hg, Ag और Au हाइड्रोजन से नीचे हैं, इसलिए तनु अम्लों से हाइड्रोजन नहीं देतीं।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "A more reactive metal displaces a less reactive metal from its salt solution; metals in order of reactivity form the reactivity series.", "hi": "अधिक अभिक्रियाशील धातु कम अभिक्रियाशील धातु को उसके लवण के विलयन से विस्थापित करती है; अभिक्रियाशीलता के क्रम में धातुएँ सक्रियता श्रेणी बनाती हैं।"},
+        "formula": "K > Na > Ca > Mg > Al > Zn > Fe > Pb > H > Cu > Hg > Ag > Au",
+        "points": [
+          {"en": "Zinc in CuSO₄: the blue colour fades; silver in CuSO₄: no change.", "hi": "CuSO₄ में ज़िंक: नीला रंग फीका पड़ता है; CuSO₄ में सिल्वर: कोई परिवर्तन नहीं।"},
+          {"en": "Among ZnSO₄, CuSO₄, FeSO₄ and Al₂(SO₄)₃ solutions, iron reacts only with CuSO₄.", "hi": "ZnSO₄, CuSO₄, FeSO₄ और Al₂(SO₄)₃ विलयनों में से आयरन केवल CuSO₄ से अभिक्रिया करता है।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-10-ch03-t3.3",
+      "targetId": "cbse-10-ch03-t3.3",
+      "covers": ["cbse-10-ch03-t3.3.1"],
+      "definition": {
+        "en": "Metals react with non-metals by transferring electrons: the metal loses electrons to form a cation and the non-metal gains them to form an anion. The compounds so formed are ionic (electrovalent) compounds.",
+        "hi": "धातुएँ अधातुओं से इलेक्ट्रॉन स्थानांतरण द्वारा अभिक्रिया करती हैं: धातु इलेक्ट्रॉन खोकर धनायन और अधातु उन्हें ग्रहण कर ऋणायन बनाती है। इस प्रकार बने यौगिक आयनिक (वैद्युत संयोजी) यौगिक हैं।"
+      },
+      "explanation": {
+        "en": "Noble gases have a complete outer shell, so they hardly react. Sodium (2, 8, 1) gives one electron to chlorine (2, 8, 7): Na⁺ and Cl⁻ form NaCl. Magnesium (2, 8, 2) gives two electrons — to two chlorine atoms (MgCl₂) or to one oxygen atom (2, 6), forming Mg²⁺O²⁻ (MgO). Properties of ionic compounds: hard, brittle solids (strong attraction between ions); high melting and boiling points; generally soluble in water but not in kerosene or petrol; conduct electricity when molten or in solution, not as solids.",
+        "hi": "उत्कृष्ट गैसों का बाहरी कोश पूर्ण होता है, इसलिए वे लगभग अभिक्रिया नहीं करतीं। सोडियम (2, 8, 1) क्लोरीन (2, 8, 7) को एक इलेक्ट्रॉन देता है: Na⁺ और Cl⁻ से NaCl बनता है। मैग्नीशियम (2, 8, 2) दो इलेक्ट्रॉन देता है — दो क्लोरीन परमाणुओं को (MgCl₂) या एक ऑक्सीजन परमाणु (2, 6) को, जिससे Mg²⁺O²⁻ (MgO) बनता है। आयनिक यौगिकों के गुण: कठोर, भंगुर ठोस (आयनों के बीच प्रबल आकर्षण); उच्च गलनांक और क्वथनांक; प्रायः जल में घुलनशील पर केरोसिन या पेट्रोल में नहीं; पिघली अवस्था या विलयन में विद्युत चालक, ठोस में नहीं।"
+      },
+      "keyPoints": [
+        {"en": "Na → Na⁺ + e⁻ (2, 8, 1 → 2, 8); Cl + e⁻ → Cl⁻ (2, 8, 7 → 2, 8, 8).", "hi": "Na → Na⁺ + e⁻ (2, 8, 1 → 2, 8); Cl + e⁻ → Cl⁻ (2, 8, 7 → 2, 8, 8)।"},
+        {"en": "Mg → Mg²⁺ + 2e⁻; O + 2e⁻ → O²⁻.", "hi": "Mg → Mg²⁺ + 2e⁻; O + 2e⁻ → O²⁻।"},
+        {"en": "An ionic compound has strong electrostatic forces between ions — not weak ones.", "hi": "आयनिक यौगिक में आयनों के बीच प्रबल स्थिर-वैद्युत बल होते हैं — दुर्बल नहीं।"}
+      ],
+      "realLife": {
+        "en": "Molten ionic compounds are electrolysed to extract reactive metals; salt solutions conduct electricity.",
+        "hi": "क्रियाशील धातुओं के निष्कर्षण के लिए पिघले आयनिक यौगिकों का विद्युत-अपघटन किया जाता है; लवण-विलयन विद्युत चालक होते हैं।"
+      },
+      "examFocus": {
+        "en": "Show the formation of NaCl, MgCl₂ and MgO by electron transfer using configurations; list properties of ionic compounds and pick the property they do not show.",
+        "hi": "इलेक्ट्रॉनिक विन्यास से NaCl, MgCl₂ और MgO का इलेक्ट्रॉन-स्थानांतरण द्वारा बनना दिखाना; आयनिक यौगिकों के गुण लिखना और वह गुण पहचानना जो वे नहीं दिखाते।"
+      },
+      "commonMistakes": [
+        {"en": "Drawing shared electron pairs in MgO — electrons are transferred, so show ions with charges.", "hi": "MgO में साझा इलेक्ट्रॉन युग्म दिखाना — इलेक्ट्रॉन स्थानांतरित होते हैं, अतः आवेश सहित आयन दिखाएँ।"}
+      ],
+      "formulas": ["Na → Na⁺ + e⁻", "Cl + e⁻ → Cl⁻", "Mg → Mg²⁺ + 2e⁻", "O + 2e⁻ → O²⁻"],
+      "practicalIds": [],
+      "conceptIds": ["ionic-bond"],
+      "chemicalIds": ["sodium-chloride"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "3.3, 3.3.1, Table 3.4"}],
+      "quickRevision": {
+        "oneLine": {"en": "A metal loses electrons (cation) and a non-metal gains them (anion), forming an ionic compound.", "hi": "धातु इलेक्ट्रॉन खोकर धनायन और अधातु इलेक्ट्रॉन ग्रहण कर ऋणायन बनाती है, जिससे आयनिक यौगिक बनता है।"},
+        "formula": "Na → Na⁺ + e⁻",
+        "points": [
+          {"en": "Mg → Mg²⁺ + 2e⁻; O + 2e⁻ → O²⁻.", "hi": "Mg → Mg²⁺ + 2e⁻; O + 2e⁻ → O²⁻।"},
+          {"en": "The forces between the ions are strong electrostatic forces.", "hi": "आयनों के बीच प्रबल स्थिरवैद्युत बल होते हैं।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-10-ch03-t3.4",
+      "targetId": "cbse-10-ch03-t3.4",
+      "covers": ["cbse-10-ch03-t3.4.1", "cbse-10-ch03-t3.4.2"],
+      "definition": {
+        "en": "Minerals are naturally occurring elements or compounds in the earth's crust; minerals from which a metal can be extracted profitably are ores. Gangue is the soil, sand and other impurity mixed with an ore.",
+        "hi": "भूपर्पटी में प्राकृतिक रूप से पाए जाने वाले तत्व या यौगिक खनिज हैं; जिन खनिजों से धातु लाभदायक रूप से निकाली जा सके वे अयस्क हैं। अयस्क के साथ मिली मिट्टी, रेत आदि अशुद्धियाँ आधात्री (गैंग) कहलाती हैं।"
+      },
+      "explanation": {
+        "en": "Unreactive metals like gold, silver, platinum and copper are found free. Metals of medium reactivity occur as oxides, sulphides or carbonates; very reactive metals (K, Na, Ca, Mg, Al) never occur free. Extraction follows three main steps: enrichment (removing gangue using differences in physical or chemical properties), conversion and reduction to the metal (a different method for each part of the series), and refining.",
+        "hi": "सोना, चाँदी, प्लैटिनम और ताँबे जैसी अक्रियाशील धातुएँ मुक्त अवस्था में मिलती हैं। मध्यम क्रियाशीलता वाली धातुएँ ऑक्साइड, सल्फ़ाइड या कार्बोनेट के रूप में मिलती हैं; अति क्रियाशील धातुएँ (K, Na, Ca, Mg, Al) कभी मुक्त अवस्था में नहीं मिलतीं। निष्कर्षण के तीन मुख्य चरण हैं: समृद्धीकरण (भौतिक या रासायनिक गुणों के अंतर से गैंग हटाना), धातु में रूपांतरण और अपचयन (श्रेणी के प्रत्येक भाग के लिए भिन्न विधि), तथा परिष्करण।"
+      },
+      "keyPoints": [
+        {"en": "Very reactive metals are never free in nature because they combine readily with other elements.", "hi": "अति क्रियाशील धातुएँ प्रकृति में कभी मुक्त नहीं मिलतीं क्योंकि वे अन्य तत्वों से आसानी से जुड़ जाती हैं।"},
+        {"en": "Low reactivity: heat alone; middle: roast/calcine then reduce with carbon; top: electrolysis of molten compounds.", "hi": "कम क्रियाशील: केवल गरम करना; मध्य: भर्जन/निस्तापन फिर कार्बन से अपचयन; शीर्ष: पिघले यौगिकों का विद्युत-अपघटन।"}
+      ],
+      "realLife": {
+        "en": "Mining and metallurgy supply iron for buildings, aluminium for aircraft and copper for wiring.",
+        "hi": "खनन और धातुकर्म से भवनों के लिए लोहा, विमानों के लिए ऐलुमिनियम और तारों के लिए ताँबा मिलता है।"
+      },
+      "examFocus": {
+        "en": "Explain why Na, K, Ca and Mg are never found free; define ore and gangue; outline the steps of extraction.",
+        "hi": "Na, K, Ca और Mg के कभी मुक्त न मिलने का कारण बताना; अयस्क और गैंग की परिभाषा; निष्कर्षण के चरणों की रूपरेखा।"
+      },
+      "commonMistakes": [
+        {"en": "Calling every mineral an ore — only minerals from which the metal can be extracted profitably are ores.", "hi": "हर खनिज को अयस्क कहना — केवल वे खनिज अयस्क हैं जिनसे धातु लाभदायक रूप से निकाली जा सके।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["extraction-of-metals"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-10-en", "section": "3.4, 3.4.1, 3.4.2"}],
+      "memoryTricks": [
+        {"trick": {"en": "Top → electricity, Middle → carbon, Bottom → heat alone", "hi": "ऊपर → विद्युत, बीच → कार्बन, नीचे → केवल ऊष्मा"}, "recall": {"en": "How a metal is extracted follows its place in the reactivity series: electrolysis of molten compounds for the most reactive; roasting or calcination then reduction with carbon for the middle; heating alone for the least reactive.", "hi": "धातु का निष्कर्षण सक्रियता श्रेणी में उसके स्थान पर निर्भर है: सबसे अभिक्रियाशील के लिए पिघले यौगिकों का विद्युत-अपघटन; बीच वाली के लिए भर्जन या निस्तापन फिर कार्बन से अपचयन; सबसे कम अभिक्रियाशील के लिए केवल गरम करना।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Ores are minerals from which a metal can be extracted profitably; gangue is the soil, sand and other impurity mixed with an ore.", "hi": "अयस्क वे खनिज हैं जिनसे धातु लाभदायक रूप से निकाली जा सके; अयस्क में मिली मिट्टी, रेत आदि अशुद्धि गैंग है।"},
+        "points": [
+          {"en": "Very reactive metals are never found free in nature.", "hi": "अति अभिक्रियाशील धातुएँ प्रकृति में कभी मुक्त अवस्था में नहीं मिलतीं।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-10-ch03-t3.4.3",
+      "targetId": "cbse-10-ch03-t3.4.3",
+      "covers": [],
+      "definition": {
+        "en": "Metals low in the reactivity series, such as mercury and copper, can be obtained from their ores by heating alone.",
+        "hi": "सक्रियता श्रेणी में नीचे की धातुएँ, जैसे मर्करी और कॉपर, केवल अपने अयस्कों को गरम करके प्राप्त की जा सकती हैं।"
+      },
+      "explanation": {
+        "en": "Cinnabar (HgS), an ore of mercury, is heated in air to mercuric oxide, which on further heating gives mercury. Copper glance (Cu₂S) is heated in air: part of it forms Cu₂O, which then reacts with the remaining Cu₂S to give copper (self-reduction).",
+        "hi": "मर्करी का अयस्क सिनेबार (HgS) वायु में गरम करने पर मर्क्यूरिक ऑक्साइड बनता है, जो और गरम करने पर मर्करी देता है। कॉपर ग्लांस (Cu₂S) को वायु में गरम करने पर उसका कुछ भाग Cu₂O बनता है, जो शेष Cu₂S से अभिक्रिया कर ताँबा देता है (स्व-अपचयन)।"
+      },
+      "keyPoints": [
+        {"en": "2HgS + 3O₂ → 2HgO + 2SO₂; 2HgO → 2Hg + O₂.", "hi": "2HgS + 3O₂ → 2HgO + 2SO₂; 2HgO → 2Hg + O₂।"},
+        {"en": "2Cu₂S + 3O₂ → 2Cu₂O + 2SO₂; 2Cu₂O + Cu₂S → 6Cu + SO₂.", "hi": "2Cu₂S + 3O₂ → 2Cu₂O + 2SO₂; 2Cu₂O + Cu₂S → 6Cu + SO₂।"}
+      ],
+      "realLife": {
+        "en": "Mercury for thermometers and copper for wiring were historically produced this simply because these metals are unreactive.",
+        "hi": "थर्मामीटर के लिए मर्करी और तारों के लिए ताँबा ऐतिहासिक रूप से इसी सरल विधि से बनाए जाते थे, क्योंकि ये धातुएँ अक्रियाशील हैं।"
+      },
+      "examFocus": {
+        "en": "Write the two-step equations for mercury from cinnabar and copper from Cu₂S.",
+        "hi": "सिनेबार से मर्करी और Cu₂S से कॉपर प्राप्त करने के दो-चरणीय समीकरण लिखना।"
+      },
+      "commonMistakes": [
+        {"en": "Adding carbon as a reducing agent for mercury — heating alone is enough.", "hi": "मर्करी के लिए कार्बन को अपचायक के रूप में जोड़ना — केवल गरम करना पर्याप्त है।"}
+      ],
+      "formulas": ["2HgS(s) + 3O₂(g) →(heat) 2HgO(s) + 2SO₂(g)", "2HgO(s) →(heat) 2Hg(l) + O₂(g)", "2Cu₂S + 3O₂(g) →(heat) 2Cu₂O(s) + 2SO₂(g)", "2Cu₂O + Cu₂S →(heat) 6Cu(s) + SO₂(g)"],
+      "practicalIds": [],
+      "conceptIds": ["extraction-of-metals"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-10-en", "section": "3.4.3"}],
+      "quickRevision": {
+        "oneLine": {"en": "Metals low in the reactivity series, such as mercury and copper, are obtained by heating their ores alone.", "hi": "सक्रियता श्रेणी में नीचे की धातुएँ, जैसे मर्करी और कॉपर, केवल अयस्क को गरम करके प्राप्त होती हैं।"},
+        "formula": "2HgO(s) →(heat) 2Hg(l) + O₂(g)",
+        "points": [
+          {"en": "HgS is first heated in air to HgO, which on further heating gives mercury.", "hi": "HgS को पहले वायु में गरम कर HgO बनाते हैं, जो और गरम करने पर मर्करी देता है।"},
+          {"en": "Cu₂S → Cu₂O, then Cu₂O reacts with Cu₂S to give copper.", "hi": "Cu₂S → Cu₂O, फिर Cu₂O, Cu₂S से अभिक्रिया कर कॉपर देता है।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-10-ch03-t3.4.4",
+      "targetId": "cbse-10-ch03-t3.4.4",
+      "covers": [],
+      "definition": {
+        "en": "Roasting is heating a sulphide ore strongly in excess air to convert it to an oxide. Calcination is heating a carbonate ore strongly in limited air to convert it to an oxide. The oxide is then reduced to the metal, usually with carbon.",
+        "hi": "भर्जन में सल्फ़ाइड अयस्क को अधिक वायु में तेज़ गरम करके ऑक्साइड में बदला जाता है। निस्तापन में कार्बोनेट अयस्क को सीमित वायु में तेज़ गरम करके ऑक्साइड में बदला जाता है। फिर ऑक्साइड को प्रायः कार्बन से धातु में अपचयित किया जाता है।"
+      },
+      "explanation": {
+        "en": "Metals in the middle of the series (iron, zinc, lead, copper) occur as sulphides or carbonates. It is easier to get a metal from its oxide than from its sulphide or carbonate, so the ore is first converted to the oxide: 2ZnS + 3O₂ → 2ZnO + 2SO₂ (roasting); ZnCO₃ → ZnO + CO₂ (calcination). Then ZnO + C → Zn + CO. Highly reactive metals like aluminium are also used as reducing agents: in the thermite reaction Fe₂O₃ + 2Al → 2Fe + Al₂O₃ releases so much heat that the iron is molten — used to join railway tracks and cracked machine parts.",
+        "hi": "श्रेणी के मध्य की धातुएँ (लोहा, ज़िंक, लेड, कॉपर) सल्फ़ाइड या कार्बोनेट के रूप में मिलती हैं। सल्फ़ाइड या कार्बोनेट की तुलना में ऑक्साइड से धातु प्राप्त करना आसान है, इसलिए अयस्क को पहले ऑक्साइड में बदलते हैं: 2ZnS + 3O₂ → 2ZnO + 2SO₂ (भर्जन); ZnCO₃ → ZnO + CO₂ (निस्तापन)। फिर ZnO + C → Zn + CO। ऐलुमिनियम जैसी अति क्रियाशील धातुएँ भी अपचायक का काम करती हैं: थर्मिट अभिक्रिया Fe₂O₃ + 2Al → 2Fe + Al₂O₃ में इतनी ऊष्मा निकलती है कि लोहा पिघली अवस्था में मिलता है — इससे रेल की पटरियाँ और मशीनों के टूटे भाग जोड़े जाते हैं।"
+      },
+      "keyPoints": [
+        {"en": "Roasting: sulphide ores, excess air, SO₂ given off. Calcination: carbonate ores, limited air, CO₂ given off.", "hi": "भर्जन: सल्फ़ाइड अयस्क, अधिक वायु, SO₂ निकलती है। निस्तापन: कार्बोनेट अयस्क, सीमित वायु, CO₂ निकलती है।"},
+        {"en": "Displacement reactions with aluminium are highly exothermic: 3MnO₂ + 4Al → 3Mn + 2Al₂O₃ + heat.", "hi": "ऐलुमिनियम के साथ विस्थापन अभिक्रियाएँ अत्यधिक ऊष्माक्षेपी होती हैं: 3MnO₂ + 4Al → 3Mn + 2Al₂O₃ + ऊष्मा।"}
+      ],
+      "realLife": {
+        "en": "Thermite welding joins railway tracks on site; zinc for galvanising is produced by roasting/calcination and reduction.",
+        "hi": "थर्मिट वेल्डिंग से रेल की पटरियाँ मौके पर जोड़ी जाती हैं; यशदलेपन के लिए ज़िंक भर्जन/निस्तापन और अपचयन से बनाया जाता है।"
+      },
+      "examFocus": {
+        "en": "Give two differences between roasting and calcination with equations; explain how the oxide is reduced; justify that displacement helps extract middle-series metals with two examples.",
+        "hi": "समीकरण सहित भर्जन और निस्तापन के दो अंतर; ऑक्साइड के अपचयन की विधि; दो उदाहरणों से सिद्ध करना कि विस्थापन मध्य-श्रेणी की धातुओं के निष्कर्षण में सहायक है।"
+      },
+      "commonMistakes": [
+        {"en": "Swapping the two terms — roasting is for sulphides, calcination for carbonates.", "hi": "दोनों शब्द उलट देना — भर्जन सल्फ़ाइडों के लिए, निस्तापन कार्बोनेटों के लिए।"}
+      ],
+      "formulas": ["2ZnS(s) + 3O₂(g) →(heat) 2ZnO(s) + 2SO₂(g)", "ZnCO₃(s) →(heat) ZnO(s) + CO₂(g)", "ZnO(s) + C(s) → Zn(s) + CO(g)", "Fe₂O₃(s) + 2Al(s) → 2Fe(l) + Al₂O₃(s) + heat", "3MnO₂(s) + 4Al(s) → 3Mn(l) + 2Al₂O₃(s) + heat"],
+      "practicalIds": [],
+      "conceptIds": ["extraction-of-metals", "oxidation-reduction"],
+      "chemicalIds": ["thermite-reaction"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "3.4.4"}],
+      "memoryTricks": [
+        {"trick": {"en": "Calcination ↔ Carbonate (C–C); so Roasting ↔ sulphide", "hi": "निस्तापन (Calcination) ↔ कार्बोनेट (Carbonate) (C–C); इसलिए भर्जन ↔ सल्फ़ाइड"}, "recall": {"en": "Calcination: carbonate ore, limited air, gives off CO₂. Roasting: sulphide ore, excess air, gives off SO₂.", "hi": "निस्तापन: कार्बोनेट अयस्क, सीमित वायु, CO₂ निकलती है। भर्जन: सल्फ़ाइड अयस्क, अधिक वायु, SO₂ निकलती है।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Roasting: sulphide ore heated in excess air → oxide. Calcination: carbonate ore heated in limited air → oxide. The oxide is then reduced, usually with carbon.", "hi": "भर्जन: सल्फ़ाइड अयस्क को अधिक वायु में गरम करना → ऑक्साइड। निस्तापन: कार्बोनेट अयस्क को सीमित वायु में गरम करना → ऑक्साइड। फिर ऑक्साइड का प्रायः कार्बन से अपचयन।"},
+        "formula": "ZnO(s) + C(s) → Zn(s) + CO(g)",
+        "points": [
+          {"en": "Roasting gives off SO₂; calcination gives off CO₂.", "hi": "भर्जन में SO₂ निकलती है; निस्तापन में CO₂।"},
+          {"en": "Displacement by aluminium is highly exothermic: Fe₂O₃ + 2Al → 2Fe + Al₂O₃ + heat.", "hi": "ऐलुमिनियम द्वारा विस्थापन अति ऊष्माक्षेपी है: Fe₂O₃ + 2Al → 2Fe + Al₂O₃ + ऊष्मा।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-10-ch03-t3.4.5",
+      "targetId": "cbse-10-ch03-t3.4.5",
+      "covers": [],
+      "definition": {
+        "en": "Metals at the top of the reactivity series (Na, Mg, Ca, Al) are obtained by electrolytic reduction — passing electricity through their molten chlorides or oxides.",
+        "hi": "सक्रियता श्रेणी के शीर्ष की धातुएँ (Na, Mg, Ca, Al) विद्युत-अपघटनी अपचयन द्वारा — उनके पिघले क्लोराइडों या ऑक्साइडों में विद्युत प्रवाहित करके — प्राप्त की जाती हैं।"
+      },
+      "explanation": {
+        "en": "These metals have more affinity for oxygen than carbon has, so carbon cannot reduce their oxides. Instead the molten compound is electrolysed: metal ions gain electrons at the cathode and are deposited as metal, while non-metal ions lose electrons at the anode. For sodium chloride: Na⁺ + e⁻ → Na at the cathode; 2Cl⁻ → Cl₂ + 2e⁻ at the anode. Aluminium is obtained by electrolysing aluminium oxide.",
+        "hi": "इन धातुओं की ऑक्सीजन के प्रति बंधुता कार्बन से अधिक है, इसलिए कार्बन इनके ऑक्साइडों का अपचयन नहीं कर सकता। इसके स्थान पर पिघले यौगिक का विद्युत-अपघटन किया जाता है: धातु आयन कैथोड पर इलेक्ट्रॉन ग्रहण कर धातु के रूप में जमा होते हैं, जबकि अधातु आयन ऐनोड पर इलेक्ट्रॉन खोते हैं। सोडियम क्लोराइड के लिए: कैथोड पर Na⁺ + e⁻ → Na; ऐनोड पर 2Cl⁻ → Cl₂ + 2e⁻। ऐलुमिनियम ऐलुमिनियम ऑक्साइड के विद्युत-अपघटन से प्राप्त होता है।"
+      },
+      "keyPoints": [
+        {"en": "Metals obtained from their molten chlorides by electrolysis include sodium, calcium and magnesium.", "hi": "पिघले क्लोराइडों के विद्युत-अपघटन से प्राप्त धातुओं में सोडियम, कैल्सियम और मैग्नीशियम हैं।"},
+        {"en": "The metal is always deposited at the cathode (negative electrode).", "hi": "धातु सदैव कैथोड (ऋण इलेक्ट्रोड) पर जमा होती है।"}
+      ],
+      "realLife": {
+        "en": "All the aluminium in cans, foil and aircraft is produced by electrolysis, which needs a lot of electricity — one reason recycling aluminium matters.",
+        "hi": "डिब्बों, पन्नी और विमानों का सारा ऐलुमिनियम विद्युत-अपघटन से बनता है, जिसमें बहुत बिजली लगती है — ऐलुमिनियम के पुनर्चक्रण के महत्व का एक कारण यही है।"
+      },
+      "examFocus": {
+        "en": "Explain why metals high in the series cannot be obtained by carbon reduction; write electrode reactions for molten NaCl; pick metals obtained by electrolytic reduction from options.",
+        "hi": "समझाना कि श्रेणी में ऊपर की धातुएँ कार्बन से अपचयन द्वारा क्यों नहीं मिलतीं; पिघले NaCl की इलेक्ट्रोड अभिक्रियाएँ लिखना; विकल्पों से विद्युत-अपघटनी अपचयन द्वारा प्राप्त धातुएँ चुनना।"
+      },
+      "commonMistakes": [
+        {"en": "Electrolysing an aqueous solution to get sodium — the compound must be molten; in water, hydrogen forms instead of sodium.", "hi": "सोडियम के लिए जलीय विलयन का विद्युत-अपघटन करना — यौगिक पिघली अवस्था में होना चाहिए; जल में सोडियम के स्थान पर हाइड्रोजन बनती है।"}
+      ],
+      "formulas": ["At cathode: Na⁺ + e⁻ → Na", "At anode: 2Cl⁻ → Cl₂ + 2e⁻"],
+      "practicalIds": [],
+      "conceptIds": ["extraction-of-metals"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-10-en", "section": "3.4.5"}],
+      "memoryTricks": [
+        {"trick": {"en": "CATions go to the CAThode", "hi": "CATions (धनायन) CAThode (कैथोड) पर जाते हैं"}, "recall": {"en": "Metal ions are positive, so they move to the cathode (negative electrode), gain electrons and deposit as metal.", "hi": "धातु आयन धनावेशित होते हैं, इसलिए कैथोड (ऋण इलेक्ट्रोड) पर जाकर इलेक्ट्रॉन ग्रहण करते हैं और धातु के रूप में जमा होते हैं।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Metals at the top of the reactivity series (Na, Mg, Ca, Al) are obtained by electrolysing their molten chlorides or oxides.", "hi": "सक्रियता श्रेणी में सबसे ऊपर की धातुएँ (Na, Mg, Ca, Al) पिघले क्लोराइडों या ऑक्साइडों के विद्युत-अपघटन से प्राप्त होती हैं।"},
+        "formula": "At cathode: Na⁺ + e⁻ → Na",
+        "points": [
+          {"en": "The metal is always deposited at the cathode (negative electrode).", "hi": "धातु सदैव कैथोड (ऋण इलेक्ट्रोड) पर जमा होती है।"},
+          {"en": "Chlorine is given off at the anode: 2Cl⁻ → Cl₂ + 2e⁻.", "hi": "ऐनोड पर क्लोरीन निकलती है: 2Cl⁻ → Cl₂ + 2e⁻।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-10-ch03-t3.4.6",
+      "targetId": "cbse-10-ch03-t3.4.6",
+      "covers": [],
+      "definition": {
+        "en": "Electrolytic refining purifies an impure metal: the impure metal is the anode, a thin strip of pure metal is the cathode, and a solution of a salt of the same metal is the electrolyte.",
+        "hi": "विद्युत-अपघटनी परिष्करण से अशुद्ध धातु शुद्ध की जाती है: अशुद्ध धातु ऐनोड, शुद्ध धातु की पतली पट्टी कैथोड और उसी धातु के किसी लवण का विलयन विद्युत-अपघट्य होता है।"
+      },
+      "explanation": {
+        "en": "For copper, the electrolyte is acidified copper sulphate solution. When current flows, pure copper dissolves from the anode into the electrolyte (Cu → Cu²⁺ + 2e⁻) and an equal amount of pure copper is deposited on the cathode (Cu²⁺ + 2e⁻ → Cu). Soluble impurities go into the solution; insoluble impurities settle below the anode as anode mud. Copper, zinc, tin, nickel, silver and gold are refined this way.",
+        "hi": "कॉपर के लिए विद्युत-अपघट्य अम्लीकृत कॉपर सल्फ़ेट विलयन है। धारा प्रवाहित होने पर ऐनोड से शुद्ध कॉपर विलयन में घुलता है (Cu → Cu²⁺ + 2e⁻) और उतना ही शुद्ध कॉपर कैथोड पर जमा होता है (Cu²⁺ + 2e⁻ → Cu)। घुलनशील अशुद्धियाँ विलयन में चली जाती हैं; अघुलनशील अशुद्धियाँ ऐनोड के नीचे ऐनोड-पंक के रूप में बैठ जाती हैं। कॉपर, ज़िंक, टिन, निकेल, चाँदी और सोना इसी प्रकार परिष्कृत किए जाते हैं।"
+      },
+      "keyPoints": [
+        {"en": "Anode: impure metal; cathode: pure metal; electrolyte: salt solution of that metal.", "hi": "ऐनोड: अशुद्ध धातु; कैथोड: शुद्ध धातु; विद्युत-अपघट्य: उसी धातु का लवण-विलयन।"},
+        {"en": "The cathode grows thicker and the anode thinner.", "hi": "कैथोड मोटा और ऐनोड पतला होता जाता है।"}
+      ],
+      "realLife": {
+        "en": "Very pure copper for electrical wiring is obtained by electrolytic refining; precious metals are recovered from the anode mud.",
+        "hi": "विद्युत तारों के लिए अत्यधिक शुद्ध ताँबा विद्युत-अपघटनी परिष्करण से मिलता है; ऐनोड-पंक से बहुमूल्य धातुएँ प्राप्त की जाती हैं।"
+      },
+      "examFocus": {
+        "en": "Label the refining cell for copper (anode, cathode, electrolyte with formula), write the electrode reactions and say where impurities go.",
+        "hi": "कॉपर के परिष्करण सेल का नामांकन (ऐनोड, कैथोड, सूत्र सहित विद्युत-अपघट्य), इलेक्ट्रोड अभिक्रियाएँ लिखना और अशुद्धियाँ कहाँ जाती हैं यह बताना।"
+      },
+      "commonMistakes": [
+        {"en": "Making the impure metal the cathode — it must be the anode so that it dissolves.", "hi": "अशुद्ध धातु को कैथोड बनाना — उसे ऐनोड होना चाहिए ताकि वह घुल सके।"}
+      ],
+      "formulas": ["Anode: Cu → Cu²⁺ + 2e⁻", "Cathode: Cu²⁺ + 2e⁻ → Cu"],
+      "practicalIds": [],
+      "conceptIds": ["electrolytic-refining"],
+      "chemicalIds": ["copper-sulfate-pentahydrate"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "3.4.6"}],
+      "memoryTricks": [
+        {"trick": {"en": "Anode = Ashuddh (impure), Cathode = Clean (pure)", "hi": "Anode = अशुद्ध (A–अ), Cathode = Clean यानी शुद्ध"}, "recall": {"en": "The impure metal is made the anode and dissolves; pure metal deposits on the cathode, which grows thicker.", "hi": "अशुद्ध धातु ऐनोड बनती है और घुलती जाती है; शुद्ध धातु कैथोड पर जमा होती है, जो मोटा होता जाता है।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Electrolytic refining: impure metal anode, thin strip of pure metal as cathode, a salt solution of the same metal as electrolyte.", "hi": "विद्युत-अपघटनी परिष्करण: अशुद्ध धातु ऐनोड, शुद्ध धातु की पतली पट्टी कैथोड, उसी धातु के लवण का विलयन विद्युत-अपघट्य।"},
+        "formula": "Cathode: Cu²⁺ + 2e⁻ → Cu",
+        "points": [
+          {"en": "The cathode grows thicker and the anode thinner.", "hi": "कैथोड मोटा और ऐनोड पतला होता जाता है।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-10-ch03-t3.5",
+      "targetId": "cbse-10-ch03-t3.5",
+      "covers": ["cbse-10-ch03-t3.5.1"],
+      "definition": {
+        "en": "Corrosion is the gradual damage of a metal by reaction with air, moisture and chemicals around it. An alloy is a homogeneous mixture of two or more metals, or a metal and a non-metal; an alloy containing mercury is an amalgam.",
+        "hi": "संक्षारण आस-पास की वायु, नमी और रसायनों से अभिक्रिया के कारण धातु का धीरे-धीरे नष्ट होना है। मिश्रातु (मिश्रधातु) दो या अधिक धातुओं, या एक धातु और एक अधातु का समांगी मिश्रण है; मर्करी वाली मिश्रातु अमलगम कहलाती है।"
+      },
+      "explanation": {
+        "en": "Silver turns black (reaction with sulphur in air forms silver sulphide); copper gets a green coating of basic copper carbonate; iron rusts. The rusting activity: iron nails in (A) ordinary water, (B) boiled distilled water covered with oil (no air), (C) a tube with anhydrous calcium chloride (no moisture). Only A rusts — rusting needs both air and water. Prevention: painting, oiling, greasing, galvanising (coating with zinc — protects even if the coating breaks), chrome plating, anodising and alloying. Pure gold (24 carat) is soft, so it is alloyed with silver or copper (22 carat = 22 parts gold in 24). Alloys have lower electrical conductivity and melting point than pure metals; solder (lead + tin) melts easily and is used to join wires.",
+        "hi": "चाँदी काली पड़ जाती है (वायु के सल्फ़र से सिल्वर सल्फ़ाइड बनता है); ताँबे पर क्षारीय कॉपर कार्बोनेट की हरी परत चढ़ती है; लोहे में ज़ंग लगता है। ज़ंग वाला क्रियाकलाप: लोहे की कीलें (A) साधारण जल में, (B) तेल से ढके उबले आसुत जल में (वायु नहीं), (C) निर्जल कैल्सियम क्लोराइड वाली परखनली में (नमी नहीं)। केवल A में ज़ंग लगता है — ज़ंग के लिए वायु और जल दोनों आवश्यक हैं। बचाव: पेंट करना, तेल या ग्रीज़ लगाना, यशदलेपन (ज़िंक की परत — परत टूटने पर भी रक्षा), क्रोमियम लेपन, ऐनोडीकरण और मिश्रातु बनाना। शुद्ध सोना (24 कैरट) नरम होता है, इसलिए उसमें चाँदी या ताँबा मिलाया जाता है (22 कैरट = 24 में 22 भाग सोना)। मिश्रातुओं की विद्युत चालकता और गलनांक शुद्ध धातुओं से कम होते हैं; सोल्डर (लेड + टिन) आसानी से पिघलता है और तारों को जोड़ने में प्रयुक्त होता है।"
+      },
+      "keyPoints": [
+        {"en": "Rusting needs both air (oxygen) and water.", "hi": "ज़ंग लगने के लिए वायु (ऑक्सीजन) और जल दोनों आवश्यक हैं।"},
+        {"en": "Brass = copper + zinc; bronze = copper + tin; solder = lead + tin; stainless steel = iron + nickel + chromium (+ carbon).", "hi": "पीतल = ताँबा + ज़िंक; काँसा = ताँबा + टिन; सोल्डर = लेड + टिन; स्टेनलेस स्टील = लोहा + निकेल + क्रोमियम (+ कार्बन)।"},
+        {"en": "Iron is never used pure; mixed with a little carbon it becomes hard and strong steel.", "hi": "लोहा कभी शुद्ध रूप में प्रयुक्त नहीं होता; थोड़ा कार्बन मिलाने पर यह कठोर और मज़बूत इस्पात बन जाता है।"}
+      ],
+      "realLife": {
+        "en": "Galvanised iron buckets and pipes, chrome-plated taps, painted bridges, 22-carat gold jewellery, and the rust-free Iron Pillar in Delhi.",
+        "hi": "यशदलेपित लोहे की बाल्टियाँ और पाइप, क्रोम-लेपित नल, पेंट किए पुल, 22 कैरट सोने के आभूषण, और दिल्ली का ज़ंगरहित लौह स्तंभ।"
+      },
+      "examFocus": {
+        "en": "Describe the three-test-tube rusting activity and its conclusion; give methods of prevention; explain why galvanised iron stays protected; name constituents of common alloys.",
+        "hi": "तीन परखनलियों वाले ज़ंग क्रियाकलाप और उसके निष्कर्ष का वर्णन; बचाव की विधियाँ; यशदलेपित लोहा क्यों सुरक्षित रहता है; सामान्य मिश्रातुओं के घटक बताना।"
+      },
+      "commonMistakes": [
+        {"en": "Saying iron rusts in boiled water under oil — boiling removes dissolved air and the oil stops more air from dissolving.", "hi": "यह कहना कि तेल के नीचे उबले जल में लोहे पर ज़ंग लगता है — उबालने से घुली वायु निकल जाती है और तेल और वायु घुलने नहीं देता।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["corrosion-and-rancidity"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-10-en", "section": "3.5, 3.5.1, Activity 3.14"}],
+      "quickRevision": {
+        "oneLine": {"en": "Corrosion: gradual damage of a metal by air, moisture and chemicals. Alloy: a homogeneous mixture of metals, or of a metal and a non-metal.", "hi": "संक्षारण: वायु, नमी और रसायनों से धातु का धीरे-धीरे क्षय। मिश्रधातु: धातुओं का, या धातु और अधातु का समांगी मिश्रण।"},
+        "points": [
+          {"en": "Rusting needs both air (oxygen) and water.", "hi": "जंग लगने के लिए वायु (ऑक्सीजन) और जल दोनों आवश्यक हैं।"},
+          {"en": "Brass = Cu + Zn; bronze = Cu + Sn; solder = Pb + Sn.", "hi": "पीतल = Cu + Zn; कांसा = Cu + Sn; सोल्डर = Pb + Sn।"},
+          {"en": "An alloy containing mercury is an amalgam.", "hi": "मर्करी वाली मिश्रधातु अमलगम कहलाती है।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    }
+  ]
+}

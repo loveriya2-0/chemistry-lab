@@ -1,0 +1,421 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "note-cbse-12-ch03-t3.1",
+      "targetId": "cbse-12-ch03-t3.1",
+      "covers": [],
+      "definition": {
+        "en": "The rate of a reaction is the change in concentration of a reactant or product per unit time. Average rate is over an interval; instantaneous rate is the slope of the concentration–time curve at an instant.",
+        "hi": "अभिक्रिया वेग प्रति इकाई समय में किसी अभिकारक या उत्पाद की सांद्रता में परिवर्तन है। औसत वेग किसी अंतराल का होता है; तात्क्षणिक वेग किसी क्षण पर सांद्रता–समय वक्र की प्रवणता है।"
+      },
+      "explanation": {
+        "en": "For aA + bB → cC + dD: rate = −(1/a) d[A]/dt = −(1/b) d[B]/dt = +(1/c) d[C]/dt = +(1/d) d[D]/dt. The minus sign makes the rate positive for disappearing reactants. Units: mol L⁻¹ s⁻¹ (or atm s⁻¹ for gases).",
+        "hi": "aA + bB → cC + dD के लिए: वेग = −(1/a) d[A]/dt = −(1/b) d[B]/dt = +(1/c) d[C]/dt = +(1/d) d[D]/dt। ऋण चिह्न घटते अभिकारकों के लिए वेग को धनात्मक बनाता है। मात्रक: mol L⁻¹ s⁻¹ (गैसों के लिए atm s⁻¹)।"
+      },
+      "keyPoints": [
+        {
+          "en": "Dividing by the stoichiometric coefficient gives a single rate for the whole reaction.",
+          "hi": "स्टॉइकियोमीट्रिक गुणांक से भाग देने पर पूरी अभिक्रिया का एक वेग मिलता है।"
+        }
+      ],
+      "realLife": {
+        "en": "Food spoilage, drug action and rusting are all about reaction rates.",
+        "hi": "भोजन का ख़राब होना, दवाओं की क्रिया और ज़ंग लगना — सब अभिक्रिया वेग से जुड़े हैं।"
+      },
+      "examFocus": {
+        "en": "Express rate in terms of each species; calculate average rate.",
+        "hi": "प्रत्येक स्पीशीज़ के पदों में वेग व्यक्त करना; औसत वेग की गणना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Forgetting to divide by stoichiometric coefficients (2N₂O₅ → 4NO₂ + O₂: rate = −½ d[N₂O₅]/dt = ¼ d[NO₂]/dt).",
+          "hi": "स्टॉइकियोमीट्रिक गुणांकों से भाग देना भूलना (2N₂O₅ → 4NO₂ + O₂: वेग = −½ d[N₂O₅]/dt = ¼ d[NO₂]/dt)।"
+        }
+      ],
+      "formulas": [
+        "rate = −(1/a) d[A]/dt = (1/c) d[C]/dt"
+      ],
+      "practicalIds": [
+        "cbse-12-pB"
+      ],
+      "conceptIds": [
+        "chemical-kinetics"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-12-en",
+          "section": "3.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Reactants get a minus, products a plus — then divide by the coefficient\"",
+            "hi": "\"अभिकारकों को ऋण, उत्पादों को धन चिह्न — फिर गुणांक से भाग\""
+          },
+          "recall": {
+            "en": "Reactant concentrations fall, so their rate terms carry a minus sign; product terms are positive. Dividing each by its stoichiometric coefficient gives one rate for the whole reaction: rate = −(1/a) d[A]/dt = (1/c) d[C]/dt.",
+            "hi": "अभिकारकों की सांद्रता घटती है, इसलिए उनके दर पदों में ऋण चिह्न होता है; उत्पादों के पद धनात्मक होते हैं। प्रत्येक को उसके रससमीकरणमितीय गुणांक से भाग देने पर पूरी अभिक्रिया की एक दर मिलती है: दर = −(1/a) d[A]/dt = (1/c) d[C]/dt।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Rate = change in concentration per unit time (average or instantaneous).",
+          "hi": "वेग = प्रति इकाई समय सांद्रता में परिवर्तन (औसत या तात्क्षणिक)।"
+        },
+        "formula": "rate = −(1/a) d[A]/dt = (1/c) d[C]/dt",
+        "points": [
+          {
+            "en": "Reactant terms carry a minus sign.",
+            "hi": "अभिकारक पदों पर ऋण चिह्न।"
+          },
+          {
+            "en": "Units: mol L⁻¹ s⁻¹.",
+            "hi": "इकाइयाँ: mol L⁻¹ s⁻¹।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch03-t3.2",
+      "targetId": "cbse-12-ch03-t3.2",
+      "covers": [],
+      "definition": {
+        "en": "The rate depends on concentration, temperature and catalyst. The rate law, rate = k[A]ˣ[B]ʸ, is found experimentally; x + y is the order of reaction and k is the rate constant.",
+        "hi": "वेग सांद्रता, ताप और उत्प्रेरक पर निर्भर करता है। वेग नियम, वेग = k[A]ˣ[B]ʸ, प्रयोग से ज्ञात होता है; x + y अभिक्रिया की कोटि और k वेग स्थिरांक है।"
+      },
+      "explanation": {
+        "en": "Order may be 0, an integer or a fraction and need not equal the stoichiometric coefficients. Units of k: (mol L⁻¹)^(1−n) s⁻¹ — zero order mol L⁻¹ s⁻¹, first order s⁻¹, second order L mol⁻¹ s⁻¹. Molecularity is the number of species colliding in an elementary step (1, 2 or rarely 3); it is always a whole number and defined only for elementary reactions. For complex reactions the slowest step (rate-determining step) decides the rate.",
+        "hi": "कोटि 0, पूर्णांक या भिन्न हो सकती है और आवश्यक नहीं कि स्टॉइकियोमीट्रिक गुणांकों के बराबर हो। k के मात्रक: (mol L⁻¹)^(1−n) s⁻¹ — शून्य कोटि mol L⁻¹ s⁻¹, प्रथम कोटि s⁻¹, द्वितीय कोटि L mol⁻¹ s⁻¹। आण्विकता प्राथमिक चरण में टकराने वाली स्पीशीज़ की संख्या है (1, 2 या कभी-कभी 3); यह सदैव पूर्णांक होती है और केवल प्राथमिक अभिक्रियाओं के लिए परिभाषित है। जटिल अभिक्रियाओं में सबसे धीमा चरण (वेग-निर्धारक चरण) वेग तय करता है।"
+      },
+      "keyPoints": [
+        {
+          "en": "Order is experimental; molecularity is theoretical.",
+          "hi": "कोटि प्रायोगिक है; आण्विकता सैद्धांतिक।"
+        }
+      ],
+      "realLife": {
+        "en": "Knowing the order tells pharmacologists how quickly a drug's concentration falls in the body.",
+        "hi": "कोटि जानकर औषधविज्ञानी बताते हैं कि शरीर में दवा की सांद्रता कितनी जल्दी घटती है।"
+      },
+      "examFocus": {
+        "en": "Find order from rate data; units of k; differences between order and molecularity.",
+        "hi": "वेग आँकड़ों से कोटि; k के मात्रक; कोटि और आण्विकता में अंतर।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Reading the order directly from the balanced equation.",
+          "hi": "संतुलित समीकरण से सीधे कोटि पढ़ लेना।"
+        }
+      ],
+      "formulas": [
+        "rate = k[A]ˣ[B]ʸ",
+        "units of k = (mol L⁻¹)^(1−n) s⁻¹"
+      ],
+      "practicalIds": [
+        "cbse-12-pB"
+      ],
+      "conceptIds": [
+        "chemical-kinetics"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-12-en",
+          "section": "3.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Order from Observation, Molecularity from Mechanism\"",
+            "hi": "\"कोटि प्रेक्षण से, आण्विकता क्रियाविधि से\""
+          },
+          "recall": {
+            "en": "Order is found by experiment; molecularity is the number of species colliding in an elementary step.",
+            "hi": "कोटि प्रयोग से ज्ञात होती है; आण्विकता प्राथमिक चरण में संघट्ट करने वाली स्पीशीज़ की संख्या है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Rate law rate = k[A]ˣ[B]ʸ is experimental; order = x + y.",
+          "hi": "वेग नियम वेग = k[A]ˣ[B]ʸ प्रायोगिक है; कोटि = x + y।"
+        },
+        "formula": "rate = k[A]ˣ[B]ʸ",
+        "points": [
+          {
+            "en": "Order can be zero or fractional; molecularity is a whole number for an elementary step.",
+            "hi": "कोटि शून्य या भिन्नात्मक हो सकती है; प्राथमिक चरण की आण्विकता पूर्णांक होती है।"
+          },
+          {
+            "en": "Slowest step decides the rate.",
+            "hi": "सबसे धीमा चरण वेग तय करता है।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch03-t3.3",
+      "targetId": "cbse-12-ch03-t3.3",
+      "covers": [],
+      "definition": {
+        "en": "Integrated rate equations relate concentration directly with time. Half-life (t½) is the time for the concentration to fall to half its initial value.",
+        "hi": "समाकलित वेग समीकरण सांद्रता को सीधे समय से जोड़ते हैं। अर्धायु (t½) वह समय है जिसमें सांद्रता प्रारंभिक मान की आधी रह जाती है।"
+      },
+      "explanation": {
+        "en": "Zero order: [R] = [R]₀ − kt; t½ = [R]₀/2k (e.g. decomposition of NH₃ on hot platinum). First order: k = (2.303/t) log([R]₀/[R]); t½ = 0.693/k, independent of initial concentration (radioactive decay, decomposition of N₂O₅). For gas-phase first-order reactions, k = (2.303/t) log(pᵢ/(2pᵢ − p_t)) for A → B + C. Pseudo-first-order reactions appear first order because one reactant is in large excess (acid hydrolysis of ethyl acetate; inversion of cane sugar).",
+        "hi": "शून्य कोटि: [R] = [R]₀ − kt; t½ = [R]₀/2k (जैसे तप्त प्लैटिनम पर NH₃ का वियोजन)। प्रथम कोटि: k = (2.303/t) log([R]₀/[R]); t½ = 0.693/k, प्रारंभिक सांद्रता से स्वतंत्र (रेडियोऐक्टिव क्षय, N₂O₅ का वियोजन)। A → B + C जैसी गैस-प्रावस्था प्रथम कोटि अभिक्रियाओं में k = (2.303/t) log(pᵢ/(2pᵢ − p_t))। छद्म प्रथम कोटि अभिक्रियाएँ प्रथम कोटि जैसी दिखती हैं क्योंकि एक अभिकारक बहुत अधिक मात्रा में होता है (एथिल ऐसीटेट का अम्लीय जल-अपघटन; इक्षु शर्करा का प्रतिलोमन)।"
+      },
+      "keyPoints": [
+        {
+          "en": "First order: plot of log[R] vs t is a straight line with slope −k/2.303.",
+          "hi": "प्रथम कोटि: log[R] बनाम t का आलेख −k/2.303 प्रवणता वाली सीधी रेखा।"
+        },
+        {
+          "en": "For first order, time for 99.9% completion ≈ 10 × t½.",
+          "hi": "प्रथम कोटि में 99.9% पूर्णता का समय ≈ 10 × t½।"
+        }
+      ],
+      "realLife": {
+        "en": "Carbon-14 dating and drug-dosage schedules use first-order half-lives.",
+        "hi": "कार्बन-14 से आयु निर्धारण और दवा की खुराक का समय-निर्धारण प्रथम कोटि अर्धायु पर आधारित हैं।"
+      },
+      "examFocus": {
+        "en": "Numericals on k, t, t½ and fraction remaining; identify order from graphs.",
+        "hi": "k, t, t½ और शेष अंश पर आंकिक; आलेखों से कोटि पहचानना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Using t½ = 0.693/k for zero-order reactions.",
+          "hi": "शून्य कोटि अभिक्रियाओं के लिए t½ = 0.693/k लेना।"
+        }
+      ],
+      "formulas": [
+        "[R] = [R]₀ − kt; t½ = [R]₀/2k (zero order)",
+        "k = (2.303/t) log([R]₀/[R]) (first order)",
+        "t½ = 0.693/k (first order)"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "chemical-kinetics"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-12-en",
+          "section": "3.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"First order forgets where it started\" — t½ = 0.693/k",
+            "hi": "\"प्रथम कोटि शुरुआत भूल जाती है\" — t½ = 0.693/k"
+          },
+          "recall": {
+            "en": "The half-life of a first-order reaction does not depend on the starting concentration.",
+            "hi": "प्रथम कोटि अभिक्रिया की अर्धायु प्रारंभिक सांद्रता पर निर्भर नहीं करती।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Integrated rate equations give concentration vs time; first-order t½ = 0.693/k.",
+          "hi": "समाकलित वेग समीकरण सांद्रता बनाम समय देते हैं; प्रथम कोटि t½ = 0.693/k।"
+        },
+        "formula": "t½ = 0.693/k (first order)",
+        "points": [
+          {
+            "en": "Zero order: t½ ∝ [R]₀; first order: t½ independent of [R]₀.",
+            "hi": "शून्य कोटि: t½ ∝ [R]₀; प्रथम कोटि: t½, [R]₀ से स्वतंत्र।"
+          },
+          {
+            "en": "99.9% completion ≈ 10 half-lives (first order).",
+            "hi": "99.9% पूर्णता ≈ 10 अर्धायु (प्रथम कोटि)।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch03-t3.4",
+      "targetId": "cbse-12-ch03-t3.4",
+      "covers": [],
+      "definition": {
+        "en": "Rate constants increase with temperature as described by the Arrhenius equation, k = A e^(−Ea/RT), where Ea is the activation energy and A the frequency (pre-exponential) factor.",
+        "hi": "वेग स्थिरांक ताप के साथ बढ़ते हैं, जिसका वर्णन आरेनियस समीकरण k = A e^(−Ea/RT) करता है, जहाँ Ea सक्रियण ऊर्जा और A आवृत्ति (पूर्व-घातांकी) गुणक है।"
+      },
+      "explanation": {
+        "en": "For many reactions a 10 K rise roughly doubles the rate (temperature coefficient ≈ 2–3), because the fraction of molecules with energy ≥ Ea increases sharply (Maxwell–Boltzmann distribution). Activated complex: the high-energy intermediate at the top of the energy barrier. log(k₂/k₁) = (Ea/2.303R)[(T₂ − T₁)/(T₁T₂)]. A plot of ln k vs 1/T has slope −Ea/R. A catalyst provides an alternative path of lower activation energy; it does not change ΔG or the equilibrium constant.",
+        "hi": "अनेक अभिक्रियाओं में 10 K ताप वृद्धि से वेग लगभग दोगुना होता है (ताप गुणांक ≈ 2–3), क्योंकि Ea या अधिक ऊर्जा वाले अणुओं का अंश तेज़ी से बढ़ता है (मैक्सवेल–बोल्ट्ज़मान वितरण)। सक्रियित संकुल: ऊर्जा अवरोध के शिखर पर उच्च ऊर्जा मध्यवर्ती। log(k₂/k₁) = (Ea/2.303R)[(T₂ − T₁)/(T₁T₂)]। ln k बनाम 1/T आलेख की प्रवणता −Ea/R। उत्प्रेरक कम सक्रियण ऊर्जा वाला वैकल्पिक मार्ग देता है; यह ΔG या साम्य स्थिरांक नहीं बदलता।"
+      },
+      "keyPoints": [
+        {
+          "en": "Lower Ea → faster reaction.",
+          "hi": "कम Ea → तेज़ अभिक्रिया।"
+        }
+      ],
+      "realLife": {
+        "en": "Refrigeration slows food spoilage; catalytic converters and enzymes lower activation energies.",
+        "hi": "प्रशीतन भोजन ख़राब होना धीमा करता है; उत्प्रेरक परिवर्तक और एन्ज़ाइम सक्रियण ऊर्जा घटाते हैं।"
+      },
+      "examFocus": {
+        "en": "Numericals on Ea from two temperatures; energy profile diagrams with and without catalyst.",
+        "hi": "दो तापों से Ea पर आंकिक; उत्प्रेरक सहित और रहित ऊर्जा आरेख।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Using °C or mixing J and kJ in the Arrhenius equation.",
+          "hi": "आरेनियस समीकरण में °C लेना या J और kJ मिलाना।"
+        }
+      ],
+      "formulas": [
+        "k = A e^(−Ea/RT)",
+        "ln k = ln A − Ea/RT",
+        "log(k₂/k₁) = (Ea / 2.303R) × (T₂ − T₁)/(T₁T₂)"
+      ],
+      "practicalIds": [
+        "cbse-12-pB"
+      ],
+      "conceptIds": [
+        "chemical-kinetics"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-12-en",
+          "section": "3.4"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"+10 K ≈ double the rate\"",
+            "hi": "\"+10 K ≈ दर दोगुनी\""
+          },
+          "recall": {
+            "en": "For many reactions, a 10 K rise in temperature nearly doubles the rate constant, because many more molecules now have energy equal to or greater than Ea.",
+            "hi": "अनेक अभिक्रियाओं में ताप 10 K बढ़ाने पर वेग स्थिरांक लगभग दोगुना हो जाता है, क्योंकि अब बहुत अधिक अणुओं की ऊर्जा Ea के बराबर या उससे अधिक होती है।"
+          }
+        },
+        {
+          "trick": {
+            "en": "\"ln k vs 1/T: slope = −Ea/R — steeper line, bigger Ea\"",
+            "hi": "\"ln k बनाम 1/T: ढाल = −Ea/R — अधिक ढाल, अधिक Ea\""
+          },
+          "recall": {
+            "en": "From ln k = ln A − Ea/RT, a plot of ln k against 1/T is a straight line of slope −Ea/R and intercept ln A.",
+            "hi": "ln k = ln A − Ea/RT से, ln k और 1/T का आलेख एक सरल रेखा है जिसकी ढाल −Ea/R और अंतःखंड ln A है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Arrhenius: k = A e^(−Ea/RT); higher T or lower Ea → larger k.",
+          "hi": "आरेनियस: k = A e^(−Ea/RT); अधिक T या कम Ea → बड़ा k।"
+        },
+        "formula": "k = A e^(−Ea/RT)",
+        "points": [
+          {
+            "en": "Plot of ln k vs 1/T has slope −Ea/R.",
+            "hi": "ln k बनाम 1/T आलेख की प्रवणता −Ea/R।"
+          },
+          {
+            "en": "Rate roughly doubles for a 10 K rise.",
+            "hi": "10 K वृद्धि पर वेग लगभग दोगुना।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch03-t3.5",
+      "targetId": "cbse-12-ch03-t3.5",
+      "covers": [],
+      "definition": {
+        "en": "Collision theory: molecules must collide to react, and only collisions with sufficient energy (≥ threshold energy) and proper orientation are effective.",
+        "hi": "संघट्ट सिद्धांत: अभिक्रिया के लिए अणुओं का टकराना आवश्यक है, और केवल पर्याप्त ऊर्जा (≥ देहली ऊर्जा) और उचित अभिविन्यास वाले संघट्ट प्रभावी होते हैं।"
+      },
+      "explanation": {
+        "en": "Rate = P Z_AB e^(−Ea/RT), where Z_AB is the collision frequency and P the probability (steric) factor accounting for orientation. The theory treats molecules as hard spheres and ignores their structure, which is its main limitation.",
+        "hi": "वेग = P Z_AB e^(−Ea/RT), जहाँ Z_AB संघट्ट आवृत्ति और P प्रायिकता (त्रिविम) गुणक है जो अभिविन्यास का हिसाब रखता है। सिद्धांत अणुओं को कठोर गोले मानकर उनकी संरचना की उपेक्षा करता है — यही इसकी मुख्य सीमा है।"
+      },
+      "keyPoints": [
+        {
+          "en": "Not every collision leads to reaction.",
+          "hi": "हर संघट्ट अभिक्रिया नहीं कराता।"
+        }
+      ],
+      "realLife": {
+        "en": "Grinding solids or stirring increases collisions and speeds up reactions in cooking and industry.",
+        "hi": "ठोसों को पीसने या हिलाने से संघट्ट बढ़ते हैं और खाना पकाने तथा उद्योग में अभिक्रियाएँ तेज़ होती हैं।"
+      },
+      "examFocus": {
+        "en": "State the conditions for effective collisions; write the collision-theory rate expression.",
+        "hi": "प्रभावी संघट्टों की शर्तें; संघट्ट-सिद्धांत वेग व्यंजक।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Ignoring orientation — enough energy alone is not sufficient.",
+          "hi": "अभिविन्यास की उपेक्षा — केवल पर्याप्त ऊर्जा काफ़ी नहीं।"
+        }
+      ],
+      "formulas": [
+        "Rate = P Z_AB e^(−Ea/RT)"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "chemical-kinetics"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-12-en",
+          "section": "3.5"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Hit Hard and Hit Right\"",
+            "hi": "\"ज़ोर से टकराओ और सही दिशा में\""
+          },
+          "recall": {
+            "en": "An effective collision needs energy ≥ threshold (hit hard) and the correct orientation (hit right).",
+            "hi": "प्रभावी संघट्ट के लिए ऊर्जा ≥ देहली (ज़ोर से) और सही अभिविन्यास (सही दिशा) चाहिए।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Collision theory: only collisions with enough energy and proper orientation react.",
+          "hi": "संघट्ट सिद्धांत: केवल पर्याप्त ऊर्जा और उचित अभिविन्यास वाले संघट्ट अभिक्रिया करते हैं।"
+        },
+        "formula": "Rate = P Z_AB e^(−Ea/RT)",
+        "points": [
+          {
+            "en": "P = probability (steric) factor; Z_AB = collision frequency.",
+            "hi": "P = प्रायिकता (त्रिविम) गुणक; Z_AB = संघट्ट आवृत्ति।"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "note-cbse-11-ch07-t7.1",
+      "targetId": "cbse-11-ch07-t7.1",
+      "covers": [],
+      "definition": {
+        "en": "Classically, oxidation is addition of oxygen or an electronegative element, or removal of hydrogen or an electropositive element; reduction is the reverse. A reaction in which both occur is a redox reaction.",
+        "hi": "शास्त्रीय रूप से उपचयन ऑक्सीजन या विद्युत-ऋणात्मक तत्व का जुड़ना, अथवा हाइड्रोजन या विद्युत-धनात्मक तत्व का हटना है; अपचयन इसका उलटा है। जिस अभिक्रिया में दोनों हों, वह अपचयोपचय (रेडॉक्स) अभिक्रिया है।"
+      },
+      "explanation": {
+        "en": "2Mg + O₂ → 2MgO (Mg oxidised); 2H₂S + O₂ → 2S + 2H₂O (H₂S oxidised by removal of hydrogen); 2HgO → 2Hg + O₂ (HgO reduced). The substance that causes oxidation is the oxidising agent (oxidant) and is itself reduced; the reducing agent (reductant) is itself oxidised.",
+        "hi": "2Mg + O₂ → 2MgO (Mg उपचयित); 2H₂S + O₂ → 2S + 2H₂O (हाइड्रोजन हटने से H₂S उपचयित); 2HgO → 2Hg + O₂ (HgO अपचयित)। उपचयन कराने वाला पदार्थ ऑक्सीकारक (उपचायक) है और स्वयं अपचयित होता है; अपचायक स्वयं उपचयित होता है।"
+      },
+      "keyPoints": [
+        {
+          "en": "Oxidation and reduction always occur together.",
+          "hi": "उपचयन और अपचयन सदैव साथ होते हैं।"
+        }
+      ],
+      "realLife": {
+        "en": "Burning fuels, rusting, respiration and photosynthesis are redox processes.",
+        "hi": "ईंधन का जलना, ज़ंग लगना, श्वसन और प्रकाश-संश्लेषण अपचयोपचय प्रक्रम हैं।"
+      },
+      "examFocus": {
+        "en": "Identify oxidising and reducing agents in given reactions.",
+        "hi": "दी गई अभिक्रियाओं में ऑक्सीकारक और अपचायक पहचानना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Saying the oxidising agent is oxidised — it is reduced.",
+          "hi": "यह कहना कि ऑक्सीकारक उपचयित होता है — वह अपचयित होता है।"
+        }
+      ],
+      "formulas": [
+        "2Mg + O₂ → 2MgO",
+        "2HgO → 2Hg + O₂"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "oxidation-reduction",
+        "oxidation-number"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "7.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Oxidation: Oxygen in, Hydrogen out\"",
+            "hi": "\"ऑक्सीकरण: ऑक्सीजन अंदर, हाइड्रोजन बाहर\""
+          },
+          "recall": {
+            "en": "In the classical idea, oxidation is addition of oxygen (or an electronegative element) or removal of hydrogen (or an electropositive element); reduction is the reverse — hydrogen in, oxygen out.",
+            "hi": "पारंपरिक धारणा में ऑक्सीकरण ऑक्सीजन (या किसी विद्युत-ऋणात्मक तत्त्व) का योग या हाइड्रोजन (या किसी विद्युत-धनात्मक तत्त्व) का निष्कासन है; अपचयन इसका उलटा है — हाइड्रोजन अंदर, ऑक्सीजन बाहर।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Classical: oxidation = add O / remove H; reduction = reverse; both occur together.",
+          "hi": "शास्त्रीय: ऑक्सीकरण = O जोड़ना / H हटाना; अपचयन = उलटा; दोनों साथ होते हैं।"
+        },
+        "formula": "2Mg + O₂ → 2MgO",
+        "points": [
+          {
+            "en": "Oxidising agent is itself reduced; reducing agent is itself oxidised.",
+            "hi": "ऑक्सीकारक स्वयं अपचित होता है; अपचायक स्वयं ऑक्सीकृत होता है।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch07-t7.2",
+      "targetId": "cbse-11-ch07-t7.2",
+      "covers": [],
+      "definition": {
+        "en": "In electronic terms, oxidation is loss of electrons and reduction is gain of electrons; a redox reaction is an electron-transfer reaction.",
+        "hi": "इलेक्ट्रॉनिक दृष्टि से उपचयन इलेक्ट्रॉनों का त्याग और अपचयन इलेक्ट्रॉनों की प्राप्ति है; अपचयोपचय अभिक्रिया इलेक्ट्रॉन-स्थानांतरण अभिक्रिया है।"
+      },
+      "explanation": {
+        "en": "2Na + Cl₂ → 2NaCl splits into half reactions: Na → Na⁺ + e⁻ (oxidation) and Cl₂ + 2e⁻ → 2Cl⁻ (reduction). A zinc rod in CuSO₄ solution: Zn → Zn²⁺ + 2e⁻ and Cu²⁺ + 2e⁻ → Cu — zinc reduces Cu²⁺. Copper in AgNO₃ solution displaces silver. Comparing such reactions gives the relative tendency of metals to release electrons (Zn > Cu > Ag).",
+        "hi": "2Na + Cl₂ → 2NaCl को अर्ध-अभिक्रियाओं में बाँटें: Na → Na⁺ + e⁻ (उपचयन) और Cl₂ + 2e⁻ → 2Cl⁻ (अपचयन)। CuSO₄ विलयन में ज़िंक छड़: Zn → Zn²⁺ + 2e⁻ और Cu²⁺ + 2e⁻ → Cu — ज़िंक Cu²⁺ का अपचयन करता है। AgNO₃ विलयन में ताँबा चाँदी को विस्थापित करता है। ऐसी अभिक्रियाओं की तुलना से धातुओं की इलेक्ट्रॉन छोड़ने की आपेक्षिक प्रवृत्ति मिलती है (Zn > Cu > Ag)।"
+      },
+      "keyPoints": [
+        {
+          "en": "Remember: OIL RIG — oxidation is loss, reduction is gain (of electrons).",
+          "hi": "याद रखें: उपचयन = इलेक्ट्रॉन त्याग, अपचयन = इलेक्ट्रॉन प्राप्ति।"
+        }
+      ],
+      "realLife": {
+        "en": "Batteries supply current by separating the electron-loss and electron-gain half reactions.",
+        "hi": "बैटरियाँ इलेक्ट्रॉन-त्याग और इलेक्ट्रॉन-प्राप्ति अर्ध-अभिक्रियाओं को अलग कर धारा देती हैं।"
+      },
+      "examFocus": {
+        "en": "Split redox reactions into half reactions; identify species oxidised and reduced.",
+        "hi": "अपचयोपचय अभिक्रियाओं को अर्ध-अभिक्रियाओं में बाँटना; उपचयित और अपचयित स्पीशीज़ पहचानना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Calling the gain of electrons oxidation.",
+          "hi": "इलेक्ट्रॉन प्राप्ति को उपचयन कहना।"
+        }
+      ],
+      "formulas": [
+        "Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s)",
+        "Cu(s) + 2Ag⁺(aq) → Cu²⁺(aq) + 2Ag(s)"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "oxidation-number"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "7.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"OIL RIG\"",
+            "hi": "\"OIL RIG\" (ऑक्सीकरण हानि, अपचयन लाभ)"
+          },
+          "recall": {
+            "en": "Oxidation Is Loss of electrons, Reduction Is Gain of electrons.",
+            "hi": "ऑक्सीकरण इलेक्ट्रॉनों की हानि है, अपचयन इलेक्ट्रॉनों का लाभ है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Oxidation = loss of electrons; reduction = gain of electrons.",
+          "hi": "ऑक्सीकरण = इलेक्ट्रॉनों की हानि; अपचयन = इलेक्ट्रॉनों का लाभ।"
+        },
+        "formula": "Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s)",
+        "points": [
+          {
+            "en": "Zn is oxidised and is the reducing agent; Cu²⁺ is reduced and is the oxidising agent.",
+            "hi": "Zn ऑक्सीकृत होकर अपचायक है; Cu²⁺ अपचित होकर ऑक्सीकारक है।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch07-t7.3",
+      "targetId": "cbse-11-ch07-t7.3",
+      "covers": [],
+      "definition": {
+        "en": "Oxidation number is the charge an atom would carry if all its bonds were ionic (electrons assigned to the more electronegative atom). Oxidation is an increase in oxidation number; reduction is a decrease.",
+        "hi": "ऑक्सीकरण संख्या वह आवेश है जो परमाणु पर तब होता यदि उसके सभी आबंध आयनिक होते (इलेक्ट्रॉन अधिक विद्युत-ऋणात्मक परमाणु को दिए जाते)। ऑक्सीकरण संख्या में वृद्धि उपचयन है; कमी अपचयन।"
+      },
+      "explanation": {
+        "en": "Rules: free elements 0; monatomic ion = its charge; O usually −2 (peroxides −1, OF₂ +2); H +1 (−1 in metal hydrides); F always −1; sum = 0 in a molecule or the ion's charge. Stock notation writes oxidation states in Roman numerals: FeO is iron(II) oxide. Types of redox reactions: combination, decomposition, displacement (metal and non-metal) and disproportionation (one species is both oxidised and reduced, e.g. 2H₂O₂ → 2H₂O + O₂; Cl₂ + 2OH⁻ → ClO⁻ + Cl⁻ + H₂O). Redox equations are balanced by the oxidation-number method or the half-reaction (ion–electron) method, adding H⁺/H₂O in acidic and OH⁻/H₂O in basic medium.",
+        "hi": "नियम: मुक्त तत्व 0; एकपरमाणुक आयन = उसका आवेश; O प्रायः −2 (परॉक्साइड में −1, OF₂ में +2); H +1 (धातु हाइड्राइड में −1); F सदैव −1; अणु में योग 0 या आयन में उसका आवेश। स्टॉक संकेतन ऑक्सीकरण अवस्थाएँ रोमन अंकों में लिखता है: FeO आयरन(II) ऑक्साइड। अपचयोपचय के प्रकार: संयोजन, वियोजन, विस्थापन (धातु और अधातु) तथा असमानुपातन (एक ही स्पीशीज़ उपचयित भी और अपचयित भी, जैसे 2H₂O₂ → 2H₂O + O₂; Cl₂ + 2OH⁻ → ClO⁻ + Cl⁻ + H₂O)। अपचयोपचय समीकरण ऑक्सीकरण-संख्या विधि या अर्ध-अभिक्रिया (आयन–इलेक्ट्रॉन) विधि से संतुलित होते हैं — अम्लीय माध्यम में H⁺/H₂O और क्षारीय में OH⁻/H₂O जोड़ते हैं।"
+      },
+      "keyPoints": [
+        {
+          "en": "In redox titrations KMnO₄ acts as a self-indicator; K₂Cr₂O₇ needs an indicator.",
+          "hi": "अपचयोपचय अनुमापनों में KMnO₄ स्वयं सूचक है; K₂Cr₂O₇ को सूचक चाहिए।"
+        },
+        {
+          "en": "Fluorine cannot show disproportionation because it has no positive oxidation state.",
+          "hi": "फ़्लुओरीन असमानुपातन नहीं दिखाता क्योंकि उसकी कोई धनात्मक ऑक्सीकरण अवस्था नहीं।"
+        }
+      ],
+      "realLife": {
+        "en": "Bleaches and disinfectants work by changing the oxidation numbers of the substances they destroy.",
+        "hi": "विरंजक और रोगाणुनाशक नष्ट किए जाने वाले पदार्थों की ऑक्सीकरण संख्याएँ बदलकर काम करते हैं।"
+      },
+      "examFocus": {
+        "en": "Find oxidation numbers (including in H₂SO₅, CrO₅ type cases), classify redox reactions and balance equations in acidic/basic medium.",
+        "hi": "ऑक्सीकरण संख्याएँ ज्ञात करना (H₂SO₅, CrO₅ जैसे उदाहरणों सहित), अपचयोपचय अभिक्रियाओं का वर्गीकरण और अम्लीय/क्षारीय माध्यम में समीकरण संतुलित करना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Taking O as −2 in H₂O₂ — in peroxides it is −1.",
+          "hi": "H₂O₂ में O को −2 लेना — परॉक्साइड में यह −1 है।"
+        }
+      ],
+      "formulas": [
+        "2H₂O₂ → 2H₂O + O₂ (disproportionation)",
+        "MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "oxidation-number"
+      ],
+      "chemicalIds": [
+        "potassium-permanganate"
+      ],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "7.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"LEO says GER\": Loss of Electrons Oxidation, Gain of Electrons Reduction",
+            "hi": "\"LEO says GER\": इलेक्ट्रॉन हानि ऑक्सीकरण, इलेक्ट्रॉन लाभ अपचयन"
+          },
+          "recall": {
+            "en": "Losing electrons raises the oxidation number (oxidation); gaining electrons lowers it (reduction).",
+            "hi": "इलेक्ट्रॉन खोने से ऑक्सीकरण संख्या बढ़ती है (ऑक्सीकरण); इलेक्ट्रॉन पाने से घटती है (अपचयन)।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Oxidation number rises in oxidation and falls in reduction.",
+          "hi": "ऑक्सीकरण में ऑक्सीकरण संख्या बढ़ती और अपचयन में घटती है।"
+        },
+        "formula": "MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O",
+        "points": [
+          {
+            "en": "F is always −1; O is −2 (−1 in peroxides); H is +1 (−1 in metal hydrides).",
+            "hi": "F सदैव −1; O −2 (परॉक्साइडों में −1); H +1 (धातु हाइड्राइडों में −1)।"
+          },
+          {
+            "en": "Disproportionation: same element oxidised and reduced (2H₂O₂ → 2H₂O + O₂).",
+            "hi": "असमानुपातन: एक ही तत्व ऑक्सीकृत और अपचित (2H₂O₂ → 2H₂O + O₂)।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch07-t7.4",
+      "targetId": "cbse-11-ch07-t7.4",
+      "covers": [],
+      "definition": {
+        "en": "When the oxidation and reduction halves of a redox reaction are carried out in separate vessels connected by a salt bridge, electrons flow through a wire — an electrochemical cell. Each half is a redox couple with an electrode potential.",
+        "hi": "जब अपचयोपचय अभिक्रिया के उपचयन और अपचयन अर्ध भाग लवण सेतु से जुड़े अलग पात्रों में होते हैं, तो इलेक्ट्रॉन तार से प्रवाहित होते हैं — यह वैद्युतरासायनिक सेल है। प्रत्येक अर्ध भाग एक अपचयोपचय युग्म है जिसका इलेक्ट्रोड विभव होता है।"
+      },
+      "explanation": {
+        "en": "In the Daniell cell, Zn in ZnSO₄ (anode, oxidation) and Cu in CuSO₄ (cathode, reduction) are joined by a salt bridge. The standard electrode potential E⊖ is measured against the standard hydrogen electrode (0 V). A more negative E⊖ means a stronger reducing agent (Li, K); a more positive E⊖ a stronger oxidising agent (F₂). Arranging couples by E⊖ gives the electrochemical series.",
+        "hi": "डेनियल सेल में ZnSO₄ में Zn (ऐनोड, उपचयन) और CuSO₄ में Cu (कैथोड, अपचयन) लवण सेतु से जुड़े होते हैं। मानक इलेक्ट्रोड विभव E⊖ मानक हाइड्रोजन इलेक्ट्रोड (0 V) के सापेक्ष मापा जाता है। अधिक ऋणात्मक E⊖ = प्रबल अपचायक (Li, K); अधिक धनात्मक E⊖ = प्रबल ऑक्सीकारक (F₂)। युग्मों को E⊖ के क्रम में लगाने से वैद्युतरासायनिक श्रेणी बनती है।"
+      },
+      "keyPoints": [
+        {
+          "en": "The salt bridge completes the circuit and keeps the solutions electrically neutral.",
+          "hi": "लवण सेतु परिपथ पूरा करता है और विलयनों को विद्युत-उदासीन रखता है।"
+        }
+      ],
+      "realLife": {
+        "en": "Every battery, from a torch cell to a phone battery, is built on this principle (studied further in Class 12 Electrochemistry).",
+        "hi": "टॉर्च के सेल से फ़ोन की बैटरी तक हर बैटरी इसी सिद्धांत पर बनी है (कक्षा 12 के वैद्युतरसायन में आगे पढ़ेंगे)।"
+      },
+      "examFocus": {
+        "en": "Describe the Daniell cell; use E⊖ values to compare oxidising/reducing strength.",
+        "hi": "डेनियल सेल का वर्णन; E⊖ मानों से ऑक्सीकारक/अपचायक प्रबलता की तुलना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Placing reduction at the anode — oxidation always occurs at the anode.",
+          "hi": "ऐनोड पर अपचयन मानना — ऐनोड पर सदैव उपचयन होता है।"
+        }
+      ],
+      "formulas": [
+        "Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s)"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "oxidation-number",
+        "electrochemical-cells"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "7.4"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"AN OX and a RED CAT\"",
+            "hi": "\"AN OX and a RED CAT\" (ऐनोड पर ऑक्सीकरण, कैथोड पर अपचयन)"
+          },
+          "recall": {
+            "en": "Oxidation happens at the ANode; REDuction happens at the CAThode.",
+            "hi": "ऑक्सीकरण ऐनोड पर और अपचयन कैथोड पर होता है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Separate the redox halves with a salt bridge and electrons flow: an electrochemical cell.",
+          "hi": "रेडॉक्स के दोनों भाग लवण सेतु से अलग करने पर इलेक्ट्रॉन बहते हैं: वैद्युतरासायनिक सेल।"
+        },
+        "formula": "Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s)",
+        "points": [
+          {
+            "en": "Salt bridge completes the circuit and keeps solutions neutral.",
+            "hi": "लवण सेतु परिपथ पूरा करता है और विलयनों को उदासीन रखता है।"
+          },
+          {
+            "en": "More negative E° → stronger reducing agent.",
+            "hi": "अधिक ऋणात्मक E° → प्रबल अपचायक।"
+          }
+        ]
+      }
+    }
+  ]
+}

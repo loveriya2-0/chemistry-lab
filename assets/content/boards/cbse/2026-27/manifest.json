@@ -1,0 +1,804 @@
+{
+  "schemaVersion": 1,
+  "id": "cbse-2026-27",
+  "boardId": "cbse",
+  "academicYear": "2026-27",
+  "status": "verified",
+  "retrieved": "2026-10-05",
+  "classes": [
+    {
+      "classLevel": 9,
+      "file": "boards/cbse/2026-27/class-9.json"
+    },
+    {
+      "classLevel": 10,
+      "file": "boards/cbse/2026-27/class-10.json"
+    },
+    {
+      "classLevel": 11,
+      "file": "boards/cbse/2026-27/class-11.json"
+    },
+    {
+      "classLevel": 12,
+      "file": "boards/cbse/2026-27/class-12.json"
+    }
+  ],
+  "sources": [
+    {
+      "id": "cbse-sci-9",
+      "title": "CBSE Science (086) Class IX 2026-27",
+      "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/ScienceSt_SecP1_2026-27.pdf",
+      "publisher": "CBSE",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "cbse-sci-9-adv",
+      "title": "CBSE Science at Advanced Level (Optional) Grade 9 2026-27",
+      "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/ScienceAd_SecP1_2026-27.pdf",
+      "publisher": "CBSE",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "cbse-sci-10",
+      "title": "CBSE Science (086) Class X 2026-27",
+      "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/Science_SecP1_2026-27.pdf",
+      "publisher": "CBSE",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "cbse-sci-10-rm",
+      "title": "CBSE Reading Material, Science Class X 2026-27",
+      "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/Science_SecP1IX_2026-27_RM.pdf",
+      "publisher": "CBSE",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "cbse-chem-11-12",
+      "title": "CBSE Chemistry (043) Classes XI-XII 2026-27",
+      "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Chemistry_SecP2_2026-27.pdf",
+      "publisher": "CBSE",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "cbse-chem-rm",
+      "title": "CBSE Reading Material, Chemistry XI-XII 2026-27",
+      "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Chemistry_SecP2_2026-27_RM.pdf",
+      "publisher": "CBSE",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "cbse-qp",
+      "title": "CBSE previous question papers",
+      "url": "https://www.cbse.gov.in/cbsenew/question-paper.html",
+      "publisher": "CBSE",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "cbse-ms",
+      "title": "CBSE marking schemes",
+      "url": "https://www.cbse.gov.in/cbsenew/marking-scheme.html",
+      "publisher": "CBSE",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "ncert-9-en",
+      "title": "NCERT Science Class IX \"Exploration\"",
+      "url": "https://ncert.nic.in/textbook.php?iesc1=0-13",
+      "publisher": "NCERT",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "ncert-9-hi",
+      "title": "NCERT विज्ञान कक्षा 9 \"अन्वेषण\"",
+      "url": "https://ncert.nic.in/textbook.php?ihsc1=0-13",
+      "publisher": "NCERT",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "ncert-10-en",
+      "title": "NCERT Science Class X (Reprint 2026-27)",
+      "url": "https://ncert.nic.in/textbook.php?jesc1=0-13",
+      "publisher": "NCERT",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "ncert-10-hi",
+      "title": "NCERT विज्ञान कक्षा 10",
+      "url": "https://ncert.nic.in/textbook.php?jhsc1=0-13",
+      "publisher": "NCERT",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "ncert-11-en",
+      "title": "NCERT Chemistry Part I & II Class XI (Reprint 2026-27)",
+      "url": "https://ncert.nic.in/textbook.php?kech1=0-6",
+      "publisher": "NCERT",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "ncert-11-hi",
+      "title": "NCERT रसायन विज्ञान भाग I व II कक्षा 11",
+      "url": "https://ncert.nic.in/textbook.php?khch1=0-6",
+      "publisher": "NCERT",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "ncert-12-en",
+      "title": "NCERT Chemistry Part I & II Class XII (Reprint 2026-27)",
+      "url": "https://ncert.nic.in/textbook.php?lech1=0-5",
+      "publisher": "NCERT",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "ncert-12-hi",
+      "title": "NCERT रसायन विज्ञान भाग I व II कक्षा 12",
+      "url": "https://ncert.nic.in/textbook.php?lhch1=0-5",
+      "publisher": "NCERT",
+      "retrieved": "2026-10-05"
+    }
+  ],
+  "concepts": [
+    "library/concepts/matter-and-atoms.json",
+    "library/concepts/reactions-and-compounds.json",
+    "library/concepts/physical-chemistry.json",
+    "library/concepts/inorganic-chemistry.json",
+    "library/concepts/organic-chemistry.json"
+  ],
+  "chemicals": [
+    "library/chemicals.json",
+    "library/chemicals-advanced.json"
+  ],
+  "practicalGuides": [
+    "library/practical-guides.json"
+  ],
+  "notes": [
+    "boards/cbse/2026-27/notes/class-9-ch05.json",
+    "boards/cbse/2026-27/notes/class-9-ch08.json",
+    "boards/cbse/2026-27/notes/class-9-ch09.json",
+    "boards/cbse/2026-27/notes/class-10-ch01.json",
+    "boards/cbse/2026-27/notes/class-10-ch02.json",
+    "boards/cbse/2026-27/notes/class-10-ch03.json",
+    "boards/cbse/2026-27/notes/class-10-ch04.json",
+    "boards/cbse/2026-27/notes/class-10-periodic.json",
+    "boards/cbse/2026-27/notes/class-11-ch01.json",
+    "boards/cbse/2026-27/notes/class-11-ch02.json",
+    "boards/cbse/2026-27/notes/class-11-ch03.json",
+    "boards/cbse/2026-27/notes/class-11-ch04.json",
+    "boards/cbse/2026-27/notes/class-11-ch05.json",
+    "boards/cbse/2026-27/notes/class-11-ch06.json",
+    "boards/cbse/2026-27/notes/class-11-ch07.json",
+    "boards/cbse/2026-27/notes/class-11-ch08.json",
+    "boards/cbse/2026-27/notes/class-11-ch09.json",
+    "boards/cbse/2026-27/notes/class-11-formative.json",
+    "boards/cbse/2026-27/notes/class-12-ch01.json",
+    "boards/cbse/2026-27/notes/class-12-ch02.json",
+    "boards/cbse/2026-27/notes/class-12-ch03.json",
+    "boards/cbse/2026-27/notes/class-12-ch04.json",
+    "boards/cbse/2026-27/notes/class-12-ch05.json",
+    "boards/cbse/2026-27/notes/class-12-ch06.json",
+    "boards/cbse/2026-27/notes/class-12-ch07.json",
+    "boards/cbse/2026-27/notes/class-12-ch08.json",
+    "boards/cbse/2026-27/notes/class-12-ch09.json",
+    "boards/cbse/2026-27/notes/class-12-ch10.json",
+    "boards/cbse/2026-27/notes/class-12-formative.json"
+  ],
+  "questions": [
+    "boards/cbse/2026-27/questions/class-9.json",
+    "boards/cbse/2026-27/questions/class-10.json",
+    "boards/cbse/2026-27/questions/class-11.json",
+    "boards/cbse/2026-27/questions/class-12.json"
+  ],
+  "pyq": {
+    "files": [
+      "boards/cbse/2026-27/pyq/class-10.json",
+      "boards/cbse/2026-27/pyq/class-12.json"
+    ],
+    "availability": {
+      "sourceIds": [
+        "cbse-qp",
+        "cbse-ms"
+      ],
+      "examYears": [
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "notes": [
+        "No 2021 papers: Class 10 exams were cancelled and Class 12 exams were not held in April-June 2021 (COVID-19).",
+        "2021-22 was held in two terms (Term 1 and Term 2).",
+        "From 2026 Class 10 has a mandatory main exam (February) and an optional second exam (May)."
+      ]
+    },
+    "papers": [
+      {
+        "examYear": 2023,
+        "attempt": "main",
+        "paperCode": "31/2/1",
+        "classLevel": 10,
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2023/X/SCIENCE.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2023/X/Science_English_Medium.zip"
+      },
+      {
+        "examYear": 2024,
+        "attempt": "main",
+        "paperCode": "31/1/1",
+        "classLevel": 10,
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2024/X/SCIENCE.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2024/X/Science.zip"
+      },
+      {
+        "examYear": 2025,
+        "attempt": "main",
+        "paperCode": "31/1/1",
+        "classLevel": 10,
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2025/X/086_Science.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2025/X/Science.zip"
+      },
+      {
+        "examYear": 2026,
+        "attempt": "main",
+        "paperCode": "31/2/1",
+        "classLevel": 10,
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2026/X/Science.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/marking-scheme/2026/X/086_SCIENCE.zip"
+      },
+      {
+        "examYear": 2023,
+        "attempt": "main",
+        "paperCode": "56/1/1",
+        "classLevel": 12,
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2023/XII/CHEMISTRY.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2023/XII/Chemistry.zip"
+      },
+      {
+        "examYear": 2024,
+        "attempt": "main",
+        "paperCode": "56/1/1",
+        "classLevel": 12,
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2024/XII/CHEMISTRY.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2024/XII/Chemistry.zip"
+      },
+      {
+        "examYear": 2025,
+        "attempt": "main",
+        "paperCode": "56/4/1",
+        "classLevel": 12,
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2025/XII/CHEMISTRY.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2025/XII/Chemistry.zip"
+      },
+      {
+        "examYear": 2026,
+        "attempt": "main",
+        "paperCode": "56/1/1",
+        "classLevel": 12,
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2026/XII/Chemistry.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/marking-scheme/2026/XII/Chemistry.zip"
+      }
+    ],
+    "coverage": "Class 10: chemistry questions (Unit I) of one main-exam set per year, Class 10 Science, 2023-2026. Class 12: all questions of one main-exam Chemistry (043) set per year, 2023-2026 (2025 uses set 56/4/1 because set 56/1/1 is a scanned image). Class 9 has no board exam. Class 11 has no board exam."
+  },
+  "labs": [
+    {
+      "id": "acid_base_titration",
+      "summary": "NaOH + HCl with phenolphthalein (interactive)",
+      "topicIds": [
+        "cbse-10-ch02-t2.1.4"
+      ],
+      "practicalLinks": [
+        {
+          "practicalId": "cbse-11-pC",
+          "relation": "related",
+          "note": {
+            "en": "Practical C follows the pH change while a strong base is titrated, using universal indicator. This virtual lab shows the end point with phenolphthalein instead.",
+            "hi": "प्रयोग C में प्रबल क्षारक के अनुमापन के दौरान सार्वत्रिक सूचक से pH परिवर्तन देखा जाता है। यह वर्चुअल लैब इसके स्थान पर फ़ीनॉल्फ़्थेलिन से अंत्य बिंदु दिखाती है।",
+            "hiSrc": "translated"
+          }
+        },
+        {
+          "practicalId": "cbse-11-pE",
+          "relation": "related",
+          "note": {
+            "en": "Practical E uses the same acid–base titration technique, but titrates NaOH against oxalic acid and HCl against sodium carbonate. This virtual lab does not cover weighing or making standard solutions.",
+            "hi": "प्रयोग E में यही अम्ल–क्षारक अनुमापन तकनीक है, पर उसमें NaOH का ऑक्सैलिक अम्ल के विरुद्ध और HCl का सोडियम कार्बोनेट के विरुद्ध अनुमापन होता है। यह वर्चुअल लैब तौलना या मानक विलयन बनाना नहीं सिखाती।",
+            "hiSrc": "translated"
+          }
+        },
+        {
+          "practicalId": "cbse-12-pC",
+          "relation": "related",
+          "note": {
+            "en": "One option in Practical C measures the enthalpy of neutralisation of HCl and NaOH — the same reaction. This virtual lab shows the neutralisation but does not measure the temperature change.",
+            "hi": "प्रयोग C के एक विकल्प में HCl और NaOH की उदासीनीकरण एन्थैल्पी मापी जाती है — यही अभिक्रिया। यह वर्चुअल लैब उदासीनीकरण दिखाती है पर ताप परिवर्तन नहीं मापती।",
+            "hiSrc": "translated"
+          }
+        }
+      ],
+      "note": "Not an exact CBSE-listed experiment. Concept lab for neutralisation (Class 10, 2.1.4); related to Class 11 practicals C and E and Class 12 practical C. Class 10 practical 1B (litmus, zinc, sodium carbonate) is not a titration, so it is not linked."
+    },
+    {
+      "id": "oxygen_preparation",
+      "summary": "H₂O₂ with MnO₂ catalyst (interactive)",
+      "topicIds": [
+        "cbse-10-ch01-t1.2.2"
+      ],
+      "practicalLinks": [],
+      "note": "Not in any CBSE 2026-27 practical list. Can stay as a concept lab for decomposition reactions (Class 10, 1.2.2)."
+    },
+    {
+      "id": "oxalic_acid_titration",
+      "summary": "NaOH (burette) against 0.05 M oxalic acid with phenolphthalein (interactive)",
+      "topicIds": [],
+      "practicalLinks": [
+        {
+          "practicalId": "cbse-11-pE",
+          "relation": "related",
+          "note": {
+            "en": "This lab is the 'strength of NaOH by titration against oxalic acid' part of Practical E. It does not cover using the balance, making the standard solution, or the HCl–sodium carbonate titration.",
+            "hi": "यह लैब प्रयोग E का 'ऑक्सैलिक अम्ल के विरुद्ध अनुमापन द्वारा NaOH की प्रबलता' वाला भाग है। इसमें तुला का उपयोग, मानक विलयन बनाना और HCl–सोडियम कार्बोनेट अनुमापन शामिल नहीं हैं।",
+            "hiSrc": "translated"
+          }
+        }
+      ],
+      "note": "Class 11 practical E (NaOH against oxalic acid part only). No topic placement: the CBSE list maps practical E to the Some Basic Concepts chapter, not to one topic."
+    },
+    {
+      "id": "hcl_sodium_carbonate_titration",
+      "summary": "HCl (burette) against 0.05 M sodium carbonate with methyl orange (interactive)",
+      "topicIds": [],
+      "practicalLinks": [
+        {
+          "practicalId": "cbse-11-pE",
+          "relation": "related",
+          "note": {
+            "en": "This lab is the 'strength of HCl by titration against sodium carbonate' part of Practical E. It does not cover using the balance or making the standard sodium carbonate solution.",
+            "hi": "यह लैब प्रयोग E का 'सोडियम कार्बोनेट के विरुद्ध अनुमापन द्वारा HCl की प्रबलता' वाला भाग है। इसमें तुला का उपयोग और मानक सोडियम कार्बोनेट विलयन बनाना शामिल नहीं हैं।",
+            "hiSrc": "translated"
+          }
+        }
+      ],
+      "note": "Class 11 practical E (HCl against sodium carbonate part only). No topic placement, like the oxalic acid lab."
+    },
+    {
+      "id": "kmno4_oxalic_titration",
+      "summary": "KMnO₄ (burette) against 0.05 M oxalic acid, warm and acidified, KMnO₄ as its own indicator (interactive)",
+      "topicIds": [
+        "cbse-12-ch04-t4.4"
+      ],
+      "practicalLinks": [
+        {
+          "practicalId": "cbse-12-pJ",
+          "relation": "related",
+          "note": {
+            "en": "This lab is the 'KMnO₄ against standard oxalic acid' part of Practical J. Weighing and making the standard oxalic acid solution are not simulated.",
+            "hi": "यह लैब प्रयोग J का 'मानक ऑक्सैलिक अम्ल के विरुद्ध KMnO₄' वाला भाग है। तौलना और मानक ऑक्सैलिक अम्ल विलयन बनाना इसमें शामिल नहीं हैं।",
+            "hiSrc": "translated"
+          }
+        }
+      ],
+      "note": "Class 12 practical J (oxalic acid part). Placed on 4.4, whose note has the permanganate–oxalate equation."
+    },
+    {
+      "id": "kmno4_mohr_salt_titration",
+      "summary": "KMnO₄ (burette) against 0.1 M Mohr's salt, acidified, at room temperature (interactive)",
+      "topicIds": [],
+      "practicalLinks": [
+        {
+          "practicalId": "cbse-12-pJ",
+          "relation": "related",
+          "note": {
+            "en": "This lab is the 'KMnO₄ against standard ferrous ammonium sulphate (Mohr's salt)' part of Practical J. Weighing and making the standard Mohr's salt solution are not simulated.",
+            "hi": "यह लैब प्रयोग J का 'मानक फ़ेरस अमोनियम सल्फ़ेट (मोर लवण) के विरुद्ध KMnO₄' वाला भाग है। तौलना और मानक मोर लवण विलयन बनाना इसमें शामिल नहीं हैं।",
+            "hiSrc": "translated"
+          }
+        }
+      ],
+      "note": "Class 12 practical J (Mohr's salt part). No topic placement: the Fe²⁺ equation is not in a checked note yet."
+    }
+  ],
+  "reactionLab": {
+    "reagents": [
+      "library/lab-reagents.json"
+    ],
+    "reactions": [
+      "library/lab-reactions.json"
+    ],
+    "placements": [
+      {
+        "id": "rx-quicklime-water",
+        "topicIds": [
+          "cbse-10-ch01-t1.2.1"
+        ],
+        "practicalLinks": [
+          {
+            "practicalId": "cbse-10-p2",
+            "relation": "related",
+            "note": {
+              "en": "This lab is the 'action of water on quicklime' part of Practical 2 (combination reaction).",
+              "hi": "यह लैब प्रयोग 2 का 'बिना बुझे चूने पर जल की क्रिया' वाला भाग है (संयोजन अभिक्रिया)।",
+              "hiSrc": "translated"
+            }
+          }
+        ]
+      },
+      {
+        "id": "rx-ferrous-sulphate-heat",
+        "topicIds": [
+          "cbse-10-ch01-t1.2.2"
+        ],
+        "practicalLinks": [
+          {
+            "practicalId": "cbse-10-p2",
+            "relation": "related",
+            "note": {
+              "en": "This lab is the 'action of heat on ferrous sulphate crystals' part of Practical 2 (decomposition reaction).",
+              "hi": "यह लैब प्रयोग 2 का 'फ़ेरस सल्फ़ेट के क्रिस्टलों पर ऊष्मा की क्रिया' वाला भाग है (वियोजन अभिक्रिया)।",
+              "hiSrc": "translated"
+            }
+          }
+        ]
+      },
+      {
+        "id": "rx-silver-chloride-sunlight",
+        "topicIds": [
+          "cbse-10-ch01-t1.2.2"
+        ]
+      },
+      {
+        "id": "rx-iron-copper-sulphate",
+        "topicIds": [
+          "cbse-10-ch01-t1.2.3"
+        ],
+        "practicalLinks": [
+          {
+            "practicalId": "cbse-10-p2",
+            "relation": "related",
+            "note": {
+              "en": "This lab is the 'iron nails in copper sulphate solution' part of Practical 2 (displacement reaction).",
+              "hi": "यह लैब प्रयोग 2 का 'कॉपर सल्फ़ेट विलयन में लोहे की कीलें' वाला भाग है (विस्थापन अभिक्रिया)।",
+              "hiSrc": "translated"
+            }
+          },
+          {
+            "practicalId": "cbse-10-p3",
+            "relation": "related",
+            "note": {
+              "en": "This lab is one of the combinations in Practical 3: iron in copper sulphate solution.",
+              "hi": "यह लैब प्रयोग 3 का एक संयोजन है: कॉपर सल्फ़ेट विलयन में लोहा।",
+              "hiSrc": "translated"
+            }
+          }
+        ]
+      },
+      {
+        "id": "rx-barium-sulphate",
+        "topicIds": [
+          "cbse-10-ch01-t1.2.4"
+        ],
+        "practicalLinks": [
+          {
+            "practicalId": "cbse-10-p2",
+            "relation": "related",
+            "note": {
+              "en": "This lab is the 'sodium sulphate with barium chloride solution' part of Practical 2 (double displacement reaction).",
+              "hi": "यह लैब प्रयोग 2 का 'बेरियम क्लोराइड विलयन के साथ सोडियम सल्फ़ेट' वाला भाग है (द्विविस्थापन अभिक्रिया)।",
+              "hiSrc": "translated"
+            }
+          }
+        ]
+      },
+      {
+        "id": "rx-lead-iodide",
+        "topicIds": [
+          "cbse-10-ch01-t1.2.4"
+        ]
+      },
+      {
+        "id": "rx-zinc-sulphuric-acid",
+        "topicIds": [
+          "cbse-10-ch02-t2.1.2"
+        ]
+      },
+      {
+        "id": "rx-zinc-sodium-hydroxide",
+        "topicIds": [
+          "cbse-10-ch02-t2.1.2"
+        ],
+        "practicalLinks": [
+          {
+            "practicalId": "cbse-10-p1b",
+            "relation": "related",
+            "note": {
+              "en": "This lab is the \"NaOH with zinc metal\" part of Practical 1B.",
+              "hi": "यह लैब प्रयोग 1B का \"ज़िंक धातु के साथ NaOH\" वाला भाग है।",
+              "hiSrc": "translated"
+            }
+          }
+        ]
+      },
+      {
+        "id": "rx-sodium-carbonate-acid",
+        "topicIds": [
+          "cbse-10-ch02-t2.1.3"
+        ],
+        "practicalLinks": [
+          {
+            "practicalId": "cbse-10-p1b",
+            "relation": "related",
+            "note": {
+              "en": "This lab is the \"HCl with solid sodium carbonate\" part of Practical 1B.",
+              "hi": "यह लैब प्रयोग 1B का \"ठोस सोडियम कार्बोनेट के साथ HCl\" वाला भाग है।",
+              "hiSrc": "translated"
+            }
+          }
+        ]
+      },
+      {
+        "id": "rx-baking-soda-acid",
+        "topicIds": [
+          "cbse-10-ch02-t2.1.3"
+        ]
+      },
+      {
+        "id": "rx-magnesium-acid",
+        "topicIds": [
+          "cbse-10-ch03-t3.2.3"
+        ]
+      },
+      {
+        "id": "rx-zinc-copper-sulphate",
+        "topicIds": [
+          "cbse-10-ch03-t3.2.4"
+        ],
+        "practicalLinks": [
+          {
+            "practicalId": "cbse-10-p3",
+            "relation": "related",
+            "note": {
+              "en": "This lab is one of the combinations in Practical 3: zinc in copper sulphate solution.",
+              "hi": "यह लैब प्रयोग 3 का एक संयोजन है: कॉपर सल्फ़ेट विलयन में ज़िंक।",
+              "hiSrc": "translated"
+            }
+          }
+        ]
+      },
+      {
+        "id": "rx-ethanoic-acid-baking-soda",
+        "topicIds": [
+          "cbse-10-ch04-t4.4.2"
+        ],
+        "practicalLinks": [
+          {
+            "practicalId": "cbse-10-p8",
+            "relation": "related",
+            "note": {
+              "en": "This lab is the \"reaction with sodium hydrogen carbonate\" part of Practical 8.",
+              "hi": "यह लैब प्रयोग 8 का \"सोडियम हाइड्रोजन कार्बोनेट के साथ अभिक्रिया\" वाला भाग है।",
+              "hiSrc": "translated"
+            }
+          },
+          {
+            "practicalId": "cbse-12-pH",
+            "relation": "related",
+            "note": {
+              "en": "Effervescence with sodium hydrogen carbonate is the usual test for the carboxylic acid group in Practical H. This lab shows it with ethanoic acid.",
+              "hi": "सोडियम हाइड्रोजन कार्बोनेट के साथ बुदबुदाहट प्रयोग H में कार्बॉक्सिलिक अम्ल समूह का सामान्य परीक्षण है। यह लैब इसे एथेनॉइक अम्ल के साथ दिखाती है।",
+              "hiSrc": "translated"
+            }
+          }
+        ]
+      },
+      {
+        "id": "rx-zinc-hydrochloric-acid",
+        "topicIds": [
+          "cbse-10-ch02-t2.1.2"
+        ],
+        "practicalLinks": [
+          {
+            "practicalId": "cbse-10-p1b",
+            "relation": "related",
+            "note": {
+              "en": "This lab is the \"HCl with zinc metal\" part of Practical 1B.",
+              "hi": "यह लैब प्रयोग 1B का \"ज़िंक धातु के साथ HCl\" वाला भाग है।",
+              "hiSrc": "translated"
+            }
+          }
+        ]
+      },
+      {
+        "id": "rx-ferric-thiocyanate",
+        "topicIds": [
+          "cbse-11-ch06-t6.8"
+        ],
+        "practicalLinks": [
+          {
+            "practicalId": "cbse-11-pD",
+            "relation": "related",
+            "note": {
+              "en": "This lab is the ferric–thiocyanate part of Practical D. The [Co(H₂O)₆]²⁺–chloride equilibrium is not simulated.",
+              "hi": "यह लैब प्रयोग D का फ़ेरिक–थायोसायनेट वाला भाग है। [Co(H₂O)₆]²⁺–क्लोराइड साम्य का अनुकरण नहीं है।",
+              "hiSrc": "translated"
+            }
+          }
+        ]
+      },
+      {
+        "id": "rx-tollens-test",
+        "topicIds": [
+          "cbse-12-ch08-t8.4"
+        ],
+        "practicalLinks": [
+          {
+            "practicalId": "cbse-12-pH",
+            "relation": "related",
+            "note": {
+              "en": "Tollens' test is one test for the aldehydic group in Practical H.",
+              "hi": "टॉलेन परीक्षण प्रयोग H में ऐल्डिहाइडी समूह का एक परीक्षण है।",
+              "hiSrc": "translated"
+            }
+          }
+        ]
+      },
+      {
+        "id": "rx-fehling-test",
+        "topicIds": [
+          "cbse-12-ch08-t8.4"
+        ],
+        "practicalLinks": [
+          {
+            "practicalId": "cbse-12-pH",
+            "relation": "related",
+            "note": {
+              "en": "Fehling's test is one test for the aldehydic group in Practical H.",
+              "hi": "फ़ेहलिंग परीक्षण प्रयोग H में ऐल्डिहाइडी समूह का एक परीक्षण है।",
+              "hiSrc": "translated"
+            }
+          }
+        ]
+      },
+      {
+        "id": "rx-phenol-bromine-water",
+        "topicIds": [
+          "cbse-12-ch07-t7.4"
+        ],
+        "practicalLinks": [
+          {
+            "practicalId": "cbse-12-pH",
+            "relation": "related",
+            "note": {
+              "en": "Related to the phenolic-group tests of Practical H. Bromine water is a reaction of phenol from the textbook; the neutral ferric chloride test is not simulated.",
+              "hi": "प्रयोग H के फ़ीनॉलिक समूह परीक्षणों से संबंधित। ब्रोमीन जल पाठ्यपुस्तक में दी गई फ़ीनॉल की एक अभिक्रिया है; उदासीन फ़ेरिक क्लोराइड परीक्षण का अनुकरण नहीं है।",
+              "hiSrc": "translated"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "legacyIdMap": {
+    "c9_matter_pure": null,
+    "c10_reactions": "cbse-10-ch01",
+    "c10_acids_bases": "cbse-10-ch02",
+    "c11_basic_concepts": "cbse-11-ch01",
+    "c11_redox": "cbse-11-ch07",
+    "c12_solutions": "cbse-12-ch01",
+    "c9_chemical_changes": null,
+    "c10_decomposition": "cbse-10-ch01-t1.2.2",
+    "c10_neutralisation": "cbse-10-ch02-t2.1.4",
+    "c11_titration": null,
+    "c11_disproportionation": null,
+    "c12_volumetric": null
+  },
+  "legacyIdNotes": "Draft ids from app versions before the verified syllabus. null = no 2026-27 equivalent; records keep their old id and still count towards time, accuracy and activity.",
+  "practicalCoverage": [
+    {
+      "practicalId": "cbse-10-p1b",
+      "level": "partiallyInteractive",
+      "covered": {
+        "en": "Zinc with HCl, zinc with NaOH, and solid sodium carbonate with HCl.",
+        "hi": "HCl के साथ ज़िंक, NaOH के साथ ज़िंक, और HCl के साथ ठोस सोडियम कार्बोनेट।",
+        "hiSrc": "translated"
+      },
+      "notCovered": {
+        "en": "The litmus tests, and solid sodium carbonate with NaOH.",
+        "hi": "लिटमस परीक्षण, और NaOH के साथ ठोस सोडियम कार्बोनेट।",
+        "hiSrc": "translated"
+      }
+    },
+    {
+      "practicalId": "cbse-10-p2",
+      "level": "fullyInteractive",
+      "covered": {
+        "en": "All four reactions, one virtual lab each: quicklime and water, heating ferrous sulphate, iron nails in copper sulphate, sodium sulphate with barium chloride.",
+        "hi": "चारों अभिक्रियाएँ, प्रत्येक की एक वर्चुअल लैब: बिना बुझा चूना और जल, फ़ेरस सल्फ़ेट को गरम करना, कॉपर सल्फ़ेट में लोहे की कीलें, बेरियम क्लोराइड के साथ सोडियम सल्फ़ेट।",
+        "hiSrc": "translated"
+      },
+      "notCovered": null
+    },
+    {
+      "practicalId": "cbse-10-p3",
+      "level": "partiallyInteractive",
+      "covered": {
+        "en": "Iron in copper sulphate and zinc in copper sulphate.",
+        "hi": "कॉपर सल्फ़ेट में लोहा और कॉपर सल्फ़ेट में ज़िंक।",
+        "hiSrc": "translated"
+      },
+      "notCovered": {
+        "en": "The other metal–salt combinations (including those where nothing happens) and aluminium, so the full reactivity order is not built in the lab.",
+        "hi": "अन्य धातु–लवण संयोजन (उनमें वे भी जिनमें कुछ नहीं होता) और ऐलुमिनियम, इसलिए पूरा सक्रियता क्रम लैब में नहीं बनता।",
+        "hiSrc": "translated"
+      }
+    },
+    {
+      "practicalId": "cbse-10-p8",
+      "level": "partiallyInteractive",
+      "covered": {
+        "en": "The reaction of ethanoic acid with sodium hydrogen carbonate.",
+        "hi": "सोडियम हाइड्रोजन कार्बोनेट के साथ एथेनॉइक अम्ल की अभिक्रिया।",
+        "hiSrc": "translated"
+      },
+      "notCovered": {
+        "en": "Odour, solubility in water and the effect on litmus.",
+        "hi": "गंध, जल में विलेयता और लिटमस पर प्रभाव।",
+        "hiSrc": "translated"
+      }
+    },
+    {
+      "practicalId": "cbse-11-pD",
+      "level": "partiallyInteractive",
+      "covered": {
+        "en": "The shift in the ferric–thiocyanate equilibrium.",
+        "hi": "फ़ेरिक–थायोसायनेट साम्य में विस्थापन।",
+        "hiSrc": "translated"
+      },
+      "notCovered": {
+        "en": "The [Co(H₂O)₆]²⁺–chloride equilibrium.",
+        "hi": "[Co(H₂O)₆]²⁺–क्लोराइड साम्य।",
+        "hiSrc": "translated"
+      }
+    },
+    {
+      "practicalId": "cbse-11-pE",
+      "level": "partiallyInteractive",
+      "covered": {
+        "en": "Both titrations: NaOH against oxalic acid, and HCl against sodium carbonate.",
+        "hi": "दोनों अनुमापन: ऑक्सैलिक अम्ल के विरुद्ध NaOH, और सोडियम कार्बोनेट के विरुद्ध HCl।",
+        "hiSrc": "translated"
+      },
+      "notCovered": {
+        "en": "Using the balance and making the standard solutions.",
+        "hi": "तुला का उपयोग और मानक विलयन बनाना।",
+        "hiSrc": "translated"
+      }
+    },
+    {
+      "practicalId": "cbse-12-pH",
+      "level": "partiallyInteractive",
+      "covered": {
+        "en": "Aldehydic group (Tollens' and Fehling's tests) and carboxylic group (sodium hydrogen carbonate test). A related phenol reaction with bromine water is also available.",
+        "hi": "ऐल्डिहाइडी समूह (टॉलेन और फ़ेहलिंग परीक्षण) और कार्बॉक्सिलिक समूह (सोडियम हाइड्रोजन कार्बोनेट परीक्षण)। ब्रोमीन जल के साथ फ़ीनॉल की एक संबंधित अभिक्रिया भी उपलब्ध है।",
+        "hiSrc": "translated"
+      },
+      "notCovered": {
+        "en": "Tests for unsaturation, the alcoholic, ketonic and primary amino groups, and the neutral ferric chloride test for phenols.",
+        "hi": "असंतृप्तता, ऐल्कोहॉलिक, कीटोनी और प्राथमिक ऐमीनो समूहों के परीक्षण, और फ़ीनॉलों के लिए उदासीन फ़ेरिक क्लोराइड परीक्षण।",
+        "hiSrc": "translated"
+      }
+    },
+    {
+      "practicalId": "cbse-12-pJ",
+      "level": "partiallyInteractive",
+      "covered": {
+        "en": "Both titrations: KMnO₄ against oxalic acid and against Mohr's salt.",
+        "hi": "दोनों अनुमापन: ऑक्सैलिक अम्ल के विरुद्ध और मोर लवण के विरुद्ध KMnO₄।",
+        "hiSrc": "translated"
+      },
+      "notCovered": {
+        "en": "Weighing and making the standard solutions.",
+        "hi": "तौलना और मानक विलयन बनाना।",
+        "hiSrc": "translated"
+      }
+    }
+  ]
+}

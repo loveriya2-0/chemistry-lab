@@ -1,0 +1,330 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "balancing-chemical-equations", "type": "concept",
+      "title": {"en": "Writing and balancing chemical equations", "hi": "रासायनिक समीकरण लिखना और संतुलित करना"},
+      "sections": {
+        "whatIsIt": {"en": "Representing a reaction with formulas and making the number of atoms of each element equal on both sides.", "hi": "सूत्रों द्वारा अभिक्रिया दर्शाना और दोनों ओर प्रत्येक तत्व के परमाणुओं की संख्या बराबर करना।"},
+        "howItWorks": {"en": "Write the skeletal equation, then change only the coefficients — one element at a time — until every element balances; add state symbols and conditions.", "hi": "कंकाली समीकरण लिखें, फिर केवल गुणांक बदलें — एक बार में एक तत्व — जब तक हर तत्व संतुलित न हो जाए; अवस्था-संकेत और परिस्थितियाँ जोड़ें।"},
+        "whyImportant": {"en": "A balanced equation obeys the law of conservation of mass and tells the ratio in which substances react.", "hi": "संतुलित समीकरण द्रव्यमान संरक्षण नियम का पालन करता है और बताता है कि पदार्थ किस अनुपात में अभिक्रिया करते हैं।"},
+        "realLifeUses": {"en": "Industries use balanced equations to calculate how much raw material is needed.", "hi": "उद्योग संतुलित समीकरणों से गणना करते हैं कि कितना कच्चा माल चाहिए।"},
+        "rememberForExam": {"en": "Never change subscripts; check every element at the end.", "hi": "पादांक कभी न बदलें; अंत में हर तत्व की जाँच करें।"}
+      },
+      "equations": ["3Fe(s) + 4H₂O(g) → Fe₃O₄(s) + 4H₂(g)", "2Pb(NO₃)₂ → 2PbO + 4NO₂ + O₂"], "relatedConceptIds": ["law-of-conservation-of-mass"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "1.1"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "combination-reaction", "type": "reaction",
+      "title": {"en": "Combination reaction", "hi": "संयोजन अभिक्रिया"},
+      "sections": {
+        "whatIsIt": {"en": "Two or more reactants combine to form a single product.", "hi": "दो या अधिक अभिकारक मिलकर एक ही उत्पाद बनाते हैं।"},
+        "howItWorks": {"en": "Atoms of the reactants join to form one new substance, often releasing heat.", "hi": "अभिकारकों के परमाणु जुड़कर एक नया पदार्थ बनाते हैं, प्रायः ऊष्मा मुक्त करते हुए।"},
+        "whyImportant": {"en": "Many useful substances (slaked lime, water, metal oxides) are made this way.", "hi": "अनेक उपयोगी पदार्थ (बुझा चूना, जल, धातु ऑक्साइड) इसी प्रकार बनते हैं।"},
+        "realLifeUses": {"en": "Slaking lime for whitewash; burning coal; magnesium burning in flash powder.", "hi": "सफ़ेदी के लिए चूना बुझाना; कोयले का जलना; फ़्लैश पाउडर में मैग्नीशियम का जलना।"},
+        "rememberForExam": {"en": "CaO + H₂O → Ca(OH)₂ + heat is combination and exothermic.", "hi": "CaO + H₂O → Ca(OH)₂ + ऊष्मा संयोजन और ऊष्माक्षेपी है।"}
+      },
+      "equations": ["CaO(s) + H₂O(l) → Ca(OH)₂(aq) + Heat", "2Mg + O₂ → 2MgO", "C + O₂ → CO₂"], "relatedConceptIds": ["decomposition-reaction", "exothermic-endothermic"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "1.2.1"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "exothermic-endothermic", "type": "concept",
+      "title": {"en": "Exothermic and endothermic reactions", "hi": "ऊष्माक्षेपी और ऊष्माशोषी अभिक्रियाएँ"},
+      "sections": {
+        "whatIsIt": {"en": "Exothermic reactions give out heat; endothermic reactions take in heat.", "hi": "ऊष्माक्षेपी अभिक्रियाएँ ऊष्मा देती हैं; ऊष्माशोषी अभिक्रियाएँ ऊष्मा लेती हैं।"},
+        "howItWorks": {"en": "Energy is needed to break bonds and released when new bonds form; the balance decides whether heat is given out or taken in.", "hi": "आबंध तोड़ने में ऊर्जा लगती है और नए आबंध बनने पर ऊर्जा मुक्त होती है; इनका संतुलन तय करता है कि ऊष्मा निकलेगी या ली जाएगी।"},
+        "whyImportant": {"en": "Respiration and fuel burning (exothermic) supply energy; decomposition usually needs energy (endothermic).", "hi": "श्वसन और ईंधन का दहन (ऊष्माक्षेपी) ऊर्जा देते हैं; वियोजन में प्रायः ऊर्जा चाहिए (ऊष्माशोषी)।"},
+        "realLifeUses": {"en": "Cooking gas, respiration, composting (exothermic); photosynthesis, decomposing limestone (endothermic).", "hi": "रसोई गैस, श्वसन, कंपोस्ट बनना (ऊष्माक्षेपी); प्रकाश-संश्लेषण, चूना-पत्थर का वियोजन (ऊष्माशोषी)।"},
+        "rememberForExam": {"en": "Dissolving ammonium chloride in water is endothermic; dissolving an acid or NaOH in water is exothermic.", "hi": "जल में अमोनियम क्लोराइड घोलना ऊष्माशोषी है; जल में अम्ल या NaOH घोलना ऊष्माक्षेपी है।"}
+      },
+      "equations": ["C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + energy"], "relatedConceptIds": ["combination-reaction", "decomposition-reaction"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "1.2.1, 1.2.2"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "decomposition-reaction", "type": "reaction",
+      "title": {"en": "Decomposition reaction", "hi": "वियोजन (अपघटन) अभिक्रिया"},
+      "sections": {
+        "whatIsIt": {"en": "A single reactant breaks down into two or more simpler products.", "hi": "एक अभिकारक टूटकर दो या अधिक सरल उत्पाद बनाता है।"},
+        "howItWorks": {"en": "Energy is supplied as heat (thermal), electricity (electrolysis) or light (photolysis) to break the compound apart.", "hi": "यौगिक को तोड़ने के लिए ऊर्जा ऊष्मा (तापीय), विद्युत (विद्युत-अपघटन) या प्रकाश (प्रकाश-अपघटन) के रूप में दी जाती है।"},
+        "whyImportant": {"en": "It is used to make quick lime, extract metals and obtain hydrogen.", "hi": "इसका उपयोग बिना बुझा चूना बनाने, धातुएँ निकालने और हाइड्रोजन प्राप्त करने में होता है।"},
+        "realLifeUses": {"en": "Cement industry (CaCO₃ → CaO), black-and-white photography (AgBr), electrolysis of water.", "hi": "सीमेंट उद्योग (CaCO₃ → CaO), श्वेत-श्याम फ़ोटोग्राफ़ी (AgBr), जल का विद्युत-अपघटन।"},
+        "rememberForExam": {"en": "Heating FeSO₄ crystals: green colour fades, smell of burning sulphur. Electrolysis of water: H₂ : O₂ = 2 : 1 by volume.", "hi": "FeSO₄ क्रिस्टल गरम करना: हरा रंग फीका, जलते गंधक की गंध। जल का विद्युत-अपघटन: आयतन में H₂ : O₂ = 2 : 1।"}
+      },
+      "equations": ["2FeSO₄ → Fe₂O₃ + SO₂ + SO₃", "CaCO₃ → CaO + CO₂", "2H₂O → 2H₂ + O₂", "2AgCl → 2Ag + Cl₂"], "relatedConceptIds": ["combination-reaction", "exothermic-endothermic"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "1.2.2"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "displacement-reaction", "type": "reaction",
+      "title": {"en": "Displacement reaction", "hi": "विस्थापन अभिक्रिया"},
+      "sections": {
+        "whatIsIt": {"en": "A more reactive element pushes a less reactive element out of its compound.", "hi": "अधिक क्रियाशील तत्व कम क्रियाशील तत्व को उसके यौगिक से बाहर कर देता है।"},
+        "howItWorks": {"en": "The more reactive metal loses electrons more easily, so it goes into solution as ions while the less reactive metal is deposited.", "hi": "अधिक क्रियाशील धातु आसानी से इलेक्ट्रॉन खोती है, इसलिए वह आयन बनकर विलयन में जाती है और कम क्रियाशील धातु जमा हो जाती है।"},
+        "whyImportant": {"en": "It is the experimental basis of the reactivity series and is used in extracting metals.", "hi": "यह सक्रियता श्रेणी का प्रायोगिक आधार है और धातुओं के निष्कर्षण में प्रयुक्त होता है।"},
+        "realLifeUses": {"en": "Thermite welding; recovering copper from solutions using scrap iron.", "hi": "थर्मिट वेल्डिंग; रद्दी लोहे से विलयनों में से ताँबा प्राप्त करना।"},
+        "rememberForExam": {"en": "Iron nail in CuSO₄: brown copper coating; blue solution turns pale green.", "hi": "CuSO₄ में लोहे की कील: भूरी ताँबे की परत; नीला विलयन हल्का हरा।"}
+      },
+      "equations": ["Fe + CuSO₄ → FeSO₄ + Cu", "Zn + CuSO₄ → ZnSO₄ + Cu", "Fe₂O₃ + 2Al → 2Fe + Al₂O₃"], "relatedConceptIds": ["reactivity-series", "double-displacement-reaction"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "1.2.3, 3.2.4"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "reactivity-series", "type": "concept",
+      "title": {"en": "Reactivity (activity) series", "hi": "सक्रियता श्रेणी"},
+      "sections": {
+        "whatIsIt": {"en": "A list of metals in decreasing order of reactivity: K, Na, Ca, Mg, Al, Zn, Fe, Pb, [H], Cu, Hg, Ag, Au.", "hi": "धातुओं की घटती क्रियाशीलता के क्रम में सूची: K, Na, Ca, Mg, Al, Zn, Fe, Pb, [H], Cu, Hg, Ag, Au।"},
+        "howItWorks": {"en": "It is built from displacement experiments; a metal displaces those below it, and metals above H displace hydrogen from dilute acids.", "hi": "यह विस्थापन प्रयोगों से बनी है; कोई धातु अपने नीचे की धातुओं को विस्थापित करती है, और H से ऊपर की धातुएँ तनु अम्लों से हाइड्रोजन विस्थापित करती हैं।"},
+        "whyImportant": {"en": "It predicts reactions with water, acids and salt solutions, and decides the method of extracting each metal.", "hi": "यह जल, अम्लों और लवण-विलयनों के साथ अभिक्रियाओं का अनुमान देती है और प्रत्येक धातु के निष्कर्षण की विधि तय करती है।"},
+        "realLifeUses": {"en": "Choosing metals for containers, coins and jewellery; galvanising iron with more reactive zinc.", "hi": "पात्रों, सिक्कों और आभूषणों के लिए धातु चुनना; अधिक क्रियाशील ज़िंक से लोहे का यशदलेपन।"},
+        "rememberForExam": {"en": "Predict which test tube reacts and write the equation; arrange metals from experimental observations.", "hi": "बताएँ कि किस परखनली में अभिक्रिया होगी और समीकरण लिखें; प्रायोगिक प्रेक्षणों से धातुओं को क्रम में रखें।"}
+      },
+      "equations": [], "relatedConceptIds": ["displacement-reaction", "extraction-of-metals"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "3.2.5, Table 3.2"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "double-displacement-reaction", "type": "reaction",
+      "title": {"en": "Double displacement and precipitation", "hi": "द्विविस्थापन और अवक्षेपण"},
+      "sections": {
+        "whatIsIt": {"en": "Two compounds exchange ions to form two new compounds; if one is insoluble it separates as a precipitate.", "hi": "दो यौगिक आयनों का आदान-प्रदान कर दो नए यौगिक बनाते हैं; यदि एक अघुलनशील हो तो वह अवक्षेप के रूप में अलग होता है।"},
+        "howItWorks": {"en": "In solution the ions are free; when an insoluble pair (Ba²⁺ and SO₄²⁻, or Pb²⁺ and I⁻) meets, it comes out as a solid.", "hi": "विलयन में आयन स्वतंत्र होते हैं; जब कोई अघुलनशील युग्म (Ba²⁺ और SO₄²⁻, या Pb²⁺ और I⁻) मिलता है, तो वह ठोस के रूप में निकल आता है।"},
+        "whyImportant": {"en": "Precipitation is used to identify ions and to remove impurities.", "hi": "अवक्षेपण से आयनों की पहचान और अशुद्धियाँ हटाई जाती हैं।"},
+        "realLifeUses": {"en": "Water treatment and laboratory tests for sulphate and lead ions.", "hi": "जल-शोधन और सल्फ़ेट तथा लेड आयनों के प्रयोगशाला परीक्षण।"},
+        "rememberForExam": {"en": "BaSO₄ is a white precipitate; PbI₂ is a yellow precipitate.", "hi": "BaSO₄ सफ़ेद अवक्षेप है; PbI₂ पीला अवक्षेप है।"}
+      },
+      "equations": ["Na₂SO₄ + BaCl₂ → BaSO₄↓ + 2NaCl", "Pb(NO₃)₂ + 2KI → PbI₂↓ + 2KNO₃"], "relatedConceptIds": ["displacement-reaction", "neutralisation"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "1.2.4"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "oxidation-reduction", "type": "reaction",
+      "title": {"en": "Oxidation, reduction and redox reactions", "hi": "उपचयन, अपचयन और रेडॉक्स अभिक्रियाएँ"},
+      "sections": {
+        "whatIsIt": {"en": "Oxidation is gain of oxygen or loss of hydrogen; reduction is loss of oxygen or gain of hydrogen. When both happen together, the reaction is redox.", "hi": "ऑक्सीजन ग्रहण करना या हाइड्रोजन खोना उपचयन है; ऑक्सीजन खोना या हाइड्रोजन ग्रहण करना अपचयन है। दोनों साथ हों तो अभिक्रिया रेडॉक्स है।"},
+        "howItWorks": {"en": "The substance that takes oxygen is oxidised and the one that gives oxygen is reduced — they always occur in pairs.", "hi": "जो पदार्थ ऑक्सीजन लेता है वह उपचयित और जो ऑक्सीजन देता है वह अपचयित होता है — ये सदैव जोड़े में होते हैं।"},
+        "whyImportant": {"en": "Extraction of metals, corrosion, rancidity, respiration and combustion are all redox processes.", "hi": "धातुओं का निष्कर्षण, संक्षारण, विकृतगंधिता, श्वसन और दहन — सभी रेडॉक्स प्रक्रम हैं।"},
+        "realLifeUses": {"en": "Reducing metal oxides with carbon or hydrogen; preventing oxidation of food with nitrogen packing.", "hi": "कार्बन या हाइड्रोजन से धातु ऑक्साइडों का अपचयन; नाइट्रोजन पैकिंग से भोजन का उपचयन रोकना।"},
+        "rememberForExam": {"en": "In MnO₂ + 4HCl → MnCl₂ + 2H₂O + Cl₂, MnO₂ is reduced and HCl is oxidised.", "hi": "MnO₂ + 4HCl → MnCl₂ + 2H₂O + Cl₂ में MnO₂ अपचयित और HCl उपचयित होता है।"}
+      },
+      "equations": ["2Cu + O₂ → 2CuO", "CuO + H₂ → Cu + H₂O", "ZnO + C → Zn + CO"], "relatedConceptIds": ["corrosion-and-rancidity", "extraction-of-metals"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "1.2.5"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "corrosion-and-rancidity", "type": "process",
+      "title": {"en": "Corrosion and rancidity", "hi": "संक्षारण और विकृतगंधिता"},
+      "sections": {
+        "whatIsIt": {"en": "Corrosion is the slow damage of metals by air, moisture and chemicals; rancidity is the oxidation of fats and oils in food.", "hi": "संक्षारण वायु, नमी और रसायनों द्वारा धातुओं का धीमा क्षय है; विकृतगंधिता भोजन की वसा और तेलों का उपचयन है।"},
+        "howItWorks": {"en": "Oxygen (with water for rusting) reacts with the metal or with fat molecules, forming new substances with different properties, smell or taste.", "hi": "ऑक्सीजन (ज़ंग के लिए जल सहित) धातु या वसा के अणुओं से अभिक्रिया कर भिन्न गुण, गंध या स्वाद वाले नए पदार्थ बनाती है।"},
+        "whyImportant": {"en": "Corrosion causes huge losses to structures and vehicles; rancid food is unpleasant and unhealthy.", "hi": "संक्षारण से संरचनाओं और वाहनों को भारी हानि होती है; विकृतगंधी भोजन अप्रिय और अस्वास्थ्यकर होता है।"},
+        "realLifeUses": {"en": "Painting, galvanising, alloying and anodising against corrosion; antioxidants, airtight containers and nitrogen-filled packs against rancidity.", "hi": "संक्षारण से बचाव हेतु पेंट, यशदलेपन, मिश्रातु और ऐनोडीकरण; विकृतगंधिता से बचाव हेतु प्रति-ऑक्सीकारक, वायुरोधी पात्र और नाइट्रोजन भरे पैकेट।"},
+        "rememberForExam": {"en": "Rusting needs both air and water (three test-tube activity); give two ways to prevent each.", "hi": "ज़ंग के लिए वायु और जल दोनों चाहिए (तीन परखनलियों वाला क्रियाकलाप); प्रत्येक से बचाव के दो उपाय बताएँ।"}
+      },
+      "equations": [], "relatedConceptIds": ["oxidation-reduction"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "1.3, 3.5"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "acids-and-bases", "type": "concept",
+      "title": {"en": "Acids and bases", "hi": "अम्ल और क्षारक"},
+      "sections": {
+        "whatIsIt": {"en": "Acids give H⁺ (H₃O⁺) ions in water, taste sour and turn blue litmus red; bases give OH⁻ ions, taste bitter, feel soapy and turn red litmus blue.", "hi": "अम्ल जल में H⁺ (H₃O⁺) आयन देते हैं, खट्टे होते हैं और नीले लिटमस को लाल करते हैं; क्षारक OH⁻ आयन देते हैं, कड़वे और साबुन जैसे होते हैं तथा लाल लिटमस को नीला करते हैं।"},
+        "howItWorks": {"en": "The ions they produce in water explain their reactions: acid + metal → salt + H₂; acid + carbonate → salt + water + CO₂; acid + base → salt + water.", "hi": "जल में बनने वाले आयन ही उनकी अभिक्रियाओं को समझाते हैं: अम्ल + धातु → लवण + H₂; अम्ल + कार्बोनेट → लवण + जल + CO₂; अम्ल + क्षारक → लवण + जल।"},
+        "whyImportant": {"en": "Acids and bases are everywhere — in digestion, soil, cleaning agents and industry.", "hi": "अम्ल और क्षारक हर जगह हैं — पाचन, मिट्टी, सफ़ाई के पदार्थों और उद्योग में।"},
+        "realLifeUses": {"en": "Vinegar and citric acid in food; antacids; lime for acidic soil; NaOH in soap making.", "hi": "भोजन में सिरका और सिट्रिक अम्ल; प्रत्याम्ल; अम्लीय मिट्टी के लिए चूना; साबुन बनाने में NaOH।"},
+        "rememberForExam": {"en": "Indicator colours; dry HCl gas does not change dry litmus; always add acid to water.", "hi": "सूचकों के रंग; शुष्क HCl गैस शुष्क लिटमस नहीं बदलती; सदैव अम्ल को जल में डालें।"}
+      },
+      "equations": ["HCl + H₂O → H₃O⁺ + Cl⁻", "Zn + H₂SO₄ → ZnSO₄ + H₂", "Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂"], "relatedConceptIds": ["neutralisation", "ph-scale"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "2.1, 2.2"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "neutralisation", "type": "reaction",
+      "title": {"en": "Neutralisation", "hi": "उदासीनीकरण"},
+      "sections": {
+        "whatIsIt": {"en": "The reaction of an acid with a base to give a salt and water.", "hi": "अम्ल और क्षारक की अभिक्रिया जिसमें लवण और जल बनते हैं।"},
+        "howItWorks": {"en": "H⁺ ions from the acid combine with OH⁻ ions from the base to form water; the remaining ions form the salt.", "hi": "अम्ल के H⁺ आयन क्षारक के OH⁻ आयनों से जुड़कर जल बनाते हैं; शेष आयन लवण बनाते हैं।"},
+        "whyImportant": {"en": "It is how we cancel out unwanted acidity or basicity.", "hi": "इसी से हम अवांछित अम्लता या क्षारकता को समाप्त करते हैं।"},
+        "realLifeUses": {"en": "Antacids for indigestion, baking soda on bee stings, lime for acidic soil, treating factory waste.", "hi": "अपच के लिए प्रत्याम्ल, मधुमक्खी के डंक पर खाने का सोडा, अम्लीय मिट्टी के लिए चूना, कारख़ानों के अपशिष्ट का उपचार।"},
+        "rememberForExam": {"en": "Phenolphthalein turns from pink to colourless at neutralisation of NaOH by HCl.", "hi": "HCl द्वारा NaOH के उदासीनीकरण पर फ़ीनॉल्फ़्थेलिन गुलाबी से रंगहीन हो जाता है।"}
+      },
+      "equations": ["NaOH + HCl → NaCl + H₂O"], "relatedConceptIds": ["acids-and-bases", "ph-scale"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "2.1.4"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "ph-scale", "type": "concept",
+      "title": {"en": "pH scale", "hi": "pH पैमाना"},
+      "sections": {
+        "whatIsIt": {"en": "A scale from 0 to 14 showing how acidic or basic a solution is: below 7 acidic, 7 neutral, above 7 basic.", "hi": "0 से 14 का पैमाना जो बताता है कि विलयन कितना अम्लीय या क्षारकीय है: 7 से कम अम्लीय, 7 उदासीन, 7 से अधिक क्षारकीय।"},
+        "howItWorks": {"en": "The more H⁺ (H₃O⁺) ions in a solution, the lower its pH; a universal indicator shows different colours for different pH values.", "hi": "विलयन में जितने अधिक H⁺ (H₃O⁺) आयन, उसका pH उतना कम; सार्वत्रिक सूचक भिन्न pH मानों पर भिन्न रंग दिखाता है।"},
+        "whyImportant": {"en": "Living things work only in narrow pH ranges.", "hi": "सजीव केवल सीमित pH परास में ही ठीक काम करते हैं।"},
+        "realLifeUses": {"en": "Body pH 7.0–7.8; acid rain below 5.6; tooth decay below 5.5; soil testing; stomach acid and antacids.", "hi": "शरीर का pH 7.0–7.8; 5.6 से कम पर अम्लीय वर्षा; 5.5 से कम पर दंत-क्षय; मिट्टी परीक्षण; जठर अम्ल और प्रत्याम्ल।"},
+        "rememberForExam": {"en": "Classify solutions from pH values and arrange them by H⁺ concentration.", "hi": "pH मानों से विलयनों का वर्गीकरण करें और H⁺ सांद्रता के क्रम में लगाएँ।"}
+      },
+      "equations": [], "relatedConceptIds": ["acids-and-bases", "neutralisation"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "2.3"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "chlor-alkali-process", "type": "process",
+      "title": {"en": "Chemicals from common salt", "hi": "साधारण नमक से रसायन"},
+      "sections": {
+        "whatIsIt": {"en": "Using sodium chloride as the raw material for NaOH, chlorine, hydrogen, bleaching powder, baking soda and washing soda.", "hi": "सोडियम क्लोराइड को NaOH, क्लोरीन, हाइड्रोजन, विरंजक चूर्ण, खाने के सोडे और धावन सोडे के कच्चे माल के रूप में प्रयोग करना।"},
+        "howItWorks": {"en": "Electrolysis of brine gives NaOH, Cl₂ and H₂; chlorine + slaked lime gives bleaching powder; NaCl + NH₃ + CO₂ + H₂O gives baking soda, which on heating gives Na₂CO₃ for washing soda.", "hi": "ब्राइन के विद्युत-अपघटन से NaOH, Cl₂ और H₂ बनते हैं; क्लोरीन + बुझा चूना से विरंजक चूर्ण; NaCl + NH₃ + CO₂ + H₂O से खाने का सोडा, जो गरम होकर धावन सोडे के लिए Na₂CO₃ देता है।"},
+        "whyImportant": {"en": "One cheap raw material supplies many chemicals of daily use.", "hi": "एक सस्ता कच्चा माल दैनिक उपयोग के अनेक रसायन देता है।"},
+        "realLifeUses": {"en": "Soaps, paper, water disinfection, PVC, baking, glass making, softening hard water.", "hi": "साबुन, काग़ज़, जल का रोगाणुनाशन, PVC, बेकिंग, काँच निर्माण, कठोर जल को मृदु बनाना।"},
+        "rememberForExam": {"en": "Write all five equations and two uses of each product.", "hi": "पाँचों समीकरण और प्रत्येक उत्पाद के दो उपयोग लिखें।"}
+      },
+      "equations": ["2NaCl + 2H₂O → 2NaOH + Cl₂ + H₂", "2Ca(OH)₂ + 2Cl₂ → Ca(ClO)₂ + CaCl₂ + 2H₂O", "NaCl + H₂O + CO₂ + NH₃ → NH₄Cl + NaHCO₃", "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂"], "relatedConceptIds": ["water-of-crystallisation", "acids-and-bases"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "2.4.3"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "water-of-crystallisation", "type": "concept",
+      "title": {"en": "Water of crystallisation", "hi": "क्रिस्टलन जल"},
+      "sections": {
+        "whatIsIt": {"en": "The fixed number of water molecules in one formula unit of a crystalline salt.", "hi": "किसी क्रिस्टलीय लवण की एक सूत्र इकाई में जल के अणुओं की निश्चित संख्या।"},
+        "howItWorks": {"en": "The water is part of the crystal structure; heating drives it off and changes the crystal's colour or form.", "hi": "यह जल क्रिस्टल संरचना का भाग होता है; गरम करने पर यह निकल जाता है और क्रिस्टल का रंग या रूप बदल जाता है।"},
+        "whyImportant": {"en": "It explains colour changes of blue vitriol and how Plaster of Paris sets.", "hi": "यह नीले थोथे के रंग परिवर्तन और प्लास्टर ऑफ़ पेरिस के जमने को समझाता है।"},
+        "realLifeUses": {"en": "Plaster of Paris casts and decoration; washing soda for cleaning.", "hi": "प्लास्टर ऑफ़ पेरिस के प्लास्टर और सजावट; सफ़ाई के लिए धावन सोडा।"},
+        "rememberForExam": {"en": "CuSO₄·5H₂O, Na₂CO₃·10H₂O, CaSO₄·2H₂O, FeSO₄·7H₂O, CaSO₄·½H₂O.", "hi": "CuSO₄·5H₂O, Na₂CO₃·10H₂O, CaSO₄·2H₂O, FeSO₄·7H₂O, CaSO₄·½H₂O।"}
+      },
+      "equations": ["CaSO₄·2H₂O →(373 K) CaSO₄·½H₂O + 1½H₂O"], "relatedConceptIds": ["chlor-alkali-process"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "2.4.4"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "metals-and-non-metals", "type": "concept",
+      "title": {"en": "Properties of metals and non-metals", "hi": "धातुओं और अधातुओं के गुण"},
+      "sections": {
+        "whatIsIt": {"en": "Metals are generally lustrous, malleable, ductile, sonorous conductors that form basic oxides; non-metals are generally dull, brittle, poor conductors that form acidic oxides.", "hi": "धातुएँ प्रायः चमकीली, आघातवर्धनीय, तन्य, ध्वानिक, चालक होती हैं और क्षारकीय ऑक्साइड बनाती हैं; अधातुएँ प्रायः मंद, भंगुर, कुचालक होती हैं और अम्लीय ऑक्साइड बनाती हैं।"},
+        "howItWorks": {"en": "Metals tend to lose electrons (forming cations); non-metals tend to gain or share electrons.", "hi": "धातुएँ इलेक्ट्रॉन खोने (धनायन बनाने) की प्रवृत्ति रखती हैं; अधातुएँ इलेक्ट्रॉन ग्रहण करने या साझा करने की।"},
+        "whyImportant": {"en": "Properties decide uses — and the many exceptions show why we classify by chemical behaviour too.", "hi": "गुण ही उपयोग तय करते हैं — और अनेक अपवाद दिखाते हैं कि हमें रासायनिक व्यवहार से भी वर्गीकरण क्यों करना पड़ता है।"},
+        "realLifeUses": {"en": "Copper wires, aluminium foil, gold jewellery, graphite electrodes, diamond cutting tools.", "hi": "ताँबे के तार, ऐलुमिनियम पन्नी, सोने के आभूषण, ग्रेफ़ाइट इलेक्ट्रोड, हीरे के कटाई औज़ार।"},
+        "rememberForExam": {"en": "Exceptions: Hg liquid metal, Br liquid non-metal, Na/K soft, graphite conducts, iodine lustrous.", "hi": "अपवाद: Hg द्रव धातु, Br द्रव अधातु, Na/K नरम, ग्रेफ़ाइट चालक, आयोडीन चमकीला।"}
+      },
+      "equations": [], "relatedConceptIds": ["amphoteric-oxides", "reactivity-series"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "3.1, 3.2"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "amphoteric-oxides", "type": "concept",
+      "title": {"en": "Amphoteric oxides", "hi": "उभयधर्मी ऑक्साइड"},
+      "sections": {
+        "whatIsIt": {"en": "Metal oxides that react with both acids and bases to give salt and water, such as Al₂O₃ and ZnO.", "hi": "वे धातु ऑक्साइड जो अम्ल और क्षारक दोनों से अभिक्रिया कर लवण और जल देते हैं, जैसे Al₂O₃ और ZnO।"},
+        "howItWorks": {"en": "With an acid they behave as a base; with a base they behave as an acid.", "hi": "अम्ल के साथ वे क्षारक की तरह और क्षारक के साथ अम्ल की तरह व्यवहार करते हैं।"},
+        "whyImportant": {"en": "They break the simple rule that all metal oxides are basic.", "hi": "वे इस सरल नियम को तोड़ते हैं कि सभी धातु ऑक्साइड क्षारकीय होते हैं।"},
+        "realLifeUses": {"en": "The protective Al₂O₃ layer on aluminium; zinc oxide in creams and paints.", "hi": "ऐलुमिनियम पर Al₂O₃ की रक्षक परत; क्रीमों और पेंटों में ज़िंक ऑक्साइड।"},
+        "rememberForExam": {"en": "Write both equations for Al₂O₃ (with HCl and with NaOH).", "hi": "Al₂O₃ के दोनों समीकरण लिखें (HCl और NaOH के साथ)।"}
+      },
+      "equations": ["Al₂O₃ + 6HCl → 2AlCl₃ + 3H₂O", "Al₂O₃ + 2NaOH → 2NaAlO₂ + H₂O"], "relatedConceptIds": ["metals-and-non-metals"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "3.2.1"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "extraction-of-metals", "type": "process",
+      "title": {"en": "Extraction of metals", "hi": "धातुओं का निष्कर्षण"},
+      "sections": {
+        "whatIsIt": {"en": "Obtaining metals from their ores: enrichment, conversion to oxide (roasting/calcination), reduction, and refining.", "hi": "अयस्कों से धातुएँ प्राप्त करना: समृद्धीकरण, ऑक्साइड में रूपांतरण (भर्जन/निस्तापन), अपचयन और परिष्करण।"},
+        "howItWorks": {"en": "The method depends on reactivity: heat alone for low-reactivity metals, carbon (or aluminium) reduction for the middle, electrolysis of molten compounds for the top.", "hi": "विधि क्रियाशीलता पर निर्भर है: कम क्रियाशील धातुओं के लिए केवल ऊष्मा, मध्य के लिए कार्बन (या ऐलुमिनियम) से अपचयन, शीर्ष के लिए पिघले यौगिकों का विद्युत-अपघटन।"},
+        "whyImportant": {"en": "Every metal object begins as an ore that had to be processed this way.", "hi": "धातु की हर वस्तु एक अयस्क से शुरू होती है जिसे इसी प्रकार संसाधित करना पड़ा।"},
+        "realLifeUses": {"en": "Iron and steel plants, aluminium smelters, zinc for galvanising, thermite welding of rails.", "hi": "लोहा-इस्पात संयंत्र, ऐलुमिनियम प्रगालक, यशदलेपन हेतु ज़िंक, रेल पटरियों की थर्मिट वेल्डिंग।"},
+        "rememberForExam": {"en": "Differences between roasting and calcination with equations; why carbon cannot reduce Na, Mg, Ca, Al oxides.", "hi": "समीकरण सहित भर्जन और निस्तापन में अंतर; कार्बन Na, Mg, Ca, Al के ऑक्साइडों का अपचयन क्यों नहीं कर सकता।"}
+      },
+      "equations": ["2ZnS + 3O₂ → 2ZnO + 2SO₂", "ZnCO₃ → ZnO + CO₂", "ZnO + C → Zn + CO", "2HgS + 3O₂ → 2HgO + 2SO₂"], "relatedConceptIds": ["reactivity-series", "electrolytic-refining", "oxidation-reduction"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "3.4"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "electrolytic-refining", "type": "process",
+      "title": {"en": "Electrolytic refining", "hi": "विद्युत-अपघटनी परिष्करण"},
+      "sections": {
+        "whatIsIt": {"en": "Purifying a metal by electrolysis with the impure metal as anode and pure metal as cathode in a solution of its salt.", "hi": "अशुद्ध धातु को ऐनोड और शुद्ध धातु को कैथोड बनाकर उसके लवण-विलयन में विद्युत-अपघटन द्वारा धातु को शुद्ध करना।"},
+        "howItWorks": {"en": "Metal dissolves from the anode and an equal amount of pure metal deposits on the cathode; impurities stay in solution or fall as anode mud.", "hi": "ऐनोड से धातु घुलती है और उतनी ही शुद्ध धातु कैथोड पर जमती है; अशुद्धियाँ विलयन में रहती हैं या ऐनोड-पंक के रूप में नीचे गिरती हैं।"},
+        "whyImportant": {"en": "Very pure metals are needed, for example copper for electrical wires.", "hi": "अत्यधिक शुद्ध धातुएँ चाहिए, जैसे विद्युत तारों के लिए ताँबा।"},
+        "realLifeUses": {"en": "Refining copper, zinc, tin, nickel, silver and gold; recovering precious metals from anode mud.", "hi": "कॉपर, ज़िंक, टिन, निकेल, चाँदी और सोने का परिष्करण; ऐनोड-पंक से बहुमूल्य धातुएँ निकालना।"},
+        "rememberForExam": {"en": "Copper: electrolyte acidified CuSO₄; anode Cu → Cu²⁺ + 2e⁻; cathode Cu²⁺ + 2e⁻ → Cu.", "hi": "कॉपर: विद्युत-अपघट्य अम्लीकृत CuSO₄; ऐनोड Cu → Cu²⁺ + 2e⁻; कैथोड Cu²⁺ + 2e⁻ → Cu।"}
+      },
+      "equations": ["Cu → Cu²⁺ + 2e⁻ (anode)", "Cu²⁺ + 2e⁻ → Cu (cathode)"], "relatedConceptIds": ["extraction-of-metals"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "3.4.6"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "versatile-nature-of-carbon", "type": "concept",
+      "title": {"en": "Versatile nature of carbon", "hi": "कार्बन की सर्वतोमुखी प्रकृति"},
+      "sections": {
+        "whatIsIt": {"en": "Carbon forms a huge number of compounds because of tetravalency (four bonds) and catenation (bonding with other carbon atoms into chains, branches and rings).", "hi": "चतुःसंयोजकता (चार आबंध) और शृंखलन (अन्य कार्बन परमाणुओं से शृंखला, शाखा और वलय बनाना) के कारण कार्बन बहुत बड़ी संख्या में यौगिक बनाता है।"},
+        "howItWorks": {"en": "Small carbon atoms form strong covalent bonds — single, double or triple — with carbon and with H, O, N, S and halogens.", "hi": "छोटे कार्बन परमाणु कार्बन तथा H, O, N, S और हैलोजनों के साथ प्रबल सहसंयोजी आबंध — एकल, द्वि या त्रि — बनाते हैं।"},
+        "whyImportant": {"en": "It is why carbon is the basis of all living things and of fuels, plastics and medicines.", "hi": "इसीलिए कार्बन सभी सजीवों तथा ईंधनों, प्लास्टिकों और दवाओं का आधार है।"},
+        "realLifeUses": {"en": "Fuels (LPG, CNG), fabrics, plastics, medicines and food all rely on carbon compounds.", "hi": "ईंधन (एल.पी.जी., सी.एन.जी.), वस्त्र, प्लास्टिक, दवाएँ और भोजन — सब कार्बन यौगिकों पर निर्भर हैं।"},
+        "rememberForExam": {"en": "Name the two properties; classify saturated/unsaturated; draw isomers of butane.", "hi": "दोनों गुणों के नाम लिखें; संतृप्त/असंतृप्त में वर्गीकरण करें; ब्यूटेन के समावयव बनाएँ।"}
+      },
+      "equations": [], "relatedConceptIds": ["covalent-bond", "homologous-series"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "4.2"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "functional-groups-and-nomenclature", "type": "concept",
+      "title": {"en": "Functional groups and naming carbon compounds", "hi": "प्रकार्यात्मक समूह और कार्बन यौगिकों का नामकरण"},
+      "sections": {
+        "whatIsIt": {"en": "A functional group (–Cl, –OH, –CHO, >C=O, –COOH, C=C, C≡C) gives a compound its characteristic properties and decides the prefix or suffix of its name.", "hi": "प्रकार्यात्मक समूह (–Cl, –OH, –CHO, >C=O, –COOH, C=C, C≡C) यौगिक को विशिष्ट गुण देता है और उसके नाम का उपसर्ग या प्रत्यय तय करता है।"},
+        "howItWorks": {"en": "Name = stem from the number of carbons (meth-, eth-, prop-, but-) + prefix (chloro-, bromo-) or suffix (-ol, -al, -one, -oic acid, -ene, -yne).", "hi": "नाम = कार्बनों की संख्या से मूल (मेथ-, एथ-, प्रोप-, ब्यूट-) + उपसर्ग (क्लोरो-, ब्रोमो-) या प्रत्यय (-ॉल, -ैल, -ोन, -ॉइक अम्ल, -ईन, -आइन)।"},
+        "whyImportant": {"en": "Systematic names tell anyone the exact structure of a compound.", "hi": "व्यवस्थित नाम किसी को भी यौगिक की ठीक संरचना बता देते हैं।"},
+        "realLifeUses": {"en": "Ethanol (sanitisers), propanone/acetone (nail-polish remover), ethanoic acid (vinegar).", "hi": "एथनॉल (सैनिटाइज़र), प्रोपेनोन/ऐसीटोन (नेल-पॉलिश रिमूवर), एथेनॉइक अम्ल (सिरका)।"},
+        "rememberForExam": {"en": "C₃H₆O: propanal (aldehyde) and propanone (ketone).", "hi": "C₃H₆O: प्रोपेनैल (ऐल्डिहाइड) और प्रोपेनोन (कीटोन)।"}
+      },
+      "equations": [], "relatedConceptIds": ["homologous-series"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "4.2.3, 4.2.5"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "homologous-series", "type": "concept",
+      "title": {"en": "Homologous series", "hi": "समजातीय श्रेणी"},
+      "sections": {
+        "whatIsIt": {"en": "A family of carbon compounds with the same functional group whose successive members differ by –CH₂– (14 u).", "hi": "समान प्रकार्यात्मक समूह वाले कार्बन यौगिकों का परिवार, जिसके क्रमागत सदस्य –CH₂– (14 u) से भिन्न होते हैं।"},
+        "howItWorks": {"en": "The same functional group gives the same chemical properties, while the growing chain changes physical properties gradually.", "hi": "एक ही प्रकार्यात्मक समूह से रासायनिक गुण समान रहते हैं, जबकि बढ़ती शृंखला से भौतिक गुण धीरे-धीरे बदलते हैं।"},
+        "whyImportant": {"en": "Knowing one member lets us predict the chemistry of the whole family.", "hi": "एक सदस्य को जानकर पूरे परिवार के रसायन का अनुमान लगाया जा सकता है।"},
+        "realLifeUses": {"en": "Alkanes from methane (CNG) to longer ones in petrol, kerosene and wax.", "hi": "मेथेन (सी.एन.जी.) से लेकर पेट्रोल, केरोसिन और मोम की लंबी शृंखला वाले ऐल्केन।"},
+        "rememberForExam": {"en": "Explain why there is no gradation in chemical properties but there is in physical properties.", "hi": "समझाएँ कि रासायनिक गुणों में क्रमिक परिवर्तन क्यों नहीं होता पर भौतिक गुणों में होता है।"}
+      },
+      "equations": ["Alkanes CₙH₂ₙ₊₂", "Alkenes CₙH₂ₙ", "Alkynes CₙH₂ₙ₋₂"], "relatedConceptIds": ["functional-groups-and-nomenclature", "versatile-nature-of-carbon"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "4.2.4"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "reactions-of-carbon-compounds", "type": "reaction",
+      "title": {"en": "Combustion, oxidation, addition and substitution", "hi": "दहन, ऑक्सीकरण, संकलन और प्रतिस्थापन"},
+      "sections": {
+        "whatIsIt": {"en": "The four types of reactions of carbon compounds in Class 10.", "hi": "कक्षा 10 में कार्बन यौगिकों की चार प्रकार की अभिक्रियाएँ।"},
+        "howItWorks": {"en": "Combustion: burning to CO₂ and H₂O. Oxidation: alcohol → acid with KMnO₄/K₂Cr₂O₇. Addition: H₂ adds across C=C with a Ni/Pd catalyst. Substitution: Cl replaces H in alkanes in sunlight.", "hi": "दहन: जलकर CO₂ और H₂O। ऑक्सीकरण: KMnO₄/K₂Cr₂O₇ से ऐल्कोहॉल → अम्ल। संकलन: Ni/Pd उत्प्रेरक से C=C पर H₂ जुड़ना। प्रतिस्थापन: सूर्य के प्रकाश में ऐल्केन की H का Cl से प्रतिस्थापन।"},
+        "whyImportant": {"en": "They explain fuels, making vanaspati ghee, making vinegar and preparing chlorinated compounds.", "hi": "ये ईंधनों, वनस्पति घी बनाने, सिरका बनाने और क्लोरीनीकृत यौगिक बनाने को समझाती हैं।"},
+        "realLifeUses": {"en": "Gas stoves, hydrogenation of oils, industrial chlorination.", "hi": "गैस चूल्हे, तेलों का हाइड्रोजनीकरण, औद्योगिक क्लोरीनीकरण।"},
+        "rememberForExam": {"en": "Write each equation with its condition: Ni catalyst for addition, sunlight for substitution.", "hi": "प्रत्येक समीकरण शर्त सहित लिखें: संकलन के लिए Ni उत्प्रेरक, प्रतिस्थापन के लिए सूर्य का प्रकाश।"}
+      },
+      "equations": ["CH₄ + 2O₂ → CO₂ + 2H₂O", "CH₃CH₂OH → CH₃COOH (alkaline KMnO₄ + heat)", "CH₃CH=CH₂ + H₂ →(Ni) CH₃CH₂CH₃", "CH₄ + Cl₂ →(sunlight) CH₃Cl + HCl"], "relatedConceptIds": ["ethanol-and-ethanoic-acid", "homologous-series"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "4.3"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "ethanol-and-ethanoic-acid", "type": "compound",
+      "title": {"en": "Ethanol and ethanoic acid", "hi": "एथनॉल और एथेनॉइक अम्ल"},
+      "sections": {
+        "whatIsIt": {"en": "Two important carbon compounds: ethanol (C₂H₅OH, an alcohol) and ethanoic acid (CH₃COOH, a carboxylic acid).", "hi": "दो महत्वपूर्ण कार्बन यौगिक: एथनॉल (C₂H₅OH, एक ऐल्कोहॉल) और एथेनॉइक अम्ल (CH₃COOH, एक कार्बोक्सिलिक अम्ल)।"},
+        "howItWorks": {"en": "Ethanol reacts with sodium (H₂ given off) and dehydrates to ethene with hot conc. H₂SO₄; ethanoic acid reacts with bases and carbonates, and with ethanol forms a sweet-smelling ester.", "hi": "एथनॉल सोडियम से अभिक्रिया करता है (H₂ निकलती है) और गरम सांद्र H₂SO₄ से निर्जलित होकर एथीन बनाता है; एथेनॉइक अम्ल क्षारकों और कार्बोनेटों से अभिक्रिया करता है, तथा एथनॉल के साथ मीठी गंध वाला एस्टर बनाता है।"},
+        "whyImportant": {"en": "They are common in medicines, food and industry and show how a functional group decides reactions.", "hi": "ये दवाओं, भोजन और उद्योग में आम हैं और दिखाते हैं कि प्रकार्यात्मक समूह अभिक्रियाएँ कैसे तय करता है।"},
+        "realLifeUses": {"en": "Ethanol: solvent, sanitiser, fuel additive. Ethanoic acid: vinegar, pickles. Esters: perfumes, flavours.", "hi": "एथनॉल: विलायक, सैनिटाइज़र, ईंधन योजक। एथेनॉइक अम्ल: सिरका, अचार। एस्टर: इत्र, सुगंधकारक।"},
+        "rememberForExam": {"en": "Esterification needs an acid catalyst; saponification uses NaOH; conc. H₂SO₄ is a dehydrating agent at 443 K.", "hi": "एस्टरीकरण को अम्ल उत्प्रेरक चाहिए; साबुनीकरण में NaOH; 443 K पर सांद्र H₂SO₄ निर्जलीकारक है।"}
+      },
+      "equations": ["2Na + 2CH₃CH₂OH → 2CH₃CH₂ONa + H₂", "CH₃CH₂OH →(conc. H₂SO₄, 443 K) CH₂=CH₂ + H₂O", "CH₃COOH + C₂H₅OH →(acid) CH₃COOC₂H₅ + H₂O", "CH₃COOC₂H₅ + NaOH → C₂H₅OH + CH₃COONa"], "relatedConceptIds": ["reactions-of-carbon-compounds", "soaps-and-detergents"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "4.4"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "soaps-and-detergents", "type": "concept",
+      "title": {"en": "Soaps, detergents and micelles", "hi": "साबुन, अपमार्जक और मिसेल"},
+      "sections": {
+        "whatIsIt": {"en": "Soaps are Na/K salts of long-chain carboxylic acids; detergents are mostly sodium salts of sulphonic acids. Both have a water-loving head and an oil-loving tail.", "hi": "साबुन लंबी शृंखला वाले कार्बोक्सिलिक अम्लों के Na/K लवण हैं; अपमार्जक अधिकतर सल्फ़ोनिक अम्लों के सोडियम लवण हैं। दोनों का सिर जलरागी और पूँछ तेलरागी होती है।"},
+        "howItWorks": {"en": "In water the tails trap oily dirt inside micelles while the heads face the water, so the dirt is rinsed away.", "hi": "जल में पूँछें तैलीय मैल को मिसेल के भीतर फँसा लेती हैं और सिर जल की ओर रहते हैं, जिससे मैल धुल जाता है।"},
+        "whyImportant": {"en": "It explains cleaning and why soap fails in hard water (scum) while detergents still work.", "hi": "यह सफ़ाई की क्रिया समझाता है और यह भी कि कठोर जल में साबुन क्यों विफल होता है (स्कम) जबकि अपमार्जक काम करते रहते हैं।"},
+        "realLifeUses": {"en": "Bathing soaps, shampoos, laundry detergents.", "hi": "नहाने के साबुन, शैम्पू, कपड़े धोने के अपमार्जक।"},
+        "rememberForExam": {"en": "Draw a labelled micelle; describe the soft/hard water foam practical.", "hi": "नामांकित मिसेल बनाएँ; मृदु/कठोर जल के झाग वाले प्रयोग का वर्णन करें।"}
+      },
+      "equations": [], "relatedConceptIds": ["ethanol-and-ethanoic-acid"],
+      "sources": [{"sourceId": "ncert-10-en", "section": "4.5"}], "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "periodic-classification", "type": "concept",
+      "title": {"en": "Periodic classification of elements", "hi": "तत्वों का आवर्त वर्गीकरण"},
+      "sections": {
+        "whatIsIt": {"en": "Arranging elements so that those with similar properties fall in the same group; the modern periodic table is arranged by atomic number.", "hi": "तत्वों को ऐसे व्यवस्थित करना कि समान गुणों वाले तत्व एक समूह में आएँ; आधुनिक आवर्त सारणी परमाणु क्रमांक के क्रम में है।"},
+        "howItWorks": {"en": "Elements in a group have the same number of valence electrons; across a period the number of shells stays the same while valence electrons increase.", "hi": "एक समूह के तत्वों के संयोजकता इलेक्ट्रॉन समान होते हैं; आवर्त में कोशों की संख्या वही रहती है जबकि संयोजकता इलेक्ट्रॉन बढ़ते हैं।"},
+        "whyImportant": {"en": "It lets chemists predict properties and trends such as atomic size and metallic character.", "hi": "इससे रसायनज्ञ परमाणु आकार और धात्विक गुण जैसी प्रवृत्तियों और गुणों का अनुमान लगाते हैं।"},
+        "realLifeUses": {"en": "Mendeléev predicted gallium and germanium before they were discovered.", "hi": "मेंडेलीफ़ ने गैलियम और जर्मेनियम की खोज से पहले ही उनकी भविष्यवाणी कर दी थी।"},
+        "rememberForExam": {"en": "In 2026-27 this is a formative-only topic for Class 10 — not in the year-end board exam.", "hi": "2026-27 में कक्षा 10 के लिए यह केवल रचनात्मक आकलन का विषय है — वार्षिक बोर्ड परीक्षा में नहीं।"}
+      },
+      "equations": [], "relatedConceptIds": ["electron-distribution", "valency"],
+      "sources": [{"sourceId": "cbse-sci-10-rm", "section": "Periodic Classification of Elements"}], "review": {"status": "sourceChecked"}
+    }
+  ]
+}

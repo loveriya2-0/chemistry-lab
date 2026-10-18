@@ -1,0 +1,5070 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "q-cbse-9-ch05-01",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.1",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "Which of the following is a homogeneous mixture?",
+        "hi": "निम्नलिखित में से कौन-सा समांगी मिश्रण है?"
+      },
+      "options": [
+        {
+          "en": "Sand in water",
+          "hi": "पानी में रेत"
+        },
+        {
+          "en": "Oil and water",
+          "hi": "तेल और पानी"
+        },
+        {
+          "en": "Vinegar",
+          "hi": "सिरका"
+        },
+        {
+          "en": "Smoke",
+          "hi": "धुआँ"
+        }
+      ],
+      "correctOption": 2,
+      "answer": {
+        "en": "Vinegar",
+        "hi": "सिरका"
+      },
+      "explanation": {
+        "en": "Vinegar is acetic acid dissolved in water — a solution with the same composition throughout. Sand in water, oil and water, and smoke all have visibly separate parts.",
+        "hi": "सिरका जल में घुला ऐसीटिक अम्ल है — पूरे में एकसमान संघटन वाला विलयन। पानी में रेत, तेल-पानी और धुआँ — सबके भाग अलग दिखते हैं।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch05-02",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.2",
+      "type": "numerical",
+      "marks": 2,
+      "difficulty": "easy",
+      "question": {
+        "en": "25 g of sugar is dissolved in 100 g of water. Find the mass by mass percentage of sugar in the solution.",
+        "hi": "100 g पानी में 25 g चीनी घोली गई। विलयन में चीनी का द्रव्यमान द्वारा द्रव्यमान प्रतिशत ज्ञात कीजिए।"
+      },
+      "answer": {
+        "en": "20% m/m",
+        "hi": "20% m/m"
+      },
+      "explanation": {
+        "en": "Mass of solution = 25 + 100 = 125 g. % m/m = (25 ÷ 125) × 100 = 20%.",
+        "hi": "विलयन का द्रव्यमान = 25 + 100 = 125 g। % m/m = (25 ÷ 125) × 100 = 20%।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.2.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch05-03",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.2",
+      "type": "numerical",
+      "marks": 2,
+      "difficulty": "medium",
+      "question": {
+        "en": "A saline drip is labelled 0.9% m/v sodium chloride. How much sodium chloride is present in 500 mL of it?",
+        "hi": "एक सलाइन ड्रिप पर 0.9% m/v सोडियम क्लोराइड लिखा है। इसके 500 mL में कितना सोडियम क्लोराइड है?"
+      },
+      "answer": {
+        "en": "4.5 g",
+        "hi": "4.5 g"
+      },
+      "explanation": {
+        "en": "0.9% m/v means 0.9 g in 100 mL. For 500 mL: 0.9 × 500 ÷ 100 = 4.5 g.",
+        "hi": "0.9% m/v का अर्थ है 100 mL में 0.9 g। 500 mL के लिए: 0.9 × 500 ÷ 100 = 4.5 g।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.2.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch05-04",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.2.3",
+      "type": "shortAnswer",
+      "marks": 3,
+      "difficulty": "medium",
+      "question": {
+        "en": "The solubility of potassium nitrate in water is 62 g per 100 g at 40 °C and 106 g per 100 g at 60 °C. (a) What mass is needed to saturate 50 g of water at 40 °C? (b) What happens if a saturated solution in 100 g of water at 60 °C is cooled to 40 °C?",
+        "hi": "जल में पोटैशियम नाइट्रेट की विलेयता 40 °C पर 62 g प्रति 100 g और 60 °C पर 106 g प्रति 100 g है। (a) 40 °C पर 50 g जल को संतृप्त करने के लिए कितना द्रव्यमान चाहिए? (b) 60 °C पर 100 g जल के संतृप्त विलयन को 40 °C तक ठंडा करने पर क्या होगा?"
+      },
+      "answer": {
+        "en": "(a) 31 g. (b) 106 − 62 = 44 g of potassium nitrate separates out as crystals.",
+        "hi": "(a) 31 g। (b) 106 − 62 = 44 g पोटैशियम नाइट्रेट क्रिस्टल के रूप में अलग हो जाएगा।"
+      },
+      "explanation": {
+        "en": "Solubility is per 100 g of water, so 50 g of water dissolves half of 62 g. On cooling, the solution can hold only 62 g, so the extra comes out — this is crystallisation.",
+        "hi": "विलेयता 100 g जल के लिए है, अतः 50 g जल 62 g का आधा घोलेगा। ठंडा होने पर विलयन केवल 62 g रख सकता है, अतिरिक्त बाहर आ जाता है — यही क्रिस्टलीकरण है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.2.3, Table 5.4"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch05-05",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.3",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "medium",
+      "question": {
+        "en": "Give two reasons why crystallisation is a better method than evaporation for obtaining pure copper sulphate.",
+        "hi": "शुद्ध कॉपर सल्फ़ेट प्राप्त करने के लिए क्रिस्टलीकरण, वाष्पन से बेहतर विधि क्यों है? दो कारण दीजिए।"
+      },
+      "answer": {
+        "en": "(1) On evaporation to dryness, soluble impurities remain mixed with the solid; in crystallisation they stay in the solution. (2) Some solids decompose or lose water of crystallisation on strong heating.",
+        "hi": "(1) पूर्ण वाष्पन में घुलनशील अशुद्धियाँ ठोस में मिली रह जाती हैं; क्रिस्टलीकरण में वे विलयन में रहती हैं। (2) कुछ ठोस तेज़ गरम करने पर अपघटित हो जाते हैं या क्रिस्टलन जल खो देते हैं।"
+      },
+      "explanation": {
+        "en": "Crystallisation separates the pure substance on cooling a saturated solution, leaving impurities behind.",
+        "hi": "क्रिस्टलीकरण संतृप्त विलयन को ठंडा करके शुद्ध पदार्थ को अलग करता है और अशुद्धियाँ पीछे रह जाती हैं।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.3.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch05-06",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.3.2",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "medium",
+      "question": {
+        "en": "Boiling points: water 100 °C, acetone 56 °C, alcohol 78 °C, benzene 80 °C. Which pair can be separated by simple distillation?",
+        "hi": "क्वथनांक: जल 100 °C, ऐसीटोन 56 °C, ऐल्कोहॉल 78 °C, बेंज़ीन 80 °C। किस युग्म को सरल आसवन से अलग किया जा सकता है?"
+      },
+      "options": [
+        {
+          "en": "Alcohol and benzene",
+          "hi": "ऐल्कोहॉल और बेंज़ीन"
+        },
+        {
+          "en": "Water and acetone",
+          "hi": "जल और ऐसीटोन"
+        },
+        {
+          "en": "Alcohol and water",
+          "hi": "ऐल्कोहॉल और जल"
+        },
+        {
+          "en": "Benzene and alcohol mixed with water",
+          "hi": "जल मिला बेंज़ीन और ऐल्कोहॉल"
+        }
+      ],
+      "correctOption": 1,
+      "answer": {
+        "en": "Water and acetone",
+        "hi": "जल और ऐसीटोन"
+      },
+      "explanation": {
+        "en": "Simple distillation needs a boiling-point difference of about 25 °C or more: water and acetone differ by 44 °C. Alcohol and benzene differ by only 2 °C; alcohol and water by 22 °C — these need fractional distillation.",
+        "hi": "सरल आसवन के लिए लगभग 25 °C या अधिक का अंतर चाहिए: जल और ऐसीटोन में 44 °C का अंतर है। ऐल्कोहॉल और बेंज़ीन में केवल 2 °C; ऐल्कोहॉल और जल में 22 °C — इनके लिए प्रभाजी आसवन चाहिए।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.3.2, Table 5.5"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch05-07",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.3.3",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "easy",
+      "question": {
+        "en": "In paper chromatography, why is the starting line drawn with a pencil, and why must the solvent level be below the ink spot?",
+        "hi": "कागज़ वर्णलेखन में आरंभिक रेखा पेंसिल से क्यों खींची जाती है, और विलायक का स्तर स्याही के धब्बे से नीचे क्यों होना चाहिए?"
+      },
+      "answer": {
+        "en": "Pencil graphite does not dissolve in the solvent, so the line does not run. If the spot were below the solvent level, the ink would dissolve into the solvent instead of moving up the paper.",
+        "hi": "पेंसिल का ग्रेफ़ाइट विलायक में नहीं घुलता, इसलिए रेखा नहीं फैलती। धब्बा विलायक-स्तर से नीचे हो तो स्याही कागज़ पर चढ़ने के बजाय विलायक में घुल जाएगी।"
+      },
+      "explanation": {
+        "en": "The solvent must carry the components up the paper so that they separate by their different speeds.",
+        "hi": "विलायक को घटकों को कागज़ पर ऊपर ले जाना होता है ताकि वे अपनी भिन्न गतियों से अलग हो सकें।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.3.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch05-08",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.4.2",
+      "type": "shortAnswer",
+      "marks": 3,
+      "difficulty": "medium",
+      "question": {
+        "en": "You are given a mixture of sand, common salt and naphthalene. Write the sequence of steps to separate all three, naming each technique.",
+        "hi": "आपको रेत, साधारण नमक और नैफ़्थलीन का मिश्रण दिया गया है। तीनों को अलग करने के चरण क्रम से लिखिए और प्रत्येक तकनीक का नाम बताइए।"
+      },
+      "answer": {
+        "en": "1. Sublimation: heat the mixture under an inverted funnel — naphthalene sublimes and collects on the funnel. 2. Add water to the remainder and stir — salt dissolves; filter to remove sand (filtration). 3. Evaporate (or crystallise) the filtrate to get salt.",
+        "hi": "1. ऊर्ध्वपातन: मिश्रण को उलटी कीप के नीचे गरम करें — नैफ़्थलीन ऊर्ध्वपातित होकर कीप पर जम जाती है। 2. शेष में जल डालकर हिलाएँ — नमक घुल जाता है; रेत अलग करने के लिए छानें (निस्यंदन)। 3. निस्यंद का वाष्पन (या क्रिस्टलीकरण) करके नमक प्राप्त करें।"
+      },
+      "explanation": {
+        "en": "Each step uses one property: naphthalene sublimes, salt dissolves in water, sand is insoluble.",
+        "hi": "प्रत्येक चरण एक गुण का उपयोग करता है: नैफ़्थलीन ऊर्ध्वपातित होती है, नमक जल में घुलता है, रेत अघुलनशील है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.4.2, Revise Q11"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch05-09",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.5",
+      "type": "assertionReason",
+      "marks": 1,
+      "difficulty": "medium",
+      "question": {
+        "en": "Assertion (A): A solution of copper sulphate in water does not show the Tyndall effect.\nReason (R): The particles of a true solution are smaller than 1 nm and cannot scatter light.",
+        "hi": "अभिकथन (A): जल में कॉपर सल्फ़ेट का विलयन टिंडल प्रभाव नहीं दिखाता।\nकारण (R): वास्तविक विलयन के कण 1 nm से छोटे होते हैं और प्रकाश का प्रकीर्णन नहीं कर सकते।"
+      },
+      "options": [
+        {
+          "en": "Both A and R are true, and R is the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।"
+        },
+        {
+          "en": "Both A and R are true, but R is not the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, पर R, A की सही व्याख्या नहीं है।"
+        },
+        {
+          "en": "A is true, but R is false.",
+          "hi": "A सत्य है, पर R असत्य है।"
+        },
+        {
+          "en": "A is false, but R is true.",
+          "hi": "A असत्य है, पर R सत्य है।"
+        }
+      ],
+      "correctOption": 0,
+      "answer": {
+        "en": "Both A and R are true, and R is the correct explanation of A.",
+        "hi": "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।"
+      },
+      "explanation": {
+        "en": "Copper sulphate forms a true solution. Its particles are too small to scatter light, which is exactly why the beam is not visible.",
+        "hi": "कॉपर सल्फ़ेट वास्तविक विलयन बनाता है। इसके कण प्रकाश बिखेरने के लिए बहुत छोटे हैं, इसीलिए किरण दिखाई नहीं देती।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.5"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch05-10",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.4.4",
+      "type": "longAnswer",
+      "marks": 5,
+      "difficulty": "medium",
+      "question": {
+        "en": "Compare a true solution, a colloid and a suspension on the basis of (a) nature, (b) particle size, (c) visibility of particles, (d) separation by filtration, (e) settling and (f) Tyndall effect. Give one example of each.",
+        "hi": "वास्तविक विलयन, कोलॉइड और निलंबन की तुलना (a) प्रकृति, (b) कण आकार, (c) कणों की दृश्यता, (d) निस्यंदन द्वारा पृथक्करण, (e) नीचे बैठना और (f) टिंडल प्रभाव के आधार पर कीजिए। प्रत्येक का एक उदाहरण दीजिए।"
+      },
+      "answer": {
+        "en": "Solution: homogeneous; < 1 nm; not visible; not separated by filtration; does not settle; no Tyndall effect; e.g. salt in water.\nColloid: appears homogeneous but is heterogeneous; 1–1000 nm; not visible to the naked eye; passes through filter paper; does not settle; shows Tyndall effect; e.g. milk.\nSuspension: heterogeneous; > 1000 nm; visible; separated by filtration; settles on standing; shows Tyndall effect; e.g. sand in water.",
+        "hi": "विलयन: समांगी; < 1 nm; कण नहीं दिखते; छनकर अलग नहीं होते; नीचे नहीं बैठते; टिंडल प्रभाव नहीं; उदा. पानी में नमक।\nकोलॉइड: समांगी दिखता पर विषमांगी; 1–1000 nm; आँखों से नहीं दिखते; फ़िल्टर पेपर से निकल जाते हैं; नीचे नहीं बैठते; टिंडल प्रभाव दिखाता है; उदा. दूध।\nनिलंबन: विषमांगी; > 1000 nm; दिखते हैं; छनकर अलग होते हैं; स्थिर रखने पर बैठ जाते हैं; टिंडल प्रभाव दिखाता है; उदा. पानी में रेत।"
+      },
+      "explanation": {
+        "en": "All six differences follow from particle size.",
+        "hi": "सभी छह अंतर कणों के आकार से उत्पन्न होते हैं।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.4.3–5.5, Table 5.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch05-11",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.4.3",
+      "type": "caseBased",
+      "marks": 4,
+      "difficulty": "medium",
+      "question": {
+        "en": "A village gets muddy water from a pond. Even after filtering through cloth, the water stays cloudy. A health worker adds a little powdered alum, stirs, and leaves it for some time; a layer of mud settles at the bottom.\n(a) What type of mixture is muddy water? (1)\n(b) Name the process caused by alum. (1)\n(c) Why did cloth filtration not clear the water, and how is the clear water finally separated from the settled mud? (2)",
+        "hi": "एक गाँव को तालाब से गंदला पानी मिलता है। कपड़े से छानने पर भी पानी धुँधला रहता है। एक स्वास्थ्यकर्मी थोड़ी पिसी फिटकरी डालकर हिलाता है और कुछ देर छोड़ देता है; तली में मिट्टी की परत बैठ जाती है।\n(a) गंदला पानी किस प्रकार का मिश्रण है? (1)\n(b) फिटकरी से होने वाले प्रक्रम का नाम बताइए। (1)\n(c) कपड़े से छानने पर पानी साफ़ क्यों नहीं हुआ, और साफ़ पानी को बैठी मिट्टी से अंततः कैसे अलग करते हैं? (2)"
+      },
+      "answer": {
+        "en": "(a) A suspension (heterogeneous). (b) Coagulation — alum is the coagulant (followed by sedimentation). (c) The very fine particles pass through the cloth. After coagulation and settling, the clear water is poured off (decantation) or filtered.",
+        "hi": "(a) निलंबन (विषमांगी)। (b) स्कंदन — फिटकरी स्कंदक है (उसके बाद अवसादन)। (c) बहुत बारीक कण कपड़े से निकल जाते हैं। स्कंदन और बैठने के बाद साफ़ पानी को उड़ेलकर (निथारना) या छानकर अलग करते हैं।"
+      },
+      "explanation": {
+        "en": "Alum makes fine particles clump into heavier lumps that settle under gravity.",
+        "hi": "फिटकरी बारीक कणों को भारी गुच्छों में जोड़ देती है जो गुरुत्व से नीचे बैठ जाते हैं।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.4.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch05-12",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.4",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "easy",
+      "question": {
+        "en": "Mustard oil and water are put in a separating funnel. Which layer forms on top and why? Which layer is drained out first?",
+        "hi": "सरसों का तेल और पानी पृथक्कारी कीप में डाले गए। कौन-सी परत ऊपर बनेगी और क्यों? कौन-सी परत पहले निकाली जाएगी?"
+      },
+      "answer": {
+        "en": "Mustard oil forms the upper layer because it is less dense than water. Water, the lower layer, is drained out first through the stopcock.",
+        "hi": "सरसों का तेल ऊपरी परत बनाता है क्योंकि उसका घनत्व जल से कम है। निचली परत, जल, स्टॉपकॉक से पहले निकाली जाती है।"
+      },
+      "explanation": {
+        "en": "Immiscible liquids arrange by density; the denser liquid sits at the bottom near the stopcock.",
+        "hi": "अमिश्रणीय द्रव घनत्व के अनुसार व्यवस्थित होते हैं; अधिक घना द्रव स्टॉपकॉक के पास नीचे रहता है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.4.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch08-01",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.2.2",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "In the gold foil experiment, most α-particles passed through the foil undeflected. This showed that:",
+        "hi": "स्वर्ण पर्णिका प्रयोग में अधिकांश α-कण पन्नी से बिना विक्षेपित हुए निकल गए। इससे पता चला कि:"
+      },
+      "options": [
+        {
+          "en": "the nucleus is very large",
+          "hi": "नाभिक बहुत बड़ा है"
+        },
+        {
+          "en": "most of the atom is empty space",
+          "hi": "परमाणु का अधिकांश भाग रिक्त है"
+        },
+        {
+          "en": "electrons are present in all atoms",
+          "hi": "सभी परमाणुओं में इलेक्ट्रॉन होते हैं"
+        },
+        {
+          "en": "the nucleus contains neutrons",
+          "hi": "नाभिक में न्यूट्रॉन होते हैं"
+        }
+      ],
+      "correctOption": 1,
+      "answer": {
+        "en": "Most of the atom is empty space.",
+        "hi": "परमाणु का अधिकांश भाग रिक्त है।"
+      },
+      "explanation": {
+        "en": "Only a tiny fraction of α-particles hit the small nucleus; the rest passed straight through empty space.",
+        "hi": "केवल बहुत थोड़े α-कण छोटे नाभिक से टकराए; बाकी रिक्त स्थान से सीधे निकल गए।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.2.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch08-02",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.5",
+      "type": "numerical",
+      "marks": 2,
+      "difficulty": "easy",
+      "question": {
+        "en": "An atom has atomic number 26 and 56 nucleons. Find its numbers of protons, electrons and neutrons.",
+        "hi": "एक परमाणु का परमाणु क्रमांक 26 है और उसमें 56 न्यूक्लिऑन हैं। उसके प्रोटॉन, इलेक्ट्रॉन और न्यूट्रॉन की संख्या ज्ञात कीजिए।"
+      },
+      "answer": {
+        "en": "Protons = 26, electrons = 26, neutrons = 30.",
+        "hi": "प्रोटॉन = 26, इलेक्ट्रॉन = 26, न्यूट्रॉन = 30।"
+      },
+      "explanation": {
+        "en": "Z = protons = electrons (neutral atom) = 26; neutrons = A − Z = 56 − 26 = 30.",
+        "hi": "Z = प्रोटॉन = इलेक्ट्रॉन (उदासीन परमाणु) = 26; न्यूट्रॉन = A − Z = 56 − 26 = 30।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.5, 8.6"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch08-03",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.7",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "easy",
+      "question": {
+        "en": "Write the electronic configurations of magnesium (Z = 12) and sulphur (Z = 16) and state the number of valence electrons in each.",
+        "hi": "मैग्नीशियम (Z = 12) और सल्फ़र (Z = 16) के इलेक्ट्रॉनिक विन्यास लिखिए और प्रत्येक में संयोजकता इलेक्ट्रॉनों की संख्या बताइए।"
+      },
+      "answer": {
+        "en": "Mg: 2, 8, 2 — 2 valence electrons. S: 2, 8, 6 — 6 valence electrons.",
+        "hi": "Mg: 2, 8, 2 — 2 संयोजकता इलेक्ट्रॉन। S: 2, 8, 6 — 6 संयोजकता इलेक्ट्रॉन।"
+      },
+      "explanation": {
+        "en": "Fill K (2) then L (8) then M; the electrons in the outermost shell are the valence electrons.",
+        "hi": "पहले K (2), फिर L (8), फिर M भरें; सबसे बाहरी कोश के इलेक्ट्रॉन संयोजकता इलेक्ट्रॉन हैं।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.7, Table 8.4"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch08-04",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.8",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "medium",
+      "question": {
+        "en": "The valency of an element with electronic configuration 2, 8, 7 is:",
+        "hi": "इलेक्ट्रॉनिक विन्यास 2, 8, 7 वाले तत्व की संयोजकता है:"
+      },
+      "options": [
+        {
+          "en": "7",
+          "hi": "7"
+        },
+        {
+          "en": "1",
+          "hi": "1"
+        },
+        {
+          "en": "8",
+          "hi": "8"
+        },
+        {
+          "en": "17",
+          "hi": "17"
+        }
+      ],
+      "correctOption": 1,
+      "answer": {
+        "en": "1",
+        "hi": "1"
+      },
+      "explanation": {
+        "en": "With 7 valence electrons the atom gains 1 electron to complete its octet, so valency = 8 − 7 = 1 (this is chlorine).",
+        "hi": "7 संयोजकता इलेक्ट्रॉन वाला परमाणु अष्टक पूरा करने के लिए 1 इलेक्ट्रॉन ग्रहण करता है, अतः संयोजकता = 8 − 7 = 1 (यह क्लोरीन है)।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.8"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch08-05",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.9",
+      "type": "numerical",
+      "marks": 3,
+      "difficulty": "medium",
+      "question": {
+        "en": "Bromine occurs as ⁷⁹Br (49.7%) and ⁸¹Br (50.3%). Calculate the average atomic mass of bromine.",
+        "hi": "ब्रोमीन ⁷⁹Br (49.7%) और ⁸¹Br (50.3%) के रूप में पाया जाता है। ब्रोमीन का औसत परमाणु द्रव्यमान ज्ञात कीजिए।"
+      },
+      "answer": {
+        "en": "80.006 u ≈ 80 u",
+        "hi": "80.006 u ≈ 80 u"
+      },
+      "explanation": {
+        "en": "Weighted average = 79 × 49.7/100 + 81 × 50.3/100 = 39.263 + 40.743 = 80.006 u, i.e. about 80 u.",
+        "hi": "भारित औसत = 79 × 49.7/100 + 81 × 50.3/100 = 39.263 + 40.743 = 80.006 u, अर्थात् लगभग 80 u।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.9.1, Pause and Ponder 18"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch08-06",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.9.2",
+      "type": "shortAnswer",
+      "marks": 3,
+      "difficulty": "medium",
+      "question": {
+        "en": "Three species have: X — 18 protons, 19 neutrons; Y — 17 protons, 18 neutrons; Z — 17 protons, 20 neutrons. State the relationship between (a) Y and Z, (b) X and Z, giving reasons.",
+        "hi": "तीन स्पीशीज़ में: X — 18 प्रोटॉन, 19 न्यूट्रॉन; Y — 17 प्रोटॉन, 18 न्यूट्रॉन; Z — 17 प्रोटॉन, 20 न्यूट्रॉन। कारण सहित (a) Y और Z, (b) X और Z के बीच संबंध बताइए।"
+      },
+      "answer": {
+        "en": "(a) Y and Z are isotopes: same atomic number (17), different mass numbers (35 and 37). (b) X and Z are isobars: same mass number (37), different atomic numbers (18 and 17).",
+        "hi": "(a) Y और Z समस्थानिक हैं: परमाणु क्रमांक समान (17), द्रव्यमान संख्याएँ भिन्न (35 और 37)। (b) X और Z समभारिक हैं: द्रव्यमान संख्या समान (37), परमाणु क्रमांक भिन्न (18 और 17)।"
+      },
+      "explanation": {
+        "en": "Mass number = p + n: X = 37, Y = 35, Z = 37.",
+        "hi": "द्रव्यमान संख्या = p + n: X = 37, Y = 35, Z = 37।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.9, Revise Q3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch08-07",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.2.3",
+      "type": "assertionReason",
+      "marks": 1,
+      "difficulty": "medium",
+      "question": {
+        "en": "Assertion (A): Rutherford's model could not explain the stability of the atom.\nReason (R): An electron revolving in a circular orbit is accelerating and should lose energy and fall into the nucleus.",
+        "hi": "अभिकथन (A): रदरफ़ोर्ड का मॉडल परमाणु के स्थायित्व को नहीं समझा सका।\nकारण (R): वृत्ताकार कक्षा में घूमता इलेक्ट्रॉन त्वरित होता है और उसे ऊर्जा खोकर नाभिक में गिर जाना चाहिए।"
+      },
+      "options": [
+        {
+          "en": "Both A and R are true, and R is the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।"
+        },
+        {
+          "en": "Both A and R are true, but R is not the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, पर R, A की सही व्याख्या नहीं है।"
+        },
+        {
+          "en": "A is true, but R is false.",
+          "hi": "A सत्य है, पर R असत्य है।"
+        },
+        {
+          "en": "A is false, but R is true.",
+          "hi": "A असत्य है, पर R सत्य है।"
+        }
+      ],
+      "correctOption": 0,
+      "answer": {
+        "en": "Both A and R are true, and R is the correct explanation of A.",
+        "hi": "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।"
+      },
+      "explanation": {
+        "en": "This energy loss would make atoms collapse; Bohr removed the problem by postulating stationary orbits in which electrons do not lose energy.",
+        "hi": "इस ऊर्जा-ह्रास से परमाणु नष्ट हो जाते; बोर ने स्थिर कक्षाओं की अभिधारणा देकर समस्या दूर की, जिनमें इलेक्ट्रॉन ऊर्जा नहीं खोते।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.2.2B, 8.2.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch08-08",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.2",
+      "type": "longAnswer",
+      "marks": 5,
+      "difficulty": "hard",
+      "question": {
+        "en": "(a) Describe Thomson's model of the atom. (b) List three observations of the gold foil experiment and the conclusion drawn from each. (c) State one limitation of Rutherford's model and how Bohr addressed it.",
+        "hi": "(a) टॉमसन के परमाणु मॉडल का वर्णन कीजिए। (b) स्वर्ण पर्णिका प्रयोग के तीन प्रेक्षण और प्रत्येक से निकला निष्कर्ष लिखिए। (c) रदरफ़ोर्ड मॉडल की एक सीमा बताइए और बोर ने उसे कैसे दूर किया।"
+      },
+      "answer": {
+        "en": "(a) A sphere of positive charge with electrons spread through it (like seeds in a watermelon); overall neutral. (b) Most α-particles passed straight → atom is mostly empty; some deflected at large angles → positive charge concentrated in a small region; very few bounced back → a tiny, dense nucleus with most of the mass. (c) A revolving electron should lose energy and fall into the nucleus, so atoms would be unstable. Bohr proposed fixed orbits (stationary states) in which electrons do not lose energy.",
+        "hi": "(a) धनावेश का एक गोला जिसमें इलेक्ट्रॉन फैले हैं (तरबूज़ में बीज की तरह); कुल मिलाकर उदासीन। (b) अधिकांश α-कण सीधे निकले → परमाणु अधिकांशतः रिक्त; कुछ बड़े कोण पर विक्षेपित → धनावेश छोटे क्षेत्र में केंद्रित; बहुत थोड़े लौट आए → अधिकांश द्रव्यमान वाला सूक्ष्म, सघन नाभिक। (c) घूमते इलेक्ट्रॉन को ऊर्जा खोकर नाभिक में गिरना चाहिए, अतः परमाणु अस्थायी होते। बोर ने निश्चित कक्षाएँ (स्थिर अवस्थाएँ) प्रस्तावित कीं जिनमें इलेक्ट्रॉन ऊर्जा नहीं खोते।"
+      },
+      "explanation": {
+        "en": "Each model kept what worked and fixed what the new evidence contradicted.",
+        "hi": "हर मॉडल ने सही बातें बनाए रखीं और नए प्रमाणों के विरुद्ध बातों को सुधारा।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.2–8.2.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch08-09",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.4",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "easy",
+      "question": {
+        "en": "Write the symbols of iron, sodium, potassium and silver, and name the language their symbols come from.",
+        "hi": "लोहा, सोडियम, पोटैशियम और चाँदी के प्रतीक लिखिए और बताइए कि उनके प्रतीक किस भाषा से आए हैं।"
+      },
+      "answer": {
+        "en": "Fe (ferrum), Na (natrium), K (kalium), Ag (argentum) — all from Latin names.",
+        "hi": "Fe (फ़ेरम), Na (नेट्रियम), K (कैलियम), Ag (अर्जेंटम) — सभी लैटिन नामों से।"
+      },
+      "explanation": {
+        "en": "Berzelius proposed symbols from Latin names; IUPAC approves them today.",
+        "hi": "बर्ज़ीलियस ने लैटिन नामों से प्रतीक प्रस्तावित किए; आज IUPAC उन्हें स्वीकृत करता है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.4, Table 8.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch08-10",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.5",
+      "type": "caseBased",
+      "marks": 4,
+      "difficulty": "medium",
+      "question": {
+        "en": "Element X has mass number 35 and 18 neutrons.\n(a) How many protons and electrons does X have? (1)\n(b) Identify X and write its electronic configuration. (1)\n(c) What is its valency? If two more neutrons are added to its nucleus, what is the new mass number and how is the new atom related to X? (2)",
+        "hi": "तत्व X की द्रव्यमान संख्या 35 है और उसमें 18 न्यूट्रॉन हैं।\n(a) X में कितने प्रोटॉन और इलेक्ट्रॉन हैं? (1)\n(b) X को पहचानिए और उसका इलेक्ट्रॉनिक विन्यास लिखिए। (1)\n(c) इसकी संयोजकता क्या है? यदि इसके नाभिक में दो न्यूट्रॉन और जोड़ दिए जाएँ, तो नई द्रव्यमान संख्या क्या होगी और नया परमाणु X से कैसे संबंधित होगा? (2)"
+      },
+      "answer": {
+        "en": "(a) 17 protons, 17 electrons. (b) Chlorine; 2, 8, 7. (c) Valency 1; new mass number 37; it is an isotope of X.",
+        "hi": "(a) 17 प्रोटॉन, 17 इलेक्ट्रॉन। (b) क्लोरीन; 2, 8, 7। (c) संयोजकता 1; नई द्रव्यमान संख्या 37; यह X का समस्थानिक है।"
+      },
+      "explanation": {
+        "en": "Z = A − n = 35 − 18 = 17. Adding neutrons changes A but not Z, so the element stays the same — an isotope.",
+        "hi": "Z = A − n = 35 − 18 = 17। न्यूट्रॉन जोड़ने से A बदलता है, Z नहीं, अतः तत्व वही रहता है — समस्थानिक।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.5–8.9, Revise Q14"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch08-11",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.3",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "Which subatomic particle was discovered by James Chadwick in 1932?",
+        "hi": "1932 में जेम्स चैडविक ने किस उपपरमाण्विक कण की खोज की?"
+      },
+      "options": [
+        {
+          "en": "Electron",
+          "hi": "इलेक्ट्रॉन"
+        },
+        {
+          "en": "Proton",
+          "hi": "प्रोटॉन"
+        },
+        {
+          "en": "Neutron",
+          "hi": "न्यूट्रॉन"
+        },
+        {
+          "en": "Nucleus",
+          "hi": "नाभिक"
+        }
+      ],
+      "correctOption": 2,
+      "answer": {
+        "en": "Neutron",
+        "hi": "न्यूट्रॉन"
+      },
+      "explanation": {
+        "en": "Chadwick found an uncharged particle with mass about equal to a proton — the neutron.",
+        "hi": "चैडविक ने लगभग प्रोटॉन जितने द्रव्यमान वाला आवेशरहित कण खोजा — न्यूट्रॉन।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.3.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch08-12",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.9",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "medium",
+      "question": {
+        "en": "Why do isotopes of an element have the same chemical properties? Give two uses of isotopes.",
+        "hi": "किसी तत्व के समस्थानिकों के रासायनिक गुण समान क्यों होते हैं? समस्थानिकों के दो उपयोग लिखिए।"
+      },
+      "answer": {
+        "en": "They have the same number of electrons and the same electronic configuration, which decides chemical behaviour. Uses (any two): U-235 as nuclear fuel; Co-60 in cancer treatment; I-131 for goitre/thyroid cancer; C-14 for dating fossils.",
+        "hi": "इनमें इलेक्ट्रॉनों की संख्या और इलेक्ट्रॉनिक विन्यास समान होते हैं, जो रासायनिक व्यवहार तय करते हैं। उपयोग (कोई दो): U-235 नाभिकीय ईंधन; Co-60 कैंसर उपचार; I-131 घेंघा/थायरॉइड कैंसर; C-14 जीवाश्मों की आयु।"
+      },
+      "explanation": {
+        "en": "Only the number of neutrons differs, which affects mass and physical properties, not chemistry.",
+        "hi": "केवल न्यूट्रॉनों की संख्या भिन्न होती है, जो द्रव्यमान और भौतिक गुणों को प्रभावित करती है, रसायन को नहीं।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.9.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch09-01",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.1",
+      "type": "numerical",
+      "marks": 2,
+      "difficulty": "easy",
+      "question": {
+        "en": "5.3 g of sodium carbonate reacts with 6.0 g of acetic acid to give 2.2 g of carbon dioxide, 0.9 g of water and 8.2 g of sodium acetate. Show that the law of conservation of mass is obeyed.",
+        "hi": "5.3 g सोडियम कार्बोनेट, 6.0 g ऐसीटिक अम्ल से अभिक्रिया कर 2.2 g कार्बन डाइऑक्साइड, 0.9 g जल और 8.2 g सोडियम ऐसीटेट देता है। दर्शाइए कि द्रव्यमान संरक्षण नियम का पालन होता है।"
+      },
+      "answer": {
+        "en": "Reactants: 5.3 + 6.0 = 11.3 g. Products: 2.2 + 0.9 + 8.2 = 11.3 g. Equal, so the law is obeyed.",
+        "hi": "अभिकारक: 5.3 + 6.0 = 11.3 g। उत्पाद: 2.2 + 0.9 + 8.2 = 11.3 g। दोनों बराबर हैं, अतः नियम का पालन होता है।"
+      },
+      "explanation": {
+        "en": "Total mass before the reaction equals total mass after it.",
+        "hi": "अभिक्रिया से पहले का कुल द्रव्यमान बाद के कुल द्रव्यमान के बराबर है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.1, Revise Q11"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch09-02",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.2",
+      "type": "numerical",
+      "marks": 2,
+      "difficulty": "easy",
+      "question": {
+        "en": "Carbon monoxide contains carbon and oxygen in the mass ratio 3 : 4. How much oxygen combines with 9 g of carbon to form carbon monoxide?",
+        "hi": "कार्बन मोनोऑक्साइड में कार्बन और ऑक्सीजन का द्रव्यमान अनुपात 3 : 4 है। कार्बन मोनोऑक्साइड बनाने के लिए 9 g कार्बन से कितनी ऑक्सीजन जुड़ेगी?"
+      },
+      "answer": {
+        "en": "12 g",
+        "hi": "12 g"
+      },
+      "explanation": {
+        "en": "Oxygen = (4 ÷ 3) × 9 = 12 g, by the law of constant proportions.",
+        "hi": "स्थिर अनुपात के नियम से ऑक्सीजन = (4 ÷ 3) × 9 = 12 g।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.2, Pause and Ponder 4"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch09-03",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.3",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "medium",
+      "question": {
+        "en": "Which postulate of Dalton's atomic theory explains (a) the law of conservation of mass and (b) the law of constant proportions?",
+        "hi": "डाल्टन के परमाणु सिद्धांत की कौन-सी अभिधारणा (a) द्रव्यमान संरक्षण के नियम और (b) स्थिर अनुपात के नियम को समझाती है?"
+      },
+      "answer": {
+        "en": "(a) Atoms are indivisible and are neither created nor destroyed in a chemical reaction. (b) The relative number and kinds of atoms in a given compound are constant.",
+        "hi": "(a) परमाणु अविभाज्य हैं और रासायनिक अभिक्रिया में न बनते हैं, न नष्ट होते हैं। (b) किसी यौगिक में परमाणुओं की आपेक्षिक संख्या और प्रकार स्थिर रहते हैं।"
+      },
+      "explanation": {
+        "en": "If atoms only rearrange, total mass stays the same; if a compound always has the same atoms in the same numbers, its mass ratio is fixed.",
+        "hi": "यदि परमाणु केवल पुनर्व्यवस्थित होते हैं तो कुल द्रव्यमान वही रहता है; यदि यौगिक में सदैव समान परमाणु समान संख्या में हैं तो उसका द्रव्यमान अनुपात निश्चित है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch09-04",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.5",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "The correct formula of aluminium hydroxide is:",
+        "hi": "ऐलुमिनियम हाइड्रॉक्साइड का सही सूत्र है:"
+      },
+      "options": [
+        {
+          "en": "AlOH₃",
+          "hi": "AlOH₃"
+        },
+        {
+          "en": "Al(OH)₃",
+          "hi": "Al(OH)₃"
+        },
+        {
+          "en": "Al₃OH",
+          "hi": "Al₃OH"
+        },
+        {
+          "en": "Al₂(OH)₃",
+          "hi": "Al₂(OH)₃"
+        }
+      ],
+      "correctOption": 1,
+      "answer": {
+        "en": "Al(OH)₃",
+        "hi": "Al(OH)₃"
+      },
+      "explanation": {
+        "en": "Al³⁺ needs three OH⁻ ions; the bracket shows that the 3 applies to the whole hydroxide group.",
+        "hi": "Al³⁺ को तीन OH⁻ आयन चाहिए; कोष्ठक दिखाता है कि 3 पूरे हाइड्रॉक्साइड समूह पर लागू है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.5.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch09-05",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.5",
+      "type": "shortAnswer",
+      "marks": 3,
+      "difficulty": "medium",
+      "question": {
+        "en": "Write the formulae of the compounds formed by: (a) Fe³⁺ and OH⁻, (b) K⁺ and CO₃²⁻, (c) NH₄⁺ and Cl⁻, (d) Al³⁺ and CO₃²⁻, (e) Ca²⁺ and Br⁻, (f) K⁺ and SO₄²⁻.",
+        "hi": "इनसे बने यौगिकों के सूत्र लिखिए: (a) Fe³⁺ और OH⁻, (b) K⁺ और CO₃²⁻, (c) NH₄⁺ और Cl⁻, (d) Al³⁺ और CO₃²⁻, (e) Ca²⁺ और Br⁻, (f) K⁺ और SO₄²⁻।"
+      },
+      "answer": {
+        "en": "(a) Fe(OH)₃ (b) K₂CO₃ (c) NH₄Cl (d) Al₂(CO₃)₃ (e) CaBr₂ (f) K₂SO₄",
+        "hi": "(a) Fe(OH)₃ (b) K₂CO₃ (c) NH₄Cl (d) Al₂(CO₃)₃ (e) CaBr₂ (f) K₂SO₄"
+      },
+      "explanation": {
+        "en": "Criss-cross the charge numbers so that total positive charge equals total negative charge; bracket polyatomic ions used more than once.",
+        "hi": "आवेश की संख्याओं का क्रॉस-गुणन करें ताकि कुल धनावेश कुल ऋणावेश के बराबर हो; एक से अधिक बार प्रयुक्त बहुपरमाणुक आयनों को कोष्ठक में रखें।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.5.2, Revise Q6"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch09-06",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.4.2",
+      "type": "shortAnswer",
+      "marks": 3,
+      "difficulty": "medium",
+      "question": {
+        "en": "Element A has one electron in its third shell and element B has six electrons in its second shell. (a) What ions do A and B form? (b) What type of bond forms between them? (c) Write the formula of the compound.",
+        "hi": "तत्व A के तीसरे कोश में एक इलेक्ट्रॉन है और तत्व B के दूसरे कोश में छह इलेक्ट्रॉन हैं। (a) A और B कौन-से आयन बनाते हैं? (b) इनके बीच किस प्रकार का आबंध बनेगा? (c) यौगिक का सूत्र लिखिए।"
+      },
+      "answer": {
+        "en": "(a) A (2, 8, 1 — sodium) loses one electron: A⁺. B (2, 6 — oxygen) gains two: B²⁻. (b) Ionic bond. (c) A₂B (Na₂O).",
+        "hi": "(a) A (2, 8, 1 — सोडियम) एक इलेक्ट्रॉन खोकर A⁺ बनाता है। B (2, 6 — ऑक्सीजन) दो ग्रहण कर B²⁻ बनाता है। (b) आयनिक आबंध। (c) A₂B (Na₂O)।"
+      },
+      "explanation": {
+        "en": "Two A⁺ ions balance one B²⁻ ion.",
+        "hi": "दो A⁺ आयन एक B²⁻ आयन को संतुलित करते हैं।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.4.2, Revise Q1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch09-07",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.6",
+      "type": "assertionReason",
+      "marks": 1,
+      "difficulty": "medium",
+      "question": {
+        "en": "Assertion (A): Solid sodium chloride does not conduct electricity, but its aqueous solution does.\nReason (R): In the solid, the ions are held in fixed positions; in solution they are free to move.",
+        "hi": "अभिकथन (A): ठोस सोडियम क्लोराइड विद्युत नहीं चलाता, पर उसका जलीय विलयन चलाता है।\nकारण (R): ठोस में आयन निश्चित स्थानों पर बँधे होते हैं; विलयन में वे गति के लिए स्वतंत्र होते हैं।"
+      },
+      "options": [
+        {
+          "en": "Both A and R are true, and R is the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।"
+        },
+        {
+          "en": "Both A and R are true, but R is not the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, पर R, A की सही व्याख्या नहीं है।"
+        },
+        {
+          "en": "A is true, but R is false.",
+          "hi": "A सत्य है, पर R असत्य है।"
+        },
+        {
+          "en": "A is false, but R is true.",
+          "hi": "A असत्य है, पर R सत्य है।"
+        }
+      ],
+      "correctOption": 0,
+      "answer": {
+        "en": "Both A and R are true, and R is the correct explanation of A.",
+        "hi": "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।"
+      },
+      "explanation": {
+        "en": "Current is carried by moving ions; they can move only when dissolved or molten.",
+        "hi": "धारा गतिशील आयन ले जाते हैं; वे केवल घुलने या पिघलने पर ही गति कर सकते हैं।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.6"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch09-08",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.7",
+      "type": "numerical",
+      "marks": 2,
+      "difficulty": "easy",
+      "question": {
+        "en": "Calculate (a) the molecular mass of HNO₃ and (b) the formula unit mass of Mg(OH)₂. (H = 1 u, N = 14 u, O = 16 u, Mg = 24 u)",
+        "hi": "ज्ञात कीजिए (a) HNO₃ का आण्विक द्रव्यमान और (b) Mg(OH)₂ का सूत्र इकाई द्रव्यमान। (H = 1 u, N = 14 u, O = 16 u, Mg = 24 u)"
+      },
+      "answer": {
+        "en": "(a) 63 u (b) 58 u",
+        "hi": "(a) 63 u (b) 58 u"
+      },
+      "explanation": {
+        "en": "HNO₃ = 1 + 14 + 3 × 16 = 63 u. Mg(OH)₂ = 24 + 2 × (16 + 1) = 58 u.",
+        "hi": "HNO₃ = 1 + 14 + 3 × 16 = 63 u। Mg(OH)₂ = 24 + 2 × (16 + 1) = 58 u।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.7, 9.8"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch09-09",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.4",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "medium",
+      "question": {
+        "en": "How many shared pairs of electrons are there between the two atoms in an oxygen molecule (O₂)?",
+        "hi": "ऑक्सीजन अणु (O₂) में दोनों परमाणुओं के बीच कितने साझा इलेक्ट्रॉन युग्म होते हैं?"
+      },
+      "options": [
+        {
+          "en": "One",
+          "hi": "एक"
+        },
+        {
+          "en": "Two",
+          "hi": "दो"
+        },
+        {
+          "en": "Three",
+          "hi": "तीन"
+        },
+        {
+          "en": "Four",
+          "hi": "चार"
+        }
+      ],
+      "correctOption": 1,
+      "answer": {
+        "en": "Two (a double bond, O=O)",
+        "hi": "दो (द्विआबंध, O=O)"
+      },
+      "explanation": {
+        "en": "Each oxygen (2, 6) needs two electrons, so each shares two — two shared pairs.",
+        "hi": "प्रत्येक ऑक्सीजन (2, 6) को दो इलेक्ट्रॉन चाहिए, अतः प्रत्येक दो साझा करता है — दो साझा युग्म।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.4.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch09-10",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.4",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "easy",
+      "question": {
+        "en": "Name the following covalent compounds: (a) PCl₃ (b) SF₆ (c) N₂O₄ (d) H₂S.",
+        "hi": "निम्नलिखित सहसंयोजक यौगिकों के नाम लिखिए: (a) PCl₃ (b) SF₆ (c) N₂O₄ (d) H₂S।"
+      },
+      "answer": {
+        "en": "(a) Phosphorus trichloride (b) Sulphur hexafluoride (c) Dinitrogen tetroxide (d) Hydrogen sulphide",
+        "hi": "(a) फ़ॉस्फ़ोरस ट्राइक्लोराइड (b) सल्फ़र हेक्साफ़्लुओराइड (c) डाइनाइट्रोजन टेट्रॉक्साइड (d) हाइड्रोजन सल्फ़ाइड"
+      },
+      "explanation": {
+        "en": "Use prefixes for the number of atoms; drop the 'a' of tetra before 'oxide'; no prefix before hydrogen.",
+        "hi": "परमाणुओं की संख्या के लिए उपसर्ग लगाएँ; 'ऑक्साइड' से पहले टेट्रा का 'आ' हटाएँ; हाइड्रोजन से पहले उपसर्ग नहीं।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.4.1C"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch09-11",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.1",
+      "type": "caseBased",
+      "marks": 4,
+      "difficulty": "medium",
+      "question": {
+        "en": "A student weighs a flask containing vinegar and a separate balloon containing baking soda. In set-up 1 she pours the baking soda into the open flask; in set-up 2 she ties the balloon on the flask before tipping the baking soda in.\n(a) What would she observe in the flask? (1)\n(b) In which set-up does the final reading equal the initial reading? (1)\n(c) Explain the difference between the two set-ups using the law of conservation of mass. (2)",
+        "hi": "एक छात्रा सिरके वाले फ्लास्क और खाने के सोडे वाले अलग गुब्बारे को तौलती है। व्यवस्था 1 में वह सोडा खुले फ्लास्क में डालती है; व्यवस्था 2 में वह सोडा गिराने से पहले गुब्बारा फ्लास्क पर बाँध देती है।\n(a) फ्लास्क में उसे क्या दिखेगा? (1)\n(b) किस व्यवस्था में अंतिम पाठ्यांक प्रारंभिक पाठ्यांक के बराबर होगा? (1)\n(c) द्रव्यमान संरक्षण नियम से दोनों व्यवस्थाओं का अंतर समझाइए। (2)"
+      },
+      "answer": {
+        "en": "(a) Brisk effervescence (carbon dioxide forms). (b) Set-up 2 (closed). (c) Mass is conserved in both, but in the open flask CO₂ escapes into the air, so the balance shows less; in the closed set-up the gas is trapped in the balloon and the total mass stays the same.",
+        "hi": "(a) तीव्र बुदबुदाहट (कार्बन डाइऑक्साइड बनती है)। (b) व्यवस्था 2 (बंद)। (c) द्रव्यमान दोनों में संरक्षित है, पर खुले फ्लास्क से CO₂ वायु में निकल जाती है, इसलिए तुला कम दिखाती है; बंद व्यवस्था में गैस गुब्बारे में फँस जाती है और कुल द्रव्यमान वही रहता है।"
+      },
+      "explanation": {
+        "en": "Apparent mass loss in open vessels is due to escaping gas, not destruction of matter.",
+        "hi": "खुले पात्रों में द्रव्यमान की आभासी कमी गैस के निकलने से है, द्रव्य के नष्ट होने से नहीं।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "Activity 9.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-cbse-9-ch09-12",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.6",
+      "type": "longAnswer",
+      "marks": 5,
+      "difficulty": "hard",
+      "question": {
+        "en": "(a) Show the formation of sodium chloride by electron transfer (Na: Z = 11, Cl: Z = 17). (b) Show the formation of a water molecule by sharing of electrons. (c) Give three differences between the properties of ionic and covalent compounds.",
+        "hi": "(a) इलेक्ट्रॉन स्थानांतरण द्वारा सोडियम क्लोराइड का बनना दर्शाइए (Na: Z = 11, Cl: Z = 17)। (b) इलेक्ट्रॉनों की साझेदारी द्वारा जल-अणु का बनना दर्शाइए। (c) आयनिक और सहसंयोजक यौगिकों के गुणों में तीन अंतर लिखिए।"
+      },
+      "answer": {
+        "en": "(a) Na (2, 8, 1) → Na⁺ (2, 8) + e⁻; Cl (2, 8, 7) + e⁻ → Cl⁻ (2, 8, 8); Na⁺ and Cl⁻ attract to form NaCl. (b) O (2, 6) shares one electron pair with each of two H atoms: H–O–H; O completes its octet and each H its duplet. (c) Ionic: high m.p./b.p., soluble in water, conduct when molten or dissolved. Covalent: low m.p./b.p., often soluble in kerosene/petrol rather than water, generally do not conduct.",
+        "hi": "(a) Na (2, 8, 1) → Na⁺ (2, 8) + e⁻; Cl (2, 8, 7) + e⁻ → Cl⁻ (2, 8, 8); Na⁺ और Cl⁻ आकर्षित होकर NaCl बनाते हैं। (b) O (2, 6) दो H परमाणुओं में से प्रत्येक के साथ एक इलेक्ट्रॉन युग्म साझा करता है: H–O–H; O का अष्टक और प्रत्येक H का द्विक पूरा होता है। (c) आयनिक: उच्च गलनांक/क्वथनांक, जल में घुलनशील, पिघलने या घुलने पर चालक। सहसंयोजक: कम गलनांक/क्वथनांक, प्रायः जल के बजाय केरोसिन/पेट्रोल में घुलनशील, सामान्यतः चालन नहीं करते।"
+      },
+      "explanation": {
+        "en": "Transfer gives ions held by strong attraction; sharing gives molecules with weak forces between them — which explains the property differences.",
+        "hi": "स्थानांतरण से प्रबल आकर्षण से बँधे आयन बनते हैं; साझेदारी से ऐसे अणु बनते हैं जिनके बीच दुर्बल बल होते हैं — यही गुणों के अंतर का कारण है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.4, 9.6"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.1-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.1",
+      "type": "assertionReason",
+      "marks": 1,
+      "difficulty": "medium",
+      "question": {
+        "en": "Assertion (A): Clean air is a homogeneous mixture.\nReason (R): The composition of a homogeneous mixture is the same throughout.",
+        "hi": "अभिकथन (A): स्वच्छ वायु एक समांगी मिश्रण है।\nकारण (R): समांगी मिश्रण का संघटन पूरे में एक-समान होता है।"
+      },
+      "options": [
+        {
+          "en": "Both A and R are true, and R is the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।"
+        },
+        {
+          "en": "Both A and R are true, but R is not the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, पर R, A की सही व्याख्या नहीं है।"
+        },
+        {
+          "en": "A is true, but R is false.",
+          "hi": "A सत्य है, पर R असत्य है।"
+        },
+        {
+          "en": "A is false, but R is true.",
+          "hi": "A असत्य है, पर R सत्य है।"
+        }
+      ],
+      "correctOption": 0,
+      "answer": {
+        "en": "Both A and R are true, and R is the correct explanation of A.",
+        "hi": "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।"
+      },
+      "explanation": {
+        "en": "Most gas mixtures, like clean air, have the same composition everywhere, so they are homogeneous — which is exactly what R defines.",
+        "hi": "स्वच्छ वायु जैसे अधिकांश गैस मिश्रणों का संघटन हर जगह एक-समान होता है, इसलिए वे समांगी हैं — यही R की परिभाषा है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.1-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.1",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "easy",
+      "question": {
+        "en": "Classify as homogeneous or heterogeneous: (a) brass (b) muddy water (c) soda water (d) smoke.",
+        "hi": "समांगी या विषमांगी में वर्गीकृत कीजिए: (a) पीतल (b) मटमैला पानी (c) सोडा जल (d) धुआँ।"
+      },
+      "answer": {
+        "en": "Homogeneous: (a) brass, (c) soda water. Heterogeneous: (b) muddy water, (d) smoke.",
+        "hi": "समांगी: (a) पीतल, (c) सोडा जल। विषमांगी: (b) मटमैला पानी, (d) धुआँ।"
+      },
+      "explanation": {
+        "en": "Brass (an alloy) and soda water have the same composition throughout. Mud particles and smoke particles can be seen or settle, so those mixtures are not uniform.",
+        "hi": "पीतल (मिश्रधातु) और सोडा जल का संघटन पूरे में एक-समान होता है। मिट्टी और धुएँ के कण दिखाई देते हैं या बैठ जाते हैं, इसलिए वे मिश्रण एक-समान नहीं हैं।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.2-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.2",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "In a solution of common salt in water, which is the solute?",
+        "hi": "जल में साधारण नमक के विलयन में विलेय कौन-सा है?"
+      },
+      "options": [
+        {
+          "en": "Water",
+          "hi": "जल"
+        },
+        {
+          "en": "Common salt",
+          "hi": "साधारण नमक"
+        },
+        {
+          "en": "Both salt and water",
+          "hi": "नमक और जल दोनों"
+        },
+        {
+          "en": "Neither",
+          "hi": "कोई नहीं"
+        }
+      ],
+      "correctOption": 1,
+      "answer": {
+        "en": "Common salt",
+        "hi": "साधारण नमक"
+      },
+      "explanation": {
+        "en": "The solute is the substance that dissolves (salt); the solvent is the substance it dissolves in (water).",
+        "hi": "विलेय वह पदार्थ है जो घुलता है (नमक); विलायक वह है जिसमें वह घुलता है (जल)।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.2–5.2.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.2.1-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.2.1",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "The concentration of a solution tells us —",
+        "hi": "किसी विलयन की सांद्रता हमें बताती है —"
+      },
+      "options": [
+        {
+          "en": "the colour of the solution",
+          "hi": "विलयन का रंग"
+        },
+        {
+          "en": "the amount of solute in a given amount of solvent or solution",
+          "hi": "विलायक या विलयन की दी गई मात्रा में विलेय की मात्रा"
+        },
+        {
+          "en": "the temperature of the solution",
+          "hi": "विलयन का ताप"
+        },
+        {
+          "en": "the size of the container",
+          "hi": "पात्र का आकार"
+        }
+      ],
+      "correctOption": 1,
+      "answer": {
+        "en": "the amount of solute in a given amount of solvent or solution",
+        "hi": "विलायक या विलयन की दी गई मात्रा में विलेय की मात्रा"
+      },
+      "explanation": {
+        "en": "Concentration is the amount of solute dissolved in a given amount of solvent or solution.",
+        "hi": "सांद्रता विलायक या विलयन की दी गई मात्रा में घुले विलेय की मात्रा है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.2–5.2.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.2.1-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.2.1",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "medium",
+      "question": {
+        "en": "ORS works only when salt and sugar are added to water in the right proportion. Which property of a solution does this show, and why does it matter for a farmer's pesticide spray too?",
+        "hi": "ORS तभी काम करता है जब नमक और चीनी सही अनुपात में जल में मिलाए जाएँ। यह विलयन का कौन-सा गुण दिखाता है, और यह किसान के कीटनाशक छिड़काव के लिए भी क्यों महत्त्वपूर्ण है?"
+      },
+      "answer": {
+        "en": "It shows the concentration of a solution. A pesticide spray also works only at the right strength, so its concentration must be correct.",
+        "hi": "यह विलयन की सांद्रता दिखाता है। कीटनाशक छिड़काव भी सही प्रबलता पर ही काम करता है, इसलिए उसकी सांद्रता सही होनी चाहिए।"
+      },
+      "explanation": {
+        "en": "Concentration tells the proportion of solute to solvent as a number; too little or too much changes how the solution works.",
+        "hi": "सांद्रता विलेय और विलायक का अनुपात एक संख्या के रूप में बताती है; बहुत कम या बहुत अधिक होने पर विलयन का प्रभाव बदल जाता है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.2–5.2.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.2.1-3",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.2.1",
+      "type": "assertionReason",
+      "marks": 1,
+      "difficulty": "medium",
+      "question": {
+        "en": "Assertion (A): Adding more water to a sugar solution lowers its concentration.\nReason (R): The amount of sugar stays the same while the amount of solution increases.",
+        "hi": "अभिकथन (A): चीनी के विलयन में और जल मिलाने से उसकी सांद्रता घट जाती है।\nकारण (R): चीनी की मात्रा वही रहती है जबकि विलयन की मात्रा बढ़ जाती है।"
+      },
+      "options": [
+        {
+          "en": "Both A and R are true, and R is the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।"
+        },
+        {
+          "en": "Both A and R are true, but R is not the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, पर R, A की सही व्याख्या नहीं है।"
+        },
+        {
+          "en": "A is true, but R is false.",
+          "hi": "A सत्य है, पर R असत्य है।"
+        },
+        {
+          "en": "A is false, but R is true.",
+          "hi": "A असत्य है, पर R सत्य है।"
+        }
+      ],
+      "correctOption": 0,
+      "answer": {
+        "en": "Both A and R are true, and R is the correct explanation of A.",
+        "hi": "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।"
+      },
+      "explanation": {
+        "en": "Concentration is solute per amount of solution. The same mass of sugar spread through more solution means a lower concentration, so R explains A.",
+        "hi": "सांद्रता विलयन की मात्रा प्रति विलेय है। उतनी ही चीनी अधिक विलयन में फैलने से सांद्रता कम हो जाती है, इसलिए R, A की व्याख्या करता है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.2–5.2.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.2.2-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.2.2",
+      "type": "numerical",
+      "marks": 2,
+      "difficulty": "easy",
+      "question": {
+        "en": "10 g of common salt is dissolved in 90 g of water. Find the mass by mass percentage of salt in the solution.",
+        "hi": "90 g जल में 10 g साधारण नमक घोला गया। विलयन में नमक का द्रव्यमान द्वारा द्रव्यमान प्रतिशत ज्ञात कीजिए।"
+      },
+      "answer": {
+        "en": "10% m/m",
+        "hi": "10% m/m"
+      },
+      "explanation": {
+        "en": "Formula: % m/m = (mass of solute ÷ mass of solution) × 100. Mass of solution = 10 + 90 = 100 g. Substitution: (10 ÷ 100) × 100 = 10%. (Dividing by 90 g of water would wrongly give 11.1%.)",
+        "hi": "सूत्र: % m/m = (विलेय का द्रव्यमान ÷ विलयन का द्रव्यमान) × 100। विलयन का द्रव्यमान = 10 + 90 = 100 g। मान रखने पर: (10 ÷ 100) × 100 = 10%। (90 g जल से भाग देने पर गलत उत्तर 11.1% आएगा।)"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.2–5.2.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.2.2-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.2.2",
+      "type": "numerical",
+      "marks": 2,
+      "difficulty": "medium",
+      "question": {
+        "en": "A bottle of vinegar is labelled 5% v/v acetic acid. What volume of acetic acid is present in 500 mL of this vinegar?",
+        "hi": "सिरके की एक बोतल पर 5% v/v ऐसीटिक अम्ल लिखा है। इस सिरके के 500 mL में कितना ऐसीटिक अम्ल है?"
+      },
+      "answer": {
+        "en": "25 mL of acetic acid",
+        "hi": "25 mL ऐसीटिक अम्ल"
+      },
+      "explanation": {
+        "en": "Formula: % v/v = (volume of solute ÷ volume of solution) × 100, so volume of solute = % × volume of solution ÷ 100. Substitution: 5 × 500 ÷ 100 = 25 mL.",
+        "hi": "सूत्र: % v/v = (विलेय का आयतन ÷ विलयन का आयतन) × 100, अतः विलेय का आयतन = % × विलयन का आयतन ÷ 100। मान रखने पर: 5 × 500 ÷ 100 = 25 mL।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.2–5.2.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.2.2-3",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.2.2",
+      "type": "numerical",
+      "marks": 3,
+      "difficulty": "medium",
+      "question": {
+        "en": "(a) What mass of glucose is needed to make 250 mL of a 5% m/v glucose solution? (b) If 20 g of glucose is dissolved to make 250 mL of solution instead, what is its % m/v?",
+        "hi": "(a) 5% m/v ग्लूकोस विलयन का 250 mL बनाने के लिए कितना ग्लूकोस चाहिए? (b) यदि इसके स्थान पर 20 g ग्लूकोस घोलकर 250 mL विलयन बनाया जाए, तो उसका % m/v क्या होगा?"
+      },
+      "answer": {
+        "en": "(a) 12.5 g (b) 8% m/v",
+        "hi": "(a) 12.5 g (b) 8% m/v"
+      },
+      "explanation": {
+        "en": "Formula: % m/v = (mass of solute in g ÷ volume of solution in mL) × 100. (a) Mass = 5 × 250 ÷ 100 = 12.5 g. (b) % m/v = (20 ÷ 250) × 100 = 8%.",
+        "hi": "सूत्र: % m/v = (विलेय का द्रव्यमान g में ÷ विलयन का आयतन mL में) × 100। (a) द्रव्यमान = 5 × 250 ÷ 100 = 12.5 g। (b) % m/v = (20 ÷ 250) × 100 = 8%।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.2–5.2.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.2.3-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.2.3",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "A soft drink goes flat faster when it is warm because —",
+        "hi": "गरम होने पर शीतल पेय जल्दी फीका (गैस-रहित) क्यों हो जाता है —"
+      },
+      "options": [
+        {
+          "en": "gases dissolve less in water as temperature rises",
+          "hi": "ताप बढ़ने पर गैसें जल में कम घुलती हैं"
+        },
+        {
+          "en": "gases dissolve more in water as temperature rises",
+          "hi": "ताप बढ़ने पर गैसें जल में अधिक घुलती हैं"
+        },
+        {
+          "en": "the sugar in it crystallises",
+          "hi": "उसमें की चीनी क्रिस्टल बन जाती है"
+        },
+        {
+          "en": "the water in it evaporates completely",
+          "hi": "उसका जल पूरी तरह वाष्पित हो जाता है"
+        }
+      ],
+      "correctOption": 0,
+      "answer": {
+        "en": "gases dissolve less in water as temperature rises",
+        "hi": "ताप बढ़ने पर गैसें जल में कम घुलती हैं"
+      },
+      "explanation": {
+        "en": "Unlike most solids, gases are less soluble in warm water, so the dissolved carbon dioxide escapes faster from a warm drink.",
+        "hi": "अधिकांश ठोसों के विपरीत, गैसें गरम जल में कम विलेय होती हैं, इसलिए घुली कार्बन डाइऑक्साइड गरम पेय से जल्दी निकल जाती है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.2.3, Activity 5.2, Table 5.4"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.2.3-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.2.3",
+      "type": "numerical",
+      "marks": 2,
+      "difficulty": "medium",
+      "question": {
+        "en": "The solubility of a substance X is 40 g per 100 g of water at 30 °C. What mass of X is needed to make a saturated solution in 25 g of water at 30 °C?",
+        "hi": "30 °C पर पदार्थ X की विलेयता 100 g जल में 40 g है। 30 °C पर 25 g जल में संतृप्त विलयन बनाने के लिए X का कितना द्रव्यमान चाहिए?"
+      },
+      "answer": {
+        "en": "10 g",
+        "hi": "10 g"
+      },
+      "explanation": {
+        "en": "Formula: mass to saturate m g of water = solubility per 100 g × m ÷ 100. Substitution: 40 × 25 ÷ 100 = 10 g. Solubility is per 100 g of water, so it must be scaled to 25 g.",
+        "hi": "सूत्र: m g जल को संतृप्त करने के लिए द्रव्यमान = 100 g पर विलेयता × m ÷ 100। मान रखने पर: 40 × 25 ÷ 100 = 10 g। विलेयता 100 g जल के लिए है, इसलिए इसे 25 g के अनुपात में बदलना होगा।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.2.3, Activity 5.2, Table 5.4"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.3-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.3",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "Which property is used to separate two miscible liquids by distillation?",
+        "hi": "आसवन द्वारा दो मिश्रणीय द्रवों को अलग करने में किस गुण का उपयोग होता है?"
+      },
+      "options": [
+        {
+          "en": "Colour",
+          "hi": "रंग"
+        },
+        {
+          "en": "Difference in boiling points",
+          "hi": "क्वथनांकों में अंतर"
+        },
+        {
+          "en": "Magnetism",
+          "hi": "चुंबकत्व"
+        },
+        {
+          "en": "Particle size",
+          "hi": "कणों का आकार"
+        }
+      ],
+      "correctOption": 1,
+      "answer": {
+        "en": "Difference in boiling points",
+        "hi": "क्वथनांकों में अंतर"
+      },
+      "explanation": {
+        "en": "The liquid with the lower boiling point vaporises first and is condensed and collected separately.",
+        "hi": "कम क्वथनांक वाला द्रव पहले वाष्पित होता है और संघनित करके अलग एकत्र किया जाता है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.3.1, Activity 5.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.3-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.3",
+      "type": "shortAnswer",
+      "marks": 3,
+      "difficulty": "medium",
+      "question": {
+        "en": "Why can the components of a homogeneous mixture not be separated by filtration? Name two methods that are used instead and the property each one uses.",
+        "hi": "समांगी मिश्रण के घटकों को छानकर अलग क्यों नहीं किया जा सकता? इसके स्थान पर उपयोग होने वाली दो विधियों के नाम और प्रत्येक में प्रयुक्त गुण लिखिए।"
+      },
+      "answer": {
+        "en": "The components are mixed at the level of particles, so they pass through the filter together. Crystallisation uses the change of solubility with temperature; distillation uses the difference in boiling points (paper chromatography, which uses the different speeds of components on paper, is another).",
+        "hi": "घटक कणों के स्तर पर मिले होते हैं, इसलिए वे साथ-साथ फ़िल्टर से निकल जाते हैं। क्रिस्टलीकरण ताप के साथ विलेयता में परिवर्तन का उपयोग करता है; आसवन क्वथनांकों में अंतर का (कागज़ वर्णलेखन, जो कागज़ पर घटकों की अलग-अलग चाल का उपयोग करता है, एक और विधि है)।"
+      },
+      "explanation": {
+        "en": "Homogeneous mixtures cannot be seen or filtered apart, so we use differences in properties such as solubility and boiling point.",
+        "hi": "समांगी मिश्रणों के घटक न दिखते हैं न छानकर अलग होते हैं, इसलिए विलेयता और क्वथनांक जैसे गुणों के अंतर का उपयोग किया जाता है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.3.1, Activity 5.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.3.1-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.3.1",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "Crystallisation is based on the fact that —",
+        "hi": "क्रिस्टलीकरण इस तथ्य पर आधारित है कि —"
+      },
+      "options": [
+        {
+          "en": "the solubility of a substance changes with temperature",
+          "hi": "किसी पदार्थ की विलेयता ताप के साथ बदलती है"
+        },
+        {
+          "en": "all solids sublime on heating",
+          "hi": "सभी ठोस गरम करने पर ऊर्ध्वपातित होते हैं"
+        },
+        {
+          "en": "liquids have different densities",
+          "hi": "द्रवों के घनत्व अलग-अलग होते हैं"
+        },
+        {
+          "en": "dyes move at different speeds on paper",
+          "hi": "रंजक कागज़ पर अलग-अलग चाल से चलते हैं"
+        }
+      ],
+      "correctOption": 0,
+      "answer": {
+        "en": "the solubility of a substance changes with temperature",
+        "hi": "किसी पदार्थ की विलेयता ताप के साथ बदलती है"
+      },
+      "explanation": {
+        "en": "On cooling a hot saturated solution the solubility falls, so the pure substance separates as crystals.",
+        "hi": "गरम संतृप्त विलयन को ठंडा करने पर विलेयता घटती है, इसलिए शुद्ध पदार्थ क्रिस्टलों के रूप में अलग हो जाता है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.3.1, Activity 5.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.3.1-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.3.1",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "medium",
+      "question": {
+        "en": "While crystallising copper sulphate, (a) why is the hot saturated solution filtered before cooling, and (b) why is it cooled slowly?",
+        "hi": "कॉपर सल्फ़ेट का क्रिस्टलीकरण करते समय (a) गरम संतृप्त विलयन को ठंडा करने से पहले क्यों छाना जाता है, और (b) उसे धीरे-धीरे क्यों ठंडा किया जाता है?"
+      },
+      "answer": {
+        "en": "(a) To remove insoluble impurities. (b) Slow cooling gives larger, well-shaped crystals.",
+        "hi": "(a) अविलेय अशुद्धियाँ हटाने के लिए। (b) धीरे ठंडा करने पर बड़े, सुडौल क्रिस्टल बनते हैं।"
+      },
+      "explanation": {
+        "en": "Soluble impurities stay in the solution after cooling; insoluble ones must be filtered off while the solution is hot.",
+        "hi": "ठंडा होने के बाद विलेय अशुद्धियाँ विलयन में रह जाती हैं; अविलेय अशुद्धियों को विलयन के गरम रहते ही छानना होता है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.3.1, Activity 5.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.3.1-3",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.3.1",
+      "type": "numerical",
+      "marks": 3,
+      "difficulty": "hard",
+      "question": {
+        "en": "The solubility of a salt Y is 80 g per 100 g of water at 70 °C and 30 g per 100 g of water at 20 °C. (a) A saturated solution in 100 g of water at 70 °C is cooled to 20 °C. What mass of crystals forms? (b) What mass would form from a saturated solution in 50 g of water?",
+        "hi": "लवण Y की विलेयता 70 °C पर 100 g जल में 80 g और 20 °C पर 100 g जल में 30 g है। (a) 70 °C पर 100 g जल में बने संतृप्त विलयन को 20 °C तक ठंडा किया गया। कितने द्रव्यमान के क्रिस्टल बनेंगे? (b) 50 g जल वाले संतृप्त विलयन से कितना बनेगा?"
+      },
+      "answer": {
+        "en": "(a) 50 g (b) 25 g",
+        "hi": "(a) 50 g (b) 25 g"
+      },
+      "explanation": {
+        "en": "Formula: mass deposited = solubility at higher temperature − solubility at lower temperature (per 100 g water). (a) 80 − 30 = 50 g. (b) For 50 g of water, scale by 50 ÷ 100: 50 × 50 ÷ 100 = 25 g.",
+        "hi": "सूत्र: जमा होने वाला द्रव्यमान = उच्च ताप पर विलेयता − निम्न ताप पर विलेयता (प्रति 100 g जल)। (a) 80 − 30 = 50 g। (b) 50 g जल के लिए 50 ÷ 100 से गुणा करें: 50 × 50 ÷ 100 = 25 g।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.3.1, Activity 5.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.3.2-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.3.2",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "easy",
+      "question": {
+        "en": "In distillation, (a) name the part of the apparatus where the vapour turns back into liquid, and (b) what is the liquid collected called?",
+        "hi": "आसवन में (a) उपकरण के उस भाग का नाम बताइए जहाँ वाष्प फिर से द्रव बनती है, और (b) एकत्र किए गए द्रव को क्या कहते हैं?"
+      },
+      "answer": {
+        "en": "(a) The condenser. (b) The distillate.",
+        "hi": "(a) संघनित्र। (b) आसुत (डिस्टिलेट)।"
+      },
+      "explanation": {
+        "en": "Cold water flowing through the condenser cools the vapour so it condenses into a pure liquid, the distillate, which drips into the receiver.",
+        "hi": "संघनित्र में बहता ठंडा जल वाष्प को ठंडा करता है जिससे वह शुद्ध द्रव, आसुत, में संघनित होकर ग्राही में टपकता है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.3.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.3.2-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.3.2",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "medium",
+      "question": {
+        "en": "Crude petroleum is separated into LPG, petrol, kerosene and diesel by —",
+        "hi": "कच्चे पेट्रोलियम को LPG, पेट्रोल, केरोसिन और डीज़ल में अलग किया जाता है —"
+      },
+      "options": [
+        {
+          "en": "simple distillation",
+          "hi": "सामान्य आसवन से"
+        },
+        {
+          "en": "fractional distillation",
+          "hi": "प्रभाजी आसवन से"
+        },
+        {
+          "en": "crystallisation",
+          "hi": "क्रिस्टलीकरण से"
+        },
+        {
+          "en": "sublimation",
+          "hi": "ऊर्ध्वपातन से"
+        }
+      ],
+      "correctOption": 1,
+      "answer": {
+        "en": "fractional distillation",
+        "hi": "प्रभाजी आसवन से"
+      },
+      "explanation": {
+        "en": "Its components have boiling points too close for simple distillation, so fractional distillation is used.",
+        "hi": "इसके घटकों के क्वथनांक सामान्य आसवन के लिए बहुत निकट हैं, इसलिए प्रभाजी आसवन का उपयोग होता है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.3.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.3.3-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.3.3",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "The word \"chromatography\" comes from Greek words meaning —",
+        "hi": "\"क्रोमैटोग्राफ़ी\" शब्द ग्रीक शब्दों से बना है जिनका अर्थ है —"
+      },
+      "options": [
+        {
+          "en": "writing with colour",
+          "hi": "रंग से लिखना"
+        },
+        {
+          "en": "separating by heat",
+          "hi": "ऊष्मा से अलग करना"
+        },
+        {
+          "en": "light and dark",
+          "hi": "प्रकाश और अंधकार"
+        },
+        {
+          "en": "water and paper",
+          "hi": "जल और कागज़"
+        }
+      ],
+      "correctOption": 0,
+      "answer": {
+        "en": "writing with colour",
+        "hi": "रंग से लिखना"
+      },
+      "explanation": {
+        "en": "Chroma means colour and graphein means to write.",
+        "hi": "क्रोमा का अर्थ रंग और ग्राफ़ीन का अर्थ लिखना है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.3.3, Activity 5.5"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.3.3-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.3.3",
+      "type": "shortAnswer",
+      "marks": 3,
+      "difficulty": "medium",
+      "question": {
+        "en": "A dot of black ink on a paper strip dipped in water spreads into separate coloured spots. (a) Why do the dyes separate? (b) Why might water not work for separating the pigments of spinach leaves, and what can be used instead?",
+        "hi": "जल में डुबाई गई कागज़ की पट्टी पर काली स्याही की बिंदी अलग-अलग रंगीन धब्बों में फैल जाती है। (a) रंजक अलग क्यों होते हैं? (b) पालक की पत्तियों के वर्णकों को अलग करने में जल काम क्यों नहीं कर सकता, और उसके स्थान पर क्या उपयोग कर सकते हैं?"
+      },
+      "answer": {
+        "en": "(a) Each dye is attracted to the paper and dissolves in the solvent to a different extent, so each moves up a different distance. (b) Leaf pigments do not dissolve well in water; alcohol or a mixture of solvents is used.",
+        "hi": "(a) प्रत्येक रंजक कागज़ की ओर अलग-अलग आकर्षित होता है और विलायक में अलग-अलग घुलता है, इसलिए प्रत्येक अलग दूरी तक ऊपर जाता है। (b) पत्तियों के वर्णक जल में ठीक से नहीं घुलते; ऐल्कोहॉल या विलायकों का मिश्रण उपयोग किया जाता है।"
+      },
+      "explanation": {
+        "en": "The separation depends on how strongly each component is attracted to the paper and how well it dissolves in the solvent, so the solvent must suit the mixture.",
+        "hi": "पृथक्करण इस पर निर्भर है कि प्रत्येक घटक कागज़ की ओर कितना आकर्षित है और विलायक में कितना घुलता है, इसलिए विलायक मिश्रण के अनुकूल होना चाहिए।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.3.3, Activity 5.5"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.4-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.4",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "Iron nails mixed with sawdust are best separated by —",
+        "hi": "बुरादे में मिली लोहे की कीलों को अलग करने का सबसे अच्छा तरीका है —"
+      },
+      "options": [
+        {
+          "en": "a magnet",
+          "hi": "चुंबक"
+        },
+        {
+          "en": "distillation",
+          "hi": "आसवन"
+        },
+        {
+          "en": "chromatography",
+          "hi": "वर्णलेखन"
+        },
+        {
+          "en": "a separating funnel",
+          "hi": "पृथक्कारी कीप"
+        }
+      ],
+      "correctOption": 0,
+      "answer": {
+        "en": "a magnet",
+        "hi": "चुंबक"
+      },
+      "explanation": {
+        "en": "For heterogeneous mixtures we use a property of one component; iron is attracted by a magnet and sawdust is not.",
+        "hi": "विषमांगी मिश्रणों के लिए किसी एक घटक के गुण का उपयोग करते हैं; लोहा चुंबक से आकर्षित होता है, बुरादा नहीं।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.4, 5.4.1, Activity 5.6"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.4-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.4",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "medium",
+      "question": {
+        "en": "Give one example each of a heterogeneous mixture containing a gas and of a homogeneous gas mixture.",
+        "hi": "गैस वाले एक विषमांगी मिश्रण और एक समांगी गैस मिश्रण का एक-एक उदाहरण दीजिए।"
+      },
+      "answer": {
+        "en": "Heterogeneous: smoke, fog or dusty air. Homogeneous: clean air.",
+        "hi": "विषमांगी: धुआँ, कोहरा या धूल भरी वायु। समांगी: स्वच्छ वायु।"
+      },
+      "explanation": {
+        "en": "Most gas mixtures are homogeneous; when solid or liquid particles are spread in a gas (smoke, fog, dust) the mixture is heterogeneous.",
+        "hi": "अधिकांश गैस मिश्रण समांगी होते हैं; जब गैस में ठोस या द्रव कण फैले हों (धुआँ, कोहरा, धूल) तो मिश्रण विषमांगी होता है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.4, 5.4.1, Activity 5.6"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.4.1-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.4.1",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "Two immiscible liquids are separated using —",
+        "hi": "दो अमिश्रणीय द्रवों को अलग किया जाता है —"
+      },
+      "options": [
+        {
+          "en": "a separating funnel",
+          "hi": "पृथक्कारी कीप से"
+        },
+        {
+          "en": "filter paper",
+          "hi": "फ़िल्टर पेपर से"
+        },
+        {
+          "en": "a magnet",
+          "hi": "चुंबक से"
+        },
+        {
+          "en": "sublimation",
+          "hi": "ऊर्ध्वपातन से"
+        }
+      ],
+      "correctOption": 0,
+      "answer": {
+        "en": "a separating funnel",
+        "hi": "पृथक्कारी कीप से"
+      },
+      "explanation": {
+        "en": "Immiscible liquids form separate layers because of their different densities, and the lower layer can be drained out through the stopcock.",
+        "hi": "अमिश्रणीय द्रव अलग घनत्व के कारण अलग परतें बनाते हैं, और निचली परत को स्टॉपकॉक से निकाला जा सकता है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.4, 5.4.1, Activity 5.6"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.4.1-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.4.1",
+      "type": "assertionReason",
+      "marks": 1,
+      "difficulty": "medium",
+      "question": {
+        "en": "Assertion (A): In a separating funnel, the liquid present in the larger amount always forms the lower layer.\nReason (R): The position of each layer depends on the density of the liquid.",
+        "hi": "अभिकथन (A): पृथक्कारी कीप में अधिक मात्रा वाला द्रव सदैव निचली परत बनाता है।\nकारण (R): प्रत्येक परत की स्थिति द्रव के घनत्व पर निर्भर करती है।"
+      },
+      "options": [
+        {
+          "en": "Both A and R are true, and R is the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।"
+        },
+        {
+          "en": "Both A and R are true, but R is not the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, पर R, A की सही व्याख्या नहीं है।"
+        },
+        {
+          "en": "A is true, but R is false.",
+          "hi": "A सत्य है, पर R असत्य है।"
+        },
+        {
+          "en": "A is false, but R is true.",
+          "hi": "A असत्य है, पर R सत्य है।"
+        }
+      ],
+      "correctOption": 3,
+      "answer": {
+        "en": "A is false, but R is true.",
+        "hi": "A असत्य है, पर R सत्य है।"
+      },
+      "explanation": {
+        "en": "The denser liquid goes to the bottom whatever its amount, so A is false and R is true.",
+        "hi": "अधिक घनत्व वाला द्रव, चाहे उसकी मात्रा कितनी भी हो, नीचे जाता है, इसलिए A असत्य और R सत्य है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.4, 5.4.1, Activity 5.6"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.4.1-3",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.4.1",
+      "type": "shortAnswer",
+      "marks": 3,
+      "difficulty": "medium",
+      "question": {
+        "en": "Write, in order, the steps to separate a mixture of mustard oil and water using a separating funnel.",
+        "hi": "पृथक्कारी कीप से सरसों के तेल और जल के मिश्रण को अलग करने के चरण क्रम से लिखिए।"
+      },
+      "answer": {
+        "en": "1. Pour the mixture into the separating funnel and let it stand. 2. Two layers form: the lighter oil on top and the denser water below. 3. Open the stopcock and drain out the water. 4. Close it when the layers meet and discard the small mixed portion. 5. Collect the oil separately.",
+        "hi": "1. मिश्रण को पृथक्कारी कीप में डालकर स्थिर छोड़ दें। 2. दो परतें बनती हैं: हल्का तेल ऊपर और भारी जल नीचे। 3. स्टॉपकॉक खोलकर जल निकाल दें। 4. परतों के मिलने पर उसे बंद करें और थोड़े मिले हुए भाग को अलग कर दें। 5. तेल को अलग एकत्र करें।"
+      },
+      "explanation": {
+        "en": "The separation works because the two liquids do not mix and have different densities; the denser one is always drained first.",
+        "hi": "यह पृथक्करण इसलिए होता है क्योंकि दोनों द्रव मिलते नहीं और उनके घनत्व अलग हैं; अधिक घनत्व वाला सदैव पहले निकाला जाता है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.4, 5.4.1, Activity 5.6"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.4.2-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.4.2",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "Which of these does NOT sublime on heating?",
+        "hi": "इनमें से कौन गरम करने पर ऊर्ध्वपातित नहीं होता?"
+      },
+      "options": [
+        {
+          "en": "Camphor",
+          "hi": "कपूर"
+        },
+        {
+          "en": "Naphthalene",
+          "hi": "नैफ़्थलीन"
+        },
+        {
+          "en": "Ammonium chloride",
+          "hi": "अमोनियम क्लोराइड"
+        },
+        {
+          "en": "Common salt",
+          "hi": "साधारण नमक"
+        }
+      ],
+      "correctOption": 3,
+      "answer": {
+        "en": "Common salt",
+        "hi": "साधारण नमक"
+      },
+      "explanation": {
+        "en": "Camphor, naphthalene and ammonium chloride sublime; that is why ammonium chloride can be separated from common salt by sublimation.",
+        "hi": "कपूर, नैफ़्थलीन और अमोनियम क्लोराइड ऊर्ध्वपातित होते हैं; इसीलिए अमोनियम क्लोराइड को ऊर्ध्वपातन से साधारण नमक से अलग किया जा सकता है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.4.2, Activity 5.7"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.4.2-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.4.2",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "medium",
+      "question": {
+        "en": "How is sublimation different from evaporation?",
+        "hi": "ऊर्ध्वपातन वाष्पन से कैसे भिन्न है?"
+      },
+      "answer": {
+        "en": "In sublimation a solid changes directly into vapour without becoming a liquid. In evaporation a liquid changes into vapour at its surface.",
+        "hi": "ऊर्ध्वपातन में ठोस बिना द्रव बने सीधे वाष्प में बदलता है। वाष्पन में द्रव अपनी सतह से वाष्प में बदलता है।"
+      },
+      "explanation": {
+        "en": "There is no liquid stage in sublimation — saying the solid \"melts and then evaporates\" is a common mistake.",
+        "hi": "ऊर्ध्वपातन में द्रव अवस्था नहीं होती — \"ठोस पिघलकर फिर वाष्पित होता है\" कहना एक आम गलती है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.4.2, Activity 5.7"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.4.3-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.4.3",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "A blood sample is separated into plasma and cells by —",
+        "hi": "रक्त के नमूने को प्लाज़्मा और कोशिकाओं में अलग किया जाता है —"
+      },
+      "options": [
+        {
+          "en": "centrifugation",
+          "hi": "अपकेंद्रण से"
+        },
+        {
+          "en": "sublimation",
+          "hi": "ऊर्ध्वपातन से"
+        },
+        {
+          "en": "distillation",
+          "hi": "आसवन से"
+        },
+        {
+          "en": "crystallisation",
+          "hi": "क्रिस्टलीकरण से"
+        }
+      ],
+      "correctOption": 0,
+      "answer": {
+        "en": "centrifugation",
+        "hi": "अपकेंद्रण से"
+      },
+      "explanation": {
+        "en": "Spinning fast moves the heavier cells outward to the bottom of the tube, leaving plasma above.",
+        "hi": "तेज़ी से घुमाने पर भारी कोशिकाएँ बाहर की ओर नली की तली में चली जाती हैं और प्लाज़्मा ऊपर रह जाता है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.4.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.4.3-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.4.3",
+      "type": "assertionReason",
+      "marks": 1,
+      "difficulty": "medium",
+      "question": {
+        "en": "Assertion (A): Muddy water can stay cloudy even after it is filtered.\nReason (R): Very fine particles of a suspension can pass through the filter.",
+        "hi": "अभिकथन (A): छानने के बाद भी मटमैला पानी धुँधला रह सकता है।\nकारण (R): निलंबन के बहुत बारीक कण फ़िल्टर से निकल सकते हैं।"
+      },
+      "options": [
+        {
+          "en": "Both A and R are true, and R is the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।"
+        },
+        {
+          "en": "Both A and R are true, but R is not the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, पर R, A की सही व्याख्या नहीं है।"
+        },
+        {
+          "en": "A is true, but R is false.",
+          "hi": "A सत्य है, पर R असत्य है।"
+        },
+        {
+          "en": "A is false, but R is true.",
+          "hi": "A असत्य है, पर R सत्य है।"
+        }
+      ],
+      "correctOption": 0,
+      "answer": {
+        "en": "Both A and R are true, and R is the correct explanation of A.",
+        "hi": "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।"
+      },
+      "explanation": {
+        "en": "The fine particles that pass through keep the water cloudy; coagulation (e.g. with alum) or centrifugation is needed to remove them.",
+        "hi": "जो बारीक कण निकल जाते हैं वे पानी को धुँधला रखते हैं; उन्हें हटाने के लिए स्कंदन (जैसे फिटकरी से) या अपकेंद्रण चाहिए।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.4.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.4.4-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.4.4",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "medium",
+      "question": {
+        "en": "Which of these is a water-in-oil emulsion?",
+        "hi": "इनमें से कौन जल-में-तेल पायस है?"
+      },
+      "options": [
+        {
+          "en": "Milk",
+          "hi": "दूध"
+        },
+        {
+          "en": "Butter",
+          "hi": "मक्खन"
+        },
+        {
+          "en": "Vanishing cream",
+          "hi": "वैनिशिंग क्रीम"
+        },
+        {
+          "en": "Fog",
+          "hi": "कोहरा"
+        }
+      ],
+      "correctOption": 1,
+      "answer": {
+        "en": "Butter",
+        "hi": "मक्खन"
+      },
+      "explanation": {
+        "en": "Butter and cold cream are water-in-oil; milk and vanishing cream are oil-in-water. Fog is a liquid in a gas, not an emulsion.",
+        "hi": "मक्खन और कोल्ड क्रीम जल-में-तेल हैं; दूध और वैनिशिंग क्रीम तेल-में-जल हैं। कोहरा गैस में द्रव है, पायस नहीं।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.4.4, 5.5"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.4.4-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.4.4",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "medium",
+      "question": {
+        "en": "Blood is a colloid. Name its dispersed phase and its dispersion medium.",
+        "hi": "रक्त एक कोलॉइड है। इसकी परिक्षिप्त प्रावस्था और परिक्षेपण माध्यम के नाम लिखिए।"
+      },
+      "answer": {
+        "en": "Dispersed phase: blood cells and proteins. Dispersion medium: the water of the plasma.",
+        "hi": "परिक्षिप्त प्रावस्था: रक्त कोशिकाएँ और प्रोटीन। परिक्षेपण माध्यम: प्लाज़्मा का जल।"
+      },
+      "explanation": {
+        "en": "The dispersed phase is the particles that are spread; the dispersion medium is what they are spread in.",
+        "hi": "परिक्षिप्त प्रावस्था वे कण हैं जो फैले हैं; परिक्षेपण माध्यम वह है जिसमें वे फैले हैं।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.4.4, 5.5"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.5-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.5",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "A laser beam is passed through four liquids. In which one is the path of the beam visible from the side?",
+        "hi": "चार द्रवों में से लेज़र किरण गुज़ारी गई। किसमें किरण का मार्ग बगल से दिखाई देगा?"
+      },
+      "options": [
+        {
+          "en": "Salt solution",
+          "hi": "नमक का विलयन"
+        },
+        {
+          "en": "Sugar solution",
+          "hi": "चीनी का विलयन"
+        },
+        {
+          "en": "Diluted milk",
+          "hi": "तनु दूध"
+        },
+        {
+          "en": "Copper sulphate solution",
+          "hi": "कॉपर सल्फ़ेट विलयन"
+        }
+      ],
+      "correctOption": 2,
+      "answer": {
+        "en": "Diluted milk",
+        "hi": "तनु दूध"
+      },
+      "explanation": {
+        "en": "Milk is a colloid whose particles scatter light (Tyndall effect); dissolved particles in true solutions are too small to scatter it.",
+        "hi": "दूध एक कोलॉइड है जिसके कण प्रकाश का प्रकीर्णन करते हैं (टिंडल प्रभाव); वास्तविक विलयनों के घुले कण इसके लिए बहुत छोटे होते हैं।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.5, Activity 5.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch05-t5.5-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch05",
+      "topicId": "cbse-9-ch05-t5.5",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "medium",
+      "question": {
+        "en": "Why can we see the path of a sunbeam entering a dusty room? Name the effect.",
+        "hi": "धूल भरे कमरे में आती सूर्य की किरण का मार्ग हमें क्यों दिखाई देता है? इस प्रभाव का नाम बताइए।"
+      },
+      "answer": {
+        "en": "Dust particles in the air scatter the light, making the beam visible. This is the Tyndall effect.",
+        "hi": "वायु में धूल के कण प्रकाश का प्रकीर्णन करते हैं, जिससे किरण दिखाई देती है। यह टिंडल प्रभाव है।"
+      },
+      "explanation": {
+        "en": "Particles of colloid size (like fine dust or smoke) are big enough to scatter light, so the path of the beam becomes visible.",
+        "hi": "कोलॉइडी आकार के कण (जैसे बारीक धूल या धुआँ) प्रकाश का प्रकीर्णन करने लायक बड़े होते हैं, इसलिए किरण का मार्ग दिखने लगता है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.5, Activity 5.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.1-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.1",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "Who, more than 2,000 years ago in India, said that matter divided again and again ends in indivisible particles called parmanus?",
+        "hi": "2,000 वर्ष से भी पहले भारत में किसने कहा था कि पदार्थ को बार-बार विभाजित करने पर अंत में अविभाज्य कण, परमाणु, मिलते हैं?"
+      },
+      "options": [
+        {
+          "en": "Acharya Kanada",
+          "hi": "आचार्य कणाद"
+        },
+        {
+          "en": "John Dalton",
+          "hi": "जॉन डाल्टन"
+        },
+        {
+          "en": "J. J. Thomson",
+          "hi": "जे. जे. टॉमसन"
+        },
+        {
+          "en": "Ernest Rutherford",
+          "hi": "अर्नेस्ट रदरफ़ोर्ड"
+        }
+      ],
+      "correctOption": 0,
+      "answer": {
+        "en": "Acharya Kanada",
+        "hi": "आचार्य कणाद"
+      },
+      "explanation": {
+        "en": "Kanada's ideas are recorded in the Vaisesika Sutras. Dalton's theory came much later, in 1808.",
+        "hi": "कणाद के विचार वैशेषिक सूत्रों में दर्ज हैं। डाल्टन का सिद्धांत बहुत बाद में, 1808 में आया।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.1-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.1",
+      "type": "assertionReason",
+      "marks": 1,
+      "difficulty": "medium",
+      "question": {
+        "en": "Assertion (A): Dalton's atomic theory is called the first scientific atomic theory.\nReason (R): It was based on the experiments of his time, while earlier ideas were philosophical.",
+        "hi": "अभिकथन (A): डाल्टन के परमाणु सिद्धांत को पहला वैज्ञानिक परमाणु सिद्धांत कहा जाता है।\nकारण (R): यह उसके समय के प्रयोगों पर आधारित था, जबकि पहले के विचार दार्शनिक थे।"
+      },
+      "options": [
+        {
+          "en": "Both A and R are true, and R is the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।"
+        },
+        {
+          "en": "Both A and R are true, but R is not the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, पर R, A की सही व्याख्या नहीं है।"
+        },
+        {
+          "en": "A is true, but R is false.",
+          "hi": "A सत्य है, पर R असत्य है।"
+        },
+        {
+          "en": "A is false, but R is true.",
+          "hi": "A असत्य है, पर R सत्य है।"
+        }
+      ],
+      "correctOption": 0,
+      "answer": {
+        "en": "Both A and R are true, and R is the correct explanation of A.",
+        "hi": "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।"
+      },
+      "explanation": {
+        "en": "Kanada and Democritus proposed ideas without experiments; Dalton (1808) built on experimental results, so R explains A.",
+        "hi": "कणाद और डेमोक्रिटस ने बिना प्रयोग के विचार दिए; डाल्टन (1808) ने प्रायोगिक परिणामों पर आधारित सिद्धांत दिया, इसलिए R, A की व्याख्या करता है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.1-3",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.1",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "medium",
+      "question": {
+        "en": "Dalton treated atoms as indivisible. Why is this not accepted as a fact today?",
+        "hi": "डाल्टन ने परमाणुओं को अविभाज्य माना। आज इसे तथ्य क्यों नहीं माना जाता?"
+      },
+      "answer": {
+        "en": "Later discoveries showed that atoms contain smaller particles — electrons, protons and neutrons — so atoms are divisible.",
+        "hi": "बाद की खोजों ने दिखाया कि परमाणुओं में छोटे कण — इलेक्ट्रॉन, प्रोटॉन और न्यूट्रॉन — होते हैं, इसलिए परमाणु विभाज्य हैं।"
+      },
+      "explanation": {
+        "en": "Dalton's theory was the starting point for later atomic models, which corrected this idea.",
+        "hi": "डाल्टन का सिद्धांत बाद के परमाणु मॉडलों का आरंभ-बिंदु था, जिन्होंने इस विचार को सुधारा।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.2-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.2",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "Which of these discoveries showed that atoms are not indivisible?",
+        "hi": "इनमें से किस खोज ने दिखाया कि परमाणु अविभाज्य नहीं हैं?"
+      },
+      "options": [
+        {
+          "en": "Radioactivity",
+          "hi": "रेडियोधर्मिता"
+        },
+        {
+          "en": "Law of conservation of mass",
+          "hi": "द्रव्यमान संरक्षण का नियम"
+        },
+        {
+          "en": "Chromatography",
+          "hi": "वर्णलेखन"
+        },
+        {
+          "en": "Sublimation",
+          "hi": "ऊर्ध्वपातन"
+        }
+      ],
+      "correctOption": 0,
+      "answer": {
+        "en": "Radioactivity",
+        "hi": "रेडियोधर्मिता"
+      },
+      "explanation": {
+        "en": "Atoms that give out radiation must have something inside them, so they are not indivisible.",
+        "hi": "विकिरण देने वाले परमाणुओं के भीतर कुछ अवश्य होना चाहिए, इसलिए वे अविभाज्य नहीं हैं।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.2, 8.2.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.2-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.2",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "medium",
+      "question": {
+        "en": "Cathode rays were the same whatever the gas or the metal of the cathode used. What did Thomson conclude from this?",
+        "hi": "कैथोड किरणें प्रयुक्त गैस या कैथोड की धातु चाहे जो हो, समान थीं। टॉमसन ने इससे क्या निष्कर्ष निकाला?"
+      },
+      "answer": {
+        "en": "That the negative particles (electrons) are present in the atoms of all elements.",
+        "hi": "कि ऋणात्मक कण (इलेक्ट्रॉन) सभी तत्वों के परमाणुओं में उपस्थित होते हैं।"
+      },
+      "explanation": {
+        "en": "If the particles were the same from every material, they must be a common part of all atoms.",
+        "hi": "यदि हर पदार्थ से एक जैसे कण मिले, तो वे सभी परमाणुओं का साझा भाग होने चाहिए।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.2, 8.2.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.2.1-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.2.1",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "In Thomson's model, the atom is pictured as —",
+        "hi": "टॉमसन मॉडल में परमाणु को दिखाया जाता है —"
+      },
+      "options": [
+        {
+          "en": "a sphere of positive charge with electrons spread through it",
+          "hi": "धनावेशित गोले के रूप में जिसमें इलेक्ट्रॉन फैले हैं"
+        },
+        {
+          "en": "a tiny nucleus with electrons in orbits",
+          "hi": "एक छोटे नाभिक के रूप में जिसके चारों ओर कक्षाओं में इलेक्ट्रॉन हैं"
+        },
+        {
+          "en": "electrons in fixed shells",
+          "hi": "निश्चित कोशों में इलेक्ट्रॉनों के रूप में"
+        },
+        {
+          "en": "a solid indivisible ball",
+          "hi": "एक ठोस अविभाज्य गेंद के रूप में"
+        }
+      ],
+      "correctOption": 0,
+      "answer": {
+        "en": "a sphere of positive charge with electrons spread through it",
+        "hi": "धनावेशित गोले के रूप में जिसमें इलेक्ट्रॉन फैले हैं"
+      },
+      "explanation": {
+        "en": "Like seeds in a watermelon (plum pudding model). There is no nucleus in this model.",
+        "hi": "तरबूज़ में बीजों की तरह (प्लम पुडिंग मॉडल)। इस मॉडल में कोई नाभिक नहीं है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.2, 8.2.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.2.1-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.2.1",
+      "type": "assertionReason",
+      "marks": 1,
+      "difficulty": "medium",
+      "question": {
+        "en": "Assertion (A): Thomson's model has a nucleus at the centre of the atom.\nReason (R): Thomson's model explained why an atom is neutral overall.",
+        "hi": "अभिकथन (A): टॉमसन मॉडल में परमाणु के केंद्र में नाभिक होता है।\nकारण (R): टॉमसन मॉडल ने बताया कि परमाणु कुल मिलाकर उदासीन क्यों है।"
+      },
+      "options": [
+        {
+          "en": "Both A and R are true, and R is the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।"
+        },
+        {
+          "en": "Both A and R are true, but R is not the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, पर R, A की सही व्याख्या नहीं है।"
+        },
+        {
+          "en": "A is true, but R is false.",
+          "hi": "A सत्य है, पर R असत्य है।"
+        },
+        {
+          "en": "A is false, but R is true.",
+          "hi": "A असत्य है, पर R सत्य है।"
+        }
+      ],
+      "correctOption": 3,
+      "answer": {
+        "en": "A is false, but R is true.",
+        "hi": "A असत्य है, पर R सत्य है।"
+      },
+      "explanation": {
+        "en": "The nucleus came with Rutherford's model; Thomson's model only spread the electrons through positive charge, which did make the atom neutral. So A is false, R is true.",
+        "hi": "नाभिक रदरफ़ोर्ड मॉडल से आया; टॉमसन मॉडल में केवल इलेक्ट्रॉन धनावेश में फैले थे, जिससे परमाणु उदासीन होता था। इसलिए A असत्य, R सत्य है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.2, 8.2.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.2.1-3",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.2.1",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "easy",
+      "question": {
+        "en": "State the charge of an electron in coulombs and its relative charge.",
+        "hi": "इलेक्ट्रॉन का आवेश कूलॉम में और उसका आपेक्षिक आवेश लिखिए।"
+      },
+      "answer": {
+        "en": "−1.602 × 10⁻¹⁹ C; relative charge −1.",
+        "hi": "−1.602 × 10⁻¹⁹ C; आपेक्षिक आवेश −1।"
+      },
+      "explanation": {
+        "en": "By convention this charge is taken as −1 unit when comparing subatomic particles.",
+        "hi": "उप-परमाणुक कणों की तुलना में इस आवेश को परिपाटी से −1 इकाई माना जाता है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.2, 8.2.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.2.2-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.2.2",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "medium",
+      "question": {
+        "en": "In the gold foil experiment, a very few α-particles bounced back. This showed that —",
+        "hi": "स्वर्ण पत्र प्रयोग में बहुत कम α-कण वापस लौट आए। इससे पता चला कि —"
+      },
+      "options": [
+        {
+          "en": "most of the atom is empty space",
+          "hi": "परमाणु का अधिकांश भाग खाली है"
+        },
+        {
+          "en": "the positive charge and most of the mass are in a very small nucleus",
+          "hi": "धनावेश और अधिकांश द्रव्यमान एक बहुत छोटे नाभिक में है"
+        },
+        {
+          "en": "electrons are very heavy",
+          "hi": "इलेक्ट्रॉन बहुत भारी हैं"
+        },
+        {
+          "en": "neutrons are present in the nucleus",
+          "hi": "नाभिक में न्यूट्रॉन हैं"
+        }
+      ],
+      "correctOption": 1,
+      "answer": {
+        "en": "the positive charge and most of the mass are in a very small nucleus",
+        "hi": "धनावेश और अधिकांश द्रव्यमान एक बहुत छोटे नाभिक में है"
+      },
+      "explanation": {
+        "en": "Only a tiny, dense, positive centre could turn an α-particle right back. Empty space is shown by the particles that passed straight; neutrons were found later (1932).",
+        "hi": "केवल एक छोटा, सघन, धनावेशित केंद्र ही α-कण को सीधे वापस मोड़ सकता है। खाली स्थान सीधे निकले कणों से पता चलता है; न्यूट्रॉन बाद में (1932) खोजे गए।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.2.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.2.2-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.2.2",
+      "type": "numerical",
+      "marks": 2,
+      "difficulty": "medium",
+      "question": {
+        "en": "The size of an atom is about 10⁻¹⁰ m and that of its nucleus about 10⁻¹⁵ m. How many times larger is the atom than its nucleus?",
+        "hi": "परमाणु का आकार लगभग 10⁻¹⁰ m और उसके नाभिक का लगभग 10⁻¹⁵ m है। परमाणु अपने नाभिक से कितने गुना बड़ा है?"
+      },
+      "answer": {
+        "en": "About 10⁵ (one lakh) times.",
+        "hi": "लगभग 10⁵ (एक लाख) गुना।"
+      },
+      "explanation": {
+        "en": "Ratio = size of atom ÷ size of nucleus = 10⁻¹⁰ ÷ 10⁻¹⁵ = 10⁻¹⁰⁺¹⁵ = 10⁵. This is why most of the atom is empty space.",
+        "hi": "अनुपात = परमाणु का आकार ÷ नाभिक का आकार = 10⁻¹⁰ ÷ 10⁻¹⁵ = 10⁻¹⁰⁺¹⁵ = 10⁵। इसीलिए परमाणु का अधिकांश भाग खाली है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.2.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.2.3-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.2.3",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "According to Bohr's model, an electron —",
+        "hi": "बोर मॉडल के अनुसार एक इलेक्ट्रॉन —"
+      },
+      "options": [
+        {
+          "en": "loses energy continuously while revolving",
+          "hi": "घूमते समय लगातार ऊर्जा खोता है"
+        },
+        {
+          "en": "does not lose energy while it stays in a fixed shell",
+          "hi": "किसी निश्चित कोश में रहते हुए ऊर्जा नहीं खोता"
+        },
+        {
+          "en": "can exist anywhere between shells",
+          "hi": "कोशों के बीच कहीं भी रह सकता है"
+        },
+        {
+          "en": "has the most energy in the K shell",
+          "hi": "K कोश में सबसे अधिक ऊर्जा रखता है"
+        }
+      ],
+      "correctOption": 1,
+      "answer": {
+        "en": "does not lose energy while it stays in a fixed shell",
+        "hi": "किसी निश्चित कोश में रहते हुए ऊर्जा नहीं खोता"
+      },
+      "explanation": {
+        "en": "In a stationary state the energy stays constant. Electrons cannot be between shells, and the K shell has the least energy.",
+        "hi": "स्थिर अवस्था में ऊर्जा स्थिर रहती है। इलेक्ट्रॉन कोशों के बीच नहीं रह सकते, और K कोश में ऊर्जा सबसे कम होती है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.2.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.2.3-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.2.3",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "medium",
+      "question": {
+        "en": "How does an electron move from one shell to another according to Bohr? Which shell has the least energy?",
+        "hi": "बोर के अनुसार इलेक्ट्रॉन एक कोश से दूसरे में कैसे जाता है? किस कोश की ऊर्जा सबसे कम होती है?"
+      },
+      "answer": {
+        "en": "Only by absorbing or releasing exactly the energy difference between the two shells. The K shell (n = 1), closest to the nucleus, has the least energy.",
+        "hi": "केवल दोनों कोशों के ऊर्जा-अंतर के ठीक बराबर ऊर्जा अवशोषित या उत्सर्जित करके। नाभिक के सबसे निकट K कोश (n = 1) की ऊर्जा सबसे कम होती है।"
+      },
+      "explanation": {
+        "en": "Energy increases outward from the nucleus; this is how fireworks and neon signs give their colours.",
+        "hi": "नाभिक से बाहर की ओर ऊर्जा बढ़ती है; इसी से आतिशबाज़ी और नियॉन साइन रंग देते हैं।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.2.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.3-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.3",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "The mass of an atom comes almost entirely from its —",
+        "hi": "परमाणु का द्रव्यमान लगभग पूरी तरह आता है उसके —"
+      },
+      "options": [
+        {
+          "en": "electrons",
+          "hi": "इलेक्ट्रॉनों से"
+        },
+        {
+          "en": "protons and neutrons",
+          "hi": "प्रोटॉनों और न्यूट्रॉनों से"
+        },
+        {
+          "en": "electrons and protons",
+          "hi": "इलेक्ट्रॉनों और प्रोटॉनों से"
+        },
+        {
+          "en": "shells",
+          "hi": "कोशों से"
+        }
+      ],
+      "correctOption": 1,
+      "answer": {
+        "en": "protons and neutrons",
+        "hi": "प्रोटॉनों और न्यूट्रॉनों से"
+      },
+      "explanation": {
+        "en": "Electrons are so light that their mass is negligible.",
+        "hi": "इलेक्ट्रॉन इतने हल्के हैं कि उनका द्रव्यमान नगण्य है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.3, 8.3.1, Table 8.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.3-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.3",
+      "type": "shortAnswer",
+      "marks": 3,
+      "difficulty": "medium",
+      "question": {
+        "en": "Copy and complete: Particle — symbol — relative charge — where found: (a) electron (b) proton (c) neutron.",
+        "hi": "पूरा कीजिए: कण — प्रतीक — आपेक्षिक आवेश — कहाँ पाया जाता है: (a) इलेक्ट्रॉन (b) प्रोटॉन (c) न्यूट्रॉन।"
+      },
+      "answer": {
+        "en": "(a) Electron — e⁻ — −1 — in shells around the nucleus. (b) Proton — p⁺ — +1 — in the nucleus. (c) Neutron — n⁰ — 0 — in the nucleus.",
+        "hi": "(a) इलेक्ट्रॉन — e⁻ — −1 — नाभिक के चारों ओर कोशों में। (b) प्रोटॉन — p⁺ — +1 — नाभिक में। (c) न्यूट्रॉन — n⁰ — 0 — नाभिक में।"
+      },
+      "explanation": {
+        "en": "Protons and neutrons (nucleons) are in the nucleus and carry almost all the mass; electrons are outside.",
+        "hi": "प्रोटॉन और न्यूट्रॉन (न्यूक्लिऑन) नाभिक में होते हैं और लगभग सारा द्रव्यमान रखते हैं; इलेक्ट्रॉन बाहर होते हैं।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.3, 8.3.1, Table 8.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.3.1-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.3.1",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "The nucleus of which atom has no neutron?",
+        "hi": "किस परमाणु के नाभिक में कोई न्यूट्रॉन नहीं होता?"
+      },
+      "options": [
+        {
+          "en": "Ordinary hydrogen",
+          "hi": "सामान्य हाइड्रोजन"
+        },
+        {
+          "en": "Helium",
+          "hi": "हीलियम"
+        },
+        {
+          "en": "Carbon",
+          "hi": "कार्बन"
+        },
+        {
+          "en": "Lithium",
+          "hi": "लीथियम"
+        }
+      ],
+      "correctOption": 0,
+      "answer": {
+        "en": "Ordinary hydrogen",
+        "hi": "सामान्य हाइड्रोजन"
+      },
+      "explanation": {
+        "en": "All nuclei have neutrons except ordinary hydrogen (protium), which has one proton only.",
+        "hi": "सामान्य हाइड्रोजन (प्रोटियम) को छोड़कर सभी नाभिकों में न्यूट्रॉन होते हैं; इसमें केवल एक प्रोटॉन है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.3, 8.3.1, Table 8.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.3.1-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.3.1",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "medium",
+      "question": {
+        "en": "Helium has two protons but is about four times as heavy as hydrogen, which has one. How did this point to the neutron?",
+        "hi": "हीलियम में दो प्रोटॉन हैं पर यह एक प्रोटॉन वाले हाइड्रोजन से लगभग चार गुना भारी है। इसने न्यूट्रॉन की ओर कैसे संकेत किया?"
+      },
+      "answer": {
+        "en": "Two protons account for only about twice the mass of hydrogen, so another particle with mass but no charge must be in the nucleus — the neutron.",
+        "hi": "दो प्रोटॉन हाइड्रोजन के लगभग दोगुने द्रव्यमान के ही बराबर हैं, इसलिए नाभिक में द्रव्यमान वाला पर आवेश-रहित एक और कण होना चाहिए — न्यूट्रॉन।"
+      },
+      "explanation": {
+        "en": "Chadwick discovered the neutron in 1932; its mass is nearly equal to that of a proton.",
+        "hi": "चैडविक ने 1932 में न्यूट्रॉन खोजा; इसका द्रव्यमान लगभग प्रोटॉन के बराबर है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.3, 8.3.1, Table 8.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.3.1-3",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.3.1",
+      "type": "assertionReason",
+      "marks": 1,
+      "difficulty": "medium",
+      "question": {
+        "en": "Assertion (A): Neutrons help to hold the nucleus together.\nReason (R): Neutrons carry a positive charge.",
+        "hi": "अभिकथन (A): न्यूट्रॉन नाभिक को बाँधे रखने में सहायता करते हैं।\nकारण (R): न्यूट्रॉन पर धनावेश होता है।"
+      },
+      "options": [
+        {
+          "en": "Both A and R are true, and R is the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।"
+        },
+        {
+          "en": "Both A and R are true, but R is not the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, पर R, A की सही व्याख्या नहीं है।"
+        },
+        {
+          "en": "A is true, but R is false.",
+          "hi": "A सत्य है, पर R असत्य है।"
+        },
+        {
+          "en": "A is false, but R is true.",
+          "hi": "A असत्य है, पर R सत्य है।"
+        }
+      ],
+      "correctOption": 2,
+      "answer": {
+        "en": "A is true, but R is false.",
+        "hi": "A सत्य है, पर R असत्य है।"
+      },
+      "explanation": {
+        "en": "Neutrons are uncharged; they reduce proton–proton repulsion and help the nuclear force hold the nucleus together. So A is true but R is false.",
+        "hi": "न्यूट्रॉन आवेश-रहित हैं; वे प्रोटॉन–प्रोटॉन प्रतिकर्षण घटाते हैं और नाभिकीय बल को नाभिक बाँधने में सहायता करते हैं। इसलिए A सत्य पर R असत्य है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.3, 8.3.1, Table 8.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.4-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.4",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "Which is the correct symbol for cobalt?",
+        "hi": "कोबाल्ट का सही प्रतीक कौन-सा है?"
+      },
+      "options": [
+        {
+          "en": "CO",
+          "hi": "CO"
+        },
+        {
+          "en": "Co",
+          "hi": "Co"
+        },
+        {
+          "en": "co",
+          "hi": "co"
+        },
+        {
+          "en": "C",
+          "hi": "C"
+        }
+      ],
+      "correctOption": 1,
+      "answer": {
+        "en": "Co",
+        "hi": "Co"
+      },
+      "explanation": {
+        "en": "The first letter is capital and the second small. CO means carbon monoxide, and C is carbon.",
+        "hi": "पहला अक्षर बड़ा और दूसरा छोटा होता है। CO का अर्थ कार्बन मोनोऑक्साइड है, और C कार्बन है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.4, Table 8.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.4-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.4",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "medium",
+      "question": {
+        "en": "Write the symbols of copper, gold, lead and mercury, and the Latin or Greek names they come from.",
+        "hi": "कॉपर, गोल्ड, लेड और मरकरी के प्रतीक तथा वे जिन लैटिन या ग्रीक नामों से आए हैं, लिखिए।"
+      },
+      "answer": {
+        "en": "Copper Cu (cuprum), gold Au (aurum), lead Pb (plumbum), mercury Hg (hydrargyros).",
+        "hi": "कॉपर Cu (क्यूप्रम), गोल्ड Au (ऑरम), लेड Pb (प्लंबम), मरकरी Hg (हाइड्रार्जिरोस)।"
+      },
+      "explanation": {
+        "en": "Berzelius suggested symbols from Latin names; IUPAC approves the symbols used today.",
+        "hi": "बर्ज़ीलियस ने लैटिन नामों से प्रतीक सुझाए; आज के प्रतीक IUPAC स्वीकृत करता है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.4, Table 8.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.5-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.5",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "The atomic number of an element is the number of —",
+        "hi": "किसी तत्व का परमाणु क्रमांक संख्या है —"
+      },
+      "options": [
+        {
+          "en": "protons in its nucleus",
+          "hi": "उसके नाभिक में प्रोटॉनों की"
+        },
+        {
+          "en": "neutrons in its nucleus",
+          "hi": "उसके नाभिक में न्यूट्रॉनों की"
+        },
+        {
+          "en": "protons and neutrons together",
+          "hi": "प्रोटॉनों और न्यूट्रॉनों की मिलाकर"
+        },
+        {
+          "en": "shells in the atom",
+          "hi": "परमाणु में कोशों की"
+        }
+      ],
+      "correctOption": 0,
+      "answer": {
+        "en": "protons in its nucleus",
+        "hi": "उसके नाभिक में प्रोटॉनों की"
+      },
+      "explanation": {
+        "en": "Z = number of protons; it identifies the element. Every atom with 6 protons is carbon.",
+        "hi": "Z = प्रोटॉनों की संख्या; यह तत्व की पहचान है। 6 प्रोटॉन वाला हर परमाणु कार्बन है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.5, 8.6, Table 8.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.6-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.6",
+      "type": "numerical",
+      "marks": 2,
+      "difficulty": "easy",
+      "question": {
+        "en": "An atom of phosphorus has atomic number 15 and mass number 31. How many protons, neutrons and electrons does it have?",
+        "hi": "फ़ॉस्फ़ोरस के एक परमाणु का परमाणु क्रमांक 15 और द्रव्यमान संख्या 31 है। इसमें कितने प्रोटॉन, न्यूट्रॉन और इलेक्ट्रॉन हैं?"
+      },
+      "answer": {
+        "en": "15 protons, 16 neutrons, 15 electrons.",
+        "hi": "15 प्रोटॉन, 16 न्यूट्रॉन, 15 इलेक्ट्रॉन।"
+      },
+      "explanation": {
+        "en": "Formulas: protons = Z = 15; neutrons = A − Z = 31 − 15 = 16; in a neutral atom electrons = Z = 15.",
+        "hi": "सूत्र: प्रोटॉन = Z = 15; न्यूट्रॉन = A − Z = 31 − 15 = 16; उदासीन परमाणु में इलेक्ट्रॉन = Z = 15।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.5, 8.6, Table 8.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.6-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.6",
+      "type": "numerical",
+      "marks": 2,
+      "difficulty": "medium",
+      "question": {
+        "en": "A sodium ion, Na⁺, has mass number 23 and atomic number 11. Find its numbers of protons, neutrons and electrons.",
+        "hi": "सोडियम आयन Na⁺ की द्रव्यमान संख्या 23 और परमाणु क्रमांक 11 है। इसमें प्रोटॉन, न्यूट्रॉन और इलेक्ट्रॉनों की संख्या ज्ञात कीजिए।"
+      },
+      "answer": {
+        "en": "11 protons, 12 neutrons, 10 electrons.",
+        "hi": "11 प्रोटॉन, 12 न्यूट्रॉन, 10 इलेक्ट्रॉन।"
+      },
+      "explanation": {
+        "en": "Protons = Z = 11; neutrons = A − Z = 23 − 11 = 12. The + charge means one electron has been lost, so electrons = 11 − 1 = 10.",
+        "hi": "प्रोटॉन = Z = 11; न्यूट्रॉन = A − Z = 23 − 11 = 12। + आवेश का अर्थ है एक इलेक्ट्रॉन खोया गया, इसलिए इलेक्ट्रॉन = 11 − 1 = 10।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.5, 8.6, Table 8.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.6-3",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.6",
+      "type": "assertionReason",
+      "marks": 1,
+      "difficulty": "medium",
+      "question": {
+        "en": "Assertion (A): The mass number of an atom equals the number of neutrons in it.\nReason (R): Protons and neutrons together are called nucleons.",
+        "hi": "अभिकथन (A): किसी परमाणु की द्रव्यमान संख्या उसमें न्यूट्रॉनों की संख्या के बराबर होती है।\nकारण (R): प्रोटॉन और न्यूट्रॉन मिलकर न्यूक्लिऑन कहलाते हैं।"
+      },
+      "options": [
+        {
+          "en": "Both A and R are true, and R is the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।"
+        },
+        {
+          "en": "Both A and R are true, but R is not the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, पर R, A की सही व्याख्या नहीं है।"
+        },
+        {
+          "en": "A is true, but R is false.",
+          "hi": "A सत्य है, पर R असत्य है।"
+        },
+        {
+          "en": "A is false, but R is true.",
+          "hi": "A असत्य है, पर R सत्य है।"
+        }
+      ],
+      "correctOption": 3,
+      "answer": {
+        "en": "A is false, but R is true.",
+        "hi": "A असत्य है, पर R सत्य है।"
+      },
+      "explanation": {
+        "en": "Mass number counts all nucleons (protons + neutrons), so neutrons = A − Z. A is false; R is a true statement.",
+        "hi": "द्रव्यमान संख्या सभी न्यूक्लिऑनों (प्रोटॉन + न्यूट्रॉन) को गिनती है, इसलिए न्यूट्रॉन = A − Z। A असत्य है; R सत्य कथन है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.5, 8.6, Table 8.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.7-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.7",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "The maximum number of electrons the M shell (n = 3) can hold is —",
+        "hi": "M कोश (n = 3) अधिकतम कितने इलेक्ट्रॉन रख सकता है —"
+      },
+      "options": [
+        {
+          "en": "2",
+          "hi": "2"
+        },
+        {
+          "en": "8",
+          "hi": "8"
+        },
+        {
+          "en": "18",
+          "hi": "18"
+        },
+        {
+          "en": "32",
+          "hi": "32"
+        }
+      ],
+      "correctOption": 2,
+      "answer": {
+        "en": "18",
+        "hi": "18"
+      },
+      "explanation": {
+        "en": "Maximum = 2n² = 2 × 3² = 18. (For the first 18 elements the M shell is filled only up to 8.)",
+        "hi": "अधिकतम = 2n² = 2 × 3² = 18। (पहले 18 तत्वों में M कोश केवल 8 तक भरता है।)"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.7, 8.7.1, Table 8.4"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.7-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.7",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "medium",
+      "question": {
+        "en": "A student wrote the configuration of potassium (Z = 19) as 2, 8, 9. Correct it and give the rule that was broken.",
+        "hi": "एक छात्र ने पोटैशियम (Z = 19) का विन्यास 2, 8, 9 लिखा। इसे सुधारिए और टूटा हुआ नियम बताइए।"
+      },
+      "answer": {
+        "en": "Correct configuration: 2, 8, 8, 1. Rule: the outermost shell can hold at most 8 electrons.",
+        "hi": "सही विन्यास: 2, 8, 8, 1। नियम: सबसे बाहरी कोश में अधिकतम 8 इलेक्ट्रॉन हो सकते हैं।"
+      },
+      "explanation": {
+        "en": "With 9 electrons the M shell would be the outermost shell holding more than 8, which is not allowed, so the 19th electron goes into the N shell.",
+        "hi": "9 इलेक्ट्रॉनों के साथ M कोश सबसे बाहरी होकर 8 से अधिक रखता, जो अनुमत नहीं, इसलिए 19वाँ इलेक्ट्रॉन N कोश में जाता है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.7, 8.7.1, Table 8.4"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.7.1-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.7.1",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "easy",
+      "question": {
+        "en": "Write the electronic configurations of nitrogen (Z = 7), neon (Z = 10) and aluminium (Z = 13).",
+        "hi": "नाइट्रोजन (Z = 7), निऑन (Z = 10) और ऐलुमिनियम (Z = 13) के इलेक्ट्रॉनिक विन्यास लिखिए।"
+      },
+      "answer": {
+        "en": "N: 2, 5; Ne: 2, 8; Al: 2, 8, 3.",
+        "hi": "N: 2, 5; Ne: 2, 8; Al: 2, 8, 3।"
+      },
+      "explanation": {
+        "en": "Fill K (2) first, then L (8), then M, adding one electron at a time.",
+        "hi": "पहले K (2), फिर L (8), फिर M भरें — एक-एक इलेक्ट्रॉन जोड़ते हुए।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.7, 8.7.1, Table 8.4"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.7.1-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.7.1",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "medium",
+      "question": {
+        "en": "An element has the configuration 2, 8, 4. Its atomic number is —",
+        "hi": "किसी तत्व का विन्यास 2, 8, 4 है। उसका परमाणु क्रमांक है —"
+      },
+      "options": [
+        {
+          "en": "4",
+          "hi": "4"
+        },
+        {
+          "en": "12",
+          "hi": "12"
+        },
+        {
+          "en": "14",
+          "hi": "14"
+        },
+        {
+          "en": "16",
+          "hi": "16"
+        }
+      ],
+      "correctOption": 2,
+      "answer": {
+        "en": "14",
+        "hi": "14"
+      },
+      "explanation": {
+        "en": "Total electrons = 2 + 8 + 4 = 14, which equals Z for a neutral atom (silicon).",
+        "hi": "कुल इलेक्ट्रॉन = 2 + 8 + 4 = 14, जो उदासीन परमाणु के लिए Z के बराबर है (सिलिकॉन)।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.7, 8.7.1, Table 8.4"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.7.1-3",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.7.1",
+      "type": "shortAnswer",
+      "marks": 3,
+      "difficulty": "medium",
+      "question": {
+        "en": "Element X has 17 electrons. (a) Write its configuration. (b) How many shells are occupied? (c) How many electrons are in its outermost shell?",
+        "hi": "तत्व X में 17 इलेक्ट्रॉन हैं। (a) इसका विन्यास लिखिए। (b) कितने कोश भरे हैं? (c) इसके सबसे बाहरी कोश में कितने इलेक्ट्रॉन हैं?"
+      },
+      "answer": {
+        "en": "(a) 2, 8, 7 (b) three shells (K, L, M) (c) 7",
+        "hi": "(a) 2, 8, 7 (b) तीन कोश (K, L, M) (c) 7"
+      },
+      "explanation": {
+        "en": "K takes 2, L takes 8, and the remaining 7 go into M. This is chlorine.",
+        "hi": "K में 2, L में 8 और बचे 7 M में जाते हैं। यह क्लोरीन है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.7, 8.7.1, Table 8.4"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.8-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.8",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "What is the valency of neon (2, 8)?",
+        "hi": "निऑन (2, 8) की संयोजकता क्या है?"
+      },
+      "options": [
+        {
+          "en": "0",
+          "hi": "0"
+        },
+        {
+          "en": "2",
+          "hi": "2"
+        },
+        {
+          "en": "8",
+          "hi": "8"
+        },
+        {
+          "en": "10",
+          "hi": "10"
+        }
+      ],
+      "correctOption": 0,
+      "answer": {
+        "en": "0",
+        "hi": "0"
+      },
+      "explanation": {
+        "en": "Neon already has a complete octet, so it does not combine; noble gases have valency 0.",
+        "hi": "निऑन का अष्टक पहले से पूरा है, इसलिए वह संयोग नहीं करता; उत्कृष्ट गैसों की संयोजकता 0 है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.8"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.8-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.8",
+      "type": "shortAnswer",
+      "marks": 3,
+      "difficulty": "medium",
+      "question": {
+        "en": "Find the valency of (a) magnesium (Z = 12), (b) oxygen (Z = 8) and (c) carbon (Z = 6), and say whether each loses, gains or shares electrons.",
+        "hi": "(a) मैग्नीशियम (Z = 12), (b) ऑक्सीजन (Z = 8) और (c) कार्बन (Z = 6) की संयोजकता ज्ञात कीजिए और बताइए कि प्रत्येक इलेक्ट्रॉन खोता है, ग्रहण करता है या साझा करता है।"
+      },
+      "answer": {
+        "en": "(a) Mg 2, 8, 2 → loses 2, valency 2. (b) O 2, 6 → gains 2, valency 8 − 6 = 2. (c) C 2, 4 → shares 4, valency 4.",
+        "hi": "(a) Mg 2, 8, 2 → 2 खोता है, संयोजकता 2। (b) O 2, 6 → 2 ग्रहण करता है, संयोजकता 8 − 6 = 2। (c) C 2, 4 → 4 साझा करता है, संयोजकता 4।"
+      },
+      "explanation": {
+        "en": "Valency = valence electrons if 1–4, or 8 − valence electrons if 5–8.",
+        "hi": "संयोजकता = संयोजकता इलेक्ट्रॉन (यदि 1–4) या 8 − संयोजकता इलेक्ट्रॉन (यदि 5–8)।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.8"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.9-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.9",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "Isotopes of an element have the same —",
+        "hi": "किसी तत्व के समस्थानिकों में समान होता है —"
+      },
+      "options": [
+        {
+          "en": "mass number",
+          "hi": "द्रव्यमान संख्या"
+        },
+        {
+          "en": "number of neutrons",
+          "hi": "न्यूट्रॉनों की संख्या"
+        },
+        {
+          "en": "atomic number",
+          "hi": "परमाणु क्रमांक"
+        },
+        {
+          "en": "physical properties",
+          "hi": "भौतिक गुण"
+        }
+      ],
+      "correctOption": 2,
+      "answer": {
+        "en": "atomic number",
+        "hi": "परमाणु क्रमांक"
+      },
+      "explanation": {
+        "en": "Isotopes have the same number of protons (Z) but different numbers of neutrons, so their mass numbers and physical properties differ.",
+        "hi": "समस्थानिकों में प्रोटॉन (Z) समान पर न्यूट्रॉन अलग होते हैं, इसलिए उनकी द्रव्यमान संख्याएँ और भौतिक गुण अलग होते हैं।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.9, 8.9.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.9.1-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.9.1",
+      "type": "numerical",
+      "marks": 3,
+      "difficulty": "medium",
+      "question": {
+        "en": "Chlorine occurs as 75% ³⁵Cl and 25% ³⁷Cl. Calculate its average atomic mass. Why is a simple average of 35 and 37 wrong here?",
+        "hi": "क्लोरीन 75% ³⁵Cl और 25% ³⁷Cl के रूप में पाई जाती है। इसका औसत परमाणु द्रव्यमान परिकलित कीजिए। यहाँ 35 और 37 का साधारण औसत गलत क्यों है?"
+      },
+      "answer": {
+        "en": "35.5 u. The isotopes are not present in equal amounts.",
+        "hi": "35.5 u। समस्थानिक बराबर मात्रा में उपस्थित नहीं हैं।"
+      },
+      "explanation": {
+        "en": "Formula: average atomic mass = Σ (isotope mass × % abundance ÷ 100) = 35 × 75 ÷ 100 + 37 × 25 ÷ 100 = 26.25 + 9.25 = 35.5 u. A simple average (36) would treat both isotopes as equally common.",
+        "hi": "सूत्र: औसत परमाणु द्रव्यमान = Σ (समस्थानिक द्रव्यमान × % बहुलता ÷ 100) = 35 × 75 ÷ 100 + 37 × 25 ÷ 100 = 26.25 + 9.25 = 35.5 u। साधारण औसत (36) दोनों समस्थानिकों को बराबर मान लेता।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.9, 8.9.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.9.1-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.9.1",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "easy",
+      "question": {
+        "en": "Name the three isotopes of hydrogen and give the number of neutrons in each.",
+        "hi": "हाइड्रोजन के तीन समस्थानिकों के नाम और प्रत्येक में न्यूट्रॉनों की संख्या लिखिए।"
+      },
+      "answer": {
+        "en": "Protium ¹₁H — 0; deuterium ²₁H — 1; tritium ³₁H — 2.",
+        "hi": "प्रोटियम ¹₁H — 0; ड्यूटीरियम ²₁H — 1; ट्रिटियम ³₁H — 2।"
+      },
+      "explanation": {
+        "en": "All three have one proton (Z = 1); only the number of neutrons, and so the mass number, changes.",
+        "hi": "तीनों में एक प्रोटॉन (Z = 1) है; केवल न्यूट्रॉनों की संख्या, और इसलिए द्रव्यमान संख्या, बदलती है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.9, 8.9.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.9.1-3",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.9.1",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "medium",
+      "question": {
+        "en": "Which isotope is used in the treatment of goitre and thyroid cancer?",
+        "hi": "घेंघा और थायरॉइड कैंसर के उपचार में किस समस्थानिक का उपयोग होता है?"
+      },
+      "options": [
+        {
+          "en": "Iodine-131",
+          "hi": "आयोडीन-131"
+        },
+        {
+          "en": "Carbon-14",
+          "hi": "कार्बन-14"
+        },
+        {
+          "en": "Uranium-235",
+          "hi": "यूरेनियम-235"
+        },
+        {
+          "en": "Cobalt-60",
+          "hi": "कोबाल्ट-60"
+        }
+      ],
+      "correctOption": 0,
+      "answer": {
+        "en": "Iodine-131",
+        "hi": "आयोडीन-131"
+      },
+      "explanation": {
+        "en": "¹³¹I is used for the thyroid; ¹⁴C dates fossils, ²³⁵U is nuclear fuel and ⁶⁰Co is used in cancer treatment.",
+        "hi": "¹³¹I थायरॉइड के लिए उपयोग होता है; ¹⁴C से जीवाश्मों की आयु ज्ञात होती है, ²³⁵U नाभिकीय ईंधन है और ⁶⁰Co कैंसर उपचार में उपयोग होता है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.9, 8.9.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.9.2-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.9.2",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "Isobars are atoms of different elements that have the same —",
+        "hi": "समभारिक विभिन्न तत्वों के वे परमाणु हैं जिनमें समान होता है —"
+      },
+      "options": [
+        {
+          "en": "atomic number",
+          "hi": "परमाणु क्रमांक"
+        },
+        {
+          "en": "mass number",
+          "hi": "द्रव्यमान संख्या"
+        },
+        {
+          "en": "number of electrons",
+          "hi": "इलेक्ट्रॉनों की संख्या"
+        },
+        {
+          "en": "chemical properties",
+          "hi": "रासायनिक गुण"
+        }
+      ],
+      "correctOption": 1,
+      "answer": {
+        "en": "mass number",
+        "hi": "द्रव्यमान संख्या"
+      },
+      "explanation": {
+        "en": "Example: ⁴⁰Ca, ⁴⁰K and ⁴⁰Ar. Their atomic numbers differ, so they are different elements.",
+        "hi": "उदाहरण: ⁴⁰Ca, ⁴⁰K और ⁴⁰Ar। इनके परमाणु क्रमांक अलग हैं, इसलिए ये अलग तत्व हैं।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.9.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch08-t8.9.2-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch08",
+      "topicId": "cbse-9-ch08-t8.9.2",
+      "type": "assertionReason",
+      "marks": 1,
+      "difficulty": "medium",
+      "question": {
+        "en": "Assertion (A): Isobars have different chemical properties.\nReason (R): Isobars have different numbers of protons and so different numbers of electrons.",
+        "hi": "अभिकथन (A): समभारिकों के रासायनिक गुण अलग होते हैं।\nकारण (R): समभारिकों में प्रोटॉनों की और इसलिए इलेक्ट्रॉनों की संख्या अलग होती है।"
+      },
+      "options": [
+        {
+          "en": "Both A and R are true, and R is the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।"
+        },
+        {
+          "en": "Both A and R are true, but R is not the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, पर R, A की सही व्याख्या नहीं है।"
+        },
+        {
+          "en": "A is true, but R is false.",
+          "hi": "A सत्य है, पर R असत्य है।"
+        },
+        {
+          "en": "A is false, but R is true.",
+          "hi": "A असत्य है, पर R सत्य है।"
+        }
+      ],
+      "correctOption": 0,
+      "answer": {
+        "en": "Both A and R are true, and R is the correct explanation of A.",
+        "hi": "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।"
+      },
+      "explanation": {
+        "en": "Chemical properties depend on electrons; different atomic numbers give different electron arrangements, so R explains A.",
+        "hi": "रासायनिक गुण इलेक्ट्रॉनों पर निर्भर हैं; अलग परमाणु क्रमांक से इलेक्ट्रॉन-व्यवस्था अलग होती है, इसलिए R, A की व्याख्या करता है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "8.9.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch09-t9.1-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.1",
+      "type": "numerical",
+      "marks": 2,
+      "difficulty": "medium",
+      "question": {
+        "en": "When 12 g of magnesium burns completely in oxygen, 20 g of magnesium oxide is formed. What mass of oxygen combined with the magnesium?",
+        "hi": "जब 12 g मैग्नीशियम ऑक्सीजन में पूरी तरह जलता है, तो 20 g मैग्नीशियम ऑक्साइड बनता है। मैग्नीशियम से कितनी ऑक्सीजन संयोजित हुई?"
+      },
+      "answer": {
+        "en": "8 g of oxygen",
+        "hi": "8 g ऑक्सीजन"
+      },
+      "explanation": {
+        "en": "Law of conservation of mass: total mass of reactants = total mass of products. 12 g + mass of oxygen = 20 g, so mass of oxygen = 20 − 12 = 8 g.",
+        "hi": "द्रव्यमान संरक्षण का नियम: अभिकारकों का कुल द्रव्यमान = उत्पादों का कुल द्रव्यमान। 12 g + ऑक्सीजन का द्रव्यमान = 20 g, अतः ऑक्सीजन का द्रव्यमान = 20 − 12 = 8 g।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.1, Activities 9.1–9.3, Examples 9.1–9.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch09-t9.2-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.2",
+      "type": "numerical",
+      "marks": 2,
+      "difficulty": "easy",
+      "question": {
+        "en": "Water always contains hydrogen and oxygen in the mass ratio 1 : 8. What masses of hydrogen and oxygen are present in 36 g of water?",
+        "hi": "जल में हाइड्रोजन और ऑक्सीजन सदैव 1 : 8 द्रव्यमान अनुपात में होते हैं। 36 g जल में हाइड्रोजन और ऑक्सीजन के कितने द्रव्यमान हैं?"
+      },
+      "answer": {
+        "en": "4 g of hydrogen and 32 g of oxygen",
+        "hi": "4 g हाइड्रोजन और 32 g ऑक्सीजन"
+      },
+      "explanation": {
+        "en": "Total ratio parts = 1 + 8 = 9. Hydrogen = 36 × 1 ÷ 9 = 4 g; oxygen = 36 × 8 ÷ 9 = 32 g. Check: 4 + 32 = 36 g.",
+        "hi": "अनुपात के कुल भाग = 1 + 8 = 9। हाइड्रोजन = 36 × 1 ÷ 9 = 4 g; ऑक्सीजन = 36 × 8 ÷ 9 = 32 g। जाँच: 4 + 32 = 36 g।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.2, Example 9.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch09-t9.2-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.2",
+      "type": "assertionReason",
+      "marks": 1,
+      "difficulty": "medium",
+      "question": {
+        "en": "Assertion (A): A sample of water from the sea and one from a borewell, when purified, have hydrogen and oxygen in the same mass ratio.\nReason (R): In a compound the elements are always combined in a fixed ratio by mass, whatever its source.",
+        "hi": "अभिकथन (A): समुद्र और नलकूप के जल के नमूनों को शुद्ध करने पर उनमें हाइड्रोजन और ऑक्सीजन समान द्रव्यमान अनुपात में होते हैं।\nकारण (R): किसी यौगिक में तत्व, स्रोत चाहे जो हो, सदैव निश्चित द्रव्यमान अनुपात में संयुक्त होते हैं।"
+      },
+      "options": [
+        {
+          "en": "Both A and R are true, and R is the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।"
+        },
+        {
+          "en": "Both A and R are true, but R is not the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, पर R, A की सही व्याख्या नहीं है।"
+        },
+        {
+          "en": "A is true, but R is false.",
+          "hi": "A सत्य है, पर R असत्य है।"
+        },
+        {
+          "en": "A is false, but R is true.",
+          "hi": "A असत्य है, पर R सत्य है।"
+        }
+      ],
+      "correctOption": 0,
+      "answer": {
+        "en": "Both A and R are true, and R is the correct explanation of A.",
+        "hi": "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।"
+      },
+      "explanation": {
+        "en": "This is the law of constant proportions: pure water from any source has H : O = 1 : 8 by mass. R states the law that explains A.",
+        "hi": "यह स्थिर अनुपात का नियम है: किसी भी स्रोत के शुद्ध जल में द्रव्यमान से H : O = 1 : 8 होता है। R वह नियम है जो A की व्याख्या करता है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.2, Example 9.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch09-t9.3-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.3",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "Which postulate of Dalton's atomic theory was later found to be incorrect?",
+        "hi": "डाल्टन के परमाणु सिद्धांत का कौन-सा अभिगृहीत बाद में गलत पाया गया?"
+      },
+      "options": [
+        {
+          "en": "Atoms combine in simple whole-number ratios",
+          "hi": "परमाणु सरल पूर्णांक अनुपात में संयोग करते हैं"
+        },
+        {
+          "en": "Atoms are indivisible",
+          "hi": "परमाणु अविभाज्य हैं"
+        },
+        {
+          "en": "Matter is made of atoms",
+          "hi": "पदार्थ परमाणुओं से बना है"
+        },
+        {
+          "en": "Atoms of different elements differ in mass",
+          "hi": "विभिन्न तत्वों के परमाणुओं के द्रव्यमान अलग होते हैं"
+        }
+      ],
+      "correctOption": 1,
+      "answer": {
+        "en": "Atoms are indivisible",
+        "hi": "परमाणु अविभाज्य हैं"
+      },
+      "explanation": {
+        "en": "Atoms were later found to contain electrons, protons and neutrons, so they are divisible. (Isotopes also showed that atoms of one element can differ in mass.)",
+        "hi": "बाद में पता चला कि परमाणुओं में इलेक्ट्रॉन, प्रोटॉन और न्यूट्रॉन होते हैं, इसलिए वे विभाज्य हैं। (समस्थानिकों ने यह भी दिखाया कि एक तत्व के परमाणुओं के द्रव्यमान अलग हो सकते हैं।)"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch09-t9.3-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.3",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "medium",
+      "question": {
+        "en": "Dalton said atoms combine in simple whole-number ratios. Is this a ratio of masses or of numbers of atoms? Explain with water.",
+        "hi": "डाल्टन ने कहा कि परमाणु सरल पूर्णांक अनुपात में संयोग करते हैं। यह द्रव्यमान का अनुपात है या परमाणुओं की संख्या का? जल के उदाहरण से समझाइए।"
+      },
+      "answer": {
+        "en": "It is a ratio of numbers of atoms. Water has 2 hydrogen atoms : 1 oxygen atom, but its mass ratio is 1 : 8.",
+        "hi": "यह परमाणुओं की संख्या का अनुपात है। जल में 2 हाइड्रोजन परमाणु : 1 ऑक्सीजन परमाणु है, पर इसका द्रव्यमान अनुपात 1 : 8 है।"
+      },
+      "explanation": {
+        "en": "Confusing the atom ratio with the mass ratio is a common mistake.",
+        "hi": "परमाणु अनुपात और द्रव्यमान अनुपात में भ्रम एक आम गलती है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch09-t9.4-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.4",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "Why does helium exist as single atoms and not as molecules?",
+        "hi": "हीलियम अणुओं के रूप में नहीं, एकल परमाणुओं के रूप में क्यों रहती है?"
+      },
+      "options": [
+        {
+          "en": "Its outer shell is already complete, so it is stable",
+          "hi": "इसका बाहरी कोश पहले से पूर्ण है, इसलिए यह स्थायी है"
+        },
+        {
+          "en": "It is a metal",
+          "hi": "यह एक धातु है"
+        },
+        {
+          "en": "It has no electrons",
+          "hi": "इसमें कोई इलेक्ट्रॉन नहीं है"
+        },
+        {
+          "en": "It is too heavy to bond",
+          "hi": "यह बंध बनाने के लिए बहुत भारी है"
+        }
+      ],
+      "correctOption": 0,
+      "answer": {
+        "en": "Its outer shell is already complete, so it is stable",
+        "hi": "इसका बाहरी कोश पहले से पूर्ण है, इसलिए यह स्थायी है"
+      },
+      "explanation": {
+        "en": "Atoms bond to become stable; helium (2 electrons in the K shell) is already stable.",
+        "hi": "परमाणु स्थायी बनने के लिए बंध बनाते हैं; हीलियम (K कोश में 2 इलेक्ट्रॉन) पहले से स्थायी है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.4, 9.4.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch09-t9.4.1-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.4.1",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "How many shared pairs of electrons are there in a nitrogen molecule (N₂)?",
+        "hi": "नाइट्रोजन अणु (N₂) में कितने साझा इलेक्ट्रॉन-युग्म हैं?"
+      },
+      "options": [
+        {
+          "en": "One",
+          "hi": "एक"
+        },
+        {
+          "en": "Two",
+          "hi": "दो"
+        },
+        {
+          "en": "Three",
+          "hi": "तीन"
+        },
+        {
+          "en": "Four",
+          "hi": "चार"
+        }
+      ],
+      "correctOption": 2,
+      "answer": {
+        "en": "Three",
+        "hi": "तीन"
+      },
+      "explanation": {
+        "en": "N₂ has a triple bond, N≡N, which is three shared pairs.",
+        "hi": "N₂ में त्रिबंध N≡N है, अर्थात तीन साझा युग्म।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.4, 9.4.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch09-t9.4.1-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.4.1",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "medium",
+      "question": {
+        "en": "Name these covalent compounds: (a) CO (b) CO₂ (c) SO₃ (d) CCl₄.",
+        "hi": "इन सहसंयोजी यौगिकों के नाम लिखिए: (a) CO (b) CO₂ (c) SO₃ (d) CCl₄।"
+      },
+      "answer": {
+        "en": "(a) carbon monoxide (b) carbon dioxide (c) sulfur trioxide (d) carbon tetrachloride",
+        "hi": "(a) कार्बन मोनोऑक्साइड (b) कार्बन डाइऑक्साइड (c) सल्फ़र ट्राइऑक्साइड (d) कार्बन टेट्राक्लोराइड"
+      },
+      "explanation": {
+        "en": "Prefixes give the number of atoms (mono 1, di 2, tri 3, tetra 4); mono- is dropped for the first element, and the second element ends in -ide.",
+        "hi": "उपसर्ग परमाणुओं की संख्या बताते हैं (मोनो 1, डाइ 2, ट्राइ 3, टेट्रा 4); पहले तत्व के लिए मोनो- नहीं लगाते, और दूसरा तत्व -आइड पर समाप्त होता है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.4, 9.4.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch09-t9.4.1-3",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.4.1",
+      "type": "shortAnswer",
+      "marks": 3,
+      "difficulty": "medium",
+      "question": {
+        "en": "Explain, with the type of bond in each, how (a) a hydrogen molecule and (b) an oxygen molecule are formed.",
+        "hi": "(a) हाइड्रोजन अणु और (b) ऑक्सीजन अणु कैसे बनते हैं, प्रत्येक में बंध के प्रकार सहित समझाइए।"
+      },
+      "answer": {
+        "en": "(a) Each hydrogen atom shares its one electron, giving one shared pair — a single bond, H–H. (b) Each oxygen atom (2, 6) shares two electrons, giving two shared pairs — a double bond, O=O. Both atoms then have a complete outer shell.",
+        "hi": "(a) प्रत्येक हाइड्रोजन परमाणु अपना एक इलेक्ट्रॉन साझा करता है, जिससे एक साझा युग्म — एकल बंध H–H — बनता है। (b) प्रत्येक ऑक्सीजन परमाणु (2, 6) दो इलेक्ट्रॉन साझा करता है, जिससे दो साझा युग्म — द्विबंध O=O — बनते हैं। तब दोनों परमाणुओं का बाहरी कोश पूर्ण हो जाता है।"
+      },
+      "explanation": {
+        "en": "A covalent bond is a shared pair of electrons; sharing lets each atom complete its duplet or octet.",
+        "hi": "सहसंयोजी बंध एक साझा इलेक्ट्रॉन-युग्म है; साझेदारी से प्रत्येक परमाणु अपना द्विक या अष्टक पूरा करता है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.4, 9.4.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch09-t9.4.2-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.4.2",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "When sodium reacts with chlorine to form sodium chloride, the sodium atom —",
+        "hi": "जब सोडियम क्लोरीन से अभिक्रिया करके सोडियम क्लोराइड बनाता है, तो सोडियम परमाणु —"
+      },
+      "options": [
+        {
+          "en": "shares one electron with chlorine",
+          "hi": "क्लोरीन के साथ एक इलेक्ट्रॉन साझा करता है"
+        },
+        {
+          "en": "loses one electron and becomes Na⁺",
+          "hi": "एक इलेक्ट्रॉन खोकर Na⁺ बन जाता है"
+        },
+        {
+          "en": "gains one electron and becomes Na⁻",
+          "hi": "एक इलेक्ट्रॉन ग्रहण कर Na⁻ बन जाता है"
+        },
+        {
+          "en": "loses one proton",
+          "hi": "एक प्रोटॉन खो देता है"
+        }
+      ],
+      "correctOption": 1,
+      "answer": {
+        "en": "loses one electron and becomes Na⁺",
+        "hi": "एक इलेक्ट्रॉन खोकर Na⁺ बन जाता है"
+      },
+      "explanation": {
+        "en": "In NaCl the electron is transferred, not shared: Na → Na⁺ + e⁻, and Cl + e⁻ → Cl⁻.",
+        "hi": "NaCl में इलेक्ट्रॉन साझा नहीं, स्थानांतरित होता है: Na → Na⁺ + e⁻, और Cl + e⁻ → Cl⁻।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.4.2, Table 9.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch09-t9.4.2-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.4.2",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "medium",
+      "question": {
+        "en": "Name the ions: (a) Fe³⁺ (b) Cu²⁺ (c) NO₃⁻ (d) NH₄⁺.",
+        "hi": "आयनों के नाम लिखिए: (a) Fe³⁺ (b) Cu²⁺ (c) NO₃⁻ (d) NH₄⁺।"
+      },
+      "answer": {
+        "en": "(a) ferric (iron(III)) ion (b) cupric (copper(II)) ion (c) nitrate ion (d) ammonium ion",
+        "hi": "(a) फ़ेरिक (आयरन(III)) आयन (b) क्यूप्रिक (कॉपर(II)) आयन (c) नाइट्रेट आयन (d) अमोनियम आयन"
+      },
+      "explanation": {
+        "en": "Iron and copper show variable valency: Fe²⁺ ferrous, Fe³⁺ ferric; Cu⁺ cuprous, Cu²⁺ cupric. NO₃⁻ and NH₄⁺ are polyatomic ions.",
+        "hi": "लोहा और कॉपर परिवर्ती संयोजकता दिखाते हैं: Fe²⁺ फ़ेरस, Fe³⁺ फ़ेरिक; Cu⁺ क्यूप्रस, Cu²⁺ क्यूप्रिक। NO₃⁻ और NH₄⁺ बहुपरमाणुक आयन हैं।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.4.2, Table 9.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch09-t9.5-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.5",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "medium",
+      "question": {
+        "en": "The correct formula of magnesium nitrate is —",
+        "hi": "मैग्नीशियम नाइट्रेट का सही सूत्र है —"
+      },
+      "options": [
+        {
+          "en": "MgNO₃",
+          "hi": "MgNO₃"
+        },
+        {
+          "en": "Mg₂NO₃",
+          "hi": "Mg₂NO₃"
+        },
+        {
+          "en": "Mg(NO₃)₂",
+          "hi": "Mg(NO₃)₂"
+        },
+        {
+          "en": "MgNO₃₂",
+          "hi": "MgNO₃₂"
+        }
+      ],
+      "correctOption": 2,
+      "answer": {
+        "en": "Mg(NO₃)₂",
+        "hi": "Mg(NO₃)₂"
+      },
+      "explanation": {
+        "en": "Mg²⁺ and NO₃⁻: two nitrate ions balance one Mg²⁺. A polyatomic ion needed more than once goes in brackets.",
+        "hi": "Mg²⁺ और NO₃⁻: दो नाइट्रेट आयन एक Mg²⁺ को संतुलित करते हैं। एक से अधिक बार आने वाला बहुपरमाणुक आयन कोष्ठक में लिखा जाता है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.5, 9.5.1, 9.5.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch09-t9.5.1-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.5.1",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "easy",
+      "question": {
+        "en": "Write the formulae of the covalent compounds formed by (a) carbon (valency 4) and chlorine (valency 1), (b) nitrogen (valency 3) and hydrogen (valency 1).",
+        "hi": "(a) कार्बन (संयोजकता 4) और क्लोरीन (संयोजकता 1), (b) नाइट्रोजन (संयोजकता 3) और हाइड्रोजन (संयोजकता 1) से बने सहसंयोजी यौगिकों के सूत्र लिखिए।"
+      },
+      "answer": {
+        "en": "(a) CCl₄ (b) NH₃",
+        "hi": "(a) CCl₄ (b) NH₃"
+      },
+      "explanation": {
+        "en": "Write the valencies under the symbols and cross them over as subscripts; a subscript of 1 is not written.",
+        "hi": "संयोजकताएँ प्रतीकों के नीचे लिखकर उन्हें पादांक के रूप में क्रॉस करें; पादांक 1 नहीं लिखा जाता।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.5, 9.5.1, 9.5.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch09-t9.5.1-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.5.1",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "medium",
+      "question": {
+        "en": "Hydrogen has valency 1 and sulfur valency 2. The formula of their compound is —",
+        "hi": "हाइड्रोजन की संयोजकता 1 और सल्फ़र की 2 है। इनके यौगिक का सूत्र है —"
+      },
+      "options": [
+        {
+          "en": "HS",
+          "hi": "HS"
+        },
+        {
+          "en": "HS₂",
+          "hi": "HS₂"
+        },
+        {
+          "en": "H₂S",
+          "hi": "H₂S"
+        },
+        {
+          "en": "H₂S₂",
+          "hi": "H₂S₂"
+        }
+      ],
+      "correctOption": 2,
+      "answer": {
+        "en": "H₂S",
+        "hi": "H₂S"
+      },
+      "explanation": {
+        "en": "Criss-cross: H gets subscript 2, S gets 1 → H₂S (hydrogen sulfide).",
+        "hi": "क्रॉस करने पर: H को पादांक 2, S को 1 → H₂S (हाइड्रोजन सल्फ़ाइड)।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.5, 9.5.1, 9.5.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch09-t9.5.1-3",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.5.1",
+      "type": "numerical",
+      "marks": 2,
+      "difficulty": "hard",
+      "question": {
+        "en": "Phosphorus shows a valency of 5 in its oxide, and oxygen has valency 2. (a) Write the formula of the oxide. (b) How many atoms are shown in this formula?",
+        "hi": "फ़ॉस्फ़ोरस अपने ऑक्साइड में 5 संयोजकता दिखाता है, और ऑक्सीजन की संयोजकता 2 है। (a) ऑक्साइड का सूत्र लिखिए। (b) इस सूत्र में कितने परमाणु दर्शाए गए हैं?"
+      },
+      "answer": {
+        "en": "(a) P₂O₅ (b) 7 atoms (2 P + 5 O)",
+        "hi": "(a) P₂O₅ (b) 7 परमाणु (2 P + 5 O)"
+      },
+      "explanation": {
+        "en": "Criss-cross the valencies: P gets 2 and O gets 5 → P₂O₅ (no common factor to divide by). Atoms in the formula = 2 + 5 = 7. (At higher classes you will learn that the real molecule is P₄O₁₀, twice this formula.)",
+        "hi": "संयोजकताओं को क्रॉस करें: P को 2 और O को 5 → P₂O₅ (भाग देने को कोई उभयनिष्ठ गुणनखंड नहीं)। सूत्र में परमाणु = 2 + 5 = 7। (आगे की कक्षाओं में आप पढ़ेंगे कि वास्तविक अणु P₄O₁₀ है, जो इस सूत्र का दोगुना है।)"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.5, 9.5.1, 9.5.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch09-t9.5.2-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.5.2",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "The formula of the compound formed by Ca²⁺ and O²⁻ is —",
+        "hi": "Ca²⁺ और O²⁻ से बने यौगिक का सूत्र है —"
+      },
+      "options": [
+        {
+          "en": "Ca₂O₂",
+          "hi": "Ca₂O₂"
+        },
+        {
+          "en": "CaO",
+          "hi": "CaO"
+        },
+        {
+          "en": "CaO₂",
+          "hi": "CaO₂"
+        },
+        {
+          "en": "Ca₂O",
+          "hi": "Ca₂O"
+        }
+      ],
+      "correctOption": 1,
+      "answer": {
+        "en": "CaO",
+        "hi": "CaO"
+      },
+      "explanation": {
+        "en": "Cross-over gives Ca₂O₂; dividing by the common factor 2 gives CaO.",
+        "hi": "क्रॉस करने पर Ca₂O₂ मिलता है; उभयनिष्ठ गुणनखंड 2 से भाग देने पर CaO।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.5, 9.5.1, 9.5.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch09-t9.5.2-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.5.2",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "medium",
+      "question": {
+        "en": "Write the formulae of (a) sodium sulfate, (b) ammonium sulfate and (c) calcium hydroxide.",
+        "hi": "(a) सोडियम सल्फ़ेट, (b) अमोनियम सल्फ़ेट और (c) कैल्सियम हाइड्रॉक्साइड के सूत्र लिखिए।"
+      },
+      "answer": {
+        "en": "(a) Na₂SO₄ (b) (NH₄)₂SO₄ (c) Ca(OH)₂",
+        "hi": "(a) Na₂SO₄ (b) (NH₄)₂SO₄ (c) Ca(OH)₂"
+      },
+      "explanation": {
+        "en": "Balance the charges: 2 Na⁺ for one SO₄²⁻; 2 NH₄⁺ for one SO₄²⁻ (bracket because NH₄⁺ is needed twice); 2 OH⁻ for one Ca²⁺.",
+        "hi": "आवेश संतुलित करें: एक SO₄²⁻ के लिए 2 Na⁺; एक SO₄²⁻ के लिए 2 NH₄⁺ (कोष्ठक, क्योंकि NH₄⁺ दो बार चाहिए); एक Ca²⁺ के लिए 2 OH⁻।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.5, 9.5.1, 9.5.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch09-t9.5.2-3",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.5.2",
+      "type": "assertionReason",
+      "marks": 1,
+      "difficulty": "medium",
+      "question": {
+        "en": "Assertion (A): The formula AlOH₃ correctly represents aluminium hydroxide.\nReason (R): A polyatomic ion needed more than once is written in brackets with the subscript outside.",
+        "hi": "अभिकथन (A): सूत्र AlOH₃ ऐलुमिनियम हाइड्रॉक्साइड को सही दर्शाता है।\nकारण (R): एक से अधिक बार आवश्यक बहुपरमाणुक आयन को कोष्ठक में लिखकर पादांक बाहर लगाया जाता है।"
+      },
+      "options": [
+        {
+          "en": "Both A and R are true, and R is the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।"
+        },
+        {
+          "en": "Both A and R are true, but R is not the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, पर R, A की सही व्याख्या नहीं है।"
+        },
+        {
+          "en": "A is true, but R is false.",
+          "hi": "A सत्य है, पर R असत्य है।"
+        },
+        {
+          "en": "A is false, but R is true.",
+          "hi": "A असत्य है, पर R सत्य है।"
+        }
+      ],
+      "correctOption": 3,
+      "answer": {
+        "en": "A is false, but R is true.",
+        "hi": "A असत्य है, पर R सत्य है।"
+      },
+      "explanation": {
+        "en": "Without brackets the 3 applies only to H; the correct formula is Al(OH)₃. So A is false and R is true.",
+        "hi": "कोष्ठक के बिना 3 केवल H पर लागू होता है; सही सूत्र Al(OH)₃ है। इसलिए A असत्य और R सत्य है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.5, 9.5.1, 9.5.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch09-t9.6-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.6",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "medium",
+      "question": {
+        "en": "A substance dissolves in kerosene but not in water, has a low melting point and does not conduct electricity. It is most likely —",
+        "hi": "एक पदार्थ केरोसिन में घुलता है पर जल में नहीं, इसका गलनांक कम है और यह विद्युत का चालन नहीं करता। यह संभवतः है —"
+      },
+      "options": [
+        {
+          "en": "an ionic compound like sodium chloride",
+          "hi": "सोडियम क्लोराइड जैसा आयनिक यौगिक"
+        },
+        {
+          "en": "a covalent compound like naphthalene",
+          "hi": "नैफ़्थलीन जैसा सहसंयोजी यौगिक"
+        },
+        {
+          "en": "a metal",
+          "hi": "एक धातु"
+        },
+        {
+          "en": "an ionic compound like copper sulfate",
+          "hi": "कॉपर सल्फ़ेट जैसा आयनिक यौगिक"
+        }
+      ],
+      "correctOption": 1,
+      "answer": {
+        "en": "a covalent compound like naphthalene",
+        "hi": "नैफ़्थलीन जैसा सहसंयोजी यौगिक"
+      },
+      "explanation": {
+        "en": "Many covalent compounds (camphor, naphthalene) dissolve in kerosene, have low melting points and do not conduct.",
+        "hi": "अनेक सहसंयोजी यौगिक (कपूर, नैफ़्थलीन) केरोसिन में घुलते हैं, उनका गलनांक कम होता है और वे चालन नहीं करते।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.6, Activity 9.4"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch09-t9.7-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.7",
+      "type": "numerical",
+      "marks": 2,
+      "difficulty": "easy",
+      "question": {
+        "en": "Find the molecular masses of (a) ammonia, NH₃ and (b) glucose, C₆H₁₂O₆. (H = 1 u, C = 12 u, N = 14 u, O = 16 u)",
+        "hi": "(a) अमोनिया NH₃ और (b) ग्लूकोस C₆H₁₂O₆ के आणविक द्रव्यमान ज्ञात कीजिए। (H = 1 u, C = 12 u, N = 14 u, O = 16 u)"
+      },
+      "answer": {
+        "en": "(a) 17 u (b) 180 u",
+        "hi": "(a) 17 u (b) 180 u"
+      },
+      "explanation": {
+        "en": "Molecular mass = Σ (atomic mass × number of atoms). (a) 14 + 3 × 1 = 17 u. (b) 6 × 12 + 12 × 1 + 6 × 16 = 72 + 12 + 96 = 180 u.",
+        "hi": "आणविक द्रव्यमान = Σ (परमाणु द्रव्यमान × परमाणुओं की संख्या)। (a) 14 + 3 × 1 = 17 u। (b) 6 × 12 + 12 × 1 + 6 × 16 = 72 + 12 + 96 = 180 u।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.7, 9.8, Examples 9.4–9.7"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch09-t9.7-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.7",
+      "type": "numerical",
+      "marks": 2,
+      "difficulty": "medium",
+      "question": {
+        "en": "Calculate the molecular mass of sulfuric acid, H₂SO₄. (H = 1 u, S = 32 u, O = 16 u)",
+        "hi": "सल्फ़्यूरिक अम्ल H₂SO₄ का आणविक द्रव्यमान परिकलित कीजिए। (H = 1 u, S = 32 u, O = 16 u)"
+      },
+      "answer": {
+        "en": "98 u",
+        "hi": "98 u"
+      },
+      "explanation": {
+        "en": "2 × 1 + 32 + 4 × 16 = 2 + 32 + 64 = 98 u.",
+        "hi": "2 × 1 + 32 + 4 × 16 = 2 + 32 + 64 = 98 u।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.7, 9.8, Examples 9.4–9.7"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch09-t9.8-1",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.8",
+      "type": "numerical",
+      "marks": 2,
+      "difficulty": "easy",
+      "question": {
+        "en": "Calculate the formula unit masses of (a) potassium chloride, KCl and (b) calcium carbonate, CaCO₃. (K = 39 u, Cl = 35.5 u, Ca = 40 u, C = 12 u, O = 16 u)",
+        "hi": "(a) पोटैशियम क्लोराइड KCl और (b) कैल्सियम कार्बोनेट CaCO₃ के सूत्र इकाई द्रव्यमान परिकलित कीजिए। (K = 39 u, Cl = 35.5 u, Ca = 40 u, C = 12 u, O = 16 u)"
+      },
+      "answer": {
+        "en": "(a) 74.5 u (b) 100 u",
+        "hi": "(a) 74.5 u (b) 100 u"
+      },
+      "explanation": {
+        "en": "(a) 39 + 35.5 = 74.5 u. (b) 40 + 12 + 3 × 16 = 100 u.",
+        "hi": "(a) 39 + 35.5 = 74.5 u। (b) 40 + 12 + 3 × 16 = 100 u।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.7, 9.8, Examples 9.4–9.7"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch09-t9.8-2",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.8",
+      "type": "numerical",
+      "marks": 2,
+      "difficulty": "medium",
+      "question": {
+        "en": "Find the formula unit mass of ammonium nitrate, NH₄NO₃. (H = 1 u, N = 14 u, O = 16 u)",
+        "hi": "अमोनियम नाइट्रेट NH₄NO₃ का सूत्र इकाई द्रव्यमान ज्ञात कीजिए। (H = 1 u, N = 14 u, O = 16 u)"
+      },
+      "answer": {
+        "en": "80 u",
+        "hi": "80 u"
+      },
+      "explanation": {
+        "en": "It has 2 N, 4 H and 3 O: 2 × 14 + 4 × 1 + 3 × 16 = 28 + 4 + 48 = 80 u.",
+        "hi": "इसमें 2 N, 4 H और 3 O हैं: 2 × 14 + 4 × 1 + 3 × 16 = 28 + 4 + 48 = 80 u।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.7, 9.8, Examples 9.4–9.7"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    },
+    {
+      "id": "qt-cbse-9-ch09-t9.8-3",
+      "classLevel": 9,
+      "chapterId": "cbse-9-ch09",
+      "topicId": "cbse-9-ch09-t9.8",
+      "type": "assertionReason",
+      "marks": 1,
+      "difficulty": "medium",
+      "question": {
+        "en": "Assertion (A): The mass of NaCl is correctly called its formula unit mass, not its molecular mass.\nReason (R): Ionic compounds do not form separate molecules.",
+        "hi": "अभिकथन (A): NaCl के द्रव्यमान को उसका आणविक द्रव्यमान नहीं, सूत्र इकाई द्रव्यमान कहना सही है।\nकारण (R): आयनिक यौगिक अलग-अलग अणु नहीं बनाते।"
+      },
+      "options": [
+        {
+          "en": "Both A and R are true, and R is the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।"
+        },
+        {
+          "en": "Both A and R are true, but R is not the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, पर R, A की सही व्याख्या नहीं है।"
+        },
+        {
+          "en": "A is true, but R is false.",
+          "hi": "A सत्य है, पर R असत्य है।"
+        },
+        {
+          "en": "A is false, but R is true.",
+          "hi": "A असत्य है, पर R सत्य है।"
+        }
+      ],
+      "correctOption": 0,
+      "answer": {
+        "en": "Both A and R are true, and R is the correct explanation of A.",
+        "hi": "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।"
+      },
+      "explanation": {
+        "en": "NaCl is a repeating arrangement of ions, so the simplest ion ratio (formula unit) is used instead of a molecule.",
+        "hi": "NaCl आयनों की दोहराई जाने वाली व्यवस्था है, इसलिए अणु के स्थान पर सरलतम आयन-अनुपात (सूत्र इकाई) का उपयोग होता है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.7, 9.8, Examples 9.4–9.7"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked",
+        "basis": "Written in the topic-wise question batch from the source-checked note on this topic; not yet teacher-reviewed."
+      }
+    }
+  ]
+}

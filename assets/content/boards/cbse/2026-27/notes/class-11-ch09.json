@@ -1,0 +1,495 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "note-cbse-11-ch09-t9.1",
+      "targetId": "cbse-11-ch09-t9.1",
+      "covers": [],
+      "definition": {
+        "en": "Hydrocarbons contain only carbon and hydrogen. They are classified as saturated (alkanes), unsaturated (alkenes, alkynes) and aromatic.",
+        "hi": "हाइड्रोकार्बन में केवल कार्बन और हाइड्रोजन होते हैं। इन्हें संतृप्त (ऐल्केन), असंतृप्त (ऐल्कीन, ऐल्काइन) और ऐरोमैटिक में वर्गीकृत किया जाता है।"
+      },
+      "explanation": {
+        "en": "LPG, CNG, petrol and kerosene are hydrocarbon mixtures used as fuels; hydrocarbons are also raw materials for polymers, dyes and drugs. Alkanes have only C–C single bonds (CₙH₂ₙ₊₂), alkenes a C=C (CₙH₂ₙ), alkynes a C≡C (CₙH₂ₙ₋₂).",
+        "hi": "LPG, CNG, पेट्रोल और केरोसिन ईंधन के रूप में प्रयुक्त हाइड्रोकार्बन मिश्रण हैं; हाइड्रोकार्बन बहुलकों, रंजकों और दवाओं के कच्चे माल भी हैं। ऐल्केन में केवल C–C एकल आबंध (CₙH₂ₙ₊₂), ऐल्कीन में C=C (CₙH₂ₙ), ऐल्काइन में C≡C (CₙH₂ₙ₋₂)।"
+      },
+      "keyPoints": [
+        {
+          "en": "Cycloalkanes have the same general formula as alkenes (CₙH₂ₙ).",
+          "hi": "साइक्लोऐल्केन का सामान्य सूत्र ऐल्कीन के समान (CₙH₂ₙ) है।"
+        }
+      ],
+      "realLife": {
+        "en": "Kitchen gas, vehicle fuels and plastic bags all come from hydrocarbons.",
+        "hi": "रसोई गैस, वाहन ईंधन और प्लास्टिक थैलियाँ — सब हाइड्रोकार्बनों से आते हैं।"
+      },
+      "examFocus": {
+        "en": "Classify hydrocarbons and write general formulas.",
+        "hi": "हाइड्रोकार्बनों का वर्गीकरण और सामान्य सूत्र लिखना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Calling benzene an alkene — it is aromatic with delocalised π electrons.",
+          "hi": "बेंज़ीन को ऐल्कीन कहना — यह विस्थानीकृत π इलेक्ट्रॉनों वाला ऐरोमैटिक है।"
+        }
+      ],
+      "formulas": [
+        "Alkanes CₙH₂ₙ₊₂; alkenes CₙH₂ₙ; alkynes CₙH₂ₙ₋₂"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "hydrocarbons-reactions",
+        "homologous-series"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "9.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Ane 2n+2, Ene 2n, Yne 2n−2\"",
+            "hi": "\"ऐन 2n+2, ईन 2n, आइन 2n−2\""
+          },
+          "recall": {
+            "en": "General formulas: alkanes CₙH₂ₙ₊₂, alkenes CₙH₂ₙ, alkynes CₙH₂ₙ₋₂ — each extra π bond removes two H.",
+            "hi": "सामान्य सूत्र: ऐल्केन CₙH₂ₙ₊₂, ऐल्कीन CₙH₂ₙ, ऐल्काइन CₙH₂ₙ₋₂ — हर अतिरिक्त π आबंध दो H घटाता है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Hydrocarbons: alkanes (saturated), alkenes and alkynes (unsaturated), arenes (aromatic).",
+          "hi": "हाइड्रोकार्बन: ऐल्केन (संतृप्त), ऐल्कीन और ऐल्काइन (असंतृप्त), ऐरीन (ऐरोमैटिक)।"
+        },
+        "formula": "Alkanes CₙH₂ₙ₊₂; alkenes CₙH₂ₙ; alkynes CₙH₂ₙ₋₂",
+        "points": [
+          {
+            "en": "Cycloalkanes share CₙH₂ₙ with alkenes.",
+            "hi": "साइक्लोऐल्केनों का सूत्र CₙH₂ₙ ऐल्कीनों जैसा।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch09-t9.2",
+      "targetId": "cbse-11-ch09-t9.2",
+      "covers": [],
+      "definition": {
+        "en": "Alkanes (paraffins) are saturated open-chain hydrocarbons with sp³ carbons; they are relatively unreactive.",
+        "hi": "ऐल्केन (पैराफ़िन) sp³ कार्बनों वाले संतृप्त विवृत-शृंखला हाइड्रोकार्बन हैं; ये अपेक्षाकृत अक्रियाशील होते हैं।"
+      },
+      "explanation": {
+        "en": "Preparation: hydrogenation of alkenes/alkynes (Pt, Pd or Ni); reduction of alkyl halides with Zn/H⁺; Wurtz reaction (2RX + 2Na → R–R + 2NaX, dry ether — gives alkanes with an even number of carbons); decarboxylation of sodium salts of carboxylic acids with soda lime (one carbon less); Kolbe's electrolysis. Physical properties: non-polar; boiling point rises with molecular mass and falls with branching. Reactions: free-radical halogenation in light (CH₄ + Cl₂ → CH₃Cl + HCl; chain mechanism of initiation, propagation, termination), combustion, controlled oxidation (to alcohol, aldehyde, acid), isomerisation, aromatisation (n-hexane → benzene over Cr₂O₃/V₂O₅/Mo₂O₃) and pyrolysis (cracking). Conformations of ethane: staggered (more stable) and eclipsed, shown by Sawhorse and Newman projections; torsional strain is ~12.5 kJ mol⁻¹.",
+        "hi": "विरचन: ऐल्कीन/ऐल्काइन का हाइड्रोजनीकरण (Pt, Pd या Ni); Zn/H⁺ से ऐल्किल हैलाइडों का अपचयन; वुर्ट्ज़ अभिक्रिया (2RX + 2Na → R–R + 2NaX, शुष्क ईथर — सम संख्या कार्बन वाले ऐल्केन); सोडा लाइम के साथ कार्बोक्सिलिक अम्लों के सोडियम लवणों का विकार्बोक्सिलन (एक कार्बन कम); कोल्बे विद्युत-अपघटन। भौतिक गुण: अध्रुवी; क्वथनांक आण्विक द्रव्यमान के साथ बढ़ता और शाखन के साथ घटता है। अभिक्रियाएँ: प्रकाश में मुक्त-मूलक हैलोजनन (CH₄ + Cl₂ → CH₃Cl + HCl; प्रारंभन, संचरण, समापन वाली शृंखला क्रियाविधि), दहन, नियंत्रित ऑक्सीकरण (ऐल्कोहॉल, ऐल्डिहाइड, अम्ल तक), समावयवीकरण, ऐरोमैटीकरण (Cr₂O₃/V₂O₅/Mo₂O₃ पर n-हेक्सेन → बेंज़ीन) और ताप-अपघटन (भंजन)। एथेन के संरूपण: सांतरित (अधिक स्थायी) और ग्रसित, सॉहॉर्स और न्यूमैन प्रक्षेपों से दर्शाए जाते हैं; मरोड़ी विकृति ~12.5 kJ mol⁻¹।"
+      },
+      "keyPoints": [
+        {
+          "en": "Methane cannot be made by the Wurtz reaction.",
+          "hi": "वुर्ट्ज़ अभिक्रिया से मेथेन नहीं बनाई जा सकती।"
+        },
+        {
+          "en": "Reactivity of halogens in halogenation: F₂ > Cl₂ > Br₂ > I₂.",
+          "hi": "हैलोजनन में हैलोजनों की क्रियाशीलता: F₂ > Cl₂ > Br₂ > I₂।"
+        }
+      ],
+      "realLife": {
+        "en": "Cracking of heavy oil fractions produces petrol; branched alkanes give better engine performance.",
+        "hi": "भारी तेल प्रभाजों के भंजन से पेट्रोल बनता है; शाखित ऐल्केन इंजन में बेहतर प्रदर्शन देते हैं।"
+      },
+      "examFocus": {
+        "en": "Methods of preparation with equations, free-radical mechanism, conformations of ethane.",
+        "hi": "समीकरण सहित विरचन विधियाँ, मुक्त-मूलक क्रियाविधि, एथेन के संरूपण।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Thinking decarboxylation keeps the carbon count — the product has one carbon less.",
+          "hi": "यह सोचना कि विकार्बोक्सिलन में कार्बन संख्या वही रहती है — उत्पाद में एक कार्बन कम होता है।"
+        }
+      ],
+      "formulas": [
+        "2RX + 2Na → R–R + 2NaX (dry ether)",
+        "RCOONa + NaOH → (CaO, heat) RH + Na₂CO₃",
+        "CH₄ + Cl₂ → (hν) CH₃Cl + HCl"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "hydrocarbons-reactions",
+        "organic-reaction-mechanism"
+      ],
+      "chemicalIds": [
+        "methane"
+      ],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "9.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Wurtz doubles the chain\"",
+            "hi": "\"वुर्ट्ज़ शृंखला को दोगुना करता है\""
+          },
+          "recall": {
+            "en": "Wurtz joins two alkyl groups (2RX → R–R), so with one alkyl halide the product always has twice as many carbons — an even number. Methane (one carbon) can never be made this way.",
+            "hi": "वुर्ट्ज़ अभिक्रिया दो ऐल्किल समूहों को जोड़ती है (2RX → R–R), इसलिए एक ऐल्किल हैलाइड से बने उत्पाद में सदैव दोगुने कार्बन होते हैं — सम संख्या। मेथेन (एक कार्बन) इस विधि से कभी नहीं बन सकती।"
+          }
+        },
+        {
+          "trick": {
+            "en": "\"Soda-lime takes one carbon away\"",
+            "hi": "\"सोडा लाइम एक कार्बन ले जाता है\""
+          },
+          "recall": {
+            "en": "Decarboxylation of a sodium carboxylate with soda-lime (NaOH + CaO) removes –COO as Na₂CO₃, so the alkane has one carbon less than the acid (CH₃COONa → CH₄).",
+            "hi": "सोडा लाइम (NaOH + CaO) के साथ सोडियम कार्बॉक्सिलेट का विकार्बोक्सिलन –COO को Na₂CO₃ के रूप में हटा देता है, इसलिए ऐल्केन में अम्ल से एक कार्बन कम होता है (CH₃COONa → CH₄)।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Alkanes: saturated, sp³, unreactive; undergo free-radical substitution and combustion.",
+          "hi": "ऐल्केन: संतृप्त, sp³, अक्रियाशील; मुक्त-मूलक प्रतिस्थापन और दहन करते हैं।"
+        },
+        "formula": "CH₄ + Cl₂ → (hν) CH₃Cl + HCl",
+        "points": [
+          {
+            "en": "Wurtz reaction doubles the carbons; methane cannot be made by it.",
+            "hi": "वुर्ट्ज़ अभिक्रिया कार्बन दोगुने करती है; इससे मेथेन नहीं बनती।"
+          },
+          {
+            "en": "Decarboxylation with soda-lime removes one carbon.",
+            "hi": "सोडालाइम से विकार्बोक्सिलन एक कार्बन घटाता है।"
+          },
+          {
+            "en": "Ethane conformations: staggered more stable than eclipsed.",
+            "hi": "एथेन संरूपण: सांतरित, ग्रसित से अधिक स्थायी।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch09-t9.3",
+      "targetId": "cbse-11-ch09-t9.3",
+      "covers": [],
+      "definition": {
+        "en": "Alkenes (olefins) are unsaturated hydrocarbons with at least one C=C double bond (one σ + one π bond); they undergo addition reactions.",
+        "hi": "ऐल्कीन (ओलिफ़िन) कम से कम एक C=C द्विआबंध (एक σ + एक π आबंध) वाले असंतृप्त हाइड्रोकार्बन हैं; ये संकलन अभिक्रियाएँ देते हैं।"
+      },
+      "explanation": {
+        "en": "Restricted rotation about C=C gives geometrical (cis–trans) isomers when each carbon has two different groups; cis-but-2-ene is more polar. Preparation: partial reduction of alkynes (Lindlar's catalyst → cis-alkene; Na/liquid NH₃ → trans), dehydrohalogenation of alkyl halides with alcoholic KOH, dehalogenation of vicinal dihalides with Zn, and acidic dehydration of alcohols (conc. H₂SO₄). Reactions: addition of H₂, halogens (bromine water decolourises — test for unsaturation), HX following Markovnikov's rule (negative part goes to the carbon with fewer H atoms) — but HBr in the presence of peroxide adds anti-Markovnikov (Kharash effect); addition of water (acid); oxidation with cold dilute KMnO₄ (Baeyer's reagent, decolourised → glycol); ozonolysis (gives aldehydes/ketones, used to locate the double bond); and polymerisation (polythene).",
+        "hi": "C=C के चारों ओर सीमित घूर्णन से ज्यामितीय (समपक्ष–विपक्ष) समावयव बनते हैं जब प्रत्येक कार्बन पर दो भिन्न समूह हों; सिस-ब्यूट-2-ईन अधिक ध्रुवी है। विरचन: ऐल्काइनों का आंशिक अपचयन (लिंडलार उत्प्रेरक → सिस-ऐल्कीन; Na/द्रव NH₃ → ट्रांस), ऐल्कोहॉली KOH से ऐल्किल हैलाइडों का विहाइड्रोहैलोजनन, Zn से सन्निकट डाइहैलाइडों का विहैलोजनन, और अम्लीय निर्जलीकरण (सांद्र H₂SO₄)। अभिक्रियाएँ: H₂, हैलोजन का संकलन (ब्रोमीन जल का रंग उड़ना — असंतृप्तता का परीक्षण), मार्कोनिकॉफ़ नियम से HX का संकलन (ऋणात्मक भाग कम H वाले कार्बन पर) — पर परॉक्साइड की उपस्थिति में HBr मार्कोनिकॉफ़-विरुद्ध जुड़ता है (खराश प्रभाव); अम्ल की उपस्थिति में जल का संकलन; ठंडे तनु KMnO₄ (बेयर अभिकर्मक, रंगहीन → ग्लाइकॉल) से ऑक्सीकरण; ओज़ोनी अपघटन (ऐल्डिहाइड/कीटोन देता है, द्विआबंध की स्थिति ज्ञात करने में उपयोगी); और बहुलकन (पॉलिथीन)।"
+      },
+      "keyPoints": [
+        {
+          "en": "The peroxide effect is seen only with HBr, not HCl or HI.",
+          "hi": "परॉक्साइड प्रभाव केवल HBr के साथ दिखता है, HCl या HI के साथ नहीं।"
+        },
+        {
+          "en": "Markovnikov addition goes through the more stable carbocation.",
+          "hi": "मार्कोनिकॉफ़ संकलन अधिक स्थायी कार्बधनायन से होकर होता है।"
+        }
+      ],
+      "realLife": {
+        "en": "Ethene is the raw material for polythene; it also ripens fruits.",
+        "hi": "एथीन पॉलिथीन का कच्चा माल है; यह फलों को पकाती भी है।"
+      },
+      "examFocus": {
+        "en": "Markovnikov and anti-Markovnikov products with mechanism; cis/trans isomers; products of ozonolysis.",
+        "hi": "क्रियाविधि सहित मार्कोनिकॉफ़ और विरुद्ध उत्पाद; सिस/ट्रांस समावयव; ओज़ोनी अपघटन के उत्पाद।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Applying the peroxide effect to HCl.",
+          "hi": "परॉक्साइड प्रभाव को HCl पर लागू करना।"
+        }
+      ],
+      "formulas": [
+        "CH₃CH=CH₂ + HBr → CH₃CHBrCH₃ (Markovnikov)",
+        "CH₃CH=CH₂ + HBr → (peroxide) CH₃CH₂CH₂Br",
+        "CH₃CH₂Br + KOH(alc) → CH₂=CH₂ + KBr + H₂O"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "hydrocarbons-reactions",
+        "organic-reaction-mechanism"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "9.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "Markovnikov: \"The rich get richer\" — H goes to the carbon with more H",
+            "hi": "मार्कोवनिकॉफ़: \"अमीर और अमीर\" — H उस कार्बन पर जाता है जिस पर अधिक H हों"
+          },
+          "recall": {
+            "en": "In adding HX to an unsymmetrical alkene, H attaches to the carbon already holding more hydrogens; X goes to the other.",
+            "hi": "असममित ऐल्कीन पर HX जोड़ते समय H उस कार्बन पर जुड़ता है जिस पर पहले से अधिक हाइड्रोजन हों; X दूसरे पर।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Alkenes have C=C (σ + π) and undergo electrophilic addition.",
+          "hi": "ऐल्कीनों में C=C (σ + π) होता है और ये इलेक्ट्रॉनस्नेही योग करती हैं।"
+        },
+        "formula": "CH₃CH=CH₂ + HBr → CH₃CHBrCH₃ (Markovnikov)",
+        "points": [
+          {
+            "en": "Peroxide (Kharasch) effect reverses addition only for HBr.",
+            "hi": "परॉक्साइड (खराश) प्रभाव केवल HBr के लिए योग उलटता है।"
+          },
+          {
+            "en": "Br₂ water decolourisation tests unsaturation.",
+            "hi": "ब्रोमीन जल का रंगहीन होना असंतृप्तता का परीक्षण।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch09-t9.4",
+      "targetId": "cbse-11-ch09-t9.4",
+      "covers": [],
+      "definition": {
+        "en": "Alkynes contain a C≡C triple bond (one σ + two π bonds) with sp carbons and a linear shape.",
+        "hi": "ऐल्काइनों में C≡C त्रिआबंध (एक σ + दो π आबंध) होता है, कार्बन sp और आकृति रैखिक होती है।"
+      },
+      "explanation": {
+        "en": "Ethyne is made from calcium carbide and water (CaC₂ + 2H₂O → Ca(OH)₂ + C₂H₂) or from vicinal dihalides with alcoholic KOH then NaNH₂. Terminal alkynes are weakly acidic (sp carbon has 50% s-character): ethyne reacts with sodium/NaNH₂ to release hydrogen. Additions follow Markovnikov's rule; water adds in the presence of Hg²⁺/H⁺. Polymerisation: red-hot iron tube converts ethyne to benzene.",
+        "hi": "एथाइन कैल्सियम कार्बाइड और जल से (CaC₂ + 2H₂O → Ca(OH)₂ + C₂H₂) या सन्निकट डाइहैलाइडों से ऐल्कोहॉली KOH फिर NaNH₂ द्वारा बनती है। अंतस्थ ऐल्काइन दुर्बल अम्लीय होते हैं (sp कार्बन में 50% s-लक्षण): एथाइन सोडियम/NaNH₂ से अभिक्रिया कर हाइड्रोजन देती है। संकलन मार्कोनिकॉफ़ नियम से; Hg²⁺/H⁺ की उपस्थिति में जल जुड़ता है। बहुलकन: लाल-तप्त लौह नली में एथाइन से बेंज़ीन बनती है।"
+      },
+      "keyPoints": [
+        {
+          "en": "Acidic character: HC≡CH > H₂C=CH₂ > H₃C–CH₃.",
+          "hi": "अम्लीय गुण: HC≡CH > H₂C=CH₂ > H₃C–CH₃।"
+        }
+      ],
+      "realLife": {
+        "en": "Oxy-acetylene flames are used for welding and cutting metals.",
+        "hi": "ऑक्सी-ऐसीटिलीन ज्वाला धातुओं की वेल्डिंग और कटाई में प्रयुक्त होती है।"
+      },
+      "examFocus": {
+        "en": "Preparation and reactions of ethyne; why alkynes are acidic.",
+        "hi": "एथाइन का विरचन और अभिक्रियाएँ; ऐल्काइन अम्लीय क्यों हैं।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Expecting but-2-yne to react with NaNH₂ like ethyne — only terminal alkynes have acidic H.",
+          "hi": "ब्यूट-2-आइन से एथाइन जैसी NaNH₂ अभिक्रिया की अपेक्षा — केवल अंतस्थ ऐल्काइनों में अम्लीय H होता है।"
+        }
+      ],
+      "formulas": [
+        "CaC₂ + 2H₂O → Ca(OH)₂ + C₂H₂",
+        "3HC≡CH → (red-hot Fe tube, 873 K) C₆H₆"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "hydrocarbons-reactions"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "9.4"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"s-character 50 > 33 > 25: ethyne > ethene > ethane in acidity\"",
+            "hi": "\"s-लक्षण 50 > 33 > 25: अम्लता में एथाइन > एथीन > एथेन\""
+          },
+          "recall": {
+            "en": "sp carbon has 50% s-character, sp² 33% and sp³ 25%. More s-character holds the bonding electrons closer to carbon, so the sp C–H hydrogen leaves as H⁺ most easily.",
+            "hi": "sp कार्बन में 50%, sp² में 33% और sp³ में 25% s-लक्षण होता है। अधिक s-लक्षण आबंधी इलेक्ट्रॉनों को कार्बन के अधिक पास रखता है, इसलिए sp C–H का हाइड्रोजन H⁺ के रूप में सबसे आसानी से निकलता है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Alkynes: C≡C (σ + 2π), sp, linear; terminal H is acidic.",
+          "hi": "ऐल्काइन: C≡C (σ + 2π), sp, रैखिक; सिरे वाला H अम्लीय।"
+        },
+        "formula": "CaC₂ + 2H₂O → Ca(OH)₂ + C₂H₂",
+        "points": [
+          {
+            "en": "Acidity: HC≡CH > H₂C=CH₂ > H₃C–CH₃.",
+            "hi": "अम्लता: HC≡CH > H₂C=CH₂ > H₃C–CH₃।"
+          },
+          {
+            "en": "3 ethyne → benzene (red-hot iron tube, 873 K).",
+            "hi": "3 एथाइन → बेन्ज़ीन (लाल-तप्त आयरन नली, 873 K)।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch09-t9.5",
+      "targetId": "cbse-11-ch09-t9.5",
+      "covers": [],
+      "definition": {
+        "en": "Aromatic hydrocarbons (arenes) such as benzene are planar, cyclic, fully conjugated and contain (4n + 2) π electrons (Hückel rule); they prefer substitution to addition.",
+        "hi": "ऐरोमैटिक हाइड्रोकार्बन (ऐरीन), जैसे बेंज़ीन, समतलीय, चक्रीय, पूर्णतः संयुग्मित होते हैं और इनमें (4n + 2) π इलेक्ट्रॉन होते हैं (ह्यूकेल नियम); ये संकलन की अपेक्षा प्रतिस्थापन पसंद करते हैं।"
+      },
+      "explanation": {
+        "en": "Benzene is a resonance hybrid of Kekulé structures; all C–C bonds are equal (139 pm) and the six π electrons are delocalised, giving extra stability. Preparation: cyclic polymerisation of ethyne, decarboxylation of sodium benzoate, reduction of phenol with zinc dust. Electrophilic substitution: nitration (conc. HNO₃ + conc. H₂SO₄, electrophile NO₂⁺), halogenation (Cl₂/FeCl₃), sulphonation, Friedel–Crafts alkylation and acylation (anhydrous AlCl₃). Directive influence: –OH, –NH₂, –CH₃, halogens direct to ortho/para; –NO₂, –CHO, –COOH, –CN direct to meta (halogens deactivate but are o/p-directing).",
+        "hi": "बेंज़ीन केकुले संरचनाओं का अनुनाद संकर है; सभी C–C आबंध समान (139 pm) हैं और छह π इलेक्ट्रॉन विस्थानीकृत होकर अतिरिक्त स्थायित्व देते हैं। विरचन: एथाइन का चक्रीय बहुलकन, सोडियम बेंज़ोएट का विकार्बोक्सिलन, ज़िंक चूर्ण से फ़ीनॉल का अपचयन। इलेक्ट्रॉनस्नेही प्रतिस्थापन: नाइट्रीकरण (सांद्र HNO₃ + सांद्र H₂SO₄, इलेक्ट्रॉनस्नेही NO₂⁺), हैलोजनन (Cl₂/FeCl₃), सल्फ़ोनीकरण, फ़्रीडल–क्राफ़्ट्स ऐल्किलन और ऐसिलन (निर्जल AlCl₃)। निर्देशी प्रभाव: –OH, –NH₂, –CH₃, हैलोजन ऑर्थो/पैरा निर्देशक; –NO₂, –CHO, –COOH, –CN मेटा निर्देशक (हैलोजन निष्क्रियक पर o/p-निर्देशक)।"
+      },
+      "keyPoints": [
+        {
+          "en": "Benzene adds H₂ (Ni) or Cl₂ (UV light → hexachlorocyclohexane) only under harsh conditions.",
+          "hi": "बेंज़ीन कठोर परिस्थितियों में ही H₂ (Ni) या Cl₂ (UV प्रकाश → हेक्साक्लोरोसाइक्लोहेक्सेन) का संकलन करता है।"
+        }
+      ],
+      "realLife": {
+        "en": "Benzene derivatives are the basis of dyes, drugs (aspirin, paracetamol) and explosives (TNT).",
+        "hi": "बेंज़ीन व्युत्पन्न रंजकों, दवाओं (ऐस्पिरिन, पैरासिटामॉल) और विस्फोटकों (TNT) का आधार हैं।"
+      },
+      "examFocus": {
+        "en": "Aromaticity by Hückel rule; mechanism of nitration; o/p vs m directing groups; Friedel–Crafts reactions.",
+        "hi": "ह्यूकेल नियम से ऐरोमैटिकता; नाइट्रीकरण की क्रियाविधि; o/p बनाम m निर्देशक समूह; फ़्रीडल–क्राफ़्ट्स अभिक्रियाएँ।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Calling cyclooctatetraene (8 π electrons, non-planar) aromatic.",
+          "hi": "साइक्लोऑक्टाटेट्राईन (8 π इलेक्ट्रॉन, असमतलीय) को ऐरोमैटिक कहना।"
+        }
+      ],
+      "formulas": [
+        "C₆H₆ + HNO₃ → (conc. H₂SO₄) C₆H₅NO₂ + H₂O",
+        "C₆H₆ + CH₃Cl → (anhyd. AlCl₃) C₆H₅CH₃ + HCl",
+        "(4n + 2) π electrons"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "hydrocarbons-reactions",
+        "organic-reaction-mechanism"
+      ],
+      "chemicalIds": [
+        "benzene"
+      ],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "9.5"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "Hückel: \"4n + 2 makes it aromatic\"",
+            "hi": "हकल: \"4n + 2 से ऐरोमैटिक\""
+          },
+          "recall": {
+            "en": "A planar, cyclic, fully conjugated ring with 2, 6 or 10 π electrons (n = 0, 1, 2) is aromatic; benzene has 6.",
+            "hi": "2, 6 या 10 π इलेक्ट्रॉनों (n = 0, 1, 2) वाला समतली, चक्रीय, पूर्णतः संयुग्मित वलय ऐरोमैटिक है; बेन्ज़ीन में 6 हैं।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Arenes are planar, cyclic, conjugated with (4n + 2) π electrons; they prefer substitution.",
+          "hi": "ऐरीन समतली, चक्रीय, (4n + 2) π इलेक्ट्रॉनों वाले संयुग्मित; प्रतिस्थापन पसंद करते हैं।"
+        },
+        "formula": "(4n + 2) π electrons",
+        "points": [
+          {
+            "en": "Electrophilic substitution: nitration, halogenation, sulphonation, Friedel–Crafts.",
+            "hi": "इलेक्ट्रॉनस्नेही प्रतिस्थापन: नाइट्रोकरण, हैलोजनन, सल्फ़ोनीकरण, फ़्रीडेल–क्राफ़्ट्स।"
+          },
+          {
+            "en": "o/p directors: –OH, –NH₂, –CH₃, –X; m directors: –NO₂, –CHO, –COOH.",
+            "hi": "o/p निर्देशक: –OH, –NH₂, –CH₃, –X; m निर्देशक: –NO₂, –CHO, –COOH।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch09-t9.6",
+      "targetId": "cbse-11-ch09-t9.6",
+      "covers": [],
+      "definition": {
+        "en": "Benzene and polynuclear hydrocarbons with more than two fused benzene rings are toxic and many are carcinogenic (cancer-causing).",
+        "hi": "बेंज़ीन और दो से अधिक संगलित बेंज़ीन वलयों वाले बहुनाभिकीय हाइड्रोकार्बन विषैले होते हैं और कई कैंसरजन्य हैं।"
+      },
+      "explanation": {
+        "en": "Such compounds form by incomplete combustion of organic matter such as tobacco, coal and petroleum. Inside the body they undergo biochemical reactions that damage DNA and can cause cancer (e.g. 1,2-benzanthracene, 3-methylcholanthrene).",
+        "hi": "ऐसे यौगिक तंबाकू, कोयला और पेट्रोलियम जैसे कार्बनिक पदार्थों के अपूर्ण दहन से बनते हैं। शरीर में ये जैवरासायनिक अभिक्रियाओं से DNA को क्षति पहुँचाते हैं और कैंसर कर सकते हैं (जैसे 1,2-बेंज़ऐन्थ्रासीन, 3-मेथिलकोलैन्थ्रीन)।"
+      },
+      "keyPoints": [
+        {
+          "en": "Avoiding smoke from tobacco and burning waste reduces exposure.",
+          "hi": "तंबाकू और जलते कचरे के धुएँ से बचने पर संपर्क घटता है।"
+        }
+      ],
+      "realLife": {
+        "en": "This is a key reason behind smoking bans and limits on vehicle emissions.",
+        "hi": "धूम्रपान पर रोक और वाहन उत्सर्जन की सीमाओं का यह एक मुख्य कारण है।"
+      },
+      "examFocus": {
+        "en": "Name sources and examples of carcinogenic hydrocarbons.",
+        "hi": "कैंसरजन्य हाइड्रोकार्बनों के स्रोत और उदाहरण।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Thinking only industrial chemicals are carcinogenic — tobacco smoke is a major everyday source.",
+          "hi": "यह सोचना कि केवल औद्योगिक रसायन कैंसरजन्य हैं — तंबाकू का धुआँ दैनिक जीवन का बड़ा स्रोत है।"
+        }
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": [
+        "hydrocarbons-reactions"
+      ],
+      "chemicalIds": [
+        "benzene"
+      ],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "9.6"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "quickRevision": {
+        "oneLine": {
+          "en": "Benzene and polynuclear hydrocarbons with more than two fused rings are toxic and carcinogenic.",
+          "hi": "बेन्ज़ीन और दो से अधिक संगलित वलयों वाले बहुनाभिकीय हाइड्रोकार्बन विषैले और कैंसरजनक हैं।"
+        },
+        "points": [
+          {
+            "en": "They form from incomplete burning of tobacco, coal and petroleum.",
+            "hi": "ये तंबाकू, कोयले और पेट्रोलियम के अपूर्ण दहन से बनते हैं।"
+          }
+        ]
+      }
+    }
+  ]
+}

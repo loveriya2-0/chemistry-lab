@@ -1,0 +1,328 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "note-cbse-12-ch07-t7.1",
+      "targetId": "cbse-12-ch07-t7.1",
+      "covers": [],
+      "definition": {
+        "en": "Alcohols have –OH attached to an aliphatic carbon and phenols have –OH attached to an aromatic ring carbon; ethers contain an R–O–R′ (or Ar–O–R) linkage.",
+        "hi": "ऐल्कोहॉलों में –OH ऐलिफ़ैटिक कार्बन से और फ़ीनॉलों में ऐरोमैटिक वलय के कार्बन से जुड़ा होता है; ईथरों में R–O–R′ (या Ar–O–R) बंधन होता है।"
+      },
+      "explanation": {
+        "en": "Alcohols and phenols are mono-, di-, tri- or polyhydric by the number of –OH groups. Monohydric alcohols with C(sp³)–OH are primary, secondary or tertiary, allylic (–OH on the sp³ carbon next to C=C) or benzylic (–OH on the sp³ carbon next to a ring). Those with C(sp²)–OH are vinylic alcohols (CH₂=CH–OH) and phenols. Ethers are simple (symmetrical, e.g. C₂H₅OC₂H₅) when both groups are the same and mixed (unsymmetrical, e.g. C₂H₅OCH₃, C₂H₅OC₆H₅) when they differ.",
+        "hi": "–OH समूहों की संख्या के आधार पर ऐल्कोहॉल और फ़ीनॉल मोनो-, डाई-, ट्राई- या पॉलिहाइड्रिक होते हैं। C(sp³)–OH वाले मोनोहाइड्रिक ऐल्कोहॉल प्राथमिक, द्वितीयक या तृतीयक, ऐलिलिक (C=C के बगल वाले sp³ कार्बन पर –OH) या बेन्ज़िलिक (वलय के बगल वाले sp³ कार्बन पर –OH) होते हैं। C(sp²)–OH वाले वाइनिलिक ऐल्कोहॉल (CH₂=CH–OH) और फ़ीनॉल हैं। जब दोनों समूह समान हों तो ईथर सरल (सममित, जैसे C₂H₅OC₂H₅) और भिन्न हों तो मिश्रित (असममित, जैसे C₂H₅OCH₃, C₂H₅OC₆H₅) कहलाते हैं।"
+      },
+      "keyPoints": [
+        {"en": "Ethylene glycol (ethane-1,2-diol) is dihydric; glycerol (propane-1,2,3-triol) is trihydric.", "hi": "एथिलीन ग्लाइकॉल (एथेन-1,2-डाइऑल) डाइहाइड्रिक है; ग्लिसरॉल (प्रोपेन-1,2,3-ट्राइऑल) ट्राइहाइड्रिक है।"},
+        {"en": "Sugar, cotton and paper are made of compounds containing –OH groups.", "hi": "चीनी, कपास और कागज़ –OH समूह वाले यौगिकों से बने होते हैं।"}
+      ],
+      "realLife": {
+        "en": "Ethanol is the main component of the spirit used to polish wooden furniture.",
+        "hi": "लकड़ी के फ़र्नीचर की पॉलिश में प्रयुक्त स्पिरिट का मुख्य घटक एथेनॉल है।"
+      },
+      "examFocus": {
+        "en": "Classify given alcohols as 1°, 2°, 3°, allylic, benzylic or vinylic; classify ethers as simple or mixed.",
+        "hi": "दिए गए ऐल्कोहॉलों को 1°, 2°, 3°, ऐलिलिक, बेन्ज़िलिक या वाइनिलिक में तथा ईथरों को सरल या मिश्रित में वर्गीकृत कीजिए।"
+      },
+      "commonMistakes": [
+        {"en": "Calling benzyl alcohol (C₆H₅CH₂OH) a phenol — its –OH is on an sp³ carbon, so it is a benzylic alcohol.", "hi": "बेन्ज़िल ऐल्कोहॉल (C₆H₅CH₂OH) को फ़ीनॉल कहना — इसका –OH sp³ कार्बन पर है, अतः यह बेन्ज़िलिक ऐल्कोहॉल है।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["alcohols-phenols-ethers"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "7.1"}],
+      "review": {"status": "sourceChecked"},
+      "quickRevision": {
+        "oneLine": {"en": "Alcohol: –OH on aliphatic C; phenol: –OH on ring C; ether: R–O–R′.", "hi": "ऐल्कोहॉल: ऐलिफ़ैटिक C पर –OH; फ़ीनॉल: वलय C पर –OH; ईथर: R–O–R′।"},
+        "points": [
+          {"en": "Simple ether: same groups; mixed ether: different groups.", "hi": "सरल ईथर: समान समूह; मिश्रित ईथर: भिन्न समूह।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch07-t7.2",
+      "targetId": "cbse-12-ch07-t7.2",
+      "covers": [],
+      "definition": {
+        "en": "In IUPAC names, alcohols replace the final 'e' of the alkane by '-ol'; phenol is the accepted name for hydroxybenzene; ethers are named as alkoxyalkanes with the larger group as the parent.",
+        "hi": "IUPAC नामों में ऐल्कोहॉल के लिए ऐल्केन के अंतिम 'e' को '-ol' से बदला जाता है; हाइड्रॉक्सीबेन्ज़ीन का स्वीकृत नाम फ़ीनॉल है; ईथरों का नाम ऐल्कॉक्सीऐल्केन के रूप में होता है जिसमें बड़ा समूह जनक होता है।"
+      },
+      "explanation": {
+        "en": "Number the longest chain from the end nearest the –OH. For polyhydric alcohols the 'e' of the alkane is kept and di, tri are added before 'ol': HO–CH₂–CH₂–OH is ethane-1,2-diol. Common names of alcohols add 'alcohol' to the alkyl name (methyl alcohol). For substituted phenols, o-, m-, p- are used in common names. Common names of ethers list the two groups alphabetically and add 'ether' (ethylmethyl ether); in IUPAC, CH₃OC₂H₅ is methoxyethane and C₆H₅OCH₃ (anisole) is methoxybenzene.",
+        "hi": "सबसे लंबी शृंखला को –OH के निकटतम सिरे से क्रमांकित करें। पॉलिहाइड्रिक ऐल्कोहॉलों में ऐल्केन का 'e' रखा जाता है और 'ol' से पहले di, tri जोड़े जाते हैं: HO–CH₂–CH₂–OH एथेन-1,2-डाइऑल है। ऐल्कोहॉलों के सामान्य नाम में ऐल्किल नाम के बाद 'ऐल्कोहॉल' जुड़ता है (मेथिल ऐल्कोहॉल)। प्रतिस्थापित फ़ीनॉलों के सामान्य नामों में o-, m-, p- प्रयुक्त होते हैं। ईथरों के सामान्य नाम में दोनों समूह वर्णानुक्रम में लिखकर 'ईथर' जोड़ा जाता है (एथिलमेथिल ईथर); IUPAC में CH₃OC₂H₅ मेथॉक्सीएथेन और C₆H₅OCH₃ (ऐनिसॉल) मेथॉक्सीबेन्ज़ीन है।"
+      },
+      "keyPoints": [
+        {"en": "(CH₃)₃C–OH: tert-butyl alcohol = 2-methylpropan-2-ol.", "hi": "(CH₃)₃C–OH: tert-ब्यूटिल ऐल्कोहॉल = 2-मेथिलप्रोपेन-2-ऑल।"},
+        {"en": "Glycerol = propane-1,2,3-triol; o-cresol = 2-methylphenol.", "hi": "ग्लिसरॉल = प्रोपेन-1,2,3-ट्राइऑल; o-क्रीसॉल = 2-मेथिलफ़ीनॉल।"}
+      ],
+      "realLife": {
+        "en": "Labels such as 'propan-2-ol' (rubbing alcohol) and 'ethane-1,2-diol' (antifreeze) use these IUPAC rules.",
+        "hi": "'प्रोपेन-2-ऑल' (रबिंग ऐल्कोहॉल) और 'एथेन-1,2-डाइऑल' (प्रतिहिम) जैसे लेबल इन्हीं IUPAC नियमों का पालन करते हैं।"
+      },
+      "examFocus": {
+        "en": "Write IUPAC names of alcohols, phenols and ethers, and structures from names.",
+        "hi": "ऐल्कोहॉलों, फ़ीनॉलों और ईथरों के IUPAC नाम तथा नामों से संरचनाएँ लिखिए।"
+      },
+      "commonMistakes": [
+        {"en": "Dropping the 'e' in diols — it is ethane-1,2-diol, not ethan-1,2-diol.", "hi": "डाइऑल में 'e' हटा देना — सही नाम ethane-1,2-diol है, ethan-1,2-diol नहीं।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["alcohols-phenols-ethers"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "7.2"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"-ol drops the 'e', -diol keeps it\"",
+            "hi": "\"-ol में 'e' हटता है, -diol में रहता है\""
+          },
+          "recall": {
+            "en": "The final 'e' of the alkane is dropped only before a vowel: propane → propanol, but ethane-1,2-diol and propane-1,2,3-triol keep it because 'd' and 't' are consonants.",
+            "hi": "ऐल्केन का अंतिम 'e' केवल स्वर से पहले हटाया जाता है: propane → propanol, पर ethane-1,2-diol और propane-1,2,3-triol में यह रहता है क्योंकि 'd' और 't' व्यंजन हैं।"
+          }
+        },
+        {
+          "trick": {
+            "en": "\"Ether: small group is alkoxy, big group is the parent\"",
+            "hi": "\"ईथर: छोटा समूह ऐल्कॉक्सी, बड़ा समूह जनक\""
+          },
+          "recall": {
+            "en": "Ethers are named as alkoxyalkanes: the larger alkyl group gives the parent alkane and the smaller one becomes the alkoxy prefix (CH₃OC₂H₅ = methoxyethane).",
+            "hi": "ईथरों का नाम ऐल्कॉक्सीऐल्केन के रूप में रखा जाता है: बड़ा ऐल्किल समूह जनक ऐल्केन देता है और छोटा ऐल्कॉक्सी पूर्वलग्न बनता है (CH₃OC₂H₅ = मेथॉक्सीएथेन)।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Alcohol: alkan-ol; diol keeps the 'e'; ether: alkoxyalkane (larger group = parent).", "hi": "ऐल्कोहॉल: ऐल्केन-ऑल; डाइऑल में 'e' रहता है; ईथर: ऐल्कॉक्सीऐल्केन (बड़ा समूह = जनक)।"},
+        "points": [
+          {"en": "Anisole = methoxybenzene.", "hi": "ऐनिसॉल = मेथॉक्सीबेन्ज़ीन।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch07-t7.3",
+      "targetId": "cbse-12-ch07-t7.3",
+      "covers": [],
+      "definition": {
+        "en": "In alcohols the C–O–H bond angle (108.9° in methanol) is slightly less than tetrahedral; in phenols the C–O bond (136 pm) is shorter than in methanol (142 pm); in ethers the C–O–C angle (111.7°) is slightly more than tetrahedral.",
+        "hi": "ऐल्कोहॉलों में C–O–H आबंध कोण (मेथेनॉल में 108.9°) चतुष्फलकीय से थोड़ा कम है; फ़ीनॉलों में C–O आबंध (136 pm) मेथेनॉल (142 pm) से छोटा है; ईथरों में C–O–C कोण (111.7°) चतुष्फलकीय से थोड़ा अधिक है।"
+      },
+      "explanation": {
+        "en": "In alcohols, oxygen is sp³ hybridised; the two lone pairs repel the bond pairs, so the angle is less than 109°28′. In phenols the –OH is on an sp² carbon and the oxygen lone pair is conjugated with the ring, giving the C–O bond partial double bond character, so it is shorter. In ethers the two bulky alkyl groups repel each other, widening the C–O–C angle above tetrahedral; the C–O bond length (141 pm) is about the same as in alcohols.",
+        "hi": "ऐल्कोहॉलों में ऑक्सीजन sp³ संकरित है; दो एकाकी युग्म आबंध युग्मों को प्रतिकर्षित करते हैं, इसलिए कोण 109°28′ से कम होता है। फ़ीनॉलों में –OH sp² कार्बन पर है और ऑक्सीजन का एकाकी युग्म वलय से संयुग्मित है, जिससे C–O आबंध में आंशिक द्विआबंध लक्षण आता है और वह छोटा हो जाता है। ईथरों में दो भारी ऐल्किल समूह एक-दूसरे को प्रतिकर्षित करते हैं, जिससे C–O–C कोण चतुष्फलकीय से अधिक हो जाता है; C–O आबंध लंबाई (141 pm) लगभग ऐल्कोहॉलों जितनी है।"
+      },
+      "keyPoints": [
+        {"en": "Two reasons for shorter C–O in phenol: resonance (partial double bond) and sp² carbon.", "hi": "फ़ीनॉल में छोटे C–O के दो कारण: अनुनाद (आंशिक द्विआबंध) और sp² कार्बन।"},
+        {"en": "Ether angle > 109°28′ because of repulsion between bulky R groups.", "hi": "भारी R समूहों के प्रतिकर्षण के कारण ईथर का कोण > 109°28′।"}
+      ],
+      "realLife": {
+        "en": "The partial double bond character of the C–O bond is why phenols, unlike alcohols, do not easily lose their –OH group.",
+        "hi": "C–O आबंध के आंशिक द्विआबंध लक्षण के कारण ही फ़ीनॉल, ऐल्कोहॉलों के विपरीत, अपना –OH समूह आसानी से नहीं खोते।"
+      },
+      "examFocus": {
+        "en": "Explain bond angles in alcohols and ethers and the shorter C–O bond in phenol.",
+        "hi": "ऐल्कोहॉलों और ईथरों के आबंध कोण तथा फ़ीनॉल में छोटा C–O आबंध समझाइए।"
+      },
+      "commonMistakes": [
+        {"en": "Saying the ether angle is less than tetrahedral like water — bulky R groups make it larger (111.7°).", "hi": "जल की तरह ईथर के कोण को चतुष्फलकीय से कम बताना — भारी R समूह इसे बड़ा (111.7°) बनाते हैं।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["alcohols-phenols-ethers"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "7.3"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "'Lone pairs Lower the angle; bulky groups Broaden it'", "hi": "'एकाकी युग्म कोण घटाते हैं; भारी समूह कोण बढ़ाते हैं'"},
+          "recall": {"en": "Alcohol C–O–H angle is below 109°28′ (lone-pair repulsion); ether C–O–C angle is above it (repulsion of two R groups).", "hi": "ऐल्कोहॉल का C–O–H कोण 109°28′ से कम (एकाकी युग्म प्रतिकर्षण); ईथर का C–O–C कोण उससे अधिक (दो R समूहों का प्रतिकर्षण)।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Alcohol angle < tetrahedral, ether angle > tetrahedral; phenol C–O shortest.", "hi": "ऐल्कोहॉल कोण < चतुष्फलकीय, ईथर कोण > चतुष्फलकीय; फ़ीनॉल का C–O सबसे छोटा।"},
+        "points": [
+          {"en": "Phenol C–O: 136 pm (resonance + sp² carbon).", "hi": "फ़ीनॉल C–O: 136 pm (अनुनाद + sp² कार्बन)।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch07-t7.4",
+      "targetId": "cbse-12-ch07-t7.4",
+      "covers": [],
+      "definition": {
+        "en": "Alcohols are prepared from alkenes, carbonyl compounds and Grignard reagents; phenols from haloarenes, benzenesulphonic acid, diazonium salts and cumene. Both are weakly acidic, form hydrogen bonds, and react by cleavage of the O–H or C–O bond and, for phenols, by electrophilic substitution of the ring.",
+        "hi": "ऐल्कोहॉल ऐल्कीनों, कार्बोनिल यौगिकों और ग्रिन्यार अभिकर्मकों से; फ़ीनॉल हैलोऐरीनों, बेन्ज़ीनसल्फ़ोनिक अम्ल, डाइऐज़ोनियम लवणों और क्यूमीन से बनाए जाते हैं। दोनों दुर्बल अम्लीय हैं, हाइड्रोजन आबंध बनाते हैं, और O–H या C–O आबंध टूटने से तथा फ़ीनॉल वलय के इलेक्ट्रॉनस्नेही प्रतिस्थापन से अभिक्रिया करते हैं।"
+      },
+      "explanation": {
+        "en": "Preparation of alcohols: acid-catalysed hydration of alkenes (Markovnikov); hydroboration–oxidation (anti-Markovnikov looking product, excellent yield); reduction of aldehydes (→ 1°) and ketones (→ 2°) with H₂/Pt, Pd or Ni, NaBH₄ or LiAlH₄; LiAlH₄ reduces acids to 1° alcohols; Grignard reagents give 1° alcohols with methanal, 2° with other aldehydes and 3° with ketones. Phenol: chlorobenzene fused with NaOH (623 K, 320 atm); sodium benzenesulphonate fused with NaOH; warming a diazonium salt with water; industrially, air oxidation of cumene to cumene hydroperoxide, then dilute acid gives phenol and acetone. Hydrogen bonding gives high boiling points and water solubility. Acidity: phenol > water > alcohol, because the phenoxide ion is resonance-stabilised; –NO₂ at o/p increases and –CH₃ decreases phenol's acidity. Lucas test (conc. HCl + ZnCl₂): 3° gives turbidity at once, 1° not at room temperature (2° lies in between). Dehydration with conc. H₂SO₄ gives alkenes (3° easiest). Oxidation: 1° → aldehyde (PCC, CrO₃) → acid (KMnO₄); 2° → ketone; 3° resists; over Cu at 573 K, 1° and 2° are dehydrogenated while 3° is dehydrated. Phenol's –OH activates the ring (o/p): dilute HNO₃ gives o- and p-nitrophenol (separated by steam distillation; ortho is volatile due to intramolecular H-bonding); bromine water gives white 2,4,6-tribromophenol; Kolbe's reaction gives salicylic acid; Reimer–Tiemann gives salicylaldehyde; chromic acid gives benzoquinone.",
+        "hi": "ऐल्कोहॉलों का विरचन: ऐल्कीनों का अम्ल-उत्प्रेरित जलयोजन (मार्कोवनिकॉफ़); हाइड्रोबोरॉनन–ऑक्सीकरण (प्रति-मार्कोवनिकॉफ़ जैसा उत्पाद, उत्कृष्ट लब्धि); H₂/Pt, Pd या Ni, NaBH₄ या LiAlH₄ से ऐल्डिहाइडों (→ 1°) और कीटोनों (→ 2°) का अपचयन; LiAlH₄ अम्लों को 1° ऐल्कोहॉल में अपचित करता है; ग्रिन्यार अभिकर्मक मेथेनैल से 1°, अन्य ऐल्डिहाइडों से 2° और कीटोनों से 3° ऐल्कोहॉल देते हैं। फ़ीनॉल: क्लोरोबेन्ज़ीन को NaOH के साथ संगलित करना (623 K, 320 atm); सोडियम बेन्ज़ीनसल्फ़ोनेट को NaOH के साथ संगलित करना; डाइऐज़ोनियम लवण को जल के साथ गरम करना; औद्योगिक रूप से क्यूमीन का वायु द्वारा क्यूमीन हाइड्रोपरॉक्साइड में ऑक्सीकरण, फिर तनु अम्ल से फ़ीनॉल और ऐसीटोन। हाइड्रोजन आबंधन से उच्च क्वथनांक और जल-विलेयता। अम्लता: फ़ीनॉल > जल > ऐल्कोहॉल, क्योंकि फ़ीनॉक्साइड आयन अनुनाद से स्थायी है; o/p पर –NO₂ फ़ीनॉल की अम्लता बढ़ाता है और –CH₃ घटाता है। लूकस परीक्षण (सांद्र HCl + ZnCl₂): 3° तुरंत आविलता देता है, 1° कमरे के ताप पर नहीं (2° इनके बीच में)। सांद्र H₂SO₄ से निर्जलीकरण ऐल्कीन देता है (3° सबसे आसान)। ऑक्सीकरण: 1° → ऐल्डिहाइड (PCC, CrO₃) → अम्ल (KMnO₄); 2° → कीटोन; 3° प्रतिरोध करता है; 573 K पर Cu के ऊपर 1° और 2° विहाइड्रोजनित होते हैं जबकि 3° निर्जलित होता है। फ़ीनॉल का –OH वलय को सक्रिय करता है (o/p): तनु HNO₃ से o- और p-नाइट्रोफ़ीनॉल (भाप आसवन से पृथक्; अंतःअणुक H-आबंधन के कारण ऑर्थो वाष्पशील); ब्रोमीन जल से सफ़ेद 2,4,6-ट्राइब्रोमोफ़ीनॉल; कोल्बे अभिक्रिया से सैलिसिलिक अम्ल; राइमर–टीमन से सैलिसिलैल्डिहाइड; क्रोमिक अम्ल से बेन्ज़ोक्विनोन।"
+      },
+      "keyPoints": [
+        {"en": "Acid strength of alcohols: 1° > 2° > 3° (alkyl groups release electrons); sodium ethoxide is a stronger base than NaOH.", "hi": "ऐल्कोहॉलों की अम्ल सामर्थ्य: 1° > 2° > 3° (ऐल्किल समूह इलेक्ट्रॉन मुक्त करते हैं); सोडियम एथॉक्साइड NaOH से प्रबल क्षारक है।"},
+        {"en": "2,4,6-Trinitrophenol (picric acid) is a strong acid because of three electron-withdrawing –NO₂ groups.", "hi": "2,4,6-ट्राइनाइट्रोफ़ीनॉल (पिक्रिक अम्ल) तीन इलेक्ट्रॉन-आकर्षी –NO₂ समूहों के कारण प्रबल अम्ल है।"},
+        {"en": "Esterification with acids/anhydrides uses a little conc. H₂SO₄; with acid chlorides, pyridine removes HCl. Acetylation of salicylic acid gives aspirin.", "hi": "अम्लों/ऐनहाइड्राइडों के साथ एस्टरीकरण में थोड़ा सांद्र H₂SO₄ प्रयुक्त होता है; अम्ल क्लोराइडों के साथ पिरिडीन HCl हटाता है। सैलिसिलिक अम्ल के ऐसीटिलीकरण से ऐस्पिरिन बनती है।"},
+        {"en": "Phenol + bromine in CS₂ at low temperature gives monobromophenols; with bromine water it gives 2,4,6-tribromophenol.", "hi": "निम्न ताप पर CS₂ में ब्रोमीन के साथ फ़ीनॉल मोनोब्रोमोफ़ीनॉल देता है; ब्रोमीन जल के साथ 2,4,6-ट्राइब्रोमोफ़ीनॉल।"}
+      ],
+      "realLife": {
+        "en": "The cumene process supplies most of the world's phenol and acetone; phenol-based antiseptics and aspirin both start from phenol.",
+        "hi": "क्यूमीन प्रक्रम विश्व के अधिकांश फ़ीनॉल और ऐसीटोन की आपूर्ति करता है; फ़ीनॉल-आधारित पूतिरोधी और ऐस्पिरिन दोनों फ़ीनॉल से बनते हैं।"
+      },
+      "examFocus": {
+        "en": "Write preparation methods and named reactions (hydroboration–oxidation, Kolbe, Reimer–Tiemann, cumene process); compare acidity; distinguish 1°/2°/3° alcohols by the Lucas test; explain steam volatility of o-nitrophenol.",
+        "hi": "विरचन विधियाँ और नामित अभिक्रियाएँ (हाइड्रोबोरॉनन–ऑक्सीकरण, कोल्बे, राइमर–टीमन, क्यूमीन प्रक्रम) लिखिए; अम्लता की तुलना कीजिए; लूकस परीक्षण से 1°/2°/3° ऐल्कोहॉलों में अंतर कीजिए; o-नाइट्रोफ़ीनॉल की भाप-वाष्पशीलता समझाइए।"
+      },
+      "commonMistakes": [
+        {"en": "Saying alcohols are stronger acids than water — they are weaker; phenol is stronger than both.", "hi": "ऐल्कोहॉलों को जल से प्रबल अम्ल कहना — ये दुर्बल हैं; फ़ीनॉल दोनों से प्रबल है।"},
+        {"en": "Expecting KMnO₄ to oxidise a 3° alcohol to a ketone — 3° alcohols resist oxidation.", "hi": "यह मानना कि KMnO₄ 3° ऐल्कोहॉल को कीटोन में ऑक्सीकृत करेगा — 3° ऐल्कोहॉल ऑक्सीकरण का प्रतिरोध करते हैं।"}
+      ],
+      "formulas": [
+        "CH₃CH=CH₂ + H₂O → CH₃CH(OH)CH₃ (H⁺)",
+        "RCHO + H₂ → RCH₂OH (Pd)",
+        "C₆H₅Cl + NaOH → C₆H₅ONa → C₆H₅OH (623 K, 320 atm; then H⁺)",
+        "C₆H₅OH + NaOH → C₆H₅ONa + H₂O",
+        "2R–OH + 2Na → 2R–ONa + H₂",
+        "C₂H₅OH → CH₂=CH₂ + H₂O (conc. H₂SO₄, 443 K)",
+        "RCH₂OH → RCHO (PCC)",
+        "C₆H₅OH + 3Br₂ (aq) → 2,4,6-tribromophenol + 3HBr"
+      ],
+      "practicalIds": ["cbse-12-pH"],
+      "conceptIds": ["alcohols-phenols-ethers"],
+      "chemicalIds": ["phenol"],
+      "sources": [{"sourceId": "ncert-12-en", "section": "7.4"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "Lucas test: 'Tertiary Turns turbid at once'", "hi": "लूकस परीक्षण: 'तृतीयक तुरंत आविल'"},
+          "recall": {"en": "With Lucas reagent (conc. HCl + ZnCl₂) 3° alcohols give turbidity immediately, 1° do not at room temperature, and 2° are in between.", "hi": "लूकस अभिकर्मक (सांद्र HCl + ZnCl₂) से 3° ऐल्कोहॉल तुरंत आविलता देते हैं, 1° कमरे के ताप पर नहीं देते, और 2° इनके बीच में हैं।"}
+        },
+        {
+          "trick": {"en": "'Kolbe = CO₂ → acid; Reimer–Tiemann = CHCl₃ → aldehyde'", "hi": "'कोल्बे = CO₂ → अम्ल; राइमर–टीमन = CHCl₃ → ऐल्डिहाइड'"},
+          "recall": {"en": "Sodium phenoxide + CO₂ gives salicylic acid (Kolbe); phenol + CHCl₃ + NaOH gives salicylaldehyde (Reimer–Tiemann).", "hi": "सोडियम फ़ीनॉक्साइड + CO₂ से सैलिसिलिक अम्ल (कोल्बे); फ़ीनॉल + CHCl₃ + NaOH से सैलिसिलैल्डिहाइड (राइमर–टीमन)।"}
+        },
+        {
+          "trick": {"en": "Grignard: 'Methanal → 1°, aldehyde → 2°, ketone → 3°'", "hi": "ग्रिन्यार: 'मेथेनैल → 1°, ऐल्डिहाइड → 2°, कीटोन → 3°'"},
+          "recall": {"en": "RMgX with methanal gives a primary alcohol, with other aldehydes a secondary alcohol and with ketones a tertiary alcohol.", "hi": "RMgX मेथेनैल से प्राथमिक, अन्य ऐल्डिहाइडों से द्वितीयक और कीटोनों से तृतीयक ऐल्कोहॉल देता है।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Acidity: phenol > water > alcohol; phenol's –OH activates the ring (o/p).", "hi": "अम्लता: फ़ीनॉल > जल > ऐल्कोहॉल; फ़ीनॉल का –OH वलय को सक्रिय करता है (o/p)।"},
+        "formula": "C₆H₅OH + NaOH → C₆H₅ONa + H₂O",
+        "points": [
+          {"en": "1° → aldehyde (PCC) → acid; 2° → ketone; 3° not oxidised.", "hi": "1° → ऐल्डिहाइड (PCC) → अम्ल; 2° → कीटोन; 3° ऑक्सीकृत नहीं।"},
+          {"en": "Cumene → phenol + acetone (industrial).", "hi": "क्यूमीन → फ़ीनॉल + ऐसीटोन (औद्योगिक)।"},
+          {"en": "o-Nitrophenol is steam volatile (intramolecular H-bond).", "hi": "o-नाइट्रोफ़ीनॉल भाप-वाष्पशील है (अंतःअणुक H-आबंध)।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch07-t7.5",
+      "targetId": "cbse-12-ch07-t7.5",
+      "covers": [],
+      "definition": {
+        "en": "Methanol (wood spirit) and ethanol are the commercially most important alcohols: methanol is made by catalytic hydrogenation of CO, and ethanol by fermentation of sugars.",
+        "hi": "मेथेनॉल (काष्ठ स्पिरिट) और एथेनॉल व्यावसायिक रूप से सबसे महत्वपूर्ण ऐल्कोहॉल हैं: मेथेनॉल CO के उत्प्रेरकीय हाइड्रोजनीकरण से और एथेनॉल शर्कराओं के किण्वन से बनता है।"
+      },
+      "explanation": {
+        "en": "Methanol was once made by destructive distillation of wood; now CO and H₂ are combined at high pressure and temperature over ZnO–Cr₂O₃. It boils at 337 K, is highly poisonous (small amounts cause blindness, larger amounts death) and is used as a solvent and to make formaldehyde. Ethanol: the sugar in molasses, sugarcane or grapes is converted by the enzyme invertase into glucose and fructose, which yeast's enzyme zymase ferments to ethanol and CO₂ in the absence of air. Zymase stops working above about 14% alcohol; if air enters, ethanol is oxidised to ethanoic acid. Ethanol boils at 351 K. Commercial alcohol is denatured (made unfit to drink) by adding copper sulphate and pyridine.",
+        "hi": "मेथेनॉल पहले लकड़ी के भंजक आसवन से बनता था; अब ZnO–Cr₂O₃ पर उच्च दाब और ताप पर CO और H₂ को संयोजित करके बनाया जाता है। इसका क्वथनांक 337 K है, यह अत्यधिक विषैला है (थोड़ी मात्रा से अंधापन, अधिक से मृत्यु) और विलायक के रूप में तथा फ़ॉर्मैल्डिहाइड बनाने में प्रयुक्त होता है। एथेनॉल: शीरे, गन्ने या अंगूर की शर्करा को इनवर्टेज़ एंज़ाइम ग्लूकोस और फ़्रक्टोस में बदलता है, जिन्हें यीस्ट का एंज़ाइम ज़ाइमेज़ वायु की अनुपस्थिति में एथेनॉल और CO₂ में किण्वित करता है। लगभग 14% ऐल्कोहॉल से अधिक होने पर ज़ाइमेज़ काम करना बंद कर देता है; वायु आने पर एथेनॉल एथेनॉइक अम्ल में ऑक्सीकृत हो जाता है। एथेनॉल का क्वथनांक 351 K है। व्यावसायिक ऐल्कोहॉल में कॉपर सल्फ़ेट और पिरिडीन मिलाकर उसे पीने के अयोग्य (विकृत) बनाया जाता है।"
+      },
+      "keyPoints": [
+        {"en": "Methanol poisoning: methanol → methanal → methanoic acid in the body; treated with intravenous dilute ethanol.", "hi": "मेथेनॉल विषाक्तता: शरीर में मेथेनॉल → मेथेनैल → मेथेनॉइक अम्ल; उपचार शिरा द्वारा तनु एथेनॉल से।"},
+        {"en": "Fermentation is anaerobic and releases CO₂.", "hi": "किण्वन अवायवीय है और CO₂ मुक्त करता है।"}
+      ],
+      "realLife": {
+        "en": "Denatured alcohol is used as an industrial solvent; ethanol is also blended into petrol as a fuel.",
+        "hi": "विकृत ऐल्कोहॉल औद्योगिक विलायक के रूप में प्रयुक्त होता है; एथेनॉल को ईंधन के रूप में पेट्रोल में भी मिलाया जाता है।"
+      },
+      "examFocus": {
+        "en": "Write the manufacture of methanol and ethanol; explain denaturation and methanol poisoning.",
+        "hi": "मेथेनॉल और एथेनॉल का निर्माण लिखिए; विकृतीकरण और मेथेनॉल विषाक्तता समझाइए।"
+      },
+      "commonMistakes": [
+        {"en": "Mixing up the enzymes: invertase splits sucrose; zymase converts glucose and fructose to ethanol.", "hi": "एंज़ाइमों में भ्रम: इनवर्टेज़ सुक्रोस को तोड़ता है; ज़ाइमेज़ ग्लूकोस और फ़्रक्टोस को एथेनॉल में बदलता है।"}
+      ],
+      "formulas": [
+        "CO + 2H₂ → CH₃OH (ZnO–Cr₂O₃, 573–673 K, 200–300 atm)",
+        "C₁₂H₂₂O₁₁ + H₂O → C₆H₁₂O₆ + C₆H₁₂O₆ (invertase)",
+        "C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂ (zymase)"
+      ],
+      "practicalIds": [],
+      "conceptIds": ["alcohols-phenols-ethers"],
+      "chemicalIds": ["ethanol"],
+      "sources": [{"sourceId": "ncert-12-en", "section": "7.5"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "'INvertase INverts sugar, ZYMase makes alcohol'", "hi": "'इनवर्टेज़ शक्कर तोड़े, ज़ाइमेज़ ऐल्कोहॉल बनाए'"},
+          "recall": {"en": "Invertase converts sucrose into glucose and fructose; zymase (from yeast) ferments them to ethanol and CO₂.", "hi": "इनवर्टेज़ सुक्रोस को ग्लूकोस और फ़्रक्टोस में बदलता है; ज़ाइमेज़ (यीस्ट से) इन्हें एथेनॉल और CO₂ में किण्वित करता है।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Methanol from CO + H₂ (poisonous); ethanol by fermentation (invertase, zymase).", "hi": "मेथेनॉल CO + H₂ से (विषैला); एथेनॉल किण्वन से (इनवर्टेज़, ज़ाइमेज़)।"},
+        "formula": "C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂ (zymase)",
+        "points": [
+          {"en": "Denatured alcohol = ethanol + CuSO₄ + pyridine.", "hi": "विकृत ऐल्कोहॉल = एथेनॉल + CuSO₄ + पिरिडीन।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch07-t7.6",
+      "targetId": "cbse-12-ch07-t7.6",
+      "covers": [],
+      "definition": {
+        "en": "Ethers are prepared by acidic dehydration of primary alcohols and by Williamson synthesis (alkyl halide + sodium alkoxide); they are the least reactive of these functional groups and are cleaved by HI or HBr.",
+        "hi": "ईथर प्राथमिक ऐल्कोहॉलों के अम्लीय निर्जलीकरण और विलियम्सन संश्लेषण (ऐल्किल हैलाइड + सोडियम ऐल्कॉक्साइड) से बनाए जाते हैं; ये इन क्रियात्मक समूहों में सबसे कम क्रियाशील हैं और HI या HBr से विदलित होते हैं।"
+      },
+      "explanation": {
+        "en": "Ethanol with conc. H₂SO₄ gives ethene at 443 K but ethoxyethane at 413 K (SN2 attack of an alcohol molecule on a protonated alcohol); this works only for primary alcohols, since 2° and 3° alcohols eliminate to alkenes. Williamson synthesis: R–X + R′–ONa → R–O–R′ + NaX; the halide must be primary, because with 3° halides alkoxide acts as a base and gives only alkene (CH₃ONa + (CH₃)₃CBr → 2-methylpropene). Ethers have boiling points like alkanes (no intermolecular H-bonding) but water solubility like alcohols (ether oxygen accepts H-bonds from water). Excess HI at high temperature cleaves ethers: with mixed alkyl ethers the smaller alkyl group forms the alkyl iodide (SN2); anisole gives phenol and CH₃I because the O–C₆H₅ bond is stronger. The –OR group activates the ring and is o/p directing: anisole brominates in ethanoic acid without catalyst (para ≈ 90%), and undergoes Friedel–Crafts and nitration at o/p positions.",
+        "hi": "सांद्र H₂SO₄ के साथ एथेनॉल 443 K पर एथीन पर 413 K पर एथॉक्सीएथेन देता है (प्रोटॉनित ऐल्कोहॉल पर ऐल्कोहॉल अणु का SN2 आक्रमण); यह केवल प्राथमिक ऐल्कोहॉलों के लिए काम करता है, क्योंकि 2° और 3° ऐल्कोहॉल विलोपन से ऐल्कीन देते हैं। विलियम्सन संश्लेषण: R–X + R′–ONa → R–O–R′ + NaX; हैलाइड प्राथमिक होना चाहिए, क्योंकि 3° हैलाइडों के साथ ऐल्कॉक्साइड क्षारक की तरह कार्य कर केवल ऐल्कीन देता है (CH₃ONa + (CH₃)₃CBr → 2-मेथिलप्रोपीन)। ईथरों के क्वथनांक ऐल्केनों जैसे (अंतराअणुक H-आबंधन नहीं) पर जल-विलेयता ऐल्कोहॉलों जैसी होती है (ईथर की ऑक्सीजन जल से H-आबंध ग्रहण करती है)। उच्च ताप पर HI का आधिक्य ईथरों का विदलन करता है: मिश्रित ऐल्किल ईथरों में छोटा ऐल्किल समूह ऐल्किल आयोडाइड बनाता है (SN2); ऐनिसॉल फ़ीनॉल और CH₃I देता है क्योंकि O–C₆H₅ आबंध अधिक प्रबल है। –OR समूह वलय को सक्रिय करता है और o/p निर्देशक है: ऐनिसॉल बिना उत्प्रेरक एथेनॉइक अम्ल में ब्रोमीनित होता है (पैरा ≈ 90%), तथा o/p स्थितियों पर फ़्रीडेल–क्राफ़्ट्स और नाइट्रोकरण करता है।"
+      },
+      "keyPoints": [
+        {"en": "Reactivity of HX for ether cleavage: HI > HBr > HCl.", "hi": "ईथर विदलन में HX की क्रियाशीलता: HI > HBr > HCl।"},
+        {"en": "Ethoxyethane and butan-1-ol have similar solubility (7.5 and 9 g per 100 mL water); pentane is immiscible.", "hi": "एथॉक्सीएथेन और ब्यूटेन-1-ऑल की विलेयता समान है (7.5 और 9 g प्रति 100 mL जल); पेन्टेन अमिश्रणीय है।"},
+        {"en": "Diethyl ether was used as an inhalation anaesthetic.", "hi": "डाइएथिल ईथर अंतःश्वसन निश्चेतक के रूप में प्रयुक्त होता था।"}
+      ],
+      "realLife": {
+        "en": "Diethyl ether is a common laboratory solvent, and Williamson synthesis is used to make many fragrance ethers.",
+        "hi": "डाइएथिल ईथर एक सामान्य प्रयोगशाला विलायक है, और विलियम्सन संश्लेषण से अनेक सुगंधित ईथर बनाए जाते हैं।"
+      },
+      "examFocus": {
+        "en": "Write the Williamson synthesis with the right choice of reactants; explain products of ether cleavage by HI (mixed ethers, anisole); compare boiling points and solubility of ethers and alcohols.",
+        "hi": "अभिकारकों के सही चयन के साथ विलियम्सन संश्लेषण लिखिए; HI द्वारा ईथर विदलन के उत्पाद समझाइए (मिश्रित ईथर, ऐनिसॉल); ईथरों और ऐल्कोहॉलों के क्वथनांक और विलेयता की तुलना कीजिए।"
+      },
+      "commonMistakes": [
+        {"en": "Choosing a tertiary halide in Williamson synthesis — only an alkene forms; use the tertiary alkoxide with a primary halide instead.", "hi": "विलियम्सन संश्लेषण में तृतीयक हैलाइड चुनना — केवल ऐल्कीन बनती है; इसके बजाय तृतीयक ऐल्कॉक्साइड और प्राथमिक हैलाइड लें।"},
+        {"en": "Writing iodobenzene from anisole + HI — the products are phenol and methyl iodide.", "hi": "ऐनिसॉल + HI से आयोडोबेन्ज़ीन लिखना — उत्पाद फ़ीनॉल और मेथिल आयोडाइड हैं।"}
+      ],
+      "formulas": [
+        "2C₂H₅OH → C₂H₅OC₂H₅ + H₂O (conc. H₂SO₄, 413 K)",
+        "R–X + R′–ONa → R–O–R′ + NaX",
+        "R–O–R + HX → R–X + R–OH",
+        "C₆H₅OCH₃ + HI → C₆H₅OH + CH₃I"
+      ],
+      "practicalIds": [],
+      "conceptIds": ["alcohols-phenols-ethers"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "7.6"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "Williamson: 'Bulky goes on the Oxygen, Primary goes on the halide'", "hi": "विलियम्सन: 'भारी समूह ऑक्सीजन पर, प्राथमिक समूह हैलाइड पर'"},
+          "recall": {"en": "Use the bulky (2°/3°) group as the alkoxide and a primary alkyl halide, otherwise elimination gives an alkene.", "hi": "भारी (2°/3°) समूह को ऐल्कॉक्साइड और प्राथमिक ऐल्किल हैलाइड लें, अन्यथा विलोपन से ऐल्कीन बनती है।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Ethers: Williamson (1° halide + alkoxide); cleaved by HI; –OR is o/p activating.", "hi": "ईथर: विलियम्सन (1° हैलाइड + ऐल्कॉक्साइड); HI से विदलन; –OR o/p सक्रियक।"},
+        "formula": "C₆H₅OCH₃ + HI → C₆H₅OH + CH₃I",
+        "points": [
+          {"en": "Ethanol + conc. H₂SO₄: 413 K → ether, 443 K → ethene.", "hi": "एथेनॉल + सांद्र H₂SO₄: 413 K → ईथर, 443 K → एथीन।"},
+          {"en": "b.p. of ethers ≈ alkanes; solubility ≈ alcohols.", "hi": "ईथरों का क्वथनांक ≈ ऐल्केन; विलेयता ≈ ऐल्कोहॉल।"}
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,815 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "note-cbse-11-ch01-t1.1",
+      "targetId": "cbse-11-ch01-t1.1",
+      "covers": [],
+      "definition": {
+        "en": "Chemistry is the branch of science that studies the composition, structure and properties of matter and the changes matter undergoes.",
+        "hi": "रसायन विज्ञान विज्ञान की वह शाखा है जो द्रव्य के संघटन, संरचना, गुणधर्मों और उसमें होने वाले परिवर्तनों का अध्ययन करती है।"
+      },
+      "explanation": {
+        "en": "Chemistry explains everyday events — cooking, rusting, digestion — and makes useful materials: fertilisers, medicines (such as cisplatin and taxol for cancer, AZT for AIDS), alloys, polymers, soaps and superconducting ceramics. It also helps solve problems such as replacing ozone-depleting CFCs and managing pollution.",
+        "hi": "रसायन विज्ञान खाना पकाने, ज़ंग लगने, पाचन जैसी दैनिक घटनाओं को समझाता है और उपयोगी पदार्थ बनाता है: उर्वरक, दवाएँ (जैसे कैंसर के लिए सिस्प्लैटिन और टैक्सॉल, एड्स के लिए AZT), मिश्रातु, बहुलक, साबुन और अतिचालक सिरेमिक। यह ओज़ोन घटाने वाले CFC के विकल्प खोजने और प्रदूषण नियंत्रण जैसी समस्याएँ सुलझाने में भी सहायक है।"
+      },
+      "keyPoints": [
+        {
+          "en": "Chemistry plays a central role in industry, agriculture, health and the environment.",
+          "hi": "उद्योग, कृषि, स्वास्थ्य और पर्यावरण में रसायन विज्ञान की केंद्रीय भूमिका है।"
+        },
+        {
+          "en": "Ancient India had a well-developed chemical tradition (metallurgy, dyes, medicines — Rasayan Shastra).",
+          "hi": "प्राचीन भारत में रसायन की समृद्ध परंपरा थी (धातुकर्म, रंजक, औषधियाँ — रसायन शास्त्र)।"
+        }
+      ],
+      "realLife": {
+        "en": "Life-saving drugs, safer refrigerants, cleaner fuels and fertilisers for food security all come from chemistry.",
+        "hi": "जीवन-रक्षक दवाएँ, सुरक्षित प्रशीतक, स्वच्छ ईंधन और खाद्य सुरक्षा के लिए उर्वरक — सब रसायन विज्ञान की देन हैं।"
+      },
+      "examFocus": {
+        "en": "Mostly background; be ready to give examples of chemistry's role in daily life and industry.",
+        "hi": "मुख्यतः पृष्ठभूमि; दैनिक जीवन और उद्योग में रसायन की भूमिका के उदाहरण देने के लिए तैयार रहें।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Treating chemistry as only laboratory work — it covers natural processes in living beings and the environment too.",
+          "hi": "रसायन को केवल प्रयोगशाला का कार्य मानना — इसमें सजीवों और पर्यावरण की प्राकृतिक प्रक्रियाएँ भी आती हैं।"
+        }
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": [],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "1.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "quickRevision": {
+        "oneLine": {
+          "en": "Chemistry studies the composition, structure and properties of matter and its changes.",
+          "hi": "रसायन विज्ञान द्रव्य के संघटन, संरचना, गुणों और उसके परिवर्तनों का अध्ययन है।"
+        },
+        "points": [
+          {
+            "en": "Central to industry, agriculture, health and environment.",
+            "hi": "उद्योग, कृषि, स्वास्थ्य और पर्यावरण में केंद्रीय भूमिका।"
+          },
+          {
+            "en": "Ancient India had a rich chemical tradition (Rasayan Shastra).",
+            "hi": "प्राचीन भारत में समृद्ध रासायनिक परंपरा थी (रसायन शास्त्र)।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch01-t1.2",
+      "targetId": "cbse-11-ch01-t1.2",
+      "covers": [],
+      "definition": {
+        "en": "Matter is anything that has mass and occupies space. It exists as solid, liquid or gas, and is classified as mixtures or pure substances (elements and compounds).",
+        "hi": "द्रव्य वह सब है जिसका द्रव्यमान हो और जो स्थान घेरे। यह ठोस, द्रव या गैस अवस्था में रहता है और मिश्रण या शुद्ध पदार्थ (तत्व और यौगिक) में वर्गीकृत होता है।"
+      },
+      "explanation": {
+        "en": "In solids particles are closely packed in order (definite shape and volume); in liquids they are close but can move (definite volume, no definite shape); in gases they are far apart and move freely (neither shape nor volume fixed). States interconvert by changing temperature and pressure. A pure substance has fixed composition; an element has only one kind of atom, while a compound has two or more elements combined in a fixed ratio and can be separated only by chemical methods.",
+        "hi": "ठोस में कण पास-पास और क्रम में होते हैं (निश्चित आकार और आयतन); द्रव में पास पर गतिशील (निश्चित आयतन, आकार नहीं); गैस में दूर-दूर और स्वतंत्र गतिशील (न आकार न आयतन निश्चित)। ताप और दाब बदलने से अवस्थाएँ बदलती हैं। शुद्ध पदार्थ का संघटन निश्चित होता है; तत्व में एक ही प्रकार के परमाणु होते हैं, जबकि यौगिक में दो या अधिक तत्व निश्चित अनुपात में जुड़े होते हैं और केवल रासायनिक विधियों से अलग होते हैं।"
+      },
+      "keyPoints": [
+        {
+          "en": "Mixtures can be homogeneous (air, sugar solution) or heterogeneous (salt + sand) and are separated by physical methods.",
+          "hi": "मिश्रण समांगी (वायु, चीनी का विलयन) या विषमांगी (नमक + रेत) होते हैं और भौतिक विधियों से अलग होते हैं।"
+        },
+        {
+          "en": "Properties of a compound differ from those of its elements (water vs H₂ and O₂).",
+          "hi": "यौगिक के गुण उसके तत्वों से भिन्न होते हैं (जल बनाम H₂ और O₂)।"
+        }
+      ],
+      "realLife": {
+        "en": "Purifying water, separating crude oil and making alloys all depend on knowing whether we have a mixture or a compound.",
+        "hi": "जल शोधन, कच्चे तेल का पृथक्करण और मिश्रातु बनाना — सब इस ज्ञान पर निर्भर है कि पदार्थ मिश्रण है या यौगिक।"
+      },
+      "examFocus": {
+        "en": "Classify given substances as element, compound or mixture; compare the three states.",
+        "hi": "दिए गए पदार्थों को तत्व, यौगिक या मिश्रण में वर्गीकृत करना; तीनों अवस्थाओं की तुलना करना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Calling air a compound — it is a homogeneous mixture of variable composition.",
+          "hi": "वायु को यौगिक कहना — यह परिवर्ती संघटन वाला समांगी मिश्रण है।"
+        }
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": [
+        "mixture-types"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "1.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "Matter tree: Matter → Mixture (homo/hetero) or Pure (element/compound)",
+            "hi": "द्रव्य वृक्ष: द्रव्य → मिश्रण (समांगी/विषमांगी) या शुद्ध (तत्व/यौगिक)"
+          },
+          "recall": {
+            "en": "Every sample of matter is either a mixture (homogeneous or heterogeneous) or a pure substance (element or compound).",
+            "hi": "द्रव्य का हर नमूना या तो मिश्रण (समांगी या विषमांगी) है या शुद्ध पदार्थ (तत्व या यौगिक)।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Matter has mass and occupies space; it is a mixture or a pure substance (element or compound).",
+          "hi": "द्रव्य का द्रव्यमान होता है और वह स्थान घेरता है; यह मिश्रण या शुद्ध पदार्थ (तत्व या यौगिक) है।"
+        },
+        "points": [
+          {
+            "en": "Mixtures: homogeneous or heterogeneous, separated physically.",
+            "hi": "मिश्रण: समांगी या विषमांगी, भौतिक विधियों से पृथक।"
+          },
+          {
+            "en": "Compounds have fixed composition and new properties.",
+            "hi": "यौगिकों का संघटन निश्चित और गुण नए होते हैं।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch01-t1.3",
+      "targetId": "cbse-11-ch01-t1.3",
+      "covers": [],
+      "definition": {
+        "en": "Physical properties (colour, melting point, density) can be measured without changing the substance; chemical properties (acidity, combustibility) appear only in a chemical change. Measurements are expressed in SI units.",
+        "hi": "भौतिक गुण (रंग, गलनांक, घनत्व) पदार्थ को बदले बिना मापे जाते हैं; रासायनिक गुण (अम्लता, दहनशीलता) केवल रासायनिक परिवर्तन में प्रकट होते हैं। मापन SI मात्रकों में व्यक्त किए जाते हैं।"
+      },
+      "explanation": {
+        "en": "The SI system has seven base units: metre (length), kilogram (mass), second (time), ampere (current), kelvin (temperature), mole (amount of substance) and candela (luminous intensity). Mass is the amount of matter (constant); weight is the gravitational force on it (varies with place). Volume is in m³, commonly L or mL (1 L = 1 dm³ = 1000 cm³). Density = mass/volume. Temperature scales: K = °C + 273.15; °F = (9/5)°C + 32.",
+        "hi": "SI पद्धति के सात मूल मात्रक हैं: मीटर (लंबाई), किलोग्राम (द्रव्यमान), सेकंड (समय), ऐम्पियर (धारा), केल्विन (ताप), मोल (पदार्थ की मात्रा) और कैन्डेला (ज्योति तीव्रता)। द्रव्यमान पदार्थ की मात्रा है (स्थिर); भार उस पर गुरुत्व बल है (स्थान के साथ बदलता है)। आयतन m³ में, सामान्यतः L या mL (1 L = 1 dm³ = 1000 cm³)। घनत्व = द्रव्यमान/आयतन। ताप पैमाने: K = °C + 273.15; °F = (9/5)°C + 32।"
+      },
+      "keyPoints": [
+        {
+          "en": "Prefixes: milli 10⁻³, micro 10⁻⁶, nano 10⁻⁹, kilo 10³, mega 10⁶.",
+          "hi": "उपसर्ग: मिली 10⁻³, माइक्रो 10⁻⁶, नैनो 10⁻⁹, किलो 10³, मेगा 10⁶।"
+        },
+        {
+          "en": "Temperature in kelvin is never negative.",
+          "hi": "केल्विन में ताप कभी ऋणात्मक नहीं होता।"
+        },
+        {
+          "en": "SI unit of density is kg m⁻³; g cm⁻³ is commonly used.",
+          "hi": "घनत्व का SI मात्रक kg m⁻³ है; सामान्यतः g cm⁻³ प्रयुक्त होता है।"
+        }
+      ],
+      "realLife": {
+        "en": "Medicine doses, fuel quantities and weather reports all rely on standard units so that values mean the same everywhere.",
+        "hi": "दवाओं की खुराक, ईंधन की मात्रा और मौसम रिपोर्ट मानक मात्रकों पर टिके हैं ताकि मान हर जगह एक ही अर्थ रखें।"
+      },
+      "examFocus": {
+        "en": "Name SI base units, convert temperatures between °C, K and °F, and distinguish mass from weight.",
+        "hi": "SI मूल मात्रकों के नाम, °C, K और °F के बीच ताप-रूपांतरण, तथा द्रव्यमान और भार में अंतर।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Using 273 instead of adding to °C in the right direction — K = °C + 273.15, so 25 °C = 298.15 K.",
+          "hi": "रूपांतरण की दिशा उलट देना — K = °C + 273.15, अतः 25 °C = 298.15 K।"
+        }
+      ],
+      "formulas": [
+        "Density = mass ÷ volume",
+        "K = °C + 273.15",
+        "°F = (9/5)(°C) + 32"
+      ],
+      "practicalIds": [],
+      "conceptIds": [],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "1.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"King Henry Died By Drinking Chocolate Milk\" — kilo, hecto, deca, base, deci, centi, milli",
+            "hi": "\"King Henry Died By Drinking Chocolate Milk\" — किलो, हेक्टो, डेका, मूल, डेसी, सेंटी, मिली"
+          },
+          "recall": {
+            "en": "Each step down the list divides by 10: kilo (10³), hecto (10²), deca (10¹), base unit, deci (10⁻¹), centi (10⁻²), milli (10⁻³).",
+            "hi": "सूची में हर कदम नीचे 10 से भाग: किलो (10³), हेक्टो (10²), डेका (10¹), मूल इकाई, डेसी (10⁻¹), सेंटी (10⁻²), मिली (10⁻³)।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Physical properties are measured without changing the substance; chemical properties need a chemical change.",
+          "hi": "भौतिक गुण पदार्थ को बदले बिना मापे जाते हैं; रासायनिक गुणों के लिए रासायनिक परिवर्तन आवश्यक है।"
+        },
+        "formula": "K = °C + 273.15",
+        "points": [
+          {
+            "en": "SI prefixes: milli 10⁻³, micro 10⁻⁶, nano 10⁻⁹, kilo 10³, mega 10⁶.",
+            "hi": "SI उपसर्ग: मिली 10⁻³, माइक्रो 10⁻⁶, नैनो 10⁻⁹, किलो 10³, मेगा 10⁶।"
+          },
+          {
+            "en": "Density = mass ÷ volume; kelvin temperature is never negative.",
+            "hi": "घनत्व = द्रव्यमान ÷ आयतन; केल्विन ताप कभी ऋणात्मक नहीं होता।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch01-t1.4",
+      "targetId": "cbse-11-ch01-t1.4",
+      "covers": [],
+      "definition": {
+        "en": "Every measurement has some uncertainty. Scientific notation (N × 10ⁿ), significant figures and dimensional analysis help report and handle measured values correctly.",
+        "hi": "हर मापन में कुछ अनिश्चितता होती है। वैज्ञानिक संकेतन (N × 10ⁿ), सार्थक अंक और विमीय विश्लेषण मापे गए मानों को सही ढंग से लिखने और उपयोग करने में सहायक हैं।"
+      },
+      "explanation": {
+        "en": "Significant figures are the meaningful digits of a measurement, the last one being uncertain. Rules: all non-zero digits count; zeros between non-zero digits count; leading zeros do not (0.0023 has 2); trailing zeros count only if there is a decimal point (2.200 has 4). In addition/subtraction keep the fewest decimal places; in multiplication/division keep the fewest significant figures. Precision means closeness of repeated measurements to each other; accuracy means closeness to the true value. Dimensional analysis converts units using unit factors (e.g. 1 in = 2.54 cm).",
+        "hi": "सार्थक अंक मापन के अर्थपूर्ण अंक हैं, जिनमें अंतिम अंक अनिश्चित होता है। नियम: सभी शून्येतर अंक सार्थक; दो शून्येतर अंकों के बीच के शून्य सार्थक; आरंभिक शून्य सार्थक नहीं (0.0023 में 2); अंत के शून्य तभी सार्थक जब दशमलव हो (2.200 में 4)। जोड़–घटाव में न्यूनतम दशमलव स्थान रखें; गुणा–भाग में न्यूनतम सार्थक अंक। परिशुद्धता का अर्थ बार-बार के मापनों का आपस में निकट होना; यथार्थता का अर्थ वास्तविक मान के निकट होना। विमीय विश्लेषण इकाई गुणकों से मात्रक बदलता है (जैसे 1 in = 2.54 cm)।"
+      },
+      "keyPoints": [
+        {
+          "en": "Exact numbers (counted objects, defined conversions) have infinite significant figures.",
+          "hi": "यथातथ संख्याओं (गिनी गई वस्तुएँ, परिभाषित रूपांतरण) के अनंत सार्थक अंक होते हैं।"
+        },
+        {
+          "en": "Rounding: if the dropped digit is more than 5 raise the last digit; if 5, round to make the last digit even (NCERT rule).",
+          "hi": "पूर्णांकन: हटाया जाने वाला अंक 5 से अधिक हो तो अंतिम अंक बढ़ाएँ; 5 हो तो अंतिम अंक को सम बनाएँ (NCERT नियम)।"
+        }
+      ],
+      "realLife": {
+        "en": "Lab reports, medical tests and engineering drawings must state values with the right number of digits so the precision is honest.",
+        "hi": "प्रयोगशाला रिपोर्ट, चिकित्सा जाँच और इंजीनियरिंग चित्रों में मान सही अंकों के साथ लिखे जाते हैं ताकि परिशुद्धता ईमानदारी से दिखे।"
+      },
+      "examFocus": {
+        "en": "Count significant figures, round off values, express in scientific notation and convert units.",
+        "hi": "सार्थक अंक गिनना, मानों का पूर्णांकन, वैज्ञानिक संकेतन में लिखना और मात्रक-रूपांतरण।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Counting leading zeros as significant (0.0052 has only 2 significant figures).",
+          "hi": "आरंभिक शून्यों को सार्थक गिनना (0.0052 में केवल 2 सार्थक अंक हैं)।"
+        }
+      ],
+      "formulas": [
+        "Scientific notation: N × 10ⁿ (1 ≤ N < 10)"
+      ],
+      "practicalIds": [],
+      "conceptIds": [],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "1.4"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "Zeros: \"Leading zeros Lie (don't count), trapped and trailing-after-decimal zeros Tell (count)\"",
+            "hi": "शून्य: \"आगे के शून्य गिने नहीं जाते, बीच के और दशमलव के बाद अंत के शून्य गिने जाते हैं\""
+          },
+          "recall": {
+            "en": "In 0.0050 the leading zeros are not significant, but the final zero after the decimal is: 2 significant figures.",
+            "hi": "0.0050 में आगे के शून्य सार्थक नहीं, पर दशमलव के बाद का अंतिम शून्य सार्थक है: 2 सार्थक अंक।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Measurements carry uncertainty; report them with scientific notation and the right significant figures.",
+          "hi": "मापन में अनिश्चितता होती है; उन्हें वैज्ञानिक संकेतन और सही सार्थक अंकों के साथ लिखें।"
+        },
+        "formula": "Scientific notation: N × 10ⁿ (1 ≤ N < 10)",
+        "points": [
+          {
+            "en": "Exact numbers have infinite significant figures.",
+            "hi": "यथार्थ संख्याओं के अनंत सार्थक अंक होते हैं।"
+          },
+          {
+            "en": "Precision = closeness of repeated values; accuracy = closeness to the true value.",
+            "hi": "परिशुद्धता = दोहराए मानों की निकटता; यथार्थता = वास्तविक मान से निकटता।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch01-t1.5",
+      "targetId": "cbse-11-ch01-t1.5",
+      "covers": [],
+      "definition": {
+        "en": "Five laws govern how elements combine: conservation of mass, definite proportions, multiple proportions, Gay-Lussac's law of gaseous volumes and Avogadro's law.",
+        "hi": "तत्वों के संयोजन को पाँच नियम नियंत्रित करते हैं: द्रव्यमान संरक्षण, निश्चित अनुपात, गुणित अनुपात, गे-लुसैक का गैसीय आयतन नियम और आवोगाद्रो नियम।"
+      },
+      "explanation": {
+        "en": "Conservation of mass (Lavoisier): matter is neither created nor destroyed. Definite proportions (Proust): a compound always has the same elements in the same mass ratio. Multiple proportions (Dalton): if two elements form more than one compound, the masses of one that combine with a fixed mass of the other are in a simple whole-number ratio (H₂O and H₂O₂: 16 g and 32 g of O per 2 g H, ratio 1 : 2). Gay-Lussac: reacting gases and gaseous products are in simple whole-number volume ratios at the same T and P (100 mL H₂ + 50 mL O₂ → 100 mL water vapour). Avogadro: equal volumes of gases at the same T and P contain equal numbers of molecules.",
+        "hi": "द्रव्यमान संरक्षण (लवाज़िए): द्रव्य न बनता है न नष्ट होता है। निश्चित अनुपात (प्राउस्ट): यौगिक में सदैव वही तत्व समान द्रव्यमान अनुपात में। गुणित अनुपात (डाल्टन): यदि दो तत्व एक से अधिक यौगिक बनाएँ तो एक तत्व के स्थिर द्रव्यमान से जुड़ने वाले दूसरे तत्व के द्रव्यमान सरल पूर्ण-संख्या अनुपात में होते हैं (H₂O और H₂O₂: 2 g H पर 16 g और 32 g O, अनुपात 1 : 2)। गे-लुसैक: समान ताप-दाब पर अभिकारी गैसों और गैसीय उत्पादों के आयतन सरल पूर्ण-संख्या अनुपात में (100 mL H₂ + 50 mL O₂ → 100 mL जलवाष्प)। आवोगाद्रो: समान ताप-दाब पर गैसों के समान आयतनों में अणुओं की संख्या समान होती है।"
+      },
+      "keyPoints": [
+        {
+          "en": "Gay-Lussac's law is about volumes; the law of definite proportions is about masses.",
+          "hi": "गे-लुसैक नियम आयतनों से संबंधित है; निश्चित अनुपात का नियम द्रव्यमानों से।"
+        },
+        {
+          "en": "Avogadro distinguished atoms from molecules — H₂ and O₂ are diatomic.",
+          "hi": "आवोगाद्रो ने परमाणुओं और अणुओं में भेद किया — H₂ और O₂ द्विपरमाणुक हैं।"
+        }
+      ],
+      "realLife": {
+        "en": "These laws let industry predict exactly how much of each reactant is needed, for example in making ammonia.",
+        "hi": "इन नियमों से उद्योग ठीक-ठीक बता पाता है कि प्रत्येक अभिकारक कितना चाहिए, जैसे अमोनिया निर्माण में।"
+      },
+      "examFocus": {
+        "en": "State each law with an example; show multiple proportions from given data.",
+        "hi": "प्रत्येक नियम उदाहरण सहित लिखना; दिए गए आँकड़ों से गुणित अनुपात दर्शाना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Applying volume ratios to liquids or solids — Gay-Lussac's law applies only to gases at the same T and P.",
+          "hi": "आयतन अनुपात को द्रवों या ठोसों पर लागू करना — गे-लुसैक नियम केवल समान ताप-दाब पर गैसों पर लागू है।"
+        }
+      ],
+      "formulas": [
+        "2H₂(g) + O₂(g) → 2H₂O(g) — volume ratio 2 : 1 : 2"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "laws-of-chemical-combination",
+        "law-of-conservation-of-mass",
+        "law-of-constant-proportions"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "1.5"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Can Dogs Make Good Apples?\" — Conservation, Definite, Multiple, Gay-Lussac, Avogadro",
+            "hi": "\"Can Dogs Make Good Apples?\" — संरक्षण, निश्चित, गुणित, गे-लुसैक, ऐवोगैड्रो"
+          },
+          "recall": {
+            "en": "The five laws in order: conservation of mass, definite proportions, multiple proportions, Gay-Lussac's law of gaseous volumes, Avogadro's law.",
+            "hi": "पाँचों नियम क्रम से: द्रव्यमान संरक्षण, निश्चित अनुपात, गुणित अनुपात, गे-लुसैक का गैसीय आयतन नियम, ऐवोगैड्रो नियम।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Elements combine according to five laws of chemical combination.",
+          "hi": "तत्व रासायनिक संयोजन के पाँच नियमों के अनुसार संयोजित होते हैं।"
+        },
+        "formula": "2H₂(g) + O₂(g) → 2H₂O(g) — volume ratio 2 : 1 : 2",
+        "points": [
+          {
+            "en": "Conservation of mass, definite proportions, multiple proportions (masses).",
+            "hi": "द्रव्यमान संरक्षण, निश्चित अनुपात, गुणित अनुपात (द्रव्यमान)।"
+          },
+          {
+            "en": "Gay-Lussac (gas volumes) and Avogadro (equal volumes, equal molecules).",
+            "hi": "गे-लुसैक (गैस आयतन) और ऐवोगैड्रो (समान आयतन, समान अणु)।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch01-t1.6",
+      "targetId": "cbse-11-ch01-t1.6",
+      "covers": [],
+      "definition": {
+        "en": "Dalton's atomic theory (1808) explains the laws of chemical combination by treating matter as made of indivisible atoms that combine in fixed whole-number ratios.",
+        "hi": "डाल्टन का परमाणु सिद्धांत (1808) द्रव्य को अविभाज्य परमाणुओं से बना मानकर, जो निश्चित पूर्ण-संख्या अनुपात में जुड़ते हैं, रासायनिक संयोजन के नियमों को समझाता है।"
+      },
+      "explanation": {
+        "en": "Postulates: matter consists of indivisible atoms; all atoms of an element are identical in mass and properties; compounds form when atoms of different elements combine in a fixed ratio; chemical reactions only reorganise atoms, which are neither created nor destroyed. It explained the laws of conservation of mass, definite proportions and multiple proportions, but not Gay-Lussac's law (it did not distinguish atoms from molecules).",
+        "hi": "अभिधारणाएँ: द्रव्य अविभाज्य परमाणुओं से बना है; एक तत्व के सभी परमाणु द्रव्यमान और गुणों में समान हैं; भिन्न तत्वों के परमाणु निश्चित अनुपात में जुड़कर यौगिक बनाते हैं; रासायनिक अभिक्रियाएँ केवल परमाणुओं को पुनर्व्यवस्थित करती हैं, जो न बनते हैं न नष्ट होते हैं। इसने द्रव्यमान संरक्षण, निश्चित अनुपात और गुणित अनुपात के नियम समझाए, पर गे-लुसैक नियम नहीं (क्योंकि इसमें परमाणु और अणु में भेद नहीं था)।"
+      },
+      "keyPoints": [
+        {
+          "en": "Later findings (subatomic particles, isotopes) showed atoms are divisible and isotopes differ in mass.",
+          "hi": "बाद की खोजों (अवपरमाण्विक कण, समस्थानिक) से पता चला कि परमाणु विभाज्य हैं और समस्थानिकों के द्रव्यमान भिन्न होते हैं।"
+        }
+      ],
+      "realLife": {
+        "en": "Balanced equations and formula writing — used everywhere in chemistry — rest on Dalton's idea of atoms rearranging.",
+        "hi": "संतुलित समीकरण और सूत्र-लेखन — रसायन में हर जगह प्रयुक्त — डाल्टन के परमाणु-पुनर्व्यवस्था विचार पर आधारित हैं।"
+      },
+      "examFocus": {
+        "en": "List the postulates; state which laws the theory explained and which it could not.",
+        "hi": "अभिधारणाएँ लिखना; बताना कि सिद्धांत किन नियमों को समझा सका और किसे नहीं।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Saying Dalton's theory explained Gay-Lussac's law of volumes — it could not.",
+          "hi": "यह कहना कि डाल्टन का सिद्धांत गे-लुसैक के आयतन नियम को समझाता है — यह नहीं समझा सका।"
+        }
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": [
+        "dalton-atomic-theory"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "1.6"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "quickRevision": {
+        "oneLine": {
+          "en": "Dalton: matter is made of indivisible atoms that combine in fixed whole-number ratios.",
+          "hi": "डाल्टन: द्रव्य अविभाज्य परमाणुओं से बना है जो निश्चित पूर्णांक अनुपातों में संयोजित होते हैं।"
+        },
+        "points": [
+          {
+            "en": "It explained the laws of chemical combination.",
+            "hi": "इसने रासायनिक संयोजन के नियम समझाए।"
+          },
+          {
+            "en": "Limitations: atoms are divisible; isotopes exist.",
+            "hi": "सीमाएँ: परमाणु विभाज्य हैं; समस्थानिक होते हैं।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch01-t1.7",
+      "targetId": "cbse-11-ch01-t1.7",
+      "covers": [],
+      "definition": {
+        "en": "Atomic mass is measured relative to carbon-12, whose atom is assigned exactly 12 amu (now u); 1 amu = 1/12 of the mass of one ¹²C atom = 1.66056 × 10⁻²⁴ g.",
+        "hi": "परमाणु द्रव्यमान कार्बन-12 के सापेक्ष मापा जाता है, जिसके परमाणु को ठीक 12 amu (अब u) दिया गया है; 1 amu = एक ¹²C परमाणु के द्रव्यमान का 1/12 = 1.66056 × 10⁻²⁴ g।"
+      },
+      "explanation": {
+        "en": "Most elements are mixtures of isotopes, so the average atomic mass is weighted by abundance (C = 12.011 u). Molecular mass is the sum of the atomic masses in a molecule (CH₄ = 16.043 u). Ionic solids such as NaCl do not exist as molecules, so we use formula mass (NaCl = 58.5 u).",
+        "hi": "अधिकांश तत्व समस्थानिकों के मिश्रण हैं, अतः औसत परमाणु द्रव्यमान प्रचुरता से भारित होता है (C = 12.011 u)। आण्विक द्रव्यमान अणु के परमाणु द्रव्यमानों का योग है (CH₄ = 16.043 u)। NaCl जैसे आयनिक ठोस अणु के रूप में नहीं रहते, अतः सूत्र द्रव्यमान लेते हैं (NaCl = 58.5 u)।"
+      },
+      "keyPoints": [
+        {
+          "en": "Average atomic mass = Σ (isotope mass × fractional abundance).",
+          "hi": "औसत परमाणु द्रव्यमान = Σ (समस्थानिक द्रव्यमान × भिन्नात्मक प्रचुरता)।"
+        },
+        {
+          "en": "Mass spectrometry determines atomic masses accurately.",
+          "hi": "द्रव्यमान स्पेक्ट्रममिति से परमाणु द्रव्यमान यथार्थ रूप से ज्ञात होते हैं।"
+        }
+      ],
+      "realLife": {
+        "en": "Every quantity in a recipe for a chemical synthesis is worked out from molecular masses.",
+        "hi": "रासायनिक संश्लेषण की हर मात्रा आण्विक द्रव्यमानों से ही निकाली जाती है।"
+      },
+      "examFocus": {
+        "en": "Calculate average atomic mass from abundances, and molecular/formula masses.",
+        "hi": "प्रचुरता से औसत परमाणु द्रव्यमान, तथा आण्विक/सूत्र द्रव्यमान की गणना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Using a simple average of isotope masses instead of the abundance-weighted average.",
+          "hi": "प्रचुरता-भारित औसत के बजाय समस्थानिक द्रव्यमानों का साधारण औसत लेना।"
+        }
+      ],
+      "formulas": [
+        "1 u = 1.66056 × 10⁻²⁴ g",
+        "Average atomic mass = Σ (mass × fractional abundance)"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "mole-concept",
+        "molecular-and-formula-unit-mass"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "1.7"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Weighted, so it leans to the common isotope\"",
+            "hi": "\"भारित औसत, इसलिए अधिक पाए जाने वाले समस्थानिक की ओर झुकता है\""
+          },
+          "recall": {
+            "en": "Average atomic mass is weighted by fractional abundance, so it always lies closer to the mass of the most abundant isotope (chlorine: 35.5 u, nearer 35 than 37). A result outside the range of the isotope masses is wrong.",
+            "hi": "औसत परमाणु द्रव्यमान आंशिक बाहुल्य से भारित होता है, इसलिए यह सदैव सबसे अधिक पाए जाने वाले समस्थानिक के द्रव्यमान के निकट रहता है (क्लोरीन: 35.5 u, जो 37 की तुलना में 35 के अधिक निकट है)। समस्थानिकों के द्रव्यमानों की सीमा से बाहर आने वाला उत्तर गलत है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Atomic masses are relative to ¹²C = 12 u; average atomic mass weights isotopes by abundance.",
+          "hi": "परमाणु द्रव्यमान ¹²C = 12 u के सापेक्ष हैं; औसत परमाणु द्रव्यमान समस्थानिकों को प्रचुरता से भारित करता है।"
+        },
+        "formula": "Average atomic mass = Σ (mass × fractional abundance)",
+        "points": [
+          {
+            "en": "1 u = 1.66056 × 10⁻²⁴ g.",
+            "hi": "1 u = 1.66056 × 10⁻²⁴ g।"
+          },
+          {
+            "en": "Molecular mass = sum of atomic masses; formula mass for ionic compounds.",
+            "hi": "आणविक द्रव्यमान = परमाणु द्रव्यमानों का योग; आयनिक यौगिकों के लिए सूत्र द्रव्यमान।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch01-t1.8",
+      "targetId": "cbse-11-ch01-t1.8",
+      "covers": [],
+      "definition": {
+        "en": "One mole is the amount of substance containing exactly 6.02214076 × 10²³ elementary entities (the Avogadro constant, N_A). The mass of one mole of a substance in grams is its molar mass.",
+        "hi": "एक मोल पदार्थ की वह मात्रा है जिसमें ठीक 6.02214076 × 10²³ मूल इकाइयाँ (आवोगाद्रो स्थिरांक, N_A) हों। किसी पदार्थ के एक मोल का ग्राम में द्रव्यमान उसका मोलर द्रव्यमान है।"
+      },
+      "explanation": {
+        "en": "The mole connects the tiny world of atoms with grams we can weigh: 18.02 g of water contains N_A molecules. Moles = given mass ÷ molar mass = number of particles ÷ N_A. Molar mass in g mol⁻¹ is numerically equal to the atomic/molecular mass in u.",
+        "hi": "मोल परमाणुओं के सूक्ष्म संसार को तौलने योग्य ग्रामों से जोड़ता है: 18.02 g जल में N_A अणु होते हैं। मोल = दिया गया द्रव्यमान ÷ मोलर द्रव्यमान = कणों की संख्या ÷ N_A। g mol⁻¹ में मोलर द्रव्यमान संख्यात्मक रूप से u में परमाणु/आण्विक द्रव्यमान के बराबर होता है।"
+      },
+      "keyPoints": [
+        {
+          "en": "N_A = 6.022 × 10²³ mol⁻¹.",
+          "hi": "N_A = 6.022 × 10²³ mol⁻¹।"
+        },
+        {
+          "en": "Molar mass of water 18.02 g mol⁻¹; of NaCl 58.5 g mol⁻¹.",
+          "hi": "जल का मोलर द्रव्यमान 18.02 g mol⁻¹; NaCl का 58.5 g mol⁻¹।"
+        }
+      ],
+      "realLife": {
+        "en": "Chemists 'count' atoms by weighing — the mole is the chemist's dozen.",
+        "hi": "रसायनज्ञ तौलकर परमाणु 'गिनते' हैं — मोल रसायनज्ञ का दर्जन है।"
+      },
+      "examFocus": {
+        "en": "Inter-convert mass, moles and number of particles; compare which sample has more atoms.",
+        "hi": "द्रव्यमान, मोल और कणों की संख्या का परस्पर रूपांतरण; किस नमूने में अधिक परमाणु हैं, तुलना करना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Counting molecules when atoms are asked: 1 mol of O₂ has N_A molecules but 2N_A atoms.",
+          "hi": "परमाणु पूछे जाने पर अणु गिनना: 1 mol O₂ में N_A अणु पर 2N_A परमाणु होते हैं।"
+        }
+      ],
+      "formulas": [
+        "n = m ÷ M",
+        "n = N ÷ N_A",
+        "N_A = 6.022 × 10²³ mol⁻¹"
+      ],
+      "practicalIds": [
+        "cbse-11-pE"
+      ],
+      "conceptIds": [
+        "mole-concept"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "1.8"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "Mole triangle: \"Mass ÷ Molar mass = Moles = Number ÷ N_A\"",
+            "hi": "मोल त्रिभुज: \"द्रव्यमान ÷ मोलर द्रव्यमान = मोल = संख्या ÷ N_A\""
+          },
+          "recall": {
+            "en": "To go from grams to particles, always pass through moles: n = m/M, then N = n × N_A.",
+            "hi": "ग्राम से कणों तक जाने के लिए सदैव मोल से होकर जाएँ: n = m/M, फिर N = n × N_A।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "1 mole = 6.022 × 10²³ entities; its mass in grams is the molar mass.",
+          "hi": "1 मोल = 6.022 × 10²³ सत्ताएँ; इसका ग्राम में द्रव्यमान मोलर द्रव्यमान है।"
+        },
+        "formula": "n = m ÷ M",
+        "points": [
+          {
+            "en": "n = N ÷ N_A.",
+            "hi": "n = N ÷ N_A।"
+          },
+          {
+            "en": "Molar mass of H₂O 18.02 g mol⁻¹, NaCl 58.5 g mol⁻¹.",
+            "hi": "H₂O का मोलर द्रव्यमान 18.02 g mol⁻¹, NaCl का 58.5 g mol⁻¹।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch01-t1.9",
+      "targetId": "cbse-11-ch01-t1.9",
+      "covers": [],
+      "definition": {
+        "en": "Percentage composition gives the mass per cent of each element in a compound. The empirical formula shows the simplest whole-number ratio of atoms; the molecular formula shows the actual number of atoms.",
+        "hi": "प्रतिशत संघटन यौगिक में प्रत्येक तत्व का द्रव्यमान प्रतिशत बताता है। मूलानुपाती सूत्र परमाणुओं का सरलतम पूर्ण-संख्या अनुपात दर्शाता है; आण्विक सूत्र परमाणुओं की वास्तविक संख्या।"
+      },
+      "explanation": {
+        "en": "Mass % of an element = (mass of that element in 1 mol of compound ÷ molar mass) × 100. To find the empirical formula: convert mass % to grams (take 100 g), convert to moles, divide by the smallest number of moles, and make whole numbers. Molecular formula = n × empirical formula, where n = molar mass ÷ empirical formula mass.",
+        "hi": "किसी तत्व का द्रव्यमान % = (यौगिक के 1 mol में उस तत्व का द्रव्यमान ÷ मोलर द्रव्यमान) × 100। मूलानुपाती सूत्र ज्ञात करने के लिए: द्रव्यमान % को ग्राम में लें (100 g मानकर), मोल में बदलें, सबसे छोटी मोल-संख्या से भाग दें और पूर्णांक बनाएँ। आण्विक सूत्र = n × मूलानुपाती सूत्र, जहाँ n = मोलर द्रव्यमान ÷ मूलानुपाती सूत्र द्रव्यमान।"
+      },
+      "keyPoints": [
+        {
+          "en": "In ethanol C₂H₅OH: C 52.14%, H 13.13%, O 34.73%.",
+          "hi": "एथनॉल C₂H₅OH में: C 52.14%, H 13.13%, O 34.73%।"
+        },
+        {
+          "en": "Benzene (C₆H₆) and ethyne (C₂H₂) share the empirical formula CH.",
+          "hi": "बेंज़ीन (C₆H₆) और एथाइन (C₂H₂) का मूलानुपाती सूत्र CH समान है।"
+        }
+      ],
+      "realLife": {
+        "en": "Chemists analyse a new compound's percentage composition first to work out its formula.",
+        "hi": "रसायनज्ञ किसी नए यौगिक का सूत्र जानने के लिए पहले उसका प्रतिशत संघटन ज्ञात करते हैं।"
+      },
+      "examFocus": {
+        "en": "Numericals on mass per cent, empirical and molecular formula.",
+        "hi": "द्रव्यमान प्रतिशत, मूलानुपाती और आण्विक सूत्र पर आंकिक प्रश्न।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Rounding mole ratios such as 1.5 to 2 instead of multiplying all by 2.",
+          "hi": "1.5 जैसे मोल अनुपात को 2 कर देना, बजाय सबको 2 से गुणा करने के।"
+        }
+      ],
+      "formulas": [
+        "Mass % = (mass of element in 1 mol ÷ molar mass) × 100",
+        "n = molar mass ÷ empirical formula mass"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "mole-concept"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "1.9"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Percent to mass, mass to mole, divide by small, multiply till whole\"",
+            "hi": "\"प्रतिशत से द्रव्यमान, द्रव्यमान से मोल, सबसे छोटे से भाग, पूर्णांक तक गुणा\""
+          },
+          "recall": {
+            "en": "Empirical formula method: take % as grams, convert to moles, divide by the smallest, then multiply to get whole numbers.",
+            "hi": "मूलानुपाती सूत्र विधि: % को ग्राम मानें, मोल में बदलें, सबसे छोटे से भाग दें, फिर पूर्णांक पाने तक गुणा करें।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Mass % gives each element's share; empirical formula = simplest ratio, molecular formula = actual atoms.",
+          "hi": "द्रव्यमान % प्रत्येक तत्व का अंश देता है; मूलानुपाती सूत्र = सरलतम अनुपात, आणविक सूत्र = वास्तविक परमाणु।"
+        },
+        "formula": "n = molar mass ÷ empirical formula mass",
+        "points": [
+          {
+            "en": "Steps: % → moles → simplest ratio → empirical formula → × n.",
+            "hi": "चरण: % → मोल → सरलतम अनुपात → मूलानुपाती सूत्र → × n।"
+          },
+          {
+            "en": "C₆H₆ and C₂H₂ share the empirical formula CH.",
+            "hi": "C₆H₆ और C₂H₂ का मूलानुपाती सूत्र CH समान है।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch01-t1.10",
+      "targetId": "cbse-11-ch01-t1.10",
+      "covers": [],
+      "definition": {
+        "en": "Stoichiometry is the calculation of the masses (and volumes) of reactants and products from a balanced equation. The reactant that is completely used up first is the limiting reagent.",
+        "hi": "स्टॉइकियोमीट्री संतुलित समीकरण से अभिकारकों और उत्पादों के द्रव्यमानों (और आयतनों) की गणना है। जो अभिकारक सबसे पहले पूर्णतः ख़र्च हो जाता है, वह सीमांत अभिकर्मक है।"
+      },
+      "explanation": {
+        "en": "From CH₄ + 2O₂ → CO₂ + 2H₂O: 1 mol CH₄ reacts with 2 mol O₂ to give 1 mol CO₂ and 2 mol H₂O. The limiting reagent decides how much product forms. Concentration of solutions: mass per cent, mole fraction (x = n_A ÷ total moles), molarity M = moles of solute ÷ volume of solution in L (depends on temperature), molality m = moles of solute ÷ mass of solvent in kg (independent of temperature). Dilution: M₁V₁ = M₂V₂.",
+        "hi": "CH₄ + 2O₂ → CO₂ + 2H₂O से: 1 mol CH₄, 2 mol O₂ से अभिक्रिया कर 1 mol CO₂ और 2 mol H₂O देता है। सीमांत अभिकर्मक तय करता है कि कितना उत्पाद बनेगा। विलयनों की सांद्रता: द्रव्यमान प्रतिशत, मोल-अंश (x = n_A ÷ कुल मोल), मोलरता M = विलेय के मोल ÷ लीटर में विलयन का आयतन (ताप पर निर्भर), मोललता m = विलेय के मोल ÷ kg में विलायक का द्रव्यमान (ताप से स्वतंत्र)। तनुकरण: M₁V₁ = M₂V₂।"
+      },
+      "keyPoints": [
+        {
+          "en": "Always use mole ratios from the balanced equation, not mass ratios.",
+          "hi": "सदैव संतुलित समीकरण के मोल-अनुपात लें, द्रव्यमान-अनुपात नहीं।"
+        },
+        {
+          "en": "Molality is preferred over molarity when temperature changes.",
+          "hi": "ताप बदलने पर मोलरता के बजाय मोललता पसंद की जाती है।"
+        }
+      ],
+      "realLife": {
+        "en": "Preparing a standard oxalic acid solution and titrating NaOH in the Class 11 practical uses molarity and stoichiometry directly.",
+        "hi": "कक्षा 11 के प्रयोग में ऑक्सैलिक अम्ल का मानक विलयन बनाना और NaOH का अनुमापन — सीधे मोलरता और स्टॉइकियोमीट्री का उपयोग है।"
+      },
+      "examFocus": {
+        "en": "Numericals: mass of product, limiting reagent, molarity, molality, mole fraction and dilution.",
+        "hi": "आंकिक प्रश्न: उत्पाद का द्रव्यमान, सीमांत अभिकर्मक, मोलरता, मोललता, मोल-अंश और तनुकरण।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Using volume of solvent instead of volume of solution for molarity, or mass of solution instead of mass of solvent for molality.",
+          "hi": "मोलरता में विलयन के बजाय विलायक का आयतन, या मोललता में विलायक के बजाय विलयन का द्रव्यमान लेना।"
+        }
+      ],
+      "formulas": [
+        "M = moles of solute ÷ V(solution, L)",
+        "m = moles of solute ÷ mass of solvent (kg)",
+        "x_A = n_A ÷ (n_A + n_B)",
+        "M₁V₁ = M₂V₂"
+      ],
+      "practicalIds": [
+        "cbse-11-pE"
+      ],
+      "conceptIds": [
+        "mole-concept",
+        "stoichiometry"
+      ],
+      "chemicalIds": [
+        "oxalic-acid"
+      ],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "1.10"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"MolaRity per litRe; molaLity per kiLogram\"",
+            "hi": "\"मोलरता (R) प्रति लीटर; मोललता (L) प्रति किलोग्राम विलायक\""
+          },
+          "recall": {
+            "en": "Molarity = moles per litre of solution; molality = moles per kilogram of solvent.",
+            "hi": "मोलरता = प्रति लीटर विलयन मोल; मोललता = प्रति किलोग्राम विलायक मोल।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Use mole ratios of the balanced equation; the reactant used up first is the limiting reagent.",
+          "hi": "संतुलित समीकरण के मोल अनुपात लें; जो अभिकारक पहले समाप्त हो वह सीमांत अभिकर्मक है।"
+        },
+        "formula": "M₁V₁ = M₂V₂",
+        "points": [
+          {
+            "en": "Molarity changes with temperature; molality does not.",
+            "hi": "मोलरता ताप से बदलती है; मोललता नहीं।"
+          },
+          {
+            "en": "Mole fractions of all components add to 1.",
+            "hi": "सभी घटकों के मोल-अंशों का योग 1।"
+          }
+        ]
+      }
+    }
+  ]
+}

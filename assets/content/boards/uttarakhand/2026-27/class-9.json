@@ -1,0 +1,505 @@
+{
+  "schemaVersion": 1,
+  "boardId": "uttarakhand",
+  "academicYear": "2026-27",
+  "classLevel": 9,
+  "label": {
+    "en": "Class 9",
+    "hi": "कक्षा 9",
+    "hiSrc": "translated"
+  },
+  "subject": {
+    "id": "science",
+    "code": "033",
+    "name": {
+      "en": "Science",
+      "hi": "विज्ञान",
+      "hiSrc": "translated"
+    }
+  },
+  "textbook": {
+    "title": {
+      "en": "Science, Textbook for Class IX (NCERT)",
+      "hi": "विज्ञान, कक्षा 9 की पाठ्यपुस्तक (NCERT)",
+      "hiSrc": "translated"
+    },
+    "sourceIds": []
+  },
+  "sourceIds": [
+    "uk-sci-9-10",
+    "ncert-9-en",
+    "ncert-9-hi"
+  ],
+  "examPattern": {
+    "theoryMarks": 80,
+    "internalAssessment": 20,
+    "boardExam": false,
+    "attempts": [
+      "main"
+    ],
+    "sourceId": "uk-sci-9-10",
+    "note": "80-mark theory paper (3 hours) and 20 marks of internal assessment, including 3 marks for chemistry practicals."
+  },
+  "units": [
+    {
+      "id": "uk-9-u1",
+      "number": "1",
+      "name": {
+        "en": "Matter – Nature and Behaviour",
+        "hi": "द्रव्य – प्रकृति एवं व्यवहार",
+        "hiSrc": "translated"
+      },
+      "marks": 25,
+      "chapterNumbers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "id": "uk-9-ch01",
+      "number": 1,
+      "unitId": "uk-9-u1",
+      "title": {
+        "en": "Matter in Our Surroundings",
+        "hi": "हमारे आस-पास के पदार्थ",
+        "hiSrc": "translated"
+      },
+      "curriculumName": null,
+      "assessment": "summative",
+      "weightage": {
+        "marks": 25,
+        "scope": "unit"
+      },
+      "description": {
+        "en": "Definition of matter; characteristics of solid, liquid and gaseous states (shape, volume, density); change of state — melting point (absorption of heat), freezing point, boiling point; evaporation (cooling by evaporation), condensation, sublimation.",
+        "hi": "द्रव्य की परिभाषा, ठोस, द्रव तथा गैसीय अवस्था के लक्षण — आकार, आयतन, घनत्व; अवस्था में परिवर्तन — गलनांक (ऊष्मा का अवशोषण), हिमांक, क्वथनांक; वाष्पन (वाष्पीकरण के कारण शीतलता), संघनन, ऊर्ध्वपातन।",
+        "hiSrc": "translated"
+      },
+      "descriptionSourceId": "uk-sci-9-10",
+      "contentSourceId": null,
+      "topics": [
+        {
+          "id": "uk-9-ch01-t1.1",
+          "number": "1.1",
+          "title": {
+            "en": "States of Matter: Solid, Liquid and Gas",
+            "hi": "ठोस, द्रव तथा गैसीय अवस्था के लक्षण",
+            "hiSrc": "translated"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "uk-9-ch01-t1.2",
+          "number": "1.2",
+          "title": {
+            "en": "Change of State: Melting, Freezing and Boiling Points",
+            "hi": "अवस्था में परिवर्तन — गलनांक, हिमांक, क्वथनांक",
+            "hiSrc": "translated"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "uk-9-ch01-t1.3",
+          "number": "1.3",
+          "title": {
+            "en": "Evaporation and Cooling",
+            "hi": "वाष्पन तथा वाष्पीकरण के कारण शीतलता",
+            "hiSrc": "translated"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "uk-9-ch01-t1.4",
+          "number": "1.4",
+          "title": {
+            "en": "Condensation",
+            "hi": "संघनन",
+            "hiSrc": "translated"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "uk-9-ch01-t1.5",
+          "number": "1.5",
+          "title": {
+            "en": "Sublimation",
+            "hi": "ऊर्ध्वपातन",
+            "hiSrc": "translated"
+          },
+          "conceptIds": []
+        }
+      ],
+      "practicalIds": [],
+      "conceptIds": [],
+      "review": {
+        "status": "verified",
+        "note": "Chapters and Unit I marks verified against the UBSE High School Science syllabus 2026-27, which prescribes the NCERT Science textbooks. Hindi descriptions are our translation and need teacher review."
+      }
+    },
+    {
+      "id": "uk-9-ch02",
+      "number": 2,
+      "unitId": "uk-9-u1",
+      "title": {
+        "en": "Is Matter Around Us Pure?",
+        "hi": "क्या हमारे आस-पास के पदार्थ शुद्ध हैं?",
+        "hiSrc": "translated"
+      },
+      "curriculumName": null,
+      "assessment": "summative",
+      "weightage": {
+        "marks": 25,
+        "scope": "unit"
+      },
+      "description": {
+        "en": "Elements, compounds and mixtures; homogeneous and heterogeneous mixtures; colloids and suspensions.",
+        "hi": "तत्व, यौगिक तथा मिश्रण, समांगी तथा विषमांगी मिश्रण, कोलाइड तथा निलम्बन।",
+        "hiSrc": "translated"
+      },
+      "descriptionSourceId": "uk-sci-9-10",
+      "contentSourceId": null,
+      "topics": [
+        {
+          "id": "uk-9-ch02-t2.1",
+          "number": "2.1",
+          "title": {
+            "en": "Elements, Compounds and Mixtures",
+            "hi": "तत्व, यौगिक तथा मिश्रण",
+            "hiSrc": "translated"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "uk-9-ch02-t2.2",
+          "number": "2.2",
+          "title": {
+            "en": "Homogeneous and Heterogeneous Mixtures",
+            "hi": "समांगी तथा विषमांगी मिश्रण",
+            "hiSrc": "translated"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "uk-9-ch02-t2.3",
+          "number": "2.3",
+          "title": {
+            "en": "Suspensions",
+            "hi": "निलम्बन",
+            "hiSrc": "translated"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "uk-9-ch02-t2.4",
+          "number": "2.4",
+          "title": {
+            "en": "Colloids",
+            "hi": "कोलाइड",
+            "hiSrc": "translated"
+          },
+          "conceptIds": []
+        }
+      ],
+      "practicalIds": [],
+      "conceptIds": [],
+      "review": {
+        "status": "verified",
+        "note": "Chapters and Unit I marks verified against the UBSE High School Science syllabus 2026-27, which prescribes the NCERT Science textbooks. Hindi descriptions are our translation and need teacher review."
+      }
+    },
+    {
+      "id": "uk-9-ch03",
+      "number": 3,
+      "unitId": "uk-9-u1",
+      "title": {
+        "en": "Atoms and Molecules",
+        "hi": "परमाणु एवं अणु",
+        "hiSrc": "translated"
+      },
+      "curriculumName": null,
+      "assessment": "summative",
+      "weightage": {
+        "marks": 25,
+        "scope": "unit"
+      },
+      "description": {
+        "en": "Atoms and molecules; laws of chemical combination — law of constant proportions, law of conservation of mass; atomic mass and molecular mass.",
+        "hi": "परमाणु एवं अणु, रासायनिक संयोजन के नियम, स्थिर अनुपात का नियम, द्रव्यमान संरक्षण का नियम, परमाणु द्रव्यमान तथा आण्विक द्रव्यमान।",
+        "hiSrc": "translated"
+      },
+      "descriptionSourceId": "uk-sci-9-10",
+      "contentSourceId": null,
+      "topics": [
+        {
+          "id": "uk-9-ch03-t3.1",
+          "number": "3.1",
+          "title": {
+            "en": "Law of Conservation of Mass",
+            "hi": "द्रव्यमान संरक्षण का नियम",
+            "hiSrc": "translated"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "uk-9-ch03-t3.2",
+          "number": "3.2",
+          "title": {
+            "en": "Law of Constant Proportions",
+            "hi": "स्थिर अनुपात का नियम",
+            "hiSrc": "translated"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "uk-9-ch03-t3.3",
+          "number": "3.3",
+          "title": {
+            "en": "Atoms and Molecules",
+            "hi": "परमाणु एवं अणु",
+            "hiSrc": "translated"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "uk-9-ch03-t3.4",
+          "number": "3.4",
+          "title": {
+            "en": "Atomic Mass and Molecular Mass",
+            "hi": "परमाणु द्रव्यमान तथा आण्विक द्रव्यमान",
+            "hiSrc": "translated"
+          },
+          "conceptIds": []
+        }
+      ],
+      "practicalIds": [],
+      "conceptIds": [],
+      "review": {
+        "status": "verified",
+        "note": "Chapters and Unit I marks verified against the UBSE High School Science syllabus 2026-27, which prescribes the NCERT Science textbooks. Hindi descriptions are our translation and need teacher review."
+      }
+    },
+    {
+      "id": "uk-9-ch04",
+      "number": 4,
+      "unitId": "uk-9-u1",
+      "title": {
+        "en": "Structure of the Atom",
+        "hi": "परमाणु की संरचना",
+        "hiSrc": "translated"
+      },
+      "curriculumName": null,
+      "assessment": "summative",
+      "weightage": {
+        "marks": 25,
+        "scope": "unit"
+      },
+      "description": {
+        "en": "Electrons, protons and neutrons; valency; chemical formulae of common compounds; isotopes and isobars.",
+        "hi": "इलेक्ट्रॉन, प्रोटॉन तथा न्यूट्रॉन, संयोजकता, सामान्य यौगिकों के रासायनिक सूत्र, समस्थानिक तथा समभारिक।",
+        "hiSrc": "translated"
+      },
+      "descriptionSourceId": "uk-sci-9-10",
+      "contentSourceId": null,
+      "topics": [
+        {
+          "id": "uk-9-ch04-t4.1",
+          "number": "4.1",
+          "title": {
+            "en": "Electrons",
+            "hi": "इलेक्ट्रॉन",
+            "hiSrc": "translated"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "uk-9-ch04-t4.2",
+          "number": "4.2",
+          "title": {
+            "en": "Protons and Neutrons",
+            "hi": "प्रोटॉन तथा न्यूट्रॉन",
+            "hiSrc": "translated"
+          },
+          "conceptIds": [],
+          "subtopics": [
+            {
+              "id": "uk-9-ch04-t4.2.1",
+              "number": "4.2.1",
+              "title": {
+                "en": "Discovery of the Neutron",
+                "hi": "न्यूट्रॉन की खोज",
+                "hiSrc": "translated"
+              },
+              "conceptIds": []
+            }
+          ]
+        },
+        {
+          "id": "uk-9-ch04-t4.3",
+          "number": "4.3",
+          "title": {
+            "en": "Valency",
+            "hi": "संयोजकता",
+            "hiSrc": "translated"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "uk-9-ch04-t4.4",
+          "number": "4.4",
+          "title": {
+            "en": "Chemical Formulae of Common Compounds",
+            "hi": "सामान्य यौगिकों के रासायनिक सूत्र",
+            "hiSrc": "translated"
+          },
+          "conceptIds": [],
+          "subtopics": [
+            {
+              "id": "uk-9-ch04-t4.4.1",
+              "number": "4.4.1",
+              "title": {
+                "en": "Formulae of Covalent Compounds",
+                "hi": "सहसंयोजी यौगिकों के सूत्र",
+                "hiSrc": "translated"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "uk-9-ch04-t4.4.2",
+              "number": "4.4.2",
+              "title": {
+                "en": "Formulae of Ionic Compounds",
+                "hi": "आयनिक यौगिकों के सूत्र",
+                "hiSrc": "translated"
+              },
+              "conceptIds": []
+            }
+          ]
+        },
+        {
+          "id": "uk-9-ch04-t4.5",
+          "number": "4.5",
+          "title": {
+            "en": "Isotopes and Isobars",
+            "hi": "समस्थानिक तथा समभारिक",
+            "hiSrc": "translated"
+          },
+          "conceptIds": [],
+          "subtopics": [
+            {
+              "id": "uk-9-ch04-t4.5.1",
+              "number": "4.5.1",
+              "title": {
+                "en": "Isotopes",
+                "hi": "समस्थानिक",
+                "hiSrc": "translated"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "uk-9-ch04-t4.5.2",
+              "number": "4.5.2",
+              "title": {
+                "en": "Isobars",
+                "hi": "समभारिक",
+                "hiSrc": "translated"
+              },
+              "conceptIds": []
+            }
+          ]
+        }
+      ],
+      "practicalIds": [],
+      "conceptIds": [],
+      "review": {
+        "status": "verified",
+        "note": "Chapters and Unit I marks verified against the UBSE High School Science syllabus 2026-27, which prescribes the NCERT Science textbooks. Hindi descriptions are our translation and need teacher review."
+      }
+    }
+  ],
+  "practicals": [
+    {
+      "id": "uk-9-p1",
+      "number": "1",
+      "title": {
+        "en": "Preparing a true solution of common salt, sugar and alum; a suspension of soil, chalk powder and fine sand in water; and a colloid of starch and of egg albumin in water — and distinguishing them on transparency, filtration and stability",
+        "hi": "नमक, चीनी तथा फिटकरी का वास्तविक विलयन; मिट्टी, खड़िया और महीन बालू का जल में निलंबन; तथा जल में मंड और अंडे की सफ़ेदी का कोलॉइड तैयार करना और पारदर्शिता, छानने तथा स्थायित्व के आधार पर अंतर स्पष्ट करना",
+        "hiSrc": "translated"
+      },
+      "chapterIds": [
+        "uk-9-ch02"
+      ],
+      "relatedChapterIds": [],
+      "mapping": "editorial",
+      "reactions": [],
+      "labId": null
+    },
+    {
+      "id": "uk-9-p2",
+      "number": "2",
+      "title": {
+        "en": "Preparing a mixture and a compound of iron filings and sulphur powder, and distinguishing them by appearance, behaviour towards a magnet, behaviour towards carbon disulphide and effect of heat",
+        "hi": "लौह चूर्ण तथा सल्फ़र पाउडर का मिश्रण और यौगिक तैयार करना तथा दिखावट, चुंबक के प्रति व्यवहार, कार्बन डाइसल्फ़ाइड के प्रति व्यवहार और ऊष्मा के प्रभाव के आधार पर अंतर स्पष्ट करना",
+        "hiSrc": "translated"
+      },
+      "chapterIds": [
+        "uk-9-ch02"
+      ],
+      "relatedChapterIds": [],
+      "mapping": "editorial",
+      "reactions": [],
+      "labId": null
+    },
+    {
+      "id": "uk-9-p3",
+      "number": "3",
+      "title": {
+        "en": "Performing these reactions and classifying them as physical or chemical changes: iron with copper sulphate solution in water; burning magnesium ribbon in air; zinc with dilute sulphuric acid; heating copper sulphate crystals; sodium sulphate with barium chloride solution",
+        "hi": "निम्न अभिक्रियाएँ करना तथा उन्हें भौतिक और रासायनिक परिवर्तन में वर्गीकृत करना: जल में लोहा तथा कॉपर सल्फ़ेट विलयन; मैग्नीशियम रिबन का वायु में दहन; ज़िंक तथा तनु सल्फ़्यूरिक अम्ल; कॉपर सल्फ़ेट क्रिस्टल को गरम करना; सोडियम सल्फ़ेट तथा बेरियम क्लोराइड विलयन",
+        "hiSrc": "translated"
+      },
+      "chapterIds": [
+        "uk-9-ch02"
+      ],
+      "relatedChapterIds": [],
+      "mapping": "editorial",
+      "reactions": [],
+      "labId": null
+    },
+    {
+      "id": "uk-9-p6",
+      "number": "6",
+      "title": {
+        "en": "Determining the melting point of ice and the boiling point of water",
+        "hi": "बर्फ़ का गलनांक एवं जल का क्वथनांक ज्ञात करना",
+        "hiSrc": "translated"
+      },
+      "chapterIds": [
+        "uk-9-ch01"
+      ],
+      "relatedChapterIds": [],
+      "mapping": "editorial",
+      "reactions": [],
+      "labId": null
+    },
+    {
+      "id": "uk-9-p11",
+      "number": "11",
+      "title": {
+        "en": "Verifying the law of conservation of mass in a chemical reaction",
+        "hi": "रासायनिक अभिक्रिया में द्रव्यमान संरक्षण के नियम का सत्यापन करना",
+        "hiSrc": "translated"
+      },
+      "chapterIds": [
+        "uk-9-ch03"
+      ],
+      "relatedChapterIds": [],
+      "mapping": "editorial",
+      "reactions": [],
+      "labId": null
+    }
+  ]
+}

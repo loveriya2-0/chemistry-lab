@@ -1,0 +1,117 @@
+# virtual_chemistry_lab
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+## AI Chemistry Tutor
+
+Every topic, chapter, concept and reaction screen has an **Ask AI** button
+(`lib/ai/`, `lib/screens/ai_tutor_screen.dart`). The tutor is told the board,
+class, chapter, topic and the app's checked notes for it, and every answer is
+labelled **AI Explanation** — it is never mixed into the verified notes or PYQs.
+
+No API key is stored in the code. Connect the tutor at build time:
+
+```sh
+# Release builds: your own server keeps the key (recommended)
+flutter build apk --dart-define=AI_TUTOR_PROXY_URL=https://your-server.example/v1/messages
+
+# Local testing only: the key is compiled into the app, so never ship this
+flutter run --dart-define=ANTHROPIC_API_KEY=sk-ant-...
+```
+
+Optional: `--dart-define=AI_TUTOR_MODEL=claude-opus-5` (default) and
+`--dart-define=AI_TUTOR_EFFORT=medium` (default; `high` for deeper answers).
+Without either setting the app works normally and the tutor screen says it is
+not set up.
+
+**Proxy contract:** the app POSTs the Claude Messages API JSON body unchanged
+with headers `anthropic-version` and `anthropic-beta`. The proxy adds
+`x-api-key`, forwards to `https://api.anthropic.com/v1/messages`, and returns the
+response as-is. Add rate limiting per device or user there. Use the proxy for the
+web build too: browsers cannot call the API directly with a secret key.
+
+## Premium (₹99 one-time, Google Play Billing)
+
+Free: notes, topics, labs, practicals, practice questions, mistake revision,
+focus mode, personal notes and basic progress. **Premium** unlocks all PYQs
+(Exam tab, PYQ practice, PYQs on topic/concept screens) and the detailed
+analysis (accuracy breakdown, chapter-wise progress) in the Progress tab.
+Advanced revision sets and extra mock tests are listed as *coming soon* and
+are not sold as existing features.
+
+Code: `lib/premium/` (billing, controller, verifier), `lib/screens/premium_screen.dart`,
+`lib/widgets/premium_gate.dart`, `lib/l10n/premium_strings.dart`; server in
+`server/` (see `server/README.md`). Tests: `test/premium_test.dart`,
+`cd server/functions && npm test`.
+
+Premium is granted **only** after the server verifies the purchase with the
+Google Play Developer API. Builds without a verify URL show "Purchases are
+not set up" and unlock nothing:
+
+```sh
+flutter build appbundle --release \
+  --dart-define=PREMIUM_VERIFY_URL=https://.../verifyPurchase \
+  --dart-define=AI_TUTOR_PROXY_URL=...   # as before
+# optional: --dart-define=PREMIUM_PRODUCT_ID=premium_lifetime (default)
+```
+
+### Upload key (required by Google Play)
+
+```sh
+keytool -genkey -v -keystore %USERPROFILE%\upload-keystore.jks -keyalg RSA -keysize 2048 -validity 10000 -alias upload
+```
+
+Create `android/key.properties` (git-ignored, never commit it):
+
+```properties
+storePassword=...
+keyPassword=...
+keyAlias=upload
+storeFile=C:/Users/<you>/upload-keystore.jks
+```
+
+Back up the keystore and passwords. Without this file release builds use the
+debug key, which Google Play rejects.
+
+### Google Play Console
+
+1. Developer account + **Payments profile** (Setup → Payments profile).
+2. Create the app; package name `com.vlab.virtual_chemistry_lab` (permanent).
+3. Upload a signed **AAB** (built as above) to **Testing → Internal testing**
+   and roll it out. The product screens unlock after a build with the
+   BILLING permission is uploaded (the plugin adds it).
+4. **Monetize → Products → One-time products → Create**: product ID
+   `premium_lifetime`, name "Premium", price **₹99 INR** (let Play convert
+   other countries or leave India only), purchase option *Buy*, **Activate**.
+5. **Settings → License testing**: add tester Gmail accounts (test purchases,
+   no real charge; test cards "always approves", "approves after delay"
+   (pending), "declines").
+6. Internal testing → Testers: add the same accounts, share the opt-in link,
+   install **from Google Play** (sideloaded APKs cannot buy).
+7. Set up the verify server (`server/README.md`).
+
+### Test checklist (on a real device, internal testing track)
+
+- Buy with "always approves" → Premium active, PYQs open.
+- "Approves after a delay" → Payment pending, unlocks later.
+- Cancel the sheet / "declines" → stays free, message shown.
+- Uninstall + reinstall (or another phone, same account) → Restore purchase.
+- Play Console → Order management → Refund with *Remove entitlement* →
+  reopen the app online → Premium removed.
+
+Payments are live only after the product is active and these tests pass on
+the testing track, then a production release is published.

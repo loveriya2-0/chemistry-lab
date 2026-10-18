@@ -1,0 +1,358 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "note-cbse-12-ch05-t5.1",
+      "targetId": "cbse-12-ch05-t5.1",
+      "covers": [],
+      "definition": {
+        "en": "Werner's theory (1898) states that a metal in a coordination compound shows two kinds of valence: a primary (ionisable) valence satisfied by negative ions, and a secondary (non-ionisable) valence equal to the coordination number, satisfied by neutral molecules or negative ions arranged in a definite geometry.",
+        "hi": "वर्नर के सिद्धांत (1898) के अनुसार उपसहसंयोजन यौगिक में धातु दो प्रकार की संयोजकता दर्शाती है: प्राथमिक (आयननीय) संयोजकता जो ऋणायनों से संतुष्ट होती है, और द्वितीयक (अनआयननीय) संयोजकता जो उपसहसंयोजन संख्या के बराबर होती है तथा उदासीन अणुओं या ऋणायनों द्वारा निश्चित ज्यामिति में संतुष्ट होती है।"
+      },
+      "explanation": {
+        "en": "With cobalt(III) chloride–ammonia compounds, Werner found that only some chloride ions precipitate as AgCl with excess AgNO₃ in the cold. So six groups stay bonded to cobalt inside the square bracket, e.g. [Co(NH₃)₆]Cl₃ gives 3 AgCl, [CoCl(NH₃)₅]Cl₂ gives 2, [CoCl₂(NH₃)₄]Cl gives 1. Octahedral, tetrahedral and square planar shapes are common. Double salts such as Mohr's salt, FeSO₄·(NH₄)₂SO₄·6H₂O, and potash alum dissociate completely into simple ions in water, but complex ions such as [Fe(CN)₆]⁴⁻ do not.",
+        "hi": "कोबाल्ट(III) क्लोराइड–अमोनिया यौगिकों में वर्नर ने पाया कि ठंड में AgNO₃ के आधिक्य से केवल कुछ क्लोराइड आयन AgCl के रूप में अवक्षेपित होते हैं। अतः छह समूह वर्ग कोष्ठक के अंदर कोबाल्ट से बंधे रहते हैं, जैसे [Co(NH₃)₆]Cl₃ से 3 AgCl, [CoCl(NH₃)₅]Cl₂ से 2, [CoCl₂(NH₃)₄]Cl से 1। अष्टफलकीय, चतुष्फलकीय और वर्ग समतली आकृतियाँ सामान्य हैं। मोर लवण FeSO₄·(NH₄)₂SO₄·6H₂O और फिटकरी जैसे द्विक लवण जल में पूर्णतः सरल आयनों में वियोजित हो जाते हैं, परंतु [Fe(CN)₆]⁴⁻ जैसे संकुल आयन नहीं।"
+      },
+      "keyPoints": [
+        {"en": "Primary valence = oxidation state (ionisable); secondary valence = coordination number (non-ionisable, fixed for a metal).", "hi": "प्राथमिक संयोजकता = ऑक्सीकरण अवस्था (आयननीय); द्वितीयक संयोजकता = उपसहसंयोजन संख्या (अनआयननीय, धातु के लिए निश्चित)।"},
+        {"en": "Species inside the square bracket form the coordination entity; ions outside are counter ions.", "hi": "वर्ग कोष्ठक के अंदर की स्पीशीज़ उपसहसंयोजन सत्ता बनाती हैं; बाहर के आयन प्रति-आयन हैं।"},
+        {"en": "Werner won the Nobel Prize in 1913, the first Swiss chemist to do so.", "hi": "वर्नर को 1913 में नोबेल पुरस्कार मिला; यह पाने वाले वे पहले स्विस रसायनज्ञ थे।"}
+      ],
+      "realLife": {
+        "en": "Chlorophyll (Mg), haemoglobin (Fe) and vitamin B₁₂ (Co) are coordination compounds.",
+        "hi": "क्लोरोफ़िल (Mg), हीमोग्लोबिन (Fe) और विटामिन B₁₂ (Co) उपसहसंयोजन यौगिक हैं।"
+      },
+      "examFocus": {
+        "en": "State Werner's postulates; predict the number of moles of AgCl precipitated; distinguish a double salt from a complex.",
+        "hi": "वर्नर की अभिधारणाएँ लिखिए; अवक्षेपित AgCl के मोलों की संख्या बताइए; द्विक लवण और संकुल में अंतर कीजिए।"
+      },
+      "commonMistakes": [
+        {"en": "Counting chloride ions inside the bracket as precipitated by AgNO₃ — only counter ions are ionisable.", "hi": "कोष्ठक के अंदर के क्लोराइड आयनों को AgNO₃ से अवक्षेपित मानना — केवल प्रति-आयन ही आयननीय होते हैं।"}
+      ],
+      "formulas": ["[Co(NH₃)₆]Cl₃ → [Co(NH₃)₆]³⁺ + 3Cl⁻", "[CoCl(NH₃)₅]Cl₂ → [CoCl(NH₃)₅]²⁺ + 2Cl⁻"],
+      "practicalIds": ["cbse-12-pF"],
+      "conceptIds": ["coordination-compounds"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "5.1"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "Primary = 'P'recipitates; Secondary = 'S'tays", "hi": "प्राथमिक = 'अवक्षेपित होती है'; द्वितीयक = 'बँधी रहती है'"},
+          "recall": {"en": "Primary-valence ions are outside the bracket and precipitate with AgNO₃; secondary-valence groups stay bonded to the metal.", "hi": "प्राथमिक संयोजकता वाले आयन कोष्ठक के बाहर होते हैं और AgNO₃ से अवक्षेपित होते हैं; द्वितीयक संयोजकता वाले समूह धातु से बँधे रहते हैं।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Werner: primary (ionisable) and secondary (non-ionisable, = CN) valences.", "hi": "वर्नर: प्राथमिक (आयननीय) और द्वितीयक (अनआयननीय, = उपसहसंयोजन संख्या) संयोजकताएँ।"},
+        "formula": "[Co(NH₃)₆]Cl₃ → [Co(NH₃)₆]³⁺ + 3Cl⁻",
+        "points": [
+          {"en": "Moles of AgCl = number of Cl⁻ outside the bracket.", "hi": "AgCl के मोल = कोष्ठक के बाहर के Cl⁻ की संख्या।"},
+          {"en": "Double salts ionise completely; complex ions do not.", "hi": "द्विक लवण पूर्णतः आयनित होते हैं; संकुल आयन नहीं।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch05-t5.2",
+      "targetId": "cbse-12-ch05-t5.2",
+      "covers": [],
+      "definition": {
+        "en": "A coordination entity is a central metal atom or ion bonded to a fixed number of ligands; the number of ligand donor atoms directly bonded to the metal is its coordination number.",
+        "hi": "उपसहसंयोजन सत्ता एक केंद्रीय धातु परमाणु या आयन है जो निश्चित संख्या में लिगेंडों से बंधा होता है; धातु से सीधे बंधे लिगेंड दाता परमाणुओं की संख्या उसकी उपसहसंयोजन संख्या है।"
+      },
+      "explanation": {
+        "en": "The central atom acts as a Lewis acid; ligands donate electron pairs. Ligands are unidentate (Cl⁻, H₂O, NH₃), didentate (en, C₂O₄²⁻) or polydentate (EDTA⁴⁻ is hexadentate, binding through 2 N and 4 O). A di- or polydentate ligand that binds one metal through two or more atoms is a chelate; chelate complexes are more stable. Ambidentate ligands such as NO₂⁻ and SCN⁻ can bind through either of two atoms. Coordination number counts only σ bonds. The metal plus ligands in square brackets is the coordination sphere; the arrangement of donor atoms is the coordination polyhedron. Oxidation number is the charge left on the metal when all ligands are removed with their shared pairs. Homoleptic complexes have one kind of ligand; heteroleptic have more than one.",
+        "hi": "केंद्रीय परमाणु लूइस अम्ल की तरह कार्य करता है; लिगेंड इलेक्ट्रॉन युग्म देते हैं। लिगेंड एकदंतुर (Cl⁻, H₂O, NH₃), द्विदंतुर (en, C₂O₄²⁻) या बहुदंतुर होते हैं (EDTA⁴⁻ षट्दंतुर है, 2 N और 4 O से बंधता है)। जो द्वि- या बहुदंतुर लिगेंड दो या अधिक परमाणुओं से एक ही धातु से बंधता है वह कीलेट है; कीलेट संकुल अधिक स्थायी होते हैं। NO₂⁻ और SCN⁻ जैसे उभयदंती लिगेंड दो में से किसी भी परमाणु से बंध सकते हैं। उपसहसंयोजन संख्या में केवल σ आबंध गिने जाते हैं। वर्ग कोष्ठक में धातु और लिगेंड उपसहसंयोजन मंडल हैं; दाता परमाणुओं की व्यवस्था उपसहसंयोजन बहुफलक है। सभी लिगेंडों को उनके साझा युग्मों सहित हटाने पर धातु पर बचा आवेश उसकी ऑक्सीकरण संख्या है। समलिगेंडी संकुल में एक ही प्रकार के और विषमलिगेंडी में एक से अधिक प्रकार के लिगेंड होते हैं।"
+      },
+      "keyPoints": [
+        {"en": "In [Fe(C₂O₄)₃]³⁻ and [Co(en)₃]³⁺ the coordination number is 6 because oxalate and en are didentate.", "hi": "[Fe(C₂O₄)₃]³⁻ और [Co(en)₃]³⁺ में उपसहसंयोजन संख्या 6 है क्योंकि ऑक्सेलेट और en द्विदंतुर हैं।"},
+        {"en": "In K₄[Fe(CN)₆] the coordination sphere is [Fe(CN)₆]⁴⁻ and K⁺ is the counter ion.", "hi": "K₄[Fe(CN)₆] में उपसहसंयोजन मंडल [Fe(CN)₆]⁴⁻ है और K⁺ प्रति-आयन है।"},
+        {"en": "Oxidation number of Cu in [Cu(CN)₄]³⁻ is +1, written Cu(I).", "hi": "[Cu(CN)₄]³⁻ में Cu की ऑक्सीकरण संख्या +1 है, Cu(I) लिखी जाती है।"}
+      ],
+      "realLife": {
+        "en": "EDTA, a hexadentate chelating ligand, is used to estimate water hardness and to remove toxic metals.",
+        "hi": "षट्दंतुर कीलेटकारी लिगेंड EDTA का उपयोग जल की कठोरता ज्ञात करने और विषैली धातुएँ हटाने में होता है।"
+      },
+      "examFocus": {
+        "en": "Define and give examples of ligand types, coordination number, coordination sphere, polyhedron, homoleptic and heteroleptic; find oxidation number of the metal.",
+        "hi": "लिगेंड के प्रकार, उपसहसंयोजन संख्या, उपसहसंयोजन मंडल, बहुफलक, समलिगेंडी और विषमलिगेंडी की परिभाषा उदाहरण सहित दीजिए; धातु की ऑक्सीकरण संख्या ज्ञात कीजिए।"
+      },
+      "commonMistakes": [
+        {"en": "Taking coordination number = number of ligands — with didentate ligands it is twice the number of ligands.", "hi": "उपसहसंयोजन संख्या = लिगेंडों की संख्या मानना — द्विदंतुर लिगेंडों में यह लिगेंडों की संख्या की दोगुनी होती है।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["coordination-compounds"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "5.2"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "EDTA = 2 N + 4 O = 6 teeth", "hi": "EDTA = 2 N + 4 O = 6 दाँत"},
+          "recall": {"en": "EDTA⁴⁻ is hexadentate: it binds a metal through two nitrogen and four oxygen atoms.", "hi": "EDTA⁴⁻ षट्दंतुर है: यह दो नाइट्रोजन और चार ऑक्सीजन परमाणुओं से धातु से बंधता है।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "CN = number of donor atoms (σ bonds) attached to the metal.", "hi": "उपसहसंयोजन संख्या = धातु से जुड़े दाता परमाणुओं (σ आबंधों) की संख्या।"},
+        "points": [
+          {"en": "Unidentate, didentate (en, ox), hexadentate (EDTA); ambidentate NO₂⁻, SCN⁻.", "hi": "एकदंतुर, द्विदंतुर (en, ox), षट्दंतुर (EDTA); उभयदंती NO₂⁻, SCN⁻।"},
+          {"en": "Chelate complexes are more stable.", "hi": "कीलेट संकुल अधिक स्थायी होते हैं।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch05-t5.3",
+      "targetId": "cbse-12-ch05-t5.3",
+      "covers": [],
+      "definition": {
+        "en": "IUPAC nomenclature gives every coordination compound an unambiguous formula and name: in the formula the metal is written first, in the name the ligands are named first in alphabetical order, followed by the metal and its oxidation state in Roman numerals.",
+        "hi": "IUPAC नामपद्धति प्रत्येक उपसहसंयोजन यौगिक को स्पष्ट सूत्र और नाम देती है: सूत्र में धातु पहले लिखी जाती है, नाम में पहले लिगेंड वर्णानुक्रम में, फिर धातु और रोमन अंकों में उसकी ऑक्सीकरण अवस्था।"
+      },
+      "explanation": {
+        "en": "Formula: central atom first, then ligands alphabetically; the whole entity in square brackets, polyatomic ligands in parentheses, charge as a right superscript. Name: the cation is named first; anionic ligands end in -o (chlorido, cyanido, oxalato); neutral ligands keep their names except aqua (H₂O), ammine (NH₃), carbonyl (CO), nitrosyl (NO). Use di, tri, tetra; use bis, tris, tetrakis when the ligand name already contains a number, e.g. dichloridobis(ethane-1,2-diamine)cobalt(III). In a complex anion the metal name ends in -ate (cobaltate), with Latin names for some metals (ferrate for Fe, argentate for Ag).",
+        "hi": "सूत्र: पहले केंद्रीय परमाणु, फिर लिगेंड वर्णानुक्रम में; पूरी सत्ता वर्ग कोष्ठक में, बहुपरमाणुक लिगेंड छोटे कोष्ठक में, आवेश दाईं ओर ऊपर। नाम: पहले धनायन का नाम; ऋणात्मक लिगेंडों के नाम -o पर समाप्त (chlorido, cyanido, oxalato); उदासीन लिगेंडों के नाम वही रहते हैं सिवाय aqua (H₂O), ammine (NH₃), carbonyl (CO), nitrosyl (NO)। di, tri, tetra का उपयोग; जब लिगेंड के नाम में पहले से संख्या हो तो bis, tris, tetrakis, जैसे dichloridobis(ethane-1,2-diamine)cobalt(III)। संकुल ऋणायन में धातु का नाम -ate पर समाप्त होता है (cobaltate), कुछ धातुओं के लिए लैटिन नाम (Fe के लिए ferrate, Ag के लिए argentate)।"
+      },
+      "keyPoints": [
+        {"en": "[Cr(NH₃)₃(H₂O)₃]Cl₃ = triamminetriaquachromium(III) chloride.", "hi": "[Cr(NH₃)₃(H₂O)₃]Cl₃ = triamminetriaquachromium(III) chloride।"},
+        {"en": "K₃[Fe(CN)₆] = potassium hexacyanidoferrate(III); K₄[Fe(CN)₆] = potassium hexacyanidoferrate(II).", "hi": "K₃[Fe(CN)₆] = potassium hexacyanidoferrate(III); K₄[Fe(CN)₆] = potassium hexacyanidoferrate(II)।"},
+        {"en": "Ambidentate binding is shown in the name: nitrito-N (M–NO₂) or nitrito-O (M–ONO), thiocyanato-S or -N.", "hi": "उभयदंती बंधन नाम में दर्शाया जाता है: nitrito-N (M–NO₂) या nitrito-O (M–ONO), thiocyanato-S या -N।"}
+      ],
+      "realLife": {
+        "en": "Systematic names let chemists everywhere identify exactly which isomer or complex is meant in research and industry.",
+        "hi": "क्रमबद्ध नामों से हर जगह के रसायनज्ञ अनुसंधान और उद्योग में सही-सही पहचान पाते हैं कि कौन-सा समावयवी या संकुल अभिप्रेत है।"
+      },
+      "examFocus": {
+        "en": "Write IUPAC names from formulas and formulas from names (including -ate anions and bis/tris prefixes).",
+        "hi": "सूत्रों से IUPAC नाम और नामों से सूत्र लिखिए (-ate ऋणायन तथा bis/tris उपसर्ग सहित)।"
+      },
+      "commonMistakes": [
+        {"en": "Writing 'ferrate' for an iron complex cation — the -ate ending is used only when the complex is an anion.", "hi": "आयरन के संकुल धनायन के लिए 'ferrate' लिखना — -ate अंत केवल तब लगता है जब संकुल ऋणायन हो।"},
+        {"en": "Writing 'amine' instead of 'ammine' for NH₃ as a ligand.", "hi": "लिगेंड NH₃ के लिए 'ammine' की जगह 'amine' लिखना।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["coordination-compounds"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "5.3"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "Formula: 'Metal first'; Name: 'Ligands first'", "hi": "सूत्र: 'पहले धातु'; नाम: 'पहले लिगेंड'"},
+          "recall": {"en": "In the formula the central atom is written first; in the name ligands come first (alphabetically), then the metal — the order is reversed.", "hi": "सूत्र में केंद्रीय परमाणु पहले लिखा जाता है; नाम में पहले लिगेंड (वर्णानुक्रम में), फिर धातु — क्रम उलट जाता है।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Name = cation first; ligands alphabetically, then metal (-ate if anion) + oxidation state.", "hi": "नाम = पहले धनायन; लिगेंड वर्णानुक्रम में, फिर धातु (ऋणायन हो तो -ate) + ऑक्सीकरण अवस्था।"},
+        "points": [
+          {"en": "aqua, ammine, carbonyl, nitrosyl; anionic ligands end in -o.", "hi": "aqua, ammine, carbonyl, nitrosyl; ऋणात्मक लिगेंड -o पर समाप्त।"},
+          {"en": "bis, tris, tetrakis for ligands with numbers in their names.", "hi": "जिन लिगेंडों के नाम में संख्या हो उनके लिए bis, tris, tetrakis।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch05-t5.4",
+      "targetId": "cbse-12-ch05-t5.4",
+      "covers": [],
+      "definition": {
+        "en": "Isomers of coordination compounds have the same formula but different arrangements of atoms. Stereoisomers (geometrical, optical) differ in spatial arrangement; structural isomers (linkage, coordination, ionisation, solvate) have different bonds.",
+        "hi": "उपसहसंयोजन यौगिकों के समावयवियों का सूत्र समान पर परमाणुओं की व्यवस्था भिन्न होती है। त्रिविम समावयवी (ज्यामितीय, प्रकाशिक) स्थानिक व्यवस्था में भिन्न होते हैं; संरचनात्मक समावयवियों (बंधनी, उपसहसंयोजन, आयनन, विलायकयोजन) के आबंध भिन्न होते हैं।"
+      },
+      "explanation": {
+        "en": "Geometrical (cis–trans) isomerism occurs in square planar [MX₂L₂], in octahedral [MX₂L₄] and [MX₂(L–L)₂], and as fac–mer in [Ma₃b₃] such as [Co(NH₃)₃(NO₂)₃]; tetrahedral complexes do not show it. Optical isomers are non-superimposable mirror images (d and l); in [PtCl₂(en)₂]²⁺ only the cis form is optically active. Linkage isomers differ in the donor atom of an ambidentate ligand ([Co(NH₃)₅(NO₂)]Cl₂ red –ONO and yellow –NO₂ forms). Coordination isomers exchange ligands between cation and anion: [Co(NH₃)₆][Cr(CN)₆] and [Cr(NH₃)₆][Co(CN)₆]. Ionisation isomers swap a ligand with the counter ion: [Co(NH₃)₅(SO₄)]Br and [Co(NH₃)₅Br]SO₄. Solvate (hydrate) isomers: [Cr(H₂O)₆]Cl₃ (violet) and [Cr(H₂O)₅Cl]Cl₂·H₂O (grey-green).",
+        "hi": "ज्यामितीय (समपक्ष–विपक्ष) समावयवता वर्ग समतली [MX₂L₂], अष्टफलकीय [MX₂L₄] तथा [MX₂(L–L)₂] में, और [Ma₃b₃] जैसे [Co(NH₃)₃(NO₂)₃] में fac–mer के रूप में होती है; चतुष्फलकीय संकुल इसे नहीं दर्शाते। प्रकाशिक समावयवी अध्यारोपित न होने वाले दर्पण-प्रतिबिंब होते हैं (d और l); [PtCl₂(en)₂]²⁺ में केवल समपक्ष रूप प्रकाशिक सक्रिय है। बंधनी समावयवी उभयदंती लिगेंड के दाता परमाणु में भिन्न होते हैं ([Co(NH₃)₅(NO₂)]Cl₂ के लाल –ONO और पीले –NO₂ रूप)। उपसहसंयोजन समावयवी धनायन और ऋणायन के बीच लिगेंडों का आदान-प्रदान करते हैं: [Co(NH₃)₆][Cr(CN)₆] और [Cr(NH₃)₆][Co(CN)₆]। आयनन समावयवी लिगेंड और प्रति-आयन की अदला-बदली करते हैं: [Co(NH₃)₅(SO₄)]Br और [Co(NH₃)₅Br]SO₄। विलायकयोजन (हाइड्रेट) समावयवी: [Cr(H₂O)₆]Cl₃ (बैंगनी) और [Cr(H₂O)₅Cl]Cl₂·H₂O (धूसर-हरा)।"
+      },
+      "keyPoints": [
+        {"en": "Tetrahedral complexes show no geometrical isomerism: all positions are adjacent to each other.", "hi": "चतुष्फलकीय संकुल ज्यामितीय समावयवता नहीं दर्शाते: सभी स्थितियाँ परस्पर सटी हुई होती हैं।"},
+        {"en": "Optical isomerism is common in octahedral complexes with didentate ligands, e.g. [Co(en)₃]³⁺.", "hi": "द्विदंतुर लिगेंडों वाले अष्टफलकीय संकुलों में प्रकाशिक समावयवता सामान्य है, जैसे [Co(en)₃]³⁺।"},
+        {"en": "Ionisation isomers give different ions in solution, e.g. one gives a precipitate with BaCl₂, the other with AgNO₃.", "hi": "आयनन समावयवी विलयन में भिन्न आयन देते हैं, जैसे एक BaCl₂ से अवक्षेप देता है, दूसरा AgNO₃ से।"}
+      ],
+      "realLife": {
+        "en": "cis-[PtCl₂(NH₃)₂] (cisplatin) is an anticancer drug, while its trans isomer is not — shape decides activity.",
+        "hi": "cis-[PtCl₂(NH₃)₂] (सिसप्लैटिन) कैंसररोधी औषधि है जबकि इसका trans समावयवी नहीं — आकृति ही सक्रियता तय करती है।"
+      },
+      "examFocus": {
+        "en": "Identify the type of isomerism, draw cis/trans and fac/mer structures, and show which isomer is optically active.",
+        "hi": "समावयवता का प्रकार पहचानिए, cis/trans और fac/mer संरचनाएँ बनाइए, और बताइए कौन-सा समावयवी प्रकाशिक सक्रिय है।"
+      },
+      "commonMistakes": [
+        {"en": "Saying trans-[PtCl₂(en)₂]²⁺ is optically active — it has a plane of symmetry; only the cis form is chiral.", "hi": "trans-[PtCl₂(en)₂]²⁺ को प्रकाशिक सक्रिय कहना — इसमें सममिति तल है; केवल cis रूप किरेल है।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["coordination-compounds"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "5.4"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "Structural isomers 'LICS': Linkage, Ionisation, Coordination, Solvate", "hi": "संरचनात्मक समावयवी 'LICS': बंधनी (Linkage), आयनन (Ionisation), उपसहसंयोजन (Coordination), विलायकयोजन (Solvate)"},
+          "recall": {"en": "The four structural isomerisms of complexes; stereoisomerism has two: geometrical and optical.", "hi": "संकुलों की चार संरचनात्मक समावयवताएँ; त्रिविम समावयवता के दो प्रकार: ज्यामितीय और प्रकाशिक।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Stereo: geometrical, optical; structural: linkage, coordination, ionisation, solvate.", "hi": "त्रिविम: ज्यामितीय, प्रकाशिक; संरचनात्मक: बंधनी, उपसहसंयोजन, आयनन, विलायकयोजन।"},
+        "points": [
+          {"en": "No geometrical isomers for tetrahedral complexes.", "hi": "चतुष्फलकीय संकुलों के ज्यामितीय समावयवी नहीं होते।"},
+          {"en": "cis-[PtCl₂(en)₂]²⁺ is optically active; trans is not.", "hi": "cis-[PtCl₂(en)₂]²⁺ प्रकाशिक सक्रिय है; trans नहीं।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch05-t5.5",
+      "targetId": "cbse-12-ch05-t5.5",
+      "covers": [],
+      "definition": {
+        "en": "Bonding in complexes is explained by valence bond theory (hybridisation of metal orbitals accepting ligand electron pairs) and crystal field theory (splitting of metal d orbitals by the electrostatic field of ligands).",
+        "hi": "संकुलों में आबंधन को संयोजकता आबंध सिद्धांत (लिगेंड के इलेक्ट्रॉन युग्म ग्रहण करने वाले धातु कक्षकों का संकरण) और क्रिस्टल क्षेत्र सिद्धांत (लिगेंडों के स्थिरवैद्युत क्षेत्र द्वारा धातु के d कक्षकों का विपाटन) से समझाया जाता है।"
+      },
+      "explanation": {
+        "en": "VBT: [Co(NH₃)₆]³⁺ is d²sp³, inner orbital, low spin, diamagnetic; [CoF₆]³⁻ is sp³d², outer orbital, high spin, paramagnetic (4 unpaired). [NiCl₄]²⁻ is sp³ tetrahedral, paramagnetic; [Ni(CN)₄]²⁻ is dsp² square planar, diamagnetic; [Ni(CO)₄] is tetrahedral and diamagnetic (Ni(0)). VBT cannot explain colour or distinguish weak and strong ligands. CFT: in an octahedral field d orbitals split into lower t₂g (dxy, dyz, dxz) and higher eg (dx²−y², dz²); the gap is Δ₀. If Δ₀ < P (pairing energy), electrons enter eg (high spin, weak field); if Δ₀ > P they pair in t₂g (low spin, strong field). Tetrahedral splitting is inverted and smaller, Δt = (4/9)Δ₀, so low-spin tetrahedral complexes are rare. Colour comes from d–d transitions: [Ti(H₂O)₆]³⁺ absorbs blue-green and looks violet.",
+        "hi": "VBT: [Co(NH₃)₆]³⁺ d²sp³, आंतरिक कक्षक, निम्न चक्रण, प्रतिचुंबकीय है; [CoF₆]³⁻ sp³d², बाह्य कक्षक, उच्च चक्रण, अनुचुंबकीय (4 अयुग्मित) है। [NiCl₄]²⁻ sp³ चतुष्फलकीय, अनुचुंबकीय; [Ni(CN)₄]²⁻ dsp² वर्ग समतली, प्रतिचुंबकीय; [Ni(CO)₄] चतुष्फलकीय और प्रतिचुंबकीय (Ni(0)) है। VBT रंग नहीं समझा पाता और दुर्बल व प्रबल लिगेंडों में भेद नहीं करता। CFT: अष्टफलकीय क्षेत्र में d कक्षक निम्न t₂g (dxy, dyz, dxz) और उच्च eg (dx²−y², dz²) में विपाटित होते हैं; अंतर Δ₀ है। यदि Δ₀ < P (युग्मन ऊर्जा), तो इलेक्ट्रॉन eg में जाते हैं (उच्च चक्रण, दुर्बल क्षेत्र); यदि Δ₀ > P तो t₂g में युग्मित होते हैं (निम्न चक्रण, प्रबल क्षेत्र)। चतुष्फलकीय विपाटन उलटा और छोटा होता है, Δt = (4/9)Δ₀, इसलिए निम्न-चक्रण चतुष्फलकीय संकुल दुर्लभ हैं। रंग d–d संक्रमण से आता है: [Ti(H₂O)₆]³⁺ नीला-हरा अवशोषित करता है और बैंगनी दिखता है।"
+      },
+      "keyPoints": [
+        {"en": "Spectrochemical series: I⁻ < Br⁻ < SCN⁻ < Cl⁻ < S²⁻ < F⁻ < OH⁻ < C₂O₄²⁻ < H₂O < NCS⁻ < edta⁴⁻ < NH₃ < en < CN⁻ < CO.", "hi": "स्पेक्ट्रमरासायनिक श्रेणी: I⁻ < Br⁻ < SCN⁻ < Cl⁻ < S²⁻ < F⁻ < OH⁻ < C₂O₄²⁻ < H₂O < NCS⁻ < edta⁴⁻ < NH₃ < en < CN⁻ < CO।"},
+        {"en": "The colour seen is complementary to the colour absorbed; without ligands (anhydrous CuSO₄) there is no splitting and no colour.", "hi": "दिखने वाला रंग अवशोषित रंग का पूरक होता है; लिगेंडों के बिना (निर्जल CuSO₄) विपाटन नहीं, इसलिए रंग नहीं।"},
+        {"en": "Ruby is Al₂O₃ with 0.5–1% Cr³⁺; emerald has Cr³⁺ in beryl — both coloured by d–d transitions.", "hi": "माणिक्य 0.5–1% Cr³⁺ युक्त Al₂O₃ है; पन्ने में बेरिल में Cr³⁺ होता है — दोनों का रंग d–d संक्रमण से है।"},
+        {"en": "CFT limitation: anionic ligands should split most but lie at the low end of the series; covalent character is ignored.", "hi": "CFT की सीमा: ऋणायनी लिगेंडों को सबसे अधिक विपाटन करना चाहिए पर वे श्रेणी के निचले सिरे पर हैं; सहसंयोजक लक्षण की उपेक्षा होती है।"}
+      ],
+      "realLife": {
+        "en": "The colours of gemstones such as ruby and emerald and of many paints and dyes come from crystal field splitting.",
+        "hi": "माणिक्य और पन्ने जैसे रत्नों तथा अनेक रंगों और रंजकों का रंग क्रिस्टल क्षेत्र विपाटन से आता है।"
+      },
+      "examFocus": {
+        "en": "Give hybridisation, shape and magnetic nature using VBT; write t₂g/eg configurations and explain high and low spin with CFT; explain colour.",
+        "hi": "VBT से संकरण, आकृति और चुंबकीय प्रकृति बताइए; t₂g/eg विन्यास लिखकर CFT से उच्च और निम्न चक्रण समझाइए; रंग की व्याख्या कीजिए।"
+      },
+      "commonMistakes": [
+        {"en": "Assuming every Ni(II) 4-coordinate complex is tetrahedral — with strong-field CN⁻ it is square planar (dsp²) and diamagnetic.", "hi": "हर Ni(II) 4-उपसहसंयोजी संकुल को चतुष्फलकीय मानना — प्रबल क्षेत्र CN⁻ के साथ यह वर्ग समतली (dsp²) और प्रतिचुंबकीय है।"},
+        {"en": "Saying a complex shows the colour it absorbs — it shows the complementary colour.", "hi": "यह कहना कि संकुल वही रंग दिखाता है जो अवशोषित करता है — वह पूरक रंग दिखाता है।"}
+      ],
+      "formulas": [
+        "Δt = (4/9) Δ₀",
+        "Δ₀ < P: high spin, t₂g³ eg¹ (d⁴)",
+        "Δ₀ > P: low spin, t₂g⁴ eg⁰ (d⁴)",
+        "μ = √(n(n + 2)) BM"
+      ],
+      "practicalIds": [],
+      "conceptIds": ["crystal-field-theory", "coordination-compounds"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "5.5"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "'Strong ligand = Squeeze (pair) the electrons'", "hi": "'प्रबल लिगेंड = इलेक्ट्रॉनों को दबाकर जोड़ो'"},
+          "recall": {"en": "Strong-field ligands (CN⁻, CO, en, NH₃) give Δ₀ > P, so electrons pair in t₂g: low spin, often inner-orbital d²sp³.", "hi": "प्रबल क्षेत्र लिगेंड (CN⁻, CO, en, NH₃) Δ₀ > P देते हैं, इसलिए इलेक्ट्रॉन t₂g में युग्मित होते हैं: निम्न चक्रण, प्रायः आंतरिक कक्षक d²sp³।"}
+        },
+        {
+          "trick": {"en": "Tetrahedral splitting is 'four-ninths' of octahedral", "hi": "चतुष्फलकीय विपाटन अष्टफलकीय का 'चार-नौवाँ' भाग"},
+          "recall": {"en": "Δt = (4/9)Δ₀ — too small to force pairing, so tetrahedral complexes are almost always high spin.", "hi": "Δt = (4/9)Δ₀ — युग्मन कराने के लिए बहुत कम, इसलिए चतुष्फलकीय संकुल लगभग सदैव उच्च चक्रण होते हैं।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "VBT gives hybridisation and shape; CFT splits d orbitals into t₂g and eg and explains colour and spin.", "hi": "VBT संकरण और आकृति देता है; CFT d कक्षकों को t₂g और eg में विपाटित कर रंग और चक्रण समझाता है।"},
+        "formula": "Δt = (4/9) Δ₀",
+        "points": [
+          {"en": "Δ₀ > P → low spin (strong field); Δ₀ < P → high spin (weak field).", "hi": "Δ₀ > P → निम्न चक्रण (प्रबल क्षेत्र); Δ₀ < P → उच्च चक्रण (दुर्बल क्षेत्र)।"},
+          {"en": "[Ni(CN)₄]²⁻ dsp², square planar, diamagnetic; [NiCl₄]²⁻ sp³, tetrahedral, paramagnetic.", "hi": "[Ni(CN)₄]²⁻ dsp², वर्ग समतली, प्रतिचुंबकीय; [NiCl₄]²⁻ sp³, चतुष्फलकीय, अनुचुंबकीय।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch05-t5.6",
+      "targetId": "cbse-12-ch05-t5.6",
+      "covers": [],
+      "definition": {
+        "en": "Metal carbonyls are complexes of metals with carbon monoxide; the M–C bond has both σ character (CO → metal) and π character (metal d → CO π*), called synergic bonding.",
+        "hi": "धातु कार्बोनिल धातुओं के कार्बन मोनोक्साइड के साथ संकुल हैं; M–C आबंध में σ लक्षण (CO → धातु) और π लक्षण (धातु d → CO π*) दोनों होते हैं, जिसे सहक्रियाशील आबंधन कहते हैं।"
+      },
+      "explanation": {
+        "en": "The σ bond forms when the lone pair on the carbonyl carbon is donated into a vacant metal orbital. The π bond forms when a filled metal d orbital donates electrons back into the vacant antibonding π* orbital of CO. The two effects reinforce each other and strengthen the metal–ligand bond. Shapes: [Ni(CO)₄] tetrahedral, [Fe(CO)₅] trigonal bipyramidal, [Cr(CO)₆] octahedral; [Mn₂(CO)₁₀] has two square pyramidal Mn(CO)₅ units joined by an Mn–Mn bond; [Co₂(CO)₈] has a Co–Co bond bridged by two CO groups.",
+        "hi": "σ आबंध तब बनता है जब कार्बोनिल कार्बन का एकाकी युग्म धातु के रिक्त कक्षक में दान होता है। π आबंध तब बनता है जब धातु का भरा d कक्षक CO के रिक्त प्रतिआबंधी π* कक्षक में इलेक्ट्रॉन वापस देता है। दोनों प्रभाव एक-दूसरे को सुदृढ़ करते हैं और धातु–लिगेंड आबंध को मज़बूत बनाते हैं। आकृतियाँ: [Ni(CO)₄] चतुष्फलकीय, [Fe(CO)₅] त्रिकोणीय द्विपिरामिडी, [Cr(CO)₆] अष्टफलकीय; [Mn₂(CO)₁₀] में दो वर्ग पिरामिडी Mn(CO)₅ इकाइयाँ Mn–Mn आबंध से जुड़ी हैं; [Co₂(CO)₈] में Co–Co आबंध दो CO समूहों से सेतुबद्ध है।"
+      },
+      "keyPoints": [
+        {"en": "In homoleptic carbonyls such as [Ni(CO)₄] and [Fe(CO)₅] the metal is in the zero oxidation state.", "hi": "[Ni(CO)₄] और [Fe(CO)₅] जैसे समलिगेंडी कार्बोनिलों में धातु शून्य ऑक्सीकरण अवस्था में होती है।"},
+        {"en": "CO is a π-acceptor ligand, which is why it stabilises low oxidation states and lies at the strong end of the spectrochemical series.", "hi": "CO एक π-ग्राही लिगेंड है, इसलिए यह निम्न ऑक्सीकरण अवस्थाओं को स्थायी करता है और स्पेक्ट्रमरासायनिक श्रेणी के प्रबल सिरे पर है।"}
+      ],
+      "realLife": {
+        "en": "Impure nickel is purified by forming volatile [Ni(CO)₄] and then decomposing it to pure nickel.",
+        "hi": "अशुद्ध निकल को वाष्पशील [Ni(CO)₄] बनाकर और फिर उसे विघटित कर शुद्ध निकल प्राप्त किया जाता है।"
+      },
+      "examFocus": {
+        "en": "Explain synergic bonding in metal carbonyls; give shapes of Ni, Fe and Cr carbonyls.",
+        "hi": "धातु कार्बोनिलों में सहक्रियाशील आबंधन समझाइए; Ni, Fe और Cr कार्बोनिलों की आकृतियाँ बताइए।"
+      },
+      "commonMistakes": [
+        {"en": "Describing only the σ donation — the back-donation from metal d to CO π* is what makes the bond synergic.", "hi": "केवल σ दान बताना — धातु d से CO π* में पश्च-दान ही आबंध को सहक्रियाशील बनाता है।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["coordination-compounds"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "5.6"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "Carbonyl shapes 4-5-6: Ni tetrahedral, Fe trigonal bipyramid, Cr octahedral", "hi": "कार्बोनिल आकृतियाँ 4-5-6: Ni चतुष्फलकीय, Fe त्रिकोणीय द्विपिरामिड, Cr अष्टफलकीय"},
+          "recall": {"en": "[Ni(CO)₄], [Fe(CO)₅] and [Cr(CO)₆] have 4, 5 and 6 CO groups and the matching shapes.", "hi": "[Ni(CO)₄], [Fe(CO)₅] और [Cr(CO)₆] में 4, 5 और 6 CO समूह और उनसे मेल खाती आकृतियाँ हैं।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "M–CO bond = σ donation (C → M) + π back-donation (M d → CO π*).", "hi": "M–CO आबंध = σ दान (C → M) + π पश्च-दान (M d → CO π*)।"},
+        "points": [
+          {"en": "Synergic bonding strengthens the M–C bond.", "hi": "सहक्रियाशील आबंधन M–C आबंध को मज़बूत करता है।"},
+          {"en": "Metal is in oxidation state 0 in Ni(CO)₄, Fe(CO)₅, Cr(CO)₆.", "hi": "Ni(CO)₄, Fe(CO)₅, Cr(CO)₆ में धातु ऑक्सीकरण अवस्था 0 में है।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch05-t5.7",
+      "targetId": "cbse-12-ch05-t5.7",
+      "covers": [],
+      "definition": {
+        "en": "Coordination compounds are important in qualitative and quantitative analysis, metallurgy, biological systems, industrial catalysis, electroplating, photography and medicine.",
+        "hi": "उपसहसंयोजन यौगिक गुणात्मक और मात्रात्मक विश्लेषण, धातुकर्म, जैविक तंत्रों, औद्योगिक उत्प्रेरण, विद्युतलेपन, फ़ोटोग्राफ़ी और चिकित्सा में महत्वपूर्ण हैं।"
+      },
+      "explanation": {
+        "en": "Colour reactions with chelating reagents (EDTA, DMG, α-nitroso-β-naphthol, cupron) detect and estimate metal ions. Water hardness is estimated by titration with Na₂EDTA, which forms stable complexes with Ca²⁺ and Mg²⁺. Gold is extracted as [Au(CN)₂]⁻ and recovered with zinc; nickel is purified via [Ni(CO)₄]. Chlorophyll (Mg), haemoglobin (Fe) and vitamin B₁₂ (Co) are coordination compounds, as are enzymes like carboxypeptidase A and carbonic anhydrase. Wilkinson's catalyst [(Ph₃P)₃RhCl] hydrogenates alkenes. Silver and gold plate more smoothly from [Ag(CN)₂]⁻ and [Au(CN)₂]⁻. Hypo fixes photographic film by dissolving AgBr as [Ag(S₂O₃)₂]³⁻. Chelate therapy removes excess Cu and Fe with D-penicillamine and desferrioxime B; EDTA treats lead poisoning; cisplatin inhibits tumour growth.",
+        "hi": "कीलेटकारी अभिकर्मकों (EDTA, DMG, α-नाइट्रोसो-β-नैफ़्थॉल, क्यूप्रॉन) के साथ रंग अभिक्रियाएँ धातु आयनों की पहचान और मात्रा ज्ञात करती हैं। जल की कठोरता Na₂EDTA से अनुमापन द्वारा ज्ञात की जाती है, जो Ca²⁺ और Mg²⁺ के साथ स्थायी संकुल बनाता है। सोना [Au(CN)₂]⁻ के रूप में निष्कर्षित कर ज़िंक से प्राप्त किया जाता है; निकल का शोधन [Ni(CO)₄] द्वारा होता है। क्लोरोफ़िल (Mg), हीमोग्लोबिन (Fe) और विटामिन B₁₂ (Co) उपसहसंयोजन यौगिक हैं, वैसे ही कार्बोक्सीपेप्टिडेज़ A और कार्बोनिक एनहाइड्रेज़ जैसे एंज़ाइम भी। विल्किन्सन उत्प्रेरक [(Ph₃P)₃RhCl] ऐल्कीनों का हाइड्रोजनीकरण करता है। [Ag(CN)₂]⁻ और [Au(CN)₂]⁻ से चाँदी और सोने का लेपन अधिक चिकना होता है। हाइपो AgBr को [Ag(S₂O₃)₂]³⁻ के रूप में घोलकर फ़ोटोग्राफ़िक फ़िल्म का स्थायीकरण करता है। कीलेट चिकित्सा में D-पेनिसिलेमीन और डेस्फ़ेरिऑक्सीम B से अतिरिक्त Cu और Fe हटाए जाते हैं; EDTA से लेड विषाक्तता का उपचार होता है; सिसप्लैटिन ट्यूमर की वृद्धि रोकता है।"
+      },
+      "keyPoints": [
+        {"en": "Hardness of water: titration with Na₂EDTA (Ca²⁺ and Mg²⁺ complexes have different stability constants).", "hi": "जल की कठोरता: Na₂EDTA से अनुमापन (Ca²⁺ और Mg²⁺ संकुलों के स्थायित्व स्थिरांक भिन्न हैं)।"},
+        {"en": "Wilkinson's catalyst [(Ph₃P)₃RhCl] — hydrogenation of alkenes.", "hi": "विल्किन्सन उत्प्रेरक [(Ph₃P)₃RhCl] — ऐल्कीनों का हाइड्रोजनीकरण।"},
+        {"en": "Photography: AgBr + 2Na₂S₂O₃ → Na₃[Ag(S₂O₃)₂] + NaBr (unexposed AgBr dissolved by hypo).", "hi": "फ़ोटोग्राफ़ी: AgBr + 2Na₂S₂O₃ → Na₃[Ag(S₂O₃)₂] + NaBr (अनावृत AgBr हाइपो में घुलता है)।"}
+      ],
+      "realLife": {
+        "en": "Blood carries oxygen through the iron complex haemoglobin, and plants make food with the magnesium complex chlorophyll.",
+        "hi": "रक्त आयरन संकुल हीमोग्लोबिन द्वारा ऑक्सीजन ले जाता है और पौधे मैग्नीशियम संकुल क्लोरोफ़िल से भोजन बनाते हैं।"
+      },
+      "examFocus": {
+        "en": "Give applications of coordination compounds in analysis, metallurgy, biology, industry and medicine with examples.",
+        "hi": "विश्लेषण, धातुकर्म, जीव विज्ञान, उद्योग और चिकित्सा में उपसहसंयोजन यौगिकों के अनुप्रयोग उदाहरण सहित दीजिए।"
+      },
+      "commonMistakes": [
+        {"en": "Mixing up metals: chlorophyll has Mg, haemoglobin has Fe, vitamin B₁₂ has Co.", "hi": "धातुओं में भ्रम: क्लोरोफ़िल में Mg, हीमोग्लोबिन में Fe, विटामिन B₁₂ में Co होता है।"}
+      ],
+      "formulas": [
+        "4Au + 8CN⁻ + 2H₂O + O₂ → 4[Au(CN)₂]⁻ + 4OH⁻",
+        "AgBr + 2Na₂S₂O₃ → Na₃[Ag(S₂O₃)₂] + NaBr"
+      ],
+      "practicalIds": [],
+      "conceptIds": ["coordination-compounds"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "5.7"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "'Many Plants, Iron Blood, Cobalt Vitamin'", "hi": "'पौधे में Mg, खून में आयरन, विटामिन में कोबाल्ट'"},
+          "recall": {"en": "Chlorophyll – Mg; haemoglobin – Fe; vitamin B₁₂ (cyanocobalamin) – Co.", "hi": "क्लोरोफ़िल – Mg; हीमोग्लोबिन – Fe; विटामिन B₁₂ (सायनोकोबालामिन) – Co।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Complexes are used in analysis (EDTA, DMG), metallurgy (Au, Ni), biology, catalysis and medicine.", "hi": "संकुल विश्लेषण (EDTA, DMG), धातुकर्म (Au, Ni), जीव विज्ञान, उत्प्रेरण और चिकित्सा में प्रयुक्त होते हैं।"},
+        "formula": "AgBr + 2Na₂S₂O₃ → Na₃[Ag(S₂O₃)₂] + NaBr",
+        "points": [
+          {"en": "EDTA titration estimates water hardness.", "hi": "EDTA अनुमापन से जल की कठोरता ज्ञात होती है।"},
+          {"en": "Cisplatin – anticancer; EDTA – lead poisoning.", "hi": "सिसप्लैटिन – कैंसररोधी; EDTA – लेड विषाक्तता।"}
+        ]
+      }
+    }
+  ]
+}

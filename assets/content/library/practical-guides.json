@@ -1,0 +1,4777 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "acid_base_titration",
+      "aim": {
+        "en": "To find the concentration of a sodium hydroxide solution by titrating it against a hydrochloric acid solution of known concentration, using phenolphthalein as the indicator.",
+        "hi": "फ़ीनॉल्फ़्थेलिन सूचक का उपयोग करके, ज्ञात सांद्रता वाले हाइड्रोक्लोरिक अम्ल विलयन के साथ अनुमापन द्वारा सोडियम हाइड्रॉक्साइड विलयन की सांद्रता ज्ञात करना।"
+      },
+      "equation": "NaOH(aq) + HCl(aq) → NaCl(aq) + H₂O(l)",
+      "apparatus": [
+        {
+          "name": {
+            "en": "Burette (50 mL) with a stand and clamp",
+            "hi": "स्टैंड और क्लैंप सहित ब्यूरेट (50 mL)"
+          }
+        },
+        {
+          "name": {
+            "en": "Pipette (10 mL) with a pipette filler (rubber bulb)",
+            "hi": "पिपेट फ़िलर (रबर बल्ब) सहित पिपेट (10 mL)"
+          }
+        },
+        {
+          "name": {
+            "en": "Conical flask (100 mL)",
+            "hi": "शंक्वाकार फ़्लास्क (100 mL)"
+          }
+        },
+        {
+          "name": {
+            "en": "Small funnel for filling the burette",
+            "hi": "ब्यूरेट भरने के लिए छोटी कीप"
+          }
+        },
+        {
+          "name": {
+            "en": "Two beakers (100 mL) for the acid and the base",
+            "hi": "अम्ल और क्षारक के लिए दो बीकर (100 mL)"
+          }
+        },
+        {
+          "name": {
+            "en": "White tile, to see the colour change clearly",
+            "hi": "रंग परिवर्तन स्पष्ट देखने के लिए सफ़ेद टाइल"
+          }
+        },
+        {
+          "name": {
+            "en": "Wash bottle with distilled water",
+            "hi": "आसुत जल वाली वॉश बोतल"
+          }
+        }
+      ],
+      "chemicals": [
+        {
+          "name": {
+            "en": "Dilute hydrochloric acid of known concentration",
+            "hi": "ज्ञात सांद्रता वाला तनु हाइड्रोक्लोरिक अम्ल"
+          },
+          "formula": "HCl",
+          "quantity": {
+            "en": "About 50 mL of 0.1 M solution",
+            "hi": "0.1 M विलयन का लगभग 50 mL"
+          },
+          "hazard": {
+            "en": "Irritates the eyes and skin even when dilute.",
+            "hi": "तनु होने पर भी आँखों और त्वचा में जलन करता है।"
+          }
+        },
+        {
+          "name": {
+            "en": "Dilute sodium hydroxide of unknown concentration",
+            "hi": "अज्ञात सांद्रता वाला तनु सोडियम हाइड्रॉक्साइड"
+          },
+          "formula": "NaOH",
+          "quantity": {
+            "en": "About 30 mL (roughly 0.1 M)",
+            "hi": "लगभग 30 mL (लगभग 0.1 M)"
+          },
+          "hazard": {
+            "en": "Alkalis are especially harmful to the eyes, even when dilute.",
+            "hi": "क्षार तनु होने पर भी आँखों के लिए विशेष रूप से हानिकारक हैं।"
+          }
+        },
+        {
+          "name": {
+            "en": "Phenolphthalein indicator",
+            "hi": "फ़ीनॉल्फ़्थेलिन सूचक"
+          },
+          "quantity": {
+            "en": "1–2 drops for each titration",
+            "hi": "प्रत्येक अनुमापन के लिए 1–2 बूँदें"
+          },
+          "hazard": {
+            "en": "Usually dissolved in alcohol, which catches fire easily — keep it away from flames.",
+            "hi": "प्रायः ऐल्कोहॉल में घोला जाता है, जो आसानी से आग पकड़ता है — इसे लपटों से दूर रखें।"
+          }
+        },
+        {
+          "name": {
+            "en": "Distilled water",
+            "hi": "आसुत जल"
+          },
+          "formula": "H₂O",
+          "quantity": {
+            "en": "For rinsing the glassware",
+            "hi": "काँच के उपकरण धोने के लिए"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "instruction": {
+            "en": "Rinse the burette with a little of the HCl, then fill it with HCl using the funnel. Remove the funnel, let a little acid run out so that the tip has no air bubble, and note the initial reading at the bottom of the meniscus, with your eye level with it.",
+            "hi": "ब्यूरेट को थोड़े HCl से धोएँ, फिर कीप की सहायता से उसमें HCl भरें। कीप हटा दें, थोड़ा अम्ल बाहर निकलने दें ताकि नोक में हवा का बुलबुला न रहे, और आँख को मेनिस्कस के निचले भाग के स्तर पर रखकर प्रारंभिक पाठ्यांक नोट करें।"
+          },
+          "explanation": {
+            "en": "Rinsing with the acid itself, not water, keeps its concentration unchanged. The funnel is removed because drops falling from it would change the reading.",
+            "hi": "जल के बजाय उसी अम्ल से धोने पर उसकी सांद्रता नहीं बदलती। कीप इसलिए हटाई जाती है क्योंकि उससे गिरने वाली बूँदें पाठ्यांक बदल देंगी।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Rinse the pipette with a little of the NaOH solution. Using the pipette filler, transfer exactly 10.0 mL of NaOH into a conical flask that has been rinsed only with distilled water.",
+            "hi": "पिपेट को थोड़े NaOH विलयन से धोएँ। पिपेट फ़िलर की सहायता से ठीक 10.0 mL NaOH ऐसे शंक्वाकार फ़्लास्क में डालें जिसे केवल आसुत जल से धोया गया हो।"
+          },
+          "explanation": {
+            "en": "A little extra water in the flask does not change the amount of NaOH in it, so it does not change the volume of acid needed.",
+            "hi": "फ़्लास्क में थोड़ा अतिरिक्त जल NaOH की मात्रा नहीं बदलता, इसलिए आवश्यक अम्ल का आयतन भी नहीं बदलता।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Add 1–2 drops of phenolphthalein to the flask.",
+            "hi": "फ़्लास्क में फ़ीनॉल्फ़्थेलिन की 1–2 बूँदें डालें।"
+          },
+          "observation": {
+            "en": "The solution turns pink.",
+            "hi": "विलयन गुलाबी हो जाता है।"
+          },
+          "explanation": {
+            "en": "Phenolphthalein is pink in a basic solution and colourless in an acidic or neutral solution.",
+            "hi": "फ़ीनॉल्फ़्थेलिन क्षारकीय विलयन में गुलाबी और अम्लीय या उदासीन विलयन में रंगहीन होता है।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Place the flask on the white tile under the burette. Add the acid slowly while swirling the flask.",
+            "hi": "फ़्लास्क को ब्यूरेट के नीचे सफ़ेद टाइल पर रखें। फ़्लास्क को घुमाते हुए धीरे-धीरे अम्ल डालें।"
+          },
+          "observation": {
+            "en": "Where each drop falls, the pink colour disappears for a moment and comes back when you swirl.",
+            "hi": "जहाँ बूँद गिरती है वहाँ गुलाबी रंग क्षण भर के लिए गायब होता है और घुमाने पर लौट आता है।"
+          },
+          "explanation": {
+            "en": "The acid neutralises the base where it lands, but there is still extra base in the flask, so the colour returns.",
+            "hi": "अम्ल जहाँ गिरता है वहाँ क्षारक को उदासीन करता है, पर फ़्लास्क में अभी भी अतिरिक्त क्षारक है, इसलिए रंग लौट आता है।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Near the end, add the acid one drop at a time. Stop when a single drop makes the pink colour disappear and the solution stays colourless on swirling. Note the final reading.",
+            "hi": "अंत के निकट अम्ल एक-एक बूँद करके डालें। जब एक बूँद से गुलाबी रंग गायब हो जाए और घुमाने पर भी विलयन रंगहीन रहे, तब रुक जाएँ। अंतिम पाठ्यांक नोट करें।"
+          },
+          "observation": {
+            "en": "Pink changes to colourless with one drop: this is the end point.",
+            "hi": "एक बूँद से गुलाबी रंग रंगहीन हो जाता है: यही अंत्य बिंदु है।"
+          },
+          "explanation": {
+            "en": "All the NaOH has now reacted. The volume of acid used is the final reading minus the initial reading.",
+            "hi": "अब सारा NaOH अभिक्रिया कर चुका है। प्रयुक्त अम्ल का आयतन = अंतिम पाठ्यांक − प्रारंभिक पाठ्यांक।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Repeat the titration until you get readings that agree (concordant readings). Then calculate: concentration of NaOH = (concentration of HCl × volume of HCl) ÷ volume of NaOH.",
+            "hi": "अनुमापन तब तक दोहराएँ जब तक मेल खाने वाले पाठ्यांक (संगत पाठ्यांक) न मिल जाएँ। फिर परिकलन करें: NaOH की सांद्रता = (HCl की सांद्रता × HCl का आयतन) ÷ NaOH का आयतन।"
+          },
+          "explanation": {
+            "en": "HCl and NaOH react in a 1 : 1 ratio, so the moles of acid used equal the moles of base taken. For example, if 10.0 mL of NaOH needs 10.0 mL of 0.1 M HCl, the NaOH is also 0.1 M.",
+            "hi": "HCl और NaOH 1 : 1 अनुपात में अभिक्रिया करते हैं, इसलिए प्रयुक्त अम्ल के मोल लिए गए क्षारक के मोल के बराबर होते हैं। उदाहरण: यदि 10.0 mL NaOH के लिए 0.1 M HCl का 10.0 mL लगे, तो NaOH भी 0.1 M है।"
+          }
+        }
+      ],
+      "result": {
+        "en": "At the end point all the base has been neutralised: NaOH + HCl → NaCl + H₂O. Because the acid and base react in a 1 : 1 ratio, the volume of acid used gives the concentration of the NaOH solution.",
+        "hi": "अंत्य बिंदु पर सारा क्षारक उदासीन हो जाता है: NaOH + HCl → NaCl + H₂O। क्योंकि अम्ल और क्षारक 1 : 1 अनुपात में अभिक्रिया करते हैं, इसलिए प्रयुक्त अम्ल के आयतन से NaOH विलयन की सांद्रता ज्ञात होती है।"
+      },
+      "safety": [
+        {
+          "en": "Wear safety goggles and a lab coat: acids and alkalis can harm the eyes even when dilute.",
+          "hi": "सुरक्षा चश्मा और लैब कोट पहनें: अम्ल और क्षार तनु होने पर भी आँखों को हानि पहुँचा सकते हैं।"
+        },
+        {
+          "en": "Never suck a pipette by mouth. Always use a pipette filler.",
+          "hi": "पिपेट को कभी मुँह से न खींचें। सदैव पिपेट फ़िलर का उपयोग करें।"
+        },
+        {
+          "en": "Fill the burette carefully with a funnel, keeping its top below eye level so that no acid can splash into your eyes.",
+          "hi": "ब्यूरेट को कीप से सावधानीपूर्वक भरें और उसका ऊपरी सिरा आँखों के स्तर से नीचे रखें ताकि अम्ल छलककर आँखों में न जाए।"
+        },
+        {
+          "en": "If acid or alkali touches your skin or eyes, wash at once with plenty of running water and tell your teacher.",
+          "hi": "यदि अम्ल या क्षार त्वचा या आँखों पर लग जाए, तो तुरंत बहुत सारे बहते जल से धोएँ और अपने शिक्षक को बताएँ।"
+        },
+        {
+          "en": "Do the real experiment only under your teacher's supervision.",
+          "hi": "वास्तविक प्रयोग केवल अपने शिक्षक की देखरेख में करें।"
+        }
+      ],
+      "simulationLimits": [
+        {
+          "en": "The burette is run with buttons in 1.0 mL and 0.1 mL portions; a real burette can add single drops of about 0.05 mL. The conical flask is drawn as a beaker.",
+          "hi": "ब्यूरेट को बटनों से 1.0 mL और 0.1 mL के भागों में चलाया जाता है; असली ब्यूरेट से लगभग 0.05 mL की एक-एक बूँद डाली जा सकती है। शंक्वाकार फ़्लास्क को बीकर के रूप में दिखाया गया है।"
+        },
+        {
+          "en": "The NaOH concentration is fixed in the simulation, so the end point is always at the same reading. In a real lab readings vary slightly, which is why you repeat for concordant readings.",
+          "hi": "सिमुलेशन में NaOH की सांद्रता निश्चित है, इसलिए अंत्य बिंदु सदैव एक ही पाठ्यांक पर आता है। वास्तविक लैब में पाठ्यांक थोड़े बदलते हैं, इसलिए संगत पाठ्यांकों के लिए अनुमापन दोहराया जाता है।"
+        },
+        {
+          "en": "If you run past the end point, the lab treats it as a rough titration and asks you to repeat — as you would in a real lab.",
+          "hi": "यदि आप अंत्य बिंदु से आगे निकल जाएँ, तो लैब इसे रफ़ अनुमापन मानकर दोहराने को कहती है — जैसा वास्तविक लैब में किया जाता है।"
+        },
+        {
+          "en": "Rinsing, filling the burette, removing air bubbles and reading the meniscus are hand skills you can only practise in a real lab. Use the virtual lab to prepare, not as a replacement for the real practical.",
+          "hi": "धोना, ब्यूरेट भरना, हवा के बुलबुले निकालना और मेनिस्कस पढ़ना हाथ के कौशल हैं जिनका अभ्यास केवल वास्तविक लैब में हो सकता है। वर्चुअल लैब का उपयोग तैयारी के लिए करें, वास्तविक प्रायोगिक कार्य के स्थान पर नहीं।"
+        }
+      ],
+      "viva": [
+        {
+          "question": {
+            "en": "What is the end point of a titration?",
+            "hi": "अनुमापन का अंत्य बिंदु क्या है?"
+          },
+          "answer": {
+            "en": "The point at which the indicator changes colour, showing that the acid and the base have just reacted completely.",
+            "hi": "वह बिंदु जिस पर सूचक का रंग बदलता है, जो दर्शाता है कि अम्ल और क्षारक ने ठीक पूरी तरह अभिक्रिया कर ली है।"
+          }
+        },
+        {
+          "question": {
+            "en": "What colour change marks the end point when HCl from the burette is added to NaOH with phenolphthalein?",
+            "hi": "जब ब्यूरेट से HCl को फ़ीनॉल्फ़्थेलिन युक्त NaOH में डाला जाता है, तो अंत्य बिंदु पर कौन-सा रंग परिवर्तन होता है?"
+          },
+          "answer": {
+            "en": "Pink to colourless. Phenolphthalein is pink in the basic solution and becomes colourless once the base is neutralised.",
+            "hi": "गुलाबी से रंगहीन। फ़ीनॉल्फ़्थेलिन क्षारीय विलयन में गुलाबी होता है और क्षारक के उदासीन होते ही रंगहीन हो जाता है।"
+          }
+        },
+        {
+          "question": {
+            "en": "Why is the burette rinsed with the acid it will hold, and not only with water?",
+            "hi": "ब्यूरेट को केवल जल से नहीं, बल्कि उसी अम्ल से क्यों खंगाला जाता है जो उसमें भरा जाएगा?"
+          },
+          "answer": {
+            "en": "Water left inside would dilute the acid and change its known concentration.",
+            "hi": "अंदर बचा जल अम्ल को तनु कर देगा और उसकी ज्ञात सांद्रता बदल देगा।"
+          }
+        },
+        {
+          "question": {
+            "en": "Why is the last drop in the pipette tip not blown out?",
+            "hi": "पिपेट की नोक में बची अंतिम बूँद को फूँक कर क्यों नहीं निकाला जाता?"
+          },
+          "answer": {
+            "en": "A pipette is calibrated to deliver its stated volume with that small drop left in the tip.",
+            "hi": "पिपेट इस प्रकार अंशांकित होती है कि नोक में वह छोटी बूँद बची रहने पर ही वह बताया गया आयतन देती है।"
+          }
+        },
+        {
+          "question": {
+            "en": "Why is a white tile placed under the conical flask?",
+            "hi": "शंक्वाकार फ़्लास्क के नीचे सफ़ेद टाइल क्यों रखी जाती है?"
+          },
+          "answer": {
+            "en": "So that the colour change at the end point can be seen clearly.",
+            "hi": "ताकि अंत्य बिंदु पर रंग परिवर्तन स्पष्ट दिखाई दे।"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "2.1.4, Activity 2.6"
+        },
+        {
+          "sourceId": "cbse-chem-11-12",
+          "section": "Class XI practicals C and E; Class XII practical C"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "oxygen_preparation",
+      "aim": {
+        "en": "To prepare oxygen by decomposing hydrogen peroxide with manganese dioxide as a catalyst, and to test the gas.",
+        "hi": "मैंगनीज़ डाइऑक्साइड को उत्प्रेरक के रूप में उपयोग करके हाइड्रोजन परॉक्साइड के अपघटन से ऑक्सीजन बनाना और गैस का परीक्षण करना।"
+      },
+      "equation": "2H₂O₂(aq) → 2H₂O(l) + O₂(g)",
+      "apparatus": [
+        {
+          "name": {
+            "en": "Conical flask (250 mL) with a two-holed cork",
+            "hi": "दो छेद वाले कॉर्क सहित शंक्वाकार फ़्लास्क (250 mL)"
+          }
+        },
+        {
+          "name": {
+            "en": "Thistle funnel",
+            "hi": "थिसल कीप"
+          }
+        },
+        {
+          "name": {
+            "en": "Delivery tube",
+            "hi": "निकास नली"
+          }
+        },
+        {
+          "name": {
+            "en": "Trough of water with a beehive shelf",
+            "hi": "बीहाइव शेल्फ़ सहित जल से भरी द्रोणी"
+          }
+        },
+        {
+          "name": {
+            "en": "Gas jars (or test tubes) with glass lids",
+            "hi": "काँच के ढक्कन सहित गैस जार (या परखनलियाँ)"
+          }
+        },
+        {
+          "name": {
+            "en": "Spatula",
+            "hi": "स्पैचुला"
+          }
+        },
+        {
+          "name": {
+            "en": "Wooden splinter, for the glowing-splinter test",
+            "hi": "सुलगती तीली परीक्षण के लिए लकड़ी की तीली"
+          }
+        }
+      ],
+      "chemicals": [
+        {
+          "name": {
+            "en": "Dilute hydrogen peroxide solution (about 6%, '20 volume')",
+            "hi": "तनु हाइड्रोजन परॉक्साइड विलयन (लगभग 6%, '20 आयतन')"
+          },
+          "formula": "H₂O₂",
+          "quantity": {
+            "en": "About 20–30 mL",
+            "hi": "लगभग 20–30 mL"
+          },
+          "hazard": {
+            "en": "An oxidiser that irritates the eyes and skin. Stronger solutions are corrosive — use only the dilute solution.",
+            "hi": "ऑक्सीकारक जो आँखों और त्वचा में जलन करता है। अधिक सांद्र विलयन संक्षारक होते हैं — केवल तनु विलयन का उपयोग करें।"
+          }
+        },
+        {
+          "name": {
+            "en": "Manganese dioxide powder",
+            "hi": "मैंगनीज़ डाइऑक्साइड चूर्ण"
+          },
+          "formula": "MnO₂",
+          "quantity": {
+            "en": "A small spatula-tip (about 0.5 g)",
+            "hi": "स्पैचुला की नोक भर (लगभग 0.5 g)"
+          },
+          "hazard": {
+            "en": "Harmful if swallowed or if the dust is breathed in — handle it with a spatula.",
+            "hi": "निगलने पर या धूल साँस में जाने पर हानिकारक — इसे स्पैचुला से ही उठाएँ।"
+          }
+        },
+        {
+          "name": {
+            "en": "Water",
+            "hi": "जल"
+          },
+          "formula": "H₂O",
+          "quantity": {
+            "en": "Enough to cover the lower end of the thistle funnel",
+            "hi": "इतना कि थिसल कीप का निचला सिरा डूब जाए"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "instruction": {
+            "en": "Put the manganese dioxide in the flask and add a little water, so that the lower end of the thistle funnel will dip under the liquid.",
+            "hi": "फ़्लास्क में मैंगनीज़ डाइऑक्साइड डालें और थोड़ा जल डालें, ताकि थिसल कीप का निचला सिरा द्रव में डूबा रहे।"
+          },
+          "observation": {
+            "en": "The black powder does not dissolve.",
+            "hi": "काला चूर्ण नहीं घुलता।"
+          },
+          "explanation": {
+            "en": "If the end of the funnel were above the liquid, the oxygen would escape through the funnel instead of the delivery tube.",
+            "hi": "यदि कीप का सिरा द्रव से ऊपर होता, तो ऑक्सीजन निकास नली के बजाय कीप से बाहर निकल जाती।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Fit the cork carrying the thistle funnel and the delivery tube. Place the free end of the delivery tube under a gas jar filled with water, standing on the beehive shelf in the trough.",
+            "hi": "थिसल कीप और निकास नली लगा कॉर्क फ़्लास्क पर लगाएँ। निकास नली का खुला सिरा द्रोणी में बीहाइव शेल्फ़ पर रखे, जल से भरे गैस जार के नीचे रखें।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Pour the hydrogen peroxide slowly through the thistle funnel, a little at a time.",
+            "hi": "हाइड्रोजन परॉक्साइड को थिसल कीप से धीरे-धीरे, थोड़ा-थोड़ा करके डालें।"
+          },
+          "observation": {
+            "en": "Brisk effervescence: a colourless gas is given off.",
+            "hi": "तेज़ बुदबुदाहट: एक रंगहीन गैस निकलती है।"
+          },
+          "explanation": {
+            "en": "Manganese dioxide speeds up the decomposition of hydrogen peroxide into water and oxygen. Without it, the decomposition is very slow.",
+            "hi": "मैंगनीज़ डाइऑक्साइड हाइड्रोजन परॉक्साइड के जल और ऑक्सीजन में अपघटन को तेज़ करता है। इसके बिना अपघटन बहुत धीमा होता है।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Let the first few bubbles escape, then collect the gas in the gas jars by downward displacement of water. Cover each full jar with its lid.",
+            "hi": "पहले कुछ बुलबुले निकल जाने दें, फिर जल के अधोमुखी विस्थापन द्वारा गैस को गैस जारों में एकत्र करें। प्रत्येक भरे जार को उसके ढक्कन से ढक दें।"
+          },
+          "observation": {
+            "en": "The gas pushes the water out of the jar.",
+            "hi": "गैस जार से जल को बाहर धकेलती है।"
+          },
+          "explanation": {
+            "en": "The first bubbles are mostly air from the flask. Oxygen dissolves only slightly in water, so it can be collected over water.",
+            "hi": "पहले बुलबुले मुख्यतः फ़्लास्क की हवा होते हैं। ऑक्सीजन जल में बहुत कम घुलती है, इसलिए उसे जल के ऊपर एकत्र किया जा सकता है।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Put a glowing (not burning) wooden splinter into a jar of the gas.",
+            "hi": "गैस से भरे जार में सुलगती (जलती नहीं) लकड़ी की तीली डालें।"
+          },
+          "observation": {
+            "en": "The glowing splinter bursts into flame.",
+            "hi": "सुलगती तीली जल उठती है।"
+          },
+          "explanation": {
+            "en": "Oxygen supports burning. Relighting a glowing splinter is the test for oxygen.",
+            "hi": "ऑक्सीजन जलने में सहायक है। सुलगती तीली का फिर से जल उठना ऑक्सीजन का परीक्षण है।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "When the bubbling stops, look at the flask.",
+            "hi": "बुदबुदाहट रुकने पर फ़्लास्क को देखें।"
+          },
+          "observation": {
+            "en": "The black manganese dioxide is still there.",
+            "hi": "काला मैंगनीज़ डाइऑक्साइड अभी भी वहीं है।"
+          },
+          "explanation": {
+            "en": "A catalyst speeds up a reaction but is not used up: it is chemically unchanged at the end and could be filtered off and used again.",
+            "hi": "उत्प्रेरक अभिक्रिया को तेज़ करता है पर स्वयं खर्च नहीं होता: अंत में वह रासायनिक रूप से अपरिवर्तित रहता है और उसे छानकर फिर से उपयोग किया जा सकता है।"
+          }
+        }
+      ],
+      "result": {
+        "en": "Hydrogen peroxide decomposes into water and oxygen; manganese dioxide speeds this up without being used up, so it is a catalyst. Oxygen is a colourless gas that relights a glowing splinter. In Class 11 you will also meet this reaction as a disproportionation: oxygen goes from −1 in H₂O₂ to −2 in water and 0 in O₂.",
+        "hi": "हाइड्रोजन परॉक्साइड जल और ऑक्सीजन में अपघटित होता है; मैंगनीज़ डाइऑक्साइड बिना खर्च हुए इसे तेज़ करता है, इसलिए यह उत्प्रेरक है। ऑक्सीजन एक रंगहीन गैस है जो सुलगती तीली को जला देती है। कक्षा 11 में आप इस अभिक्रिया को असमानुपातन के रूप में भी पढ़ेंगे: ऑक्सीजन H₂O₂ में −1 से जल में −2 और O₂ में 0 हो जाती है।"
+      },
+      "safety": [
+        {
+          "en": "Wear safety goggles: hydrogen peroxide irritates the eyes and skin.",
+          "hi": "सुरक्षा चश्मा पहनें: हाइड्रोजन परॉक्साइड आँखों और त्वचा में जलन करता है।"
+        },
+        {
+          "en": "Use only dilute hydrogen peroxide and add it slowly in small portions — the reaction can froth up quickly.",
+          "hi": "केवल तनु हाइड्रोजन परॉक्साइड का उपयोग करें और उसे थोड़ा-थोड़ा करके धीरे-धीरे डालें — अभिक्रिया में तेज़ी से झाग उठ सकता है।"
+        },
+        {
+          "en": "Never seal the apparatus completely: the gas must have a way out, or the pressure will build up.",
+          "hi": "उपकरण को कभी पूरी तरह बंद न करें: गैस के निकलने का रास्ता होना चाहिए, नहीं तो दाब बढ़ जाएगा।"
+        },
+        {
+          "en": "Keep flammable things away — materials burn much more fiercely in oxygen. Handle the glowing splinter with care.",
+          "hi": "ज्वलनशील वस्तुएँ दूर रखें — ऑक्सीजन में पदार्थ कहीं अधिक तेज़ी से जलते हैं। सुलगती तीली को सावधानी से पकड़ें।"
+        },
+        {
+          "en": "Do the real experiment only under your teacher's supervision.",
+          "hi": "वास्तविक प्रयोग केवल अपने शिक्षक की देखरेख में करें।"
+        }
+      ],
+      "simulationLimits": [
+        {
+          "en": "The virtual lab draws an open beaker. A real preparation uses a closed flask with a thistle funnel and a delivery tube, and the gas is collected over water — collecting the gas is not simulated.",
+          "hi": "वर्चुअल लैब खुला बीकर दिखाती है। वास्तविक निर्माण में थिसल कीप और निकास नली वाले बंद फ़्लास्क का उपयोग होता है और गैस को जल के ऊपर एकत्र किया जाता है — गैस का एकत्रण वर्चुअल लैब में नहीं है।"
+        },
+        {
+          "en": "The glowing-splinter test is shown as a written observation, without a flame.",
+          "hi": "सुलगती तीली का परीक्षण बिना लौ के, लिखित प्रेक्षण के रूप में दिखाया गया है।"
+        },
+        {
+          "en": "The amounts in the virtual lab are approximate. Use it to prepare, not as a replacement for a real experiment.",
+          "hi": "वर्चुअल लैब की मात्राएँ अनुमानित हैं। इसका उपयोग तैयारी के लिए करें, वास्तविक प्रयोग के स्थान पर नहीं।"
+        }
+      ],
+      "viva": [
+        {
+          "question": {
+            "en": "What is the role of manganese dioxide in this experiment?",
+            "hi": "इस प्रयोग में मैंगनीज़ डाइऑक्साइड की क्या भूमिका है?"
+          },
+          "answer": {
+            "en": "It is a catalyst: it speeds up the decomposition of hydrogen peroxide and remains unchanged at the end.",
+            "hi": "यह उत्प्रेरक है: यह हाइड्रोजन परॉक्साइड के अपघटन को तेज़ करता है और अंत में अपरिवर्तित रहता है।"
+          }
+        },
+        {
+          "question": {
+            "en": "How is oxygen tested?",
+            "hi": "ऑक्सीजन का परीक्षण कैसे किया जाता है?"
+          },
+          "answer": {
+            "en": "A glowing splinter bursts into flame in it, because oxygen supports combustion.",
+            "hi": "इसमें सुलगती तीली जल उठती है, क्योंकि ऑक्सीजन दहन में सहायक है।"
+          }
+        },
+        {
+          "question": {
+            "en": "What type of reaction is 2H₂O₂ → 2H₂O + O₂?",
+            "hi": "2H₂O₂ → 2H₂O + O₂ किस प्रकार की अभिक्रिया है?"
+          },
+          "answer": {
+            "en": "A decomposition reaction: one substance breaks down into two simpler substances.",
+            "hi": "अपघटन अभिक्रिया: एक पदार्थ टूटकर दो सरल पदार्थ बनाता है।"
+          }
+        },
+        {
+          "question": {
+            "en": "Why is hydrogen peroxide stored in dark bottles?",
+            "hi": "हाइड्रोजन परॉक्साइड को गहरे रंग की बोतलों में क्यों रखा जाता है?"
+          },
+          "answer": {
+            "en": "Light speeds up its decomposition into water and oxygen.",
+            "hi": "प्रकाश इसके जल और ऑक्सीजन में अपघटन को तेज़ कर देता है।"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "1.2.2 (decomposition reactions)"
+        },
+        {
+          "sourceId": "ncert-11-en",
+          "section": "7.3.1 (decomposition of H₂O₂ as a disproportionation reaction)"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "oxalic_acid_titration",
+      "aim": {
+        "en": "To find the concentration of a sodium hydroxide solution by titrating it against a standard solution of oxalic acid, using phenolphthalein as the indicator.",
+        "hi": "फ़ीनॉल्फ़्थेलिन सूचक का उपयोग करके, ऑक्सैलिक अम्ल के मानक विलयन के विरुद्ध अनुमापन द्वारा सोडियम हाइड्रॉक्साइड विलयन की सांद्रता ज्ञात करना।"
+      },
+      "equation": "H₂C₂O₄(aq) + 2NaOH(aq) → Na₂C₂O₄(aq) + 2H₂O(l)",
+      "apparatus": [
+        {
+          "name": {
+            "en": "Burette (50 mL) with a stand and clamp",
+            "hi": "स्टैंड और क्लैंप सहित ब्यूरेट (50 mL)"
+          }
+        },
+        {
+          "name": {
+            "en": "Pipette (10 mL) with a pipette filler (rubber bulb)",
+            "hi": "पिपेट फ़िलर (रबर बल्ब) सहित पिपेट (10 mL)"
+          }
+        },
+        {
+          "name": {
+            "en": "Conical flask (100 mL)",
+            "hi": "शंक्वाकार फ़्लास्क (100 mL)"
+          }
+        },
+        {
+          "name": {
+            "en": "Small funnel for filling the burette",
+            "hi": "ब्यूरेट भरने के लिए छोटी कीप"
+          }
+        },
+        {
+          "name": {
+            "en": "White tile",
+            "hi": "सफ़ेद टाइल"
+          }
+        },
+        {
+          "name": {
+            "en": "Wash bottle with distilled water",
+            "hi": "आसुत जल वाली वॉश बोतल"
+          }
+        }
+      ],
+      "chemicals": [
+        {
+          "name": {
+            "en": "Standard oxalic acid solution",
+            "hi": "मानक ऑक्सैलिक अम्ल विलयन"
+          },
+          "formula": "H₂C₂O₄",
+          "quantity": {
+            "en": "About 50 mL of 0.05 M solution",
+            "hi": "0.05 M विलयन का लगभग 50 mL"
+          },
+          "hazard": {
+            "en": "Harmful if swallowed and irritates the skin — never taste it and wash your hands after use.",
+            "hi": "निगलने पर हानिकारक और त्वचा में जलन करता है — कभी न चखें और उपयोग के बाद हाथ धोएँ।"
+          }
+        },
+        {
+          "name": {
+            "en": "Sodium hydroxide solution of unknown concentration",
+            "hi": "अज्ञात सांद्रता वाला सोडियम हाइड्रॉक्साइड विलयन"
+          },
+          "formula": "NaOH",
+          "quantity": {
+            "en": "About 50 mL (roughly 0.1 M)",
+            "hi": "लगभग 50 mL (लगभग 0.1 M)"
+          },
+          "hazard": {
+            "en": "Alkalis are especially harmful to the eyes, even when dilute.",
+            "hi": "क्षार तनु होने पर भी आँखों के लिए विशेष रूप से हानिकारक हैं।"
+          }
+        },
+        {
+          "name": {
+            "en": "Phenolphthalein indicator",
+            "hi": "फ़ीनॉल्फ़्थेलिन सूचक"
+          },
+          "quantity": {
+            "en": "1–2 drops for each titration",
+            "hi": "प्रत्येक अनुमापन के लिए 1–2 बूँदें"
+          },
+          "hazard": {
+            "en": "Usually dissolved in alcohol, which catches fire easily — keep it away from flames.",
+            "hi": "प्रायः ऐल्कोहॉल में घोला जाता है, जो आसानी से आग पकड़ता है — इसे लपटों से दूर रखें।"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "instruction": {
+            "en": "Rinse the burette with a little of the NaOH solution, fill it using the funnel, remove the funnel, clear any air bubble from the tip and note the initial reading.",
+            "hi": "ब्यूरेट को थोड़े NaOH विलयन से धोएँ, कीप से भरें, कीप हटा दें, नोक से हवा का बुलबुला निकालें और प्रारंभिक पाठ्यांक नोट करें।"
+          },
+          "explanation": {
+            "en": "Rinsing with the solution itself keeps its concentration unchanged.",
+            "hi": "उसी विलयन से धोने पर उसकी सांद्रता नहीं बदलती।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Rinse the pipette with the oxalic acid solution, then use the pipette filler to transfer exactly 10.0 mL of it into a conical flask rinsed only with distilled water.",
+            "hi": "पिपेट को ऑक्सैलिक अम्ल विलयन से धोएँ, फिर पिपेट फ़िलर से उसका ठीक 10.0 mL ऐसे शंक्वाकार फ़्लास्क में डालें जिसे केवल आसुत जल से धोया गया हो।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Add 1–2 drops of phenolphthalein.",
+            "hi": "फ़ीनॉल्फ़्थेलिन की 1–2 बूँदें डालें।"
+          },
+          "observation": {
+            "en": "The solution stays colourless.",
+            "hi": "विलयन रंगहीन रहता है।"
+          },
+          "explanation": {
+            "en": "Phenolphthalein is colourless in an acidic solution.",
+            "hi": "फ़ीनॉल्फ़्थेलिन अम्लीय विलयन में रंगहीन होता है।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Place the flask on the white tile and run in the NaOH while swirling. Near the end, add it drop by drop.",
+            "hi": "फ़्लास्क को सफ़ेद टाइल पर रखें और घुमाते हुए NaOH डालें। अंत के निकट बूँद-बूँद करके डालें।"
+          },
+          "observation": {
+            "en": "A pink colour appears where the drop falls and disappears on swirling; near the end point it takes longer to disappear.",
+            "hi": "जहाँ बूँद गिरती है वहाँ गुलाबी रंग आता है और घुमाने पर गायब हो जाता है; अंत्य बिंदु के निकट इसे गायब होने में अधिक समय लगता है।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Stop when one drop gives a light pink colour that stays on swirling. Note the final reading.",
+            "hi": "जब एक बूँद से हल्का गुलाबी रंग आए और घुमाने पर भी बना रहे, तब रुक जाएँ। अंतिम पाठ्यांक नोट करें।"
+          },
+          "observation": {
+            "en": "Colourless changes to a permanent light pink: this is the end point.",
+            "hi": "रंगहीन विलयन स्थायी हल्का गुलाबी हो जाता है: यही अंत्य बिंदु है।"
+          },
+          "explanation": {
+            "en": "All the oxalic acid has reacted, so the next drop of base makes the solution slightly basic and the indicator turns pink.",
+            "hi": "सारा ऑक्सैलिक अम्ल अभिक्रिया कर चुका है, इसलिए क्षारक की अगली बूँद विलयन को हल्का क्षारकीय बना देती है और सूचक गुलाबी हो जाता है।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Repeat until you get readings that agree (concordant readings). Then calculate: c(NaOH) = 2 × c(oxalic acid) × V(oxalic acid) ÷ V(NaOH).",
+            "hi": "मेल खाने वाले पाठ्यांक (संगत पाठ्यांक) मिलने तक दोहराएँ। फिर परिकलन करें: c(NaOH) = 2 × c(ऑक्सैलिक अम्ल) × V(ऑक्सैलिक अम्ल) ÷ V(NaOH)।"
+          },
+          "explanation": {
+            "en": "One mole of oxalic acid reacts with two moles of NaOH. For example, if 10.0 mL of 0.05 M oxalic acid needs 10.0 mL of NaOH, the NaOH is 2 × 0.05 × 10.0 ÷ 10.0 = 0.1 M.",
+            "hi": "ऑक्सैलिक अम्ल का एक मोल NaOH के दो मोल से अभिक्रिया करता है। उदाहरण: यदि 0.05 M ऑक्सैलिक अम्ल के 10.0 mL के लिए 10.0 mL NaOH लगे, तो NaOH = 2 × 0.05 × 10.0 ÷ 10.0 = 0.1 M।"
+          }
+        }
+      ],
+      "result": {
+        "en": "At the end point all the oxalic acid has been neutralised: H₂C₂O₄ + 2NaOH → Na₂C₂O₄ + 2H₂O. Because of the 1 : 2 mole ratio, the volume of NaOH used gives its concentration.",
+        "hi": "अंत्य बिंदु पर सारा ऑक्सैलिक अम्ल उदासीन हो जाता है: H₂C₂O₄ + 2NaOH → Na₂C₂O₄ + 2H₂O। 1 : 2 मोल अनुपात के कारण प्रयुक्त NaOH के आयतन से उसकी सांद्रता ज्ञात होती है।"
+      },
+      "safety": [
+        {
+          "en": "Wear safety goggles and a lab coat.",
+          "hi": "सुरक्षा चश्मा और लैब कोट पहनें।"
+        },
+        {
+          "en": "Never suck a pipette by mouth — oxalic acid is poisonous. Always use a pipette filler.",
+          "hi": "पिपेट को कभी मुँह से न खींचें — ऑक्सैलिक अम्ल विषैला है। सदैव पिपेट फ़िलर का उपयोग करें।"
+        },
+        {
+          "en": "Fill the burette with its top below eye level so that no alkali can splash into your eyes.",
+          "hi": "ब्यूरेट भरते समय उसका ऊपरी सिरा आँखों के स्तर से नीचे रखें ताकि क्षार छलककर आँखों में न जाए।"
+        },
+        {
+          "en": "Wash any splash on skin or eyes at once with plenty of running water and tell your teacher.",
+          "hi": "त्वचा या आँखों पर छींटा पड़ने पर तुरंत बहुत सारे बहते जल से धोएँ और अपने शिक्षक को बताएँ।"
+        },
+        {
+          "en": "Do the real experiment only under your teacher's supervision.",
+          "hi": "वास्तविक प्रयोग केवल अपने शिक्षक की देखरेख में करें।"
+        }
+      ],
+      "simulationLimits": [
+        {
+          "en": "This lab covers only the titration. Weighing oxalic acid crystals and making the standard solution are not simulated; the HCl–sodium carbonate titration is a separate lab.",
+          "hi": "यह लैब केवल अनुमापन दिखाती है। ऑक्सैलिक अम्ल के क्रिस्टल तौलना और मानक विलयन बनाना इसमें नहीं हैं; HCl–सोडियम कार्बोनेट अनुमापन एक अलग लैब है।"
+        },
+        {
+          "en": "The burette is run with buttons in 1.0 mL and 0.1 mL portions; a real burette can add single drops of about 0.05 mL. The flask is drawn as a beaker.",
+          "hi": "ब्यूरेट को बटनों से 1.0 mL और 0.1 mL के भागों में चलाया जाता है; असली ब्यूरेट से लगभग 0.05 mL की एक-एक बूँद डाली जा सकती है। फ़्लास्क को बीकर के रूप में दिखाया गया है।"
+        },
+        {
+          "en": "The NaOH concentration is fixed in the simulation, so the end point is always at the same reading. In a real lab readings vary slightly, which is why you repeat for concordant readings.",
+          "hi": "सिमुलेशन में NaOH की सांद्रता निश्चित है, इसलिए अंत्य बिंदु सदैव एक ही पाठ्यांक पर आता है। वास्तविक लैब में पाठ्यांक थोड़े बदलते हैं, इसलिए संगत पाठ्यांकों के लिए अनुमापन दोहराया जाता है।"
+        },
+        {
+          "en": "Rinsing, filling the burette and reading the meniscus are hand skills you can only practise in a real lab.",
+          "hi": "धोना, ब्यूरेट भरना और मेनिस्कस पढ़ना हाथ के कौशल हैं जिनका अभ्यास केवल वास्तविक लैब में हो सकता है।"
+        }
+      ],
+      "viva": [
+        {
+          "question": {
+            "en": "Why is oxalic acid used as a primary standard?",
+            "hi": "ऑक्सैलिक अम्ल को प्राथमिक मानक के रूप में क्यों उपयोग किया जाता है?"
+          },
+          "answer": {
+            "en": "Crystalline oxalic acid (H₂C₂O₄·2H₂O) is pure, stable and does not absorb moisture, so it can be weighed accurately to make a solution of exactly known concentration.",
+            "hi": "क्रिस्टलीय ऑक्सैलिक अम्ल (H₂C₂O₄·2H₂O) शुद्ध, स्थायी है और नमी नहीं सोखता, इसलिए इसे सही-सही तौलकर ठीक ज्ञात सांद्रता का विलयन बनाया जा सकता है।"
+          }
+        },
+        {
+          "question": {
+            "en": "Why can sodium hydroxide not be used as a primary standard?",
+            "hi": "सोडियम हाइड्रॉक्साइड को प्राथमिक मानक के रूप में क्यों उपयोग नहीं किया जा सकता?"
+          },
+          "answer": {
+            "en": "It absorbs moisture and carbon dioxide from the air, so its mass, and hence the concentration of its solution, cannot be fixed by weighing.",
+            "hi": "यह वायु से नमी और कार्बन डाइऑक्साइड सोखता है, इसलिए तौलकर इसका द्रव्यमान और इस प्रकार इसके विलयन की सांद्रता निश्चित नहीं की जा सकती।"
+          }
+        },
+        {
+          "question": {
+            "en": "What is the molar mass of crystalline oxalic acid, H₂C₂O₄·2H₂O?",
+            "hi": "क्रिस्टलीय ऑक्सैलिक अम्ल H₂C₂O₄·2H₂O का मोलर द्रव्यमान क्या है?"
+          },
+          "answer": {
+            "en": "126 g mol⁻¹ (2 × 1 + 2 × 12 + 4 × 16 + 2 × 18 = 126).",
+            "hi": "126 g mol⁻¹ (2 × 1 + 2 × 12 + 4 × 16 + 2 × 18 = 126)।"
+          }
+        },
+        {
+          "question": {
+            "en": "Why does one mole of oxalic acid react with two moles of NaOH?",
+            "hi": "ऑक्सैलिक अम्ल का एक मोल NaOH के दो मोल से अभिक्रिया क्यों करता है?"
+          },
+          "answer": {
+            "en": "Oxalic acid is a dibasic acid: each molecule gives two H⁺ ions.",
+            "hi": "ऑक्सैलिक अम्ल द्विक्षारकी अम्ल है: इसका प्रत्येक अणु दो H⁺ आयन देता है।"
+          }
+        },
+        {
+          "question": {
+            "en": "What colour change is seen at the end point here?",
+            "hi": "यहाँ अंत्य बिंदु पर कौन-सा रंग परिवर्तन दिखता है?"
+          },
+          "answer": {
+            "en": "Colourless to a permanent pale pink, as the first slight excess of NaOH turns phenolphthalein pink.",
+            "hi": "रंगहीन से स्थायी हल्का गुलाबी, क्योंकि NaOH की पहली थोड़ी अधिकता फ़ीनॉल्फ़्थेलिन को गुलाबी कर देती है।"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "cbse-chem-11-12",
+          "section": "Class XI practical E"
+        },
+        {
+          "sourceId": "ncert-11-en",
+          "section": "1.10.2 (molarity)"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "rx-quicklime-water",
+      "aim": {
+        "en": "To observe the action of water on quicklime (calcium oxide) and identify the type of reaction.",
+        "hi": "बिना बुझे चूने (कैल्सियम ऑक्साइड) पर जल की क्रिया का प्रेक्षण करना और अभिक्रिया का प्रकार पहचानना।"
+      },
+      "equation": "CaO(s) + H₂O(l) → Ca(OH)₂(aq) + Heat",
+      "apparatus": [
+        {
+          "name": {
+            "en": "Glass beaker",
+            "hi": "काँच का बीकर"
+          }
+        },
+        {
+          "name": {
+            "en": "Spatula",
+            "hi": "स्पैचुला"
+          }
+        },
+        {
+          "name": {
+            "en": "Dropper or small measuring cylinder for the water",
+            "hi": "जल के लिए ड्रॉपर या छोटा मापक सिलिंडर"
+          }
+        }
+      ],
+      "chemicals": [
+        {
+          "name": {
+            "en": "Calcium oxide (quicklime)",
+            "hi": "कैल्सियम ऑक्साइड (बिना बुझा चूना)"
+          },
+          "formula": "CaO",
+          "quantity": {
+            "en": "A small amount",
+            "hi": "थोड़ी मात्रा"
+          },
+          "hazard": {
+            "en": "Corrosive: it reacts with moisture on the skin and in the eyes and gets hot. Never touch it with bare hands.",
+            "hi": "संक्षारक: यह त्वचा और आँखों की नमी से अभिक्रिया करके गरम हो जाता है। इसे कभी नंगे हाथों से न छुएँ।"
+          }
+        },
+        {
+          "name": {
+            "en": "Water",
+            "hi": "जल"
+          },
+          "formula": "H₂O",
+          "quantity": {
+            "en": "Added slowly, a little at a time",
+            "hi": "थोड़ा-थोड़ा करके धीरे-धीरे"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "instruction": {
+            "en": "Take a small amount of calcium oxide (quicklime) in a beaker.",
+            "hi": "बीकर में थोड़ा कैल्सियम ऑक्साइड (बिना बुझा चूना) लें।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Slowly add water to it.",
+            "hi": "इसमें धीरे-धीरे जल डालें।"
+          },
+          "observation": {
+            "en": "It reacts vigorously and slaked lime forms.",
+            "hi": "तीव्र अभिक्रिया होती है और बुझा हुआ चूना बनता है।"
+          },
+          "explanation": {
+            "en": "Calcium oxide and water combine to form a single product, calcium hydroxide (slaked lime): a combination reaction.",
+            "hi": "कैल्सियम ऑक्साइड और जल मिलकर एक ही उत्पाद, कैल्सियम हाइड्रॉक्साइड (बुझा हुआ चूना), बनाते हैं: यह संयोजन अभिक्रिया है।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Carefully touch the outside of the beaker.",
+            "hi": "बीकर के बाहरी भाग को सावधानी से छुएँ।"
+          },
+          "observation": {
+            "en": "The beaker feels hot.",
+            "hi": "बीकर गरम लगता है।"
+          },
+          "explanation": {
+            "en": "A large amount of heat is released, so the reaction is exothermic.",
+            "hi": "बहुत अधिक ऊष्मा निकलती है, इसलिए यह अभिक्रिया ऊष्माक्षेपी है।"
+          }
+        }
+      ],
+      "result": {
+        "en": "Calcium oxide combines with water to form calcium hydroxide and gives out heat: an exothermic combination reaction. A solution of slaked lime is used for whitewashing walls.",
+        "hi": "कैल्सियम ऑक्साइड जल से संयोग करके कैल्सियम हाइड्रॉक्साइड बनाता है और ऊष्मा देता है: यह ऊष्माक्षेपी संयोजन अभिक्रिया है। बुझे हुए चूने का विलयन दीवारों की सफ़ेदी में प्रयोग होता है।"
+      },
+      "safety": [
+        {
+          "en": "Wear safety goggles.",
+          "hi": "सुरक्षा चश्मा पहनें।"
+        },
+        {
+          "en": "Add the water slowly and in small amounts: the mixture can get very hot and spit.",
+          "hi": "जल धीरे-धीरे और थोड़ा-थोड़ा डालें: मिश्रण बहुत गरम होकर उछल सकता है।"
+        },
+        {
+          "en": "Touch only the outside of the beaker, and only briefly.",
+          "hi": "केवल बीकर के बाहरी भाग को और केवल क्षण भर छुएँ।"
+        },
+        {
+          "en": "Do the real experiment only under your teacher's supervision.",
+          "hi": "वास्तविक प्रयोग केवल अपने शिक्षक की देखरेख में करें।"
+        }
+      ],
+      "simulationLimits": [
+        {
+          "en": "The virtual lab shows the warming with an icon; you cannot feel the heat.",
+          "hi": "वर्चुअल लैब गरम होने को एक चिह्न से दिखाती है; आप ऊष्मा महसूस नहीं कर सकते।"
+        },
+        {
+          "en": "Amounts in the virtual lab are approximate. Use it to prepare, not as a replacement for a real experiment.",
+          "hi": "वर्चुअल लैब की मात्राएँ अनुमानित हैं। इसका उपयोग तैयारी के लिए करें, वास्तविक प्रयोग के स्थान पर नहीं।"
+        }
+      ],
+      "viva": [
+        {
+          "question": {
+            "en": "What type of reaction takes place when water is added to quicklime?",
+            "hi": "बिना बुझे चूने में जल डालने पर किस प्रकार की अभिक्रिया होती है?"
+          },
+          "answer": {
+            "en": "A combination reaction that is also exothermic: CaO + H₂O → Ca(OH)₂ + heat.",
+            "hi": "संयोजन अभिक्रिया जो ऊष्माक्षेपी भी है: CaO + H₂O → Ca(OH)₂ + ऊष्मा।"
+          }
+        },
+        {
+          "question": {
+            "en": "What is the product called?",
+            "hi": "उत्पाद को क्या कहते हैं?"
+          },
+          "answer": {
+            "en": "Slaked lime, calcium hydroxide, Ca(OH)₂.",
+            "hi": "बुझा हुआ चूना, कैल्सियम हाइड्रॉक्साइड, Ca(OH)₂।"
+          }
+        },
+        {
+          "question": {
+            "en": "Why does the beaker become hot?",
+            "hi": "बीकर गरम क्यों हो जाता है?"
+          },
+          "answer": {
+            "en": "The reaction releases a large amount of heat (it is exothermic).",
+            "hi": "अभिक्रिया में अधिक मात्रा में ऊष्मा निकलती है (यह ऊष्माक्षेपी है)।"
+          }
+        },
+        {
+          "question": {
+            "en": "Why do walls whitewashed with slaked lime become shiny after two or three days?",
+            "hi": "बुझे चूने से पुताई की गई दीवारें दो-तीन दिन बाद चमकदार क्यों हो जाती हैं?"
+          },
+          "answer": {
+            "en": "Calcium hydroxide slowly reacts with carbon dioxide in the air to form a thin, shiny layer of calcium carbonate: Ca(OH)₂ + CO₂ → CaCO₃ + H₂O.",
+            "hi": "कैल्सियम हाइड्रॉक्साइड वायु की कार्बन डाइऑक्साइड से धीरे-धीरे अभिक्रिया करके कैल्सियम कार्बोनेट की पतली चमकदार परत बनाता है: Ca(OH)₂ + CO₂ → CaCO₃ + H₂O।"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "1.2.1, Activity 1.4"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "rx-ferrous-sulphate-heat",
+      "aim": {
+        "en": "To observe the effect of heat on ferrous sulphate crystals.",
+        "hi": "फ़ेरस सल्फ़ेट क्रिस्टलों पर ऊष्मा के प्रभाव का प्रेक्षण करना।"
+      },
+      "equation": "2FeSO₄(s) →(heat) Fe₂O₃(s) + SO₂(g) + SO₃(g)",
+      "apparatus": [
+        {
+          "name": {
+            "en": "Dry boiling tube",
+            "hi": "सूखी क्वथन नली"
+          }
+        },
+        {
+          "name": {
+            "en": "Test-tube holder",
+            "hi": "परखनली होल्डर"
+          }
+        },
+        {
+          "name": {
+            "en": "Burner or spirit lamp",
+            "hi": "बर्नर या स्पिरिट लैंप"
+          }
+        },
+        {
+          "name": {
+            "en": "Spatula",
+            "hi": "स्पैचुला"
+          }
+        }
+      ],
+      "chemicals": [
+        {
+          "name": {
+            "en": "Ferrous sulphate crystals (green)",
+            "hi": "फ़ेरस सल्फ़ेट क्रिस्टल (हरे)"
+          },
+          "formula": "FeSO₄·7H₂O",
+          "quantity": {
+            "en": "About 2 g",
+            "hi": "लगभग 2 g"
+          },
+          "hazard": {
+            "en": "Harmful if swallowed.",
+            "hi": "निगलने पर हानिकारक।"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "instruction": {
+            "en": "Take about 2 g of ferrous sulphate crystals in a dry boiling tube and note their colour.",
+            "hi": "सूखी क्वथन नली में लगभग 2 g फ़ेरस सल्फ़ेट क्रिस्टल लें और उनका रंग नोट करें।"
+          },
+          "observation": {
+            "en": "The crystals are green.",
+            "hi": "क्रिस्टल हरे हैं।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Hold the tube with a holder, its mouth pointing away from everyone, and heat it over the flame.",
+            "hi": "नली को होल्डर से पकड़ें, उसका मुँह सबसे दूर रखें, और उसे लौ पर गरम करें।"
+          },
+          "observation": {
+            "en": "The green colour changes, and a smell of burning sulphur is given off.",
+            "hi": "हरा रंग बदल जाता है, और जलते हुए सल्फ़र जैसी गंध आती है।"
+          },
+          "explanation": {
+            "en": "The crystals first lose their water of crystallisation; then ferrous sulphate decomposes into ferric oxide, sulphur dioxide and sulphur trioxide. One substance breaking into several is a decomposition reaction; this one needs heat (thermal decomposition).",
+            "hi": "क्रिस्टल पहले अपना क्रिस्टलन जल खोते हैं; फिर फ़ेरस सल्फ़ेट फ़ेरिक ऑक्साइड, सल्फ़र डाइऑक्साइड और सल्फ़र ट्राइऑक्साइड में अपघटित होता है। एक पदार्थ का कई पदार्थों में टूटना अपघटन अभिक्रिया है; इसमें ऊष्मा चाहिए (ऊष्मीय अपघटन)।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Smell the gas only by gently wafting it towards your nose with your hand.",
+            "hi": "गैस को केवल हाथ से हल्की हवा करके अपनी नाक की ओर लाकर सूँघें।"
+          }
+        }
+      ],
+      "result": {
+        "en": "On heating, ferrous sulphate decomposes into ferric oxide (Fe₂O₃), sulphur dioxide and sulphur trioxide: a thermal decomposition reaction.",
+        "hi": "गरम करने पर फ़ेरस सल्फ़ेट फ़ेरिक ऑक्साइड (Fe₂O₃), सल्फ़र डाइऑक्साइड और सल्फ़र ट्राइऑक्साइड में अपघटित होता है: यह ऊष्मीय अपघटन अभिक्रिया है।"
+      },
+      "safety": [
+        {
+          "en": "Point the mouth of the tube away from yourself and others while heating.",
+          "hi": "गरम करते समय नली का मुँह अपनी और दूसरों की ओर न रखें।"
+        },
+        {
+          "en": "The gases are harmful: never sniff directly, and work in a well-ventilated room.",
+          "hi": "गैसें हानिकारक हैं: कभी सीधे न सूँघें, और हवादार कमरे में कार्य करें।"
+        },
+        {
+          "en": "Hot glass looks the same as cold glass — let the tube cool before touching it.",
+          "hi": "गरम काँच ठंडे काँच जैसा ही दिखता है — छूने से पहले नली को ठंडा होने दें।"
+        },
+        {
+          "en": "Do the real experiment only under your teacher's supervision.",
+          "hi": "वास्तविक प्रयोग केवल अपने शिक्षक की देखरेख में करें।"
+        }
+      ],
+      "simulationLimits": [
+        {
+          "en": "The virtual lab shows the heating and the gases simply; it cannot show the smell or the gradual colour change.",
+          "hi": "वर्चुअल लैब गरम करना और गैसें सरल रूप में दिखाती है; यह गंध या धीरे-धीरे होने वाला रंग परिवर्तन नहीं दिखा सकती।"
+        },
+        {
+          "en": "Use it to prepare, not as a replacement for a real experiment.",
+          "hi": "इसका उपयोग तैयारी के लिए करें, वास्तविक प्रयोग के स्थान पर नहीं।"
+        }
+      ],
+      "viva": [
+        {
+          "question": {
+            "en": "What do you observe when ferrous sulphate crystals are heated?",
+            "hi": "फ़ेरस सल्फ़ेट क्रिस्टलों को गरम करने पर क्या दिखता है?"
+          },
+          "answer": {
+            "en": "The green crystals change colour and finally leave a reddish-brown solid (ferric oxide), and gases with the smell of burning sulphur are given off.",
+            "hi": "हरे क्रिस्टलों का रंग बदलता है और अंत में लाल-भूरा ठोस (फ़ेरिक ऑक्साइड) बचता है, तथा जलते गंधक जैसी गंध वाली गैसें निकलती हैं।"
+          }
+        },
+        {
+          "question": {
+            "en": "What type of reaction is this?",
+            "hi": "यह किस प्रकार की अभिक्रिया है?"
+          },
+          "answer": {
+            "en": "Thermal decomposition: one compound breaks down on heating into simpler substances.",
+            "hi": "ऊष्मीय अपघटन: एक यौगिक गरम करने पर टूटकर सरल पदार्थ बनाता है।"
+          }
+        },
+        {
+          "question": {
+            "en": "Why do the crystals first lose their green colour?",
+            "hi": "क्रिस्टल पहले अपना हरा रंग क्यों खो देते हैं?"
+          },
+          "answer": {
+            "en": "Ferrous sulphate crystals (FeSO₄·7H₂O) first lose their water of crystallisation.",
+            "hi": "फ़ेरस सल्फ़ेट क्रिस्टल (FeSO₄·7H₂O) पहले अपना क्रिस्टलन जल खो देते हैं।"
+          }
+        },
+        {
+          "question": {
+            "en": "Which gases are formed, and what precaution follows from this?",
+            "hi": "कौन-सी गैसें बनती हैं, और इससे कौन-सी सावधानी आवश्यक है?"
+          },
+          "answer": {
+            "en": "Sulphur dioxide (SO₂) and sulphur trioxide (SO₃). They are harmful, so heat in a well-ventilated place and never smell the gases directly.",
+            "hi": "सल्फ़र डाइऑक्साइड (SO₂) और सल्फ़र ट्राइऑक्साइड (SO₃)। ये हानिकारक हैं, इसलिए हवादार स्थान पर गरम करें और गैसों को सीधे कभी न सूँघें।"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "1.2.2, Activity 1.5"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "rx-silver-chloride-sunlight",
+      "aim": {
+        "en": "To observe the effect of sunlight on silver chloride.",
+        "hi": "सिल्वर क्लोराइड पर सूर्य के प्रकाश के प्रभाव का प्रेक्षण करना।"
+      },
+      "equation": "2AgCl(s) →(sunlight) 2Ag(s) + Cl₂(g)",
+      "apparatus": [
+        {
+          "name": {
+            "en": "China dish",
+            "hi": "चीनी मिट्टी की प्याली"
+          }
+        },
+        {
+          "name": {
+            "en": "Spatula",
+            "hi": "स्पैचुला"
+          }
+        }
+      ],
+      "chemicals": [
+        {
+          "name": {
+            "en": "Silver chloride",
+            "hi": "सिल्वर क्लोराइड"
+          },
+          "formula": "AgCl",
+          "quantity": {
+            "en": "About 2 g",
+            "hi": "लगभग 2 g"
+          },
+          "hazard": {
+            "en": "Do not touch it with bare hands; wash your hands after the activity.",
+            "hi": "इसे नंगे हाथों से न छुएँ; गतिविधि के बाद हाथ धोएँ।"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "instruction": {
+            "en": "Take about 2 g of silver chloride in a china dish and note its colour.",
+            "hi": "चीनी मिट्टी की प्याली में लगभग 2 g सिल्वर क्लोराइड लें और उसका रंग नोट करें।"
+          },
+          "observation": {
+            "en": "Silver chloride is white.",
+            "hi": "सिल्वर क्लोराइड सफ़ेद है।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Place the dish in sunlight for some time and observe the colour again.",
+            "hi": "प्याली को कुछ समय के लिए धूप में रखें और फिर से रंग देखें।"
+          },
+          "observation": {
+            "en": "The white silver chloride turns grey.",
+            "hi": "सफ़ेद सिल्वर क्लोराइड धूसर हो जाता है।"
+          },
+          "explanation": {
+            "en": "Light decomposes silver chloride into silver and chlorine. A decomposition caused by light is called photolytic decomposition.",
+            "hi": "प्रकाश सिल्वर क्लोराइड को सिल्वर और क्लोरीन में अपघटित करता है। प्रकाश से होने वाला अपघटन प्रकाश-अपघटन कहलाता है।"
+          }
+        }
+      ],
+      "result": {
+        "en": "Sunlight decomposes silver chloride into silver (which makes it grey) and chlorine. Reactions like this are used in black and white photography.",
+        "hi": "सूर्य का प्रकाश सिल्वर क्लोराइड को सिल्वर (जिससे रंग धूसर होता है) और क्लोरीन में अपघटित करता है। ऐसी अभिक्रियाएँ श्वेत-श्याम फ़ोटोग्राफ़ी में प्रयोग होती हैं।"
+      },
+      "safety": [
+        {
+          "en": "Never look directly at the Sun.",
+          "hi": "सूर्य की ओर कभी सीधे न देखें।"
+        },
+        {
+          "en": "Do not touch the chemical; wash your hands afterwards.",
+          "hi": "रसायन को न छुएँ; बाद में हाथ धोएँ।"
+        },
+        {
+          "en": "Do the real experiment only under your teacher's supervision.",
+          "hi": "वास्तविक प्रयोग केवल अपने शिक्षक की देखरेख में करें।"
+        }
+      ],
+      "simulationLimits": [
+        {
+          "en": "In real sunlight the change takes some time; the virtual lab shows it at once. The small amount of chlorine formed is not shown.",
+          "hi": "वास्तविक धूप में परिवर्तन में कुछ समय लगता है; वर्चुअल लैब इसे तुरंत दिखाती है। बनने वाली थोड़ी-सी क्लोरीन नहीं दिखाई गई है।"
+        },
+        {
+          "en": "Use it to prepare, not as a replacement for a real experiment.",
+          "hi": "इसका उपयोग तैयारी के लिए करें, वास्तविक प्रयोग के स्थान पर नहीं।"
+        }
+      ],
+      "viva": [
+        {
+          "question": {
+            "en": "What change is seen when silver chloride is kept in sunlight?",
+            "hi": "सिल्वर क्लोराइड को धूप में रखने पर क्या परिवर्तन दिखता है?"
+          },
+          "answer": {
+            "en": "The white silver chloride turns grey as silver metal is formed.",
+            "hi": "सफ़ेद सिल्वर क्लोराइड धूसर हो जाता है क्योंकि सिल्वर धातु बनती है।"
+          }
+        },
+        {
+          "question": {
+            "en": "Name the type of reaction.",
+            "hi": "अभिक्रिया का प्रकार बताइए।"
+          },
+          "answer": {
+            "en": "A decomposition reaction caused by light (photolytic decomposition).",
+            "hi": "प्रकाश द्वारा होने वाली अपघटन अभिक्रिया (प्रकाश-अपघटन)।"
+          }
+        },
+        {
+          "question": {
+            "en": "Where is this kind of reaction used?",
+            "hi": "इस प्रकार की अभिक्रिया का उपयोग कहाँ होता है?"
+          },
+          "answer": {
+            "en": "In black-and-white photography (silver chloride and silver bromide behave this way).",
+            "hi": "श्वेत-श्याम फ़ोटोग्राफ़ी में (सिल्वर क्लोराइड और सिल्वर ब्रोमाइड इसी प्रकार व्यवहार करते हैं)।"
+          }
+        },
+        {
+          "question": {
+            "en": "Why are silver salts stored in dark-coloured bottles?",
+            "hi": "सिल्वर के लवण गहरे रंग की बोतलों में क्यों रखे जाते हैं?"
+          },
+          "answer": {
+            "en": "Light would decompose them.",
+            "hi": "प्रकाश उनका अपघटन कर देगा।"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "1.2.2, Activity 1.8"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "rx-iron-copper-sulphate",
+      "aim": {
+        "en": "To study the reaction of iron nails with copper sulphate solution.",
+        "hi": "कॉपर सल्फ़ेट विलयन के साथ लोहे की कीलों की अभिक्रिया का अध्ययन करना।"
+      },
+      "equation": "Fe(s) + CuSO₄(aq) → FeSO₄(aq) + Cu(s)",
+      "apparatus": [
+        {
+          "name": {
+            "en": "Two test tubes, marked A and B, in a stand",
+            "hi": "स्टैंड में दो परखनलियाँ, A और B चिह्नित"
+          }
+        },
+        {
+          "name": {
+            "en": "Sandpaper",
+            "hi": "रेगमाल"
+          }
+        },
+        {
+          "name": {
+            "en": "Thread",
+            "hi": "धागा"
+          }
+        },
+        {
+          "name": {
+            "en": "Measuring cylinder (10 mL)",
+            "hi": "मापक सिलिंडर (10 mL)"
+          }
+        }
+      ],
+      "chemicals": [
+        {
+          "name": {
+            "en": "Iron nails",
+            "hi": "लोहे की कीलें"
+          },
+          "formula": "Fe",
+          "quantity": {
+            "en": "Three",
+            "hi": "तीन"
+          }
+        },
+        {
+          "name": {
+            "en": "Copper sulphate solution (blue)",
+            "hi": "कॉपर सल्फ़ेट विलयन (नीला)"
+          },
+          "formula": "CuSO₄",
+          "quantity": {
+            "en": "About 10 mL in each test tube",
+            "hi": "प्रत्येक परखनली में लगभग 10 mL"
+          },
+          "hazard": {
+            "en": "Harmful if swallowed and irritates the eyes.",
+            "hi": "निगलने पर हानिकारक और आँखों में जलन करता है।"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "instruction": {
+            "en": "Clean three iron nails by rubbing them with sandpaper.",
+            "hi": "तीन लोहे की कीलों को रेगमाल से रगड़कर साफ़ करें।"
+          },
+          "explanation": {
+            "en": "This removes rust and dirt so that the iron surface can react.",
+            "hi": "इससे जंग और गंदगी हट जाती है ताकि लोहे की सतह अभिक्रिया कर सके।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Take about 10 mL of copper sulphate solution in each of test tubes A and B.",
+            "hi": "परखनली A और B प्रत्येक में लगभग 10 mL कॉपर सल्फ़ेट विलयन लें।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Tie two nails with a thread and dip them in the solution in test tube B for about 20 minutes. Keep the third nail aside for comparison.",
+            "hi": "दो कीलों को धागे से बाँधकर परखनली B के विलयन में लगभग 20 मिनट तक डुबोएँ। तीसरी कील तुलना के लिए अलग रखें।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Take the nails out and compare them, and the solutions in A and B.",
+            "hi": "कीलें निकालकर उनकी, और परखनली A और B के विलयनों की तुलना करें।"
+          },
+          "observation": {
+            "en": "The nails dipped in the solution become brownish, and the blue colour of the solution in B fades.",
+            "hi": "विलयन में डुबोई गई कीलें भूरी हो जाती हैं, और परखनली B के विलयन का नीला रंग हल्का पड़ जाता है।"
+          },
+          "explanation": {
+            "en": "Iron is more reactive than copper, so it displaces copper from copper sulphate. Copper deposits on the nails and iron sulphate forms: a displacement reaction.",
+            "hi": "लोहा कॉपर से अधिक अभिक्रियाशील है, इसलिए वह कॉपर सल्फ़ेट से कॉपर को विस्थापित करता है। कॉपर कीलों पर जम जाता है और आयरन सल्फ़ेट बनता है: यह विस्थापन अभिक्रिया है।"
+          }
+        }
+      ],
+      "result": {
+        "en": "Iron displaces copper from copper sulphate solution: Fe + CuSO₄ → FeSO₄ + Cu. This shows that iron is more reactive than copper.",
+        "hi": "लोहा कॉपर सल्फ़ेट विलयन से कॉपर को विस्थापित करता है: Fe + CuSO₄ → FeSO₄ + Cu। इससे पता चलता है कि लोहा कॉपर से अधिक अभिक्रियाशील है।"
+      },
+      "safety": [
+        {
+          "en": "Wear safety goggles and do not let the solution touch your skin.",
+          "hi": "सुरक्षा चश्मा पहनें और विलयन को त्वचा से न लगने दें।"
+        },
+        {
+          "en": "Wash your hands after the activity.",
+          "hi": "गतिविधि के बाद हाथ धोएँ।"
+        },
+        {
+          "en": "Do the real experiment only under your teacher's supervision.",
+          "hi": "वास्तविक प्रयोग केवल अपने शिक्षक की देखरेख में करें।"
+        }
+      ],
+      "simulationLimits": [
+        {
+          "en": "The real change takes about 20 minutes; the virtual lab shows it at once and has no comparison tube A.",
+          "hi": "वास्तविक परिवर्तन में लगभग 20 मिनट लगते हैं; वर्चुअल लैब इसे तुरंत दिखाती है और उसमें तुलना वाली परखनली A नहीं है।"
+        },
+        {
+          "en": "Amounts are approximate. Use it to prepare, not as a replacement for a real experiment.",
+          "hi": "मात्राएँ अनुमानित हैं। इसका उपयोग तैयारी के लिए करें, वास्तविक प्रयोग के स्थान पर नहीं।"
+        }
+      ],
+      "viva": [
+        {
+          "question": {
+            "en": "What do you observe after the iron nails stay in copper sulphate solution?",
+            "hi": "लोहे की कीलों को कॉपर सल्फ़ेट विलयन में रखने के बाद क्या दिखता है?"
+          },
+          "answer": {
+            "en": "A reddish-brown coating of copper forms on the nails and the blue colour of the solution fades (towards light green).",
+            "hi": "कीलों पर कॉपर की लाल-भूरी परत बनती है और विलयन का नीला रंग फीका पड़ जाता है (हल्के हरे की ओर)।"
+          }
+        },
+        {
+          "question": {
+            "en": "Why does iron displace copper from copper sulphate?",
+            "hi": "लोहा कॉपर सल्फ़ेट से कॉपर को विस्थापित क्यों करता है?"
+          },
+          "answer": {
+            "en": "Iron is more reactive than copper.",
+            "hi": "लोहा कॉपर से अधिक अभिक्रियाशील है।"
+          }
+        },
+        {
+          "question": {
+            "en": "Would a copper strip displace iron from iron sulphate solution?",
+            "hi": "क्या कॉपर की पट्टी आयरन सल्फ़ेट विलयन से लोहे को विस्थापित करेगी?"
+          },
+          "answer": {
+            "en": "No. Copper is less reactive than iron, so no reaction takes place.",
+            "hi": "नहीं। कॉपर लोहे से कम अभिक्रियाशील है, इसलिए कोई अभिक्रिया नहीं होती।"
+          }
+        },
+        {
+          "question": {
+            "en": "Why are the nails rubbed with sandpaper first?",
+            "hi": "कीलों को पहले रेगमाल से क्यों रगड़ा जाता है?"
+          },
+          "answer": {
+            "en": "To remove rust and dirt so that the iron surface can react with the solution.",
+            "hi": "जंग और गंदगी हटाने के लिए, ताकि लोहे की सतह विलयन से अभिक्रिया कर सके।"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "1.2.3, Activity 1.9"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "rx-zinc-copper-sulphate",
+      "aim": {
+        "en": "To observe the displacement of copper from copper sulphate solution by zinc.",
+        "hi": "ज़िंक द्वारा कॉपर सल्फ़ेट विलयन से कॉपर के विस्थापन का प्रेक्षण करना।"
+      },
+      "equation": "Zn(s) + CuSO₄(aq) → ZnSO₄(aq) + Cu(s)",
+      "apparatus": [
+        {
+          "name": {
+            "en": "Test tube in a stand",
+            "hi": "स्टैंड में परखनली"
+          }
+        },
+        {
+          "name": {
+            "en": "Measuring cylinder (10 mL)",
+            "hi": "मापक सिलिंडर (10 mL)"
+          }
+        },
+        {
+          "name": {
+            "en": "Spatula or forceps",
+            "hi": "स्पैचुला या चिमटी"
+          }
+        }
+      ],
+      "chemicals": [
+        {
+          "name": {
+            "en": "Copper sulphate solution (blue)",
+            "hi": "कॉपर सल्फ़ेट विलयन (नीला)"
+          },
+          "formula": "CuSO₄",
+          "quantity": {
+            "en": "About 10 mL",
+            "hi": "लगभग 10 mL"
+          },
+          "hazard": {
+            "en": "Harmful if swallowed and irritates the eyes.",
+            "hi": "निगलने पर हानिकारक और आँखों में जलन करता है।"
+          }
+        },
+        {
+          "name": {
+            "en": "Zinc granules",
+            "hi": "ज़िंक के दाने"
+          },
+          "formula": "Zn",
+          "quantity": {
+            "en": "A few granules",
+            "hi": "कुछ दाने"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "instruction": {
+            "en": "Take about 10 mL of copper sulphate solution in a test tube.",
+            "hi": "परखनली में लगभग 10 mL कॉपर सल्फ़ेट विलयन लें।"
+          },
+          "observation": {
+            "en": "The solution is blue.",
+            "hi": "विलयन नीला है।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Add a few zinc granules and leave the tube for some time.",
+            "hi": "कुछ ज़िंक के दाने डालें और परखनली को कुछ समय के लिए छोड़ दें।"
+          },
+          "observation": {
+            "en": "A reddish-brown coating forms on the zinc and the blue colour of the solution fades.",
+            "hi": "ज़िंक पर लाल-भूरी परत बनती है और विलयन का नीला रंग हल्का पड़ जाता है।"
+          },
+          "explanation": {
+            "en": "Zinc is more reactive than copper, so it displaces copper. Copper deposits on the zinc, and the zinc sulphate formed is colourless.",
+            "hi": "ज़िंक कॉपर से अधिक अभिक्रियाशील है, इसलिए वह कॉपर को विस्थापित करता है। कॉपर ज़िंक पर जम जाता है, और बनने वाला ज़िंक सल्फ़ेट रंगहीन होता है।"
+          }
+        }
+      ],
+      "result": {
+        "en": "Zinc displaces copper from copper sulphate solution: Zn + CuSO₄ → ZnSO₄ + Cu, a displacement reaction. A more reactive metal displaces a less reactive one from its salt solution.",
+        "hi": "ज़िंक कॉपर सल्फ़ेट विलयन से कॉपर को विस्थापित करता है: Zn + CuSO₄ → ZnSO₄ + Cu, यह विस्थापन अभिक्रिया है। अधिक अभिक्रियाशील धातु कम अभिक्रियाशील धातु को उसके लवण विलयन से विस्थापित करती है।"
+      },
+      "safety": [
+        {
+          "en": "Wear safety goggles and do not let the solution touch your skin.",
+          "hi": "सुरक्षा चश्मा पहनें और विलयन को त्वचा से न लगने दें।"
+        },
+        {
+          "en": "Wash your hands after the activity.",
+          "hi": "गतिविधि के बाद हाथ धोएँ।"
+        },
+        {
+          "en": "Do the real experiment only under your teacher's supervision.",
+          "hi": "वास्तविक प्रयोग केवल अपने शिक्षक की देखरेख में करें।"
+        }
+      ],
+      "simulationLimits": [
+        {
+          "en": "The real change takes some time; the virtual lab shows it at once.",
+          "hi": "वास्तविक परिवर्तन में कुछ समय लगता है; वर्चुअल लैब इसे तुरंत दिखाती है।"
+        },
+        {
+          "en": "Amounts are approximate. Use it to prepare, not as a replacement for a real experiment.",
+          "hi": "मात्राएँ अनुमानित हैं। इसका उपयोग तैयारी के लिए करें, वास्तविक प्रयोग के स्थान पर नहीं।"
+        }
+      ],
+      "viva": [
+        {
+          "question": {
+            "en": "What do you observe when zinc is added to copper sulphate solution?",
+            "hi": "कॉपर सल्फ़ेट विलयन में ज़िंक डालने पर क्या दिखता है?"
+          },
+          "answer": {
+            "en": "The blue colour fades as colourless zinc sulphate forms, and reddish-brown copper is deposited.",
+            "hi": "नीला रंग फीका पड़ जाता है क्योंकि रंगहीन ज़िंक सल्फ़ेट बनता है, और लाल-भूरा कॉपर जमा होता है।"
+          }
+        },
+        {
+          "question": {
+            "en": "Which substance is oxidised and which is reduced?",
+            "hi": "कौन-सा पदार्थ ऑक्सीकृत और कौन-सा अपचयित होता है?"
+          },
+          "answer": {
+            "en": "Zinc is oxidised (Zn → Zn²⁺); copper ions are reduced (Cu²⁺ → Cu).",
+            "hi": "ज़िंक ऑक्सीकृत होता है (Zn → Zn²⁺); कॉपर आयन अपचयित होते हैं (Cu²⁺ → Cu)।"
+          }
+        },
+        {
+          "question": {
+            "en": "Why does this reaction take place?",
+            "hi": "यह अभिक्रिया क्यों होती है?"
+          },
+          "answer": {
+            "en": "Zinc is more reactive than copper, so it displaces copper from its salt solution.",
+            "hi": "ज़िंक कॉपर से अधिक अभिक्रियाशील है, इसलिए वह कॉपर को उसके लवण विलयन से विस्थापित करता है।"
+          }
+        },
+        {
+          "question": {
+            "en": "Would silver displace copper from copper sulphate solution?",
+            "hi": "क्या सिल्वर कॉपर सल्फ़ेट विलयन से कॉपर को विस्थापित करेगा?"
+          },
+          "answer": {
+            "en": "No. Silver is less reactive than copper.",
+            "hi": "नहीं। सिल्वर कॉपर से कम अभिक्रियाशील है।"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "1.2.3 (displacement reactions)"
+        },
+        {
+          "sourceId": "ncert-10-en",
+          "section": "3.2.4"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "rx-barium-sulphate",
+      "aim": {
+        "en": "To observe the reaction between sodium sulphate and barium chloride solutions.",
+        "hi": "सोडियम सल्फ़ेट और बेरियम क्लोराइड विलयनों के बीच अभिक्रिया का प्रेक्षण करना।"
+      },
+      "equation": "Na₂SO₄(aq) + BaCl₂(aq) → BaSO₄(s) + 2NaCl(aq)",
+      "apparatus": [
+        {
+          "name": {
+            "en": "Two test tubes in a stand",
+            "hi": "स्टैंड में दो परखनलियाँ"
+          }
+        },
+        {
+          "name": {
+            "en": "Dropper or small measuring cylinder",
+            "hi": "ड्रॉपर या छोटा मापक सिलिंडर"
+          }
+        }
+      ],
+      "chemicals": [
+        {
+          "name": {
+            "en": "Sodium sulphate solution",
+            "hi": "सोडियम सल्फ़ेट विलयन"
+          },
+          "formula": "Na₂SO₄",
+          "quantity": {
+            "en": "About 3 mL",
+            "hi": "लगभग 3 mL"
+          }
+        },
+        {
+          "name": {
+            "en": "Barium chloride solution",
+            "hi": "बेरियम क्लोराइड विलयन"
+          },
+          "formula": "BaCl₂",
+          "quantity": {
+            "en": "About 3 mL",
+            "hi": "लगभग 3 mL"
+          },
+          "hazard": {
+            "en": "Poisonous if swallowed — handle with care and wash your hands afterwards.",
+            "hi": "निगलने पर विषैला — सावधानी से उपयोग करें और बाद में हाथ धोएँ।"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "instruction": {
+            "en": "Take about 3 mL of sodium sulphate solution in one test tube and about 3 mL of barium chloride solution in another.",
+            "hi": "एक परखनली में लगभग 3 mL सोडियम सल्फ़ेट विलयन और दूसरी में लगभग 3 mL बेरियम क्लोराइड विलयन लें।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Mix the two solutions.",
+            "hi": "दोनों विलयनों को मिलाएँ।"
+          },
+          "observation": {
+            "en": "A white substance that does not dissolve in water forms: a precipitate.",
+            "hi": "एक सफ़ेद पदार्थ बनता है जो जल में नहीं घुलता: यह अवक्षेप है।"
+          },
+          "explanation": {
+            "en": "The two compounds exchange ions. Barium sulphate is insoluble, so it separates out as a white precipitate: a double displacement (precipitation) reaction.",
+            "hi": "दोनों यौगिक आयनों का आदान-प्रदान करते हैं। बेरियम सल्फ़ेट अविलेय है, इसलिए वह सफ़ेद अवक्षेप के रूप में अलग हो जाता है: यह द्विविस्थापन (अवक्षेपण) अभिक्रिया है।"
+          }
+        }
+      ],
+      "result": {
+        "en": "Sodium sulphate and barium chloride exchange ions to form a white precipitate of barium sulphate and sodium chloride in solution: a double displacement reaction.",
+        "hi": "सोडियम सल्फ़ेट और बेरियम क्लोराइड आयनों का आदान-प्रदान करके बेरियम सल्फ़ेट का सफ़ेद अवक्षेप और विलयन में सोडियम क्लोराइड बनाते हैं: यह द्विविस्थापन अभिक्रिया है।"
+      },
+      "safety": [
+        {
+          "en": "Barium chloride is poisonous: never taste anything in the lab and wash your hands after the activity.",
+          "hi": "बेरियम क्लोराइड विषैला है: प्रयोगशाला में कभी कुछ न चखें और गतिविधि के बाद हाथ धोएँ।"
+        },
+        {
+          "en": "Wear safety goggles.",
+          "hi": "सुरक्षा चश्मा पहनें।"
+        },
+        {
+          "en": "Dispose of the mixture as your teacher tells you, not down the sink.",
+          "hi": "मिश्रण को सिंक में नहीं, बल्कि शिक्षक के बताए अनुसार फेंकें।"
+        },
+        {
+          "en": "Do the real experiment only under your teacher's supervision.",
+          "hi": "वास्तविक प्रयोग केवल अपने शिक्षक की देखरेख में करें।"
+        }
+      ],
+      "simulationLimits": [
+        {
+          "en": "The virtual lab mixes the solutions in a beaker instead of two test tubes, and its amounts are approximate.",
+          "hi": "वर्चुअल लैब विलयनों को दो परखनलियों के बजाय बीकर में मिलाती है, और उसकी मात्राएँ अनुमानित हैं।"
+        },
+        {
+          "en": "Use it to prepare, not as a replacement for a real experiment.",
+          "hi": "इसका उपयोग तैयारी के लिए करें, वास्तविक प्रयोग के स्थान पर नहीं।"
+        }
+      ],
+      "viva": [
+        {
+          "question": {
+            "en": "What is seen when barium chloride solution is added to sodium sulphate solution?",
+            "hi": "सोडियम सल्फ़ेट विलयन में बेरियम क्लोराइड विलयन डालने पर क्या दिखता है?"
+          },
+          "answer": {
+            "en": "A white precipitate of barium sulphate forms.",
+            "hi": "बेरियम सल्फ़ेट का सफ़ेद अवक्षेप बनता है।"
+          }
+        },
+        {
+          "question": {
+            "en": "Name the type of reaction.",
+            "hi": "अभिक्रिया का प्रकार बताइए।"
+          },
+          "answer": {
+            "en": "Double displacement (a precipitation reaction): the two compounds exchange ions.",
+            "hi": "द्विविस्थापन (अवक्षेपण अभिक्रिया): दोनों यौगिक आपस में आयनों का आदान-प्रदान करते हैं।"
+          }
+        },
+        {
+          "question": {
+            "en": "What is a precipitate?",
+            "hi": "अवक्षेप क्या है?"
+          },
+          "answer": {
+            "en": "An insoluble solid that forms in a solution during a reaction.",
+            "hi": "अभिक्रिया के दौरान विलयन में बनने वाला अविलेय ठोस।"
+          }
+        },
+        {
+          "question": {
+            "en": "Which product stays dissolved in the solution?",
+            "hi": "कौन-सा उत्पाद विलयन में घुला रहता है?"
+          },
+          "answer": {
+            "en": "Sodium chloride (NaCl), which is soluble in water.",
+            "hi": "सोडियम क्लोराइड (NaCl), जो जल में विलेय है।"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "1.2.4, Activity 1.10"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "rx-lead-iodide",
+      "aim": {
+        "en": "To observe the reaction between lead nitrate and potassium iodide solutions.",
+        "hi": "लेड नाइट्रेट और पोटैशियम आयोडाइड विलयनों के बीच अभिक्रिया का प्रेक्षण करना।"
+      },
+      "equation": "Pb(NO₃)₂(aq) + 2KI(aq) → PbI₂(s) + 2KNO₃(aq)",
+      "apparatus": [
+        {
+          "name": {
+            "en": "Test tube in a stand",
+            "hi": "स्टैंड में परखनली"
+          }
+        },
+        {
+          "name": {
+            "en": "Dropper",
+            "hi": "ड्रॉपर"
+          }
+        }
+      ],
+      "chemicals": [
+        {
+          "name": {
+            "en": "Lead nitrate solution",
+            "hi": "लेड नाइट्रेट विलयन"
+          },
+          "formula": "Pb(NO₃)₂",
+          "quantity": {
+            "en": "About 2 mL",
+            "hi": "लगभग 2 mL"
+          },
+          "hazard": {
+            "en": "Toxic — lead compounds are poisonous. Do not let it touch your skin; wash your hands afterwards.",
+            "hi": "विषैला — लेड के यौगिक ज़हरीले होते हैं। इसे त्वचा से न लगने दें; बाद में हाथ धोएँ।"
+          }
+        },
+        {
+          "name": {
+            "en": "Potassium iodide solution",
+            "hi": "पोटैशियम आयोडाइड विलयन"
+          },
+          "formula": "KI",
+          "quantity": {
+            "en": "A few drops",
+            "hi": "कुछ बूँदें"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "instruction": {
+            "en": "Take a little lead nitrate solution in a test tube.",
+            "hi": "परखनली में थोड़ा लेड नाइट्रेट विलयन लें।"
+          },
+          "observation": {
+            "en": "The solution is colourless.",
+            "hi": "विलयन रंगहीन है।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Add potassium iodide solution to it.",
+            "hi": "इसमें पोटैशियम आयोडाइड विलयन डालें।"
+          },
+          "observation": {
+            "en": "A yellow precipitate forms.",
+            "hi": "पीला अवक्षेप बनता है।"
+          },
+          "explanation": {
+            "en": "The two compounds exchange ions. Lead iodide is insoluble and yellow, so it forms a precipitate: a double displacement (precipitation) reaction.",
+            "hi": "दोनों यौगिक आयनों का आदान-प्रदान करते हैं। लेड आयोडाइड अविलेय और पीला है, इसलिए अवक्षेप बनता है: यह द्विविस्थापन (अवक्षेपण) अभिक्रिया है।"
+          }
+        }
+      ],
+      "result": {
+        "en": "Lead nitrate and potassium iodide exchange ions to form a yellow precipitate of lead iodide: a double displacement reaction.",
+        "hi": "लेड नाइट्रेट और पोटैशियम आयोडाइड आयनों का आदान-प्रदान करके लेड आयोडाइड का पीला अवक्षेप बनाते हैं: यह द्विविस्थापन अभिक्रिया है।"
+      },
+      "safety": [
+        {
+          "en": "Lead compounds are poisonous: wear goggles, keep the solution off your skin and wash your hands afterwards.",
+          "hi": "लेड के यौगिक विषैले हैं: चश्मा पहनें, विलयन को त्वचा से दूर रखें और बाद में हाथ धोएँ।"
+        },
+        {
+          "en": "Dispose of the mixture as your teacher tells you, not down the sink.",
+          "hi": "मिश्रण को सिंक में नहीं, बल्कि शिक्षक के बताए अनुसार फेंकें।"
+        },
+        {
+          "en": "Do the real experiment only under your teacher's supervision.",
+          "hi": "वास्तविक प्रयोग केवल अपने शिक्षक की देखरेख में करें।"
+        }
+      ],
+      "simulationLimits": [
+        {
+          "en": "The virtual lab uses a beaker and approximate amounts.",
+          "hi": "वर्चुअल लैब बीकर और अनुमानित मात्राओं का उपयोग करती है।"
+        },
+        {
+          "en": "Use it to prepare, not as a replacement for a real experiment.",
+          "hi": "इसका उपयोग तैयारी के लिए करें, वास्तविक प्रयोग के स्थान पर नहीं।"
+        }
+      ],
+      "viva": [
+        {
+          "question": {
+            "en": "What do you observe when potassium iodide solution is added to lead nitrate solution?",
+            "hi": "लेड नाइट्रेट विलयन में पोटैशियम आयोडाइड विलयन डालने पर क्या दिखता है?"
+          },
+          "answer": {
+            "en": "A yellow precipitate of lead iodide forms.",
+            "hi": "लेड आयोडाइड का पीला अवक्षेप बनता है।"
+          }
+        },
+        {
+          "question": {
+            "en": "What type of reaction is it?",
+            "hi": "यह किस प्रकार की अभिक्रिया है?"
+          },
+          "answer": {
+            "en": "Double displacement (precipitation).",
+            "hi": "द्विविस्थापन (अवक्षेपण)।"
+          }
+        },
+        {
+          "question": {
+            "en": "How many moles of KI react with one mole of lead nitrate?",
+            "hi": "लेड नाइट्रेट के एक मोल से KI के कितने मोल अभिक्रिया करते हैं?"
+          },
+          "answer": {
+            "en": "Two: Pb(NO₃)₂ + 2KI → PbI₂ + 2KNO₃.",
+            "hi": "दो: Pb(NO₃)₂ + 2KI → PbI₂ + 2KNO₃।"
+          }
+        },
+        {
+          "question": {
+            "en": "What precaution is needed with lead compounds?",
+            "hi": "लेड यौगिकों के साथ कौन-सी सावधानी आवश्यक है?"
+          },
+          "answer": {
+            "en": "Lead compounds are poisonous: avoid contact, do not pour them down the sink, and wash hands after the experiment.",
+            "hi": "लेड यौगिक विषैले होते हैं: संपर्क से बचें, इन्हें सिंक में न बहाएँ, और प्रयोग के बाद हाथ धोएँ।"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "1.2.4; Activity 1.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "rx-zinc-sulphuric-acid",
+      "aim": {
+        "en": "To study the reaction of zinc with dilute sulphuric acid and test the gas given off.",
+        "hi": "तनु सल्फ़्यूरिक अम्ल के साथ ज़िंक की अभिक्रिया का अध्ययन करना और निकलने वाली गैस का परीक्षण करना।"
+      },
+      "equation": "Zn(s) + H₂SO₄(aq) → ZnSO₄(aq) + H₂(g)",
+      "apparatus": [
+        {
+          "name": {
+            "en": "Test tube in a stand, with a cork and delivery tube",
+            "hi": "कॉर्क और निकास नली सहित स्टैंड में परखनली"
+          }
+        },
+        {
+          "name": {
+            "en": "Beaker of soap solution",
+            "hi": "साबुन के विलयन वाला बीकर"
+          }
+        },
+        {
+          "name": {
+            "en": "Candle",
+            "hi": "मोमबत्ती"
+          }
+        }
+      ],
+      "chemicals": [
+        {
+          "name": {
+            "en": "Dilute sulphuric acid",
+            "hi": "तनु सल्फ़्यूरिक अम्ल"
+          },
+          "formula": "H₂SO₄",
+          "quantity": {
+            "en": "About 5 mL",
+            "hi": "लगभग 5 mL"
+          },
+          "hazard": {
+            "en": "Corrosive — avoid contact with skin and eyes.",
+            "hi": "संक्षारक — त्वचा और आँखों के संपर्क से बचें।"
+          }
+        },
+        {
+          "name": {
+            "en": "Zinc granules",
+            "hi": "ज़िंक के दाने"
+          },
+          "formula": "Zn",
+          "quantity": {
+            "en": "A few pieces",
+            "hi": "कुछ टुकड़े"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "instruction": {
+            "en": "With your teacher's help, take about 5 mL of dilute sulphuric acid in a test tube and add a few zinc granules.",
+            "hi": "शिक्षक की सहायता से परखनली में लगभग 5 mL तनु सल्फ़्यूरिक अम्ल लें और कुछ ज़िंक के दाने डालें।"
+          },
+          "observation": {
+            "en": "Bubbles of gas form on the surface of the zinc.",
+            "hi": "ज़िंक की सतह पर गैस के बुलबुले बनते हैं।"
+          },
+          "explanation": {
+            "en": "Zinc displaces hydrogen from the acid, forming a salt (zinc sulphate) and hydrogen gas.",
+            "hi": "ज़िंक अम्ल से हाइड्रोजन को विस्थापित करता है, जिससे लवण (ज़िंक सल्फ़ेट) और हाइड्रोजन गैस बनते हैं।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Pass the gas through soap solution.",
+            "hi": "गैस को साबुन के विलयन में से गुज़ारें।"
+          },
+          "observation": {
+            "en": "Gas-filled soap bubbles form.",
+            "hi": "गैस से भरे साबुन के बुलबुले बनते हैं।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Your teacher brings a burning candle near a gas-filled bubble.",
+            "hi": "शिक्षक जलती मोमबत्ती को गैस से भरे बुलबुले के पास लाते हैं।"
+          },
+          "observation": {
+            "en": "The gas burns with a pop sound.",
+            "hi": "गैस 'पॉप' की ध्वनि के साथ जलती है।"
+          },
+          "explanation": {
+            "en": "Burning with a pop is the usual school test for hydrogen.",
+            "hi": "'पॉप' ध्वनि के साथ जलना हाइड्रोजन का सामान्य विद्यालयी परीक्षण है।"
+          }
+        }
+      ],
+      "result": {
+        "en": "Zinc reacts with dilute sulphuric acid to give zinc sulphate and hydrogen gas: acid + metal → salt + hydrogen.",
+        "hi": "ज़िंक तनु सल्फ़्यूरिक अम्ल से अभिक्रिया करके ज़िंक सल्फ़ेट और हाइड्रोजन गैस देता है: अम्ल + धातु → लवण + हाइड्रोजन।"
+      },
+      "safety": [
+        {
+          "en": "NCERT marks this activity as needing the teacher's assistance.",
+          "hi": "NCERT के अनुसार इस गतिविधि में शिक्षक की सहायता आवश्यक है।"
+        },
+        {
+          "en": "Wear safety goggles; the acid is corrosive.",
+          "hi": "सुरक्षा चश्मा पहनें; अम्ल संक्षारक है।"
+        },
+        {
+          "en": "Hydrogen is flammable: keep flames away, except for the test done by your teacher.",
+          "hi": "हाइड्रोजन ज्वलनशील है: शिक्षक द्वारा किए जाने वाले परीक्षण के अलावा लपटें दूर रखें।"
+        }
+      ],
+      "simulationLimits": [
+        {
+          "en": "The soap-bubble and burning-candle test are not simulated; the virtual lab shows only the bubbles of gas.",
+          "hi": "साबुन के बुलबुले और जलती मोमबत्ती वाला परीक्षण वर्चुअल लैब में नहीं है; यह केवल गैस के बुलबुले दिखाती है।"
+        },
+        {
+          "en": "Amounts are approximate. Use it to prepare, not as a replacement for a real experiment.",
+          "hi": "मात्राएँ अनुमानित हैं। इसका उपयोग तैयारी के लिए करें, वास्तविक प्रयोग के स्थान पर नहीं।"
+        }
+      ],
+      "viva": [
+        {
+          "question": {
+            "en": "Which gas is given off, and how is it tested?",
+            "hi": "कौन-सी गैस निकलती है, और उसका परीक्षण कैसे किया जाता है?"
+          },
+          "answer": {
+            "en": "Hydrogen. It burns with a pop sound when a burning splinter is brought near it.",
+            "hi": "हाइड्रोजन। जलती तीली पास लाने पर यह \"पॉप\" ध्वनि के साथ जलती है।"
+          }
+        },
+        {
+          "question": {
+            "en": "Name the salt formed.",
+            "hi": "बनने वाले लवण का नाम बताइए।"
+          },
+          "answer": {
+            "en": "Zinc sulphate, ZnSO₄.",
+            "hi": "ज़िंक सल्फ़ेट, ZnSO₄।"
+          }
+        },
+        {
+          "question": {
+            "en": "Why does zinc give hydrogen with dilute sulphuric acid?",
+            "hi": "ज़िंक तनु सल्फ़्यूरिक अम्ल के साथ हाइड्रोजन क्यों देता है?"
+          },
+          "answer": {
+            "en": "Zinc is more reactive than hydrogen, so it displaces hydrogen from the acid.",
+            "hi": "ज़िंक हाइड्रोजन से अधिक अभिक्रियाशील है, इसलिए वह अम्ल से हाइड्रोजन को विस्थापित करता है।"
+          }
+        },
+        {
+          "question": {
+            "en": "Would copper give hydrogen with dilute sulphuric acid?",
+            "hi": "क्या कॉपर तनु सल्फ़्यूरिक अम्ल के साथ हाइड्रोजन देगा?"
+          },
+          "answer": {
+            "en": "No. Copper is less reactive than hydrogen, so it cannot displace hydrogen from dilute acids.",
+            "hi": "नहीं। कॉपर हाइड्रोजन से कम अभिक्रियाशील है, इसलिए वह तनु अम्लों से हाइड्रोजन विस्थापित नहीं कर सकता।"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "2.1.2, Activity 2.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "rx-zinc-sodium-hydroxide",
+      "aim": {
+        "en": "To study the reaction of zinc with sodium hydroxide solution.",
+        "hi": "सोडियम हाइड्रॉक्साइड विलयन के साथ ज़िंक की अभिक्रिया का अध्ययन करना।"
+      },
+      "equation": "2NaOH(aq) + Zn(s) → Na₂ZnO₂(aq) + H₂(g)",
+      "apparatus": [
+        {
+          "name": {
+            "en": "Test tube with a cork and delivery tube",
+            "hi": "कॉर्क और निकास नली सहित परखनली"
+          }
+        },
+        {
+          "name": {
+            "en": "Test-tube holder",
+            "hi": "परखनली होल्डर"
+          }
+        },
+        {
+          "name": {
+            "en": "Burner or spirit lamp",
+            "hi": "बर्नर या स्पिरिट लैंप"
+          }
+        },
+        {
+          "name": {
+            "en": "Beaker of soap solution and a candle",
+            "hi": "साबुन के विलयन वाला बीकर और मोमबत्ती"
+          }
+        }
+      ],
+      "chemicals": [
+        {
+          "name": {
+            "en": "Granulated zinc",
+            "hi": "दानेदार ज़िंक"
+          },
+          "formula": "Zn",
+          "quantity": {
+            "en": "A few pieces",
+            "hi": "कुछ टुकड़े"
+          }
+        },
+        {
+          "name": {
+            "en": "Sodium hydroxide solution",
+            "hi": "सोडियम हाइड्रॉक्साइड विलयन"
+          },
+          "formula": "NaOH",
+          "quantity": {
+            "en": "About 2 mL",
+            "hi": "लगभग 2 mL"
+          },
+          "hazard": {
+            "en": "Caustic — it can burn the skin and is especially harmful to the eyes.",
+            "hi": "दाहक — त्वचा को जला सकता है और आँखों के लिए विशेष रूप से हानिकारक है।"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "instruction": {
+            "en": "Place a few pieces of granulated zinc in a test tube and add about 2 mL of sodium hydroxide solution.",
+            "hi": "परखनली में दानेदार ज़िंक के कुछ टुकड़े रखें और लगभग 2 mL सोडियम हाइड्रॉक्साइड विलयन डालें।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Warm the contents gently, holding the tube with a holder and pointing it away from everyone.",
+            "hi": "परखनली को होल्डर से पकड़कर और उसका मुँह सबसे दूर रखकर सामग्री को धीरे से गरम करें।"
+          },
+          "observation": {
+            "en": "Bubbles of gas are given off.",
+            "hi": "गैस के बुलबुले निकलते हैं।"
+          },
+          "explanation": {
+            "en": "Zinc reacts with sodium hydroxide to form sodium zincate and hydrogen gas.",
+            "hi": "ज़िंक सोडियम हाइड्रॉक्साइड से अभिक्रिया करके सोडियम ज़िंकेट और हाइड्रोजन गैस बनाता है।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Test the gas as in the zinc–sulphuric acid activity (soap bubbles and a burning candle, done by your teacher).",
+            "hi": "गैस का परीक्षण ज़िंक–सल्फ़्यूरिक अम्ल गतिविधि की तरह करें (साबुन के बुलबुले और जलती मोमबत्ती, शिक्षक द्वारा)।"
+          },
+          "observation": {
+            "en": "The gas burns with a pop sound: it is hydrogen.",
+            "hi": "गैस 'पॉप' की ध्वनि के साथ जलती है: यह हाइड्रोजन है।"
+          }
+        }
+      ],
+      "result": {
+        "en": "Zinc reacts with sodium hydroxide to give sodium zincate and hydrogen gas. Not all metals react with bases in this way.",
+        "hi": "ज़िंक सोडियम हाइड्रॉक्साइड से अभिक्रिया करके सोडियम ज़िंकेट और हाइड्रोजन गैस देता है। सभी धातुएँ क्षारकों से इस प्रकार अभिक्रिया नहीं करतीं।"
+      },
+      "safety": [
+        {
+          "en": "Wear safety goggles: hot alkali is especially dangerous to the eyes.",
+          "hi": "सुरक्षा चश्मा पहनें: गरम क्षार आँखों के लिए विशेष रूप से ख़तरनाक है।"
+        },
+        {
+          "en": "Warm gently and point the tube away from yourself and others.",
+          "hi": "धीरे से गरम करें और नली का मुँह अपनी और दूसरों की ओर न रखें।"
+        },
+        {
+          "en": "Hydrogen is flammable: keep flames away from the gas, except for the test done by your teacher.",
+          "hi": "हाइड्रोजन ज्वलनशील है: शिक्षक द्वारा किए जाने वाले परीक्षण के अलावा गैस को लपटों से दूर रखें।"
+        }
+      ],
+      "simulationLimits": [
+        {
+          "en": "The gas test is not simulated, and amounts are approximate.",
+          "hi": "गैस का परीक्षण वर्चुअल लैब में नहीं है, और मात्राएँ अनुमानित हैं।"
+        },
+        {
+          "en": "Use it to prepare, not as a replacement for a real experiment.",
+          "hi": "इसका उपयोग तैयारी के लिए करें, वास्तविक प्रयोग के स्थान पर नहीं।"
+        }
+      ],
+      "viva": [
+        {
+          "question": {
+            "en": "Which gas is formed when zinc reacts with sodium hydroxide solution?",
+            "hi": "ज़िंक के सोडियम हाइड्रॉक्साइड विलयन से अभिक्रिया करने पर कौन-सी गैस बनती है?"
+          },
+          "answer": {
+            "en": "Hydrogen, which burns with a pop sound.",
+            "hi": "हाइड्रोजन, जो \"पॉप\" ध्वनि के साथ जलती है।"
+          }
+        },
+        {
+          "question": {
+            "en": "Name the salt formed.",
+            "hi": "बनने वाले लवण का नाम बताइए।"
+          },
+          "answer": {
+            "en": "Sodium zincate, Na₂ZnO₂.",
+            "hi": "सोडियम ज़िंकेट, Na₂ZnO₂।"
+          }
+        },
+        {
+          "question": {
+            "en": "What does this experiment, together with zinc and acid, show about zinc?",
+            "hi": "यह प्रयोग, ज़िंक और अम्ल वाले प्रयोग के साथ, ज़िंक के बारे में क्या दर्शाता है?"
+          },
+          "answer": {
+            "en": "Zinc reacts with both acids and strong bases, giving hydrogen in each case.",
+            "hi": "ज़िंक अम्लों और प्रबल क्षारकों दोनों से अभिक्रिया करता है, और दोनों में हाइड्रोजन देता है।"
+          }
+        },
+        {
+          "question": {
+            "en": "Do all metals react with sodium hydroxide?",
+            "hi": "क्या सभी धातुएँ सोडियम हाइड्रॉक्साइड से अभिक्रिया करती हैं?"
+          },
+          "answer": {
+            "en": "No. Only some metals, such as zinc and aluminium, react with bases.",
+            "hi": "नहीं। केवल कुछ धातुएँ, जैसे ज़िंक और ऐलुमिनियम, क्षारकों से अभिक्रिया करती हैं।"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "2.1.2, Activity 2.4"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "rx-sodium-carbonate-acid",
+      "aim": {
+        "en": "To study the reaction of sodium carbonate with dilute hydrochloric acid and test the gas given off.",
+        "hi": "तनु हाइड्रोक्लोरिक अम्ल के साथ सोडियम कार्बोनेट की अभिक्रिया का अध्ययन करना और निकलने वाली गैस का परीक्षण करना।"
+      },
+      "equation": "Na₂CO₃(s) + 2HCl(aq) → 2NaCl(aq) + H₂O(l) + CO₂(g)",
+      "apparatus": [
+        {
+          "name": {
+            "en": "Test tube with a cork and delivery tube",
+            "hi": "कॉर्क और निकास नली सहित परखनली"
+          }
+        },
+        {
+          "name": {
+            "en": "Second test tube containing lime water",
+            "hi": "चूने के पानी वाली दूसरी परखनली"
+          }
+        },
+        {
+          "name": {
+            "en": "Test-tube stand and spatula",
+            "hi": "परखनली स्टैंड और स्पैचुला"
+          }
+        }
+      ],
+      "chemicals": [
+        {
+          "name": {
+            "en": "Sodium carbonate",
+            "hi": "सोडियम कार्बोनेट"
+          },
+          "formula": "Na₂CO₃",
+          "quantity": {
+            "en": "About 0.5 g",
+            "hi": "लगभग 0.5 g"
+          }
+        },
+        {
+          "name": {
+            "en": "Dilute hydrochloric acid",
+            "hi": "तनु हाइड्रोक्लोरिक अम्ल"
+          },
+          "formula": "HCl",
+          "quantity": {
+            "en": "About 2 mL",
+            "hi": "लगभग 2 mL"
+          },
+          "hazard": {
+            "en": "Corrosive — avoid contact with skin and eyes.",
+            "hi": "संक्षारक — त्वचा और आँखों के संपर्क से बचें।"
+          }
+        },
+        {
+          "name": {
+            "en": "Lime water (calcium hydroxide solution)",
+            "hi": "चूने का पानी (कैल्सियम हाइड्रॉक्साइड विलयन)"
+          },
+          "formula": "Ca(OH)₂",
+          "quantity": {
+            "en": "Enough to cover the end of the delivery tube",
+            "hi": "इतना कि निकास नली का सिरा डूब जाए"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "instruction": {
+            "en": "Take about 0.5 g of sodium carbonate in a test tube.",
+            "hi": "परखनली में लगभग 0.5 g सोडियम कार्बोनेट लें।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Add about 2 mL of dilute hydrochloric acid and fit the cork with the delivery tube.",
+            "hi": "लगभग 2 mL तनु हाइड्रोक्लोरिक अम्ल डालें और निकास नली वाला कॉर्क लगाएँ।"
+          },
+          "observation": {
+            "en": "Brisk effervescence: a colourless gas is given off.",
+            "hi": "तेज़ बुदबुदाहट: एक रंगहीन गैस निकलती है।"
+          },
+          "explanation": {
+            "en": "Acids react with metal carbonates to give a salt, water and carbon dioxide.",
+            "hi": "अम्ल धातु कार्बोनेटों से अभिक्रिया करके लवण, जल और कार्बन डाइऑक्साइड देते हैं।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Pass the gas through lime water.",
+            "hi": "गैस को चूने के पानी में से गुज़ारें।"
+          },
+          "observation": {
+            "en": "The lime water turns milky.",
+            "hi": "चूने का पानी दूधिया हो जाता है।"
+          },
+          "explanation": {
+            "en": "Carbon dioxide reacts with lime water to form insoluble white calcium carbonate: Ca(OH)₂ + CO₂ → CaCO₃ + H₂O.",
+            "hi": "कार्बन डाइऑक्साइड चूने के पानी से अभिक्रिया करके अविलेय सफ़ेद कैल्सियम कार्बोनेट बनाती है: Ca(OH)₂ + CO₂ → CaCO₃ + H₂O।"
+          }
+        }
+      ],
+      "result": {
+        "en": "Sodium carbonate reacts with dilute hydrochloric acid to give sodium chloride, water and carbon dioxide; the gas turns lime water milky.",
+        "hi": "सोडियम कार्बोनेट तनु हाइड्रोक्लोरिक अम्ल से अभिक्रिया करके सोडियम क्लोराइड, जल और कार्बन डाइऑक्साइड देता है; गैस चूने के पानी को दूधिया कर देती है।"
+      },
+      "safety": [
+        {
+          "en": "Wear safety goggles; the acid is corrosive.",
+          "hi": "सुरक्षा चश्मा पहनें; अम्ल संक्षारक है।"
+        },
+        {
+          "en": "Add the acid slowly — the fizzing can push liquid out of the tube.",
+          "hi": "अम्ल धीरे-धीरे डालें — बुदबुदाहट से द्रव नली से बाहर आ सकता है।"
+        },
+        {
+          "en": "Do the real experiment only under your teacher's supervision.",
+          "hi": "वास्तविक प्रयोग केवल अपने शिक्षक की देखरेख में करें।"
+        }
+      ],
+      "simulationLimits": [
+        {
+          "en": "The lime-water test is not simulated, and the virtual lab uses more acid than the real activity.",
+          "hi": "चूने के पानी वाला परीक्षण वर्चुअल लैब में नहीं है, और वर्चुअल लैब वास्तविक गतिविधि से अधिक अम्ल का उपयोग करती है।"
+        },
+        {
+          "en": "Use it to prepare, not as a replacement for a real experiment.",
+          "hi": "इसका उपयोग तैयारी के लिए करें, वास्तविक प्रयोग के स्थान पर नहीं।"
+        }
+      ],
+      "viva": [
+        {
+          "question": {
+            "en": "Which gas is formed, and how is it tested?",
+            "hi": "कौन-सी गैस बनती है, और उसका परीक्षण कैसे किया जाता है?"
+          },
+          "answer": {
+            "en": "Carbon dioxide. Passed through lime water, it turns the lime water milky.",
+            "hi": "कार्बन डाइऑक्साइड। चूने के पानी में प्रवाहित करने पर यह उसे दूधिया कर देती है।"
+          }
+        },
+        {
+          "question": {
+            "en": "Why does lime water turn milky?",
+            "hi": "चूने का पानी दूधिया क्यों हो जाता है?"
+          },
+          "answer": {
+            "en": "Insoluble calcium carbonate forms: Ca(OH)₂ + CO₂ → CaCO₃ + H₂O.",
+            "hi": "अविलेय कैल्सियम कार्बोनेट बनता है: Ca(OH)₂ + CO₂ → CaCO₃ + H₂O।"
+          }
+        },
+        {
+          "question": {
+            "en": "What happens if excess carbon dioxide is passed?",
+            "hi": "अधिक कार्बन डाइऑक्साइड प्रवाहित करने पर क्या होता है?"
+          },
+          "answer": {
+            "en": "The milkiness disappears, because soluble calcium hydrogencarbonate, Ca(HCO₃)₂, forms.",
+            "hi": "दूधियापन समाप्त हो जाता है, क्योंकि विलेय कैल्सियम हाइड्रोजनकार्बोनेट Ca(HCO₃)₂ बनता है।"
+          }
+        },
+        {
+          "question": {
+            "en": "What are the general products when a metal carbonate reacts with an acid?",
+            "hi": "धातु कार्बोनेट के अम्ल से अभिक्रिया करने पर सामान्यतः कौन-से उत्पाद बनते हैं?"
+          },
+          "answer": {
+            "en": "A salt, water and carbon dioxide.",
+            "hi": "लवण, जल और कार्बन डाइऑक्साइड।"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "2.1.3, Activity 2.5"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "rx-baking-soda-acid",
+      "aim": {
+        "en": "To study the reaction of sodium hydrogencarbonate (baking soda) with dilute hydrochloric acid and test the gas given off.",
+        "hi": "तनु हाइड्रोक्लोरिक अम्ल के साथ सोडियम हाइड्रोजनकार्बोनेट (खाने का सोडा) की अभिक्रिया का अध्ययन करना और निकलने वाली गैस का परीक्षण करना।"
+      },
+      "equation": "NaHCO₃(s) + HCl(aq) → NaCl(aq) + H₂O(l) + CO₂(g)",
+      "apparatus": [
+        {
+          "name": {
+            "en": "Test tube with a cork and delivery tube",
+            "hi": "कॉर्क और निकास नली सहित परखनली"
+          }
+        },
+        {
+          "name": {
+            "en": "Second test tube containing lime water",
+            "hi": "चूने के पानी वाली दूसरी परखनली"
+          }
+        },
+        {
+          "name": {
+            "en": "Test-tube stand and spatula",
+            "hi": "परखनली स्टैंड और स्पैचुला"
+          }
+        }
+      ],
+      "chemicals": [
+        {
+          "name": {
+            "en": "Sodium hydrogencarbonate (baking soda)",
+            "hi": "सोडियम हाइड्रोजनकार्बोनेट (खाने का सोडा)"
+          },
+          "formula": "NaHCO₃",
+          "quantity": {
+            "en": "About 0.5 g",
+            "hi": "लगभग 0.5 g"
+          }
+        },
+        {
+          "name": {
+            "en": "Dilute hydrochloric acid",
+            "hi": "तनु हाइड्रोक्लोरिक अम्ल"
+          },
+          "formula": "HCl",
+          "quantity": {
+            "en": "About 2 mL",
+            "hi": "लगभग 2 mL"
+          },
+          "hazard": {
+            "en": "Corrosive — avoid contact with skin and eyes.",
+            "hi": "संक्षारक — त्वचा और आँखों के संपर्क से बचें।"
+          }
+        },
+        {
+          "name": {
+            "en": "Lime water (calcium hydroxide solution)",
+            "hi": "चूने का पानी (कैल्सियम हाइड्रॉक्साइड विलयन)"
+          },
+          "formula": "Ca(OH)₂",
+          "quantity": {
+            "en": "Enough to cover the end of the delivery tube",
+            "hi": "इतना कि निकास नली का सिरा डूब जाए"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "instruction": {
+            "en": "Take about 0.5 g of sodium hydrogencarbonate in a test tube.",
+            "hi": "परखनली में लगभग 0.5 g सोडियम हाइड्रोजनकार्बोनेट लें।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Add about 2 mL of dilute hydrochloric acid and fit the cork with the delivery tube.",
+            "hi": "लगभग 2 mL तनु हाइड्रोक्लोरिक अम्ल डालें और निकास नली वाला कॉर्क लगाएँ।"
+          },
+          "observation": {
+            "en": "Brisk effervescence: a colourless gas is given off.",
+            "hi": "तेज़ बुदबुदाहट: एक रंगहीन गैस निकलती है।"
+          },
+          "explanation": {
+            "en": "Acids react with metal hydrogencarbonates to give a salt, water and carbon dioxide.",
+            "hi": "अम्ल धातु हाइड्रोजनकार्बोनेटों से अभिक्रिया करके लवण, जल और कार्बन डाइऑक्साइड देते हैं।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Pass the gas through lime water.",
+            "hi": "गैस को चूने के पानी में से गुज़ारें।"
+          },
+          "observation": {
+            "en": "The lime water turns milky.",
+            "hi": "चूने का पानी दूधिया हो जाता है।"
+          },
+          "explanation": {
+            "en": "Carbon dioxide forms insoluble white calcium carbonate with lime water.",
+            "hi": "कार्बन डाइऑक्साइड चूने के पानी के साथ अविलेय सफ़ेद कैल्सियम कार्बोनेट बनाती है।"
+          }
+        }
+      ],
+      "result": {
+        "en": "Baking soda reacts with dilute hydrochloric acid to give sodium chloride, water and carbon dioxide. Because it neutralises acid, baking soda is used in antacids.",
+        "hi": "खाने का सोडा तनु हाइड्रोक्लोरिक अम्ल से अभिक्रिया करके सोडियम क्लोराइड, जल और कार्बन डाइऑक्साइड देता है। अम्ल को उदासीन करने के कारण खाने के सोडे का उपयोग ऐंटैसिड में होता है।"
+      },
+      "safety": [
+        {
+          "en": "Wear safety goggles; the acid is corrosive.",
+          "hi": "सुरक्षा चश्मा पहनें; अम्ल संक्षारक है।"
+        },
+        {
+          "en": "Add the acid slowly — the fizzing can push liquid out of the tube.",
+          "hi": "अम्ल धीरे-धीरे डालें — बुदबुदाहट से द्रव नली से बाहर आ सकता है।"
+        },
+        {
+          "en": "Do the real experiment only under your teacher's supervision.",
+          "hi": "वास्तविक प्रयोग केवल अपने शिक्षक की देखरेख में करें।"
+        }
+      ],
+      "simulationLimits": [
+        {
+          "en": "The lime-water test is not simulated, and the virtual lab uses more acid than the real activity.",
+          "hi": "चूने के पानी वाला परीक्षण वर्चुअल लैब में नहीं है, और वर्चुअल लैब वास्तविक गतिविधि से अधिक अम्ल का उपयोग करती है।"
+        },
+        {
+          "en": "Use it to prepare, not as a replacement for a real experiment.",
+          "hi": "इसका उपयोग तैयारी के लिए करें, वास्तविक प्रयोग के स्थान पर नहीं।"
+        }
+      ],
+      "viva": [
+        {
+          "question": {
+            "en": "What is the chemical name and formula of baking soda?",
+            "hi": "बेकिंग सोडा का रासायनिक नाम और सूत्र क्या है?"
+          },
+          "answer": {
+            "en": "Sodium hydrogencarbonate, NaHCO₃.",
+            "hi": "सोडियम हाइड्रोजनकार्बोनेट, NaHCO₃।"
+          }
+        },
+        {
+          "question": {
+            "en": "Which gas is given off, and how is it identified?",
+            "hi": "कौन-सी गैस निकलती है, और उसकी पहचान कैसे होती है?"
+          },
+          "answer": {
+            "en": "Carbon dioxide; it turns lime water milky.",
+            "hi": "कार्बन डाइऑक्साइड; यह चूने के पानी को दूधिया कर देती है।"
+          }
+        },
+        {
+          "question": {
+            "en": "Why is baking soda used as an antacid?",
+            "hi": "बेकिंग सोडा को प्रति-अम्ल के रूप में क्यों उपयोग किया जाता है?"
+          },
+          "answer": {
+            "en": "It is mildly basic and neutralises excess acid in the stomach.",
+            "hi": "यह हल्का क्षारीय है और आमाशय के अतिरिक्त अम्ल को उदासीन करता है।"
+          }
+        },
+        {
+          "question": {
+            "en": "Why does baking powder make a cake soft and spongy?",
+            "hi": "बेकिंग पाउडर केक को नरम और स्पंजी क्यों बनाता है?"
+          },
+          "answer": {
+            "en": "Baking powder is baking soda mixed with a mild edible acid such as tartaric acid. On heating with water they react and give carbon dioxide, which makes the dough rise.",
+            "hi": "बेकिंग पाउडर बेकिंग सोडा और टार्टरिक अम्ल जैसे हल्के खाद्य अम्ल का मिश्रण है। जल के साथ गरम करने पर ये अभिक्रिया करके कार्बन डाइऑक्साइड देते हैं, जिससे गुँधा आटा फूल जाता है।"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "2.1.3, Activity 2.5 (test tube B); 2.4.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "rx-magnesium-acid",
+      "aim": {
+        "en": "To study the reaction of magnesium with dilute hydrochloric acid.",
+        "hi": "तनु हाइड्रोक्लोरिक अम्ल के साथ मैग्नीशियम की अभिक्रिया का अध्ययन करना।"
+      },
+      "equation": "Mg + 2HCl → MgCl₂ + H₂",
+      "apparatus": [
+        {
+          "name": {
+            "en": "Test tube in a stand",
+            "hi": "स्टैंड में परखनली"
+          }
+        },
+        {
+          "name": {
+            "en": "Sandpaper",
+            "hi": "रेगमाल"
+          }
+        },
+        {
+          "name": {
+            "en": "Thermometer",
+            "hi": "तापमापी"
+          }
+        }
+      ],
+      "chemicals": [
+        {
+          "name": {
+            "en": "Magnesium ribbon",
+            "hi": "मैग्नीशियम फीता"
+          },
+          "formula": "Mg",
+          "quantity": {
+            "en": "A short clean piece",
+            "hi": "एक छोटा साफ़ टुकड़ा"
+          },
+          "hazard": {
+            "en": "Burns with a very bright flame — keep it away from flames.",
+            "hi": "बहुत चमकीली लौ के साथ जलता है — इसे लपटों से दूर रखें।"
+          }
+        },
+        {
+          "name": {
+            "en": "Dilute hydrochloric acid",
+            "hi": "तनु हाइड्रोक्लोरिक अम्ल"
+          },
+          "formula": "HCl",
+          "quantity": {
+            "en": "Enough to cover the ribbon",
+            "hi": "इतना कि फीता डूब जाए"
+          },
+          "hazard": {
+            "en": "Corrosive — avoid contact with skin and eyes.",
+            "hi": "संक्षारक — त्वचा और आँखों के संपर्क से बचें।"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "instruction": {
+            "en": "Rub the magnesium ribbon clean with sandpaper.",
+            "hi": "मैग्नीशियम फीते को रेगमाल से रगड़कर साफ़ करें।"
+          },
+          "explanation": {
+            "en": "This removes the layer of oxide on the surface so that the metal itself reacts.",
+            "hi": "इससे सतह पर ऑक्साइड की परत हट जाती है ताकि धातु स्वयं अभिक्रिया करे।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Put the ribbon in a test tube of dilute hydrochloric acid and suspend a thermometer with its bulb in the acid.",
+            "hi": "फीते को तनु हाइड्रोक्लोरिक अम्ल वाली परखनली में डालें और तापमापी को इस प्रकार लटकाएँ कि उसका बल्ब अम्ल में डूबा रहे।"
+          },
+          "observation": {
+            "en": "Bubbles form very quickly and the temperature rises.",
+            "hi": "बहुत तेज़ी से बुलबुले बनते हैं और ताप बढ़ता है।"
+          },
+          "explanation": {
+            "en": "Magnesium displaces hydrogen from the acid. Of magnesium, aluminium, zinc and iron, magnesium reacts fastest and gives out the most heat.",
+            "hi": "मैग्नीशियम अम्ल से हाइड्रोजन को विस्थापित करता है। मैग्नीशियम, ऐलुमिनियम, ज़िंक और लोहे में मैग्नीशियम सबसे तेज़ अभिक्रिया करता है और सबसे अधिक ऊष्मा देता है।"
+          }
+        }
+      ],
+      "result": {
+        "en": "Magnesium reacts with dilute hydrochloric acid to give magnesium chloride and hydrogen. The reaction is fast and exothermic; reactivity with dilute acids decreases in the order Mg > Al > Zn > Fe.",
+        "hi": "मैग्नीशियम तनु हाइड्रोक्लोरिक अम्ल से अभिक्रिया करके मैग्नीशियम क्लोराइड और हाइड्रोजन देता है। अभिक्रिया तेज़ और ऊष्माक्षेपी है; तनु अम्लों के साथ अभिक्रियाशीलता का घटता क्रम Mg > Al > Zn > Fe है।"
+      },
+      "safety": [
+        {
+          "en": "Wear safety goggles; the acid is corrosive.",
+          "hi": "सुरक्षा चश्मा पहनें; अम्ल संक्षारक है।"
+        },
+        {
+          "en": "Hydrogen is flammable: keep flames away from the tube.",
+          "hi": "हाइड्रोजन ज्वलनशील है: परखनली से लपटें दूर रखें।"
+        },
+        {
+          "en": "Do the real experiment only under your teacher's supervision.",
+          "hi": "वास्तविक प्रयोग केवल अपने शिक्षक की देखरेख में करें।"
+        }
+      ],
+      "simulationLimits": [
+        {
+          "en": "The virtual lab shows the warming with an icon; there is no thermometer reading.",
+          "hi": "वर्चुअल लैब गरम होने को एक चिह्न से दिखाती है; इसमें तापमापी का पाठ्यांक नहीं है।"
+        },
+        {
+          "en": "Amounts are approximate. Use it to prepare, not as a replacement for a real experiment.",
+          "hi": "मात्राएँ अनुमानित हैं। इसका उपयोग तैयारी के लिए करें, वास्तविक प्रयोग के स्थान पर नहीं।"
+        }
+      ],
+      "viva": [
+        {
+          "question": {
+            "en": "Which gas is formed, and how is it tested?",
+            "hi": "कौन-सी गैस बनती है, और उसका परीक्षण कैसे किया जाता है?"
+          },
+          "answer": {
+            "en": "Hydrogen; it burns with a pop sound near a burning splinter.",
+            "hi": "हाइड्रोजन; जलती तीली के पास यह \"पॉप\" ध्वनि के साथ जलती है।"
+          }
+        },
+        {
+          "question": {
+            "en": "Why is the magnesium ribbon cleaned with sandpaper first?",
+            "hi": "मैग्नीशियम रिबन को पहले रेगमाल से क्यों साफ़ किया जाता है?"
+          },
+          "answer": {
+            "en": "To remove the layer of magnesium oxide on its surface, which slows the reaction.",
+            "hi": "उसकी सतह पर बनी मैग्नीशियम ऑक्साइड की परत हटाने के लिए, जो अभिक्रिया को धीमा करती है।"
+          }
+        },
+        {
+          "question": {
+            "en": "Why does the test tube become warm?",
+            "hi": "परखनली गरम क्यों हो जाती है?"
+          },
+          "answer": {
+            "en": "The reaction is exothermic: it releases heat.",
+            "hi": "अभिक्रिया ऊष्माक्षेपी है: इसमें ऊष्मा निकलती है।"
+          }
+        },
+        {
+          "question": {
+            "en": "Name the salt formed.",
+            "hi": "बनने वाले लवण का नाम बताइए।"
+          },
+          "answer": {
+            "en": "Magnesium chloride, MgCl₂.",
+            "hi": "मैग्नीशियम क्लोराइड, MgCl₂।"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "3.2.3, Activity 3.11"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "rx-ethanoic-acid-baking-soda",
+      "aim": {
+        "en": "To study the reaction of ethanoic acid with sodium hydrogencarbonate and test the gas given off.",
+        "hi": "सोडियम हाइड्रोजनकार्बोनेट के साथ एथेनॉइक अम्ल की अभिक्रिया का अध्ययन करना और निकलने वाली गैस का परीक्षण करना।"
+      },
+      "equation": "CH₃COOH + NaHCO₃ → CH₃COONa + H₂O + CO₂",
+      "apparatus": [
+        {
+          "name": {
+            "en": "Test tube with a cork and delivery tube",
+            "hi": "कॉर्क और निकास नली सहित परखनली"
+          }
+        },
+        {
+          "name": {
+            "en": "Second test tube containing freshly prepared lime water",
+            "hi": "ताज़ा बने चूने के पानी वाली दूसरी परखनली"
+          }
+        },
+        {
+          "name": {
+            "en": "Spatula",
+            "hi": "स्पैचुला"
+          }
+        }
+      ],
+      "chemicals": [
+        {
+          "name": {
+            "en": "Sodium hydrogencarbonate",
+            "hi": "सोडियम हाइड्रोजनकार्बोनेट"
+          },
+          "formula": "NaHCO₃",
+          "quantity": {
+            "en": "A spatula-full",
+            "hi": "एक स्पैचुला भर"
+          }
+        },
+        {
+          "name": {
+            "en": "Dilute ethanoic acid",
+            "hi": "तनु एथेनॉइक अम्ल"
+          },
+          "formula": "CH₃COOH",
+          "quantity": {
+            "en": "About 2 mL",
+            "hi": "लगभग 2 mL"
+          },
+          "hazard": {
+            "en": "Strong smell — waft it gently towards your nose, never sniff directly.",
+            "hi": "तेज़ गंध — हाथ से हल्की हवा करके सूँघें, सीधे कभी नहीं।"
+          }
+        },
+        {
+          "name": {
+            "en": "Lime water",
+            "hi": "चूने का पानी"
+          },
+          "formula": "Ca(OH)₂",
+          "quantity": {
+            "en": "Freshly prepared, enough to cover the end of the delivery tube",
+            "hi": "ताज़ा बना हुआ, इतना कि निकास नली का सिरा डूब जाए"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "instruction": {
+            "en": "Take a spatula-full of sodium hydrogencarbonate in a test tube and add about 2 mL of dilute ethanoic acid.",
+            "hi": "परखनली में एक स्पैचुला भर सोडियम हाइड्रोजनकार्बोनेट लें और लगभग 2 mL तनु एथेनॉइक अम्ल डालें।"
+          },
+          "observation": {
+            "en": "Brisk effervescence: a colourless gas is given off.",
+            "hi": "तेज़ बुदबुदाहट: एक रंगहीन गैस निकलती है।"
+          },
+          "explanation": {
+            "en": "Ethanoic acid reacts with hydrogencarbonates, like other acids, to give a salt (sodium ethanoate), water and carbon dioxide.",
+            "hi": "अन्य अम्लों की तरह एथेनॉइक अम्ल हाइड्रोजनकार्बोनेटों से अभिक्रिया करके लवण (सोडियम एथेनॉएट), जल और कार्बन डाइऑक्साइड देता है।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Pass the gas through freshly prepared lime water.",
+            "hi": "गैस को ताज़ा बने चूने के पानी में से गुज़ारें।"
+          },
+          "observation": {
+            "en": "The lime water turns milky: the gas is carbon dioxide.",
+            "hi": "चूने का पानी दूधिया हो जाता है: यह गैस कार्बन डाइऑक्साइड है।"
+          }
+        }
+      ],
+      "result": {
+        "en": "Ethanoic acid reacts with sodium hydrogencarbonate to give sodium ethanoate (sodium acetate), water and carbon dioxide. NCERT's activity is done first with sodium carbonate and then repeated with sodium hydrogencarbonate.",
+        "hi": "एथेनॉइक अम्ल सोडियम हाइड्रोजनकार्बोनेट से अभिक्रिया करके सोडियम एथेनॉएट (सोडियम ऐसीटेट), जल और कार्बन डाइऑक्साइड देता है। NCERT की गतिविधि पहले सोडियम कार्बोनेट से की जाती है और फिर सोडियम हाइड्रोजनकार्बोनेट से दोहराई जाती है।"
+      },
+      "safety": [
+        {
+          "en": "Wear safety goggles.",
+          "hi": "सुरक्षा चश्मा पहनें।"
+        },
+        {
+          "en": "Never sniff ethanoic acid directly; waft the smell gently.",
+          "hi": "एथेनॉइक अम्ल को कभी सीधे न सूँघें; गंध को हल्की हवा करके सूँघें।"
+        },
+        {
+          "en": "Do the real experiment only under your teacher's supervision.",
+          "hi": "वास्तविक प्रयोग केवल अपने शिक्षक की देखरेख में करें।"
+        }
+      ],
+      "simulationLimits": [
+        {
+          "en": "The lime-water test is not simulated, and amounts are approximate.",
+          "hi": "चूने के पानी वाला परीक्षण वर्चुअल लैब में नहीं है, और मात्राएँ अनुमानित हैं।"
+        },
+        {
+          "en": "Use it to prepare, not as a replacement for a real experiment.",
+          "hi": "इसका उपयोग तैयारी के लिए करें, वास्तविक प्रयोग के स्थान पर नहीं।"
+        }
+      ],
+      "viva": [
+        {
+          "question": {
+            "en": "Which gas is evolved, and how is it tested?",
+            "hi": "कौन-सी गैस निकलती है, और उसका परीक्षण कैसे किया जाता है?"
+          },
+          "answer": {
+            "en": "Carbon dioxide; it turns lime water milky.",
+            "hi": "कार्बन डाइऑक्साइड; यह चूने के पानी को दूधिया कर देती है।"
+          }
+        },
+        {
+          "question": {
+            "en": "Name the salt formed.",
+            "hi": "बनने वाले लवण का नाम बताइए।"
+          },
+          "answer": {
+            "en": "Sodium ethanoate (sodium acetate), CH₃COONa.",
+            "hi": "सोडियम एथेनोएट (सोडियम ऐसीटेट), CH₃COONa।"
+          }
+        },
+        {
+          "question": {
+            "en": "What is vinegar?",
+            "hi": "सिरका क्या है?"
+          },
+          "answer": {
+            "en": "A 5–8% solution of ethanoic acid (acetic acid) in water.",
+            "hi": "जल में एथेनॉइक अम्ल (ऐसीटिक अम्ल) का 5–8% विलयन।"
+          }
+        },
+        {
+          "question": {
+            "en": "Why is pure ethanoic acid called glacial acetic acid?",
+            "hi": "शुद्ध एथेनॉइक अम्ल को ग्लेशियल ऐसीटिक अम्ल क्यों कहते हैं?"
+          },
+          "answer": {
+            "en": "Its melting point is 290 K, so it often freezes in cold weather and looks like ice.",
+            "hi": "इसका गलनांक 290 K है, इसलिए यह ठंडे मौसम में प्रायः जम जाता है और बर्फ़ जैसा दिखता है।"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "4.4.2, Activity 4.9"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "hcl_sodium_carbonate_titration",
+      "aim": {
+        "en": "To find the concentration of hydrochloric acid by titrating it against a standard solution of sodium carbonate, using methyl orange as the indicator.",
+        "hi": "मेथिल ऑरेंज सूचक का उपयोग करके, सोडियम कार्बोनेट के मानक विलयन के विरुद्ध अनुमापन द्वारा हाइड्रोक्लोरिक अम्ल की सांद्रता ज्ञात करना।"
+      },
+      "equation": "Na₂CO₃(aq) + 2HCl(aq) → 2NaCl(aq) + H₂O(l) + CO₂(g)",
+      "apparatus": [
+        {
+          "name": {
+            "en": "Burette (50 mL) with a stand and clamp",
+            "hi": "स्टैंड और क्लैंप सहित ब्यूरेट (50 mL)"
+          }
+        },
+        {
+          "name": {
+            "en": "Pipette (10 mL) with a pipette filler (rubber bulb)",
+            "hi": "पिपेट फ़िलर (रबर बल्ब) सहित पिपेट (10 mL)"
+          }
+        },
+        {
+          "name": {
+            "en": "Conical flask (100 mL)",
+            "hi": "शंक्वाकार फ़्लास्क (100 mL)"
+          }
+        },
+        {
+          "name": {
+            "en": "Small funnel for filling the burette",
+            "hi": "ब्यूरेट भरने के लिए छोटी कीप"
+          }
+        },
+        {
+          "name": {
+            "en": "White tile",
+            "hi": "सफ़ेद टाइल"
+          }
+        },
+        {
+          "name": {
+            "en": "Wash bottle with distilled water",
+            "hi": "आसुत जल वाली वॉश बोतल"
+          }
+        }
+      ],
+      "chemicals": [
+        {
+          "name": {
+            "en": "Standard sodium carbonate solution",
+            "hi": "मानक सोडियम कार्बोनेट विलयन"
+          },
+          "formula": "Na₂CO₃",
+          "quantity": {
+            "en": "About 50 mL of 0.05 M solution",
+            "hi": "0.05 M विलयन का लगभग 50 mL"
+          },
+          "hazard": {
+            "en": "Irritates the eyes — wear goggles.",
+            "hi": "आँखों में जलन करता है — चश्मा पहनें।"
+          }
+        },
+        {
+          "name": {
+            "en": "Hydrochloric acid of unknown concentration",
+            "hi": "अज्ञात सांद्रता वाला हाइड्रोक्लोरिक अम्ल"
+          },
+          "formula": "HCl",
+          "quantity": {
+            "en": "About 50 mL (roughly 0.1 M)",
+            "hi": "लगभग 50 mL (लगभग 0.1 M)"
+          },
+          "hazard": {
+            "en": "Corrosive — avoid contact with skin and eyes.",
+            "hi": "संक्षारक — त्वचा और आँखों के संपर्क से बचें।"
+          }
+        },
+        {
+          "name": {
+            "en": "Methyl orange indicator",
+            "hi": "मेथिल ऑरेंज सूचक"
+          },
+          "quantity": {
+            "en": "1–2 drops for each titration",
+            "hi": "प्रत्येक अनुमापन के लिए 1–2 बूँदें"
+          },
+          "hazard": {
+            "en": "Poisonous if swallowed.",
+            "hi": "निगलने पर विषैला।"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "instruction": {
+            "en": "Rinse the burette with a little of the HCl, fill it using the funnel, remove the funnel, clear any air bubble from the tip and note the initial reading.",
+            "hi": "ब्यूरेट को थोड़े HCl से धोएँ, कीप से भरें, कीप हटा दें, नोक से हवा का बुलबुला निकालें और प्रारंभिक पाठ्यांक नोट करें।"
+          },
+          "explanation": {
+            "en": "Rinsing with the solution itself keeps its concentration unchanged.",
+            "hi": "उसी विलयन से धोने पर उसकी सांद्रता नहीं बदलती।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Rinse the pipette with the sodium carbonate solution, then use the pipette filler to transfer exactly 10.0 mL of it into a conical flask rinsed only with distilled water.",
+            "hi": "पिपेट को सोडियम कार्बोनेट विलयन से धोएँ, फिर पिपेट फ़िलर से उसका ठीक 10.0 mL ऐसे शंक्वाकार फ़्लास्क में डालें जिसे केवल आसुत जल से धोया गया हो।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Add 1–2 drops of methyl orange.",
+            "hi": "मेथिल ऑरेंज की 1–2 बूँदें डालें।"
+          },
+          "observation": {
+            "en": "The solution turns yellow.",
+            "hi": "विलयन पीला हो जाता है।"
+          },
+          "explanation": {
+            "en": "Methyl orange is yellow in a basic solution; sodium carbonate solution is basic.",
+            "hi": "मेथिल ऑरेंज क्षारकीय विलयन में पीला होता है; सोडियम कार्बोनेट विलयन क्षारकीय है।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Place the flask on the white tile and run in the HCl while swirling. Near the end, add it drop by drop.",
+            "hi": "फ़्लास्क को सफ़ेद टाइल पर रखें और घुमाते हुए HCl डालें। अंत के निकट बूँद-बूँद करके डालें।"
+          },
+          "observation": {
+            "en": "Where the acid falls the colour turns orange-red for a moment and returns to yellow on swirling.",
+            "hi": "जहाँ अम्ल गिरता है वहाँ रंग क्षण भर नारंगी-लाल होता है और घुमाने पर फिर पीला हो जाता है।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Stop when one drop changes the yellow to orange-red (onion pink) that stays on swirling. Note the final reading.",
+            "hi": "जब एक बूँद से पीला रंग नारंगी-लाल (प्याज़ी गुलाबी) हो जाए और घुमाने पर भी बना रहे, तब रुक जाएँ। अंतिम पाठ्यांक नोट करें।"
+          },
+          "observation": {
+            "en": "Yellow changes to orange-red: this is the end point.",
+            "hi": "पीला रंग नारंगी-लाल हो जाता है: यही अंत्य बिंदु है।"
+          },
+          "explanation": {
+            "en": "All the carbonate has reacted (to NaCl, water and CO₂), so the next drop of acid makes the solution acidic and the indicator changes colour.",
+            "hi": "सारा कार्बोनेट (NaCl, जल और CO₂ में) अभिक्रिया कर चुका है, इसलिए अम्ल की अगली बूँद विलयन को अम्लीय बना देती है और सूचक का रंग बदल जाता है।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Repeat until you get readings that agree (concordant readings). Then calculate: c(HCl) = 2 × c(Na₂CO₃) × V(Na₂CO₃) ÷ V(HCl).",
+            "hi": "मेल खाने वाले पाठ्यांक (संगत पाठ्यांक) मिलने तक दोहराएँ। फिर परिकलन करें: c(HCl) = 2 × c(Na₂CO₃) × V(Na₂CO₃) ÷ V(HCl)।"
+          },
+          "explanation": {
+            "en": "One mole of sodium carbonate reacts with two moles of HCl. For example, if 10.0 mL of 0.05 M sodium carbonate needs 10.0 mL of HCl, the HCl is 2 × 0.05 × 10.0 ÷ 10.0 = 0.1 M.",
+            "hi": "सोडियम कार्बोनेट का एक मोल HCl के दो मोल से अभिक्रिया करता है। उदाहरण: यदि 0.05 M सोडियम कार्बोनेट के 10.0 mL के लिए 10.0 mL HCl लगे, तो HCl = 2 × 0.05 × 10.0 ÷ 10.0 = 0.1 M।"
+          }
+        }
+      ],
+      "result": {
+        "en": "At the end point all the sodium carbonate has reacted: Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂. Because of the 1 : 2 mole ratio, the volume of HCl used gives its concentration.",
+        "hi": "अंत्य बिंदु पर सारा सोडियम कार्बोनेट अभिक्रिया कर चुका होता है: Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂। 1 : 2 मोल अनुपात के कारण प्रयुक्त HCl के आयतन से उसकी सांद्रता ज्ञात होती है।"
+      },
+      "safety": [
+        {
+          "en": "Wear safety goggles and a lab coat.",
+          "hi": "सुरक्षा चश्मा और लैब कोट पहनें।"
+        },
+        {
+          "en": "Never suck a pipette by mouth — always use a pipette filler.",
+          "hi": "पिपेट को कभी मुँह से न खींचें — सदैव पिपेट फ़िलर का उपयोग करें।"
+        },
+        {
+          "en": "Fill the burette with its top below eye level so that no acid can splash into your eyes.",
+          "hi": "ब्यूरेट भरते समय उसका ऊपरी सिरा आँखों के स्तर से नीचे रखें ताकि अम्ल छलककर आँखों में न जाए।"
+        },
+        {
+          "en": "Wash any splash on skin or eyes at once with plenty of running water and tell your teacher.",
+          "hi": "त्वचा या आँखों पर छींटा पड़ने पर तुरंत बहुत सारे बहते जल से धोएँ और अपने शिक्षक को बताएँ।"
+        },
+        {
+          "en": "Do the real experiment only under your teacher's supervision.",
+          "hi": "वास्तविक प्रयोग केवल अपने शिक्षक की देखरेख में करें।"
+        }
+      ],
+      "simulationLimits": [
+        {
+          "en": "This lab covers only the HCl–sodium carbonate titration. Weighing sodium carbonate and making the standard solution are not simulated.",
+          "hi": "यह लैब केवल HCl–सोडियम कार्बोनेट अनुमापन दिखाती है। सोडियम कार्बोनेट तौलना और मानक विलयन बनाना इसमें नहीं हैं।"
+        },
+        {
+          "en": "The burette is run with buttons in 1.0 mL and 0.1 mL portions; a real burette can add single drops of about 0.05 mL. The flask is drawn as a beaker.",
+          "hi": "ब्यूरेट को बटनों से 1.0 mL और 0.1 mL के भागों में चलाया जाता है; असली ब्यूरेट से लगभग 0.05 mL की एक-एक बूँद डाली जा सकती है। फ़्लास्क को बीकर के रूप में दिखाया गया है।"
+        },
+        {
+          "en": "The HCl concentration is fixed in the simulation, so the end point is always at the same reading. In a real lab readings vary slightly, which is why you repeat for concordant readings.",
+          "hi": "सिमुलेशन में HCl की सांद्रता निश्चित है, इसलिए अंत्य बिंदु सदैव एक ही पाठ्यांक पर आता है। वास्तविक लैब में पाठ्यांक थोड़े बदलते हैं, इसलिए संगत पाठ्यांकों के लिए अनुमापन दोहराया जाता है।"
+        },
+        {
+          "en": "Rinsing, filling the burette and reading the meniscus are hand skills you can only practise in a real lab.",
+          "hi": "धोना, ब्यूरेट भरना और मेनिस्कस पढ़ना हाथ के कौशल हैं जिनका अभ्यास केवल वास्तविक लैब में हो सकता है।"
+        }
+      ],
+      "viva": [
+        {
+          "question": {
+            "en": "Why is methyl orange used here instead of phenolphthalein?",
+            "hi": "यहाँ फ़ीनॉल्फ़्थेलिन के स्थान पर मेथिल ऑरेंज का उपयोग क्यों किया जाता है?"
+          },
+          "answer": {
+            "en": "Phenolphthalein changes colour when the carbonate has only been converted to hydrogencarbonate (half-way). Methyl orange changes colour when neutralisation is complete.",
+            "hi": "फ़ीनॉल्फ़्थेलिन का रंग तब बदलता है जब कार्बोनेट केवल हाइड्रोजनकार्बोनेट में बदला होता है (आधे रास्ते पर)। मेथिल ऑरेंज का रंग उदासीनीकरण पूरा होने पर बदलता है।"
+          }
+        },
+        {
+          "question": {
+            "en": "What colour change marks the end point?",
+            "hi": "अंत्य बिंदु पर कौन-सा रंग परिवर्तन होता है?"
+          },
+          "answer": {
+            "en": "Yellow to orange-red (the first permanent change from yellow).",
+            "hi": "पीले से नारंगी-लाल (पीले से पहला स्थायी परिवर्तन)।"
+          }
+        },
+        {
+          "question": {
+            "en": "Why is anhydrous sodium carbonate suitable as a primary standard?",
+            "hi": "निर्जल सोडियम कार्बोनेट प्राथमिक मानक के रूप में उपयुक्त क्यों है?"
+          },
+          "answer": {
+            "en": "It can be obtained pure and is stable, so after drying it can be weighed accurately to make a solution of known concentration.",
+            "hi": "यह शुद्ध रूप में मिल सकता है और स्थायी है, इसलिए सुखाने के बाद इसे सही-सही तौलकर ज्ञात सांद्रता का विलयन बनाया जा सकता है।"
+          }
+        },
+        {
+          "question": {
+            "en": "In what mole ratio do Na₂CO₃ and HCl react?",
+            "hi": "Na₂CO₃ और HCl किस मोल अनुपात में अभिक्रिया करते हैं?"
+          },
+          "answer": {
+            "en": "1 : 2, from Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂.",
+            "hi": "1 : 2, Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂ के अनुसार।"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "cbse-chem-11-12",
+          "section": "Class XI practical E"
+        },
+        {
+          "sourceId": "ncert-10-en",
+          "section": "2.1.3 (carbonates with acids)"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "kmno4_oxalic_titration",
+      "aim": {
+        "en": "To find the molarity of a potassium permanganate solution by titrating it against a standard solution of oxalic acid.",
+        "hi": "ऑक्सैलिक अम्ल के मानक विलयन के विरुद्ध अनुमापन द्वारा पोटैशियम परमैंगनेट विलयन की मोलरता ज्ञात करना।"
+      },
+      "equation": "5C₂O₄²⁻ + 2MnO₄⁻ + 16H⁺ → 2Mn²⁺ + 8H₂O + 10CO₂",
+      "apparatus": [
+        {
+          "name": {
+            "en": "Burette (50 mL) with a stand and clamp",
+            "hi": "स्टैंड और क्लैंप सहित ब्यूरेट (50 mL)"
+          }
+        },
+        {
+          "name": {
+            "en": "Pipette (10 mL) with a pipette filler (rubber bulb)",
+            "hi": "पिपेट फ़िलर (रबर बल्ब) सहित पिपेट (10 mL)"
+          }
+        },
+        {
+          "name": {
+            "en": "Conical flask (100 mL)",
+            "hi": "शंक्वाकार फ़्लास्क (100 mL)"
+          }
+        },
+        {
+          "name": {
+            "en": "Small funnel for filling the burette",
+            "hi": "ब्यूरेट भरने के लिए छोटी कीप"
+          }
+        },
+        {
+          "name": {
+            "en": "White tile",
+            "hi": "सफ़ेद टाइल"
+          }
+        },
+        {
+          "name": {
+            "en": "Wash bottle with distilled water",
+            "hi": "आसुत जल वाली वॉश बोतल"
+          }
+        },
+        {
+          "name": {
+            "en": "Burner, tripod stand and wire gauze (or a hot water bath)",
+            "hi": "बर्नर, तिपाई स्टैंड और तार की जाली (या गरम जल-ऊष्मक)"
+          }
+        },
+        {
+          "name": {
+            "en": "Measuring cylinder or test tube for the acid",
+            "hi": "अम्ल के लिए मापक बेलन या परखनली"
+          }
+        }
+      ],
+      "chemicals": [
+        {
+          "name": {
+            "en": "Standard oxalic acid solution",
+            "hi": "मानक ऑक्सैलिक अम्ल विलयन"
+          },
+          "formula": "H₂C₂O₄",
+          "quantity": {
+            "en": "About 50 mL of 0.05 M solution",
+            "hi": "0.05 M विलयन का लगभग 50 mL"
+          },
+          "hazard": {
+            "en": "Harmful if swallowed and irritates the skin — never taste it.",
+            "hi": "निगलने पर हानिकारक और त्वचा में जलन करता है — कभी न चखें।"
+          }
+        },
+        {
+          "name": {
+            "en": "Potassium permanganate solution of unknown molarity",
+            "hi": "अज्ञात मोलरता वाला पोटैशियम परमैंगनेट विलयन"
+          },
+          "formula": "KMnO₄",
+          "quantity": {
+            "en": "About 50 mL (roughly 0.02 M)",
+            "hi": "लगभग 50 mL (लगभग 0.02 M)"
+          },
+          "hazard": {
+            "en": "Strong oxidiser that stains skin and clothes brown.",
+            "hi": "प्रबल ऑक्सीकारक जो त्वचा और कपड़ों पर भूरे दाग छोड़ता है।"
+          }
+        },
+        {
+          "name": {
+            "en": "Dilute sulphuric acid",
+            "hi": "तनु सल्फ़्यूरिक अम्ल"
+          },
+          "formula": "H₂SO₄",
+          "quantity": {
+            "en": "About 10 mL (one test tube) for each titration",
+            "hi": "प्रत्येक अनुमापन के लिए लगभग 10 mL (एक परखनली)"
+          },
+          "hazard": {
+            "en": "Corrosive — avoid contact with skin and eyes.",
+            "hi": "संक्षारक — त्वचा और आँखों के संपर्क से बचें।"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "instruction": {
+            "en": "Rinse the burette with the KMnO₄ solution, fill it and note the initial reading. KMnO₄ is dark, so read the upper edge of the meniscus.",
+            "hi": "ब्यूरेट को KMnO₄ विलयन से धोएँ, भरें और प्रारंभिक पाठ्यांक नोट करें। KMnO₄ गहरे रंग का है, इसलिए मेनिस्कस का ऊपरी किनारा पढ़ें।"
+          },
+          "explanation": {
+            "en": "The lower meniscus of a dark purple solution cannot be seen clearly.",
+            "hi": "गहरे बैंगनी विलयन का निचला मेनिस्कस साफ़ नहीं दिखता।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Pipette exactly 10.0 mL of the oxalic acid solution into a clean conical flask and add about 10 mL (one test tube) of dilute sulphuric acid.",
+            "hi": "एक साफ़ शंक्वाकार फ़्लास्क में ऑक्सैलिक अम्ल विलयन का ठीक 10.0 mL पिपेट से डालें और लगभग 10 mL (एक परखनली) तनु सल्फ़्यूरिक अम्ल डालें।"
+          },
+          "explanation": {
+            "en": "Permanganate is reduced to colourless Mn²⁺ only in acidic solution; dilute sulphuric acid supplies the H⁺ ions.",
+            "hi": "परमैंगनेट केवल अम्लीय विलयन में रंगहीन Mn²⁺ में अपचयित होता है; तनु सल्फ़्यूरिक अम्ल H⁺ आयन देता है।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Warm the flask to about 60–70 °C.",
+            "hi": "फ़्लास्क को लगभग 60–70 °C तक गरम करें।"
+          },
+          "explanation": {
+            "en": "The reaction between oxalate and permanganate is slow at room temperature.",
+            "hi": "कमरे के ताप पर ऑक्सैलेट और परमैंगनेट के बीच अभिक्रिया धीमी होती है।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Run in the KMnO₄ while swirling the hot flask on the white tile.",
+            "hi": "सफ़ेद टाइल पर गरम फ़्लास्क को घुमाते हुए KMnO₄ डालें।"
+          },
+          "observation": {
+            "en": "The purple colour of each portion disappears. The first few drops decolourise slowly; then the colour goes quickly.",
+            "hi": "प्रत्येक भाग का बैंगनी रंग गायब हो जाता है। पहली कुछ बूँदें धीरे रंगहीन होती हैं; फिर रंग जल्दी जाता है।"
+          },
+          "explanation": {
+            "en": "The Mn²⁺ ions formed speed up the reaction (autocatalysis).",
+            "hi": "बने हुए Mn²⁺ आयन अभिक्रिया को तेज़ करते हैं (स्वउत्प्रेरण)।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Stop when one drop gives a light pink colour that stays on swirling. Note the final reading.",
+            "hi": "जब एक बूँद से हल्का गुलाबी रंग आए और घुमाने पर भी बना रहे, तब रुक जाएँ। अंतिम पाठ्यांक नोट करें।"
+          },
+          "observation": {
+            "en": "A permanent light pink colour: the end point.",
+            "hi": "स्थायी हल्का गुलाबी रंग: यही अंत्य बिंदु है।"
+          },
+          "explanation": {
+            "en": "All the oxalate has been oxidised, so the next drop of KMnO₄ stays unreacted and colours the solution. KMnO₄ is its own indicator.",
+            "hi": "सारा ऑक्सैलेट ऑक्सीकृत हो चुका है, इसलिए KMnO₄ की अगली बूँद अभिक्रिया किए बिना विलयन को रंग देती है। KMnO₄ स्वयं सूचक है।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Repeat for concordant readings, then calculate: c(KMnO₄) = (2/5) × c(oxalic acid) × V(oxalic acid) ÷ V(KMnO₄).",
+            "hi": "संगत पाठ्यांक मिलने तक दोहराएँ, फिर परिकलन करें: c(KMnO₄) = (2/5) × c(ऑक्सैलिक अम्ल) × V(ऑक्सैलिक अम्ल) ÷ V(KMnO₄)।"
+          },
+          "explanation": {
+            "en": "Two moles of MnO₄⁻ react with five moles of oxalate. For example, if 10.0 mL of 0.05 M oxalic acid needs 10.0 mL of KMnO₄, then c(KMnO₄) = (2/5) × 0.05 × 10.0 ÷ 10.0 = 0.02 M.",
+            "hi": "MnO₄⁻ के दो मोल ऑक्सैलेट के पाँच मोल से अभिक्रिया करते हैं। उदाहरण: यदि 0.05 M ऑक्सैलिक अम्ल के 10.0 mL के लिए 10.0 mL KMnO₄ लगे, तो c(KMnO₄) = (2/5) × 0.05 × 10.0 ÷ 10.0 = 0.02 M।"
+          }
+        }
+      ],
+      "result": {
+        "en": "At the end point all the oxalate has been oxidised by permanganate: 5C₂O₄²⁻ + 2MnO₄⁻ + 16H⁺ → 2Mn²⁺ + 8H₂O + 10CO₂. The 2 : 5 mole ratio gives the molarity of KMnO₄.",
+        "hi": "अंत्य बिंदु पर सारा ऑक्सैलेट परमैंगनेट द्वारा ऑक्सीकृत हो चुका होता है: 5C₂O₄²⁻ + 2MnO₄⁻ + 16H⁺ → 2Mn²⁺ + 8H₂O + 10CO₂। 2 : 5 मोल अनुपात से KMnO₄ की मोलरता ज्ञात होती है।"
+      },
+      "safety": [
+        {
+          "en": "Wear safety goggles and a lab coat.",
+          "hi": "सुरक्षा चश्मा और लैब कोट पहनें।"
+        },
+        {
+          "en": "Never suck a pipette by mouth — always use a pipette filler.",
+          "hi": "पिपेट को कभी मुँह से न खींचें — सदैव पिपेट फ़िलर का उपयोग करें।"
+        },
+        {
+          "en": "Hold the hot flask with tongs or a cloth, and keep the burner away from your sleeves and papers.",
+          "hi": "गरम फ़्लास्क को चिमटे या कपड़े से पकड़ें, और बर्नर को आस्तीन और कागज़ों से दूर रखें।"
+        },
+        {
+          "en": "Use dilute sulphuric acid, never hydrochloric acid: permanganate oxidises chloride to poisonous chlorine.",
+          "hi": "तनु सल्फ़्यूरिक अम्ल का उपयोग करें, हाइड्रोक्लोरिक अम्ल का कभी नहीं: परमैंगनेट क्लोराइड को विषैली क्लोरीन में ऑक्सीकृत करता है।"
+        },
+        {
+          "en": "Wash any splash on skin or eyes at once with plenty of running water and tell your teacher.",
+          "hi": "त्वचा या आँखों पर छींटा पड़ने पर तुरंत बहुत सारे बहते जल से धोएँ और अपने शिक्षक को बताएँ।"
+        },
+        {
+          "en": "Do the real experiment only under your teacher's supervision.",
+          "hi": "वास्तविक प्रयोग केवल अपने शिक्षक की देखरेख में करें।"
+        }
+      ],
+      "simulationLimits": [
+        {
+          "en": "This lab covers only the titration against oxalic acid. Weighing oxalic acid and making the standard solution are not simulated.",
+          "hi": "यह लैब केवल ऑक्सैलिक अम्ल के विरुद्ध अनुमापन दिखाती है। ऑक्सैलिक अम्ल तौलना और मानक विलयन बनाना इसमें नहीं हैं।"
+        },
+        {
+          "en": "Warming is shown by a flame icon; the app does not measure or control the temperature.",
+          "hi": "गरम करना लौ के चिह्न से दिखाया गया है; ऐप ताप को न मापता है न नियंत्रित करता है।"
+        },
+        {
+          "en": "The burette is run with buttons in 1.0 mL and 0.1 mL portions; a real burette can add single drops of about 0.05 mL. The flask is drawn as a beaker.",
+          "hi": "ब्यूरेट को बटनों से 1.0 mL और 0.1 mL के भागों में चलाया जाता है; असली ब्यूरेट से लगभग 0.05 mL की एक-एक बूँद डाली जा सकती है। फ़्लास्क को बीकर के रूप में दिखाया गया है।"
+        },
+        {
+          "en": "The KMnO₄ concentration is fixed in the simulation, so the end point is always at the same reading. In a real lab readings vary slightly, which is why you repeat for concordant readings.",
+          "hi": "सिमुलेशन में KMnO₄ की सांद्रता निश्चित है, इसलिए अंत्य बिंदु सदैव एक ही पाठ्यांक पर आता है। वास्तविक लैब में पाठ्यांक थोड़े बदलते हैं, इसलिए संगत पाठ्यांकों के लिए अनुमापन दोहराया जाता है।"
+        },
+        {
+          "en": "Rinsing, filling the burette and reading the meniscus are hand skills you can only practise in a real lab.",
+          "hi": "धोना, ब्यूरेट भरना और मेनिस्कस पढ़ना हाथ के कौशल हैं जिनका अभ्यास केवल वास्तविक लैब में हो सकता है।"
+        }
+      ],
+      "viva": [
+        {
+          "question": {
+            "en": "Why is no separate indicator used in KMnO₄ titrations?",
+            "hi": "KMnO₄ अनुमापन में अलग सूचक का उपयोग क्यों नहीं किया जाता?"
+          },
+          "answer": {
+            "en": "KMnO₄ is a self-indicator. Its purple MnO₄⁻ ions are reduced to almost colourless Mn²⁺, so the first permanent light pink shows the end point.",
+            "hi": "KMnO₄ स्व-सूचक है। इसके बैंगनी MnO₄⁻ आयन लगभग रंगहीन Mn²⁺ में अपचयित होते हैं, इसलिए पहला स्थायी हल्का गुलाबी रंग अंत्य बिंदु दर्शाता है।"
+          }
+        },
+        {
+          "question": {
+            "en": "Why is the oxalic acid solution warmed before titration?",
+            "hi": "अनुमापन से पहले ऑक्सैलिक अम्ल विलयन को गरम क्यों किया जाता है?"
+          },
+          "answer": {
+            "en": "The reaction is slow at room temperature; warming (to about 50–60 °C) makes it fast enough. It is not boiled, as oxalic acid would decompose.",
+            "hi": "कमरे के ताप पर अभिक्रिया धीमी होती है; गरम करने (लगभग 50–60 °C तक) से यह पर्याप्त तेज़ हो जाती है। इसे उबाला नहीं जाता, क्योंकि ऑक्सैलिक अम्ल अपघटित हो जाएगा।"
+          }
+        },
+        {
+          "question": {
+            "en": "Why is dilute sulphuric acid used for acidifying, and not hydrochloric acid?",
+            "hi": "अम्लीकरण के लिए तनु सल्फ़्यूरिक अम्ल का उपयोग क्यों किया जाता है, हाइड्रोक्लोरिक अम्ल का क्यों नहीं?"
+          },
+          "answer": {
+            "en": "KMnO₄ would oxidise the chloride ions of HCl to chlorine, so part of the KMnO₄ would be used up and the reading would be wrong.",
+            "hi": "KMnO₄ HCl के क्लोराइड आयनों को क्लोरीन में ऑक्सीकृत कर देगा, इसलिए KMnO₄ का कुछ भाग व्यर्थ होगा और पाठ्यांक गलत आएगा।"
+          }
+        },
+        {
+          "question": {
+            "en": "Why is the colour of the first few drops of KMnO₄ discharged slowly, and later quickly?",
+            "hi": "KMnO₄ की पहली कुछ बूँदों का रंग धीरे-धीरे और बाद की बूँदों का रंग जल्दी क्यों उड़ता है?"
+          },
+          "answer": {
+            "en": "The Mn²⁺ ions formed act as a catalyst for the reaction (autocatalysis).",
+            "hi": "बनने वाले Mn²⁺ आयन अभिक्रिया के लिए उत्प्रेरक का कार्य करते हैं (स्व-उत्प्रेरण)।"
+          }
+        },
+        {
+          "question": {
+            "en": "Why is the upper meniscus read for KMnO₄ in the burette?",
+            "hi": "ब्यूरेट में KMnO₄ के लिए ऊपरी नवचंद्रक क्यों पढ़ा जाता है?"
+          },
+          "answer": {
+            "en": "The solution is so dark that the lower meniscus cannot be seen clearly.",
+            "hi": "विलयन इतना गहरा होता है कि निचला नवचंद्रक स्पष्ट नहीं दिखता।"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "cbse-chem-11-12",
+          "section": "Class XII practical J"
+        },
+        {
+          "sourceId": "ncert-12-en",
+          "section": "4.4 (potassium permanganate)"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "kmno4_mohr_salt_titration",
+      "aim": {
+        "en": "To find the molarity of a potassium permanganate solution by titrating it against a standard solution of ferrous ammonium sulphate (Mohr's salt).",
+        "hi": "फ़ेरस अमोनियम सल्फ़ेट (मोर लवण) के मानक विलयन के विरुद्ध अनुमापन द्वारा पोटैशियम परमैंगनेट विलयन की मोलरता ज्ञात करना।"
+      },
+      "equation": "MnO₄⁻ + 5Fe²⁺ + 8H⁺ → Mn²⁺ + 5Fe³⁺ + 4H₂O",
+      "apparatus": [
+        {
+          "name": {
+            "en": "Burette (50 mL) with a stand and clamp",
+            "hi": "स्टैंड और क्लैंप सहित ब्यूरेट (50 mL)"
+          }
+        },
+        {
+          "name": {
+            "en": "Pipette (10 mL) with a pipette filler (rubber bulb)",
+            "hi": "पिपेट फ़िलर (रबर बल्ब) सहित पिपेट (10 mL)"
+          }
+        },
+        {
+          "name": {
+            "en": "Conical flask (100 mL)",
+            "hi": "शंक्वाकार फ़्लास्क (100 mL)"
+          }
+        },
+        {
+          "name": {
+            "en": "Small funnel for filling the burette",
+            "hi": "ब्यूरेट भरने के लिए छोटी कीप"
+          }
+        },
+        {
+          "name": {
+            "en": "White tile",
+            "hi": "सफ़ेद टाइल"
+          }
+        },
+        {
+          "name": {
+            "en": "Wash bottle with distilled water",
+            "hi": "आसुत जल वाली वॉश बोतल"
+          }
+        },
+        {
+          "name": {
+            "en": "Measuring cylinder or test tube for the acid",
+            "hi": "अम्ल के लिए मापक बेलन या परखनली"
+          }
+        }
+      ],
+      "chemicals": [
+        {
+          "name": {
+            "en": "Standard Mohr's salt solution",
+            "hi": "मानक मोर लवण विलयन"
+          },
+          "formula": "FeSO₄·(NH₄)₂SO₄·6H₂O",
+          "quantity": {
+            "en": "About 50 mL of 0.1 M solution",
+            "hi": "0.1 M विलयन का लगभग 50 mL"
+          },
+          "hazard": {
+            "en": "Harmful if swallowed — wash your hands after use.",
+            "hi": "निगलने पर हानिकारक — उपयोग के बाद हाथ धोएँ।"
+          }
+        },
+        {
+          "name": {
+            "en": "Potassium permanganate solution of unknown molarity",
+            "hi": "अज्ञात मोलरता वाला पोटैशियम परमैंगनेट विलयन"
+          },
+          "formula": "KMnO₄",
+          "quantity": {
+            "en": "About 50 mL (roughly 0.02 M)",
+            "hi": "लगभग 50 mL (लगभग 0.02 M)"
+          },
+          "hazard": {
+            "en": "Strong oxidiser that stains skin and clothes brown.",
+            "hi": "प्रबल ऑक्सीकारक जो त्वचा और कपड़ों पर भूरे दाग छोड़ता है।"
+          }
+        },
+        {
+          "name": {
+            "en": "Dilute sulphuric acid",
+            "hi": "तनु सल्फ़्यूरिक अम्ल"
+          },
+          "formula": "H₂SO₄",
+          "quantity": {
+            "en": "About 10 mL (one test tube) for each titration",
+            "hi": "प्रत्येक अनुमापन के लिए लगभग 10 mL (एक परखनली)"
+          },
+          "hazard": {
+            "en": "Corrosive — avoid contact with skin and eyes.",
+            "hi": "संक्षारक — त्वचा और आँखों के संपर्क से बचें।"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "instruction": {
+            "en": "Rinse and fill the burette with the KMnO₄ solution and note the initial reading (upper edge of the meniscus).",
+            "hi": "ब्यूरेट को KMnO₄ विलयन से धोकर भरें और प्रारंभिक पाठ्यांक नोट करें (मेनिस्कस का ऊपरी किनारा)।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Pipette exactly 10.0 mL of the Mohr's salt solution into a clean conical flask and add about 10 mL of dilute sulphuric acid.",
+            "hi": "एक साफ़ शंक्वाकार फ़्लास्क में मोर लवण विलयन का ठीक 10.0 mL पिपेट से डालें और लगभग 10 mL तनु सल्फ़्यूरिक अम्ल डालें।"
+          },
+          "observation": {
+            "en": "A pale green solution.",
+            "hi": "हल्का हरा विलयन।"
+          },
+          "explanation": {
+            "en": "The acid supplies the H⁺ ions needed by permanganate.",
+            "hi": "अम्ल परमैंगनेट के लिए आवश्यक H⁺ आयन देता है।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Do not heat. Run in the KMnO₄ while swirling the flask on the white tile.",
+            "hi": "गरम न करें। सफ़ेद टाइल पर फ़्लास्क को घुमाते हुए KMnO₄ डालें।"
+          },
+          "observation": {
+            "en": "The purple colour disappears at once.",
+            "hi": "बैंगनी रंग तुरंत गायब हो जाता है।"
+          },
+          "explanation": {
+            "en": "Fe²⁺ reacts with permanganate quickly at room temperature. Heating would let air oxidise some Fe²⁺.",
+            "hi": "Fe²⁺ कमरे के ताप पर परमैंगनेट से जल्दी अभिक्रिया करता है। गरम करने पर वायु कुछ Fe²⁺ को ऑक्सीकृत कर सकती है।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Stop when one drop gives a light pink colour that stays on swirling. Note the final reading.",
+            "hi": "जब एक बूँद से हल्का गुलाबी रंग आए और घुमाने पर भी बना रहे, तब रुक जाएँ। अंतिम पाठ्यांक नोट करें।"
+          },
+          "observation": {
+            "en": "A permanent light pink colour: the end point.",
+            "hi": "स्थायी हल्का गुलाबी रंग: यही अंत्य बिंदु है।"
+          },
+          "explanation": {
+            "en": "All the Fe²⁺ has been oxidised to Fe³⁺, so the next drop of KMnO₄ stays and colours the solution.",
+            "hi": "सारा Fe²⁺, Fe³⁺ में ऑक्सीकृत हो चुका है, इसलिए KMnO₄ की अगली बूँद बनी रहती है और विलयन को रंग देती है।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Repeat for concordant readings, then calculate: c(KMnO₄) = (1/5) × c(Mohr's salt) × V(Mohr's salt) ÷ V(KMnO₄).",
+            "hi": "संगत पाठ्यांक मिलने तक दोहराएँ, फिर परिकलन करें: c(KMnO₄) = (1/5) × c(मोर लवण) × V(मोर लवण) ÷ V(KMnO₄)।"
+          },
+          "explanation": {
+            "en": "One mole of MnO₄⁻ reacts with five moles of Fe²⁺. For example, if 10.0 mL of 0.1 M Mohr's salt needs 10.0 mL of KMnO₄, then c(KMnO₄) = (1/5) × 0.1 × 10.0 ÷ 10.0 = 0.02 M.",
+            "hi": "MnO₄⁻ का एक मोल Fe²⁺ के पाँच मोल से अभिक्रिया करता है। उदाहरण: यदि 0.1 M मोर लवण के 10.0 mL के लिए 10.0 mL KMnO₄ लगे, तो c(KMnO₄) = (1/5) × 0.1 × 10.0 ÷ 10.0 = 0.02 M।"
+          }
+        }
+      ],
+      "result": {
+        "en": "At the end point all the Fe²⁺ has been oxidised: MnO₄⁻ + 5Fe²⁺ + 8H⁺ → Mn²⁺ + 5Fe³⁺ + 4H₂O. The 1 : 5 mole ratio gives the molarity of KMnO₄.",
+        "hi": "अंत्य बिंदु पर सारा Fe²⁺ ऑक्सीकृत हो चुका होता है: MnO₄⁻ + 5Fe²⁺ + 8H⁺ → Mn²⁺ + 5Fe³⁺ + 4H₂O। 1 : 5 मोल अनुपात से KMnO₄ की मोलरता ज्ञात होती है।"
+      },
+      "safety": [
+        {
+          "en": "Wear safety goggles and a lab coat.",
+          "hi": "सुरक्षा चश्मा और लैब कोट पहनें।"
+        },
+        {
+          "en": "Never suck a pipette by mouth — always use a pipette filler.",
+          "hi": "पिपेट को कभी मुँह से न खींचें — सदैव पिपेट फ़िलर का उपयोग करें।"
+        },
+        {
+          "en": "Use dilute sulphuric acid, never hydrochloric acid: permanganate oxidises chloride to poisonous chlorine.",
+          "hi": "तनु सल्फ़्यूरिक अम्ल का उपयोग करें, हाइड्रोक्लोरिक अम्ल का कभी नहीं: परमैंगनेट क्लोराइड को विषैली क्लोरीन में ऑक्सीकृत करता है।"
+        },
+        {
+          "en": "Wash any splash on skin or eyes at once with plenty of running water and tell your teacher.",
+          "hi": "त्वचा या आँखों पर छींटा पड़ने पर तुरंत बहुत सारे बहते जल से धोएँ और अपने शिक्षक को बताएँ।"
+        },
+        {
+          "en": "Do the real experiment only under your teacher's supervision.",
+          "hi": "वास्तविक प्रयोग केवल अपने शिक्षक की देखरेख में करें।"
+        }
+      ],
+      "simulationLimits": [
+        {
+          "en": "This lab covers only the titration against Mohr's salt. Weighing Mohr's salt and making the standard solution are not simulated.",
+          "hi": "यह लैब केवल मोर लवण के विरुद्ध अनुमापन दिखाती है। मोर लवण तौलना और मानक विलयन बनाना इसमें नहीं हैं।"
+        },
+        {
+          "en": "The burette is run with buttons in 1.0 mL and 0.1 mL portions; a real burette can add single drops of about 0.05 mL. The flask is drawn as a beaker.",
+          "hi": "ब्यूरेट को बटनों से 1.0 mL और 0.1 mL के भागों में चलाया जाता है; असली ब्यूरेट से लगभग 0.05 mL की एक-एक बूँद डाली जा सकती है। फ़्लास्क को बीकर के रूप में दिखाया गया है।"
+        },
+        {
+          "en": "The KMnO₄ concentration is fixed in the simulation, so the end point is always at the same reading. In a real lab readings vary slightly, which is why you repeat for concordant readings.",
+          "hi": "सिमुलेशन में KMnO₄ की सांद्रता निश्चित है, इसलिए अंत्य बिंदु सदैव एक ही पाठ्यांक पर आता है। वास्तविक लैब में पाठ्यांक थोड़े बदलते हैं, इसलिए संगत पाठ्यांकों के लिए अनुमापन दोहराया जाता है।"
+        },
+        {
+          "en": "Rinsing, filling the burette and reading the meniscus are hand skills you can only practise in a real lab.",
+          "hi": "धोना, ब्यूरेट भरना और मेनिस्कस पढ़ना हाथ के कौशल हैं जिनका अभ्यास केवल वास्तविक लैब में हो सकता है।"
+        }
+      ],
+      "viva": [
+        {
+          "question": {
+            "en": "What is Mohr's salt, and why is it used instead of ferrous sulphate?",
+            "hi": "मोर लवण क्या है, और फ़ेरस सल्फ़ेट के स्थान पर इसका उपयोग क्यों किया जाता है?"
+          },
+          "answer": {
+            "en": "Mohr's salt is ferrous ammonium sulphate, FeSO₄·(NH₄)₂SO₄·6H₂O. It is stable and is not readily oxidised by air, so it can be weighed as a primary standard.",
+            "hi": "मोर लवण फ़ेरस अमोनियम सल्फ़ेट FeSO₄·(NH₄)₂SO₄·6H₂O है। यह स्थायी है और वायु द्वारा आसानी से ऑक्सीकृत नहीं होता, इसलिए इसे प्राथमिक मानक के रूप में तौला जा सकता है।"
+          }
+        },
+        {
+          "question": {
+            "en": "Why is the solution not warmed in this titration?",
+            "hi": "इस अनुमापन में विलयन को गरम क्यों नहीं किया जाता?"
+          },
+          "answer": {
+            "en": "The reaction is fast at room temperature, and warming would let air oxidise Fe²⁺ to Fe³⁺.",
+            "hi": "अभिक्रिया कमरे के ताप पर तेज़ होती है, और गरम करने पर वायु Fe²⁺ को Fe³⁺ में ऑक्सीकृत कर देगी।"
+          }
+        },
+        {
+          "question": {
+            "en": "Why is dilute sulphuric acid added when making the Mohr's salt solution?",
+            "hi": "मोर लवण का विलयन बनाते समय तनु सल्फ़्यूरिक अम्ल क्यों मिलाया जाता है?"
+          },
+          "answer": {
+            "en": "To prevent hydrolysis of the ferrous salt.",
+            "hi": "फ़ेरस लवण के जल-अपघटन को रोकने के लिए।"
+          }
+        },
+        {
+          "question": {
+            "en": "How do the oxidation states change in MnO₄⁻ + 5Fe²⁺ + 8H⁺ → Mn²⁺ + 5Fe³⁺ + 4H₂O?",
+            "hi": "MnO₄⁻ + 5Fe²⁺ + 8H⁺ → Mn²⁺ + 5Fe³⁺ + 4H₂O में ऑक्सीकरण अवस्थाएँ कैसे बदलती हैं?"
+          },
+          "answer": {
+            "en": "Manganese goes from +7 to +2 (gains 5 electrons); each iron goes from +2 to +3 (loses 1 electron). So one MnO₄⁻ reacts with five Fe²⁺.",
+            "hi": "मैंगनीज़ +7 से +2 होता है (5 इलेक्ट्रॉन ग्रहण); प्रत्येक आयरन +2 से +3 होता है (1 इलेक्ट्रॉन त्याग)। इसलिए एक MnO₄⁻ पाँच Fe²⁺ से अभिक्रिया करता है।"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "cbse-chem-11-12",
+          "section": "Class XII practical J"
+        },
+        {
+          "sourceId": "ncert-12-en",
+          "section": "4.4 (potassium permanganate)"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "rx-zinc-hydrochloric-acid",
+      "aim": {
+        "en": "To study the reaction of zinc with dilute hydrochloric acid and test the gas given off.",
+        "hi": "तनु हाइड्रोक्लोरिक अम्ल के साथ ज़िंक की अभिक्रिया का अध्ययन करना और निकलने वाली गैस का परीक्षण करना।"
+      },
+      "equation": "Zn + 2HCl → ZnCl₂ + H₂",
+      "apparatus": [
+        {
+          "name": {
+            "en": "Test tube in a stand, with a cork and delivery tube",
+            "hi": "कॉर्क और निकास नली सहित स्टैंड में परखनली"
+          }
+        },
+        {
+          "name": {
+            "en": "Beaker of soap solution",
+            "hi": "साबुन के विलयन वाला बीकर"
+          }
+        },
+        {
+          "name": {
+            "en": "Candle",
+            "hi": "मोमबत्ती"
+          }
+        }
+      ],
+      "chemicals": [
+        {
+          "name": {
+            "en": "Dilute hydrochloric acid",
+            "hi": "तनु हाइड्रोक्लोरिक अम्ल"
+          },
+          "formula": "HCl",
+          "quantity": {
+            "en": "About 5 mL",
+            "hi": "लगभग 5 mL"
+          },
+          "hazard": {
+            "en": "Corrosive — avoid contact with skin and eyes.",
+            "hi": "संक्षारक — त्वचा और आँखों के संपर्क से बचें।"
+          }
+        },
+        {
+          "name": {
+            "en": "Zinc granules",
+            "hi": "ज़िंक के दाने"
+          },
+          "formula": "Zn",
+          "quantity": {
+            "en": "A few pieces",
+            "hi": "कुछ टुकड़े"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "instruction": {
+            "en": "With your teacher's help, take about 5 mL of dilute hydrochloric acid in a test tube and add a few zinc granules.",
+            "hi": "शिक्षक की सहायता से परखनली में लगभग 5 mL तनु हाइड्रोक्लोरिक अम्ल लें और कुछ ज़िंक के दाने डालें।"
+          },
+          "observation": {
+            "en": "Bubbles of gas form on the surface of the zinc.",
+            "hi": "ज़िंक की सतह पर गैस के बुलबुले बनते हैं।"
+          },
+          "explanation": {
+            "en": "Zinc displaces hydrogen from the acid, forming zinc chloride and hydrogen gas.",
+            "hi": "ज़िंक अम्ल से हाइड्रोजन विस्थापित करता है, जिससे ज़िंक क्लोराइड और हाइड्रोजन गैस बनते हैं।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Pass the gas through soap solution.",
+            "hi": "गैस को साबुन के विलयन में से गुज़ारें।"
+          },
+          "observation": {
+            "en": "Gas-filled soap bubbles form.",
+            "hi": "गैस से भरे साबुन के बुलबुले बनते हैं।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Your teacher brings a burning candle near a gas-filled bubble.",
+            "hi": "शिक्षक जलती मोमबत्ती को गैस से भरे बुलबुले के पास लाते हैं।"
+          },
+          "observation": {
+            "en": "The gas burns with a pop sound.",
+            "hi": "गैस 'पॉप' की ध्वनि के साथ जलती है।"
+          },
+          "explanation": {
+            "en": "Burning with a pop is the usual school test for hydrogen.",
+            "hi": "'पॉप' ध्वनि के साथ जलना हाइड्रोजन का सामान्य विद्यालयी परीक्षण है।"
+          }
+        }
+      ],
+      "result": {
+        "en": "Zinc reacts with dilute hydrochloric acid to give zinc chloride and hydrogen gas: acid + metal → salt + hydrogen.",
+        "hi": "ज़िंक तनु हाइड्रोक्लोरिक अम्ल से अभिक्रिया करके ज़िंक क्लोराइड और हाइड्रोजन गैस देता है: अम्ल + धातु → लवण + हाइड्रोजन।"
+      },
+      "safety": [
+        {
+          "en": "NCERT marks this activity as needing the teacher's assistance.",
+          "hi": "NCERT के अनुसार इस गतिविधि में शिक्षक की सहायता आवश्यक है।"
+        },
+        {
+          "en": "Wear safety goggles; the acid is corrosive.",
+          "hi": "सुरक्षा चश्मा पहनें; अम्ल संक्षारक है।"
+        },
+        {
+          "en": "Hydrogen is flammable: keep flames away, except for the test done by your teacher.",
+          "hi": "हाइड्रोजन ज्वलनशील है: शिक्षक द्वारा किए जाने वाले परीक्षण के अलावा लपटें दूर रखें।"
+        }
+      ],
+      "simulationLimits": [
+        {
+          "en": "The soap-bubble and burning-candle test are not simulated; the virtual lab shows only the bubbles of gas.",
+          "hi": "साबुन के बुलबुले और जलती मोमबत्ती वाला परीक्षण वर्चुअल लैब में नहीं है; यह केवल गैस के बुलबुले दिखाती है।"
+        },
+        {
+          "en": "Amounts are approximate. Use it to prepare, not as a replacement for a real experiment.",
+          "hi": "मात्राएँ अनुमानित हैं। इसका उपयोग तैयारी के लिए करें, वास्तविक प्रयोग के स्थान पर नहीं।"
+        }
+      ],
+      "viva": [
+        {
+          "question": {
+            "en": "Which gas is formed, and how is it tested?",
+            "hi": "कौन-सी गैस बनती है, और उसका परीक्षण कैसे किया जाता है?"
+          },
+          "answer": {
+            "en": "Hydrogen; it burns with a pop sound near a burning splinter.",
+            "hi": "हाइड्रोजन; जलती तीली के पास यह \"पॉप\" ध्वनि के साथ जलती है।"
+          }
+        },
+        {
+          "question": {
+            "en": "Name the salt formed.",
+            "hi": "बनने वाले लवण का नाम बताइए।"
+          },
+          "answer": {
+            "en": "Zinc chloride, ZnCl₂.",
+            "hi": "ज़िंक क्लोराइड, ZnCl₂।"
+          }
+        },
+        {
+          "question": {
+            "en": "What type of reaction is this?",
+            "hi": "यह किस प्रकार की अभिक्रिया है?"
+          },
+          "answer": {
+            "en": "A displacement reaction: zinc displaces hydrogen from the acid.",
+            "hi": "विस्थापन अभिक्रिया: ज़िंक अम्ल से हाइड्रोजन को विस्थापित करता है।"
+          }
+        },
+        {
+          "question": {
+            "en": "Why is hydrogen usually not obtained when a metal reacts with nitric acid?",
+            "hi": "किसी धातु के नाइट्रिक अम्ल से अभिक्रिया करने पर सामान्यतः हाइड्रोजन क्यों नहीं मिलती?"
+          },
+          "answer": {
+            "en": "Nitric acid is a strong oxidising agent. It oxidises the hydrogen formed to water and is itself reduced to oxides of nitrogen.",
+            "hi": "नाइट्रिक अम्ल प्रबल ऑक्सीकारक है। यह बनी हुई हाइड्रोजन को जल में ऑक्सीकृत कर देता है और स्वयं नाइट्रोजन के ऑक्साइडों में अपचयित हो जाता है।"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "2.1.2, Activity 2.3"
+        },
+        {
+          "sourceId": "cbse-sci-10",
+          "section": "Practical 1B"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "rx-ferric-thiocyanate",
+      "aim": {
+        "en": "To study the shift in equilibrium between ferric ions and thiocyanate ions when the concentration of one of them is changed.",
+        "hi": "फ़ेरिक आयनों और थायोसायनेट आयनों में से किसी एक की सांद्रता बदलने पर उनके बीच साम्य में विस्थापन का अध्ययन करना।"
+      },
+      "equation": "Fe³⁺(aq) + SCN⁻(aq) ⇌ [Fe(SCN)]²⁺(aq)",
+      "apparatus": [
+        {
+          "name": {
+            "en": "Beaker (100 mL)",
+            "hi": "बीकर (100 mL)"
+          }
+        },
+        {
+          "name": {
+            "en": "Five test tubes in a stand",
+            "hi": "स्टैंड में पाँच परखनलियाँ"
+          }
+        },
+        {
+          "name": {
+            "en": "Dropper and measuring cylinder",
+            "hi": "ड्रॉपर और मापक बेलन"
+          }
+        },
+        {
+          "name": {
+            "en": "Glass rod",
+            "hi": "काँच की छड़"
+          }
+        }
+      ],
+      "chemicals": [
+        {
+          "name": {
+            "en": "Ferric chloride solution",
+            "hi": "फ़ेरिक क्लोराइड विलयन"
+          },
+          "formula": "FeCl₃",
+          "quantity": {
+            "en": "About 10 mL of a dilute solution",
+            "hi": "तनु विलयन का लगभग 10 mL"
+          },
+          "hazard": {
+            "en": "Irritates the skin and eyes.",
+            "hi": "त्वचा और आँखों में जलन करता है।"
+          }
+        },
+        {
+          "name": {
+            "en": "Potassium thiocyanate solution",
+            "hi": "पोटैशियम थायोसायनेट विलयन"
+          },
+          "formula": "KSCN",
+          "quantity": {
+            "en": "About 10 mL of a dilute solution",
+            "hi": "तनु विलयन का लगभग 10 mL"
+          },
+          "hazard": {
+            "en": "Harmful if swallowed; keep it away from acids.",
+            "hi": "निगलने पर हानिकारक; इसे अम्लों से दूर रखें।"
+          }
+        },
+        {
+          "name": {
+            "en": "Distilled water",
+            "hi": "आसुत जल"
+          },
+          "formula": "H₂O",
+          "quantity": {
+            "en": "About 50 mL",
+            "hi": "लगभग 50 mL"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "instruction": {
+            "en": "Mix a little ferric chloride solution with a little potassium thiocyanate solution in a beaker.",
+            "hi": "बीकर में थोड़ा फ़ेरिक क्लोराइड विलयन और थोड़ा पोटैशियम थायोसायनेट विलयन मिलाएँ।"
+          },
+          "observation": {
+            "en": "A blood-red colour appears.",
+            "hi": "रक्त-लाल रंग आता है।"
+          },
+          "explanation": {
+            "en": "Fe³⁺ and SCN⁻ ions form the red [Fe(SCN)]²⁺ complex ion.",
+            "hi": "Fe³⁺ और SCN⁻ आयन लाल [Fe(SCN)]²⁺ संकुल आयन बनाते हैं।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Dilute the red solution with water until the colour is light, then divide it equally into test tubes. Keep one as a reference.",
+            "hi": "लाल विलयन को जल से तब तक तनु करें जब तक रंग हल्का न हो जाए, फिर उसे परखनलियों में बराबर बाँटें। एक को तुलना के लिए रखें।"
+          },
+          "observation": {
+            "en": "The red colour becomes lighter.",
+            "hi": "लाल रंग हल्का हो जाता है।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "To one test tube add a few drops of potassium thiocyanate solution; to another add a few drops of ferric chloride solution. Compare with the reference.",
+            "hi": "एक परखनली में पोटैशियम थायोसायनेट विलयन की कुछ बूँदें डालें; दूसरी में फ़ेरिक क्लोराइड विलयन की कुछ बूँदें डालें। तुलना वाली परखनली से मिलान करें।"
+          },
+          "observation": {
+            "en": "The red colour becomes deeper in both.",
+            "hi": "दोनों में लाल रंग गहरा हो जाता है।"
+          },
+          "explanation": {
+            "en": "Adding a reactant shifts the equilibrium forward, so more [Fe(SCN)]²⁺ forms (Le Chatelier's principle).",
+            "hi": "अभिकारक डालने पर साम्य आगे की दिशा में विस्थापित होता है, इसलिए अधिक [Fe(SCN)]²⁺ बनता है (ला-शातैलिए सिद्धांत)।"
+          }
+        }
+      ],
+      "result": {
+        "en": "Increasing the concentration of Fe³⁺ or SCN⁻ shifts the equilibrium Fe³⁺ + SCN⁻ ⇌ [Fe(SCN)]²⁺ to the right, deepening the red colour.",
+        "hi": "Fe³⁺ या SCN⁻ की सांद्रता बढ़ाने पर साम्य Fe³⁺ + SCN⁻ ⇌ [Fe(SCN)]²⁺ दाईं ओर विस्थापित होता है और लाल रंग गहरा हो जाता है।"
+      },
+      "safety": [
+        {
+          "en": "Wear safety goggles and a lab coat.",
+          "hi": "सुरक्षा चश्मा और लैब कोट पहनें।"
+        },
+        {
+          "en": "Thiocyanate solutions must not be mixed with strong acids.",
+          "hi": "थायोसायनेट विलयनों को प्रबल अम्लों के साथ नहीं मिलाना चाहिए।"
+        },
+        {
+          "en": "Wash any splash on skin or eyes at once with plenty of running water and tell your teacher.",
+          "hi": "त्वचा या आँखों पर छींटा पड़ने पर तुरंत बहुत सारे बहते जल से धोएँ और अपने शिक्षक को बताएँ।"
+        },
+        {
+          "en": "Do the real experiment only under your teacher's supervision.",
+          "hi": "वास्तविक प्रयोग केवल अपने शिक्षक की देखरेख में करें।"
+        }
+      ],
+      "simulationLimits": [
+        {
+          "en": "The virtual lab uses one beaker instead of several test tubes, so it shows the change in one container rather than side by side with a reference tube.",
+          "hi": "वर्चुअल लैब कई परखनलियों के स्थान पर एक बीकर का उपयोग करती है, इसलिए परिवर्तन तुलना वाली परखनली के साथ-साथ नहीं, बल्कि एक ही पात्र में दिखता है।"
+        },
+        {
+          "en": "Colours are approximate; the cobalt chloride equilibrium is not simulated.",
+          "hi": "रंग अनुमानित हैं; कोबाल्ट क्लोराइड साम्य इसमें नहीं है।"
+        }
+      ],
+      "viva": [
+        {
+          "question": {
+            "en": "What is the colour of the [Fe(SCN)]²⁺ ion?",
+            "hi": "[Fe(SCN)]²⁺ आयन का रंग क्या है?"
+          },
+          "answer": {
+            "en": "Deep red (blood red).",
+            "hi": "गहरा लाल (रक्त जैसा लाल)।"
+          }
+        },
+        {
+          "question": {
+            "en": "What happens to the colour when more Fe³⁺ or SCN⁻ ions are added, and why?",
+            "hi": "और Fe³⁺ या SCN⁻ आयन मिलाने पर रंग में क्या परिवर्तन होता है, और क्यों?"
+          },
+          "answer": {
+            "en": "The red colour deepens. Adding a reactant shifts the equilibrium forward, forming more [Fe(SCN)]²⁺ (Le Chatelier's principle).",
+            "hi": "लाल रंग गहरा हो जाता है। अभिकारक मिलाने से साम्य आगे की ओर खिसकता है और अधिक [Fe(SCN)]²⁺ बनता है (ले शातैलिए का सिद्धांत)।"
+          }
+        },
+        {
+          "question": {
+            "en": "What happens when oxalic acid is added to the red solution?",
+            "hi": "लाल विलयन में ऑक्सैलिक अम्ल मिलाने पर क्या होता है?"
+          },
+          "answer": {
+            "en": "The colour fades. Oxalic acid removes Fe³⁺ ions as a stable complex, so the equilibrium shifts backward.",
+            "hi": "रंग फीका पड़ जाता है। ऑक्सैलिक अम्ल Fe³⁺ आयनों को स्थायी संकुल के रूप में हटा देता है, इसलिए साम्य पीछे की ओर खिसकता है।"
+          }
+        },
+        {
+          "question": {
+            "en": "Does adding more reactant change the value of the equilibrium constant?",
+            "hi": "क्या अधिक अभिकारक मिलाने से साम्य स्थिरांक का मान बदलता है?"
+          },
+          "answer": {
+            "en": "No. The equilibrium constant changes only with temperature; the concentrations readjust to keep it the same.",
+            "hi": "नहीं। साम्य स्थिरांक केवल ताप के साथ बदलता है; सांद्रताएँ इस प्रकार समायोजित होती हैं कि यह स्थिर रहे।"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "6.8.1 (effect of concentration change)"
+        },
+        {
+          "sourceId": "cbse-chem-11-12",
+          "section": "Class XI practical D"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "rx-tollens-test",
+      "aim": {
+        "en": "To test for the aldehyde group using Tollens' reagent.",
+        "hi": "टॉलेन अभिकर्मक से ऐल्डिहाइड समूह का परीक्षण करना।"
+      },
+      "equation": "RCHO + 2[Ag(NH₃)₂]⁺ + 3OH⁻ → RCOO⁻ + 2Ag + 2H₂O + 4NH₃",
+      "apparatus": [
+        {
+          "name": {
+            "en": "Clean test tubes (washed with dilute NaOH and rinsed)",
+            "hi": "साफ़ परखनलियाँ (तनु NaOH से धोकर खँगाली गईं)"
+          }
+        },
+        {
+          "name": {
+            "en": "Beaker of hot water (water bath)",
+            "hi": "गरम जल वाला बीकर (जल-ऊष्मक)"
+          }
+        },
+        {
+          "name": {
+            "en": "Dropper",
+            "hi": "ड्रॉपर"
+          }
+        },
+        {
+          "name": {
+            "en": "Test-tube holder",
+            "hi": "परखनली होल्डर"
+          }
+        }
+      ],
+      "chemicals": [
+        {
+          "name": {
+            "en": "Tollens' reagent (freshly prepared ammoniacal silver nitrate)",
+            "hi": "टॉलेन अभिकर्मक (ताज़ा बना अमोनियामय सिल्वर नाइट्रेट)"
+          },
+          "formula": "[Ag(NH₃)₂]⁺",
+          "quantity": {
+            "en": "About 2 mL",
+            "hi": "लगभग 2 mL"
+          },
+          "hazard": {
+            "en": "Prepare fresh and pour away after use: on standing it can form an explosive solid.",
+            "hi": "ताज़ा बनाएँ और उपयोग के बाद फेंक दें: रखा रहने पर यह विस्फोटक ठोस बना सकता है।"
+          }
+        },
+        {
+          "name": {
+            "en": "The organic compound (an aldehyde such as ethanal)",
+            "hi": "कार्बनिक यौगिक (एथेनैल जैसा ऐल्डिहाइड)"
+          },
+          "formula": "CH₃CHO",
+          "quantity": {
+            "en": "A few drops",
+            "hi": "कुछ बूँदें"
+          },
+          "hazard": {
+            "en": "Highly flammable — warm only in a water bath.",
+            "hi": "अत्यधिक ज्वलनशील — केवल जल-ऊष्मक में गरम करें।"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "instruction": {
+            "en": "Take about 2 mL of freshly prepared Tollens' reagent in a clean test tube.",
+            "hi": "एक साफ़ परखनली में लगभग 2 mL ताज़ा बना टॉलेन अभिकर्मक लें।"
+          },
+          "explanation": {
+            "en": "A grease-free tube lets the silver stick to the glass as a mirror.",
+            "hi": "चिकनाई-रहित परखनली पर सिल्वर दर्पण के रूप में चिपकता है।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Add a few drops of the organic compound and shake gently.",
+            "hi": "कार्बनिक यौगिक की कुछ बूँदें डालें और धीरे से हिलाएँ।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Warm the test tube in a hot water bath for a few minutes.",
+            "hi": "परखनली को कुछ मिनट गरम जल-ऊष्मक में गरम करें।"
+          },
+          "observation": {
+            "en": "A silver mirror forms on the inner wall of the test tube (or a grey-black precipitate).",
+            "hi": "परखनली की भीतरी दीवार पर रजत दर्पण बनता है (या धूसर-काला अवक्षेप)।"
+          },
+          "explanation": {
+            "en": "The aldehyde reduces the silver ions of Tollens' reagent to metallic silver and is itself oxidised. Ketones give no mirror.",
+            "hi": "ऐल्डिहाइड टॉलेन अभिकर्मक के सिल्वर आयनों को धात्विक सिल्वर में अपचयित करता है और स्वयं ऑक्सीकृत होता है। कीटोन दर्पण नहीं देते।"
+          }
+        }
+      ],
+      "result": {
+        "en": "A silver mirror shows the presence of an aldehyde group.",
+        "hi": "रजत दर्पण ऐल्डिहाइड समूह की उपस्थिति दर्शाता है।"
+      },
+      "safety": [
+        {
+          "en": "Wear safety goggles and a lab coat.",
+          "hi": "सुरक्षा चश्मा और लैब कोट पहनें।"
+        },
+        {
+          "en": "Make Tollens' reagent fresh, use it at once and wash it away with plenty of water — never store it.",
+          "hi": "टॉलेन अभिकर्मक ताज़ा बनाएँ, तुरंत उपयोग करें और बहुत सारे जल से बहा दें — इसे कभी रखें नहीं।"
+        },
+        {
+          "en": "Aldehydes are flammable: warm them in a water bath, never over a flame.",
+          "hi": "ऐल्डिहाइड ज्वलनशील हैं: इन्हें जल-ऊष्मक में गरम करें, कभी लौ पर नहीं।"
+        },
+        {
+          "en": "Do the real experiment only under your teacher's supervision.",
+          "hi": "वास्तविक प्रयोग केवल अपने शिक्षक की देखरेख में करें।"
+        }
+      ],
+      "simulationLimits": [
+        {
+          "en": "Preparing Tollens' reagent (silver nitrate, a drop of NaOH, then ammonia until the precipitate dissolves) is not simulated; the lab starts with the ready reagent.",
+          "hi": "टॉलेन अभिकर्मक बनाना (सिल्वर नाइट्रेट, NaOH की एक बूँद, फिर अवक्षेप घुलने तक अमोनिया) इसमें नहीं है; लैब तैयार अभिकर्मक से शुरू होती है।"
+        },
+        {
+          "en": "The silver mirror is drawn as a silvery deposit in the beaker.",
+          "hi": "रजत दर्पण को बीकर में चाँदी जैसी परत के रूप में दिखाया गया है।"
+        },
+        {
+          "en": "Amounts are approximate. Use it to prepare, not as a replacement for a real experiment.",
+          "hi": "मात्राएँ अनुमानित हैं। इसका उपयोग तैयारी के लिए करें, वास्तविक प्रयोग के स्थान पर नहीं।"
+        }
+      ],
+      "viva": [
+        {
+          "question": {
+            "en": "What is Tollens' reagent?",
+            "hi": "टॉलेन अभिकर्मक क्या है?"
+          },
+          "answer": {
+            "en": "Ammoniacal silver nitrate solution.",
+            "hi": "अमोनियामय सिल्वर नाइट्रेट विलयन।"
+          }
+        },
+        {
+          "question": {
+            "en": "What is a positive Tollens' test?",
+            "hi": "टॉलेन परीक्षण का धनात्मक परिणाम क्या है?"
+          },
+          "answer": {
+            "en": "A bright silver mirror forms on the inside of the test tube.",
+            "hi": "परखनली की भीतरी दीवार पर चमकीला रजत दर्पण बनता है।"
+          }
+        },
+        {
+          "question": {
+            "en": "What happens to the aldehyde and to the silver ions in this test?",
+            "hi": "इस परीक्षण में ऐल्डिहाइड और सिल्वर आयनों का क्या होता है?"
+          },
+          "answer": {
+            "en": "The aldehyde is oxidised to a carboxylate ion; the silver ions are reduced to metallic silver.",
+            "hi": "ऐल्डिहाइड कार्बोक्सिलेट आयन में ऑक्सीकृत होता है; सिल्वर आयन धात्विक सिल्वर में अपचयित होते हैं।"
+          }
+        },
+        {
+          "question": {
+            "en": "How does Tollens' test distinguish an aldehyde from a ketone?",
+            "hi": "टॉलेन परीक्षण ऐल्डिहाइड को कीटोन से कैसे अलग करता है?"
+          },
+          "answer": {
+            "en": "Aldehydes give the silver mirror; ketones generally do not, because they are not easily oxidised.",
+            "hi": "ऐल्डिहाइड रजत दर्पण देते हैं; कीटोन सामान्यतः नहीं देते, क्योंकि वे आसानी से ऑक्सीकृत नहीं होते।"
+          }
+        },
+        {
+          "question": {
+            "en": "Why is Tollens' reagent prepared fresh and not stored?",
+            "hi": "टॉलेन अभिकर्मक को ताज़ा क्यों बनाया जाता है और संग्रहीत क्यों नहीं किया जाता?"
+          },
+          "answer": {
+            "en": "On standing it can form explosive silver compounds, so it is made just before use and the leftover is discarded safely.",
+            "hi": "रखे रहने पर इसमें विस्फोटक सिल्वर यौगिक बन सकते हैं, इसलिए इसे उपयोग से ठीक पहले बनाया जाता है और बचा हुआ सुरक्षित रूप से नष्ट किया जाता है।"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "ncert-12-en",
+          "section": "8.4 (oxidation: Tollens' test)"
+        },
+        {
+          "sourceId": "cbse-chem-11-12",
+          "section": "Class XII practical H"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "rx-fehling-test",
+      "aim": {
+        "en": "To test for the aldehyde group using Fehling's solution.",
+        "hi": "फ़ेहलिंग विलयन से ऐल्डिहाइड समूह का परीक्षण करना।"
+      },
+      "equation": "RCHO + 2Cu²⁺ + 5OH⁻ → RCOO⁻ + Cu₂O + 3H₂O",
+      "apparatus": [
+        {
+          "name": {
+            "en": "Test tubes",
+            "hi": "परखनलियाँ"
+          }
+        },
+        {
+          "name": {
+            "en": "Beaker of boiling water (water bath)",
+            "hi": "उबलते जल वाला बीकर (जल-ऊष्मक)"
+          }
+        },
+        {
+          "name": {
+            "en": "Dropper",
+            "hi": "ड्रॉपर"
+          }
+        },
+        {
+          "name": {
+            "en": "Test-tube holder",
+            "hi": "परखनली होल्डर"
+          }
+        }
+      ],
+      "chemicals": [
+        {
+          "name": {
+            "en": "Fehling's solution A (aqueous copper sulphate)",
+            "hi": "फ़ेहलिंग विलयन A (जलीय कॉपर सल्फ़ेट)"
+          },
+          "formula": "CuSO₄",
+          "quantity": {
+            "en": "About 1 mL",
+            "hi": "लगभग 1 mL"
+          },
+          "hazard": {
+            "en": "Harmful if swallowed.",
+            "hi": "निगलने पर हानिकारक।"
+          }
+        },
+        {
+          "name": {
+            "en": "Fehling's solution B (alkaline sodium potassium tartrate)",
+            "hi": "फ़ेहलिंग विलयन B (क्षारीय सोडियम पोटैशियम टार्ट्रेट)"
+          },
+          "quantity": {
+            "en": "About 1 mL",
+            "hi": "लगभग 1 mL"
+          },
+          "hazard": {
+            "en": "Contains sodium hydroxide — corrosive.",
+            "hi": "इसमें सोडियम हाइड्रॉक्साइड है — संक्षारक।"
+          }
+        },
+        {
+          "name": {
+            "en": "The organic compound (an aliphatic aldehyde such as ethanal)",
+            "hi": "कार्बनिक यौगिक (एथेनैल जैसा ऐलिफ़ैटिक ऐल्डिहाइड)"
+          },
+          "formula": "CH₃CHO",
+          "quantity": {
+            "en": "A few drops",
+            "hi": "कुछ बूँदें"
+          },
+          "hazard": {
+            "en": "Highly flammable — heat only in a water bath.",
+            "hi": "अत्यधिक ज्वलनशील — केवल जल-ऊष्मक में गरम करें।"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "instruction": {
+            "en": "Mix about 1 mL each of Fehling's solutions A and B in a test tube.",
+            "hi": "एक परखनली में फ़ेहलिंग विलयन A और B का लगभग 1-1 mL मिलाएँ।"
+          },
+          "observation": {
+            "en": "A deep blue solution forms.",
+            "hi": "गहरा नीला विलयन बनता है।"
+          },
+          "explanation": {
+            "en": "Tartrate keeps the copper(II) ions in solution in the alkali as a deep blue complex.",
+            "hi": "टार्ट्रेट कॉपर(II) आयनों को क्षार में गहरे नीले संकुल के रूप में विलयन में बनाए रखता है।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Add a few drops of the organic compound.",
+            "hi": "कार्बनिक यौगिक की कुछ बूँदें डालें।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Heat the test tube in a boiling water bath for a few minutes.",
+            "hi": "परखनली को कुछ मिनट उबलते जल-ऊष्मक में गरम करें।"
+          },
+          "observation": {
+            "en": "A reddish-brown precipitate forms.",
+            "hi": "लाल-भूरा अवक्षेप बनता है।"
+          },
+          "explanation": {
+            "en": "The aldehyde reduces Cu²⁺ to red-brown copper(I) oxide, Cu₂O. Ketones and aromatic aldehydes do not respond to Fehling's test.",
+            "hi": "ऐल्डिहाइड Cu²⁺ को लाल-भूरे कॉपर(I) ऑक्साइड, Cu₂O में अपचयित करता है। कीटोन और ऐरोमैटिक ऐल्डिहाइड फ़ेहलिंग परीक्षण नहीं देते।"
+          }
+        }
+      ],
+      "result": {
+        "en": "A reddish-brown precipitate of Cu₂O shows an aliphatic aldehyde group.",
+        "hi": "Cu₂O का लाल-भूरा अवक्षेप ऐलिफ़ैटिक ऐल्डिहाइड समूह दर्शाता है।"
+      },
+      "safety": [
+        {
+          "en": "Wear safety goggles and a lab coat.",
+          "hi": "सुरक्षा चश्मा और लैब कोट पहनें।"
+        },
+        {
+          "en": "Fehling's solution B contains sodium hydroxide — avoid contact with skin and eyes.",
+          "hi": "फ़ेहलिंग विलयन B में सोडियम हाइड्रॉक्साइड है — त्वचा और आँखों के संपर्क से बचें।"
+        },
+        {
+          "en": "Aldehydes are flammable: heat them in a water bath, never over a flame.",
+          "hi": "ऐल्डिहाइड ज्वलनशील हैं: इन्हें जल-ऊष्मक में गरम करें, कभी लौ पर नहीं।"
+        },
+        {
+          "en": "Do the real experiment only under your teacher's supervision.",
+          "hi": "वास्तविक प्रयोग केवल अपने शिक्षक की देखरेख में करें।"
+        }
+      ],
+      "simulationLimits": [
+        {
+          "en": "Colours are approximate, and the time needed for the precipitate to form is not shown.",
+          "hi": "रंग अनुमानित हैं, और अवक्षेप बनने में लगने वाला समय नहीं दिखाया गया है।"
+        },
+        {
+          "en": "Amounts are approximate. Use it to prepare, not as a replacement for a real experiment.",
+          "hi": "मात्राएँ अनुमानित हैं। इसका उपयोग तैयारी के लिए करें, वास्तविक प्रयोग के स्थान पर नहीं।"
+        }
+      ],
+      "viva": [
+        {
+          "question": {
+            "en": "What are Fehling's solutions A and B?",
+            "hi": "फ़ेलिंग विलयन A और B क्या हैं?"
+          },
+          "answer": {
+            "en": "Fehling A is aqueous copper sulphate; Fehling B is alkaline sodium potassium tartrate (Rochelle salt). They are mixed in equal amounts before the test.",
+            "hi": "फ़ेलिंग A जलीय कॉपर सल्फ़ेट है; फ़ेलिंग B क्षारीय सोडियम पोटैशियम टार्टरेट (रोशेल लवण) है। परीक्षण से पहले इन्हें बराबर मात्रा में मिलाया जाता है।"
+          }
+        },
+        {
+          "question": {
+            "en": "What is seen in a positive Fehling's test?",
+            "hi": "फ़ेलिंग परीक्षण के धनात्मक परिणाम में क्या दिखता है?"
+          },
+          "answer": {
+            "en": "A reddish-brown precipitate of copper(I) oxide, Cu₂O.",
+            "hi": "कॉपर(I) ऑक्साइड Cu₂O का लाल-भूरा अवक्षेप।"
+          }
+        },
+        {
+          "question": {
+            "en": "What is the role of the tartrate?",
+            "hi": "टार्टरेट की क्या भूमिका है?"
+          },
+          "answer": {
+            "en": "It forms a complex with Cu²⁺ ions and keeps them in solution in the alkaline mixture, so copper(II) hydroxide does not precipitate.",
+            "hi": "यह Cu²⁺ आयनों के साथ संकुल बनाकर उन्हें क्षारीय मिश्रण में घुला रखता है, जिससे कॉपर(II) हाइड्रॉक्साइड अवक्षेपित नहीं होता।"
+          }
+        },
+        {
+          "question": {
+            "en": "Does benzaldehyde give Fehling's test?",
+            "hi": "क्या बेन्ज़ैल्डिहाइड फ़ेलिंग परीक्षण देता है?"
+          },
+          "answer": {
+            "en": "No. Aromatic aldehydes do not respond to Fehling's test, although they give Tollens' test.",
+            "hi": "नहीं। ऐरोमैटिक ऐल्डिहाइड फ़ेलिंग परीक्षण नहीं देते, यद्यपि वे टॉलेन परीक्षण देते हैं।"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "ncert-12-en",
+          "section": "8.4 (oxidation: Fehling's test)"
+        },
+        {
+          "sourceId": "cbse-chem-11-12",
+          "section": "Class XII practical H"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "rx-phenol-bromine-water",
+      "aim": {
+        "en": "To observe the reaction of phenol with bromine water.",
+        "hi": "ब्रोमीन जल के साथ फ़ीनॉल की अभिक्रिया का प्रेक्षण करना।"
+      },
+      "equation": "C₆H₅OH + 3Br₂ (aq) → 2,4,6-tribromophenol + 3HBr",
+      "apparatus": [
+        {
+          "name": {
+            "en": "Test tubes in a stand",
+            "hi": "स्टैंड में परखनलियाँ"
+          }
+        },
+        {
+          "name": {
+            "en": "Dropper",
+            "hi": "ड्रॉपर"
+          }
+        },
+        {
+          "name": {
+            "en": "Fume cupboard (or a well-ventilated place)",
+            "hi": "धूम-कोष्ठ (या हवादार स्थान)"
+          }
+        }
+      ],
+      "chemicals": [
+        {
+          "name": {
+            "en": "Aqueous phenol solution",
+            "hi": "फ़ीनॉल का जलीय विलयन"
+          },
+          "formula": "C₆H₅OH",
+          "quantity": {
+            "en": "About 2 mL",
+            "hi": "लगभग 2 mL"
+          },
+          "hazard": {
+            "en": "Corrosive and poisonous through the skin — wear gloves.",
+            "hi": "संक्षारक और त्वचा से होकर विषैला — दस्ताने पहनें।"
+          }
+        },
+        {
+          "name": {
+            "en": "Bromine water",
+            "hi": "ब्रोमीन जल"
+          },
+          "formula": "Br₂(aq)",
+          "quantity": {
+            "en": "A few drops, added one at a time",
+            "hi": "कुछ बूँदें, एक-एक करके"
+          },
+          "hazard": {
+            "en": "Bromine vapour is poisonous — use it in a fume cupboard.",
+            "hi": "ब्रोमीन की वाष्प विषैली है — इसका उपयोग धूम-कोष्ठ में करें।"
+          }
+        }
+      ],
+      "steps": [
+        {
+          "instruction": {
+            "en": "Take about 2 mL of aqueous phenol solution in a test tube.",
+            "hi": "परखनली में फ़ीनॉल का लगभग 2 mL जलीय विलयन लें।"
+          }
+        },
+        {
+          "instruction": {
+            "en": "Add bromine water drop by drop and shake.",
+            "hi": "ब्रोमीन जल बूँद-बूँद करके डालें और हिलाएँ।"
+          },
+          "observation": {
+            "en": "The orange colour of bromine water disappears and a white precipitate forms.",
+            "hi": "ब्रोमीन जल का नारंगी रंग गायब हो जाता है और सफ़ेद अवक्षेप बनता है।"
+          },
+          "explanation": {
+            "en": "Phenol is brominated at the 2, 4 and 6 positions of the ring, giving insoluble 2,4,6-tribromophenol.",
+            "hi": "फ़ीनॉल वलय की 2, 4 और 6 स्थितियों पर ब्रोमीनीकृत होता है, जिससे अविलेय 2,4,6-ट्राइब्रोमोफ़ीनॉल बनता है।"
+          }
+        }
+      ],
+      "result": {
+        "en": "Phenol decolourises bromine water and gives a white precipitate of 2,4,6-tribromophenol.",
+        "hi": "फ़ीनॉल ब्रोमीन जल को रंगहीन करता है और 2,4,6-ट्राइब्रोमोफ़ीनॉल का सफ़ेद अवक्षेप देता है।"
+      },
+      "safety": [
+        {
+          "en": "Wear safety goggles and a lab coat.",
+          "hi": "सुरक्षा चश्मा और लैब कोट पहनें।"
+        },
+        {
+          "en": "Wear gloves: phenol burns the skin and is absorbed through it.",
+          "hi": "दस्ताने पहनें: फ़ीनॉल त्वचा को जलाता है और उसके द्वारा अवशोषित होता है।"
+        },
+        {
+          "en": "Use bromine water only in a fume cupboard or a well-ventilated place.",
+          "hi": "ब्रोमीन जल का उपयोग केवल धूम-कोष्ठ या हवादार स्थान पर करें।"
+        },
+        {
+          "en": "Do the real experiment only under your teacher's supervision.",
+          "hi": "वास्तविक प्रयोग केवल अपने शिक्षक की देखरेख में करें।"
+        }
+      ],
+      "simulationLimits": [
+        {
+          "en": "This reaction is from the textbook. The usual practical tests for phenol (such as the neutral ferric chloride test) are not simulated.",
+          "hi": "यह अभिक्रिया पाठ्यपुस्तक से है। फ़ीनॉल के सामान्य प्रायोगिक परीक्षण (जैसे उदासीन फ़ेरिक क्लोराइड परीक्षण) इसमें नहीं हैं।"
+        },
+        {
+          "en": "Amounts are approximate. Use it to prepare, not as a replacement for a real experiment.",
+          "hi": "मात्राएँ अनुमानित हैं। इसका उपयोग तैयारी के लिए करें, वास्तविक प्रयोग के स्थान पर नहीं।"
+        }
+      ],
+      "viva": [
+        {
+          "question": {
+            "en": "What do you observe when bromine water is added to phenol solution?",
+            "hi": "फ़ीनॉल विलयन में ब्रोमीन जल मिलाने पर क्या दिखता है?"
+          },
+          "answer": {
+            "en": "The bromine water is decolourised and a white precipitate of 2,4,6-tribromophenol forms.",
+            "hi": "ब्रोमीन जल रंगहीन हो जाता है और 2,4,6-ट्राइब्रोमोफ़ीनॉल का सफ़ेद अवक्षेप बनता है।"
+          }
+        },
+        {
+          "question": {
+            "en": "Why does phenol react with bromine water without a Lewis acid catalyst?",
+            "hi": "फ़ीनॉल बिना लूइस अम्ल उत्प्रेरक के ब्रोमीन जल से अभिक्रिया क्यों करता है?"
+          },
+          "answer": {
+            "en": "The –OH group strongly activates the benzene ring by increasing electron density at the ortho and para positions.",
+            "hi": "–OH समूह ऑर्थो और पैरा स्थितियों पर इलेक्ट्रॉन घनत्व बढ़ाकर बेंज़ीन वलय को प्रबल रूप से सक्रिय करता है।"
+          }
+        },
+        {
+          "question": {
+            "en": "What forms if bromine in a solvent of low polarity (such as CHCl₃ or CS₂) is used at low temperature?",
+            "hi": "यदि कम ध्रुवीयता वाले विलायक (जैसे CHCl₃ या CS₂) में ब्रोमीन का निम्न ताप पर उपयोग किया जाए तो क्या बनता है?"
+          },
+          "answer": {
+            "en": "Monobromophenols (ortho- and para-bromophenol) instead of the tribromo compound.",
+            "hi": "ट्राइब्रोमो यौगिक के स्थान पर मोनोब्रोमोफ़ीनॉल (ऑर्थो- और पैरा-ब्रोमोफ़ीनॉल)।"
+          }
+        },
+        {
+          "question": {
+            "en": "How can this reaction distinguish phenol from ethanol?",
+            "hi": "यह अभिक्रिया फ़ीनॉल को एथेनॉल से कैसे अलग कर सकती है?"
+          },
+          "answer": {
+            "en": "Phenol gives a white precipitate with bromine water; ethanol does not.",
+            "hi": "फ़ीनॉल ब्रोमीन जल के साथ सफ़ेद अवक्षेप देता है; एथेनॉल नहीं देता।"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "sourceId": "ncert-12-en",
+          "section": "7.4 (bromination of phenol)"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    }
+  ]
+}

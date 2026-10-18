@@ -1,0 +1,372 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "note-cbse-12-ch04-t4.1",
+      "targetId": "cbse-12-ch04-t4.1",
+      "covers": [],
+      "definition": {
+        "en": "The d-block (groups 3–12) lies between the s- and p-blocks; in it the (n−1)d orbitals are progressively filled. The f-block (lanthanoids and actinoids) is placed in a separate panel at the bottom of the periodic table.",
+        "hi": "d-ब्लॉक (वर्ग 3–12) s- और p-ब्लॉक के बीच स्थित है; इसमें (n−1)d कक्षक क्रमशः भरते हैं। f-ब्लॉक (लैन्थेनॉयड और एक्टिनॉयड) आवर्त सारणी के नीचे एक अलग पंक्ति में रखा जाता है।"
+      },
+      "explanation": {
+        "en": "There are four transition series: 3d (Sc to Zn), 4d (Y to Cd), 5d (La and Hf to Hg) and 6d (Ac and Rf to Cn). According to IUPAC, transition metals have an incomplete d subshell in the neutral atom or in their ions. Zn, Cd and Hg have a full d¹⁰ configuration in the ground state and in their common oxidation state, so they are not regarded as transition metals, though they are studied with them.",
+        "hi": "चार संक्रमण श्रेणियाँ हैं: 3d (Sc से Zn), 4d (Y से Cd), 5d (La तथा Hf से Hg) और 6d (Ac तथा Rf से Cn)। IUPAC के अनुसार संक्रमण धातुओं के उदासीन परमाणु या उनके आयनों में d उपकोश अपूर्ण होता है। Zn, Cd और Hg का मूल अवस्था तथा सामान्य ऑक्सीकरण अवस्था दोनों में पूर्ण d¹⁰ विन्यास होता है, अतः इन्हें संक्रमण धातु नहीं माना जाता, यद्यपि इनका अध्ययन इन्हीं के साथ किया जाता है।"
+      },
+      "keyPoints": [
+        {"en": "Lanthanoids: 4f series (Ce to Lu); actinoids: 5f series (Th to Lr).", "hi": "लैन्थेनॉयड: 4f श्रेणी (Ce से Lu); एक्टिनॉयड: 5f श्रेणी (Th से Lr)।"},
+        {"en": "The name 'transition' came from properties that are transitional between s- and p-block elements.", "hi": "'संक्रमण' नाम इसलिए पड़ा क्योंकि इनके गुण s- और p-ब्लॉक तत्वों के बीच के (संक्रमणकालीन) होते हैं।"},
+        {"en": "Iron, copper, silver, gold, titanium and platinum are transition metals.", "hi": "आयरन, कॉपर, सिल्वर, गोल्ड, टाइटेनियम और प्लैटिनम संक्रमण धातुएँ हैं।"}
+      ],
+      "realLife": {
+        "en": "Iron and steel for construction, copper for wiring, and precious metals like gold, silver and platinum all come from the d-block.",
+        "hi": "निर्माण के लिए आयरन और स्टील, तारों के लिए कॉपर, और सोना, चाँदी, प्लैटिनम जैसी बहुमूल्य धातुएँ — सब d-ब्लॉक से आती हैं।"
+      },
+      "examFocus": {
+        "en": "State why Zn, Cd and Hg are not regarded as transition metals; name the four transition series.",
+        "hi": "बताइए कि Zn, Cd और Hg को संक्रमण धातु क्यों नहीं माना जाता; चारों संक्रमण श्रेणियों के नाम लिखिए।"
+      },
+      "commonMistakes": [
+        {"en": "Calling zinc a transition metal — its 3d subshell is full both in Zn and in Zn²⁺.", "hi": "ज़िंक को संक्रमण धातु कहना — Zn तथा Zn²⁺ दोनों में इसका 3d उपकोश पूर्ण है।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["transition-elements"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "4.1"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "Zn-Cd-Hg: 'full house, no transition'", "hi": "Zn-Cd-Hg: 'घर भरा, संक्रमण नहीं'"},
+          "recall": {"en": "Group 12 metals have a completely filled (n−1)d¹⁰ subshell in the atom and in their common ion, so they are not transition metals.", "hi": "वर्ग 12 की धातुओं के परमाणु और उनके सामान्य आयन में (n−1)d¹⁰ उपकोश पूर्ण भरा होता है, इसलिए वे संक्रमण धातु नहीं हैं।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Transition metal = incomplete d subshell in the atom or in its ion.", "hi": "संक्रमण धातु = परमाणु या उसके आयन में अपूर्ण d उपकोश।"},
+        "points": [
+          {"en": "d-block = groups 3–12; four series 3d, 4d, 5d, 6d.", "hi": "d-ब्लॉक = वर्ग 3–12; चार श्रेणियाँ 3d, 4d, 5d, 6d।"},
+          {"en": "Zn, Cd, Hg are not transition metals (d¹⁰).", "hi": "Zn, Cd, Hg संक्रमण धातु नहीं हैं (d¹⁰)।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch04-t4.2",
+      "targetId": "cbse-12-ch04-t4.2",
+      "covers": [],
+      "definition": {
+        "en": "The general outer electronic configuration of d-block elements is (n−1)d¹⁻¹⁰ ns¹⁻² (Pd is an exception: 4d¹⁰ 5s⁰).",
+        "hi": "d-ब्लॉक तत्वों का सामान्य बाह्य इलेक्ट्रॉनिक विन्यास (n−1)d¹⁻¹⁰ ns¹⁻² है (Pd अपवाद है: 4d¹⁰ 5s⁰)।"
+      },
+      "explanation": {
+        "en": "The energies of (n−1)d and ns orbitals are very close, so the generalisation has exceptions. Half-filled and completely filled d sets are extra stable: Cr is 3d⁵4s¹ (not 3d⁴4s²) and Cu is 3d¹⁰4s¹ (not 3d⁹4s²). Sc (3d¹) is a transition element because its 3d is incomplete, while Zn (3d¹⁰) is not. Silver (4d¹⁰5s¹) counts as a transition element because Ag²⁺ has an incomplete 4d⁹ set.",
+        "hi": "(n−1)d और ns कक्षकों की ऊर्जाएँ बहुत समीप होती हैं, इसलिए इस सामान्यीकरण के अपवाद हैं। अर्धपूरित और पूर्णपूरित d समुच्चय अधिक स्थायी होते हैं: Cr का विन्यास 3d⁵4s¹ है (3d⁴4s² नहीं) और Cu का 3d¹⁰4s¹ है (3d⁹4s² नहीं)। Sc (3d¹) संक्रमण तत्व है क्योंकि इसका 3d अपूर्ण है, जबकि Zn (3d¹⁰) नहीं है। सिल्वर (4d¹⁰5s¹) को संक्रमण तत्व माना जाता है क्योंकि Ag²⁺ में 4d⁹ अपूर्ण समुच्चय होता है।"
+      },
+      "keyPoints": [
+        {"en": "When d-block atoms form ions, ns electrons are lost before (n−1)d electrons.", "hi": "जब d-ब्लॉक परमाणु आयन बनाते हैं, तो (n−1)d से पहले ns इलेक्ट्रॉन निकलते हैं।"},
+        {"en": "Zn, Cd, Hg and Cn have (n−1)d¹⁰ ns² configurations.", "hi": "Zn, Cd, Hg और Cn का विन्यास (n−1)d¹⁰ ns² है।"},
+        {"en": "d orbitals protrude to the periphery of the atom, so they are strongly influenced by surrounding ligands.", "hi": "d कक्षक परमाणु की परिधि तक फैले होते हैं, इसलिए आसपास के लिगेंड इन्हें अधिक प्रभावित करते हैं।"}
+      ],
+      "realLife": {
+        "en": "The partly filled d orbitals explain why copper sulphate is blue and why iron is attracted to a magnet.",
+        "hi": "आंशिक रूप से भरे d कक्षक बताते हैं कि कॉपर सल्फ़ेट नीला क्यों है और आयरन चुंबक की ओर क्यों आकर्षित होता है।"
+      },
+      "examFocus": {
+        "en": "Write configurations of Cr, Cu and their ions; explain why Sc is a transition element but Zn is not.",
+        "hi": "Cr, Cu तथा उनके आयनों के विन्यास लिखिए; बताइए कि Sc संक्रमण तत्व क्यों है परंतु Zn नहीं।"
+      },
+      "commonMistakes": [
+        {"en": "Removing 3d electrons first when writing Fe²⁺ — it is [Ar]3d⁶ (the 4s² electrons go first).", "hi": "Fe²⁺ लिखते समय पहले 3d इलेक्ट्रॉन हटाना — यह [Ar]3d⁶ है (पहले 4s² इलेक्ट्रॉन निकलते हैं)।"}
+      ],
+      "formulas": ["(n−1)d¹⁻¹⁰ ns¹⁻²", "Cr: [Ar] 3d⁵ 4s¹", "Cu: [Ar] 3d¹⁰ 4s¹"],
+      "practicalIds": [],
+      "conceptIds": ["transition-elements"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "4.2"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "Cr and Cu 'borrow one from 4s'", "hi": "Cr और Cu '4s से एक उधार लेते हैं'"},
+          "recall": {"en": "Cr becomes 3d⁵4s¹ (half-filled) and Cu becomes 3d¹⁰4s¹ (full) because half-filled and filled d sets are extra stable.", "hi": "Cr का 3d⁵4s¹ (अर्धपूरित) और Cu का 3d¹⁰4s¹ (पूर्णपूरित) बनता है, क्योंकि अर्धपूरित और पूर्णपूरित d समुच्चय अधिक स्थायी होते हैं।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "d-block: (n−1)d¹⁻¹⁰ ns¹⁻²; ions lose ns electrons first.", "hi": "d-ब्लॉक: (n−1)d¹⁻¹⁰ ns¹⁻²; आयन पहले ns इलेक्ट्रॉन खोते हैं।"},
+        "formula": "(n−1)d¹⁻¹⁰ ns¹⁻²",
+        "points": [
+          {"en": "Exceptions: Cr 3d⁵4s¹, Cu 3d¹⁰4s¹, Pd 4d¹⁰5s⁰.", "hi": "अपवाद: Cr 3d⁵4s¹, Cu 3d¹⁰4s¹, Pd 4d¹⁰5s⁰।"},
+          {"en": "Sc (3d¹) is transition; Zn (3d¹⁰) is not.", "hi": "Sc (3d¹) संक्रमण है; Zn (3d¹⁰) नहीं।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch04-t4.3",
+      "targetId": "cbse-12-ch04-t4.3",
+      "covers": [],
+      "definition": {
+        "en": "Transition elements are hard metals with high melting points and enthalpies of atomisation; they show variable oxidation states, paramagnetism, coloured ions, catalytic activity, and form complexes, interstitial compounds and alloys.",
+        "hi": "संक्रमण तत्व उच्च गलनांक और उच्च परमाणुकरण एन्थैल्पी वाली कठोर धातुएँ हैं; ये परिवर्ती ऑक्सीकरण अवस्थाएँ, अनुचुंबकत्व, रंगीन आयन और उत्प्रेरकीय सक्रियता दर्शाते हैं तथा संकुल, अंतराकाशी यौगिक और मिश्रातु बनाते हैं।"
+      },
+      "explanation": {
+        "en": "(n−1)d electrons join ns electrons in metallic bonding, so melting points and enthalpies of atomisation are high, peaking near d⁵. Across a series radii decrease only slightly because d electrons shield poorly; 4d and 5d radii are almost equal (Zr 160 pm, Hf 159 pm) because of the lanthanoid contraction. Oxidation states differ by one (V²⁺ to V⁵⁺); Mn shows +2 to +7. Unpaired electrons give paramagnetism, μ = √(n(n+2)) BM. Colour arises from d–d transitions in visible light; Sc³⁺, Ti⁴⁺, Cu⁺ and Zn²⁺ are colourless. Catalysis comes from variable oxidation states and surface complex formation (V₂O₅ in the Contact process, Fe in the Haber process, Ni in hydrogenation).",
+        "hi": "(n−1)d इलेक्ट्रॉन ns इलेक्ट्रॉनों के साथ धात्विक आबंधन में भाग लेते हैं, इसलिए गलनांक और परमाणुकरण एन्थैल्पी उच्च होती हैं, जो d⁵ के आसपास अधिकतम होती हैं। श्रेणी में आगे बढ़ने पर त्रिज्या थोड़ी ही घटती है क्योंकि d इलेक्ट्रॉन कम परिरक्षण करते हैं; लैन्थेनॉयड आकुंचन के कारण 4d और 5d की त्रिज्याएँ लगभग समान होती हैं (Zr 160 pm, Hf 159 pm)। ऑक्सीकरण अवस्थाएँ एक-एक के अंतर से बदलती हैं (V²⁺ से V⁵⁺); Mn +2 से +7 तक दर्शाता है। अयुग्मित इलेक्ट्रॉन अनुचुंबकत्व देते हैं, μ = √(n(n+2)) BM। रंग दृश्य प्रकाश में d–d संक्रमण से आता है; Sc³⁺, Ti⁴⁺, Cu⁺ और Zn²⁺ रंगहीन हैं। उत्प्रेरण परिवर्ती ऑक्सीकरण अवस्थाओं और सतह पर संकुल बनने से होता है (संपर्क प्रक्रम में V₂O₅, हाबर प्रक्रम में Fe, हाइड्रोजनीकरण में Ni)।"
+      },
+      "keyPoints": [
+        {"en": "Zn has the lowest enthalpy of atomisation in the 3d series — no unpaired d electrons take part in bonding.", "hi": "3d श्रेणी में Zn की परमाणुकरण एन्थैल्पी सबसे कम है — आबंधन में कोई अयुग्मित d इलेक्ट्रॉन भाग नहीं लेता।"},
+        {"en": "E°(Cu²⁺/Cu) = +0.34 V is positive: high ΔaH° of Cu is not balanced by its hydration enthalpy, so Cu does not liberate H₂ from acids.", "hi": "E°(Cu²⁺/Cu) = +0.34 V धनात्मक है: Cu की उच्च ΔaH° इसकी जलयोजन एन्थैल्पी से संतुलित नहीं होती, इसलिए Cu अम्लों से H₂ मुक्त नहीं करता।"},
+        {"en": "The highest oxidation states are shown in oxides and fluorides (Mn₂O₇, CrF₆) because O and F are small and highly electronegative.", "hi": "उच्चतम ऑक्सीकरण अवस्थाएँ ऑक्साइडों और फ़्लुओराइडों में मिलती हैं (Mn₂O₇, CrF₆) क्योंकि O और F छोटे तथा अत्यधिक विद्युत-ऋणात्मक हैं।"},
+        {"en": "Cr²⁺ is reducing (d⁴ → d³, half-filled t₂g) while Mn³⁺ is oxidising (d⁴ → d⁵, extra stable); Cu⁺ disproportionates in water: 2Cu⁺ → Cu²⁺ + Cu.", "hi": "Cr²⁺ अपचायक है (d⁴ → d³, अर्धपूरित t₂g) जबकि Mn³⁺ ऑक्सीकारक है (d⁴ → d⁵, अधिक स्थायी); जल में Cu⁺ असमानुपातित होता है: 2Cu⁺ → Cu²⁺ + Cu।"}
+      ],
+      "realLife": {
+        "en": "Steel alloys with Cr, V, W, Mo and Mn, brass (Cu–Zn) and bronze (Cu–Sn), and catalysts in fertiliser and acid industries all rely on these properties.",
+        "hi": "Cr, V, W, Mo और Mn वाले स्टील मिश्रातु, पीतल (Cu–Zn) और कांसा (Cu–Sn), तथा उर्वरक और अम्ल उद्योगों के उत्प्रेरक — सब इन्हीं गुणों पर निर्भर हैं।"
+      },
+      "examFocus": {
+        "en": "Give reasons for trends (melting point, ionisation enthalpy, E° values, colour, catalysis); calculate spin-only magnetic moments.",
+        "hi": "प्रवृत्तियों (गलनांक, आयनन एन्थैल्पी, E° मान, रंग, उत्प्रेरण) के कारण दीजिए; केवल-चक्रण चुंबकीय आघूर्ण की गणना कीजिए।"
+      },
+      "commonMistakes": [
+        {"en": "Counting all d electrons as unpaired in μ = √(n(n+2)) — n is only the number of unpaired electrons (Fe²⁺, d⁶ → n = 4, μ = 4.90 BM).", "hi": "μ = √(n(n+2)) में सभी d इलेक्ट्रॉनों को अयुग्मित गिनना — n केवल अयुग्मित इलेक्ट्रॉनों की संख्या है (Fe²⁺, d⁶ → n = 4, μ = 4.90 BM)।"},
+        {"en": "Saying interstitial compounds are ionic — they are non-stoichiometric, neither typically ionic nor covalent (TiC, Fe₃H).", "hi": "अंतराकाशी यौगिकों को आयनिक कहना — ये अरससमीकरणमितीय होते हैं, न विशिष्ट आयनिक न सहसंयोजक (TiC, Fe₃H)।"}
+      ],
+      "formulas": [
+        "μ = √(n(n + 2)) BM",
+        "2Cu⁺(aq) → Cu²⁺(aq) + Cu(s)",
+        "2Fe³⁺ + 2I⁻ → 2Fe²⁺ + I₂",
+        "2Fe²⁺ + S₂O₈²⁻ → 2Fe³⁺ + 2SO₄²⁻"
+      ],
+      "practicalIds": [],
+      "conceptIds": ["transition-elements"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "4.3"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "'Mn = Max' in the 3d series", "hi": "3d श्रेणी में 'Mn = अधिकतम'"},
+          "recall": {"en": "Manganese, in the middle of the series, shows the most oxidation states: every state from +2 to +7.", "hi": "श्रेणी के मध्य में स्थित मैंगनीज़ सबसे अधिक ऑक्सीकरण अवस्थाएँ दर्शाता है: +2 से +7 तक हर अवस्था।"}
+        },
+        {
+          "trick": {"en": "Colourless ions: 'd⁰ or d¹⁰ — no colour show'", "hi": "रंगहीन आयन: 'd⁰ या d¹⁰ — रंग नहीं'"},
+          "recall": {"en": "Sc³⁺, Ti⁴⁺ (d⁰) and Cu⁺, Zn²⁺ (d¹⁰) have no d–d transition, so they are colourless.", "hi": "Sc³⁺, Ti⁴⁺ (d⁰) और Cu⁺, Zn²⁺ (d¹⁰) में d–d संक्रमण नहीं होता, इसलिए वे रंगहीन होते हैं।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Partly filled d orbitals → variable oxidation states, colour, paramagnetism, catalysis, complexes.", "hi": "आंशिक भरे d कक्षक → परिवर्ती ऑक्सीकरण अवस्थाएँ, रंग, अनुचुंबकत्व, उत्प्रेरण, संकुल।"},
+        "formula": "μ = √(n(n + 2)) BM",
+        "points": [
+          {"en": "Lanthanoid contraction makes 4d and 5d radii nearly equal (Zr ≈ Hf).", "hi": "लैन्थेनॉयड आकुंचन से 4d और 5d की त्रिज्याएँ लगभग समान (Zr ≈ Hf)।"},
+          {"en": "Highest oxidation states in oxides and fluorides; Mn shows +2 to +7.", "hi": "उच्चतम ऑक्सीकरण अवस्थाएँ ऑक्साइडों और फ़्लुओराइडों में; Mn +2 से +7।"},
+          {"en": "Cu⁺ disproportionates in water; Cu²⁺(aq) is more stable.", "hi": "जल में Cu⁺ असमानुपातित होता है; Cu²⁺(aq) अधिक स्थायी है।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch04-t4.4",
+      "targetId": "cbse-12-ch04-t4.4",
+      "covers": [],
+      "definition": {
+        "en": "Important compounds of transition elements include their oxides and oxoanions, especially potassium dichromate (K₂Cr₂O₇) and potassium permanganate (KMnO₄), which are strong oxidising agents.",
+        "hi": "संक्रमण तत्वों के महत्वपूर्ण यौगिकों में उनके ऑक्साइड और ऑक्सोऋणायन शामिल हैं, विशेषकर पोटैशियम डाइक्रोमेट (K₂Cr₂O₇) और पोटैशियम परमैंगनेट (KMnO₄), जो प्रबल ऑक्सीकारक हैं।"
+      },
+      "explanation": {
+        "en": "As the oxidation number rises, oxides become less ionic and more acidic: Mn₂O₇ is a covalent green oil, CrO₃ is acidic, CrO is basic, Cr₂O₃ and V₂O₅ are amphoteric. K₂Cr₂O₇ is made by fusing chromite ore (FeCr₂O₄) with Na₂CO₃ in air, acidifying the yellow chromate to orange dichromate, and treating Na₂Cr₂O₇ with KCl. Chromate and dichromate interconvert with pH. KMnO₄ is made by fusing MnO₂ with KOH and an oxidant to give green K₂MnO₄, which disproportionates in neutral or acidic solution (or is oxidised electrolytically) to purple permanganate. Manganate is paramagnetic (one unpaired electron); permanganate is diamagnetic.",
+        "hi": "ऑक्सीकरण संख्या बढ़ने पर ऑक्साइड कम आयनिक और अधिक अम्लीय होते जाते हैं: Mn₂O₇ एक सहसंयोजक हरा तेल है, CrO₃ अम्लीय है, CrO क्षारकीय है, Cr₂O₃ और V₂O₅ उभयधर्मी हैं। K₂Cr₂O₇ बनाने के लिए क्रोमाइट अयस्क (FeCr₂O₄) को वायु में Na₂CO₃ के साथ संगलित करते हैं, पीले क्रोमेट को अम्लीकृत कर नारंगी डाइक्रोमेट बनाते हैं और Na₂Cr₂O₇ को KCl से उपचारित करते हैं। pH के अनुसार क्रोमेट और डाइक्रोमेट परस्पर बदलते हैं। KMnO₄ बनाने के लिए MnO₂ को KOH और ऑक्सीकारक के साथ संगलित कर हरा K₂MnO₄ बनाते हैं, जो उदासीन या अम्लीय विलयन में असमानुपातित होकर (या विद्युत-अपघटनी ऑक्सीकरण से) बैंगनी परमैंगनेट बनाता है। मैंगनेट अनुचुंबकीय (एक अयुग्मित इलेक्ट्रॉन) और परमैंगनेट प्रतिचुंबकीय है।"
+      },
+      "keyPoints": [
+        {"en": "Oxidation state of Cr is +6 in both CrO₄²⁻ (tetrahedral, yellow) and Cr₂O₇²⁻ (two tetrahedra sharing an O, orange).", "hi": "CrO₄²⁻ (चतुष्फलकीय, पीला) और Cr₂O₇²⁻ (एक O साझा करते दो चतुष्फलक, नारंगी) दोनों में Cr की ऑक्सीकरण अवस्था +6 है।"},
+        {"en": "Acidified KMnO₄ oxidises Fe²⁺ to Fe³⁺, oxalate to CO₂, I⁻ to I₂ and nitrite to nitrate.", "hi": "अम्लीकृत KMnO₄, Fe²⁺ को Fe³⁺, ऑक्सेलेट को CO₂, I⁻ को I₂ और नाइट्राइट को नाइट्रेट में ऑक्सीकृत करता है।"},
+        {"en": "KMnO₄ titrations are not done in HCl because HCl is oxidised to chlorine.", "hi": "KMnO₄ अनुमापन HCl में नहीं किए जाते क्योंकि HCl क्लोरीन में ऑक्सीकृत हो जाता है।"},
+        {"en": "K₂Cr₂O₇ is a primary standard in volumetric analysis.", "hi": "K₂Cr₂O₇ आयतनमितीय विश्लेषण में प्राथमिक मानक है।"}
+      ],
+      "realLife": {
+        "en": "K₂Cr₂O₇ is used in the leather industry and for making azo compounds; KMnO₄ bleaches wool, cotton and silk and decolourises oils.",
+        "hi": "K₂Cr₂O₇ चमड़ा उद्योग और ऐज़ो यौगिक बनाने में प्रयुक्त होता है; KMnO₄ ऊन, कपास और रेशम का विरंजन करता है और तेलों को रंगहीन करता है।"
+      },
+      "examFocus": {
+        "en": "Write the preparation equations of K₂Cr₂O₇ and KMnO₄ and their ionic half-equations as oxidants in acidic medium; explain the chromate–dichromate change with pH.",
+        "hi": "K₂Cr₂O₇ और KMnO₄ के विरचन के समीकरण तथा अम्लीय माध्यम में ऑक्सीकारक के रूप में उनके आयनिक अर्ध-समीकरण लिखिए; pH से क्रोमेट–डाइक्रोमेट परिवर्तन समझाइए।"
+      },
+      "commonMistakes": [
+        {"en": "Thinking Cr changes oxidation state when chromate turns into dichromate — it stays +6; only the ion changes.", "hi": "यह मानना कि क्रोमेट से डाइक्रोमेट बनने पर Cr की ऑक्सीकरण अवस्था बदलती है — यह +6 ही रहती है; केवल आयन बदलता है।"}
+      ],
+      "formulas": [
+        "4FeCr₂O₄ + 8Na₂CO₃ + 7O₂ → 8Na₂CrO₄ + 2Fe₂O₃ + 8CO₂",
+        "2Na₂CrO₄ + 2H⁺ → Na₂Cr₂O₇ + 2Na⁺ + H₂O",
+        "Na₂Cr₂O₇ + 2KCl → K₂Cr₂O₇ + 2NaCl",
+        "Cr₂O₇²⁻ + 14H⁺ + 6e⁻ → 2Cr³⁺ + 7H₂O",
+        "2MnO₂ + 4KOH + O₂ → 2K₂MnO₄ + 2H₂O",
+        "3MnO₄²⁻ + 4H⁺ → 2MnO₄⁻ + MnO₂ + 2H₂O",
+        "MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O",
+        "5C₂O₄²⁻ + 2MnO₄⁻ + 16H⁺ → 2Mn²⁺ + 8H₂O + 10CO₂"
+      ],
+      "practicalIds": ["cbse-12-pJ"],
+      "conceptIds": ["transition-elements"],
+      "chemicalIds": ["potassium-dichromate", "potassium-permanganate"],
+      "sources": [{"sourceId": "ncert-12-en", "section": "4.4"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "'5 for Mn, 6 for Cr' in acid", "hi": "अम्ल में 'Mn के लिए 5, Cr के लिए 6'"},
+          "recall": {"en": "In acidic medium MnO₄⁻ gains 5 electrons (to Mn²⁺) and Cr₂O₇²⁻ gains 6 electrons (to 2Cr³⁺).", "hi": "अम्लीय माध्यम में MnO₄⁻ 5 इलेक्ट्रॉन लेता है (Mn²⁺ बनता है) और Cr₂O₇²⁻ 6 इलेक्ट्रॉन लेता है (2Cr³⁺ बनते हैं)।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "K₂Cr₂O₇ (orange) and KMnO₄ (purple) are strong oxidants in acidic medium.", "hi": "K₂Cr₂O₇ (नारंगी) और KMnO₄ (बैंगनी) अम्लीय माध्यम में प्रबल ऑक्सीकारक हैं।"},
+        "formula": "MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O",
+        "points": [
+          {"en": "Chromite ore → Na₂CrO₄ → Na₂Cr₂O₇ → K₂Cr₂O₇ (with KCl).", "hi": "क्रोमाइट अयस्क → Na₂CrO₄ → Na₂Cr₂O₇ → K₂Cr₂O₇ (KCl से)।"},
+          {"en": "MnO₂ → K₂MnO₄ (green, paramagnetic) → KMnO₄ (purple, diamagnetic).", "hi": "MnO₂ → K₂MnO₄ (हरा, अनुचुंबकीय) → KMnO₄ (बैंगनी, प्रतिचुंबकीय)।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch04-t4.5",
+      "targetId": "cbse-12-ch04-t4.5",
+      "covers": [],
+      "definition": {
+        "en": "The lanthanoids are the fourteen elements after lanthanum (Ce to Lu) in which 4f orbitals are filled; their most stable oxidation state is +3.",
+        "hi": "लैन्थेनॉयड लैन्थेनम के बाद के चौदह तत्व (Ce से Lu) हैं जिनमें 4f कक्षक भरते हैं; इनकी सबसे स्थायी ऑक्सीकरण अवस्था +3 है।"
+      },
+      "explanation": {
+        "en": "All have 6s² with variable 4f occupancy; Ln³⁺ ions are 4fⁿ (n = 1 to 14). The steady decrease in atomic and ionic radii from La to Lu is the lanthanoid contraction, caused by imperfect shielding of one 4f electron by another. Its consequence is that Zr and Hf have almost the same radius, occur together and are hard to separate. Ce shows +4 (f⁰, a strong oxidant), Eu²⁺ (f⁷) and Yb²⁺ (f¹⁴) are reductants. Lanthanoids are silvery-white soft metals that tarnish in air; early members are reactive like calcium, later ones behave more like aluminium. Many Ln³⁺ ions are coloured due to f electrons; La³⁺ and Lu³⁺ are colourless.",
+        "hi": "सभी में 6s² के साथ 4f की परिवर्ती संख्या होती है; Ln³⁺ आयन 4fⁿ (n = 1 से 14) होते हैं। La से Lu तक परमाणु और आयनिक त्रिज्याओं में क्रमिक कमी लैन्थेनॉयड आकुंचन है, जो एक 4f इलेक्ट्रॉन द्वारा दूसरे के अपूर्ण परिरक्षण के कारण होता है। इसका परिणाम है कि Zr और Hf की त्रिज्या लगभग समान है, वे साथ-साथ पाए जाते हैं और उन्हें अलग करना कठिन है। Ce +4 (f⁰, प्रबल ऑक्सीकारक) दर्शाता है, Eu²⁺ (f⁷) और Yb²⁺ (f¹⁴) अपचायक हैं। लैन्थेनॉयड चाँदी जैसी सफ़ेद, नरम धातुएँ हैं जो वायु में धूमिल हो जाती हैं; आरंभिक सदस्य कैल्सियम जैसे क्रियाशील और बाद वाले ऐलुमिनियम जैसे होते हैं। f इलेक्ट्रॉनों के कारण अनेक Ln³⁺ आयन रंगीन होते हैं; La³⁺ और Lu³⁺ रंगहीन हैं।"
+      },
+      "keyPoints": [
+        {"en": "Lanthanoids react with carbon to give carbides, with dilute acids to give H₂, and burn in halogens to give LnX₃.", "hi": "लैन्थेनॉयड कार्बन से कार्बाइड, तनु अम्लों से H₂ और हैलोजनों में जलकर LnX₃ बनाते हैं।"},
+        {"en": "Ions other than f⁰ (La³⁺, Ce⁴⁺) and f¹⁴ (Yb²⁺, Lu³⁺) are paramagnetic.", "hi": "f⁰ (La³⁺, Ce⁴⁺) और f¹⁴ (Yb²⁺, Lu³⁺) के अतिरिक्त सभी आयन अनुचुंबकीय होते हैं।"},
+        {"en": "Mischmetall (about 95% lanthanoid metal, 5% iron, traces of S, C, Ca, Al) is used in Mg alloys for bullets and shells and in lighter flints.", "hi": "मिश-धातु (लगभग 95% लैन्थेनॉयड धातु, 5% आयरन, S, C, Ca, Al के अंश) गोलियों और खोलों के Mg मिश्रातुओं तथा लाइटर के फ़्लिंट में प्रयुक्त होती है।"}
+      ],
+      "realLife": {
+        "en": "Lanthanoids are used in alloy steels for plates and pipes, lighter flints and, as mixed oxides, as catalysts in petroleum cracking.",
+        "hi": "लैन्थेनॉयड प्लेटों और पाइपों के मिश्रातु स्टील, लाइटर के फ़्लिंट और मिश्रित ऑक्साइडों के रूप में पेट्रोलियम भंजन में उत्प्रेरक के रूप में प्रयुक्त होते हैं।"
+      },
+      "examFocus": {
+        "en": "Define lanthanoid contraction, give its cause and consequences; explain the +4 state of Ce and +2 state of Eu.",
+        "hi": "लैन्थेनॉयड आकुंचन की परिभाषा, कारण और परिणाम दीजिए; Ce की +4 और Eu की +2 अवस्था समझाइए।"
+      },
+      "commonMistakes": [
+        {"en": "Giving 'increasing nuclear charge' alone as the cause — the key is the poor shielding by 4f electrons.", "hi": "केवल 'बढ़ता नाभिकीय आवेश' कारण बताना — मुख्य कारण 4f इलेक्ट्रॉनों का कमज़ोर परिरक्षण है।"}
+      ],
+      "formulas": ["Ln: [Xe] 4fⁿ 6s² (variable 5d⁰⁻¹)", "Ln³⁺: [Xe] 4fⁿ (n = 1 to 14)"],
+      "practicalIds": [],
+      "conceptIds": ["transition-elements"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "4.5"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "Ce goes to 4 to become 'zero-f'; Eu and Yb go to 2 to become 'half' and 'full'", "hi": "Ce '4' पर जाकर 'शून्य-f' बनता है; Eu और Yb '2' पर जाकर 'आधा' और 'पूरा' बनते हैं"},
+          "recall": {"en": "Ce⁴⁺ is 4f⁰, Eu²⁺ is 4f⁷ and Yb²⁺ is 4f¹⁴ — empty, half-filled and filled f subshells are extra stable.", "hi": "Ce⁴⁺ 4f⁰, Eu²⁺ 4f⁷ और Yb²⁺ 4f¹⁴ है — रिक्त, अर्धपूरित और पूर्णपूरित f उपकोश अधिक स्थायी होते हैं।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Lanthanoids: Ce–Lu, 4f filling, common state +3, show lanthanoid contraction.", "hi": "लैन्थेनॉयड: Ce–Lu, 4f भरता है, सामान्य अवस्था +3, लैन्थेनॉयड आकुंचन।"},
+        "formula": "Ln³⁺: [Xe] 4fⁿ (n = 1 to 14)",
+        "points": [
+          {"en": "Cause of contraction: poor shielding by 4f electrons.", "hi": "आकुंचन का कारण: 4f इलेक्ट्रॉनों का कमज़ोर परिरक्षण।"},
+          {"en": "Consequence: Zr and Hf have nearly the same size and properties.", "hi": "परिणाम: Zr और Hf का आकार और गुण लगभग समान।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch04-t4.6",
+      "targetId": "cbse-12-ch04-t4.6",
+      "covers": [],
+      "definition": {
+        "en": "The actinoids are the fourteen elements from thorium to lawrencium (Th to Lr) in which 5f orbitals are filled; all are radioactive.",
+        "hi": "एक्टिनॉयड थोरियम से लॉरेन्शियम (Th से Lr) तक के चौदह तत्व हैं जिनमें 5f कक्षक भरते हैं; सभी रेडियोधर्मी हैं।"
+      },
+      "explanation": {
+        "en": "Actinoids have 7s² with variable occupancy of 5f and 6d (Am: [Rn]5f⁷7s², Cm: [Rn]5f⁷6d¹7s²). 5f orbitals are less buried than 4f, so 5f electrons take part in bonding more. Because 5f, 6d and 7s energies are close, they show a wider range of oxidation states: +3 is general, but the maximum rises from +4 (Th) to +5 (Pa), +6 (U) and +7 (Np) and then falls. The actinoid contraction is larger from element to element than the lanthanoid contraction because 5f electrons shield even more poorly. Later members have very short half-lives and are made only in nanogram amounts, which makes their study difficult.",
+        "hi": "एक्टिनॉयडों में 7s² के साथ 5f और 6d की परिवर्ती संख्या होती है (Am: [Rn]5f⁷7s², Cm: [Rn]5f⁷6d¹7s²)। 5f कक्षक 4f जितने भीतर दबे नहीं होते, इसलिए 5f इलेक्ट्रॉन आबंधन में अधिक भाग लेते हैं। 5f, 6d और 7s की ऊर्जाएँ समीप होने से ये अधिक विस्तृत ऑक्सीकरण अवस्थाएँ दर्शाते हैं: +3 सामान्य है, परंतु अधिकतम अवस्था +4 (Th) से +5 (Pa), +6 (U) और +7 (Np) तक बढ़कर फिर घटती है। एक्टिनॉयड आकुंचन एक तत्व से अगले तक लैन्थेनॉयड आकुंचन से अधिक है क्योंकि 5f इलेक्ट्रॉनों का परिरक्षण और भी कमज़ोर है। बाद के सदस्यों की अर्धायु बहुत कम है और वे केवल नैनोग्राम मात्रा में बनाए जा सके हैं, जिससे उनका अध्ययन कठिन है।"
+      },
+      "keyPoints": [
+        {"en": "Actinoids are highly reactive, especially when finely divided; HCl attacks all of them, nitric acid only slightly (protective oxide layer).", "hi": "एक्टिनॉयड विशेषकर सूक्ष्म विभाजित अवस्था में अत्यधिक क्रियाशील हैं; HCl सभी पर क्रिया करता है, नाइट्रिक अम्ल केवल थोड़ा (रक्षात्मक ऑक्साइड परत)।"},
+        {"en": "Early actinoids have lower ionisation enthalpies than early lanthanoids.", "hi": "आरंभिक एक्टिनॉयडों की आयनन एन्थैल्पी आरंभिक लैन्थेनॉयडों से कम है।"},
+        {"en": "Their magnetic properties are more complex than those of lanthanoids.", "hi": "इनके चुंबकीय गुण लैन्थेनॉयडों से अधिक जटिल हैं।"}
+      ],
+      "realLife": {
+        "en": "Thorium, protactinium and uranium are important sources of nuclear energy.",
+        "hi": "थोरियम, प्रोटैक्टिनियम और यूरेनियम नाभिकीय ऊर्जा के महत्वपूर्ण स्रोत हैं।"
+      },
+      "examFocus": {
+        "en": "Compare lanthanoids and actinoids (configuration, oxidation states, contraction, radioactivity, reactivity); explain why actinoids show more oxidation states.",
+        "hi": "लैन्थेनॉयडों और एक्टिनॉयडों की तुलना कीजिए (विन्यास, ऑक्सीकरण अवस्थाएँ, आकुंचन, रेडियोधर्मिता, क्रियाशीलता); बताइए कि एक्टिनॉयड अधिक ऑक्सीकरण अवस्थाएँ क्यों दर्शाते हैं।"
+      },
+      "commonMistakes": [
+        {"en": "Saying the lanthanoid contraction is larger — the actinoid contraction is greater from element to element.", "hi": "लैन्थेनॉयड आकुंचन को बड़ा बताना — एक तत्व से अगले तक एक्टिनॉयड आकुंचन अधिक होता है।"}
+      ],
+      "formulas": ["An: [Rn] 5f¹⁻¹⁴ 6d⁰⁻¹ 7s²"],
+      "practicalIds": [],
+      "conceptIds": ["transition-elements"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "4.6"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "Th-Pa-U-Np: 4, 5, 6, 7", "hi": "Th-Pa-U-Np: क्रमशः 4, 5, 6, 7"},
+          "recall": {"en": "The maximum oxidation state rises by one per element: Th +4, Pa +5, U +6, Np +7, then decreases.", "hi": "अधिकतम ऑक्सीकरण अवस्था हर तत्व पर एक बढ़ती है: Th +4, Pa +5, U +6, Np +7, फिर घटती है।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Actinoids: Th–Lr, 5f filling, radioactive, wider range of oxidation states.", "hi": "एक्टिनॉयड: Th–Lr, 5f भरता है, रेडियोधर्मी, अधिक विस्तृत ऑक्सीकरण अवस्थाएँ।"},
+        "points": [
+          {"en": "5f, 6d and 7s energies are close → many oxidation states.", "hi": "5f, 6d और 7s की ऊर्जाएँ समीप → अनेक ऑक्सीकरण अवस्थाएँ।"},
+          {"en": "Actinoid contraction > lanthanoid contraction (poorer 5f shielding).", "hi": "एक्टिनॉयड आकुंचन > लैन्थेनॉयड आकुंचन (5f का और कमज़ोर परिरक्षण)।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch04-t4.7",
+      "targetId": "cbse-12-ch04-t4.7",
+      "covers": [],
+      "definition": {
+        "en": "d- and f-block elements and their compounds are used as construction materials, pigments, battery materials, coinage metals, industrial catalysts and in photography.",
+        "hi": "d- और f-ब्लॉक तत्व तथा उनके यौगिक निर्माण सामग्री, वर्णक, बैटरी सामग्री, सिक्का धातु, औद्योगिक उत्प्रेरक और फ़ोटोग्राफ़ी में प्रयुक्त होते हैं।"
+      },
+      "explanation": {
+        "en": "Iron and steels are the most important construction materials, made by reducing iron oxides, removing impurities and adding carbon and metals such as Cr, Mn and Ni. TiO is used in the pigment industry and MnO₂ in dry cells; batteries also need Zn and Ni/Cd. Group 11 metals are the coinage metals. V₂O₅ catalyses SO₂ oxidation in sulphuric acid manufacture, TiCl₄ with Al(CH₃)₃ forms Ziegler catalysts for polythene, iron catalyses the Haber process, nickel catalyses hydrogenation of fats, and PdCl₂ catalyses the Wacker oxidation of ethyne to ethanal. AgBr is light-sensitive and used in photography.",
+        "hi": "आयरन और स्टील सबसे महत्वपूर्ण निर्माण सामग्री हैं, जो आयरन ऑक्साइडों के अपचयन, अशुद्धियाँ हटाने तथा कार्बन और Cr, Mn, Ni जैसी धातुएँ मिलाकर बनते हैं। TiO वर्णक उद्योग में और MnO₂ शुष्क सेलों में प्रयुक्त होता है; बैटरियों को Zn और Ni/Cd भी चाहिए। वर्ग 11 की धातुएँ सिक्का धातुएँ हैं। सल्फ़्यूरिक अम्ल निर्माण में V₂O₅, SO₂ के ऑक्सीकरण को उत्प्रेरित करता है; TiCl₄ और Al(CH₃)₃ पॉलिथीन के लिए ज़ीग्लर उत्प्रेरक बनाते हैं; आयरन हाबर प्रक्रम को, निकल वसाओं के हाइड्रोजनीकरण को और PdCl₂ वैकर प्रक्रम में एथाइन के एथेनैल में ऑक्सीकरण को उत्प्रेरित करता है। AgBr प्रकाश-संवेदी है और फ़ोटोग्राफ़ी में प्रयुक्त होता है।"
+      },
+      "keyPoints": [
+        {"en": "Contact process: V₂O₅; Haber process: Fe; hydrogenation of oils: Ni.", "hi": "संपर्क प्रक्रम: V₂O₅; हाबर प्रक्रम: Fe; तेलों का हाइड्रोजनीकरण: Ni।"},
+        {"en": "Ziegler catalyst = TiCl₄ + Al(CH₃)₃ (polythene); Wacker process = PdCl₂ (ethyne → ethanal).", "hi": "ज़ीग्लर उत्प्रेरक = TiCl₄ + Al(CH₃)₃ (पॉलिथीन); वैकर प्रक्रम = PdCl₂ (एथाइन → एथेनैल)।"}
+      ],
+      "realLife": {
+        "en": "Steel buildings, dry-cell torches, polythene bags and fertiliser ammonia all depend on transition metals.",
+        "hi": "स्टील की इमारतें, शुष्क सेल वाली टॉर्च, पॉलिथीन की थैलियाँ और उर्वरक के लिए अमोनिया — सब संक्रमण धातुओं पर निर्भर हैं।"
+      },
+      "examFocus": {
+        "en": "Match catalysts with industrial processes; give uses of transition metal compounds.",
+        "hi": "उत्प्रेरकों को औद्योगिक प्रक्रमों से सुमेलित कीजिए; संक्रमण धातु यौगिकों के उपयोग बताइए।"
+      },
+      "commonMistakes": [
+        {"en": "Mixing up catalysts: Fe is for the Haber process (ammonia), V₂O₅ for the Contact process (sulphuric acid).", "hi": "उत्प्रेरकों में भ्रम: Fe हाबर प्रक्रम (अमोनिया) के लिए और V₂O₅ संपर्क प्रक्रम (सल्फ़्यूरिक अम्ल) के लिए है।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["transition-elements"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "4.7"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"V for Vitriol, Fe for Haber, Ni for oils\"",
+            "hi": "\"विट्रियल के लिए V, हाबर के लिए Fe, तेलों के लिए Ni\""
+          },
+          "recall": {
+            "en": "V₂O₅ is the catalyst in the Contact process for sulphuric acid (old name: oil of vitriol); iron in the Haber process for ammonia; nickel in the hydrogenation of oils.",
+            "hi": "सल्फ़्यूरिक अम्ल (पुराना नाम: विट्रियल का तेल) के संपर्क प्रक्रम में उत्प्रेरक V₂O₅ है; अमोनिया के हाबर प्रक्रम में लोहा; तेलों के हाइड्रोजनीकरण में निकैल।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Transition metals are key construction materials and industrial catalysts.", "hi": "संक्रमण धातुएँ प्रमुख निर्माण सामग्री और औद्योगिक उत्प्रेरक हैं।"},
+        "points": [
+          {"en": "V₂O₅ – Contact; Fe – Haber; Ni – hydrogenation; PdCl₂ – Wacker.", "hi": "V₂O₅ – संपर्क; Fe – हाबर; Ni – हाइड्रोजनीकरण; PdCl₂ – वैकर।"},
+          {"en": "AgBr – photography; MnO₂ – dry cells.", "hi": "AgBr – फ़ोटोग्राफ़ी; MnO₂ – शुष्क सेल।"}
+        ]
+      }
+    }
+  ]
+}

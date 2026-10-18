@@ -1,0 +1,181 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "organic-basics",
+      "type": "concept",
+      "title": {"en": "Basics of organic compounds: structure, classification, nomenclature and isomerism", "hi": "कार्बनिक यौगिकों के मूल सिद्धांत: संरचना, वर्गीकरण, नामपद्धति और समावयवता"},
+      "sections": {
+        "whatIsIt": {"en": "Organic compounds are compounds of carbon (mainly with H, O, N, halogens) whose properties depend on their carbon skeleton and functional groups.", "hi": "कार्बनिक यौगिक कार्बन के (मुख्यतः H, O, N, हैलोजन के साथ) यौगिक हैं जिनके गुण उनके कार्बन ढाँचे और क्रियात्मक समूहों पर निर्भर करते हैं।"},
+        "howItWorks": {"en": "Carbon is tetravalent and forms sp³, sp² and sp hybrid bonds. Structures are written as complete, condensed or bond-line formulas. Compounds are acyclic, alicyclic or aromatic and are grouped by functional groups into homologous series. IUPAC names use root word + suffix + prefixes with lowest locants. Isomers may be structural (chain, position, functional group, metamerism) or stereoisomers.", "hi": "कार्बन चतुःसंयोजी है और sp³, sp² तथा sp संकर आबंध बनाता है। संरचनाएँ पूर्ण, संघनित या आबंध-रेखा सूत्रों में लिखी जाती हैं। यौगिक विवृत शृंखला, ऐलिसाइक्लिक या ऐरोमैटिक होते हैं और क्रियात्मक समूहों द्वारा समजातीय श्रेणियों में बँटते हैं। IUPAC नाम मूल शब्द + अनुलग्न + न्यूनतम स्थान-संख्या वाले पूर्वलग्न से बनते हैं। समावयवी संरचनात्मक (शृंखला, स्थिति, क्रियात्मक समूह, मध्यावयवता) या त्रिविम समावयवी हो सकते हैं।"},
+        "whyImportant": {"en": "These basics are needed to name, draw and predict the behaviour of millions of organic compounds.", "hi": "करोड़ों कार्बनिक यौगिकों के नाम, संरचना और व्यवहार समझने के लिए ये मूल सिद्धांत आवश्यक हैं।"},
+        "realLifeUses": {"en": "Medicines, fuels, plastics, dyes and food all consist of organic compounds.", "hi": "औषधियाँ, ईंधन, प्लास्टिक, रंजक और भोजन सभी कार्बनिक यौगिकों से बने हैं।"},
+        "rememberForExam": {"en": "Functional group gets the lowest locant; prefixes are written alphabetically.", "hi": "क्रियात्मक समूह को न्यूनतम स्थान-संख्या मिलती है; पूर्वलग्न वर्णानुक्रम में लिखे जाते हैं।"}
+      },
+      "equations": [],
+      "relatedConceptIds": ["versatile-nature-of-carbon", "functional-groups-and-nomenclature", "organic-reaction-mechanism"],
+      "sources": [{"sourceId": "ncert-11-en", "section": "8.1–8.6"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "organic-reaction-mechanism",
+      "type": "concept",
+      "title": {"en": "Fundamental concepts in organic reaction mechanism", "hi": "कार्बनिक अभिक्रिया क्रियाविधि की मूल संकल्पनाएँ"},
+      "sections": {
+        "whatIsIt": {"en": "A reaction mechanism describes, step by step, how bonds break and form; it involves reactive intermediates, electrophiles and nucleophiles, and electronic effects.", "hi": "अभिक्रिया क्रियाविधि क्रमशः बताती है कि आबंध कैसे टूटते और बनते हैं; इसमें क्रियाशील मध्यवर्ती, इलेक्ट्रॉनस्नेही और नाभिकस्नेही तथा इलेक्ट्रॉनिक प्रभाव शामिल हैं।"},
+        "howItWorks": {"en": "Heterolytic cleavage gives carbocations and carbanions; homolytic cleavage gives free radicals. Carbocation stability: 3° > 2° > 1° > CH₃⁺. Nucleophiles are electron-rich, electrophiles electron-poor. Inductive effect acts through σ bonds; resonance (mesomeric) effect through π bonds; hyperconjugation stabilises carbocations and alkenes. Reactions are substitution, addition, elimination or rearrangement.", "hi": "विषमांश विदलन से कार्बधनायन और कार्बऋणायन बनते हैं; समांश विदलन से मुक्त मूलक। कार्बधनायन स्थायित्व: 3° > 2° > 1° > CH₃⁺। नाभिकस्नेही इलेक्ट्रॉन-समृद्ध और इलेक्ट्रॉनस्नेही इलेक्ट्रॉन-न्यून होते हैं। प्रेरणिक प्रभाव σ आबंधों से, अनुनाद (इलेक्ट्रोमेरी) प्रभाव π आबंधों से कार्य करता है; अतिसंयुग्मन कार्बधनायनों और ऐल्कीनों को स्थायी करता है। अभिक्रियाएँ प्रतिस्थापन, योग, विलोपन या पुनर्विन्यास होती हैं।"},
+        "whyImportant": {"en": "Knowing the mechanism lets us predict products and choose conditions for a reaction.", "hi": "क्रियाविधि जानने से उत्पादों का पूर्वानुमान और अभिक्रिया की परिस्थितियाँ चुनी जा सकती हैं।"},
+        "realLifeUses": {"en": "Drug designers use reaction mechanisms to plan syntheses of new medicines.", "hi": "औषधि निर्माता नई दवाओं के संश्लेषण की योजना बनाने में अभिक्रिया क्रियाविधियों का प्रयोग करते हैं।"},
+        "rememberForExam": {"en": "–NO₂, –CN, –COOH show −I/−R effects; –CH₃ shows +I; –OH and –NH₂ show +R.", "hi": "–NO₂, –CN, –COOH −I/−R प्रभाव दर्शाते हैं; –CH₃ +I; –OH और –NH₂ +R।"}
+      },
+      "equations": [],
+      "relatedConceptIds": ["organic-basics", "nucleophilic-substitution"],
+      "sources": [{"sourceId": "ncert-11-en", "section": "8.7"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "purification-and-analysis",
+      "type": "process",
+      "title": {"en": "Purification and analysis of organic compounds", "hi": "कार्बनिक यौगिकों का शोधन और विश्लेषण"},
+      "sections": {
+        "whatIsIt": {"en": "Organic compounds are purified by sublimation, crystallisation, distillation, differential extraction and chromatography, then analysed qualitatively and quantitatively for their elements.", "hi": "कार्बनिक यौगिकों का शोधन ऊर्ध्वपातन, क्रिस्टलन, आसवन, विभेदी निष्कर्षण और वर्णलेखन से किया जाता है, फिर उनके तत्वों का गुणात्मक और मात्रात्मक विश्लेषण किया जाता है।"},
+        "howItWorks": {"en": "Distillation types: simple, fractional, under reduced pressure, steam distillation. Chromatography (adsorption, partition) separates by differing affinities; Rf = distance moved by substance ÷ distance moved by solvent. Lassaigne's test detects N, S and halogens via sodium fusion extract. Quantitative methods: Liebig (C, H), Dumas and Kjeldahl (N), Carius (halogens, S).", "hi": "आसवन के प्रकार: साधारण, प्रभाजी, न्यून दाब पर, भाप आसवन। वर्णलेखन (अधिशोषण, वितरण) भिन्न बंधुताओं से पृथक करता है; Rf = पदार्थ द्वारा चली दूरी ÷ विलायक द्वारा चली दूरी। लासाने परीक्षण सोडियम संगलन निष्कर्ष से N, S और हैलोजन की पहचान करता है। मात्रात्मक विधियाँ: लीबिग (C, H), ड्यूमा और कैल्डाल (N), कैरियस (हैलोजन, S)।"},
+        "whyImportant": {"en": "Pure compounds are essential for correct identification, formula determination and safe use.", "hi": "सही पहचान, सूत्र निर्धारण और सुरक्षित उपयोग के लिए शुद्ध यौगिक आवश्यक हैं।"},
+        "realLifeUses": {"en": "Fractional distillation refines crude oil; chromatography checks drug purity and food colours.", "hi": "प्रभाजी आसवन कच्चे तेल का परिष्करण करता है; वर्णलेखन औषधियों की शुद्धता और खाद्य रंगों की जाँच करता है।"},
+        "rememberForExam": {"en": "Steam distillation suits steam-volatile, water-immiscible compounds (aniline); Kjeldahl's method does not work for nitro, azo and ring-nitrogen compounds.", "hi": "भाप आसवन भाप-वाष्पशील, जल-अमिश्रणीय यौगिकों (ऐनिलीन) के लिए उपयुक्त; कैल्डाल विधि नाइट्रो, ऐज़ो और वलय-नाइट्रोजन यौगिकों के लिए काम नहीं करती।"}
+      },
+      "equations": ["Rf = distance moved by substance ÷ distance moved by solvent"],
+      "relatedConceptIds": ["paper-chromatography", "distillation", "crystallisation"],
+      "sources": [{"sourceId": "ncert-11-en", "section": "8.8–8.10"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "hydrocarbons-reactions",
+      "type": "reaction",
+      "title": {"en": "Reactions of alkanes, alkenes, alkynes and arenes", "hi": "ऐल्केनों, ऐल्कीनों, ऐल्काइनों और ऐरीनों की अभिक्रियाएँ"},
+      "sections": {
+        "whatIsIt": {"en": "Alkanes undergo substitution and combustion; alkenes and alkynes undergo electrophilic addition; aromatic hydrocarbons undergo electrophilic substitution.", "hi": "ऐल्केन प्रतिस्थापन और दहन करते हैं; ऐल्कीन और ऐल्काइन इलेक्ट्रॉनस्नेही योग करते हैं; ऐरोमैटिक हाइड्रोकार्बन इलेक्ट्रॉनस्नेही प्रतिस्थापन करते हैं।"},
+        "howItWorks": {"en": "Alkanes: free-radical halogenation, combustion, pyrolysis. Alkenes: HX adds by Markovnikov's rule (peroxide effect reverses it for HBr), Br₂ water test, ozonolysis. Alkynes: addition, acidity of terminal H. Benzene (aromatic, 4n+2 π electrons) undergoes nitration, halogenation, sulphonation and Friedel–Crafts reactions; substituents are o/p- or m-directing.", "hi": "ऐल्केन: मुक्त-मूलक हैलोजनन, दहन, ताप-अपघटन। ऐल्कीन: HX मार्कोवनिकॉफ़ नियम से जुड़ता है (HBr के लिए परॉक्साइड प्रभाव इसे उलटता है), Br₂ जल परीक्षण, ओज़ोनी-अपघटन। ऐल्काइन: योग, सिरे वाले H की अम्लता। बेन्ज़ीन (ऐरोमैटिक, 4n+2 π इलेक्ट्रॉन) नाइट्रोकरण, हैलोजनन, सल्फ़ोनीकरण और फ़्रीडेल–क्राफ़्ट्स अभिक्रियाएँ करता है; प्रतिस्थापी o/p- या m-निर्देशक होते हैं।"},
+        "whyImportant": {"en": "Hydrocarbons are the starting materials for most organic chemicals and fuels.", "hi": "हाइड्रोकार्बन अधिकांश कार्बनिक रसायनों और ईंधनों के प्रारंभिक पदार्थ हैं।"},
+        "realLifeUses": {"en": "LPG and petrol are alkanes; ethene makes polythene; benzene is a raw material for dyes and drugs.", "hi": "LPG और पेट्रोल ऐल्केन हैं; एथीन से पॉलिथीन बनता है; बेन्ज़ीन रंजकों और औषधियों का कच्चा माल है।"},
+        "rememberForExam": {"en": "Kharasch (peroxide) effect works only with HBr; benzene resists addition because of resonance stability.", "hi": "खराश (परॉक्साइड) प्रभाव केवल HBr के साथ; अनुनाद स्थायित्व के कारण बेन्ज़ीन योग का प्रतिरोध करता है।"}
+      },
+      "equations": ["CH₃CH=CH₂ + HBr → CH₃CHBrCH₃", "C₆H₆ + HNO₃ → C₆H₅NO₂ + H₂O (conc. H₂SO₄)"],
+      "relatedConceptIds": ["organic-reaction-mechanism", "reactions-of-carbon-compounds"],
+      "sources": [{"sourceId": "ncert-11-en", "section": "9.1–9.6"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "nucleophilic-substitution",
+      "type": "reaction",
+      "title": {"en": "Nucleophilic substitution in haloalkanes (SN1 and SN2)", "hi": "हैलोऐल्केनों में नाभिकस्नेही प्रतिस्थापन (SN1 और SN2)"},
+      "sections": {
+        "whatIsIt": {"en": "A nucleophile replaces the halogen of a haloalkane at the δ+ carbon; the halide leaves as an anion.", "hi": "नाभिकस्नेही हैलोऐल्केन के δ+ कार्बन पर हैलोजन का स्थान लेता है; हैलाइड ऋणायन के रूप में निकल जाता है।"},
+        "howItWorks": {"en": "SN2: one step, second order, backside attack, inversion; 1° > 2° > 3°. SN1: two steps via a carbocation, first order, racemisation; 3° > 2° > 1°, favoured in polar protic solvents. Leaving-group order I > Br > Cl > F. Haloarenes are much less reactive because of resonance and sp² carbon.", "hi": "SN2: एक चरण, द्वितीय कोटि, पीछे से आक्रमण, प्रतीपन; 1° > 2° > 3°। SN1: कार्बधनायन द्वारा दो चरण, प्रथम कोटि, रेसिमीकरण; 3° > 2° > 1°, ध्रुवीय प्रोटिक विलायकों में अनुकूल। निर्गामी समूह क्रम I > Br > Cl > F। अनुनाद और sp² कार्बन के कारण हैलोऐरीन बहुत कम क्रियाशील हैं।"},
+        "whyImportant": {"en": "It converts haloalkanes into alcohols, ethers, nitriles, amines and many other compounds.", "hi": "यह हैलोऐल्केनों को ऐल्कोहॉलों, ईथरों, नाइट्राइलों, ऐमीनों और अनेक अन्य यौगिकों में बदलता है।"},
+        "realLifeUses": {"en": "Many drug syntheses use SN2 reactions to attach groups with a controlled 3D arrangement.", "hi": "अनेक औषधि संश्लेषणों में नियंत्रित त्रिविम व्यवस्था के साथ समूह जोड़ने के लिए SN2 अभिक्रियाएँ प्रयुक्त होती हैं।"},
+        "rememberForExam": {"en": "Alcoholic KOH favours elimination (alkene); aqueous KOH favours substitution (alcohol); KCN gives nitriles, AgCN isocyanides.", "hi": "ऐल्कोहॉलिक KOH विलोपन (ऐल्कीन) को, जलीय KOH प्रतिस्थापन (ऐल्कोहॉल) को बढ़ावा देता है; KCN नाइट्राइल, AgCN आइसोसायनाइड देता है।"}
+      },
+      "equations": ["CH₃Cl + OH⁻ → CH₃OH + Cl⁻ (SN2)", "(CH₃)₃CBr + OH⁻ → (CH₃)₃COH + Br⁻ (SN1)"],
+      "relatedConceptIds": ["organic-reaction-mechanism"],
+      "sources": [{"sourceId": "ncert-12-en", "section": "6.1–6.8"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "alcohols-phenols-ethers",
+      "type": "concept",
+      "title": {"en": "Alcohols, phenols and ethers", "hi": "ऐल्कोहॉल, फ़ीनॉल और ईथर"},
+      "sections": {
+        "whatIsIt": {"en": "Alcohols (R–OH) and phenols (Ar–OH) contain hydroxyl groups; ethers contain the R–O–R′ linkage.", "hi": "ऐल्कोहॉलों (R–OH) और फ़ीनॉलों (Ar–OH) में हाइड्रॉक्सिल समूह होते हैं; ईथरों में R–O–R′ बंधन होता है।"},
+        "howItWorks": {"en": "Hydrogen bonding gives alcohols and phenols high boiling points and water solubility. Acidity order: phenol > water > alcohol (resonance-stabilised phenoxide). Alcohols react by O–H or C–O cleavage (Lucas test, dehydration, oxidation); phenol's –OH activates the ring (bromination, nitration, Kolbe, Reimer–Tiemann). Ethers are made by Williamson synthesis and cleaved by HI.", "hi": "हाइड्रोजन आबंधन ऐल्कोहॉलों और फ़ीनॉलों को उच्च क्वथनांक और जल-विलेयता देता है। अम्लता क्रम: फ़ीनॉल > जल > ऐल्कोहॉल (अनुनाद-स्थायी फ़ीनॉक्साइड)। ऐल्कोहॉल O–H या C–O विदलन से अभिक्रिया करते हैं (लूकस परीक्षण, निर्जलीकरण, ऑक्सीकरण); फ़ीनॉल का –OH वलय को सक्रिय करता है (ब्रोमीनन, नाइट्रोकरण, कोल्बे, राइमर–टीमन)। ईथर विलियम्सन संश्लेषण से बनते हैं और HI से विदलित होते हैं।"},
+        "whyImportant": {"en": "These compounds are solvents, fuels, antiseptics and starting materials for many products.", "hi": "ये यौगिक विलायक, ईंधन, पूतिरोधी और अनेक उत्पादों के प्रारंभिक पदार्थ हैं।"},
+        "realLifeUses": {"en": "Ethanol (fuel, solvent), phenol (antiseptics, bakelite) and diethyl ether (solvent).", "hi": "एथेनॉल (ईंधन, विलायक), फ़ीनॉल (पूतिरोधी, बेकेलाइट) और डाइएथिल ईथर (विलायक)।"},
+        "rememberForExam": {"en": "Cumene process gives phenol and acetone; o-nitrophenol is steam volatile (intramolecular H-bond).", "hi": "क्यूमीन प्रक्रम से फ़ीनॉल और ऐसीटोन; o-नाइट्रोफ़ीनॉल भाप-वाष्पशील है (अंतःअणुक H-आबंध)।"}
+      },
+      "equations": ["C₆H₅OH + NaOH → C₆H₅ONa + H₂O", "R–X + R′–ONa → R–O–R′ + NaX"],
+      "relatedConceptIds": ["nucleophilic-substitution", "ethanol-and-ethanoic-acid"],
+      "sources": [{"sourceId": "ncert-12-en", "section": "7.1–7.6"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "carbonyl-compounds",
+      "type": "reaction",
+      "title": {"en": "Aldehydes, ketones and carboxylic acids: nucleophilic addition and acidity", "hi": "ऐल्डिहाइड, कीटोन और कार्बोक्सिलिक अम्ल: नाभिकस्नेही योग और अम्लता"},
+      "sections": {
+        "whatIsIt": {"en": "Aldehydes and ketones contain the carbonyl group (>C=O) and undergo nucleophilic addition; carboxylic acids contain –COOH and are the most acidic common organic compounds.", "hi": "ऐल्डिहाइडों और कीटोनों में कार्बोनिल समूह (>C=O) होता है और ये नाभिकस्नेही योग करते हैं; कार्बोक्सिलिक अम्लों में –COOH होता है और ये सबसे अम्लीय सामान्य कार्बनिक यौगिक हैं।"},
+        "howItWorks": {"en": "The polar C=O carbon is attacked by nucleophiles (HCN, NaHSO₃, alcohols, ammonia derivatives, Grignard reagents). α-Hydrogens are acidic: aldol condensation; aldehydes without α-H give Cannizzaro reaction. Aldehydes reduce Tollens' and Fehling's reagents. Carboxylate ions are stabilised by two equivalent resonance structures; electron-withdrawing groups increase acidity.", "hi": "ध्रुवीय C=O के कार्बन पर नाभिकस्नेही (HCN, NaHSO₃, ऐल्कोहॉल, अमोनिया व्युत्पन्न, ग्रिन्यार अभिकर्मक) आक्रमण करते हैं। α-हाइड्रोजन अम्लीय होते हैं: ऐल्डोल संघनन; α-H रहित ऐल्डिहाइड कैनिज़ारो अभिक्रिया देते हैं। ऐल्डिहाइड टॉलेन्स और फ़ेहलिंग अभिकर्मकों को अपचित करते हैं। कार्बोक्सिलेट आयन दो समतुल्य अनुनादी संरचनाओं से स्थायी होते हैं; इलेक्ट्रॉन-आकर्षी समूह अम्लता बढ़ाते हैं।"},
+        "whyImportant": {"en": "Carbonyl reactions are among the most important ways to build and change organic molecules.", "hi": "कार्बोनिल अभिक्रियाएँ कार्बनिक अणु बनाने और बदलने के सबसे महत्वपूर्ण तरीकों में से हैं।"},
+        "realLifeUses": {"en": "Formalin, acetone, vinegar, sodium benzoate preservative and nylon-6,6 (adipic acid) all come from this chemistry.", "hi": "फ़ॉर्मेलिन, ऐसीटोन, सिरका, सोडियम बेन्ज़ोएट परिरक्षक और नायलॉन-6,6 (ऐडिपिक अम्ल) सब इसी रसायन से आते हैं।"},
+        "rememberForExam": {"en": "Distinguish aldehydes and ketones with Tollens' or Fehling's test; detect CH₃CO– with the iodoform test; NaHCO₃ test identifies –COOH.", "hi": "टॉलेन्स या फ़ेहलिंग परीक्षण से ऐल्डिहाइड और कीटोन में अंतर; आयोडोफ़ॉर्म परीक्षण से CH₃CO– की पहचान; NaHCO₃ परीक्षण से –COOH।"}
+      },
+      "equations": ["2CH₃CHO → CH₃CH(OH)CH₂CHO (dil. NaOH)", "RCOOH + NaHCO₃ → RCOONa + H₂O + CO₂"],
+      "relatedConceptIds": ["alcohols-phenols-ethers", "ethanol-and-ethanoic-acid"],
+      "sources": [{"sourceId": "ncert-12-en", "section": "8.1–8.10"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "amines-and-diazonium",
+      "type": "concept",
+      "title": {"en": "Amines and diazonium salts", "hi": "ऐमीन और डाइऐज़ोनियम लवण"},
+      "sections": {
+        "whatIsIt": {"en": "Amines are derivatives of ammonia with alkyl or aryl groups; arenediazonium salts (ArN₂⁺X⁻) are made from primary aromatic amines and are versatile intermediates.", "hi": "ऐमीन ऐल्किल या ऐरिल समूहों वाले अमोनिया के व्युत्पन्न हैं; ऐरीनडाइऐज़ोनियम लवण (ArN₂⁺X⁻) प्राथमिक ऐरोमैटिक ऐमीनों से बनते हैं और बहुपयोगी मध्यवर्ती हैं।"},
+        "howItWorks": {"en": "The lone pair on nitrogen makes amines basic and nucleophilic: aliphatic amines > NH₃ > aniline in basicity. Tests: carbylamine (1° only), Hinsberg (1°/2°/3°), nitrous acid. Diazotisation at 273–278 K gives diazonium salts, which are converted to aryl halides, nitriles, phenols and arenes (Sandmeyer, Gatterman) or coupled to azo dyes.", "hi": "नाइट्रोजन पर एकाकी युग्म ऐमीनों को क्षारकीय और नाभिकस्नेही बनाता है: क्षारकता में ऐलिफ़ैटिक ऐमीन > NH₃ > ऐनिलीन। परीक्षण: कार्बिलऐमीन (केवल 1°), हिन्सबर्ग (1°/2°/3°), नाइट्रस अम्ल। 273–278 K पर डाइऐज़ोकरण से डाइऐज़ोनियम लवण बनते हैं जो ऐरिल हैलाइडों, नाइट्राइलों, फ़ीनॉलों और ऐरीनों में बदले जाते हैं (सैन्डमायर, गाटरमान) या ऐज़ो रंजकों में युग्मित होते हैं।"},
+        "whyImportant": {"en": "Amines occur in proteins, vitamins and drugs; diazonium chemistry gives dyes and hard-to-make aromatic compounds.", "hi": "ऐमीन प्रोटीनों, विटामिनों और औषधियों में होते हैं; डाइऐज़ोनियम रसायन रंजक और कठिनाई से बनने वाले ऐरोमैटिक यौगिक देता है।"},
+        "realLifeUses": {"en": "Azo dyes for textiles, and drugs such as adrenaline, novocain and benadryl, contain amino groups.", "hi": "वस्त्रों के ऐज़ो रंजक, तथा ऐड्रिनेलिन, नोवोकेन और बेनाड्रिल जैसी औषधियों में ऐमीनो समूह होते हैं।"},
+        "rememberForExam": {"en": "Aniline: no Friedel–Crafts; nitration gives some m-nitroaniline; protect –NH₂ by acetylation.", "hi": "ऐनिलीन: फ़्रीडेल–क्राफ़्ट्स नहीं; नाइट्रोकरण से कुछ m-नाइट्रोऐनिलीन; ऐसीटिलीकरण से –NH₂ की रक्षा।"}
+      },
+      "equations": ["C₆H₅NH₂ + NaNO₂ + 2HCl → C₆H₅N₂⁺Cl⁻ + NaCl + 2H₂O", "R–NH₂ + CHCl₃ + 3KOH → R–NC + 3KCl + 3H₂O"],
+      "relatedConceptIds": ["organic-reaction-mechanism"],
+      "sources": [{"sourceId": "ncert-12-en", "section": "9.1–9.10"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "biomolecules",
+      "type": "concept",
+      "title": {"en": "Biomolecules: carbohydrates, proteins, enzymes, vitamins, nucleic acids and hormones", "hi": "जैव-अणु: कार्बोहाइड्रेट, प्रोटीन, एंज़ाइम, विटामिन, न्यूक्लीक अम्ल और हॉर्मोन"},
+      "sections": {
+        "whatIsIt": {"en": "Biomolecules are the organic molecules of living systems that build cells, store energy, catalyse reactions and carry hereditary information.", "hi": "जैव-अणु जीवित तंत्रों के कार्बनिक अणु हैं जो कोशिकाएँ बनाते हैं, ऊर्जा संग्रहित करते हैं, अभिक्रियाएँ उत्प्रेरित करते हैं और आनुवंशिक सूचना वहन करते हैं।"},
+        "howItWorks": {"en": "Carbohydrates are polyhydroxy aldehydes or ketones joined by glycosidic links; proteins are α-amino acids joined by peptide bonds with primary to quaternary structure; enzymes are protein catalysts; vitamins are fat- or water-soluble dietary factors; DNA and RNA are polynucleotides; hormones are chemical messengers.", "hi": "कार्बोहाइड्रेट ग्लाइकोसिडिक बंधनों से जुड़े पॉलिहाइड्रॉक्सी ऐल्डिहाइड या कीटोन हैं; प्रोटीन पेप्टाइड आबंधों से जुड़े α-ऐमीनो अम्ल हैं जिनकी प्राथमिक से चतुष्क तक संरचना होती है; एंज़ाइम प्रोटीन उत्प्रेरक हैं; विटामिन वसा- या जल-विलेय आहारीय कारक हैं; DNA और RNA पॉलिन्यूक्लियोटाइड हैं; हॉर्मोन रासायनिक संदेशवाहक हैं।"},
+        "whyImportant": {"en": "Life processes such as digestion, growth, heredity and metabolism are driven by these molecules.", "hi": "पाचन, वृद्धि, आनुवंशिकता और उपापचय जैसी जीवन प्रक्रियाएँ इन्हीं अणुओं से चलती हैं।"},
+        "realLifeUses": {"en": "Balanced diets, insulin therapy, vitamin supplements and DNA fingerprinting all rest on biomolecule chemistry.", "hi": "संतुलित आहार, इंसुलिन चिकित्सा, विटामिन पूरक और DNA फ़िंगरप्रिंटिंग सब जैव-अणु रसायन पर आधारित हैं।"},
+        "rememberForExam": {"en": "Sucrose non-reducing; starch α-glucose, cellulose β-glucose; DNA has thymine, RNA uracil.", "hi": "सुक्रोस अनअपचायी; स्टार्च α-ग्लूकोस, सेलुलोस β-ग्लूकोस; DNA में थायमीन, RNA में यूरैसिल।"}
+      },
+      "equations": ["C₁₂H₂₂O₁₁ + H₂O → C₆H₁₂O₆ + C₆H₁₂O₆"],
+      "relatedConceptIds": ["polymerisation"],
+      "sources": [{"sourceId": "ncert-12-en", "section": "10.1–10.6"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "polymerisation",
+      "type": "process",
+      "title": {"en": "Polymerisation: addition and condensation polymers", "hi": "बहुलकन: योगज और संघनन बहुलक"},
+      "sections": {
+        "whatIsIt": {"en": "Polymerisation joins many small monomer molecules into a macromolecule (polymer) through covalent bonds.", "hi": "बहुलकन अनेक छोटे एकलक अणुओं को सहसंयोजक आबंधों से जोड़कर एक बृहद् अणु (बहुलक) बनाता है।"},
+        "howItWorks": {"en": "Addition (chain-growth) polymerisation of unsaturated monomers gives polythene, teflon and orlon; condensation (step-growth) polymerisation of bifunctional monomers with loss of small molecules gives nylons, terylene and bakelite. Homopolymers have one monomer; copolymers (Buna-S) have two.", "hi": "असंतृप्त एकलकों का योगज (शृंखला-वृद्धि) बहुलकन पॉलिथीन, टेफ़्लॉन और ऑर्लॉन देता है; द्विक्रियात्मक एकलकों का छोटे अणुओं के निष्कासन के साथ संघनन (पद-वृद्धि) बहुलकन नायलॉन, टेरिलीन और बेकेलाइट देता है। समबहुलकों में एक और सहबहुलकों (ब्यूना-S) में दो एकलक होते हैं।"},
+        "whyImportant": {"en": "Polymers are the basis of plastics, fibres and rubbers used everywhere.", "hi": "बहुलक हर जगह प्रयुक्त प्लास्टिक, रेशों और रबरों का आधार हैं।"},
+        "realLifeUses": {"en": "Polythene bags, nylon ropes, polyester clothes, non-stick pans and tyres.", "hi": "पॉलिथीन की थैलियाँ, नायलॉन की रस्सियाँ, पॉलिएस्टर वस्त्र, नॉन-स्टिक बर्तन और टायर।"},
+        "rememberForExam": {"en": "Formative only for 2026-27: natural rubber is cis-1,4-polyisoprene.", "hi": "2026-27 में केवल रचनात्मक: प्राकृतिक रबर cis-1,4-पॉलिआइसोप्रीन है।"}
+      },
+      "equations": ["n CH₂=CH₂ → –(CH₂–CH₂)ₙ–"],
+      "relatedConceptIds": ["biomolecules", "hydrocarbons-reactions"],
+      "sources": [{"sourceId": "cbse-chem-rm", "section": "Polymers"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "medicines-and-food-chemicals",
+      "type": "concept",
+      "title": {"en": "Chemicals in medicines and food", "hi": "औषधियों और भोजन में रसायन"},
+      "sections": {
+        "whatIsIt": {"en": "Drugs are low-molecular-mass chemicals that act on enzymes or receptors to give a therapeutic effect; food additives preserve food, sweeten it or prevent oxidation.", "hi": "औषधियाँ कम आणविक द्रव्यमान वाले रसायन हैं जो एंज़ाइमों या ग्राहियों पर कार्य कर चिकित्सीय प्रभाव देते हैं; खाद्य योज्य भोजन का परिरक्षण, मधुरण या ऑक्सीकरण से रक्षा करते हैं।"},
+        "howItWorks": {"en": "Enzyme inhibitors block active sites (competitive) or bind allosteric sites; receptor drugs act as agonists or antagonists. Classes: antacids, antihistamines, tranquilizers, analgesics, antibiotics, antiseptics, disinfectants and antifertility drugs. Food chemicals: preservatives (sodium benzoate), artificial sweeteners (saccharin, aspartame, sucralose) and antioxidants (BHA, BHT).", "hi": "एंज़ाइम संदमक सक्रिय स्थलों को रोकते हैं (प्रतिस्पर्धी) या ऐलोस्टेरिक स्थलों से बंधते हैं; ग्राही औषधियाँ ऐगोनिस्ट या ऐन्टैगोनिस्ट की तरह कार्य करती हैं। वर्ग: प्रति-अम्ल, प्रतिहिस्टैमिन, प्रशांतक, पीड़ाहारी, प्रतिजैविक, पूतिरोधी, विसंक्रामी और प्रतिजनन औषधियाँ। खाद्य रसायन: परिरक्षक (सोडियम बेन्ज़ोएट), कृत्रिम मधुरक (सैकरीन, ऐस्पार्टेम, सुक्रालोस) और प्रतिऑक्सीकारक (BHA, BHT)।"},
+        "whyImportant": {"en": "Safe and correct use of medicines and food additives depends on understanding their chemistry.", "hi": "औषधियों और खाद्य योज्यों का सुरक्षित और सही उपयोग उनके रसायन को समझने पर निर्भर है।"},
+        "realLifeUses": {"en": "Paracetamol for fever, dettol for cuts, saccharin for diabetics and BHA in butter.", "hi": "बुख़ार में पैरासिटामॉल, कटने पर डेटॉल, मधुमेह रोगियों के लिए सैकरीन और मक्खन में BHA।"},
+        "rememberForExam": {"en": "Formative only for 2026-27: 0.2% phenol is antiseptic, 1% phenol is disinfectant.", "hi": "2026-27 में केवल रचनात्मक: 0.2% फ़ीनॉल पूतिरोधी, 1% फ़ीनॉल विसंक्रामी।"}
+      },
+      "equations": [],
+      "relatedConceptIds": ["biomolecules"],
+      "sources": [{"sourceId": "cbse-chem-rm", "section": "Chemistry in Everyday Life"}],
+      "review": {"status": "sourceChecked"}
+    }
+  ]
+}

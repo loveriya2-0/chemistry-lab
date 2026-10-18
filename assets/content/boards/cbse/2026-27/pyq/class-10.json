@@ -1,0 +1,2434 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "pyq-cbse-10-2023-31-2-1-q1",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2023,
+      "attempt": "main",
+      "paper": {
+        "code": "31/2/1"
+      },
+      "questionNumber": "1",
+      "marks": 1,
+      "type": "mcq",
+      "chapterId": "cbse-10-ch01",
+      "topicId": "cbse-10-ch01-t1.2",
+      "conceptIds": [
+        "exothermic-endothermic"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "Which of these is an endothermic process?",
+        "hi": "इनमें से कौन-सा प्रक्रम ऊष्माशोषी है?"
+      },
+      "options": [
+        {
+          "en": "Formation of slaked lime",
+          "hi": "बुझे चूने का बनना"
+        },
+        {
+          "en": "Decomposition of vegetable matter into compost",
+          "hi": "वनस्पति पदार्थ का कंपोस्ट में अपघटन"
+        },
+        {
+          "en": "Dissolving ammonium chloride in water",
+          "hi": "जल में अमोनियम क्लोराइड का घुलना"
+        },
+        {
+          "en": "Digestion of food in the body",
+          "hi": "शरीर में भोजन का पाचन"
+        }
+      ],
+      "correctOption": 2,
+      "answer": {
+        "en": "Dissolving ammonium chloride in water absorbs heat (the solution cools), so it is endothermic. The other three release heat.",
+        "hi": "जल में अमोनियम क्लोराइड घुलने पर ऊष्मा अवशोषित होती है (विलयन ठंडा होता है), अतः यह ऊष्माशोषी है। शेष तीनों ऊष्मा मुक्त करते हैं।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2023/X/SCIENCE.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2023/X/Science_English_Medium.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2023-31-2-1-q2",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2023,
+      "attempt": "main",
+      "paper": {
+        "code": "31/2/1"
+      },
+      "questionNumber": "2",
+      "marks": 1,
+      "type": "mcq",
+      "chapterId": "cbse-10-ch02",
+      "topicId": "cbse-10-ch02-t2.2.1",
+      "conceptIds": [
+        "acids-and-bases"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "In a circuit with a bulb, the test liquid is changed one by one: dilute HCl, dilute H₂SO₄, glucose solution, alcohol. In which cases does the bulb glow?",
+        "hi": "बल्ब वाले परिपथ में परीक्षण द्रव एक-एक कर बदला जाता है: तनु HCl, तनु H₂SO₄, ग्लूकोस विलयन, ऐल्कोहॉल। किन स्थितियों में बल्ब जलेगा?"
+      },
+      "options": [
+        {
+          "en": "Dilute HCl only",
+          "hi": "केवल तनु HCl"
+        },
+        {
+          "en": "Dilute H₂SO₄ only",
+          "hi": "केवल तनु H₂SO₄"
+        },
+        {
+          "en": "Dilute HCl and dilute H₂SO₄",
+          "hi": "तनु HCl और तनु H₂SO₄"
+        },
+        {
+          "en": "Dilute H₂SO₄, glucose and alcohol",
+          "hi": "तनु H₂SO₄, ग्लूकोस और ऐल्कोहॉल"
+        }
+      ],
+      "correctOption": 2,
+      "answer": {
+        "en": "Only the acids glow the bulb: they give H⁺ ions in water that carry current. Glucose and alcohol do not ionise.",
+        "hi": "केवल अम्लों से बल्ब जलता है: वे जल में H⁺ आयन देते हैं जो धारा ले जाते हैं। ग्लूकोस और ऐल्कोहॉल आयनित नहीं होते।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2023/X/SCIENCE.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2023/X/Science_English_Medium.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2023-31-2-1-q3",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2023,
+      "attempt": "main",
+      "paper": {
+        "code": "31/2/1"
+      },
+      "questionNumber": "3",
+      "marks": 1,
+      "type": "mcq",
+      "chapterId": "cbse-10-ch01",
+      "topicId": "cbse-10-ch01-t1.1.2",
+      "conceptIds": [
+        "balancing-chemical-equations"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "Find x and y that balance: x Pb(NO₃)₂ → (heat) 2PbO + y NO₂ + O₂.",
+        "hi": "x और y ज्ञात कीजिए जिनसे समीकरण संतुलित हो: x Pb(NO₃)₂ → (ऊष्मा) 2PbO + y NO₂ + O₂।"
+      },
+      "options": [
+        {
+          "en": "2, 4",
+          "hi": "2, 4"
+        },
+        {
+          "en": "2, 2",
+          "hi": "2, 2"
+        },
+        {
+          "en": "2, 3",
+          "hi": "2, 3"
+        },
+        {
+          "en": "4, 2",
+          "hi": "4, 2"
+        }
+      ],
+      "correctOption": 0,
+      "answer": {
+        "en": "x = 2, y = 4: 2Pb(NO₃)₂ → 2PbO + 4NO₂ + O₂ (2 Pb, 4 N and 12 O on each side).",
+        "hi": "x = 2, y = 4: 2Pb(NO₃)₂ → 2PbO + 4NO₂ + O₂ (दोनों ओर 2 Pb, 4 N और 12 O)।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2023/X/SCIENCE.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2023/X/Science_English_Medium.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2023-31-2-1-q4",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2023,
+      "attempt": "main",
+      "paper": {
+        "code": "31/2/1"
+      },
+      "questionNumber": "4",
+      "marks": 1,
+      "type": "mcq",
+      "chapterId": "cbse-10-ch02",
+      "topicId": "cbse-10-ch02-t2.1.2",
+      "conceptIds": [
+        "acids-and-bases"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "What is formed when zinc reacts with sodium hydroxide?",
+        "hi": "ज़िंक के सोडियम हाइड्रॉक्साइड से अभिक्रिया करने पर क्या बनता है?"
+      },
+      "options": [
+        {
+          "en": "Sodium oxide",
+          "hi": "सोडियम ऑक्साइड"
+        },
+        {
+          "en": "Sodium zincate",
+          "hi": "सोडियम ज़िंकेट"
+        },
+        {
+          "en": "Zinc hydroxide",
+          "hi": "ज़िंक हाइड्रॉक्साइड"
+        },
+        {
+          "en": "Zinc oxide",
+          "hi": "ज़िंक ऑक्साइड"
+        }
+      ],
+      "correctOption": 1,
+      "answer": {
+        "en": "Sodium zincate: 2NaOH + Zn → Na₂ZnO₂ + H₂.",
+        "hi": "सोडियम ज़िंकेट: 2NaOH + Zn → Na₂ZnO₂ + H₂।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2023/X/SCIENCE.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2023/X/Science_English_Medium.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2023-31-2-1-q5",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2023,
+      "attempt": "main",
+      "paper": {
+        "code": "31/2/1"
+      },
+      "questionNumber": "5",
+      "marks": 1,
+      "type": "mcq",
+      "chapterId": "cbse-10-ch03",
+      "topicId": "cbse-10-ch03-t3.1.1",
+      "conceptIds": [
+        "metals-and-non-metals"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "Which of these metals has the lowest density?",
+        "hi": "इनमें से किस धातु का घनत्व सबसे कम है?"
+      },
+      "options": [
+        {
+          "en": "Lithium",
+          "hi": "लिथियम"
+        },
+        {
+          "en": "Lead",
+          "hi": "लेड"
+        },
+        {
+          "en": "Magnesium",
+          "hi": "मैग्नीशियम"
+        },
+        {
+          "en": "Aluminium",
+          "hi": "ऐलुमिनियम"
+        }
+      ],
+      "correctOption": 0,
+      "answer": {
+        "en": "Lithium.",
+        "hi": "लिथियम।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2023/X/SCIENCE.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2023/X/Science_English_Medium.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2023-31-2-1-q6",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2023,
+      "attempt": "main",
+      "paper": {
+        "code": "31/2/1"
+      },
+      "questionNumber": "6",
+      "marks": 1,
+      "type": "mcq",
+      "chapterId": "cbse-10-ch03",
+      "topicId": "cbse-10-ch03-t3.3",
+      "conceptIds": [
+        "electron-distribution",
+        "metals-and-non-metals"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "How many electrons can the outermost shell of a non-metal atom have?",
+        "hi": "किसी अधातु के परमाणु के सबसे बाहरी कोश में कितने इलेक्ट्रॉन हो सकते हैं?"
+      },
+      "options": [
+        {
+          "en": "1, 2 or 3",
+          "hi": "1, 2 या 3"
+        },
+        {
+          "en": "3, 4 or 5",
+          "hi": "3, 4 या 5"
+        },
+        {
+          "en": "5, 6 or 7",
+          "hi": "5, 6 या 7"
+        },
+        {
+          "en": "5, 6 or 8",
+          "hi": "5, 6 या 8"
+        }
+      ],
+      "correctOption": 2,
+      "answer": {
+        "en": "5, 6 or 7 — non-metals tend to gain electrons to complete their octet.",
+        "hi": "5, 6 या 7 — अधातुएँ अष्टक पूरा करने के लिए इलेक्ट्रॉन ग्रहण करने की प्रवृत्ति रखती हैं।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2023/X/SCIENCE.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2023/X/Science_English_Medium.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2023-31-2-1-q7",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2023,
+      "attempt": "main",
+      "paper": {
+        "code": "31/2/1"
+      },
+      "questionNumber": "7",
+      "marks": 1,
+      "type": "mcq",
+      "chapterId": "cbse-10-ch04",
+      "topicId": "cbse-10-ch04-t4.2.1",
+      "conceptIds": [
+        "versatile-nature-of-carbon",
+        "covalent-bond"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "How many electrons in total are shared in forming a molecule of ethyne?",
+        "hi": "एथाइन का अणु बनने में कुल कितने इलेक्ट्रॉन साझा होते हैं?"
+      },
+      "options": [
+        {
+          "en": "6",
+          "hi": "6"
+        },
+        {
+          "en": "3",
+          "hi": "3"
+        },
+        {
+          "en": "10",
+          "hi": "10"
+        },
+        {
+          "en": "4",
+          "hi": "4"
+        }
+      ],
+      "correctOption": 2,
+      "answer": {
+        "en": "10: three pairs in C≡C and one pair in each of the two C–H bonds.",
+        "hi": "10: C≡C में तीन युग्म और दोनों C–H आबंधों में एक-एक युग्म।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2023/X/SCIENCE.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2023/X/Science_English_Medium.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2023-31-2-1-q17",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2023,
+      "attempt": "main",
+      "paper": {
+        "code": "31/2/1"
+      },
+      "questionNumber": "17",
+      "marks": 1,
+      "type": "assertionReason",
+      "chapterId": "cbse-10-ch03",
+      "topicId": "cbse-10-ch03-t3.2.1",
+      "conceptIds": [
+        "amphoteric-oxides"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "Assertion (A): Sodium oxide is an amphoteric oxide. Reason (R): Metal oxides that react with both acids and bases are amphoteric.",
+        "hi": "अभिकथन (A): सोडियम ऑक्साइड उभयधर्मी ऑक्साइड है। कारण (R): जो धातु ऑक्साइड अम्ल और क्षारक दोनों से अभिक्रिया करते हैं, वे उभयधर्मी हैं।"
+      },
+      "options": [
+        {
+          "en": "Both A and R are true, and R is the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।"
+        },
+        {
+          "en": "Both A and R are true, but R is not the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, पर R, A की सही व्याख्या नहीं है।"
+        },
+        {
+          "en": "A is true, but R is false.",
+          "hi": "A सत्य है, पर R असत्य है।"
+        },
+        {
+          "en": "A is false, but R is true.",
+          "hi": "A असत्य है, पर R सत्य है।"
+        }
+      ],
+      "correctOption": 3,
+      "answer": {
+        "en": "A is false but R is true: sodium oxide is a basic oxide; the definition in R is correct (e.g. Al₂O₃, ZnO).",
+        "hi": "A असत्य पर R सत्य: सोडियम ऑक्साइड क्षारकीय ऑक्साइड है; R की परिभाषा सही है (जैसे Al₂O₃, ZnO)।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2023/X/SCIENCE.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2023/X/Science_English_Medium.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2023-31-2-1-q21",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2023,
+      "attempt": "main",
+      "paper": {
+        "code": "31/2/1"
+      },
+      "questionNumber": "21",
+      "marks": 2,
+      "type": "veryShort",
+      "chapterId": "cbse-10-ch01",
+      "topicId": "cbse-10-ch01-t1.2.4",
+      "conceptIds": [
+        "double-displacement-reaction",
+        "oxidation-reduction"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "(a) What is seen when solutions of potassium iodide and lead nitrate are mixed? Name the reaction type and write the equation. OR (b) Heating copper powder in a china dish forms a black substance — why, and what is it? How can it be turned back into copper?",
+        "hi": "(a) पोटैशियम आयोडाइड और लेड नाइट्रेट के विलयन मिलाने पर क्या दिखता है? अभिक्रिया का प्रकार और समीकरण लिखिए। अथवा (b) चीनी मिट्टी की प्याली में कॉपर चूर्ण गरम करने पर काला पदार्थ बनता है — क्यों, और वह क्या है? उसे फिर कॉपर में कैसे बदला जा सकता है?"
+      },
+      "answer": {
+        "en": "(a) A yellow precipitate of lead iodide forms; double displacement (precipitation): Pb(NO₃)₂ + 2KI → PbI₂ + 2KNO₃. (b) Copper combines with oxygen (is oxidised) to form black copper oxide, CuO (2Cu + O₂ → 2CuO). Passing hydrogen over the hot oxide gives copper back: CuO + H₂ → Cu + H₂O.",
+        "hi": "(a) लेड आयोडाइड का पीला अवक्षेप बनता है; द्विविस्थापन (अवक्षेपण): Pb(NO₃)₂ + 2KI → PbI₂ + 2KNO₃। (b) कॉपर ऑक्सीजन से जुड़कर (उपचयित होकर) काला कॉपर ऑक्साइड, CuO बनाता है (2Cu + O₂ → 2CuO)। गरम ऑक्साइड पर हाइड्रोजन प्रवाहित करने से कॉपर वापस मिलता है: CuO + H₂ → Cu + H₂O।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2023/X/SCIENCE.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2023/X/Science_English_Medium.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2023-31-2-1-q27",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2023,
+      "attempt": "main",
+      "paper": {
+        "code": "31/2/1"
+      },
+      "questionNumber": "27",
+      "marks": 3,
+      "type": "shortAnswer",
+      "chapterId": "cbse-10-ch01",
+      "topicId": "cbse-10-ch01-t1.2.2",
+      "conceptIds": [
+        "decomposition-reaction"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "Silver chloride in a china dish turns grey in sunlight. (a) What was its colour at first? (b) Name the reaction type and write the equation. (c) Give one use of this reaction and name another chemical used for the same purpose.",
+        "hi": "चीनी मिट्टी की प्याली में रखा सिल्वर क्लोराइड धूप में धूसर हो जाता है। (a) आरंभ में उसका रंग क्या था? (b) अभिक्रिया का प्रकार और समीकरण लिखिए। (c) इस अभिक्रिया का एक उपयोग बताइए और उसी काम के लिए प्रयुक्त एक अन्य रसायन का नाम लिखिए।"
+      },
+      "answer": {
+        "en": "(a) White. (b) Decomposition by light (photolytic): 2AgCl → (sunlight) 2Ag + Cl₂. (c) Black-and-white photography; silver bromide (AgBr).",
+        "hi": "(a) सफ़ेद। (b) प्रकाश द्वारा वियोजन (प्रकाश-अपघटनी): 2AgCl → (सूर्य का प्रकाश) 2Ag + Cl₂। (c) श्वेत-श्याम फ़ोटोग्राफ़ी; सिल्वर ब्रोमाइड (AgBr)।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2023/X/SCIENCE.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2023/X/Science_English_Medium.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2023-31-2-1-q28",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2023,
+      "attempt": "main",
+      "paper": {
+        "code": "31/2/1"
+      },
+      "questionNumber": "28",
+      "marks": 3,
+      "type": "shortAnswer",
+      "chapterId": "cbse-10-ch03",
+      "topicId": "cbse-10-ch03-t3.4.4",
+      "conceptIds": [
+        "extraction-of-metals"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "Using equations, give two main differences between roasting and calcination. How is the metal obtained from the product of roasting/calcination? Write the equation.",
+        "hi": "समीकरणों की सहायता से भर्जन और निस्तापन के दो मुख्य अंतर बताइए। भर्जन/निस्तापन के उत्पाद से धातु कैसे प्राप्त की जाती है? समीकरण लिखिए।"
+      },
+      "answer": {
+        "en": "Roasting is for sulphide ores, heated in excess air (2ZnS + 3O₂ → 2ZnO + 2SO₂); calcination is for carbonate ores, heated in limited or no air (ZnCO₃ → ZnO + CO₂). The oxide is then reduced, e.g. with carbon: ZnO + C → Zn + CO.",
+        "hi": "भर्जन सल्फ़ाइड अयस्कों के लिए, अधिक वायु में गरम करना (2ZnS + 3O₂ → 2ZnO + 2SO₂); निस्तापन कार्बोनेट अयस्कों के लिए, सीमित या बिना वायु में गरम करना (ZnCO₃ → ZnO + CO₂)। फिर ऑक्साइड का अपचयन, जैसे कार्बन से: ZnO + C → Zn + CO।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2023/X/SCIENCE.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2023/X/Science_English_Medium.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2023-31-2-1-q34",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2023,
+      "attempt": "main",
+      "paper": {
+        "code": "31/2/1"
+      },
+      "questionNumber": "34",
+      "marks": 5,
+      "type": "longAnswer",
+      "chapterId": "cbse-10-ch04",
+      "topicId": "cbse-10-ch04-t4.4.2",
+      "conceptIds": [
+        "ethanol-and-ethanoic-acid",
+        "homologous-series"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "(a) An acid X reacts with an alcohol Y in the presence of an acid catalyst to give a sweet-smelling substance Z. Identify X, Y, Z; write the equation and name the reaction. Z reacts with sodium hydroxide to give back Y and sodium ethanoate — write the equation, name the reaction and justify the name. OR (b) Name the simplest saturated hydrocarbon and draw its electron dot structure; state its bond type; name two fuels in daily use containing it; give its homologous series and general formula; state the type of flame on burning.",
+        "hi": "(a) एक अम्ल X, अम्ल उत्प्रेरक की उपस्थिति में ऐल्कोहॉल Y से अभिक्रिया कर मीठी गंध वाला पदार्थ Z देता है। X, Y, Z पहचानिए; समीकरण लिखकर अभिक्रिया का नाम बताइए। Z सोडियम हाइड्रॉक्साइड से अभिक्रिया कर Y और सोडियम एथेनोएट देता है — समीकरण लिखिए, अभिक्रिया का नाम बताइए और नाम का औचित्य दीजिए। अथवा (b) सबसे सरल संतृप्त हाइड्रोकार्बन का नाम और इलेक्ट्रॉन बिंदु संरचना; आबंध का प्रकार; इसे रखने वाले दैनिक उपयोग के दो ईंधन; इसकी समजातीय श्रेणी और सामान्य सूत्र; जलने पर ज्वाला का प्रकार बताइए।"
+      },
+      "answer": {
+        "en": "(a) X = ethanoic acid, Y = ethanol, Z = ethyl ethanoate. CH₃COOH + C₂H₅OH → (acid) CH₃COOC₂H₅ + H₂O — esterification. CH₃COOC₂H₅ + NaOH → C₂H₅OH + CH₃COONa — saponification, so called because it is used to make soap. (b) Methane, CH₄, with single covalent bonds; biogas and CNG; alkanes, CₙH₂ₙ₊₂; a clean (blue) flame.",
+        "hi": "(a) X = एथेनॉइक अम्ल, Y = एथनॉल, Z = एथिल एथेनोएट। CH₃COOH + C₂H₅OH → (अम्ल) CH₃COOC₂H₅ + H₂O — एस्टरीकरण। CH₃COOC₂H₅ + NaOH → C₂H₅OH + CH₃COONa — साबुनीकरण, यह नाम इसलिए क्योंकि इससे साबुन बनाया जाता है। (b) मेथेन, CH₄, एकल सहसंयोजी आबंध; बायोगैस और सी.एन.जी.; ऐल्केन, CₙH₂ₙ₊₂; स्वच्छ (नीली) ज्वाला।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2023/X/SCIENCE.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2023/X/Science_English_Medium.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2023-31-2-1-q37",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2023,
+      "attempt": "main",
+      "paper": {
+        "code": "31/2/1"
+      },
+      "questionNumber": "37",
+      "marks": 4,
+      "type": "caseBased",
+      "chapterId": "cbse-10-ch02",
+      "topicId": "cbse-10-ch02-t2.3",
+      "conceptIds": [
+        "ph-scale"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "Case: groups test pH of solutions — A: lemon juice, vinegar, colourless aerated drink; B: tomato juice, coffee, ginger juice; C: sodium hydroxide, sodium chloride, lime water. (a) Which group(s) are likely to have pH below 7 and above 7? (b) Give two ways to find the pH of a solution. (c) Explain why lemon juice cleans tarnished copper vessels. OR (c) Explain the importance of pH in everyday life with two examples.",
+        "hi": "प्रकरण: समूह विलयनों का pH जाँचते हैं — A: नींबू रस, सिरका, रंगहीन वातित पेय; B: टमाटर रस, कॉफ़ी, अदरक रस; C: सोडियम हाइड्रॉक्साइड, सोडियम क्लोराइड, चूने का पानी। (a) किस समूह/समूहों का pH 7 से कम और किसका 7 से अधिक होगा? (b) विलयन का pH ज्ञात करने के दो तरीके बताइए। (c) समझाइए कि नींबू का रस धूमिल ताँबे के बर्तन क्यों साफ़ करता है। अथवा (c) दो उदाहरणों से दैनिक जीवन में pH का महत्व समझाइए।"
+      },
+      "answer": {
+        "en": "(a) Below 7: groups A and B; above 7: group C. (b) pH paper and universal indicator. (c) The tarnish is a basic copper compound; acidic lemon juice reacts with it and the salt formed washes away. OR examples: digestion needs a suitable pH; tooth decay below pH 5.5; aquatic life suffers when river pH falls (acid rain); animals and plants use acids in defence (bee sting).",
+        "hi": "(a) 7 से कम: समूह A और B; 7 से अधिक: समूह C। (b) pH पेपर और सार्वत्रिक सूचक। (c) धूमिल परत क्षारकीय कॉपर यौगिक है; अम्लीय नींबू रस उससे अभिक्रिया करता है और बना लवण धुल जाता है। अथवा उदाहरण: पाचन के लिए उचित pH; pH 5.5 से कम पर दंत-क्षय; नदी का pH घटने (अम्लीय वर्षा) पर जलीय जीवन कठिन; जंतु और पौधे रक्षा में अम्लों का उपयोग (मधुमक्खी का डंक)।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2023/X/SCIENCE.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2023/X/Science_English_Medium.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2024-31-1-1-q1",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2024,
+      "attempt": "main",
+      "paper": {
+        "code": "31/1/1"
+      },
+      "questionNumber": "1",
+      "marks": 1,
+      "type": "mcq",
+      "chapterId": "cbse-10-ch02",
+      "topicId": "cbse-10-ch02-t2.1.2",
+      "conceptIds": [
+        "acids-and-bases"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "Zinc granules are warmed with 2 mL of sodium hydroxide solution. Which balanced equation is correct?",
+        "hi": "ज़िंक के दानों को 2 mL सोडियम हाइड्रॉक्साइड विलयन के साथ गरम किया जाता है। कौन-सा संतुलित समीकरण सही है?"
+      },
+      "options": [
+        {
+          "en": "NaOH + Zn → NaZnO₂ + H₂O",
+          "hi": "NaOH + Zn → NaZnO₂ + H₂O"
+        },
+        {
+          "en": "2NaOH + Zn → Na₂ZnO₂ + H₂",
+          "hi": "2NaOH + Zn → Na₂ZnO₂ + H₂"
+        },
+        {
+          "en": "2NaOH + Zn → NaZnO₂ + H₂",
+          "hi": "2NaOH + Zn → NaZnO₂ + H₂"
+        },
+        {
+          "en": "2NaOH + Zn → Na₂ZnO₂ + H₂O",
+          "hi": "2NaOH + Zn → Na₂ZnO₂ + H₂O"
+        }
+      ],
+      "correctOption": 1,
+      "answer": {
+        "en": "2NaOH + Zn → Na₂ZnO₂ + H₂ (sodium zincate and hydrogen).",
+        "hi": "2NaOH + Zn → Na₂ZnO₂ + H₂ (सोडियम ज़िंकेट और हाइड्रोजन)।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2024/X/SCIENCE.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2024/X/Science.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2024-31-1-1-q2",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2024,
+      "attempt": "main",
+      "paper": {
+        "code": "31/1/1"
+      },
+      "questionNumber": "2",
+      "marks": 1,
+      "type": "mcq",
+      "chapterId": "cbse-10-ch01",
+      "topicId": "cbse-10-ch01-t1.2.2",
+      "conceptIds": [
+        "decomposition-reaction"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "Pick the decomposition reaction in which light supplies the energy.",
+        "hi": "वह वियोजन अभिक्रिया चुनिए जिसमें ऊर्जा प्रकाश देता है।"
+      },
+      "options": [
+        {
+          "en": "2FeSO₄ → Fe₂O₃ + SO₂ + SO₃",
+          "hi": "2FeSO₄ → Fe₂O₃ + SO₂ + SO₃"
+        },
+        {
+          "en": "2H₂O → 2H₂ + O₂",
+          "hi": "2H₂O → 2H₂ + O₂"
+        },
+        {
+          "en": "2AgBr → 2Ag + Br₂",
+          "hi": "2AgBr → 2Ag + Br₂"
+        },
+        {
+          "en": "CaCO₃ → CaO + CO₂",
+          "hi": "CaCO₃ → CaO + CO₂"
+        }
+      ],
+      "correctOption": 2,
+      "answer": {
+        "en": "2AgBr → 2Ag + Br₂ takes place in light; FeSO₄ and CaCO₃ need heat, and water needs electricity.",
+        "hi": "2AgBr → 2Ag + Br₂ प्रकाश में होती है; FeSO₄ और CaCO₃ को ऊष्मा तथा जल को विद्युत चाहिए।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2024/X/SCIENCE.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2024/X/Science.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2024-31-1-1-q3",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2024,
+      "attempt": "main",
+      "paper": {
+        "code": "31/1/1"
+      },
+      "questionNumber": "3",
+      "marks": 1,
+      "type": "mcq",
+      "chapterId": "cbse-10-ch03",
+      "topicId": "cbse-10-ch03-t3.1",
+      "conceptIds": [
+        "metals-and-non-metals"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "Which pair gives a metal and a non-metal (in that order) that are liquid at room temperature?",
+        "hi": "कौन-सा युग्म क्रमशः कक्ष ताप पर द्रव रहने वाली एक धातु और एक अधातु देता है?"
+      },
+      "options": [
+        {
+          "en": "Bromine and mercury",
+          "hi": "ब्रोमीन और मर्करी"
+        },
+        {
+          "en": "Mercury and iodine",
+          "hi": "मर्करी और आयोडीन"
+        },
+        {
+          "en": "Mercury and bromine",
+          "hi": "मर्करी और ब्रोमीन"
+        },
+        {
+          "en": "Iodine and mercury",
+          "hi": "आयोडीन और मर्करी"
+        }
+      ],
+      "correctOption": 2,
+      "answer": {
+        "en": "Mercury (metal) and bromine (non-metal).",
+        "hi": "मर्करी (धातु) और ब्रोमीन (अधातु)।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2024/X/SCIENCE.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2024/X/Science.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2024-31-1-1-q4",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2024,
+      "attempt": "main",
+      "paper": {
+        "code": "31/1/1"
+      },
+      "questionNumber": "4",
+      "marks": 1,
+      "type": "mcq",
+      "chapterId": "cbse-10-ch04",
+      "topicId": "cbse-10-ch04-t4.1",
+      "conceptIds": [
+        "covalent-bond"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "Carbon compounds: (i) are good conductors, (ii) are bad conductors, (iii) have strong forces between molecules, (iv) have weak forces between molecules. Which statements are correct?",
+        "hi": "कार्बन यौगिक: (i) सुचालक होते हैं, (ii) कुचालक होते हैं, (iii) उनके अणुओं के बीच प्रबल बल होते हैं, (iv) उनके अणुओं के बीच दुर्बल बल होते हैं। कौन-से कथन सही हैं?"
+      },
+      "options": [
+        {
+          "en": "(i) and (ii)",
+          "hi": "(i) और (ii)"
+        },
+        {
+          "en": "(ii) and (iii)",
+          "hi": "(ii) और (iii)"
+        },
+        {
+          "en": "(ii) and (iv)",
+          "hi": "(ii) और (iv)"
+        },
+        {
+          "en": "(i) and (iii)",
+          "hi": "(i) और (iii)"
+        }
+      ],
+      "correctOption": 2,
+      "answer": {
+        "en": "(ii) and (iv): covalent carbon compounds form no ions (poor conductors) and have weak intermolecular forces (low melting and boiling points).",
+        "hi": "(ii) और (iv): सहसंयोजी कार्बन यौगिक आयन नहीं बनाते (कुचालक) और उनके अंतराआण्विक बल दुर्बल होते हैं (कम गलनांक-क्वथनांक)।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2024/X/SCIENCE.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2024/X/Science.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2024-31-1-1-q5",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2024,
+      "attempt": "main",
+      "paper": {
+        "code": "31/1/1"
+      },
+      "questionNumber": "5",
+      "marks": 1,
+      "type": "mcq",
+      "chapterId": "cbse-10-ch02",
+      "topicId": "cbse-10-ch02-t2.4.4",
+      "conceptIds": [
+        "water-of-crystallisation"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "Among FeSO₄, CuSO₄, CaSO₄ and Na₂CO₃, which has the most molecules of water of crystallisation in its crystalline form?",
+        "hi": "FeSO₄, CuSO₄, CaSO₄ और Na₂CO₃ में से किसके क्रिस्टलीय रूप में क्रिस्टलन जल के सबसे अधिक अणु होते हैं?"
+      },
+      "options": [
+        {
+          "en": "FeSO₄",
+          "hi": "FeSO₄"
+        },
+        {
+          "en": "CuSO₄",
+          "hi": "CuSO₄"
+        },
+        {
+          "en": "CaSO₄",
+          "hi": "CaSO₄"
+        },
+        {
+          "en": "Na₂CO₃",
+          "hi": "Na₂CO₃"
+        }
+      ],
+      "correctOption": 3,
+      "answer": {
+        "en": "Na₂CO₃·10H₂O (10). The others: FeSO₄·7H₂O, CuSO₄·5H₂O, CaSO₄·2H₂O.",
+        "hi": "Na₂CO₃·10H₂O (10)। अन्य: FeSO₄·7H₂O, CuSO₄·5H₂O, CaSO₄·2H₂O।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2024/X/SCIENCE.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2024/X/Science.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2024-31-1-1-q6",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2024,
+      "attempt": "main",
+      "paper": {
+        "code": "31/1/1"
+      },
+      "questionNumber": "6",
+      "marks": 1,
+      "type": "mcq",
+      "chapterId": "cbse-10-ch03",
+      "topicId": "cbse-10-ch03-t3.2.1",
+      "conceptIds": [
+        "amphoteric-oxides"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "What is the nature of the oxides of aluminium and zinc?",
+        "hi": "ऐलुमिनियम और ज़िंक के ऑक्साइडों की प्रकृति क्या है?"
+      },
+      "options": [
+        {
+          "en": "Acidic",
+          "hi": "अम्लीय"
+        },
+        {
+          "en": "Basic",
+          "hi": "क्षारकीय"
+        },
+        {
+          "en": "Amphoteric",
+          "hi": "उभयधर्मी"
+        },
+        {
+          "en": "Neutral",
+          "hi": "उदासीन"
+        }
+      ],
+      "correctOption": 2,
+      "answer": {
+        "en": "Amphoteric — they react with both acids and bases.",
+        "hi": "उभयधर्मी — ये अम्ल और क्षारक दोनों से अभिक्रिया करते हैं।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2024/X/SCIENCE.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2024/X/Science.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2024-31-1-1-q7",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2024,
+      "attempt": "main",
+      "paper": {
+        "code": "31/1/1"
+      },
+      "questionNumber": "7",
+      "marks": 1,
+      "type": "mcq",
+      "chapterId": "cbse-10-ch01",
+      "topicId": "cbse-10-ch01-t1.2.5",
+      "conceptIds": [
+        "oxidation-reduction"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "MnO₂ + 4HCl → MnCl₂ + 2H₂O + Cl₂ is a redox reaction because:",
+        "hi": "MnO₂ + 4HCl → MnCl₂ + 2H₂O + Cl₂ एक रेडॉक्स अभिक्रिया है क्योंकि:"
+      },
+      "options": [
+        {
+          "en": "MnO₂ is oxidised and HCl is reduced",
+          "hi": "MnO₂ उपचयित और HCl अपचयित होता है"
+        },
+        {
+          "en": "HCl is oxidised",
+          "hi": "HCl उपचयित होता है"
+        },
+        {
+          "en": "MnO₂ is reduced",
+          "hi": "MnO₂ अपचयित होता है"
+        },
+        {
+          "en": "MnO₂ is reduced and HCl is oxidised",
+          "hi": "MnO₂ अपचयित और HCl उपचयित होता है"
+        }
+      ],
+      "correctOption": 3,
+      "answer": {
+        "en": "MnO₂ loses oxygen (reduced) and HCl loses hydrogen (oxidised) — both happen together.",
+        "hi": "MnO₂ ऑक्सीजन खोता है (अपचयित) और HCl हाइड्रोजन खोता है (उपचयित) — दोनों साथ होते हैं।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2024/X/SCIENCE.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2024/X/Science.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2024-31-1-1-q17",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2024,
+      "attempt": "main",
+      "paper": {
+        "code": "31/1/1"
+      },
+      "questionNumber": "17",
+      "marks": 1,
+      "type": "assertionReason",
+      "chapterId": "cbse-10-ch03",
+      "topicId": "cbse-10-ch03-t3.2.3",
+      "conceptIds": [
+        "reactivity-series",
+        "oxidation-reduction"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "Assertion (A): Zinc does not give hydrogen gas with nitric acid. Reason (R): Nitric acid oxidises the hydrogen produced to water and is itself reduced.",
+        "hi": "अभिकथन (A): ज़िंक नाइट्रिक अम्ल के साथ हाइड्रोजन गैस नहीं देता। कारण (R): नाइट्रिक अम्ल बनी हुई हाइड्रोजन को जल में ऑक्सीकृत करता है और स्वयं अपचयित होता है।"
+      },
+      "options": [
+        {
+          "en": "Both A and R are true, and R is the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।"
+        },
+        {
+          "en": "Both A and R are true, but R is not the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, पर R, A की सही व्याख्या नहीं है।"
+        },
+        {
+          "en": "A is true, but R is false.",
+          "hi": "A सत्य है, पर R असत्य है।"
+        },
+        {
+          "en": "A is false, but R is true.",
+          "hi": "A असत्य है, पर R सत्य है।"
+        }
+      ],
+      "correctOption": 0,
+      "answer": {
+        "en": "Both A and R are true and R explains A.",
+        "hi": "A और R दोनों सत्य हैं और R, A की व्याख्या करता है।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2024/X/SCIENCE.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2024/X/Science.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2024-31-1-1-q21",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2024,
+      "attempt": "main",
+      "paper": {
+        "code": "31/1/1"
+      },
+      "questionNumber": "21",
+      "marks": 2,
+      "type": "veryShort",
+      "chapterId": "cbse-10-ch01",
+      "topicId": "cbse-10-ch01-t1.2.1",
+      "conceptIds": [
+        "combination-reaction"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "Name the type of reaction when calcium oxide reacts with water, and justify it with a balanced equation.",
+        "hi": "कैल्सियम ऑक्साइड के जल से अभिक्रिया करने पर अभिक्रिया का प्रकार बताइए और संतुलित समीकरण से उसकी पुष्टि कीजिए।"
+      },
+      "answer": {
+        "en": "Combination reaction — a single product is formed: CaO(s) + H₂O(l) → Ca(OH)₂(aq) + heat (quick lime → slaked lime).",
+        "hi": "संयोजन अभिक्रिया — एक ही उत्पाद बनता है: CaO(s) + H₂O(l) → Ca(OH)₂(aq) + ऊष्मा (बिना बुझा चूना → बुझा चूना)।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2024/X/SCIENCE.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2024/X/Science.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2024-31-1-1-q27",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2024,
+      "attempt": "main",
+      "paper": {
+        "code": "31/1/1"
+      },
+      "questionNumber": "27",
+      "marks": 3,
+      "type": "shortAnswer",
+      "chapterId": "cbse-10-ch01",
+      "topicId": "cbse-10-ch01-t1.1",
+      "conceptIds": [
+        "balancing-chemical-equations"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "Write one equation each for reactions showing (i) a change in colour, (ii) a change in temperature and (iii) the formation of a precipitate, stating the colour change, temperature change or precipitate.",
+        "hi": "(i) रंग परिवर्तन, (ii) ताप परिवर्तन और (iii) अवक्षेप बनना दर्शाने वाली अभिक्रियाओं का एक-एक समीकरण लिखिए, साथ में रंग परिवर्तन, ताप परिवर्तन या अवक्षेप बताइए।"
+      },
+      "answer": {
+        "en": "(i) Fe + CuSO₄ → FeSO₄ + Cu — blue solution turns green. (ii) NaOH + HCl → NaCl + H₂O + heat — temperature rises. (iii) Pb(NO₃)₂ + 2KI → PbI₂ + 2KNO₃ — yellow precipitate of PbI₂. (Other correct examples are accepted.)",
+        "hi": "(i) Fe + CuSO₄ → FeSO₄ + Cu — नीला विलयन हरा होता है। (ii) NaOH + HCl → NaCl + H₂O + ऊष्मा — ताप बढ़ता है। (iii) Pb(NO₃)₂ + 2KI → PbI₂ + 2KNO₃ — PbI₂ का पीला अवक्षेप। (अन्य सही उदाहरण भी मान्य।)"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2024/X/SCIENCE.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2024/X/Science.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2024-31-1-1-q28",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2024,
+      "attempt": "main",
+      "paper": {
+        "code": "31/1/1"
+      },
+      "questionNumber": "28",
+      "marks": 3,
+      "type": "shortAnswer",
+      "chapterId": "cbse-10-ch02",
+      "topicId": "cbse-10-ch02-t2.3",
+      "conceptIds": [
+        "ph-scale",
+        "acids-and-bases"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "(i) A tomato juice sample has pH 4.6 — how will it taste, and why? (ii) How do a strong acid and a weak base differ in ion formation in water? (iii) How can acid rain make survival difficult for aquatic animals?",
+        "hi": "(i) टमाटर रस के नमूने का pH 4.6 है — उसका स्वाद कैसा होगा, और क्यों? (ii) जल में आयन बनाने में प्रबल अम्ल और दुर्बल क्षारक में क्या अंतर है? (iii) अम्लीय वर्षा जलीय जंतुओं का जीवन कठिन कैसे बना सकती है?"
+      },
+      "answer": {
+        "en": "(i) Slightly sour — pH 4.6 means it is acidic, and acids taste sour. (ii) A strong acid gives many H⁺ (H₃O⁺) ions; a weak base gives few OH⁻ ions. (iii) Aquatic animals survive in a narrow pH range (about 7.0–7.8); acid rain (pH below 5.6) lowers river pH and makes survival difficult.",
+        "hi": "(i) कुछ खट्टा — pH 4.6 का अर्थ अम्लीय है, और अम्ल खट्टे होते हैं। (ii) प्रबल अम्ल अधिक H⁺ (H₃O⁺) आयन देता है; दुर्बल क्षारक कम OH⁻ आयन देता है। (iii) जलीय जंतु सीमित pH परास (लगभग 7.0–7.8) में ही जीवित रहते हैं; अम्लीय वर्षा (pH 5.6 से कम) नदी का pH घटाकर जीवन कठिन बनाती है।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2024/X/SCIENCE.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2024/X/Science.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2024-31-1-1-q34",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2024,
+      "attempt": "main",
+      "paper": {
+        "code": "31/1/1"
+      },
+      "questionNumber": "34",
+      "marks": 5,
+      "type": "longAnswer",
+      "chapterId": "cbse-10-ch04",
+      "topicId": "cbse-10-ch04-t4.2.4",
+      "conceptIds": [
+        "homologous-series",
+        "functional-groups-and-nomenclature",
+        "ethanol-and-ethanoic-acid"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "(A) Define a homologous series; explain why C₄H₈ has higher melting and boiling points than C₃H₆ or C₂H₄; explain why chemical properties show no gradation in a series; give the names and structures of the aldehyde and the ketone with formula C₃H₆O. OR (B) Name and draw the two-carbon compound X whose name ends in \"-ol\"; write the reaction (with conditions) when X is heated with excess conc. H₂SO₄ at 443 K and state the acid's role; name the hydrocarbon formed and draw its electron dot structure.",
+        "hi": "(A) समजातीय श्रेणी की परिभाषा; C₄H₈ के गलनांक-क्वथनांक C₃H₆ या C₂H₄ से अधिक क्यों हैं; श्रेणी में रासायनिक गुणों में क्रमिक परिवर्तन क्यों नहीं होता; सूत्र C₃H₆O वाले ऐल्डिहाइड और कीटोन के नाम व संरचनाएँ। अथवा (B) \"-ॉल\" पर समाप्त होने वाले नाम वाले दो कार्बन के यौगिक X का नाम और संरचना; 443 K पर अधिक सांद्र H₂SO₄ के साथ X को गरम करने की अभिक्रिया (शर्तों सहित) और अम्ल की भूमिका; बने हाइड्रोकार्बन का नाम और इलेक्ट्रॉन बिंदु संरचना।"
+      },
+      "answer": {
+        "en": "(A) Compounds with the same functional group whose successive members differ by CH₂; melting/boiling points rise with molecular mass; chemical properties depend on the functional group, which is the same; propanal CH₃CH₂CHO and propanone CH₃COCH₃. OR (B) Ethanol, CH₃CH₂OH; CH₃CH₂OH → (conc. H₂SO₄, 443 K) CH₂=CH₂ + H₂O, conc. H₂SO₄ acts as a dehydrating agent; ethene (C=C double bond in its dot structure).",
+        "hi": "(A) समान प्रकार्यात्मक समूह वाले यौगिक जिनके क्रमागत सदस्य CH₂ से भिन्न होते हैं; आणविक द्रव्यमान बढ़ने पर गलनांक/क्वथनांक बढ़ते हैं; रासायनिक गुण प्रकार्यात्मक समूह पर निर्भर, जो समान है; प्रोपेनैल CH₃CH₂CHO और प्रोपेनोन CH₃COCH₃। अथवा (B) एथनॉल, CH₃CH₂OH; CH₃CH₂OH → (सांद्र H₂SO₄, 443 K) CH₂=CH₂ + H₂O, सांद्र H₂SO₄ निर्जलीकारक; एथीन (बिंदु संरचना में C=C द्विआबंध)।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2024/X/SCIENCE.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2024/X/Science.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2024-31-1-1-q37",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2024,
+      "attempt": "main",
+      "paper": {
+        "code": "31/1/1"
+      },
+      "questionNumber": "37",
+      "marks": 4,
+      "type": "caseBased",
+      "chapterId": "cbse-10-ch03",
+      "topicId": "cbse-10-ch03-t3.4.6",
+      "conceptIds": [
+        "electrolytic-refining",
+        "reactivity-series"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "Case on electrolytic refining. (i) What are the cathode and anode made of when refining copper? (ii) Name the solution used and give its formula. (iii) Explain how copper is refined when current is passed. OR (iii) A zinc strip is dipped in copper sulphate solution in beaker A and a silver strip in beaker B; what is seen after about 2 hours, and why?",
+        "hi": "विद्युत-अपघटनी परिष्करण पर प्रकरण। (i) कॉपर के परिष्करण में कैथोड और ऐनोड किससे बने होते हैं? (ii) प्रयुक्त विलयन का नाम और सूत्र बताइए। (iii) धारा प्रवाहित करने पर कॉपर कैसे शुद्ध होता है, समझाइए। अथवा (iii) बीकर A में कॉपर सल्फ़ेट विलयन में ज़िंक की पट्टी और बीकर B में चाँदी की पट्टी डुबोई जाती है; लगभग 2 घंटे बाद क्या दिखेगा, और क्यों?"
+      },
+      "answer": {
+        "en": "(i) Cathode: pure copper; anode: impure copper. (ii) Acidified copper sulphate, CuSO₄. (iii) Copper dissolves from the anode (Cu → Cu²⁺ + 2e⁻) and an equal amount of pure copper deposits on the cathode (Cu²⁺ + 2e⁻ → Cu); soluble impurities stay in solution and insoluble ones settle as anode mud. OR Beaker A: the blue colour fades because zinc is more reactive than copper; beaker B: no change because silver is less reactive than copper.",
+        "hi": "(i) कैथोड: शुद्ध कॉपर; ऐनोड: अशुद्ध कॉपर। (ii) अम्लीकृत कॉपर सल्फ़ेट, CuSO₄। (iii) ऐनोड से कॉपर घुलता है (Cu → Cu²⁺ + 2e⁻) और उतना ही शुद्ध कॉपर कैथोड पर जमता है (Cu²⁺ + 2e⁻ → Cu); घुलनशील अशुद्धियाँ विलयन में रहती हैं और अघुलनशील ऐनोड-पंक बनती हैं। अथवा बीकर A: नीला रंग फीका पड़ता है क्योंकि ज़िंक कॉपर से अधिक क्रियाशील है; बीकर B: कोई परिवर्तन नहीं क्योंकि चाँदी कॉपर से कम क्रियाशील है।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2024/X/SCIENCE.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2024/X/Science.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2025-31-1-1-q1",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2025,
+      "attempt": "main",
+      "paper": {
+        "code": "31/1/1"
+      },
+      "questionNumber": "1",
+      "marks": 1,
+      "type": "mcq",
+      "chapterId": "cbse-10-ch01",
+      "topicId": "cbse-10-ch01-t1.2.2",
+      "conceptIds": [
+        "decomposition-reaction"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "In the electrolysis of water, what is the mass ratio of hydrogen to oxygen liberated at the electrodes?",
+        "hi": "जल के विद्युत-अपघटन में इलेक्ट्रोडों पर मुक्त हाइड्रोजन और ऑक्सीजन का द्रव्यमान अनुपात क्या है?"
+      },
+      "options": [
+        {
+          "en": "8 : 1",
+          "hi": "8 : 1"
+        },
+        {
+          "en": "2 : 1",
+          "hi": "2 : 1"
+        },
+        {
+          "en": "1 : 2",
+          "hi": "1 : 2"
+        },
+        {
+          "en": "1 : 8",
+          "hi": "1 : 8"
+        }
+      ],
+      "correctOption": 3,
+      "answer": {
+        "en": "1 : 8 by mass (2 × 2 g H₂ : 32 g O₂). The 2 : 1 ratio is by volume.",
+        "hi": "द्रव्यमान से 1 : 8 (2 × 2 g H₂ : 32 g O₂)। 2 : 1 अनुपात आयतन से है।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2025/X/086_Science.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2025/X/Science.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2025-31-1-1-q2",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2025,
+      "attempt": "main",
+      "paper": {
+        "code": "31/1/1"
+      },
+      "questionNumber": "2",
+      "marks": 1,
+      "type": "mcq",
+      "chapterId": "cbse-10-ch03",
+      "topicId": "cbse-10-ch03-t3.2.1",
+      "conceptIds": [
+        "metals-and-non-metals"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "What products form when aluminium and magnesium (respectively) are burnt in air?",
+        "hi": "ऐलुमिनियम और मैग्नीशियम (क्रमशः) को वायु में जलाने पर कौन-से उत्पाद बनते हैं?"
+      },
+      "options": [
+        {
+          "en": "Al₃O₄ and MgO₂",
+          "hi": "Al₃O₄ और MgO₂"
+        },
+        {
+          "en": "Al₂O₃ and MgO",
+          "hi": "Al₂O₃ और MgO"
+        },
+        {
+          "en": "Al₃O₄ and MgO",
+          "hi": "Al₃O₄ और MgO"
+        },
+        {
+          "en": "Al₂O₃ and MgO₂",
+          "hi": "Al₂O₃ और MgO₂"
+        }
+      ],
+      "correctOption": 1,
+      "answer": {
+        "en": "Al₂O₃ and MgO (4Al + 3O₂ → 2Al₂O₃; 2Mg + O₂ → 2MgO).",
+        "hi": "Al₂O₃ और MgO (4Al + 3O₂ → 2Al₂O₃; 2Mg + O₂ → 2MgO)।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2025/X/086_Science.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2025/X/Science.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2025-31-1-1-q3",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2025,
+      "attempt": "main",
+      "paper": {
+        "code": "31/1/1"
+      },
+      "questionNumber": "3",
+      "marks": 1,
+      "type": "mcq",
+      "chapterId": "cbse-10-ch02",
+      "topicId": "cbse-10-ch02-t2.3",
+      "conceptIds": [
+        "ph-scale"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "Four solutions A, B, C and D are marked at different points on a pH scale (figure in the paper). Classify them in order.",
+        "hi": "चार विलयन A, B, C और D, pH पैमाने पर भिन्न बिंदुओं पर अंकित हैं (चित्र प्रश्नपत्र में)। इन्हें क्रम से वर्गीकृत कीजिए।"
+      },
+      "options": [
+        {
+          "en": "Strong acid, weak acid, neutral, strong base",
+          "hi": "प्रबल अम्ल, दुर्बल अम्ल, उदासीन, प्रबल क्षारक"
+        },
+        {
+          "en": "Weak acid, neutral, weak base, strong base",
+          "hi": "दुर्बल अम्ल, उदासीन, दुर्बल क्षारक, प्रबल क्षारक"
+        },
+        {
+          "en": "Weak acid, neutral, strong base, weak base",
+          "hi": "दुर्बल अम्ल, उदासीन, प्रबल क्षारक, दुर्बल क्षारक"
+        },
+        {
+          "en": "Weak acid, neutral, strong base, strong acid",
+          "hi": "दुर्बल अम्ल, उदासीन, प्रबल क्षारक, प्रबल अम्ल"
+        }
+      ],
+      "correctOption": 3,
+      "answer": {
+        "en": "As marked in the figure: A weak acid, B neutral, C strong base, D strong acid.",
+        "hi": "चित्र के अनुसार: A दुर्बल अम्ल, B उदासीन, C प्रबल क्षारक, D प्रबल अम्ल।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2025/X/086_Science.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2025/X/Science.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2025-31-1-1-q4",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2025,
+      "attempt": "main",
+      "paper": {
+        "code": "31/1/1"
+      },
+      "questionNumber": "4",
+      "marks": 1,
+      "type": "mcq",
+      "chapterId": "cbse-10-ch02",
+      "topicId": "cbse-10-ch02-t2.1.4",
+      "conceptIds": [
+        "neutralisation"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "Consider: (i) dilute HCl with NaOH, (ii) MgO with dilute HCl, (iii) CO₂ with NaOH. What is common to all three?",
+        "hi": "देखिए: (i) तनु HCl और NaOH, (ii) MgO और तनु HCl, (iii) CO₂ और NaOH। तीनों में क्या समान है?"
+      },
+      "options": [
+        {
+          "en": "Salt and water are formed",
+          "hi": "लवण और जल बनते हैं"
+        },
+        {
+          "en": "Neutral salts are formed",
+          "hi": "उदासीन लवण बनते हैं"
+        },
+        {
+          "en": "Hydrogen gas is formed",
+          "hi": "हाइड्रोजन गैस बनती है"
+        },
+        {
+          "en": "Acidic salts are formed",
+          "hi": "अम्लीय लवण बनते हैं"
+        }
+      ],
+      "correctOption": 0,
+      "answer": {
+        "en": "Salt and water form in each: acid + base, metal oxide + acid, and non-metal oxide + base.",
+        "hi": "प्रत्येक में लवण और जल बनते हैं: अम्ल + क्षारक, धातु ऑक्साइड + अम्ल, और अधातु ऑक्साइड + क्षारक।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2025/X/086_Science.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2025/X/Science.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2025-31-1-1-q5",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2025,
+      "attempt": "main",
+      "paper": {
+        "code": "31/1/1"
+      },
+      "questionNumber": "5",
+      "marks": 1,
+      "type": "mcq",
+      "chapterId": "cbse-10-ch03",
+      "topicId": "cbse-10-ch03-t3.3.1",
+      "conceptIds": [
+        "ionic-bond"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "Elements A and B form compound C; A loses electrons and B gains them. Which property will C NOT show?",
+        "hi": "तत्व A और B यौगिक C बनाते हैं; A इलेक्ट्रॉन खोता है और B ग्रहण करता है। C कौन-सा गुण नहीं दिखाएगा?"
+      },
+      "options": [
+        {
+          "en": "High melting point",
+          "hi": "उच्च गलनांक"
+        },
+        {
+          "en": "High solubility in water",
+          "hi": "जल में अधिक विलेयता"
+        },
+        {
+          "en": "Weak electrostatic forces between its oppositely charged ions",
+          "hi": "विपरीत आवेशित आयनों के बीच दुर्बल स्थिर-वैद्युत बल"
+        },
+        {
+          "en": "Conducts electricity when molten or in solution",
+          "hi": "पिघली अवस्था या विलयन में विद्युत चालन"
+        }
+      ],
+      "correctOption": 2,
+      "answer": {
+        "en": "C is ionic, so its ions are held by strong, not weak, electrostatic forces.",
+        "hi": "C आयनिक है, इसलिए उसके आयन दुर्बल नहीं, प्रबल स्थिर-वैद्युत बलों से बँधे होते हैं।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2025/X/086_Science.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2025/X/Science.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2025-31-1-1-q6",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2025,
+      "attempt": "main",
+      "paper": {
+        "code": "31/1/1"
+      },
+      "questionNumber": "6",
+      "marks": 1,
+      "type": "mcq",
+      "chapterId": "cbse-10-ch03",
+      "topicId": "cbse-10-ch03-t3.4.5",
+      "conceptIds": [
+        "extraction-of-metals"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "Which metals are obtained from their molten chlorides by electrolytic reduction?",
+        "hi": "कौन-सी धातुएँ अपने पिघले क्लोराइडों से विद्युत-अपघटनी अपचयन द्वारा प्राप्त होती हैं?"
+      },
+      "options": [
+        {
+          "en": "Gold and silver",
+          "hi": "सोना और चाँदी"
+        },
+        {
+          "en": "Calcium and magnesium",
+          "hi": "कैल्सियम और मैग्नीशियम"
+        },
+        {
+          "en": "Aluminium and silver",
+          "hi": "ऐलुमिनियम और चाँदी"
+        },
+        {
+          "en": "Sodium and iron",
+          "hi": "सोडियम और लोहा"
+        }
+      ],
+      "correctOption": 1,
+      "answer": {
+        "en": "Calcium and magnesium — highly reactive metals that carbon cannot reduce.",
+        "hi": "कैल्सियम और मैग्नीशियम — अति क्रियाशील धातुएँ जिन्हें कार्बन अपचयित नहीं कर सकता।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2025/X/086_Science.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2025/X/Science.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2025-31-1-1-q7",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2025,
+      "attempt": "main",
+      "paper": {
+        "code": "31/1/1"
+      },
+      "questionNumber": "7",
+      "marks": 1,
+      "type": "mcq",
+      "chapterId": "cbse-10-ch03",
+      "topicId": "cbse-10-ch03-t3.3",
+      "conceptIds": [
+        "ionic-bond"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "Choose the diagram that correctly shows the formation of magnesium oxide (the four options are electron-transfer diagrams in the paper).",
+        "hi": "मैग्नीशियम ऑक्साइड का बनना सही दर्शाने वाला चित्र चुनिए (चारों विकल्प प्रश्नपत्र में इलेक्ट्रॉन-स्थानांतरण चित्र हैं)।"
+      },
+      "answer": {
+        "en": "Option (A) in the paper. The correct diagram shows magnesium (2, 8, 2) transferring its two valence electrons to oxygen (2, 6), forming Mg²⁺ and O²⁻.",
+        "hi": "प्रश्नपत्र में विकल्प (A)। सही चित्र में मैग्नीशियम (2, 8, 2) अपने दो संयोजकता इलेक्ट्रॉन ऑक्सीजन (2, 6) को देकर Mg²⁺ और O²⁻ बनाता है।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2025/X/086_Science.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2025/X/Science.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2025-31-1-1-q17",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2025,
+      "attempt": "main",
+      "paper": {
+        "code": "31/1/1"
+      },
+      "questionNumber": "17",
+      "marks": 1,
+      "type": "assertionReason",
+      "chapterId": "cbse-10-ch01",
+      "topicId": "cbse-10-ch01-t1.2.2",
+      "conceptIds": [
+        "decomposition-reaction",
+        "exothermic-endothermic"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "Assertion (A): Decomposition reactions are generally endothermic. Reason (R): Decomposition of organic matter into compost is exothermic.",
+        "hi": "अभिकथन (A): वियोजन अभिक्रियाएँ सामान्यतः ऊष्माशोषी होती हैं। कारण (R): जैव पदार्थ का कंपोस्ट में अपघटन ऊष्माक्षेपी है।"
+      },
+      "options": [
+        {
+          "en": "Both A and R are true, and R is the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।"
+        },
+        {
+          "en": "Both A and R are true, but R is not the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, पर R, A की सही व्याख्या नहीं है।"
+        },
+        {
+          "en": "A is true, but R is false.",
+          "hi": "A सत्य है, पर R असत्य है।"
+        },
+        {
+          "en": "A is false, but R is true.",
+          "hi": "A असत्य है, पर R सत्य है।"
+        }
+      ],
+      "correctOption": 1,
+      "answer": {
+        "en": "Both statements are true, but R does not explain A.",
+        "hi": "दोनों कथन सत्य हैं, पर R, A की व्याख्या नहीं करता।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2025/X/086_Science.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2025/X/Science.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2025-31-1-1-q21",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2025,
+      "attempt": "main",
+      "paper": {
+        "code": "31/1/1"
+      },
+      "questionNumber": "21",
+      "marks": 2,
+      "type": "veryShort",
+      "chapterId": "cbse-10-ch01",
+      "topicId": "cbse-10-ch01-t1.1",
+      "conceptIds": [
+        "balancing-chemical-equations"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "From a diagram of a school laboratory experiment (see the official paper), list two observations that show a chemical change has taken place.",
+        "hi": "विद्यालय प्रयोगशाला के एक प्रयोग के चित्र से (आधिकारिक प्रश्नपत्र देखें) दो प्रेक्षण लिखिए जो दर्शाते हैं कि रासायनिक परिवर्तन हुआ है।"
+      },
+      "answer": {
+        "en": "Evolution of a gas; a change (rise) in temperature.",
+        "hi": "गैस का निकलना; ताप में परिवर्तन (वृद्धि)।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2025/X/086_Science.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2025/X/Science.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2025-31-1-1-q27",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2025,
+      "attempt": "main",
+      "paper": {
+        "code": "31/1/1"
+      },
+      "questionNumber": "27",
+      "marks": 3,
+      "type": "shortAnswer",
+      "chapterId": "cbse-10-ch03",
+      "topicId": "cbse-10-ch03-t3.4.4",
+      "conceptIds": [
+        "extraction-of-metals",
+        "displacement-reaction"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "(a) Justify with two examples that displacement reactions help in extracting metals in the middle of the reactivity series. (b) Why can metals high up in the series not be obtained by reducing their oxides with carbon?",
+        "hi": "(a) दो उदाहरणों से सिद्ध कीजिए कि विस्थापन अभिक्रियाएँ सक्रियता श्रेणी के मध्य की धातुओं के निष्कर्षण में सहायक हैं। (b) श्रेणी में ऊपर की धातुएँ उनके ऑक्साइडों के कार्बन द्वारा अपचयन से क्यों प्राप्त नहीं होतीं?"
+      },
+      "answer": {
+        "en": "(a) 3MnO₂ + 4Al → 3Mn + 2Al₂O₃ + heat; Fe₂O₃ + 2Al → 2Fe + Al₂O₃ + heat (thermite). (b) Metals such as Na, Mg and Ca have more affinity for oxygen than carbon has.",
+        "hi": "(a) 3MnO₂ + 4Al → 3Mn + 2Al₂O₃ + ऊष्मा; Fe₂O₃ + 2Al → 2Fe + Al₂O₃ + ऊष्मा (थर्मिट)। (b) Na, Mg और Ca जैसी धातुओं की ऑक्सीजन के प्रति बंधुता कार्बन से अधिक है।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2025/X/086_Science.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2025/X/Science.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2025-31-1-1-q28",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2025,
+      "attempt": "main",
+      "paper": {
+        "code": "31/1/1"
+      },
+      "questionNumber": "28",
+      "marks": 3,
+      "type": "shortAnswer",
+      "chapterId": "cbse-10-ch03",
+      "topicId": "cbse-10-ch03-t3.5",
+      "conceptIds": [
+        "corrosion-and-rancidity",
+        "reactivity-series"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "(a) With an activity, explain the conditions under which iron articles rust. OR (b) Name two metals that react violently with cold water and list three observations when they are dropped in water; give a test for the gas evolved.",
+        "hi": "(a) एक क्रियाकलाप द्वारा वे परिस्थितियाँ समझाइए जिनमें लोहे की वस्तुओं पर ज़ंग लगता है। अथवा (b) ठंडे जल से तीव्र अभिक्रिया करने वाली दो धातुओं के नाम बताइए और उन्हें जल में डालने पर तीन प्रेक्षण लिखिए; निकलने वाली गैस का परीक्षण बताइए।"
+      },
+      "answer": {
+        "en": "(a) Iron nails in three test tubes: A with ordinary water; B with boiled distilled water under a layer of oil; C with anhydrous calcium chloride. Only A rusts, so both air and water are needed. OR (b) Sodium and potassium (or lithium); violent reaction, a lot of heat, the gas may catch fire; the gas burns with a pop sound (hydrogen).",
+        "hi": "(a) तीन परखनलियों में लोहे की कीलें: A में साधारण जल; B में तेल की परत के नीचे उबला आसुत जल; C में निर्जल कैल्सियम क्लोराइड। केवल A में ज़ंग लगता है, अतः वायु और जल दोनों आवश्यक हैं। अथवा (b) सोडियम और पोटैशियम (या लिथियम); तीव्र अभिक्रिया, बहुत ऊष्मा, गैस आग पकड़ सकती है; गैस \"पॉप\" ध्वनि से जलती है (हाइड्रोजन)।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2025/X/086_Science.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2025/X/Science.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2025-31-1-1-q34",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2025,
+      "attempt": "main",
+      "paper": {
+        "code": "31/1/1"
+      },
+      "questionNumber": "34",
+      "marks": 5,
+      "type": "longAnswer",
+      "chapterId": "cbse-10-ch04",
+      "topicId": "cbse-10-ch04-t4.2.2",
+      "conceptIds": [
+        "versatile-nature-of-carbon",
+        "functional-groups-and-nomenclature",
+        "reactions-of-carbon-compounds",
+        "ethanol-and-ethanoic-acid"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "(a) Draw two isomers of butene (C₄H₈); name two given structures (a chloro compound with three carbons and a four-carbon compound with C=O in the chain); write equations, with one essential condition each, for complete oxidation of ethanol, hydrogenation of propene, and ethanoic acid with ethanol. OR (b) A carbon compound X is a good solvent; with sodium it gives Y and Z, and Z is used to convert vegetable oil into ghee — identify X, Y, Z with an equation; write equations for ethanol burning in air, being heated at 443 K with excess conc. H₂SO₄, and reacting with acidified potassium dichromate.",
+        "hi": "(a) ब्यूटीन (C₄H₈) के दो समावयव बनाइए; दो दी गई संरचनाओं के नाम लिखिए (तीन कार्बन वाला क्लोरो यौगिक और शृंखला में C=O वाला चार कार्बन का यौगिक); एक-एक आवश्यक शर्त सहित एथनॉल के पूर्ण ऑक्सीकरण, प्रोपीन के हाइड्रोजनीकरण, और एथेनॉइक अम्ल की एथनॉल से अभिक्रिया के समीकरण लिखिए। अथवा (b) कार्बन यौगिक X एक अच्छा विलायक है; सोडियम के साथ यह Y और Z देता है, और Z से वनस्पति तेल को घी में बदला जाता है — समीकरण सहित X, Y, Z पहचानिए; एथनॉल के वायु में जलने, 443 K पर अधिक सांद्र H₂SO₄ के साथ गरम करने, और अम्लीकृत पोटैशियम डाइक्रोमेट से अभिक्रिया के समीकरण लिखिए।"
+      },
+      "answer": {
+        "en": "(a) But-1-ene CH₂=CH–CH₂–CH₃ and but-2-ene CH₃–CH=CH–CH₃; chloropropane and butanone; ethanol → ethanoic acid (alkaline KMnO₄/acidified K₂Cr₂O₇, heat); CH₃CH=CH₂ + H₂ → CH₃CH₂CH₃ (Ni catalyst); CH₃COOH + C₂H₅OH → CH₃COOC₂H₅ + H₂O (acid catalyst). OR (b) X = ethanol, Y = sodium ethoxide, Z = hydrogen: 2CH₃CH₂OH + 2Na → 2CH₃CH₂ONa + H₂; C₂H₅OH + 3O₂ → 2CO₂ + 3H₂O; CH₃CH₂OH → CH₂=CH₂ + H₂O (conc. H₂SO₄, 443 K); CH₃CH₂OH → CH₃COOH (acidified K₂Cr₂O₇).",
+        "hi": "(a) ब्यूट-1-ईन CH₂=CH–CH₂–CH₃ और ब्यूट-2-ईन CH₃–CH=CH–CH₃; क्लोरोप्रोपेन और ब्यूटेनोन; एथनॉल → एथेनॉइक अम्ल (क्षारीय KMnO₄/अम्लीकृत K₂Cr₂O₇, ऊष्मा); CH₃CH=CH₂ + H₂ → CH₃CH₂CH₃ (Ni उत्प्रेरक); CH₃COOH + C₂H₅OH → CH₃COOC₂H₅ + H₂O (अम्ल उत्प्रेरक)। अथवा (b) X = एथनॉल, Y = सोडियम एथॉक्साइड, Z = हाइड्रोजन: 2CH₃CH₂OH + 2Na → 2CH₃CH₂ONa + H₂; C₂H₅OH + 3O₂ → 2CO₂ + 3H₂O; CH₃CH₂OH → CH₂=CH₂ + H₂O (सांद्र H₂SO₄, 443 K); CH₃CH₂OH → CH₃COOH (अम्लीकृत K₂Cr₂O₇)।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2025/X/086_Science.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2025/X/Science.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2025-31-1-1-q37",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2025,
+      "attempt": "main",
+      "paper": {
+        "code": "31/1/1"
+      },
+      "questionNumber": "37",
+      "marks": 4,
+      "type": "caseBased",
+      "chapterId": "cbse-10-ch02",
+      "topicId": "cbse-10-ch02-t2.4.3",
+      "conceptIds": [
+        "chlor-alkali-process",
+        "water-of-crystallisation"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "Case on common salt as a raw material. (a) Write the balanced equation for the electrolysis of brine. (b) List two uses of any one product. (c) A mild, non-corrosive basic salt A used for faster cooking is strongly heated to give B, used to remove permanent hardness of water — identify A and B and write the equation. OR (c) Define water of crystallisation and give two examples.",
+        "hi": "साधारण नमक के कच्चे माल के रूप में उपयोग पर प्रकरण। (a) ब्राइन के विद्युत-अपघटन का संतुलित समीकरण लिखिए। (b) किसी एक उत्पाद के दो उपयोग लिखिए। (c) जल्दी पकाने में प्रयुक्त हल्का, असंक्षारक क्षारकीय लवण A तेज़ गरम करने पर B देता है, जो जल की स्थायी कठोरता हटाने में प्रयुक्त होता है — A और B पहचानिए और समीकरण लिखिए। अथवा (c) क्रिस्टलन जल की परिभाषा दीजिए और दो उदाहरण दीजिए।"
+      },
+      "answer": {
+        "en": "(a) 2NaCl + 2H₂O → 2NaOH + H₂ + Cl₂. (b) e.g. NaOH: soaps and detergents, paper; Cl₂: water treatment, PVC; H₂: fuel, ammonia for fertilisers. (c) A = sodium hydrogencarbonate (baking soda), B = sodium carbonate: 2NaHCO₃ → Na₂CO₃ + H₂O + CO₂. OR The fixed number of water molecules in one formula unit of a salt; e.g. CuSO₄·5H₂O, Na₂CO₃·10H₂O, CaSO₄·2H₂O.",
+        "hi": "(a) 2NaCl + 2H₂O → 2NaOH + H₂ + Cl₂। (b) जैसे NaOH: साबुन-अपमार्जक, काग़ज़; Cl₂: जल-शोधन, PVC; H₂: ईंधन, उर्वरकों के लिए अमोनिया। (c) A = सोडियम हाइड्रोजनकार्बोनेट (खाने का सोडा), B = सोडियम कार्बोनेट: 2NaHCO₃ → Na₂CO₃ + H₂O + CO₂। अथवा किसी लवण की एक सूत्र इकाई में जल-अणुओं की निश्चित संख्या; जैसे CuSO₄·5H₂O, Na₂CO₃·10H₂O, CaSO₄·2H₂O।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2025/X/086_Science.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/Marking-Scheme/2025/X/Science.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2026-31-2-1-q17",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2026,
+      "attempt": "main",
+      "paper": {
+        "code": "31/2/1"
+      },
+      "questionNumber": "17",
+      "marks": 1,
+      "type": "mcq",
+      "chapterId": "cbse-10-ch01",
+      "topicId": "cbse-10-ch01-t1.2.1",
+      "conceptIds": [
+        "combination-reaction"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "Which of these are combination reactions? (i) 2KClO₃ → 2KCl + 3O₂ (ii) MgO + H₂O → Mg(OH)₂ (iii) 4Al + 3O₂ → 2Al₂O₃ (iv) Zn + FeSO₄ → ZnSO₄ + Fe",
+        "hi": "इनमें से कौन-सी संयोजन अभिक्रियाएँ हैं? (i) 2KClO₃ → 2KCl + 3O₂ (ii) MgO + H₂O → Mg(OH)₂ (iii) 4Al + 3O₂ → 2Al₂O₃ (iv) Zn + FeSO₄ → ZnSO₄ + Fe"
+      },
+      "options": [
+        {
+          "en": "(i) and (iii)",
+          "hi": "(i) और (iii)"
+        },
+        {
+          "en": "(iii) and (iv)",
+          "hi": "(iii) और (iv)"
+        },
+        {
+          "en": "(ii) and (iv)",
+          "hi": "(ii) और (iv)"
+        },
+        {
+          "en": "(ii) and (iii)",
+          "hi": "(ii) और (iii)"
+        }
+      ],
+      "correctOption": 3,
+      "answer": {
+        "en": "(ii) and (iii): each forms a single product. (i) is decomposition and (iv) is displacement.",
+        "hi": "(ii) और (iii): प्रत्येक में एक ही उत्पाद बनता है। (i) वियोजन और (iv) विस्थापन है।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2026/X/Science.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/marking-scheme/2026/X/086_SCIENCE.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2026-31-2-1-q18",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2026,
+      "attempt": "main",
+      "paper": {
+        "code": "31/2/1"
+      },
+      "questionNumber": "18",
+      "marks": 1,
+      "type": "mcq",
+      "chapterId": "cbse-10-ch02",
+      "topicId": "cbse-10-ch02-t2.1.3",
+      "conceptIds": [
+        "acids-and-bases"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "A metal carbonate reacts with solution X to form a salt, water and gas Y. What are X and Y?",
+        "hi": "एक धातु कार्बोनेट विलयन X से अभिक्रिया कर लवण, जल और गैस Y बनाता है। X और Y क्या हैं?"
+      },
+      "options": [
+        {
+          "en": "X sodium hydroxide, Y carbon dioxide",
+          "hi": "X सोडियम हाइड्रॉक्साइड, Y कार्बन डाइऑक्साइड"
+        },
+        {
+          "en": "X sodium hydroxide, Y hydrogen",
+          "hi": "X सोडियम हाइड्रॉक्साइड, Y हाइड्रोजन"
+        },
+        {
+          "en": "X hydrochloric acid, Y carbon dioxide",
+          "hi": "X हाइड्रोक्लोरिक अम्ल, Y कार्बन डाइऑक्साइड"
+        },
+        {
+          "en": "X hydrochloric acid, Y hydrogen",
+          "hi": "X हाइड्रोक्लोरिक अम्ल, Y हाइड्रोजन"
+        }
+      ],
+      "correctOption": 2,
+      "answer": {
+        "en": "X is hydrochloric acid and Y is carbon dioxide: metal carbonate + acid → salt + water + CO₂.",
+        "hi": "X हाइड्रोक्लोरिक अम्ल और Y कार्बन डाइऑक्साइड है: धातु कार्बोनेट + अम्ल → लवण + जल + CO₂।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2026/X/Science.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/marking-scheme/2026/X/086_SCIENCE.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2026-31-2-1-q19",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2026,
+      "attempt": "main",
+      "paper": {
+        "code": "31/2/1"
+      },
+      "questionNumber": "19",
+      "marks": 1,
+      "type": "mcq",
+      "chapterId": "cbse-10-ch01",
+      "topicId": "cbse-10-ch01-t1.2.2",
+      "conceptIds": [
+        "decomposition-reaction"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "What is observed when ferrous sulphate crystals are heated in a test tube?",
+        "hi": "परखनली में फ़ेरस सल्फ़ेट क्रिस्टल गरम करने पर क्या दिखता है?"
+      },
+      "options": [
+        {
+          "en": "A colourless, odourless gas is given off",
+          "hi": "रंगहीन, गंधहीन गैस निकलती है"
+        },
+        {
+          "en": "A brown gas is given off",
+          "hi": "भूरी गैस निकलती है"
+        },
+        {
+          "en": "The green colour fades and a gas smelling of burning sulphur is given off",
+          "hi": "हरा रंग फीका पड़ता है और जलते गंधक जैसी गंध वाली गैस निकलती है"
+        },
+        {
+          "en": "The green colour fades and no gas is given off",
+          "hi": "हरा रंग फीका पड़ता है और कोई गैस नहीं निकलती"
+        }
+      ],
+      "correctOption": 2,
+      "answer": {
+        "en": "The green colour fades and SO₂/SO₃ with a burning-sulphur smell are given off: 2FeSO₄ → Fe₂O₃ + SO₂ + SO₃.",
+        "hi": "हरा रंग फीका पड़ता है और जलते गंधक की गंध वाली SO₂/SO₃ निकलती हैं: 2FeSO₄ → Fe₂O₃ + SO₂ + SO₃।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2026/X/Science.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/marking-scheme/2026/X/086_SCIENCE.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2026-31-2-1-q20",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2026,
+      "attempt": "main",
+      "paper": {
+        "code": "31/2/1"
+      },
+      "questionNumber": "20",
+      "marks": 1,
+      "type": "mcq",
+      "chapterId": "cbse-10-ch03",
+      "topicId": "cbse-10-ch03-t3.2.2",
+      "conceptIds": [
+        "reactivity-series"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "Magnesium placed in hot water starts floating. Why?",
+        "hi": "गरम जल में रखा मैग्नीशियम तैरने लगता है। क्यों?"
+      },
+      "options": [
+        {
+          "en": "Mg is lighter than water",
+          "hi": "Mg जल से हल्का है"
+        },
+        {
+          "en": "Mg reacts with water to give H₂ gas, which makes it float",
+          "hi": "Mg जल से अभिक्रिया कर H₂ गैस देता है, जिससे वह तैरता है"
+        },
+        {
+          "en": "Mg gives N₂ gas with water",
+          "hi": "Mg जल के साथ N₂ गैस देता है"
+        },
+        {
+          "en": "Mg gives CO₂ gas with water",
+          "hi": "Mg जल के साथ CO₂ गैस देता है"
+        }
+      ],
+      "correctOption": 1,
+      "answer": {
+        "en": "Bubbles of hydrogen formed in the reaction stick to the metal and make it float.",
+        "hi": "अभिक्रिया में बने हाइड्रोजन के बुलबुले धातु से चिपककर उसे तैराते हैं।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2026/X/Science.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/marking-scheme/2026/X/086_SCIENCE.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2026-31-2-1-q21",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2026,
+      "attempt": "main",
+      "paper": {
+        "code": "31/2/1"
+      },
+      "questionNumber": "21",
+      "marks": 1,
+      "type": "mcq",
+      "chapterId": "cbse-10-ch02",
+      "topicId": "cbse-10-ch02-t2.3.1",
+      "conceptIds": [
+        "ph-scale"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "What is the pH of the gastric juice released during digestion?",
+        "hi": "पाचन के दौरान निकलने वाले जठर रस का pH क्या होता है?"
+      },
+      "options": [
+        {
+          "en": "Less than 7",
+          "hi": "7 से कम"
+        },
+        {
+          "en": "More than 7",
+          "hi": "7 से अधिक"
+        },
+        {
+          "en": "Equal to 7",
+          "hi": "7 के बराबर"
+        },
+        {
+          "en": "Equal to 0",
+          "hi": "0 के बराबर"
+        }
+      ],
+      "correctOption": 0,
+      "answer": {
+        "en": "Less than 7 — the stomach produces hydrochloric acid.",
+        "hi": "7 से कम — आमाशय हाइड्रोक्लोरिक अम्ल बनाता है।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2026/X/Science.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/marking-scheme/2026/X/086_SCIENCE.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2026-31-2-1-q22",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2026,
+      "attempt": "main",
+      "paper": {
+        "code": "31/2/1"
+      },
+      "questionNumber": "22",
+      "marks": 1,
+      "type": "mcq",
+      "chapterId": "cbse-10-ch02",
+      "topicId": "cbse-10-ch02-t2.4.3",
+      "conceptIds": [
+        "chlor-alkali-process"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "Baking powder is a mixture of:",
+        "hi": "बेकिंग पाउडर किसका मिश्रण है?"
+      },
+      "options": [
+        {
+          "en": "Sodium carbonate + acetic acid",
+          "hi": "सोडियम कार्बोनेट + ऐसीटिक अम्ल"
+        },
+        {
+          "en": "Sodium carbonate + tartaric acid",
+          "hi": "सोडियम कार्बोनेट + टार्टरिक अम्ल"
+        },
+        {
+          "en": "Sodium hydrogencarbonate + tartaric acid",
+          "hi": "सोडियम हाइड्रोजनकार्बोनेट + टार्टरिक अम्ल"
+        },
+        {
+          "en": "Sodium hydrogencarbonate + acetic acid",
+          "hi": "सोडियम हाइड्रोजनकार्बोनेट + ऐसीटिक अम्ल"
+        }
+      ],
+      "correctOption": 2,
+      "answer": {
+        "en": "Sodium hydrogencarbonate (baking soda) and tartaric acid, a weak edible acid.",
+        "hi": "सोडियम हाइड्रोजनकार्बोनेट (खाने का सोडा) और टार्टरिक अम्ल, एक दुर्बल खाद्य अम्ल।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2026/X/Science.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/marking-scheme/2026/X/086_SCIENCE.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2026-31-2-1-q23",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2026,
+      "attempt": "main",
+      "paper": {
+        "code": "31/2/1"
+      },
+      "questionNumber": "23",
+      "marks": 1,
+      "type": "mcq",
+      "chapterId": "cbse-10-ch01",
+      "topicId": "cbse-10-ch01-t1.3.1",
+      "conceptIds": [
+        "corrosion-and-rancidity"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "Silver jewellery becomes dull with a grey-black coating after some months of use. Why?",
+        "hi": "कुछ महीने पहनने के बाद चाँदी के आभूषण धूसर-काली परत के साथ मंद पड़ जाते हैं। क्यों?"
+      },
+      "options": [
+        {
+          "en": "Its polish wears off",
+          "hi": "उसकी पॉलिश उतर जाती है"
+        },
+        {
+          "en": "It comes in contact with air, moisture and acids and corrodes",
+          "hi": "यह वायु, नमी और अम्लों के संपर्क में आकर संक्षारित होता है"
+        },
+        {
+          "en": "Dust particles change its colour",
+          "hi": "धूल के कण उसका रंग बदल देते हैं"
+        },
+        {
+          "en": "It rusts",
+          "hi": "उस पर ज़ंग लगता है"
+        }
+      ],
+      "correctOption": 1,
+      "answer": {
+        "en": "Corrosion: silver reacts with substances in the air (it forms a black coating). \"Rusting\" applies only to iron.",
+        "hi": "संक्षारण: चाँदी वायु के पदार्थों से अभिक्रिया करती है (काली परत बनती है)। \"ज़ंग\" केवल लोहे पर लागू होता है।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2026/X/Science.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/marking-scheme/2026/X/086_SCIENCE.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2026-31-2-1-q24",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2026,
+      "attempt": "main",
+      "paper": {
+        "code": "31/2/1"
+      },
+      "questionNumber": "24",
+      "marks": 1,
+      "type": "assertionReason",
+      "chapterId": "cbse-10-ch04",
+      "topicId": "cbse-10-ch04-t4.2",
+      "conceptIds": [
+        "versatile-nature-of-carbon"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "Assertion (A): Carbon compounds can form chains, branches and rings. Reason (R): Carbon shows catenation.",
+        "hi": "अभिकथन (A): कार्बन यौगिक शृंखलाएँ, शाखाएँ और वलय बना सकते हैं। कारण (R): कार्बन शृंखलन दर्शाता है।"
+      },
+      "options": [
+        {
+          "en": "Both A and R are true, and R is the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।"
+        },
+        {
+          "en": "Both A and R are true, but R is not the correct explanation of A.",
+          "hi": "A और R दोनों सत्य हैं, पर R, A की सही व्याख्या नहीं है।"
+        },
+        {
+          "en": "A is true, but R is false.",
+          "hi": "A सत्य है, पर R असत्य है।"
+        },
+        {
+          "en": "A is false, but R is true.",
+          "hi": "A असत्य है, पर R सत्य है।"
+        }
+      ],
+      "correctOption": 0,
+      "answer": {
+        "en": "Both are true and R explains A.",
+        "hi": "दोनों सत्य हैं और R, A की व्याख्या करता है।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2026/X/Science.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/marking-scheme/2026/X/086_SCIENCE.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2026-31-2-1-q25",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2026,
+      "attempt": "main",
+      "paper": {
+        "code": "31/2/1"
+      },
+      "questionNumber": "25",
+      "marks": 2,
+      "type": "veryShort",
+      "chapterId": "cbse-10-ch03",
+      "topicId": "cbse-10-ch03-t3.2.4",
+      "conceptIds": [
+        "reactivity-series",
+        "displacement-reaction"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "Iron filings are added to four test tubes containing ZnSO₄, CuSO₄, FeSO₄ and Al₂(SO₄)₃ solutions. (i) In which test tube is the reaction most vigorous, and why? (ii) Write the balanced equation.",
+        "hi": "ZnSO₄, CuSO₄, FeSO₄ और Al₂(SO₄)₃ विलयनों वाली चार परखनलियों में लोहे का बुरादा डाला जाता है। (i) किस परखनली में अभिक्रिया सबसे तीव्र होगी, और क्यों? (ii) संतुलित समीकरण लिखिए।"
+      },
+      "answer": {
+        "en": "(i) The CuSO₄ test tube — iron is more reactive than copper and displaces it. (ii) Fe(s) + CuSO₄(aq) → FeSO₄(aq) + Cu(s).",
+        "hi": "(i) CuSO₄ वाली परखनली — लोहा कॉपर से अधिक क्रियाशील है और उसे विस्थापित करता है। (ii) Fe(s) + CuSO₄(aq) → FeSO₄(aq) + Cu(s)।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2026/X/Science.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/marking-scheme/2026/X/086_SCIENCE.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2026-31-2-1-q26",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2026,
+      "attempt": "main",
+      "paper": {
+        "code": "31/2/1"
+      },
+      "questionNumber": "26",
+      "marks": 3,
+      "type": "shortAnswer",
+      "chapterId": "cbse-10-ch03",
+      "topicId": "cbse-10-ch03-t3.3",
+      "conceptIds": [
+        "ionic-bond",
+        "metals-and-non-metals",
+        "amphoteric-oxides"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "(a) Name a metal soft enough to cut with a knife and a non-metal that conducts electricity; using electronic configurations, show how Mg combines with O to form MgO (Mg = 12, O = 8). OR (b) Give reasons: metal sulphides and carbonates are converted to oxides during extraction; aluminium oxide is amphoteric; Na, K, Ca and Mg are never found free in nature.",
+        "hi": "(a) चाकू से कटने वाली नरम धातु और विद्युत चालक अधातु का नाम बताइए; इलेक्ट्रॉनिक विन्यास से दिखाइए कि Mg, O से जुड़कर MgO कैसे बनाता है (Mg = 12, O = 8)। अथवा (b) कारण दीजिए: निष्कर्षण में धातु सल्फ़ाइड और कार्बोनेट को ऑक्साइड में बदला जाता है; ऐलुमिनियम ऑक्साइड उभयधर्मी है; Na, K, Ca और Mg प्रकृति में कभी मुक्त नहीं मिलते।"
+      },
+      "answer": {
+        "en": "(a) Sodium/lithium/potassium; graphite. Mg (2, 8, 2) gives two electrons to O (2, 6): Mg → Mg²⁺ + 2e⁻, O + 2e⁻ → O²⁻, forming Mg²⁺O²⁻. OR (b) It is easier to reduce an oxide to the metal; Al₂O₃ reacts with both acids and bases to give salt and water; these metals are highly reactive, so they exist only as compounds.",
+        "hi": "(a) सोडियम/लिथियम/पोटैशियम; ग्रेफ़ाइट। Mg (2, 8, 2) दो इलेक्ट्रॉन O (2, 6) को देता है: Mg → Mg²⁺ + 2e⁻, O + 2e⁻ → O²⁻, जिससे Mg²⁺O²⁻ बनता है। अथवा (b) ऑक्साइड को धातु में अपचयित करना आसान है; Al₂O₃ अम्ल और क्षारक दोनों से अभिक्रिया कर लवण और जल देता है; ये धातुएँ अति क्रियाशील हैं, इसलिए केवल यौगिकों के रूप में मिलती हैं।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2026/X/Science.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/marking-scheme/2026/X/086_SCIENCE.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2026-31-2-1-q27",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2026,
+      "attempt": "main",
+      "paper": {
+        "code": "31/2/1"
+      },
+      "questionNumber": "27",
+      "marks": 3,
+      "type": "shortAnswer",
+      "chapterId": "cbse-10-ch01",
+      "topicId": "cbse-10-ch01-t1.2.5",
+      "conceptIds": [
+        "oxidation-reduction"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "Copper powder is heated in a china dish and then hydrogen is passed over the hot product. Describe the changes seen and write both equations, with the names and colours of the products.",
+        "hi": "चीनी मिट्टी की प्याली में कॉपर चूर्ण गरम किया जाता है और फिर गरम उत्पाद पर हाइड्रोजन प्रवाहित की जाती है। दिखने वाले परिवर्तन बताइए और उत्पादों के नाम तथा रंग सहित दोनों समीकरण लिखिए।"
+      },
+      "answer": {
+        "en": "Brown copper turns black: 2Cu + O₂ → 2CuO (copper oxide, black). With hydrogen it turns brown again: CuO + H₂ → Cu + H₂O (copper, brown).",
+        "hi": "भूरा कॉपर काला हो जाता है: 2Cu + O₂ → 2CuO (कॉपर ऑक्साइड, काला)। हाइड्रोजन से फिर भूरा हो जाता है: CuO + H₂ → Cu + H₂O (कॉपर, भूरा)।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2026/X/Science.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/marking-scheme/2026/X/086_SCIENCE.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2026-31-2-1-q28",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2026,
+      "attempt": "main",
+      "paper": {
+        "code": "31/2/1"
+      },
+      "questionNumber": "28",
+      "marks": 4,
+      "type": "caseBased",
+      "chapterId": "cbse-10-ch02",
+      "topicId": "cbse-10-ch02-t2.4.3",
+      "conceptIds": [
+        "chlor-alkali-process"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "Case: electricity through aqueous common salt gives substance Z and gases X and Y; Y burns with a pop sound and X is used to disinfect drinking water; X passed over slaked lime gives A. (a) Name X and Y. (b) Write the balanced equation for forming Z. (c)(i) What happens when red litmus is added to a solution of Z, and when CO₂ is passed through ammoniacal NaCl solution? OR (c)(ii) Identify A and write the equation for its preparation.",
+        "hi": "प्रकरण: साधारण नमक के जलीय विलयन में विद्युत प्रवाहित करने पर पदार्थ Z और गैसें X तथा Y बनती हैं; Y \"पॉप\" ध्वनि से जलती है और X पेयजल को रोगाणुमुक्त करने में प्रयुक्त होती है; बुझे चूने पर X प्रवाहित करने से A बनता है। (a) X और Y के नाम बताइए। (b) Z बनने का संतुलित समीकरण लिखिए। (c)(i) Z के विलयन में लाल लिटमस डालने पर, और अमोनियायुक्त NaCl विलयन में CO₂ प्रवाहित करने पर क्या होता है? अथवा (c)(ii) A पहचानिए और उसके निर्माण का समीकरण लिखिए।"
+      },
+      "answer": {
+        "en": "(a) X = chlorine, Y = hydrogen. (b) 2NaCl + 2H₂O → 2NaOH + Cl₂ + H₂ (Z = NaOH). (c)(i) Red litmus turns blue; sodium hydrogencarbonate and ammonium chloride form (NaCl + H₂O + CO₂ + NH₃ → NH₄Cl + NaHCO₃). OR (c)(ii) A = bleaching powder: 2Ca(OH)₂ + 2Cl₂ → Ca(ClO)₂ + CaCl₂ + 2H₂O (the marking scheme also accepts Ca(OH)₂ + Cl₂ → CaOCl₂ + H₂O).",
+        "hi": "(a) X = क्लोरीन, Y = हाइड्रोजन। (b) 2NaCl + 2H₂O → 2NaOH + Cl₂ + H₂ (Z = NaOH)। (c)(i) लाल लिटमस नीला हो जाता है; सोडियम हाइड्रोजनकार्बोनेट और अमोनियम क्लोराइड बनते हैं (NaCl + H₂O + CO₂ + NH₃ → NH₄Cl + NaHCO₃)। अथवा (c)(ii) A = विरंजक चूर्ण: 2Ca(OH)₂ + 2Cl₂ → Ca(ClO)₂ + CaCl₂ + 2H₂O (अंकन योजना Ca(OH)₂ + Cl₂ → CaOCl₂ + H₂O भी स्वीकार करती है)।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2026/X/Science.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/marking-scheme/2026/X/086_SCIENCE.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "pyq-cbse-10-2026-31-2-1-q29",
+      "boardId": "cbse",
+      "classLevel": 10,
+      "examYear": 2026,
+      "attempt": "main",
+      "paper": {
+        "code": "31/2/1"
+      },
+      "questionNumber": "29",
+      "marks": 5,
+      "type": "longAnswer",
+      "chapterId": "cbse-10-ch04",
+      "topicId": "cbse-10-ch04-t4.4",
+      "conceptIds": [
+        "ethanol-and-ethanoic-acid",
+        "versatile-nature-of-carbon"
+      ],
+      "syllabusStatus": "inSyllabus",
+      "similarGroupId": null,
+      "summary": {
+        "en": "(a) Compound P (C₂H₆O) is neutral to litmus and gives a gas with a pop sound with sodium. (i) Identify P. (ii) P is heated with conc. H₂SO₄ at 443 K to give Q — write the equation and the role of the acid. (iii) What is observed when P is heated with ethanoic acid and an acid catalyst? Write the equation. OR (b) (i) Draw the structure of benzene. (ii) Why can carbon form neither C⁴⁺ nor C⁴⁻? (iii) What type of bond forms between carbon and hydrogen? (iv) How is ethanol converted to ethanoic acid? (v) Complete: CH₃COOC₂H₅ + NaOH →",
+        "hi": "(a) यौगिक P (C₂H₆O) लिटमस के प्रति उदासीन है और सोडियम के साथ \"पॉप\" ध्वनि वाली गैस देता है। (i) P पहचानिए। (ii) P को 443 K पर सांद्र H₂SO₄ के साथ गरम करने पर Q बनता है — समीकरण और अम्ल की भूमिका लिखिए। (iii) P को एथेनॉइक अम्ल और अम्ल उत्प्रेरक के साथ गरम करने पर क्या दिखता है? समीकरण लिखिए। अथवा (b) (i) बेंज़ीन की संरचना बनाइए। (ii) कार्बन न C⁴⁺ बना सकता है न C⁴⁻ — क्यों? (iii) कार्बन और हाइड्रोजन के बीच किस प्रकार का आबंध बनता है? (iv) एथनॉल को एथेनॉइक अम्ल में कैसे बदला जाता है? (v) पूरा कीजिए: CH₃COOC₂H₅ + NaOH →"
+      },
+      "answer": {
+        "en": "(a) (i) Ethanol. (ii) CH₃CH₂OH → (conc. H₂SO₄, 443 K) CH₂=CH₂ + H₂O; the acid is a dehydrating agent. (iii) A sweet-smelling ester forms: CH₃COOH + C₂H₅OH → CH₃COOC₂H₅ + H₂O. OR (b) (i) Six-carbon ring with alternating single and double bonds. (ii) Removing four electrons needs too much energy; a nucleus of six protons cannot hold ten electrons. (iii) Covalent. (iv) By oxidation with alkaline KMnO₄ or acidified K₂Cr₂O₇. (v) CH₃COOC₂H₅ + NaOH → C₂H₅OH + CH₃COONa.",
+        "hi": "(a) (i) एथनॉल। (ii) CH₃CH₂OH → (सांद्र H₂SO₄, 443 K) CH₂=CH₂ + H₂O; अम्ल निर्जलीकारक है। (iii) मीठी गंध वाला एस्टर बनता है: CH₃COOH + C₂H₅OH → CH₃COOC₂H₅ + H₂O। अथवा (b) (i) एकांतर एकल और द्विआबंधों वाला छह कार्बन का वलय। (ii) चार इलेक्ट्रॉन हटाने में बहुत अधिक ऊर्जा लगती है; छह प्रोटॉन वाला नाभिक दस इलेक्ट्रॉन नहीं सँभाल सकता। (iii) सहसंयोजी। (iv) क्षारीय KMnO₄ या अम्लीकृत K₂Cr₂O₇ से ऑक्सीकरण द्वारा। (v) CH₃COOC₂H₅ + NaOH → C₂H₅OH + CH₃COONa।"
+      },
+      "source": {
+        "paperUrl": "https://www.cbse.gov.in/cbsenew/question-paper/2026/X/Science.zip",
+        "markingSchemeUrl": "https://www.cbse.gov.in/cbsenew/marking-scheme/2026/X/086_SCIENCE.zip"
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    }
+  ]
+}

@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 1,
+  "id": "cisce-2026-27",
+  "boardId": "cisce",
+  "academicYear": "2026-27",
+  "status": "verified",
+  "retrieved": "2026-10-17",
+  "classes": [
+    {
+      "classLevel": 11,
+      "file": "boards/cisce/2026-27/class-11.json"
+    },
+    {
+      "classLevel": 12,
+      "file": "boards/cisce/2026-27/class-12.json"
+    }
+  ],
+  "sources": [
+    {
+      "id": "isc-chem-2027",
+      "title": "CISCE ISC Chemistry (862) syllabus, examination year 2027",
+      "url": "https://cisce.org/wp-content/uploads/2025/04/19.-ISC-Chemistry-1.pdf",
+      "publisher": "CISCE",
+      "retrieved": "2026-10-17"
+    },
+    {
+      "id": "ncert-9-en",
+      "title": "NCERT Science Class IX \"Exploration\"",
+      "url": "https://ncert.nic.in/textbook.php?iesc1=0-13",
+      "publisher": "NCERT",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "ncert-9-hi",
+      "title": "NCERT विज्ञान कक्षा 9 \"अन्वेषण\"",
+      "url": "https://ncert.nic.in/textbook.php?ihsc1=0-13",
+      "publisher": "NCERT",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "ncert-10-en",
+      "title": "NCERT Science Class X (Reprint 2026-27)",
+      "url": "https://ncert.nic.in/textbook.php?jesc1=0-13",
+      "publisher": "NCERT",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "ncert-10-hi",
+      "title": "NCERT विज्ञान कक्षा 10",
+      "url": "https://ncert.nic.in/textbook.php?jhsc1=0-13",
+      "publisher": "NCERT",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "ncert-11-en",
+      "title": "NCERT Chemistry Part I & II Class XI (Reprint 2026-27)",
+      "url": "https://ncert.nic.in/textbook.php?kech1=0-6",
+      "publisher": "NCERT",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "ncert-11-hi",
+      "title": "NCERT रसायन विज्ञान भाग I व II कक्षा 11",
+      "url": "https://ncert.nic.in/textbook.php?khch1=0-6",
+      "publisher": "NCERT",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "ncert-12-en",
+      "title": "NCERT Chemistry Part I & II Class XII (Reprint 2026-27)",
+      "url": "https://ncert.nic.in/textbook.php?lech1=0-5",
+      "publisher": "NCERT",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "ncert-12-hi",
+      "title": "NCERT रसायन विज्ञान भाग I व II कक्षा 12",
+      "url": "https://ncert.nic.in/textbook.php?lhch1=0-5",
+      "publisher": "NCERT",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "cbse-sci-9",
+      "title": "CBSE Science (086) Class IX 2026-27",
+      "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/ScienceSt_SecP1_2026-27.pdf",
+      "publisher": "CBSE",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "cbse-sci-10",
+      "title": "CBSE Science (086) Class X 2026-27",
+      "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/Science_SecP1_2026-27.pdf",
+      "publisher": "CBSE",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "cbse-sci-10-rm",
+      "title": "CBSE Reading Material, Science Class X 2026-27",
+      "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/Science_SecP1IX_2026-27_RM.pdf",
+      "publisher": "CBSE",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "cbse-chem-11-12",
+      "title": "CBSE Chemistry (043) Classes XI-XII 2026-27",
+      "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Chemistry_SecP2_2026-27.pdf",
+      "publisher": "CBSE",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "cbse-chem-rm",
+      "title": "CBSE Reading Material, Chemistry XI-XII 2026-27",
+      "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Chemistry_SecP2_2026-27_RM.pdf",
+      "publisher": "CBSE",
+      "retrieved": "2026-10-05"
+    }
+  ],
+  "concepts": [
+    "library/concepts/matter-and-atoms.json",
+    "library/concepts/reactions-and-compounds.json",
+    "library/concepts/physical-chemistry.json",
+    "library/concepts/inorganic-chemistry.json",
+    "library/concepts/organic-chemistry.json"
+  ],
+  "chemicals": [
+    "library/chemicals.json",
+    "library/chemicals-advanced.json"
+  ],
+  "practicalGuides": [
+    "library/practical-guides.json"
+  ],
+  "notes": [],
+  "questions": [],
+  "labs": [
+    {
+      "id": "acid_base_titration",
+      "summary": "NaOH + HCl with phenolphthalein (interactive)",
+      "topicIds": [],
+      "practicalLinks": []
+    },
+    {
+      "id": "oxygen_preparation",
+      "summary": "H₂O₂ with MnO₂ catalyst (interactive)",
+      "topicIds": [],
+      "practicalLinks": []
+    },
+    {
+      "id": "oxalic_acid_titration",
+      "summary": "NaOH (burette) against 0.05 M oxalic acid with phenolphthalein (interactive)",
+      "topicIds": [],
+      "practicalLinks": []
+    },
+    {
+      "id": "hcl_sodium_carbonate_titration",
+      "summary": "HCl (burette) against 0.05 M sodium carbonate with methyl orange (interactive)",
+      "topicIds": [],
+      "practicalLinks": [
+        {
+          "practicalId": "isc-11-p2",
+          "relation": "related",
+          "note": {
+            "en": "This lab is the sodium carbonate – HCl titration with methyl orange in Practical 2. Concordant readings, the H₂SO₄ and NaOH/KOH options and the g L⁻¹, water-of-crystallisation and purity calculations are not simulated.",
+            "hi": "यह लैब प्रयोग 2 का मेथिल ऑरेंज के साथ सोडियम कार्बोनेट – HCl अनुमापन है। संगत पाठ्यांक, H₂SO₄ और NaOH/KOH विकल्प तथा g L⁻¹, क्रिस्टलन जल और शुद्धता की गणनाएँ इसमें नहीं हैं।",
+            "hiSrc": "translated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kmno4_oxalic_titration",
+      "summary": "KMnO₄ (burette) against 0.05 M oxalic acid, warm and acidified, KMnO₄ as its own indicator (interactive)",
+      "topicIds": [
+        "isc-12-ch04-t4.4"
+      ],
+      "practicalLinks": [
+        {
+          "practicalId": "isc-12-p1",
+          "relation": "related",
+          "note": {
+            "en": "This lab is the 'KMnO₄ against oxalic acid' part of Practical 1. Concordant readings and the purity and water-of-crystallisation calculations are not simulated.",
+            "hi": "यह लैब प्रयोग 1 का 'ऑक्सैलिक अम्ल के विरुद्ध KMnO₄' वाला भाग है। संगत पाठ्यांक और शुद्धता व क्रिस्टलन जल की गणनाएँ इसमें नहीं हैं।",
+            "hiSrc": "translated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kmno4_mohr_salt_titration",
+      "summary": "KMnO₄ (burette) against 0.1 M Mohr's salt, acidified, at room temperature (interactive)",
+      "topicIds": [],
+      "practicalLinks": [
+        {
+          "practicalId": "isc-12-p1",
+          "relation": "related",
+          "note": {
+            "en": "This lab is the 'KMnO₄ against ammonium iron(II) sulphate' part of Practical 1. Concordant readings and the purity and water-of-crystallisation calculations are not simulated.",
+            "hi": "यह लैब प्रयोग 1 का 'अमोनियम आयरन(II) सल्फ़ेट के विरुद्ध KMnO₄' वाला भाग है। संगत पाठ्यांक और शुद्धता व क्रिस्टलन जल की गणनाएँ इसमें नहीं हैं।",
+            "hiSrc": "translated"
+          }
+        }
+      ]
+    }
+  ],
+  "reactionLab": {
+    "reagents": [
+      "library/lab-reagents.json"
+    ],
+    "reactions": [
+      "library/lab-reactions.json"
+    ],
+    "placements": [
+      {
+        "id": "rx-ferric-thiocyanate",
+        "topicIds": [
+          "isc-11-ch06-t6.8"
+        ],
+        "practicalLinks": []
+      },
+      {
+        "id": "rx-tollens-test",
+        "topicIds": [
+          "isc-12-ch08-t8.4"
+        ],
+        "practicalLinks": [
+          {
+            "practicalId": "isc-12-p3",
+            "relation": "related",
+            "note": {
+              "en": "Tollens' test is a test for the aldehyde group in Practical 3 (the practical uses formaldehyde).",
+              "hi": "टॉलेन परीक्षण प्रयोग 3 में ऐल्डिहाइड समूह का एक परीक्षण है (प्रयोग में फ़ॉर्मेल्डिहाइड लिया जाता है)।",
+              "hiSrc": "translated"
+            }
+          }
+        ]
+      },
+      {
+        "id": "rx-fehling-test",
+        "topicIds": [
+          "isc-12-ch08-t8.4"
+        ],
+        "practicalLinks": [
+          {
+            "practicalId": "isc-12-p3",
+            "relation": "related",
+            "note": {
+              "en": "Fehling's test is a test for the aldehyde group in Practical 3 (the practical uses formaldehyde).",
+              "hi": "फ़ेहलिंग परीक्षण प्रयोग 3 में ऐल्डिहाइड समूह का एक परीक्षण है (प्रयोग में फ़ॉर्मेल्डिहाइड लिया जाता है)।",
+              "hiSrc": "translated"
+            }
+          }
+        ]
+      },
+      {
+        "id": "rx-phenol-bromine-water",
+        "topicIds": [
+          "isc-12-ch07-t7.4"
+        ],
+        "practicalLinks": []
+      }
+    ]
+  },
+  "legacyIdMap": {},
+  "practicalCoverage": [
+    {
+      "practicalId": "isc-11-p2",
+      "level": "partiallyInteractive",
+      "covered": {
+        "en": "Sodium carbonate against HCl with methyl orange, with the molarity calculation.",
+        "hi": "मेथिल ऑरेंज के साथ HCl के विरुद्ध सोडियम कार्बोनेट, मोलरता की गणना सहित।",
+        "hiSrc": "translated"
+      },
+      "notCovered": {
+        "en": "Concordant readings, the H₂SO₄ and NaOH/KOH options, and the g L⁻¹, water-of-crystallisation and percentage-purity calculations.",
+        "hi": "संगत पाठ्यांक, H₂SO₄ और NaOH/KOH विकल्प, तथा g L⁻¹, क्रिस्टलन जल और प्रतिशत शुद्धता की गणनाएँ।",
+        "hiSrc": "translated"
+      }
+    },
+    {
+      "practicalId": "isc-12-p1",
+      "level": "partiallyInteractive",
+      "covered": {
+        "en": "Both titrations: KMnO₄ against ammonium iron(II) sulphate and against oxalic acid, with the molarity calculation.",
+        "hi": "दोनों अनुमापन: अमोनियम आयरन(II) सल्फ़ेट और ऑक्सैलिक अम्ल के विरुद्ध KMnO₄, मोलरता की गणना सहित।",
+        "hiSrc": "translated"
+      },
+      "notCovered": {
+        "en": "Concordant readings and the g L⁻¹, water-of-crystallisation and percentage-purity calculations.",
+        "hi": "संगत पाठ्यांक तथा g L⁻¹, क्रिस्टलन जल और प्रतिशत शुद्धता की गणनाएँ।",
+        "hiSrc": "translated"
+      }
+    },
+    {
+      "practicalId": "isc-12-p3",
+      "level": "partiallyInteractive",
+      "covered": {
+        "en": "The aldehyde group (Tollens' and Fehling's tests) and the carboxylic group (sodium hydrogen carbonate test, shown with ethanoic acid).",
+        "hi": "ऐल्डिहाइड समूह (टॉलेन और फ़ेहलिंग परीक्षण) और कार्बोक्सिलिक समूह (सोडियम हाइड्रोजन कार्बोनेट परीक्षण, एथेनॉइक अम्ल के साथ)।",
+        "hiSrc": "translated"
+      },
+      "notCovered": {
+        "en": "The alcoholic, ketonic and amino group tests, and the named compounds (glycerol, formaldehyde, acetone, benzoic acid, aniline).",
+        "hi": "ऐल्कोहॉली, कीटोनी और ऐमीनो समूह परीक्षण, तथा बताए गए यौगिक (ग्लिसरॉल, फ़ॉर्मेल्डिहाइड, ऐसीटोन, बेन्ज़ोइक अम्ल, ऐनिलीन)।",
+        "hiSrc": "translated"
+      }
+    }
+  ],
+  "sharedContent": {
+    "fromBoard": "cbse",
+    "basis": {
+      "en": "The ISC 2027 Chemistry syllabus lists the same units as the NCERT chapters used for the CBSE content, so the source-checked NCERT notes and practice questions are reused. ISC details beyond the NCERT chapters are not covered. ICSE (Classes 9–10) is not included yet. CBSE previous-year questions are not shared.",
+      "hi": "ISC 2027 रसायन पाठ्यक्रम में वही इकाइयाँ हैं जो CBSE सामग्री में प्रयुक्त NCERT अध्यायों में हैं, इसलिए स्रोत-जाँचे NCERT नोट्स और अभ्यास प्रश्न पुनः उपयोग किए गए हैं। NCERT अध्यायों से बाहर के ISC विवरण शामिल नहीं हैं। ICSE (कक्षा 9–10) अभी शामिल नहीं है। CBSE के पिछले वर्षों के प्रश्न साझा नहीं किए गए।",
+      "hiSrc": "translated"
+    },
+    "chapters": [
+      {
+        "from": "cbse-11-ch01",
+        "to": "isc-11-ch01"
+      },
+      {
+        "from": "cbse-11-ch02",
+        "to": "isc-11-ch02"
+      },
+      {
+        "from": "cbse-11-ch03",
+        "to": "isc-11-ch03"
+      },
+      {
+        "from": "cbse-11-ch04",
+        "to": "isc-11-ch04"
+      },
+      {
+        "from": "cbse-11-ch05",
+        "to": "isc-11-ch05"
+      },
+      {
+        "from": "cbse-11-ch06",
+        "to": "isc-11-ch06"
+      },
+      {
+        "from": "cbse-11-ch07",
+        "to": "isc-11-ch07"
+      },
+      {
+        "from": "cbse-11-ch08",
+        "to": "isc-11-ch08"
+      },
+      {
+        "from": "cbse-11-ch09",
+        "to": "isc-11-ch09"
+      },
+      {
+        "from": "cbse-12-ch01",
+        "to": "isc-12-ch01"
+      },
+      {
+        "from": "cbse-12-ch02",
+        "to": "isc-12-ch02"
+      },
+      {
+        "from": "cbse-12-ch03",
+        "to": "isc-12-ch03"
+      },
+      {
+        "from": "cbse-12-ch04",
+        "to": "isc-12-ch04"
+      },
+      {
+        "from": "cbse-12-ch05",
+        "to": "isc-12-ch05"
+      },
+      {
+        "from": "cbse-12-ch06",
+        "to": "isc-12-ch06"
+      },
+      {
+        "from": "cbse-12-ch07",
+        "to": "isc-12-ch07"
+      },
+      {
+        "from": "cbse-12-ch08",
+        "to": "isc-12-ch08"
+      },
+      {
+        "from": "cbse-12-ch09",
+        "to": "isc-12-ch09"
+      },
+      {
+        "from": "cbse-12-ch10",
+        "to": "isc-12-ch10"
+      }
+    ]
+  }
+}

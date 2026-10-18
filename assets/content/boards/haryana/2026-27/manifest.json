@@ -1,0 +1,365 @@
+{
+  "schemaVersion": 1,
+  "id": "haryana-2026-27",
+  "boardId": "haryana",
+  "academicYear": "2026-27",
+  "status": "verified",
+  "retrieved": "2026-10-17",
+  "classes": [
+    {
+      "classLevel": 11,
+      "file": "boards/haryana/2026-27/class-11.json"
+    },
+    {
+      "classLevel": 12,
+      "file": "boards/haryana/2026-27/class-12.json"
+    }
+  ],
+  "sources": [
+    {
+      "id": "hr-chem-11",
+      "title": "BSEH Class 11 Chemistry (856): syllabus and chapter-wise division of marks 2026-27 (linked from bseh.org.in)",
+      "url": "https://drive.google.com/file/d/1xv5R-lRJfuJda4otmIRLVwCRUrl9tEIc/view",
+      "publisher": "BSEH",
+      "retrieved": "2026-10-17"
+    },
+    {
+      "id": "hr-chem-12",
+      "title": "BSEH Class 12 Chemistry (856): course structure and question paper design 2026-27",
+      "url": "https://bseh.org.in/uploads/files/358a327ca10fbcfe0c0e7a6594505866.pdf",
+      "publisher": "BSEH",
+      "retrieved": "2026-10-17"
+    },
+    {
+      "id": "ncert-9-en",
+      "title": "NCERT Science Class IX \"Exploration\"",
+      "url": "https://ncert.nic.in/textbook.php?iesc1=0-13",
+      "publisher": "NCERT",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "ncert-9-hi",
+      "title": "NCERT विज्ञान कक्षा 9 \"अन्वेषण\"",
+      "url": "https://ncert.nic.in/textbook.php?ihsc1=0-13",
+      "publisher": "NCERT",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "ncert-10-en",
+      "title": "NCERT Science Class X (Reprint 2026-27)",
+      "url": "https://ncert.nic.in/textbook.php?jesc1=0-13",
+      "publisher": "NCERT",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "ncert-10-hi",
+      "title": "NCERT विज्ञान कक्षा 10",
+      "url": "https://ncert.nic.in/textbook.php?jhsc1=0-13",
+      "publisher": "NCERT",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "ncert-11-en",
+      "title": "NCERT Chemistry Part I & II Class XI (Reprint 2026-27)",
+      "url": "https://ncert.nic.in/textbook.php?kech1=0-6",
+      "publisher": "NCERT",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "ncert-11-hi",
+      "title": "NCERT रसायन विज्ञान भाग I व II कक्षा 11",
+      "url": "https://ncert.nic.in/textbook.php?khch1=0-6",
+      "publisher": "NCERT",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "ncert-12-en",
+      "title": "NCERT Chemistry Part I & II Class XII (Reprint 2026-27)",
+      "url": "https://ncert.nic.in/textbook.php?lech1=0-5",
+      "publisher": "NCERT",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "ncert-12-hi",
+      "title": "NCERT रसायन विज्ञान भाग I व II कक्षा 12",
+      "url": "https://ncert.nic.in/textbook.php?lhch1=0-5",
+      "publisher": "NCERT",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "cbse-sci-9",
+      "title": "CBSE Science (086) Class IX 2026-27",
+      "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/ScienceSt_SecP1_2026-27.pdf",
+      "publisher": "CBSE",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "cbse-sci-10",
+      "title": "CBSE Science (086) Class X 2026-27",
+      "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/Science_SecP1_2026-27.pdf",
+      "publisher": "CBSE",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "cbse-sci-10-rm",
+      "title": "CBSE Reading Material, Science Class X 2026-27",
+      "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/Science_SecP1IX_2026-27_RM.pdf",
+      "publisher": "CBSE",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "cbse-chem-11-12",
+      "title": "CBSE Chemistry (043) Classes XI-XII 2026-27",
+      "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Chemistry_SecP2_2026-27.pdf",
+      "publisher": "CBSE",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "cbse-chem-rm",
+      "title": "CBSE Reading Material, Chemistry XI-XII 2026-27",
+      "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Chemistry_SecP2_2026-27_RM.pdf",
+      "publisher": "CBSE",
+      "retrieved": "2026-10-05"
+    }
+  ],
+  "concepts": [
+    "library/concepts/matter-and-atoms.json",
+    "library/concepts/reactions-and-compounds.json",
+    "library/concepts/physical-chemistry.json",
+    "library/concepts/inorganic-chemistry.json",
+    "library/concepts/organic-chemistry.json"
+  ],
+  "chemicals": [
+    "library/chemicals.json",
+    "library/chemicals-advanced.json"
+  ],
+  "practicalGuides": [
+    "library/practical-guides.json"
+  ],
+  "notes": [],
+  "questions": [],
+  "labs": [
+    {
+      "id": "acid_base_titration",
+      "summary": "NaOH + HCl with phenolphthalein (interactive)",
+      "topicIds": [],
+      "practicalLinks": []
+    },
+    {
+      "id": "oxygen_preparation",
+      "summary": "H₂O₂ with MnO₂ catalyst (interactive)",
+      "topicIds": [],
+      "practicalLinks": []
+    },
+    {
+      "id": "oxalic_acid_titration",
+      "summary": "NaOH (burette) against 0.05 M oxalic acid with phenolphthalein (interactive)",
+      "topicIds": [],
+      "practicalLinks": [
+        {
+          "practicalId": "hr-11-p6",
+          "relation": "official",
+          "note": {
+            "en": "This lab is Practical 6: NaOH is titrated against the standard oxalic acid solution and its strength is calculated.",
+            "hi": "यह लैब प्रयोग 6 है: मानक ऑक्सैलिक अम्ल विलयन के विरुद्ध NaOH का अनुमापन करके उसकी प्रबलता निकाली जाती है।",
+            "hiSrc": "translated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hcl_sodium_carbonate_titration",
+      "summary": "HCl (burette) against 0.05 M sodium carbonate with methyl orange (interactive)",
+      "topicIds": [],
+      "practicalLinks": [
+        {
+          "practicalId": "hr-11-p7",
+          "relation": "official",
+          "note": {
+            "en": "This lab is Practical 7: dilute HCl is titrated against the standard sodium carbonate solution and its strength is calculated.",
+            "hi": "यह लैब प्रयोग 7 है: मानक सोडियम कार्बोनेट विलयन के विरुद्ध तनु HCl का अनुमापन करके उसकी प्रबलता निकाली जाती है।",
+            "hiSrc": "translated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kmno4_oxalic_titration",
+      "summary": "KMnO₄ (burette) against 0.05 M oxalic acid, warm and acidified, KMnO₄ as its own indicator (interactive)",
+      "topicIds": [
+        "hr-12-ch04-t4.4"
+      ],
+      "practicalLinks": []
+    },
+    {
+      "id": "kmno4_mohr_salt_titration",
+      "summary": "KMnO₄ (burette) against 0.1 M Mohr's salt, acidified, at room temperature (interactive)",
+      "topicIds": [],
+      "practicalLinks": []
+    }
+  ],
+  "reactionLab": {
+    "reagents": [
+      "library/lab-reagents.json"
+    ],
+    "reactions": [
+      "library/lab-reactions.json"
+    ],
+    "placements": [
+      {
+        "id": "rx-ferric-thiocyanate",
+        "topicIds": [
+          "hr-11-ch06-t6.8"
+        ],
+        "practicalLinks": [
+          {
+            "practicalId": "hr-11-p3",
+            "relation": "official",
+            "note": {
+              "en": "This lab is Practical 3: more thiocyanate is added and the red colour deepens as the equilibrium shifts forward.",
+              "hi": "यह लैब प्रयोग 3 है: अधिक थायोसायनेट मिलाने पर साम्य आगे खिसकता है और लाल रंग गहरा होता है।",
+              "hiSrc": "translated"
+            }
+          }
+        ]
+      },
+      {
+        "id": "rx-tollens-test",
+        "topicIds": [
+          "hr-12-ch08-t8.4"
+        ],
+        "practicalLinks": []
+      },
+      {
+        "id": "rx-fehling-test",
+        "topicIds": [
+          "hr-12-ch08-t8.4"
+        ],
+        "practicalLinks": []
+      },
+      {
+        "id": "rx-phenol-bromine-water",
+        "topicIds": [
+          "hr-12-ch07-t7.4"
+        ],
+        "practicalLinks": []
+      }
+    ]
+  },
+  "legacyIdMap": {},
+  "practicalCoverage": [
+    {
+      "practicalId": "hr-11-p3",
+      "level": "fullyInteractive",
+      "covered": {
+        "en": "The listed task: raising the thiocyanate concentration and seeing the equilibrium shift forward.",
+        "hi": "सूचीबद्ध कार्य: थायोसायनेट की सांद्रता बढ़ाकर साम्य का आगे खिसकना देखना।",
+        "hiSrc": "translated"
+      }
+    },
+    {
+      "practicalId": "hr-11-p6",
+      "level": "fullyInteractive",
+      "covered": {
+        "en": "The listed task: titrating NaOH against a given standard oxalic acid solution and calculating its strength.",
+        "hi": "सूचीबद्ध कार्य: दिए गए मानक ऑक्सैलिक अम्ल विलयन के विरुद्ध NaOH का अनुमापन और उसकी प्रबलता की गणना।",
+        "hiSrc": "translated"
+      }
+    },
+    {
+      "practicalId": "hr-11-p7",
+      "level": "fullyInteractive",
+      "covered": {
+        "en": "The listed task: titrating dilute HCl against a given standard sodium carbonate solution and calculating its strength.",
+        "hi": "सूचीबद्ध कार्य: दिए गए मानक सोडियम कार्बोनेट विलयन के विरुद्ध तनु HCl का अनुमापन और उसकी प्रबलता की गणना।",
+        "hiSrc": "translated"
+      }
+    }
+  ],
+  "sharedContent": {
+    "fromBoard": "cbse",
+    "basis": {
+      "en": "The BSEH 2026-27 Chemistry course for Classes 11 and 12 lists the same units as the NCERT textbooks used for the CBSE content, so the source-checked NCERT notes and practice questions are reused. Classes 9–10 are not included yet. CBSE previous-year questions are not shared.",
+      "hi": "BSEH 2026-27 के कक्षा 11 और 12 रसायन पाठ्यक्रम में वही इकाइयाँ हैं जो CBSE सामग्री में प्रयुक्त NCERT पाठ्यपुस्तकों में हैं, इसलिए स्रोत-जाँचे NCERT नोट्स और अभ्यास प्रश्न पुनः उपयोग किए गए हैं। कक्षा 9–10 अभी शामिल नहीं हैं। CBSE के पिछले वर्षों के प्रश्न साझा नहीं किए गए।",
+      "hiSrc": "translated"
+    },
+    "chapters": [
+      {
+        "from": "cbse-11-ch01",
+        "to": "hr-11-ch01"
+      },
+      {
+        "from": "cbse-11-ch02",
+        "to": "hr-11-ch02"
+      },
+      {
+        "from": "cbse-11-ch03",
+        "to": "hr-11-ch03"
+      },
+      {
+        "from": "cbse-11-ch04",
+        "to": "hr-11-ch04"
+      },
+      {
+        "from": "cbse-11-ch05",
+        "to": "hr-11-ch05"
+      },
+      {
+        "from": "cbse-11-ch06",
+        "to": "hr-11-ch06"
+      },
+      {
+        "from": "cbse-11-ch07",
+        "to": "hr-11-ch07"
+      },
+      {
+        "from": "cbse-11-ch08",
+        "to": "hr-11-ch08"
+      },
+      {
+        "from": "cbse-11-ch09",
+        "to": "hr-11-ch09"
+      },
+      {
+        "from": "cbse-12-ch01",
+        "to": "hr-12-ch01"
+      },
+      {
+        "from": "cbse-12-ch02",
+        "to": "hr-12-ch02"
+      },
+      {
+        "from": "cbse-12-ch03",
+        "to": "hr-12-ch03"
+      },
+      {
+        "from": "cbse-12-ch04",
+        "to": "hr-12-ch04"
+      },
+      {
+        "from": "cbse-12-ch05",
+        "to": "hr-12-ch05"
+      },
+      {
+        "from": "cbse-12-ch06",
+        "to": "hr-12-ch06"
+      },
+      {
+        "from": "cbse-12-ch07",
+        "to": "hr-12-ch07"
+      },
+      {
+        "from": "cbse-12-ch08",
+        "to": "hr-12-ch08"
+      },
+      {
+        "from": "cbse-12-ch09",
+        "to": "hr-12-ch09"
+      },
+      {
+        "from": "cbse-12-ch10",
+        "to": "hr-12-ch10"
+      }
+    ]
+  }
+}

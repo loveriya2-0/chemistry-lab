@@ -1,0 +1,587 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "note-cbse-11-ch05-t5.1",
+      "targetId": "cbse-11-ch05-t5.1",
+      "covers": [],
+      "definition": {
+        "en": "Thermodynamics studies energy changes. The part under study is the system; everything else is the surroundings. A state function (U, H, S, G, P, V, T) depends only on the state, not on the path.",
+        "hi": "ऊष्मागतिकी ऊर्जा परिवर्तनों का अध्ययन है। अध्ययन का भाग निकाय और शेष सब परिवेश है। अवस्था फलन (U, H, S, G, P, V, T) केवल अवस्था पर निर्भर करता है, पथ पर नहीं।"
+      },
+      "explanation": {
+        "en": "Systems are open (exchange matter and energy), closed (energy only) or isolated (neither). Internal energy U changes by heat q and work w: ΔU = q + w (first law). By IUPAC convention, q and w are positive when energy is added to the system. Heat and work are path functions. An adiabatic process has no heat exchange.",
+        "hi": "निकाय खुले (द्रव्य और ऊर्जा दोनों का आदान-प्रदान), बंद (केवल ऊर्जा) या विलगित (कोई नहीं) होते हैं। आंतरिक ऊर्जा U ऊष्मा q और कार्य w से बदलती है: ΔU = q + w (प्रथम नियम)। IUPAC परिपाटी में निकाय को ऊर्जा मिलने पर q और w धनात्मक होते हैं। ऊष्मा और कार्य पथ फलन हैं। रुद्धोष्म प्रक्रम में ऊष्मा का आदान-प्रदान नहीं होता।"
+      },
+      "keyPoints": [
+        {
+          "en": "Energy of an isolated system is constant.",
+          "hi": "विलगित निकाय की ऊर्जा स्थिर रहती है।"
+        },
+        {
+          "en": "Work done on the system is positive; work done by the system is negative.",
+          "hi": "निकाय पर किया गया कार्य धनात्मक; निकाय द्वारा किया गया कार्य ऋणात्मक।"
+        }
+      ],
+      "realLife": {
+        "en": "A thermos flask approximates an isolated system; a car engine converts heat into work.",
+        "hi": "थर्मस फ्लास्क लगभग विलगित निकाय है; कार का इंजन ऊष्मा को कार्य में बदलता है।"
+      },
+      "examFocus": {
+        "en": "Classify systems, identify state vs path functions and apply sign conventions.",
+        "hi": "निकायों का वर्गीकरण, अवस्था और पथ फलन पहचानना तथा चिह्न-परिपाटी लागू करना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Using the old sign convention ΔU = q − w — NCERT uses ΔU = q + w.",
+          "hi": "पुरानी परिपाटी ΔU = q − w लेना — NCERT में ΔU = q + w है।"
+        }
+      ],
+      "formulas": [
+        "ΔU = q + w"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "first-law-of-thermodynamics"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "5.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Heat IN and work ON are plus\"",
+            "hi": "\"अंदर आई ऊष्मा और तंत्र पर किया कार्य धनात्मक\""
+          },
+          "recall": {
+            "en": "Sign convention: heat absorbed by the system and work done on the system are positive.",
+            "hi": "चिह्न परिपाटी: तंत्र द्वारा अवशोषित ऊष्मा और तंत्र पर किया गया कार्य धनात्मक होते हैं।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "System + surroundings; state functions depend only on state; ΔU = q + w.",
+          "hi": "तंत्र + परिवेश; अवस्था फलन केवल अवस्था पर निर्भर; ΔU = q + w।"
+        },
+        "formula": "ΔU = q + w",
+        "points": [
+          {
+            "en": "Open, closed and isolated systems.",
+            "hi": "खुले, बंद और विलगित तंत्र।"
+          },
+          {
+            "en": "q and w are path functions; U, H, S, G are state functions.",
+            "hi": "q और w पथ फलन हैं; U, H, S, G अवस्था फलन।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch05-t5.2",
+      "targetId": "cbse-11-ch05-t5.2",
+      "covers": [],
+      "definition": {
+        "en": "Applications of the first law: pressure–volume work, the enthalpy function H = U + pV, extensive and intensive properties, and heat capacity.",
+        "hi": "प्रथम नियम के अनुप्रयोग: दाब–आयतन कार्य, एन्थैल्पी फलन H = U + pV, विस्तीर्ण और गहन गुण, तथा ऊष्मा धारिता।"
+      },
+      "explanation": {
+        "en": "Work of expansion against constant external pressure: w = −p_ex ΔV. For a reversible isothermal expansion of an ideal gas: w = −2.303 nRT log(V_f/V_i). In free expansion (against vacuum) w = 0. For an isothermal process of an ideal gas ΔU = 0, so q = −w. At constant volume ΔU = q_V; at constant pressure ΔH = q_p. ΔH = ΔU + Δn_g RT for reactions involving gases. Extensive properties depend on amount (mass, volume, U, H); intensive do not (T, P, density). Cp − Cv = R for an ideal gas.",
+        "hi": "स्थिर बाह्य दाब के विरुद्ध प्रसार कार्य: w = −p_ex ΔV। आदर्श गैस के उत्क्रमणीय समतापी प्रसार में: w = −2.303 nRT log(V_f/V_i)। मुक्त प्रसार (निर्वात के विरुद्ध) में w = 0। आदर्श गैस के समतापी प्रक्रम में ΔU = 0, अतः q = −w। स्थिर आयतन पर ΔU = q_V; स्थिर दाब पर ΔH = q_p। गैसों वाली अभिक्रियाओं में ΔH = ΔU + Δn_g RT। विस्तीर्ण गुण मात्रा पर निर्भर (द्रव्यमान, आयतन, U, H); गहन नहीं (T, P, घनत्व)। आदर्श गैस के लिए Cp − Cv = R।"
+      },
+      "keyPoints": [
+        {
+          "en": "Δn_g = moles of gaseous products − moles of gaseous reactants.",
+          "hi": "Δn_g = गैसीय उत्पादों के मोल − गैसीय अभिकारकों के मोल।"
+        },
+        {
+          "en": "Heat capacity q = C ΔT; molar heat capacity per mole, specific heat per gram.",
+          "hi": "ऊष्मा धारिता q = C ΔT; मोलर ऊष्मा धारिता प्रति मोल, विशिष्ट ऊष्मा प्रति ग्राम।"
+        }
+      ],
+      "realLife": {
+        "en": "Pressure–volume work drives pistons in engines; heat capacity explains why water moderates coastal climates.",
+        "hi": "दाब–आयतन कार्य इंजनों के पिस्टन चलाता है; ऊष्मा धारिता बताती है कि जल तटीय जलवायु को सम क्यों रखता है।"
+      },
+      "examFocus": {
+        "en": "Numericals on work, ΔH–ΔU relation, heat capacity; classify extensive/intensive properties.",
+        "hi": "कार्य, ΔH–ΔU संबंध, ऊष्मा धारिता पर आंकिक; विस्तीर्ण/गहन गुणों का वर्गीकरण।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Counting liquids and solids in Δn_g — only gaseous moles count.",
+          "hi": "Δn_g में द्रवों और ठोसों को गिनना — केवल गैसीय मोल गिने जाते हैं।"
+        }
+      ],
+      "formulas": [
+        "w = −p_ex ΔV",
+        "w_rev = −2.303 nRT log(V_f/V_i)",
+        "H = U + pV",
+        "ΔH = ΔU + Δn_g RT",
+        "q = C ΔT",
+        "Cp − Cv = R"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "first-law-of-thermodynamics"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "5.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Gas expands, work goes out, w is minus\"",
+            "hi": "\"गैस फैली, कार्य बाहर गया, w ऋणात्मक\""
+          },
+          "recall": {
+            "en": "In w = −p_ex ΔV, expansion makes ΔV positive, so w is negative: the system does work on the surroundings and loses energy. Compression gives positive w.",
+            "hi": "w = −p_ex ΔV में प्रसार से ΔV धनात्मक होता है, इसलिए w ऋणात्मक है: निकाय परिवेश पर कार्य करता है और ऊर्जा खोता है। संपीडन में w धनात्मक होता है।"
+          }
+        },
+        {
+          "trick": {
+            "en": "\"In ΔH = ΔU + Δn_g RT, count only the gases\"",
+            "hi": "\"ΔH = ΔU + Δn_g RT में केवल गैसें गिनें\""
+          },
+          "recall": {
+            "en": "Δn_g = moles of gaseous products − moles of gaseous reactants; solids and liquids are ignored. If Δn_g = 0, ΔH = ΔU.",
+            "hi": "Δn_g = गैसीय उत्पादों के मोल − गैसीय अभिकारकों के मोल; ठोस और द्रव नहीं गिने जाते। यदि Δn_g = 0 हो, तो ΔH = ΔU।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "First-law applications: p–V work, enthalpy H = U + pV, heat capacity.",
+          "hi": "प्रथम नियम के अनुप्रयोग: p–V कार्य, एन्थैल्पी H = U + pV, ऊष्मा धारिता।"
+        },
+        "formula": "ΔH = ΔU + Δn_g RT",
+        "points": [
+          {
+            "en": "w = −p_ex ΔV; reversible isothermal w = −2.303 nRT log(V_f/V_i).",
+            "hi": "w = −p_ex ΔV; उत्क्रमणीय समतापी w = −2.303 nRT log(V_f/V_i)।"
+          },
+          {
+            "en": "Cp − Cv = R for an ideal gas.",
+            "hi": "आदर्श गैस के लिए Cp − Cv = R।"
+          },
+          {
+            "en": "Extensive: mass, volume, H; intensive: T, p, density.",
+            "hi": "मात्रात्मक: द्रव्यमान, आयतन, H; गुणात्मक: T, p, घनत्व।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch05-t5.3",
+      "targetId": "cbse-11-ch05-t5.3",
+      "covers": [],
+      "definition": {
+        "en": "Calorimetry measures energy changes: ΔU is measured at constant volume in a bomb calorimeter, ΔH at constant pressure in an open calorimeter.",
+        "hi": "कैलोरीमिति ऊर्जा परिवर्तन मापती है: ΔU स्थिर आयतन पर बम कैलोरीमीटर में, ΔH स्थिर दाब पर खुले कैलोरीमीटर में।"
+      },
+      "explanation": {
+        "en": "In a bomb calorimeter the substance burns in oxygen inside a sealed steel vessel immersed in water; no work is done, so the heat released (from the temperature rise and the calorimeter's heat capacity) equals ΔU. At constant pressure, the heat measured equals ΔH: negative for exothermic, positive for endothermic reactions.",
+        "hi": "बम कैलोरीमीटर में पदार्थ जल में डूबे बंद इस्पात पात्र के भीतर ऑक्सीजन में जलता है; कोई कार्य नहीं होता, अतः मुक्त ऊष्मा (ताप वृद्धि और कैलोरीमीटर की ऊष्मा धारिता से) ΔU के बराबर होती है। स्थिर दाब पर मापी गई ऊष्मा ΔH है: ऊष्माक्षेपी के लिए ऋणात्मक, ऊष्माशोषी के लिए धनात्मक।"
+      },
+      "keyPoints": [
+        {
+          "en": "q = C_calorimeter × ΔT.",
+          "hi": "q = C_कैलोरीमीटर × ΔT।"
+        }
+      ],
+      "realLife": {
+        "en": "The calorie values printed on food labels are measured with bomb calorimeters.",
+        "hi": "खाद्य लेबलों पर छपे कैलोरी मान बम कैलोरीमीटर से मापे जाते हैं।"
+      },
+      "examFocus": {
+        "en": "Explain the bomb calorimeter; calculate heat from temperature change.",
+        "hi": "बम कैलोरीमीटर समझाना; ताप परिवर्तन से ऊष्मा की गणना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Saying a bomb calorimeter measures ΔH — at constant volume it measures ΔU.",
+          "hi": "यह कहना कि बम कैलोरीमीटर ΔH मापता है — स्थिर आयतन पर यह ΔU मापता है।"
+        }
+      ],
+      "formulas": [
+        "q = C ΔT"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "first-law-of-thermodynamics"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "5.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Bomb is Bolted (constant Volume) → ΔU\"",
+            "hi": "\"बम बंद (स्थिर आयतन) → ΔU\""
+          },
+          "recall": {
+            "en": "The sealed bomb calorimeter keeps volume constant, so it gives ΔU; an open vessel at constant pressure gives ΔH.",
+            "hi": "बंद बम कैलोरीमीटर आयतन स्थिर रखता है, इसलिए ΔU देता है; स्थिर दाब पर खुला पात्र ΔH देता है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Bomb calorimeter measures ΔU (constant V); open calorimeter measures ΔH (constant p).",
+          "hi": "बम कैलोरीमीटर ΔU (स्थिर V) और खुला कैलोरीमीटर ΔH (स्थिर p) मापता है।"
+        },
+        "formula": "q = C ΔT",
+        "points": [
+          {
+            "en": "Heat = heat capacity × temperature change.",
+            "hi": "ऊष्मा = ऊष्मा धारिता × ताप परिवर्तन।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch05-t5.4",
+      "targetId": "cbse-11-ch05-t5.4",
+      "covers": [],
+      "definition": {
+        "en": "Reaction enthalpy ΔrH is the enthalpy change for a reaction as written. The standard enthalpy of formation ΔfH⊖ is the change when one mole of a compound forms from its elements in their standard states. Hess's law: the enthalpy change of a reaction is the same whether it occurs in one step or many.",
+        "hi": "अभिक्रिया एन्थैल्पी ΔrH लिखित अभिक्रिया का एन्थैल्पी परिवर्तन है। मानक संभवन एन्थैल्पी ΔfH⊖ वह परिवर्तन है जब किसी यौगिक का एक मोल अपने तत्वों की मानक अवस्थाओं से बनता है। हेस का नियम: अभिक्रिया का एन्थैल्पी परिवर्तन समान रहता है चाहे वह एक चरण में हो या अनेक में।"
+      },
+      "explanation": {
+        "en": "Standard state: pure substance at 1 bar and the specified temperature (usually 298 K). ΔrH⊖ = Σ ΔfH⊖(products) − Σ ΔfH⊖(reactants). ΔfH⊖ of an element in its standard state is zero. Thermochemical equations show states and ΔH; reversing an equation changes the sign of ΔH; multiplying it multiplies ΔH. Also covered: enthalpies of fusion, vaporisation and sublimation (ΔsubH = ΔfusH + ΔvapH).",
+        "hi": "मानक अवस्था: 1 bar और निर्दिष्ट ताप (प्रायः 298 K) पर शुद्ध पदार्थ। ΔrH⊖ = Σ ΔfH⊖(उत्पाद) − Σ ΔfH⊖(अभिकारक)। मानक अवस्था में तत्व का ΔfH⊖ शून्य है। ऊष्मरासायनिक समीकरण अवस्थाएँ और ΔH दिखाते हैं; समीकरण उलटने पर ΔH का चिह्न बदलता है; गुणा करने पर ΔH भी गुणित होता है। संलयन, वाष्पन और ऊर्ध्वपातन एन्थैल्पी भी (ΔsubH = ΔfusH + ΔvapH)।"
+      },
+      "keyPoints": [
+        {
+          "en": "Hess's law lets us calculate enthalpies that cannot be measured directly (e.g. formation of CO).",
+          "hi": "हेस के नियम से वे एन्थैल्पियाँ निकाली जाती हैं जो सीधे नहीं मापी जा सकतीं (जैसे CO का संभवन)।"
+        }
+      ],
+      "realLife": {
+        "en": "Engineers compare fuels by their enthalpies of combustion calculated through Hess's law.",
+        "hi": "इंजीनियर हेस के नियम से निकाली दहन एन्थैल्पियों द्वारा ईंधनों की तुलना करते हैं।"
+      },
+      "examFocus": {
+        "en": "Numericals using ΔfH⊖ values and Hess's law; define standard enthalpies.",
+        "hi": "ΔfH⊖ मानों और हेस के नियम से आंकिक; मानक एन्थैल्पियों की परिभाषा।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Forgetting stoichiometric coefficients when summing ΔfH⊖ values.",
+          "hi": "ΔfH⊖ मानों को जोड़ते समय स्टॉइकियोमीट्रिक गुणांक भूल जाना।"
+        }
+      ],
+      "formulas": [
+        "ΔrH⊖ = Σ aᵢ ΔfH⊖(products) − Σ bᵢ ΔfH⊖(reactants)",
+        "ΔsubH = ΔfusH + ΔvapH"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "hess-law-and-enthalpy"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "5.4"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "Formation: \"Products minus Reactants\" (P − R)",
+            "hi": "संभवन: \"उत्पाद घटा अभिकारक\" (P − R)"
+          },
+          "recall": {
+            "en": "With formation enthalpies, ΔrH = Σ ΔfH(products) − Σ ΔfH(reactants).",
+            "hi": "संभवन एन्थैल्पियों से ΔrH = Σ ΔfH(उत्पाद) − Σ ΔfH(अभिकारक)।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "ΔrH from formation enthalpies; Hess's law: ΔH is path-independent.",
+          "hi": "संभवन एन्थैल्पियों से ΔrH; हेस नियम: ΔH पथ से स्वतंत्र।"
+        },
+        "formula": "ΔrH⊖ = Σ aᵢ ΔfH⊖(products) − Σ bᵢ ΔfH⊖(reactants)",
+        "points": [
+          {
+            "en": "ΔfH⊖ of an element in its standard state = 0.",
+            "hi": "मानक अवस्था में तत्व की ΔfH⊖ = 0।"
+          },
+          {
+            "en": "ΔsubH = ΔfusH + ΔvapH.",
+            "hi": "ΔsubH = ΔfusH + ΔvapH।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch05-t5.5",
+      "targetId": "cbse-11-ch05-t5.5",
+      "covers": [],
+      "definition": {
+        "en": "Different reactions have named enthalpies: combustion (ΔcH⊖), atomisation (ΔaH⊖), bond enthalpy (ΔbondH⊖), lattice enthalpy (ΔlatticeH⊖) and enthalpy of solution (ΔsolH⊖).",
+        "hi": "विभिन्न अभिक्रियाओं की नामित एन्थैल्पियाँ: दहन (ΔcH⊖), परमाणुकरण (ΔaH⊖), आबंध एन्थैल्पी (ΔbondH⊖), जालक एन्थैल्पी (ΔlatticeH⊖) और विलयन एन्थैल्पी (ΔsolH⊖)।"
+      },
+      "explanation": {
+        "en": "Combustion: complete burning of 1 mol of a substance (always exothermic; butane in LPG ΔcH⊖ = −2658 kJ mol⁻¹). Bond enthalpy is the energy to break one mole of a bond in the gas phase; for polyatomic molecules mean bond enthalpies are used. ΔrH⊖ ≈ Σ bond enthalpies (reactants) − Σ bond enthalpies (products). Lattice enthalpy of an ionic solid is obtained with the Born–Haber cycle. ΔsolH = ΔlatticeH + ΔhydH.",
+        "hi": "दहन: 1 mol पदार्थ का पूर्ण जलना (सदैव ऊष्माक्षेपी; LPG की ब्यूटेन ΔcH⊖ = −2658 kJ mol⁻¹)। आबंध एन्थैल्पी गैस अवस्था में किसी आबंध के एक मोल को तोड़ने की ऊर्जा है; बहुपरमाणुक अणुओं के लिए औसत आबंध एन्थैल्पी ली जाती है। ΔrH⊖ ≈ Σ आबंध एन्थैल्पी (अभिकारक) − Σ आबंध एन्थैल्पी (उत्पाद)। आयनिक ठोस की जालक एन्थैल्पी बॉर्न–हेबर चक्र से मिलती है। ΔsolH = ΔlatticeH + ΔhydH।"
+      },
+      "keyPoints": [
+        {
+          "en": "In the bond-enthalpy formula, reactants come first (opposite to the formation-enthalpy formula).",
+          "hi": "आबंध-एन्थैल्पी सूत्र में अभिकारक पहले आते हैं (संभवन-एन्थैल्पी सूत्र के विपरीत)।"
+        }
+      ],
+      "realLife": {
+        "en": "Instant cold packs work because dissolving some salts is endothermic.",
+        "hi": "तुरंत ठंडक देने वाले पैक इसलिए काम करते हैं क्योंकि कुछ लवणों का घुलना ऊष्माशोषी है।"
+      },
+      "examFocus": {
+        "en": "Define each enthalpy; estimate ΔrH from bond enthalpies.",
+        "hi": "प्रत्येक एन्थैल्पी की परिभाषा; आबंध एन्थैल्पियों से ΔrH का अनुमान।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Writing products − reactants in the bond-enthalpy method.",
+          "hi": "आबंध-एन्थैल्पी विधि में उत्पाद − अभिकारक लिखना।"
+        }
+      ],
+      "formulas": [
+        "ΔrH⊖ ≈ Σ BE(reactants) − Σ BE(products)",
+        "ΔsolH = ΔlatticeH + ΔhydH"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "hess-law-and-enthalpy"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "5.5"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "Bond enthalpy: \"Reactants minus Products\" (R − P) — opposite of formation",
+            "hi": "आबंध एन्थैल्पी: \"अभिकारक घटा उत्पाद\" (R − P) — संभवन के उलट"
+          },
+          "recall": {
+            "en": "Bonds broken (reactants) need energy and bonds formed (products) release it, so ΔrH = Σ BE(reactants) − Σ BE(products).",
+            "hi": "टूटने वाले आबंधों (अभिकारक) को ऊर्जा चाहिए और बनने वाले आबंध (उत्पाद) ऊर्जा देते हैं, इसलिए ΔrH = Σ BE(अभिकारक) − Σ BE(उत्पाद)।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Named enthalpies: combustion, atomisation, bond, lattice and solution.",
+          "hi": "नामित एन्थैल्पियाँ: दहन, परमाणुकरण, आबंध, जालक और विलयन।"
+        },
+        "formula": "ΔrH⊖ ≈ Σ BE(reactants) − Σ BE(products)",
+        "points": [
+          {
+            "en": "ΔsolH = ΔlatticeH + ΔhydH.",
+            "hi": "ΔsolH = ΔlatticeH + ΔhydH।"
+          },
+          {
+            "en": "Combustion enthalpies are always negative.",
+            "hi": "दहन एन्थैल्पियाँ सदैव ऋणात्मक होती हैं।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch05-t5.6",
+      "targetId": "cbse-11-ch05-t5.6",
+      "covers": [],
+      "definition": {
+        "en": "A spontaneous process occurs on its own without continuous outside help. Entropy (S) measures the disorder or randomness of a system; Gibbs energy G = H − TS decides spontaneity at constant T and P.",
+        "hi": "स्वतःप्रवर्ती प्रक्रम बाहरी निरंतर सहायता के बिना स्वयं होता है। एन्ट्रॉपी (S) निकाय की अव्यवस्था या यादृच्छिकता का माप है; स्थिर T और P पर गिब्ज़ ऊर्जा G = H − TS स्वतःप्रवर्तिता तय करती है।"
+      },
+      "explanation": {
+        "en": "Decrease in enthalpy alone cannot explain spontaneity (some endothermic processes are spontaneous). For an isolated system, a spontaneous change has ΔS > 0 (second law); ΔS_total = ΔS_system + ΔS_surroundings > 0. ΔS = q_rev/T. Entropy increases from solid → liquid → gas and with temperature. Third law: entropy of a perfect crystal at 0 K is zero. ΔG = ΔH − TΔS; ΔG < 0 spontaneous, ΔG = 0 equilibrium, ΔG > 0 non-spontaneous. Signs: ΔH −, ΔS + → always spontaneous; ΔH +, ΔS − → never; mixed signs depend on temperature.",
+        "hi": "केवल एन्थैल्पी में कमी स्वतःप्रवर्तिता नहीं समझा सकती (कुछ ऊष्माशोषी प्रक्रम भी स्वतःप्रवर्ती हैं)। विलगित निकाय में स्वतःप्रवर्ती परिवर्तन के लिए ΔS > 0 (द्वितीय नियम); ΔS_कुल = ΔS_निकाय + ΔS_परिवेश > 0। ΔS = q_rev/T। ठोस → द्रव → गैस और ताप बढ़ने पर एन्ट्रॉपी बढ़ती है। तृतीय नियम: 0 K पर पूर्ण क्रिस्टल की एन्ट्रॉपी शून्य। ΔG = ΔH − TΔS; ΔG < 0 स्वतःप्रवर्ती, ΔG = 0 साम्य, ΔG > 0 अस्वतःप्रवर्ती। चिह्न: ΔH −, ΔS + → सदैव स्वतःप्रवर्ती; ΔH +, ΔS − → कभी नहीं; मिश्र चिह्नों में ताप पर निर्भर।"
+      },
+      "keyPoints": [
+        {
+          "en": "Temperature at which spontaneity changes: T = ΔH/ΔS.",
+          "hi": "जिस ताप पर स्वतःप्रवर्तिता बदलती है: T = ΔH/ΔS।"
+        }
+      ],
+      "realLife": {
+        "en": "Ice melts spontaneously above 0 °C because the TΔS term outweighs the positive ΔH.",
+        "hi": "0 °C से ऊपर बर्फ़ स्वतः पिघलती है क्योंकि TΔS पद धनात्मक ΔH से अधिक हो जाता है।"
+      },
+      "examFocus": {
+        "en": "Predict spontaneity from signs of ΔH and ΔS; calculate ΔG and the crossover temperature; predict sign of ΔS for processes.",
+        "hi": "ΔH और ΔS के चिह्नों से स्वतःप्रवर्तिता बताना; ΔG और संक्रमण ताप की गणना; प्रक्रमों के लिए ΔS का चिह्न बताना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Mixing kJ and J in ΔG = ΔH − TΔS (ΔS is usually in J K⁻¹ mol⁻¹).",
+          "hi": "ΔG = ΔH − TΔS में kJ और J मिला देना (ΔS प्रायः J K⁻¹ mol⁻¹ में होती है)।"
+        }
+      ],
+      "formulas": [
+        "ΔS = q_rev/T",
+        "ΔS_total = ΔS_sys + ΔS_surr",
+        "ΔG = ΔH − TΔS"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "entropy-and-gibbs-energy"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "5.6"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Gibbs Has To Subtract\": G = H − TS",
+            "hi": "\"गिब्स = H घटा TS\": G = H − TS"
+          },
+          "recall": {
+            "en": "Gibbs energy equals enthalpy minus temperature × entropy; a negative ΔG means spontaneous.",
+            "hi": "गिब्स ऊर्जा = एन्थैल्पी − ताप × एन्ट्रॉपी; ऋणात्मक ΔG का अर्थ स्वतःप्रवर्तित।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Spontaneity: ΔS_total > 0 or ΔG = ΔH − TΔS < 0.",
+          "hi": "स्वतःप्रवर्तिता: ΔS_कुल > 0 या ΔG = ΔH − TΔS < 0।"
+        },
+        "formula": "ΔG = ΔH − TΔS",
+        "points": [
+          {
+            "en": "ΔH −, ΔS + → always spontaneous; ΔH +, ΔS − → never.",
+            "hi": "ΔH −, ΔS + → सदैव स्वतःप्रवर्तित; ΔH +, ΔS − → कभी नहीं।"
+          },
+          {
+            "en": "Changeover temperature T = ΔH/ΔS.",
+            "hi": "परिवर्तन ताप T = ΔH/ΔS।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch05-t5.7",
+      "targetId": "cbse-11-ch05-t5.7",
+      "covers": [],
+      "definition": {
+        "en": "At equilibrium ΔrG = 0, and the standard Gibbs energy change is related to the equilibrium constant: ΔrG⊖ = −RT ln K = −2.303 RT log K.",
+        "hi": "साम्यावस्था पर ΔrG = 0, और मानक गिब्ज़ ऊर्जा परिवर्तन साम्यावस्था स्थिरांक से संबंधित है: ΔrG⊖ = −RT ln K = −2.303 RT log K।"
+      },
+      "explanation": {
+        "en": "A large negative ΔrG⊖ means a large K — the reaction goes nearly to completion; a large positive ΔrG⊖ means K is very small. Since ΔrG⊖ = ΔrH⊖ − TΔrS⊖, K can be calculated from enthalpy and entropy data.",
+        "hi": "बड़ा ऋणात्मक ΔrG⊖ = बड़ा K — अभिक्रिया लगभग पूर्ण होती है; बड़ा धनात्मक ΔrG⊖ = बहुत छोटा K। चूँकि ΔrG⊖ = ΔrH⊖ − TΔrS⊖, एन्थैल्पी और एन्ट्रॉपी आँकड़ों से K निकाला जा सकता है।"
+      },
+      "keyPoints": [
+        {
+          "en": "R = 8.314 J K⁻¹ mol⁻¹.",
+          "hi": "R = 8.314 J K⁻¹ mol⁻¹।"
+        }
+      ],
+      "realLife": {
+        "en": "Chemists predict the yield of industrial reactions (like ammonia synthesis) from ΔG⊖ before building a plant.",
+        "hi": "रसायनज्ञ संयंत्र बनाने से पहले ΔG⊖ से औद्योगिक अभिक्रियाओं (जैसे अमोनिया संश्लेषण) की लब्धि का अनुमान लगाते हैं।"
+      },
+      "examFocus": {
+        "en": "Calculate K from ΔG⊖ or ΔG⊖ from K.",
+        "hi": "ΔG⊖ से K या K से ΔG⊖ की गणना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Confusing ΔG (any state, 0 at equilibrium) with ΔG⊖ (standard, related to K).",
+          "hi": "ΔG (किसी भी अवस्था में, साम्य पर 0) और ΔG⊖ (मानक, K से संबंधित) में भ्रम।"
+        }
+      ],
+      "formulas": [
+        "ΔrG⊖ = −RT ln K = −2.303 RT log K",
+        "ΔrG⊖ = ΔrH⊖ − TΔrS⊖"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "entropy-and-gibbs-energy",
+        "chemical-equilibrium"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "5.7"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Big K, negative G\"",
+            "hi": "\"बड़ा K, ऋणात्मक G\""
+          },
+          "recall": {
+            "en": "From ΔrG⊖ = −2.303 RT log K: K > 1 gives ΔrG⊖ < 0 (products favoured); K < 1 gives ΔrG⊖ > 0; K = 1 gives ΔrG⊖ = 0.",
+            "hi": "ΔrG⊖ = −2.303 RT log K से: K > 1 होने पर ΔrG⊖ < 0 (उत्पाद अनुकूल); K < 1 होने पर ΔrG⊖ > 0; K = 1 होने पर ΔrG⊖ = 0।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "At equilibrium ΔG = 0 and ΔG⊖ = −2.303 RT log K.",
+          "hi": "साम्य पर ΔG = 0 और ΔG⊖ = −2.303 RT log K।"
+        },
+        "formula": "ΔrG⊖ = −RT ln K = −2.303 RT log K",
+        "points": [
+          {
+            "en": "ΔG⊖ negative → K > 1 (products favoured).",
+            "hi": "ΔG⊖ ऋणात्मक → K > 1 (उत्पाद अनुकूल)।"
+          },
+          {
+            "en": "R = 8.314 J K⁻¹ mol⁻¹.",
+            "hi": "R = 8.314 J K⁻¹ mol⁻¹।"
+          }
+        ]
+      }
+    }
+  ]
+}

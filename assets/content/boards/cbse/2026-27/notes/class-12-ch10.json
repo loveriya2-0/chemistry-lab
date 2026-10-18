@@ -1,0 +1,313 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "note-cbse-12-ch10-t10.1",
+      "targetId": "cbse-12-ch10-t10.1",
+      "covers": [],
+      "definition": {
+        "en": "Carbohydrates are optically active polyhydroxy aldehydes or ketones, or compounds that give such units on hydrolysis. They are classified as monosaccharides, oligosaccharides (mainly disaccharides) and polysaccharides.",
+        "hi": "कार्बोहाइड्रेट प्रकाशिक सक्रिय पॉलिहाइड्रॉक्सी ऐल्डिहाइड या कीटोन हैं, या ऐसे यौगिक जो जल-अपघटन पर ऐसी इकाइयाँ देते हैं। इन्हें मोनोसैकेराइड, ऑलिगोसैकेराइड (मुख्यतः डाइसैकेराइड) और पॉलिसैकेराइड में वर्गीकृत किया जाता है।"
+      },
+      "explanation": {
+        "en": "Many have the formula Cₓ(H₂O)ᵧ, but acetic acid fits it without being a carbohydrate and rhamnose (C₆H₁₂O₅) is one without fitting it. Monosaccharides (glucose, fructose, ribose) cannot be hydrolysed further; aldoses have –CHO and ketoses have >C=O. Glucose (dextrose, an aldohexose) is made by boiling sucrose with dilute acid or, commercially, starch with dilute H₂SO₄ at 393 K under pressure. Evidence for its open-chain structure: HI gives n-hexane (straight chain), oxime and cyanohydrin formation (carbonyl), bromine water gives gluconic acid (aldehyde), pentaacetate (five –OH), nitric acid gives saccharic acid (primary –OH). But glucose gives no Schiff's test or NaHSO₃ adduct, and exists as α (m.p. 419 K) and β (m.p. 423 K) forms, explained by a six-membered cyclic hemiacetal (pyranose) formed by the C-5 –OH; the α and β forms (anomers) differ at C-1. Disaccharides join two units by a glycosidic linkage: sucrose (α-D-glucose C1 – β-D-fructose C2) is non-reducing and its hydrolysis gives laevorotatory invert sugar; maltose (two α-D-glucose, C1–C4) and lactose (β-D-galactose C1 – β-D-glucose C4) are reducing. Starch (amylose 15–20%, water-soluble, unbranched C1–C4; amylopectin 80–85%, branched with C1–C6) is the plant store; cellulose is β-D-glucose C1–C4 (cell walls); glycogen (animal starch) is more branched and is stored in liver, muscles and brain.",
+        "hi": "अनेक का सूत्र Cₓ(H₂O)ᵧ है, पर ऐसीटिक अम्ल इसमें आते हुए भी कार्बोहाइड्रेट नहीं है और रैम्नोस (C₆H₁₂O₅) इसमें न आते हुए भी कार्बोहाइड्रेट है। मोनोसैकेराइड (ग्लूकोस, फ़्रक्टोस, राइबोस) और अधिक जल-अपघटित नहीं होते; ऐल्डोस में –CHO और कीटोस में >C=O होता है। ग्लूकोस (डेक्स्ट्रोस, एक ऐल्डोहेक्सोस) सुक्रोस को तनु अम्ल के साथ उबालकर या व्यावसायिक रूप से स्टार्च को 393 K पर दाब में तनु H₂SO₄ के साथ उबालकर बनाया जाता है। इसकी विवृत शृंखला संरचना के प्रमाण: HI से n-हेक्सेन (सीधी शृंखला), ऑक्सिम और सायनोहाइड्रिन निर्माण (कार्बोनिल), ब्रोमीन जल से ग्लूकोनिक अम्ल (ऐल्डिहाइड), पेन्टाऐसीटेट (पाँच –OH), नाइट्रिक अम्ल से सैकेरिक अम्ल (प्राथमिक –OH)। परंतु ग्लूकोस शिफ़ परीक्षण या NaHSO₃ योगज नहीं देता और α (गलनांक 419 K) तथा β (गलनांक 423 K) रूपों में रहता है, जिसे C-5 के –OH से बने छह-सदस्यीय चक्रीय हेमिऐसीटैल (पाइरानोस) से समझाया जाता है; α और β रूप (ऐनोमर) C-1 पर भिन्न होते हैं। डाइसैकेराइडों में दो इकाइयाँ ग्लाइकोसिडिक बंधन से जुड़ती हैं: सुक्रोस (α-D-ग्लूकोस C1 – β-D-फ़्रक्टोस C2) अनअपचायी है और इसके जल-अपघटन से वामावर्ती इनवर्ट शर्करा बनती है; माल्टोस (दो α-D-ग्लूकोस, C1–C4) और लैक्टोस (β-D-गैलेक्टोस C1 – β-D-ग्लूकोस C4) अपचायी हैं। स्टार्च (ऐमिलोस 15–20%, जल-विलेय, अशाखित C1–C4; ऐमिलोपेक्टिन 80–85%, C1–C6 से शाखित) पौधों का भंडार है; सेलुलोस β-D-ग्लूकोस C1–C4 है (कोशिका भित्ति); ग्लाइकोजन (जंतु स्टार्च) अधिक शाखित है और यकृत, मांसपेशियों तथा मस्तिष्क में संग्रहित होता है।"
+      },
+      "keyPoints": [
+        {"en": "All monosaccharides (aldoses and ketoses) are reducing sugars; sucrose is non-reducing.", "hi": "सभी मोनोसैकेराइड (ऐल्डोस और कीटोस) अपचायी शर्करा हैं; सुक्रोस अनअपचायी है।"},
+        {"en": "D/L refers to configuration relative to glyceraldehyde (–OH on the lowest asymmetric carbon on the right = D), not to the direction of rotation.", "hi": "D/L ग्लिसरैल्डिहाइड के सापेक्ष विन्यास बताता है (सबसे निचले असममित कार्बन पर –OH दाईं ओर = D), घूर्णन की दिशा नहीं।"},
+        {"en": "Invert sugar: fructose (−92.4°) outweighs glucose (+52.5°), so the hydrolysed mixture is laevorotatory.", "hi": "इनवर्ट शर्करा: फ़्रक्टोस (−92.4°) ग्लूकोस (+52.5°) से अधिक है, इसलिए जल-अपघटित मिश्रण वामावर्ती है।"}
+      ],
+      "realLife": {
+        "en": "Starch in cereals is our main food energy, honey is an instant energy source, and cellulose gives us wood, cotton and paper.",
+        "hi": "अनाज का स्टार्च हमारी भोजन ऊर्जा का मुख्य स्रोत है, शहद तत्काल ऊर्जा देता है, और सेलुलोस से लकड़ी, कपास और कागज़ मिलते हैं।"
+      },
+      "examFocus": {
+        "en": "Give the evidence for the structure of glucose and what the open-chain structure cannot explain; define anomers, glycosidic linkage, invert sugar; compare starch, cellulose and glycogen; classify sugars as reducing or non-reducing.",
+        "hi": "ग्लूकोस की संरचना के प्रमाण और विवृत शृंखला संरचना जो नहीं समझा पाती, बताइए; ऐनोमर, ग्लाइकोसिडिक बंधन, इनवर्ट शर्करा परिभाषित कीजिए; स्टार्च, सेलुलोस और ग्लाइकोजन की तुलना कीजिए; शर्कराओं को अपचायी या अनअपचायी में वर्गीकृत कीजिए।"
+      },
+      "commonMistakes": [
+        {"en": "Linking 'D' with dextrorotation — D is a configuration; D-fructose is laevorotatory.", "hi": "'D' को दक्षिणावर्त घूर्णन से जोड़ना — D एक विन्यास है; D-फ़्रक्टोस वामावर्ती है।"},
+        {"en": "Saying cellulose is made of α-glucose — it is β-D-glucose; starch is α-D-glucose.", "hi": "सेलुलोस को α-ग्लूकोस से बना बताना — यह β-D-ग्लूकोस है; स्टार्च α-D-ग्लूकोस है।"}
+      ],
+      "formulas": [
+        "C₁₂H₂₂O₁₁ + H₂O → C₆H₁₂O₆ (glucose) + C₆H₁₂O₆ (fructose) (H⁺)",
+        "(C₆H₁₀O₅)ₙ + nH₂O → nC₆H₁₂O₆ (H⁺, 393 K, 2–3 atm)",
+        "C₆H₁₂O₆ + HI (prolonged heat) → n-hexane",
+        "Glucose + Br₂ water → gluconic acid"
+      ],
+      "practicalIds": ["cbse-12-pI"],
+      "conceptIds": ["biomolecules"],
+      "chemicalIds": ["glucose"],
+      "sources": [{"sourceId": "ncert-12-en", "section": "10.1"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "'Sucrose Says No' to Fehling", "hi": "'सुक्रोस फ़ेहलिंग को ना कहता है'"},
+          "recall": {"en": "Sucrose is non-reducing because the reducing groups of glucose (C1) and fructose (C2) are both used in the glycosidic bond; maltose and lactose are reducing.", "hi": "सुक्रोस अनअपचायी है क्योंकि ग्लूकोस (C1) और फ़्रक्टोस (C2) दोनों के अपचायी समूह ग्लाइकोसिडिक आबंध में लगे हैं; माल्टोस और लैक्टोस अपचायी हैं।"}
+        },
+        {
+          "trick": {"en": "'Starch is Alpha, Cellulose is Beta'", "hi": "'स्टार्च अल्फ़ा, सेलुलोस बीटा'"},
+          "recall": {"en": "Starch and glycogen are polymers of α-D-glucose; cellulose is a polymer of β-D-glucose (C1–C4 links).", "hi": "स्टार्च और ग्लाइकोजन α-D-ग्लूकोस के बहुलक हैं; सेलुलोस β-D-ग्लूकोस का बहुलक है (C1–C4 बंधन)।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Carbohydrates: polyhydroxy aldehydes/ketones; glucose is a cyclic hemiacetal (α/β anomers).", "hi": "कार्बोहाइड्रेट: पॉलिहाइड्रॉक्सी ऐल्डिहाइड/कीटोन; ग्लूकोस चक्रीय हेमिऐसीटैल है (α/β ऐनोमर)।"},
+        "formula": "C₁₂H₂₂O₁₁ + H₂O → C₆H₁₂O₆ (glucose) + C₆H₁₂O₆ (fructose) (H⁺)",
+        "points": [
+          {"en": "Sucrose non-reducing; maltose, lactose reducing.", "hi": "सुक्रोस अनअपचायी; माल्टोस, लैक्टोस अपचायी।"},
+          {"en": "Amylose (C1–C4) + amylopectin (C1–C4, C1–C6 branches) = starch.", "hi": "ऐमिलोस (C1–C4) + ऐमिलोपेक्टिन (C1–C4, C1–C6 शाखाएँ) = स्टार्च।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch10-t10.2",
+      "targetId": "cbse-12-ch10-t10.2",
+      "covers": [],
+      "definition": {
+        "en": "Proteins are polymers of α-amino acids joined by peptide bonds (–CO–NH–); a polypeptide with more than a hundred amino acid residues (molecular mass above 10,000 u) is called a protein.",
+        "hi": "प्रोटीन पेप्टाइड आबंधों (–CO–NH–) से जुड़े α-ऐमीनो अम्लों के बहुलक हैं; सौ से अधिक ऐमीनो अम्ल अवशेषों (आणविक द्रव्यमान 10,000 u से अधिक) वाला पॉलिपेप्टाइड प्रोटीन कहलाता है।"
+      },
+      "explanation": {
+        "en": "Amino acids are neutral, acidic or basic depending on the numbers of –NH₂ and –COOH groups; essential amino acids must come from the diet. They are colourless, high-melting, water-soluble solids because they exist as dipolar zwitter ions. All natural α-amino acids except glycine are optically active, mostly with L-configuration. A peptide bond forms between –COOH of one and –NH₂ of another with loss of water (glycine + alanine → glycylalanine). Fibrous proteins (keratin, myosin) have parallel chains held by hydrogen and disulphide bonds and are insoluble; globular proteins (insulin, albumins) are coiled into spheres and are usually soluble. Structure: primary (amino acid sequence), secondary (α-helix, a right-handed coil with N–H···O=C hydrogen bonds, or β-pleated sheet), tertiary (overall folding, stabilised by hydrogen bonds, disulphide links, van der Waals and electrostatic forces) and quaternary (arrangement of sub-units). Denaturation by heat or pH change destroys the secondary and tertiary structures but not the primary: e.g. boiling egg white, curdling of milk.",
+        "hi": "–NH₂ और –COOH समूहों की संख्या के अनुसार ऐमीनो अम्ल उदासीन, अम्लीय या क्षारकीय होते हैं; आवश्यक ऐमीनो अम्ल आहार से ही मिलने चाहिए। ये द्विध्रुवीय ज़्विटर आयन के रूप में रहते हैं, इसलिए रंगहीन, उच्च गलनांक वाले, जल-विलेय ठोस हैं। ग्लाइसीन को छोड़कर सभी प्राकृतिक α-ऐमीनो अम्ल प्रकाशिक सक्रिय हैं, अधिकांश L-विन्यास वाले। एक के –COOH और दूसरे के –NH₂ के बीच जल निकलकर पेप्टाइड आबंध बनता है (ग्लाइसीन + ऐलानीन → ग्लाइसिलऐलानीन)। रेशेदार प्रोटीनों (केरैटिन, मायोसिन) में समानांतर शृंखलाएँ हाइड्रोजन और डाइसल्फ़ाइड आबंधों से जुड़ी होती हैं और ये अविलेय हैं; गोलिकाकार प्रोटीन (इंसुलिन, ऐल्ब्यूमिन) गोले में कुंडलित होते हैं और प्रायः विलेय हैं। संरचना: प्राथमिक (ऐमीनो अम्ल अनुक्रम), द्वितीयक (α-हेलिक्स, N–H···O=C हाइड्रोजन आबंधों वाला दक्षिणावर्ती कुंडल, या β-प्लीटेड शीट), तृतीयक (समग्र वलन; हाइड्रोजन आबंध, डाइसल्फ़ाइड बंधन, वान्डरवाल्स और स्थिरवैद्युत बलों से स्थायी) और चतुष्क (उप-इकाइयों की व्यवस्था)। ताप या pH परिवर्तन से विकृतीकरण द्वितीयक और तृतीयक संरचनाएँ नष्ट करता है पर प्राथमिक नहीं: जैसे अंडे की सफ़ेदी का उबलना, दूध का फटना।"
+      },
+      "keyPoints": [
+        {"en": "Zwitter ion: H₃N⁺–CHR–COO⁻ (both charges, overall neutral).", "hi": "ज़्विटर आयन: H₃N⁺–CHR–COO⁻ (दोनों आवेश, कुल उदासीन)।"},
+        {"en": "Insulin has 51 amino acids but is called a protein because of its well-defined conformation.", "hi": "इंसुलिन में 51 ऐमीनो अम्ल हैं पर सुनिश्चित संरूपण के कारण इसे प्रोटीन कहते हैं।"},
+        {"en": "Denaturation keeps the primary structure intact.", "hi": "विकृतीकरण में प्राथमिक संरचना अक्षुण्ण रहती है।"}
+      ],
+      "realLife": {
+        "en": "Milk, cheese, pulses, peanuts, fish and meat supply proteins, which build and maintain every part of the body.",
+        "hi": "दूध, पनीर, दालें, मूँगफली, मछली और मांस प्रोटीन देते हैं, जो शरीर के हर भाग का निर्माण और रखरखाव करते हैं।"
+      },
+      "examFocus": {
+        "en": "Explain zwitter ions, peptide bond, primary to quaternary structure, fibrous vs globular proteins and denaturation with examples.",
+        "hi": "ज़्विटर आयन, पेप्टाइड आबंध, प्राथमिक से चतुष्क संरचना, रेशेदार बनाम गोलिकाकार प्रोटीन और विकृतीकरण उदाहरण सहित समझाइए।"
+      },
+      "commonMistakes": [
+        {"en": "Saying denaturation breaks peptide bonds — only the 2° and 3° structures are lost; the sequence stays.", "hi": "यह कहना कि विकृतीकरण पेप्टाइड आबंध तोड़ता है — केवल 2° और 3° संरचनाएँ नष्ट होती हैं; अनुक्रम बना रहता है।"}
+      ],
+      "formulas": ["H₂N–CH₂–COOH + H₂N–CH(CH₃)–COOH → H₂N–CH₂–CO–NH–CH(CH₃)–COOH + H₂O"],
+      "practicalIds": ["cbse-12-pI"],
+      "conceptIds": ["biomolecules"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "10.2"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "Protein levels 'Sequence, Spiral, Shape, Subunits'", "hi": "प्रोटीन स्तर 'अनुक्रम, सर्पिल, आकृति, उप-इकाइयाँ'"},
+          "recall": {"en": "Primary = amino acid sequence; secondary = α-helix/β-sheet; tertiary = overall 3D folding; quaternary = arrangement of sub-units.", "hi": "प्राथमिक = ऐमीनो अम्ल अनुक्रम; द्वितीयक = α-हेलिक्स/β-शीट; तृतीयक = समग्र त्रिविम वलन; चतुष्क = उप-इकाइयों की व्यवस्था।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Proteins = α-amino acids linked by peptide bonds; four levels of structure.", "hi": "प्रोटीन = पेप्टाइड आबंधों से जुड़े α-ऐमीनो अम्ल; संरचना के चार स्तर।"},
+        "formula": "H₂N–CH₂–COOH + H₂N–CH(CH₃)–COOH → H₂N–CH₂–CO–NH–CH(CH₃)–COOH + H₂O",
+        "points": [
+          {"en": "Fibrous (keratin) insoluble; globular (insulin) soluble.", "hi": "रेशेदार (केरैटिन) अविलेय; गोलिकाकार (इंसुलिन) विलेय।"},
+          {"en": "Denaturation: boiled egg, curdled milk.", "hi": "विकृतीकरण: उबला अंडा, फटा दूध।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch10-t10.3",
+      "targetId": "cbse-12-ch10-t10.3",
+      "covers": [],
+      "definition": {
+        "en": "Enzymes are biological catalysts, almost all globular proteins, that speed up reactions in living systems under mild conditions and are highly specific for their reaction and substrate.",
+        "hi": "एंज़ाइम जैव उत्प्रेरक हैं, लगभग सभी गोलिकाकार प्रोटीन, जो जीवित तंत्रों में मृदु परिस्थितियों में अभिक्रियाओं को तेज़ करते हैं और अपनी अभिक्रिया तथा क्रियाधार के प्रति अत्यधिक विशिष्ट होते हैं।"
+      },
+      "explanation": {
+        "en": "Enzymes are usually named after the substrate they act on (maltase hydrolyses maltose to glucose) or the reaction they catalyse (oxidoreductases); names end in -ase. Only small quantities are needed. Like chemical catalysts they lower the activation energy: acid hydrolysis of sucrose has Ea = 6.22 kJ mol⁻¹, but with the enzyme sucrase it is only 2.15 kJ mol⁻¹.",
+        "hi": "एंज़ाइमों का नाम प्रायः उस क्रियाधार पर रखा जाता है जिस पर वे कार्य करते हैं (माल्टेज़ माल्टोस को ग्लूकोस में जल-अपघटित करता है) या उस अभिक्रिया पर जिसे वे उत्प्रेरित करते हैं (ऑक्सीडोरिडक्टेज़); नाम -ase पर समाप्त होते हैं। इनकी बहुत थोड़ी मात्रा ही चाहिए। रासायनिक उत्प्रेरकों की तरह ये सक्रियण ऊर्जा घटाते हैं: सुक्रोस के अम्ल जल-अपघटन की Ea = 6.22 kJ mol⁻¹ है, पर सुक्रेज़ एंज़ाइम के साथ यह केवल 2.15 kJ mol⁻¹ है।"
+      },
+      "keyPoints": [
+        {"en": "Enzymes are specific: one enzyme, one kind of substrate or reaction.", "hi": "एंज़ाइम विशिष्ट होते हैं: एक एंज़ाइम, एक प्रकार का क्रियाधार या अभिक्रिया।"},
+        {"en": "They work under mild conditions of temperature and pH inside the body.", "hi": "ये शरीर के अंदर ताप और pH की मृदु परिस्थितियों में कार्य करते हैं।"}
+      ],
+      "realLife": {
+        "en": "Digestion of food and production of energy in our cells depend on a chain of enzyme-catalysed reactions.",
+        "hi": "भोजन का पाचन और हमारी कोशिकाओं में ऊर्जा उत्पादन एंज़ाइम-उत्प्रेरित अभिक्रियाओं की शृंखला पर निर्भर है।"
+      },
+      "examFocus": {
+        "en": "Define enzymes, explain how they are named and how they lower activation energy (sucrase example).",
+        "hi": "एंज़ाइम परिभाषित कीजिए, उनके नामकरण और सक्रियण ऊर्जा घटाने की विधि समझाइए (सुक्रेज़ उदाहरण)।"
+      },
+      "commonMistakes": [
+        {"en": "Saying enzymes are used up in the reaction — like other catalysts they are needed only in small amounts and are not consumed.", "hi": "यह कहना कि एंज़ाइम अभिक्रिया में खर्च हो जाते हैं — अन्य उत्प्रेरकों की तरह इनकी थोड़ी मात्रा ही चाहिए और ये खर्च नहीं होते।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["biomolecules"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "10.3"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Substrate + ase = enzyme\"",
+            "hi": "\"सब्सट्रेट + ase = एंज़ाइम\""
+          },
+          "recall": {
+            "en": "Enzymes are usually named after what they act on, with the ending -ase: maltase hydrolyses maltose, sucrase hydrolyses sucrose.",
+            "hi": "एंज़ाइमों का नाम प्रायः उस पदार्थ के नाम पर -ase अंत के साथ रखा जाता है जिस पर वे कार्य करते हैं: माल्टेज़ माल्टोस का और सुक्रेज़ सूक्रोस का जल-अपघटन करता है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Enzymes: specific protein biocatalysts that lower activation energy.", "hi": "एंज़ाइम: विशिष्ट प्रोटीन जैव-उत्प्रेरक जो सक्रियण ऊर्जा घटाते हैं।"},
+        "points": [
+          {"en": "Sucrose hydrolysis: Ea 6.22 (acid) vs 2.15 kJ mol⁻¹ (sucrase).", "hi": "सुक्रोस जल-अपघटन: Ea 6.22 (अम्ल) बनाम 2.15 kJ mol⁻¹ (सुक्रेज़)।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch10-t10.4",
+      "targetId": "cbse-12-ch10-t10.4",
+      "covers": [],
+      "definition": {
+        "en": "Vitamins are organic compounds required in small amounts in the diet for specific biological functions; their deficiency causes specific diseases. They are fat-soluble (A, D, E, K) or water-soluble (B group and C).",
+        "hi": "विटामिन विशिष्ट जैविक कार्यों के लिए आहार में थोड़ी मात्रा में आवश्यक कार्बनिक यौगिक हैं; इनकी कमी से विशिष्ट रोग होते हैं। ये वसा-विलेय (A, D, E, K) या जल-विलेय (B समूह और C) होते हैं।"
+      },
+      "explanation": {
+        "en": "Most vitamins cannot be made in our body, though gut bacteria produce some. Fat-soluble vitamins are stored in the liver and adipose tissue. Water-soluble vitamins are excreted in urine and cannot be stored (except B₁₂), so they must be supplied regularly. Deficiency diseases: A – xerophthalmia and night blindness; B₁ (thiamine) – beri beri; B₂ (riboflavin) – cheilosis, digestive disorders, burning skin; B₆ (pyridoxine) – convulsions; B₁₂ – pernicious anaemia; C (ascorbic acid) – scurvy; D – rickets and osteomalacia; E – fragile red blood cells and muscular weakness; K – increased blood-clotting time. The name came from 'vital + amine'; the 'e' was dropped when most were found to have no amino group. Excess vitamins are also harmful.",
+        "hi": "अधिकांश विटामिन हमारे शरीर में नहीं बन सकते, यद्यपि आँत के जीवाणु कुछ बनाते हैं। वसा-विलेय विटामिन यकृत और वसा ऊतकों में संग्रहित होते हैं। जल-विलेय विटामिन मूत्र में उत्सर्जित हो जाते हैं और संग्रहित नहीं होते (B₁₂ को छोड़कर), इसलिए इन्हें नियमित रूप से लेना चाहिए। कमी से रोग: A – ज़ीरोफ़्थैल्मिया और रतौंधी; B₁ (थायमीन) – बेरी-बेरी; B₂ (राइबोफ़्लेविन) – कीलोसिस, पाचन विकार, त्वचा में जलन; B₆ (पिरिडॉक्सिन) – ऐंठन; B₁₂ – प्रणाशी रक्ताल्पता; C (ऐस्कॉर्बिक अम्ल) – स्कर्वी; D – रिकेट्स और अस्थिमृदुता; E – लाल रक्त कणिकाओं की भंगुरता और मांसपेशियों की दुर्बलता; K – रक्त का थक्का बनने का समय बढ़ना। नाम 'vital + amine' से आया; जब पाया गया कि अधिकांश में ऐमीनो समूह नहीं है तो 'e' हटा दिया गया। विटामिनों की अधिकता भी हानिकारक है।"
+      },
+      "keyPoints": [
+        {"en": "Fat-soluble: A, D, E, K (stored); water-soluble: B group, C (not stored, except B₁₂).", "hi": "वसा-विलेय: A, D, E, K (संग्रहित); जल-विलेय: B समूह, C (संग्रहित नहीं, B₁₂ को छोड़कर)।"},
+        {"en": "Vitamin C deficiency → scurvy; vitamin D deficiency → rickets.", "hi": "विटामिन C की कमी → स्कर्वी; विटामिन D की कमी → रिकेट्स।"}
+      ],
+      "realLife": {
+        "en": "Citrus fruits prevent scurvy and sunlight exposure helps the body make vitamin D; vitamin pills should be taken only on a doctor's advice.",
+        "hi": "खट्टे फल स्कर्वी से बचाते हैं और धूप से शरीर विटामिन D बनाता है; विटामिन की गोलियाँ केवल डॉक्टर की सलाह पर लेनी चाहिए।"
+      },
+      "examFocus": {
+        "en": "Classify vitamins as fat- or water-soluble and match vitamins with deficiency diseases; explain why water-soluble vitamins must be taken regularly.",
+        "hi": "विटामिनों को वसा- या जल-विलेय में वर्गीकृत कीजिए और कमी से होने वाले रोगों से सुमेलित कीजिए; बताइए जल-विलेय विटामिन नियमित क्यों लेने चाहिए।"
+      },
+      "commonMistakes": [
+        {"en": "Listing vitamin C as fat-soluble — it is water-soluble; only A, D, E and K are fat-soluble.", "hi": "विटामिन C को वसा-विलेय बताना — यह जल-विलेय है; केवल A, D, E और K वसा-विलेय हैं।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["biomolecules"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "10.4"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "Fat-soluble vitamins: 'KEDA' (K, E, D, A)", "hi": "वसा-विलेय विटामिन: 'KEDA' (K, E, D, A)"},
+          "recall": {"en": "Vitamins A, D, E and K dissolve in fat and are stored in the liver and fat tissue; B and C are water-soluble.", "hi": "विटामिन A, D, E और K वसा में घुलते हैं और यकृत तथा वसा ऊतकों में संग्रहित होते हैं; B और C जल-विलेय हैं।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Vitamins: A, D, E, K fat-soluble; B, C water-soluble; deficiency → specific disease.", "hi": "विटामिन: A, D, E, K वसा-विलेय; B, C जल-विलेय; कमी → विशिष्ट रोग।"},
+        "points": [
+          {"en": "A – night blindness; B₁ – beri beri; C – scurvy; D – rickets; K – slow clotting.", "hi": "A – रतौंधी; B₁ – बेरी-बेरी; C – स्कर्वी; D – रिकेट्स; K – धीमा थक्का।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch10-t10.5",
+      "targetId": "cbse-12-ch10-t10.5",
+      "covers": [],
+      "definition": {
+        "en": "Nucleic acids (DNA and RNA) are long-chain polymers of nucleotides (polynucleotides); each nucleotide contains a nitrogenous base, a pentose sugar and a phosphate group.",
+        "hi": "न्यूक्लीक अम्ल (DNA और RNA) न्यूक्लियोटाइडों के लंबी शृंखला वाले बहुलक (पॉलिन्यूक्लियोटाइड) हैं; प्रत्येक न्यूक्लियोटाइड में एक नाइट्रोजनी क्षारक, एक पेन्टोस शर्करा और एक फ़ॉस्फ़ेट समूह होता है।"
+      },
+      "explanation": {
+        "en": "Complete hydrolysis gives a pentose sugar, phosphoric acid and bases. DNA has β-D-2-deoxyribose and the bases adenine, guanine, cytosine and thymine; RNA has β-D-ribose and uracil instead of thymine. A base attached at the 1′ position of the sugar is a nucleoside; a nucleoside linked to phosphoric acid at the 5′ position is a nucleotide; nucleotides are joined by phosphodiester links between 5′ and 3′ carbons. Watson and Crick showed DNA is a double helix: two complementary strands held by hydrogen bonds between A and T and between C and G. RNA is a single-stranded helix that may fold back; its three types are m-RNA, r-RNA and t-RNA. DNA is the chemical basis of heredity, copies itself during cell division and carries the message for protein synthesis, which is carried out by RNA.",
+        "hi": "पूर्ण जल-अपघटन से पेन्टोस शर्करा, फ़ॉस्फ़ोरिक अम्ल और क्षारक मिलते हैं। DNA में β-D-2-डीऑक्सीराइबोस और ऐडेनीन, ग्वानीन, साइटोसीन तथा थायमीन क्षारक होते हैं; RNA में β-D-राइबोस और थायमीन की जगह यूरैसिल होता है। शर्करा की 1′ स्थिति पर जुड़ा क्षारक न्यूक्लियोसाइड है; 5′ स्थिति पर फ़ॉस्फ़ोरिक अम्ल से जुड़ा न्यूक्लियोसाइड न्यूक्लियोटाइड है; न्यूक्लियोटाइड 5′ और 3′ कार्बनों के बीच फ़ॉस्फ़ोडाइएस्टर बंधनों से जुड़ते हैं। वॉटसन और क्रिक ने बताया कि DNA एक द्विकुंडली है: दो पूरक रज्जुक जो A और T तथा C और G के बीच हाइड्रोजन आबंधों से जुड़े हैं। RNA एकल-रज्जुक कुंडली है जो कभी-कभी स्वयं पर मुड़ जाती है; इसके तीन प्रकार m-RNA, r-RNA और t-RNA हैं। DNA आनुवंशिकता का रासायनिक आधार है, कोशिका विभाजन में स्वयं की प्रतिलिपि बनाता है और प्रोटीन संश्लेषण का संदेश रखता है, जिसे RNA क्रियान्वित करता है।"
+      },
+      "keyPoints": [
+        {"en": "Base pairing: A = T (DNA) and C ≡ G; in RNA, U replaces T.", "hi": "क्षारक युग्मन: A = T (DNA) और C ≡ G; RNA में T की जगह U।"},
+        {"en": "DNA fingerprinting (unique base sequence) is used in forensics, paternity tests and identifying bodies.", "hi": "DNA फ़िंगरप्रिंटिंग (अद्वितीय क्षारक अनुक्रम) का उपयोग फ़ॉरेंसिक, पितृत्व परीक्षण और शवों की पहचान में होता है।"},
+        {"en": "Har Gobind Khorana shared the 1968 Nobel Prize for cracking the genetic code.", "hi": "हरगोबिंद खुराना ने आनुवंशिक कूट को सुलझाने के लिए 1968 का नोबेल पुरस्कार साझा किया।"}
+      ],
+      "realLife": {
+        "en": "DNA fingerprinting identifies criminals and settles paternity cases because a person's DNA sequence is the same in every cell and cannot be altered.",
+        "hi": "DNA फ़िंगरप्रिंटिंग अपराधियों की पहचान और पितृत्व विवाद सुलझाने में प्रयुक्त होती है क्योंकि व्यक्ति का DNA अनुक्रम हर कोशिका में समान होता है और बदला नहीं जा सकता।"
+      },
+      "examFocus": {
+        "en": "Distinguish DNA and RNA (sugar, bases, strands, function); define nucleoside and nucleotide; explain complementary base pairing.",
+        "hi": "DNA और RNA में अंतर (शर्करा, क्षारक, रज्जुक, कार्य); न्यूक्लियोसाइड और न्यूक्लियोटाइड परिभाषित कीजिए; पूरक क्षारक युग्मन समझाइए।"
+      },
+      "commonMistakes": [
+        {"en": "Calling base + sugar a nucleotide — that is a nucleoside; a nucleotide also has phosphate.", "hi": "क्षारक + शर्करा को न्यूक्लियोटाइड कहना — वह न्यूक्लियोसाइड है; न्यूक्लियोटाइड में फ़ॉस्फ़ेट भी होता है।"}
+      ],
+      "formulas": ["Nucleoside = base + sugar; nucleotide = base + sugar + phosphate"],
+      "practicalIds": [],
+      "conceptIds": ["biomolecules"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "10.5"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "'Apple in the Tree, Car in the Garage'", "hi": "'Apple in the Tree, Car in the Garage' — A–T, C–G (सेब पेड़ में, कार गैराज में)"},
+          "recall": {"en": "In DNA adenine pairs with thymine and cytosine pairs with guanine; in RNA uracil takes thymine's place.", "hi": "DNA में ऐडेनीन थायमीन से और साइटोसीन ग्वानीन से युग्मित होता है; RNA में थायमीन का स्थान यूरैसिल लेता है।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "DNA: deoxyribose, A G C T, double helix; RNA: ribose, A G C U, single strand.", "hi": "DNA: डीऑक्सीराइबोस, A G C T, द्विकुंडली; RNA: राइबोस, A G C U, एकल रज्जुक।"},
+        "formula": "Nucleoside = base + sugar; nucleotide = base + sugar + phosphate",
+        "points": [
+          {"en": "A pairs with T, C with G (complementary strands).", "hi": "A का युग्म T से, C का G से (पूरक रज्जुक)।"},
+          {"en": "Three RNAs: m-RNA, r-RNA, t-RNA.", "hi": "तीन RNA: m-RNA, r-RNA, t-RNA।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch10-t10.6",
+      "targetId": "cbse-12-ch10-t10.6",
+      "covers": [],
+      "definition": {
+        "en": "Hormones are intercellular messengers produced by endocrine glands and carried by the blood to their site of action; chemically they are steroids, polypeptides or amino acid derivatives.",
+        "hi": "हॉर्मोन अंतःस्रावी ग्रंथियों द्वारा बनाए गए अंतरकोशिकीय संदेशवाहक हैं जिन्हें रक्त उनके कार्य-स्थल तक ले जाता है; रासायनिक रूप से ये स्टेरॉइड, पॉलिपेप्टाइड या ऐमीनो अम्ल व्युत्पन्न होते हैं।"
+      },
+      "explanation": {
+        "en": "Steroid hormones: estrogens and androgens; polypeptides: insulin and endorphins; amino acid derivatives: epinephrine and norepinephrine. Insulin lowers and glucagon raises blood glucose, together keeping it within narrow limits. Epinephrine and norepinephrine mediate responses to external stimuli. Thyroxine, an iodinated derivative of tyrosine, controls metabolism: low levels cause hypothyroidism (lethargy, obesity) and iodine deficiency enlarges the thyroid, which is prevented by iodised salt; high levels cause hyperthyroidism. The adrenal cortex releases glucocorticoids (carbohydrate metabolism, inflammation, stress) and mineralocorticoids (water and salt excretion); its failure causes Addison's disease. Testosterone (male) and estradiol (female) develop secondary sex characters.",
+        "hi": "स्टेरॉइड हॉर्मोन: एस्ट्रोजन और ऐन्ड्रोजन; पॉलिपेप्टाइड: इंसुलिन और एंडॉर्फ़िन; ऐमीनो अम्ल व्युत्पन्न: एपिनेफ़्रिन और नॉरएपिनेफ़्रिन। इंसुलिन रक्त ग्लूकोस घटाता और ग्लूकैगॉन बढ़ाता है, दोनों मिलकर इसे संकीर्ण सीमा में रखते हैं। एपिनेफ़्रिन और नॉरएपिनेफ़्रिन बाह्य उद्दीपनों के प्रति अनुक्रिया कराते हैं। टायरोसीन का आयोडीनयुक्त व्युत्पन्न थायरॉक्सिन उपापचय नियंत्रित करता है: इसकी कमी से हाइपोथायरॉयडिज़्म (सुस्ती, मोटापा) होता है और आयोडीन की कमी से थायरॉयड बढ़ जाता है, जिसे आयोडीनयुक्त नमक से रोका जाता है; अधिकता से हाइपरथायरॉयडिज़्म होता है। अधिवृक्क वल्कुट ग्लूकोकॉर्टिकॉइड (कार्बोहाइड्रेट उपापचय, शोथ, तनाव) और मिनरलोकॉर्टिकॉइड (जल और लवण उत्सर्जन) मुक्त करता है; इसकी विफलता से ऐडिसन रोग होता है। टेस्टोस्टेरॉन (नर) और एस्ट्राडाइऑल (मादा) द्वितीयक लैंगिक लक्षण विकसित करते हैं।"
+      },
+      "keyPoints": [
+        {"en": "Insulin ↓ blood glucose; glucagon ↑ blood glucose.", "hi": "इंसुलिन रक्त ग्लूकोस ↓; ग्लूकैगॉन रक्त ग्लूकोस ↑।"},
+        {"en": "Iodised salt (with sodium iodide) prevents iodine-deficiency goitre.", "hi": "आयोडीनयुक्त नमक (सोडियम आयोडाइड युक्त) आयोडीन की कमी से होने वाले घेंघे को रोकता है।"}
+      ],
+      "realLife": {
+        "en": "Insulin injections help people with diabetes keep their blood glucose under control.",
+        "hi": "इंसुलिन के इंजेक्शन मधुमेह रोगियों को रक्त ग्लूकोस नियंत्रित रखने में मदद करते हैं।"
+      },
+      "examFocus": {
+        "en": "Classify hormones chemically with examples; explain roles of insulin, glucagon, thyroxine and adrenal hormones.",
+        "hi": "हॉर्मोनों को रासायनिक रूप से उदाहरण सहित वर्गीकृत कीजिए; इंसुलिन, ग्लूकैगॉन, थायरॉक्सिन और अधिवृक्क हॉर्मोनों की भूमिका समझाइए।"
+      },
+      "commonMistakes": [
+        {"en": "Calling insulin a steroid — it is a polypeptide hormone.", "hi": "इंसुलिन को स्टेरॉइड कहना — यह पॉलिपेप्टाइड हॉर्मोन है।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["biomolecules"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "10.6"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Insulin puts glucose IN; Glucagon makes Glucose Go up\"",
+            "hi": "\"इंसुलिन ग्लूकोस को कोशिकाओं के अंदर ले जाता है; ग्लूकैगॉन ग्लूकोस बढ़ाता है\""
+          },
+          "recall": {
+            "en": "Insulin lowers blood glucose and glucagon raises it; together they keep blood glucose within narrow limits.",
+            "hi": "इंसुलिन रक्त में ग्लूकोस घटाता है और ग्लूकैगॉन बढ़ाता है; दोनों मिलकर रक्त ग्लूकोस को सीमित दायरे में रखते हैं।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Hormones: chemical messengers (steroids, polypeptides, amino acid derivatives).", "hi": "हॉर्मोन: रासायनिक संदेशवाहक (स्टेरॉइड, पॉलिपेप्टाइड, ऐमीनो अम्ल व्युत्पन्न)।"},
+        "points": [
+          {"en": "Insulin and glucagon regulate blood glucose.", "hi": "इंसुलिन और ग्लूकैगॉन रक्त ग्लूकोस नियंत्रित करते हैं।"},
+          {"en": "Thyroxine is an iodinated tyrosine derivative.", "hi": "थायरॉक्सिन टायरोसीन का आयोडीनयुक्त व्युत्पन्न है।"}
+        ]
+      }
+    }
+  ]
+}

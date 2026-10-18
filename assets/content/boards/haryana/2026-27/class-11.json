@@ -1,0 +1,1164 @@
+{
+  "schemaVersion": 1,
+  "boardId": "haryana",
+  "academicYear": "2026-27",
+  "classLevel": 11,
+  "label": {
+    "en": "Class 11",
+    "hi": "कक्षा 11",
+    "hiSrc": "translated"
+  },
+  "subject": {
+    "id": "chemistry",
+    "code": "856",
+    "name": {
+      "en": "Chemistry",
+      "hi": "रसायन विज्ञान",
+      "hiSrc": "translated"
+    }
+  },
+  "textbook": null,
+  "sourceIds": [
+    "hr-chem-11",
+    "ncert-11-en",
+    "ncert-11-hi"
+  ],
+  "examPattern": {
+    "theoryMarks": 70,
+    "practicalMarks": 30,
+    "boardExam": false,
+    "attempts": [
+      "main"
+    ],
+    "sourceId": "hr-chem-11",
+    "note": "Annual examination: 70-mark theory paper and 30-mark practical (15 internal assessment + 15 annual practical)."
+  },
+  "units": [],
+  "chapters": [
+    {
+      "id": "hr-11-ch01",
+      "number": 1,
+      "unitId": null,
+      "title": {
+        "en": "Some Basic Concepts of Chemistry",
+        "hi": "रसायन विज्ञान की कुछ मूल अवधारणाएँ",
+        "hiSrc": "ncert-decoded"
+      },
+      "curriculumName": null,
+      "assessment": "summative",
+      "weightage": {
+        "marks": 7,
+        "scope": "chapter"
+      },
+      "description": {
+        "en": "Importance and scope of chemistry; laws of chemical combination; Dalton's atomic theory; atoms and molecules; atomic and molecular masses; mole concept and molar mass; percentage composition; empirical and molecular formulae; chemical reactions, stoichiometry and calculations.",
+        "hi": "रसायन विज्ञान का महत्व और विस्तार, रासायनिक संयोजन के नियम, डाल्टन का परमाणु सिद्धांत, परमाणु और अणु; परमाण्विक, आण्विक द्रव्यमान, मोल की अवधारणा और मोलर द्रव्यमान, प्रतिशत संघटन, मूलानुपाती एवं आण्विक सूत्र, स्टॉइकियोमिति और उस पर आधारित गणनाएँ।",
+        "hiSrc": "translated"
+      },
+      "descriptionSourceId": "hr-chem-11",
+      "contentSourceId": null,
+      "topics": [
+        {
+          "id": "hr-11-ch01-t1.1",
+          "number": "1.1",
+          "title": {
+            "en": "Importance of Chemistry",
+            "hi": "रसायन विज्ञान का महत्व",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch01-t1.2",
+          "number": "1.2",
+          "title": {
+            "en": "Nature of Matter",
+            "hi": "द्रव्य की प्रकृति",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch01-t1.3",
+          "number": "1.3",
+          "title": {
+            "en": "Properties of Matter and their Measurement",
+            "hi": "द्रव्य के गुणधर्म और उनका मापन",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch01-t1.4",
+          "number": "1.4",
+          "title": {
+            "en": "Uncertainty in Measurement",
+            "hi": "मापन में अनिश्चितता",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch01-t1.5",
+          "number": "1.5",
+          "title": {
+            "en": "Laws of Chemical Combinations",
+            "hi": "रासायनिक संयोजन के नियम",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch01-t1.6",
+          "number": "1.6",
+          "title": {
+            "en": "Dalton's Atomic Theory",
+            "hi": "डॉल्टन का परमाणु सिद्धांत",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch01-t1.7",
+          "number": "1.7",
+          "title": {
+            "en": "Atomic and Molecular Masses",
+            "hi": "परमाणु द्रव्यमान और आण्विक द्रव्यमान",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch01-t1.8",
+          "number": "1.8",
+          "title": {
+            "en": "Mole Concept and Molar Masses",
+            "hi": "मोल-संकल्पना और मोलर द्रव्यमान",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch01-t1.9",
+          "number": "1.9",
+          "title": {
+            "en": "Percentage Composition",
+            "hi": "प्रतिशत-संघटन",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch01-t1.10",
+          "number": "1.10",
+          "title": {
+            "en": "Stoichiometry and Stoichiometric Calculations",
+            "hi": "स्टॉइकियोमीट्री और स्टॉइकियोमीट्रिक परिकलन",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        }
+      ],
+      "practicalIds": [],
+      "conceptIds": [],
+      "review": {
+        "status": "verified",
+        "note": "Chapter list and marks verified against the BSEH 2026-27 syllabus for Class 11 Chemistry. Topics follow the NCERT sections of the same chapter."
+      }
+    },
+    {
+      "id": "hr-11-ch02",
+      "number": 2,
+      "unitId": null,
+      "title": {
+        "en": "Structure of Atom",
+        "hi": "परमाणु की संरचना",
+        "hiSrc": "ncert-decoded"
+      },
+      "curriculumName": null,
+      "assessment": "summative",
+      "weightage": {
+        "marks": 8,
+        "scope": "chapter"
+      },
+      "description": {
+        "en": "Discovery of electron, proton and neutron; atomic number, isotopes and isobars; Thomson, Rutherford and Bohr models and their limits; shells and subshells; dual nature of matter and light; de Broglie relation; Heisenberg uncertainty principle; orbitals, quantum numbers, shapes of s, p and d orbitals; Aufbau, Pauli and Hund rules; electronic configurations; stability of half-filled and filled orbitals.",
+        "hi": "इलेक्ट्रॉन, प्रोटॉन और न्यूट्रॉन की खोज, परमाणु क्रमांक, समस्थानिक और समभारिक, थॉमसन, रदरफ़ोर्ड और बोर मॉडल और उनकी सीमाएँ, कोश एवं उपकोश, द्रव्य एवं प्रकाश की द्वैत प्रकृति, दे ब्रॉग्ली संबंध, हाइज़ेनबर्ग का अनिश्चितता सिद्धांत, कक्षक, क्वांटम संख्याएँ, s, p और d कक्षकों की आकृतियाँ, आउफ़बाउ, पाउली और हुन्ड नियम, इलेक्ट्रॉनिक विन्यास, अर्धपूरित और पूर्णपूरित कक्षकों का स्थायित्व।",
+        "hiSrc": "translated"
+      },
+      "descriptionSourceId": "hr-chem-11",
+      "contentSourceId": null,
+      "topics": [
+        {
+          "id": "hr-11-ch02-t2.1",
+          "number": "2.1",
+          "title": {
+            "en": "Discovery of Sub-atomic Particles",
+            "hi": "अवपरमाण्विक कण",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch02-t2.2",
+          "number": "2.2",
+          "title": {
+            "en": "Atomic Models",
+            "hi": "परमाणु मॉडल",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch02-t2.3",
+          "number": "2.3",
+          "title": {
+            "en": "Developments Leading to the Bohr's Model of Atom",
+            "hi": "बोर के परमाणु मॉडल के विकास की पृष्ठभूमि",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch02-t2.4",
+          "number": "2.4",
+          "title": {
+            "en": "Bohr's Model for Hydrogen Atom",
+            "hi": "हाइड्रोजन परमाणु के लिए बोर मॉडल",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch02-t2.5",
+          "number": "2.5",
+          "title": {
+            "en": "Towards Quantum Mechanical Model of the Atom",
+            "hi": "परमाणु के क्वांटम यांत्रिकीय मॉडल की ओर",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch02-t2.6",
+          "number": "2.6",
+          "title": {
+            "en": "Quantum Mechanical Model of Atom",
+            "hi": "परमाणु का क्वांटम यांत्रिकीय मॉडल",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        }
+      ],
+      "practicalIds": [],
+      "conceptIds": [],
+      "review": {
+        "status": "verified",
+        "note": "Chapter list and marks verified against the BSEH 2026-27 syllabus for Class 11 Chemistry. Topics follow the NCERT sections of the same chapter."
+      }
+    },
+    {
+      "id": "hr-11-ch03",
+      "number": 3,
+      "unitId": null,
+      "title": {
+        "en": "Classification of Elements and Periodicity in Properties",
+        "hi": "तत्वों का वर्गीकरण एवं गुणधर्मों में आवर्तिता",
+        "hiSrc": "ncert-decoded"
+      },
+      "curriculumName": null,
+      "assessment": "summative",
+      "weightage": {
+        "marks": 6,
+        "scope": "chapter"
+      },
+      "description": {
+        "en": "Significance of classification; brief history of the periodic table; modern periodic law and present form of the table; periodic trends — atomic and ionic radii, inert gas radii, ionisation enthalpy, electron gain enthalpy, electronegativity, valency; nomenclature of elements with atomic number above 100.",
+        "hi": "वर्गीकरण की सार्थकता, आवर्त सारणी के विकास का संक्षिप्त इतिहास, आधुनिक आवर्त नियम तथा आवर्त सारणी का वर्तमान स्वरूप, गुणधर्मों की आवर्ती प्रवृत्ति — परमाणु त्रिज्याएँ, आयनी त्रिज्याएँ, अक्रिय गैस त्रिज्याएँ, आयनन एन्थैल्पी, इलेक्ट्रॉन लब्धि एन्थैल्पी, विद्युत ऋणात्मकता, संयोजकता; 100 से अधिक परमाणु क्रमांक वाले तत्वों का नामकरण।",
+        "hiSrc": "translated"
+      },
+      "descriptionSourceId": "hr-chem-11",
+      "contentSourceId": null,
+      "topics": [
+        {
+          "id": "hr-11-ch03-t3.1",
+          "number": "3.1",
+          "title": {
+            "en": "Why do we Need to Classify Elements?",
+            "hi": "तत्वों का वर्गीकरण क्यों आवश्यक है?",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch03-t3.2",
+          "number": "3.2",
+          "title": {
+            "en": "Genesis of Periodic Classification",
+            "hi": "आवर्त सारणी की उत्पत्ति",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch03-t3.3",
+          "number": "3.3",
+          "title": {
+            "en": "Modern Periodic Law and the Present Form of the Periodic Table",
+            "hi": "आधुनिक आवर्त-नियम तथा आवर्त सारणी का वर्तमान स्वरूप",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch03-t3.4",
+          "number": "3.4",
+          "title": {
+            "en": "Nomenclature of Elements with Atomic Numbers > 100",
+            "hi": "100 से अधिक परमाणु-क्रमांक वाले तत्वों का नामकरण",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch03-t3.5",
+          "number": "3.5",
+          "title": {
+            "en": "Electronic Configurations of Elements and the Periodic Table",
+            "hi": "तत्वों के इलेक्ट्रॉनिक विन्यास तथा आवर्त-सारणी",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch03-t3.6",
+          "number": "3.6",
+          "title": {
+            "en": "Electronic Configurations and Types of Elements: s-, p-, d-, f- Blocks",
+            "hi": "इलेक्ट्रॉनिक विन्यास और तत्वों के प्रकार (s, p, d, f ब्लॉक)",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch03-t3.7",
+          "number": "3.7",
+          "title": {
+            "en": "Periodic Trends in Properties of Elements",
+            "hi": "तत्वों के गुण-धर्मों में आवर्तिता",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        }
+      ],
+      "practicalIds": [],
+      "conceptIds": [],
+      "review": {
+        "status": "verified",
+        "note": "Chapter list and marks verified against the BSEH 2026-27 syllabus for Class 11 Chemistry. Topics follow the NCERT sections of the same chapter."
+      }
+    },
+    {
+      "id": "hr-11-ch04",
+      "number": 4,
+      "unitId": null,
+      "title": {
+        "en": "Chemical Bonding and Molecular Structure",
+        "hi": "रासायनिक आबंधन तथा आण्विक संरचना",
+        "hiSrc": "ncert-decoded"
+      },
+      "curriculumName": null,
+      "assessment": "summative",
+      "weightage": {
+        "marks": 9,
+        "scope": "chapter"
+      },
+      "description": {
+        "en": "Valence electrons, ionic and covalent bonds, bond parameters, Lewis structures, polar character of covalent bonds, covalent character of ionic bonds, valence bond theory, resonance, VSEPR theory and shapes of molecules, hybridisation involving s, p and d orbitals, molecular orbital theory of homonuclear diatomic molecules (qualitative), hydrogen bonding.",
+        "hi": "संयोजकता इलेक्ट्रॉन, आयनिक आबंध, सहसंयोजक आबंध, आबंध प्राचल, लुइस संरचना, सहसंयोजक आबंध का ध्रुवीय गुण, आयनिक आबंध का सहसंयोजक गुण, संयोजकता आबंध सिद्धांत, अनुनाद, VSEPR सिद्धांत, s, p तथा d कक्षकों से संकरण और कुछ सामान्य अणुओं की आकृतियाँ, समनाभिकीय द्विपरमाणुक अणुओं का आण्विक कक्षक सिद्धांत (केवल गुणात्मक), हाइड्रोजन आबंध।",
+        "hiSrc": "translated"
+      },
+      "descriptionSourceId": "hr-chem-11",
+      "contentSourceId": null,
+      "topics": [
+        {
+          "id": "hr-11-ch04-t4.1",
+          "number": "4.1",
+          "title": {
+            "en": "Kössel-Lewis Approach to Chemical Bonding",
+            "hi": "रासायनिक आबंधन की कॉसेल-लूइस अवधारणा",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch04-t4.2",
+          "number": "4.2",
+          "title": {
+            "en": "Ionic or Electrovalent Bond",
+            "hi": "आयनिक या वैद्युत् संयोजी आबंध",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch04-t4.3",
+          "number": "4.3",
+          "title": {
+            "en": "Bond Parameters",
+            "hi": "आबंध प्राचल",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch04-t4.4",
+          "number": "4.4",
+          "title": {
+            "en": "The Valence Shell Electron Pair Repulsion (VSEPR) Theory",
+            "hi": "संयोजकता कोश इलेक्ट्रॉन युग्म प्रतिकर्षण सिद्धांत",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch04-t4.5",
+          "number": "4.5",
+          "title": {
+            "en": "Valence Bond Theory",
+            "hi": "संयोजकता आबंध सिद्धांत",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch04-t4.6",
+          "number": "4.6",
+          "title": {
+            "en": "Hybridisation",
+            "hi": "संकरण",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch04-t4.7",
+          "number": "4.7",
+          "title": {
+            "en": "Molecular Orbital Theory",
+            "hi": "आण्विक कक्षक सिद्धांत",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch04-t4.8",
+          "number": "4.8",
+          "title": {
+            "en": "Bonding in Some Homonuclear Diatomic Molecules",
+            "hi": "समनाभिकीय द्विपरमाणुक अणुओं में आबंधन",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch04-t4.9",
+          "number": "4.9",
+          "title": {
+            "en": "Hydrogen Bonding",
+            "hi": "हाइड्रोजन आबंधन",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        }
+      ],
+      "practicalIds": [],
+      "conceptIds": [],
+      "review": {
+        "status": "verified",
+        "note": "Chapter list and marks verified against the BSEH 2026-27 syllabus for Class 11 Chemistry. Topics follow the NCERT sections of the same chapter."
+      }
+    },
+    {
+      "id": "hr-11-ch05",
+      "number": 5,
+      "unitId": null,
+      "title": {
+        "en": "Thermodynamics",
+        "hi": "ऊष्मागतिकी",
+        "hiSrc": "ncert-decoded"
+      },
+      "curriculumName": null,
+      "assessment": "summative",
+      "weightage": {
+        "marks": 7,
+        "scope": "chapter"
+      },
+      "description": {
+        "en": "System and surroundings, work, heat, energy, extensive and intensive properties, state functions; first law — internal energy and enthalpy, heat capacity, measurement of ΔU and ΔH, Hess's law, enthalpies of bond dissociation, formation, combustion, atomisation, sublimation, phase change, ionisation, solution and dilution; entropy, Gibbs energy change for spontaneous and non-spontaneous processes, criteria for equilibrium; second and third laws (brief).",
+        "hi": "निकाय की अवधारणा, निकाय के प्रकार, परिवेश, कार्य, ऊष्मा, ऊर्जा, विस्तीर्ण तथा गहन गुण, अवस्था फलन; ऊष्मागतिकी का प्रथम नियम — आंतरिक ऊर्जा और एन्थैल्पी, ऊष्माधारिता, ΔU तथा ΔH का मापन, हेस का नियम, विभिन्न एन्थैल्पियाँ; एन्ट्रॉपी, स्वतः प्रवर्तित और अप्रवर्तित प्रक्रमों के लिए गिब्स ऊर्जा परिवर्तन, साम्य के मानदंड; द्वितीय तथा तृतीय नियम (संक्षिप्त परिचय)।",
+        "hiSrc": "translated"
+      },
+      "descriptionSourceId": "hr-chem-11",
+      "contentSourceId": null,
+      "topics": [
+        {
+          "id": "hr-11-ch05-t5.1",
+          "number": "5.1",
+          "title": {
+            "en": "Thermodynamic Terms",
+            "hi": "ऊष्मागतिकी के तकनीकी शब्द",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch05-t5.2",
+          "number": "5.2",
+          "title": {
+            "en": "Applications",
+            "hi": "अनुप्रयोग",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch05-t5.3",
+          "number": "5.3",
+          "title": {
+            "en": "Measurement of ΔU and ΔH: Calorimetry",
+            "hi": "ΔU एवं ΔH का मापन : कैलोरीमिति",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch05-t5.4",
+          "number": "5.4",
+          "title": {
+            "en": "Enthalpy Change, ΔrH of a Reaction – Reaction Enthalpy",
+            "hi": "अभिक्रिया के लिए एन्थैल्पी परिवर्तन, ΔrH अभिक्रिया एन्थैल्पी",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch05-t5.5",
+          "number": "5.5",
+          "title": {
+            "en": "Enthalpies for Different Types of Reactions",
+            "hi": "विभिन्न प्रकार की अभिक्रियाओं के लिए एन्थैल्पी",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch05-t5.6",
+          "number": "5.6",
+          "title": {
+            "en": "Spontaneity",
+            "hi": "स्वतःप्रवर्तिता",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch05-t5.7",
+          "number": "5.7",
+          "title": {
+            "en": "Gibbs Energy Change and Equilibrium",
+            "hi": "गिब्ज़ ऊर्जा-परिवर्तन एवं साम्यावस्था",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        }
+      ],
+      "practicalIds": [],
+      "conceptIds": [],
+      "review": {
+        "status": "verified",
+        "note": "Chapter list and marks verified against the BSEH 2026-27 syllabus for Class 11 Chemistry. Topics follow the NCERT sections of the same chapter."
+      }
+    },
+    {
+      "id": "hr-11-ch06",
+      "number": 6,
+      "unitId": null,
+      "title": {
+        "en": "Equilibrium",
+        "hi": "साम्यावस्था",
+        "hiSrc": "ncert-decoded"
+      },
+      "curriculumName": null,
+      "assessment": "summative",
+      "weightage": {
+        "marks": 7,
+        "scope": "chapter"
+      },
+      "description": {
+        "en": "Equilibrium in physical and chemical processes, dynamic nature, law of mass action, equilibrium constant, factors affecting equilibrium, Le Chatelier's principle; ionic equilibrium — ionisation of acids and bases, strong and weak electrolytes, degree of ionisation, polybasic acids, acid strength, pH, Henderson equation, hydrolysis of salts (elementary), buffer solutions, solubility product, common ion effect.",
+        "hi": "भौतिक और रासायनिक प्रक्रमों में साम्य, साम्य की गतिक प्रकृति, द्रव्य-अनुपाती क्रिया का नियम, साम्य स्थिरांक, साम्य को प्रभावित करने वाले कारक, ला शातैलिए का सिद्धांत; आयनिक साम्य — अम्लों एवं क्षारकों का आयनन, प्रबल और दुर्बल वैद्युत अपघट्य, आयनन की मात्रा, बहुक्षारकी अम्ल, अम्लीय शक्ति, pH, हेन्डरसन समीकरण, लवणों का जल-अपघटन (प्रारंभिक), बफ़र विलयन, विलेयता गुणनफल, सम-आयन प्रभाव।",
+        "hiSrc": "translated"
+      },
+      "descriptionSourceId": "hr-chem-11",
+      "contentSourceId": null,
+      "topics": [
+        {
+          "id": "hr-11-ch06-t6.1",
+          "number": "6.1",
+          "title": {
+            "en": "Equilibrium in Physical Processes",
+            "hi": "भौतिक प्रक्रमों में साम्यावस्था",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch06-t6.2",
+          "number": "6.2",
+          "title": {
+            "en": "Equilibrium in Chemical Processes – Dynamic Equilibrium",
+            "hi": "रासायनिक प्रक्रमों में साम्यावस्था — गतिक साम्य",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch06-t6.3",
+          "number": "6.3",
+          "title": {
+            "en": "Law of Chemical Equilibrium and Equilibrium Constant",
+            "hi": "रासायनिक साम्यावस्था का नियम तथा साम्यावस्था स्थिरांक",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch06-t6.4",
+          "number": "6.4",
+          "title": {
+            "en": "Homogeneous Equilibria",
+            "hi": "समांग साम्यावस्था",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch06-t6.5",
+          "number": "6.5",
+          "title": {
+            "en": "Heterogeneous Equilibria",
+            "hi": "विषमांग साम्यावस्था",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch06-t6.6",
+          "number": "6.6",
+          "title": {
+            "en": "Applications of Equilibrium Constants",
+            "hi": "साम्यावस्था स्थिरांक के अनुप्रयोग",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch06-t6.7",
+          "number": "6.7",
+          "title": {
+            "en": "Relationship between Equilibrium Constant K, Reaction Quotient Q and Gibbs Energy G",
+            "hi": "साम्यावस्था स्थिरांक K, अभिक्रिया भागफल Q तथा गिब्ज़ ऊर्जा G में संबंध",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch06-t6.8",
+          "number": "6.8",
+          "title": {
+            "en": "Factors Affecting Equilibria",
+            "hi": "साम्य को प्रभावित करने वाले कारक",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch06-t6.9",
+          "number": "6.9",
+          "title": {
+            "en": "Ionic Equilibrium in Solution",
+            "hi": "विलयन में आयनिक साम्यावस्था",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch06-t6.10",
+          "number": "6.10",
+          "title": {
+            "en": "Acids, Bases and Salts",
+            "hi": "अम्ल, क्षारक एवं लवण",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch06-t6.11",
+          "number": "6.11",
+          "title": {
+            "en": "Ionization of Acids and Bases",
+            "hi": "अम्लों एवं क्षारकों का आयनन",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch06-t6.12",
+          "number": "6.12",
+          "title": {
+            "en": "Buffer Solutions",
+            "hi": "बफ़र-विलयन",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch06-t6.13",
+          "number": "6.13",
+          "title": {
+            "en": "Solubility Equilibria of Sparingly Soluble Salts",
+            "hi": "अल्पविलेय लवणों की विलेयता साम्यावस्था",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        }
+      ],
+      "practicalIds": [],
+      "conceptIds": [],
+      "review": {
+        "status": "verified",
+        "note": "Chapter list and marks verified against the BSEH 2026-27 syllabus for Class 11 Chemistry. Topics follow the NCERT sections of the same chapter."
+      }
+    },
+    {
+      "id": "hr-11-ch07",
+      "number": 7,
+      "unitId": null,
+      "title": {
+        "en": "Redox Reactions",
+        "hi": "अपचयोपचय अभिक्रियाएँ",
+        "hiSrc": "ncert-decoded"
+      },
+      "curriculumName": null,
+      "assessment": "summative",
+      "weightage": {
+        "marks": 6,
+        "scope": "chapter"
+      },
+      "description": {
+        "en": "Concept of oxidation and reduction, redox reactions, oxidation number, balancing redox equations (electron and oxidation-number methods), applications of redox reactions.",
+        "hi": "ऑक्सीकरण और अपचयन की अवधारणा, अपचयोपचय अभिक्रियाएँ, ऑक्सीकरण संख्या, रेडॉक्स समीकरणों का संतुलन (इलेक्ट्रॉन संख्या एवं ऑक्सीकरण संख्या के आधार पर), रेडॉक्स अभिक्रियाओं के अनुप्रयोग।",
+        "hiSrc": "translated"
+      },
+      "descriptionSourceId": "hr-chem-11",
+      "contentSourceId": null,
+      "topics": [
+        {
+          "id": "hr-11-ch07-t7.1",
+          "number": "7.1",
+          "title": {
+            "en": "Classical Idea of Redox Reactions – Oxidation and Reduction Reactions",
+            "hi": "अपचयोपचय अभिक्रियाएँ",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch07-t7.2",
+          "number": "7.2",
+          "title": {
+            "en": "Redox Reactions in Terms of Electron Transfer Reactions",
+            "hi": "इलेक्ट्रॉन स्थानांतरण अभिक्रियाओं के रूप में अपचयोपचय अभिक्रियाएँ",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch07-t7.3",
+          "number": "7.3",
+          "title": {
+            "en": "Oxidation Number",
+            "hi": "ऑक्सीकरण-संख्या",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch07-t7.4",
+          "number": "7.4",
+          "title": {
+            "en": "Redox Reactions and Electrode Processes",
+            "hi": "अपचयोपचय अभिक्रियाएँ तथा इलेक्ट्रोड प्रक्रम",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        }
+      ],
+      "practicalIds": [],
+      "conceptIds": [],
+      "review": {
+        "status": "verified",
+        "note": "Chapter list and marks verified against the BSEH 2026-27 syllabus for Class 11 Chemistry. Topics follow the NCERT sections of the same chapter."
+      }
+    },
+    {
+      "id": "hr-11-ch08",
+      "number": 8,
+      "unitId": null,
+      "title": {
+        "en": "Organic Chemistry – Some Basic Principles and Techniques",
+        "hi": "कार्बनिक रसायन : कुछ आधारभूत सिद्धांत तथा तकनीकें",
+        "hiSrc": "ncert-decoded"
+      },
+      "curriculumName": null,
+      "assessment": "summative",
+      "weightage": {
+        "marks": 10,
+        "scope": "chapter"
+      },
+      "description": {
+        "en": "General introduction; purification; qualitative and quantitative analysis; classification and IUPAC nomenclature; electronic displacements — inductive, electromeric, resonance and hyperconjugation; homolytic and heterolytic fission, free radicals, carbocations, carbanions, electrophiles and nucleophiles; types of organic reactions.",
+        "hi": "सामान्य परिचय, कार्बनिक यौगिकों का शोधन, गुणात्मक और मात्रात्मक विश्लेषण, वर्गीकरण और IUPAC नाम पद्धति; सहसंयोजक आबंध में इलेक्ट्रॉनिक विस्थापन — प्रेरणिक, इलेक्ट्रोमेरी प्रभाव, अनुनाद और अतिसंयुग्मन; समांश और विषमांश विदलन, मुक्त मूलक, कार्बोकैटायन, कार्बऋणायन, इलेक्ट्रॉनस्नेही तथा नाभिकस्नेही, कार्बनिक अभिक्रियाओं के प्रकार।",
+        "hiSrc": "translated"
+      },
+      "descriptionSourceId": "hr-chem-11",
+      "contentSourceId": null,
+      "topics": [
+        {
+          "id": "hr-11-ch08-t8.1",
+          "number": "8.1",
+          "title": {
+            "en": "General Introduction",
+            "hi": "सामान्य प्रस्तावना",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch08-t8.2",
+          "number": "8.2",
+          "title": {
+            "en": "Tetravalence of Carbon: Shapes of Organic Compounds",
+            "hi": "कार्बन की चतुर्संयोजकता : कार्बनिक यौगिकों की आकृतियाँ",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch08-t8.3",
+          "number": "8.3",
+          "title": {
+            "en": "Structural Representations of Organic Compounds",
+            "hi": "कार्बनिक यौगिक का संरचनात्मक निरूपण",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch08-t8.4",
+          "number": "8.4",
+          "title": {
+            "en": "Classification of Organic Compounds",
+            "hi": "कार्बनिक यौगिकों का वर्गीकरण",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch08-t8.5",
+          "number": "8.5",
+          "title": {
+            "en": "Nomenclature of Organic Compounds",
+            "hi": "कार्बनिक यौगिकों की नामपद्धति",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch08-t8.6",
+          "number": "8.6",
+          "title": {
+            "en": "Isomerism",
+            "hi": "समावयवता",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch08-t8.7",
+          "number": "8.7",
+          "title": {
+            "en": "Fundamental Concepts in Organic Reaction Mechanism",
+            "hi": "कार्बनिक अभिक्रियाओं की क्रियाविधि में मूलभूत संकल्पनाएँ",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch08-t8.8",
+          "number": "8.8",
+          "title": {
+            "en": "Methods of Purification of Organic Compounds",
+            "hi": "कार्बनिक यौगिकों के शोधन की विधियाँ",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch08-t8.9",
+          "number": "8.9",
+          "title": {
+            "en": "Qualitative Analysis of Organic Compounds",
+            "hi": "कार्बनिक यौगिकों का गुणात्मक विश्लेषण",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch08-t8.10",
+          "number": "8.10",
+          "title": {
+            "en": "Quantitative Analysis",
+            "hi": "मात्रात्मक विश्लेषण",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        }
+      ],
+      "practicalIds": [],
+      "conceptIds": [],
+      "review": {
+        "status": "verified",
+        "note": "Chapter list and marks verified against the BSEH 2026-27 syllabus for Class 11 Chemistry. Topics follow the NCERT sections of the same chapter."
+      }
+    },
+    {
+      "id": "hr-11-ch09",
+      "number": 9,
+      "unitId": null,
+      "title": {
+        "en": "Hydrocarbons",
+        "hi": "हाइड्रोकार्बन",
+        "hiSrc": "ncert-decoded"
+      },
+      "curriculumName": null,
+      "assessment": "summative",
+      "weightage": {
+        "marks": 10,
+        "scope": "chapter"
+      },
+      "description": {
+        "en": "Classification of hydrocarbons; alkanes (nomenclature, isomerism, conformations of ethane, properties, free-radical halogenation, combustion, pyrolysis); alkenes (structure, geometrical isomerism, preparation, addition of hydrogen, halogens, water and hydrogen halides with Markovnikov's rule and peroxide effect, ozonolysis, oxidation, electrophilic addition); alkynes (structure, preparation, acidic character, addition reactions); aromatic hydrocarbons (benzene, resonance, aromaticity, electrophilic substitution — nitration, sulphonation, halogenation, Friedel–Crafts alkylation and acylation, directive influence); carcinogenicity and toxicity.",
+        "hi": "हाइड्रोकार्बनों का वर्गीकरण; ऐल्केन (नाम पद्धति, समावयवता, एथेन का संरूपण, गुणधर्म, मुक्त मूलक हैलोजनीकरण, दहन, ताप-अपघटन); ऐल्कीन (संरचना, ज्यामितीय समावयवता, विरचन, हाइड्रोजन, हैलोजन, जल और हाइड्रोजन हैलाइड का योग — मार्कोवनिकॉफ़ नियम और परॉक्साइड प्रभाव, ओज़ोनीकरण, ऑक्सीकरण, इलेक्ट्रॉनस्नेही योग); ऐल्काइन (संरचना, विरचन, अम्लीय प्रकृति, योगात्मक अभिक्रियाएँ); ऐरोमैटिक हाइड्रोकार्बन (बेंज़ीन, अनुनाद, ऐरोमैटिकता, इलेक्ट्रॉनस्नेही प्रतिस्थापन — नाइट्रीकरण, सल्फ़ोनीकरण, हैलोजनीकरण, फ़्रीडेल–क्राफ़्ट्स ऐल्किलन एवं ऐसीटिलन, निर्देशात्मक प्रभाव); कैंसरजनीयता और विषाक्तता।",
+        "hiSrc": "translated"
+      },
+      "descriptionSourceId": "hr-chem-11",
+      "contentSourceId": null,
+      "topics": [
+        {
+          "id": "hr-11-ch09-t9.1",
+          "number": "9.1",
+          "title": {
+            "en": "Classification",
+            "hi": "वर्गीकरण",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch09-t9.2",
+          "number": "9.2",
+          "title": {
+            "en": "Alkanes",
+            "hi": "एल्केन",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch09-t9.3",
+          "number": "9.3",
+          "title": {
+            "en": "Alkenes",
+            "hi": "एल्कीन",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch09-t9.4",
+          "number": "9.4",
+          "title": {
+            "en": "Alkynes",
+            "hi": "एल्काइन",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch09-t9.5",
+          "number": "9.5",
+          "title": {
+            "en": "Aromatic Hydrocarbon",
+            "hi": "ऐरोमैटिक हाइड्रोकार्बन",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "hr-11-ch09-t9.6",
+          "number": "9.6",
+          "title": {
+            "en": "Carcinogenicity and Toxicity",
+            "hi": "कैंसरजन्य गुण तथा विषाक्तता",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        }
+      ],
+      "practicalIds": [],
+      "conceptIds": [],
+      "review": {
+        "status": "verified",
+        "note": "Chapter list and marks verified against the BSEH 2026-27 syllabus for Class 11 Chemistry. Topics follow the NCERT sections of the same chapter."
+      }
+    }
+  ],
+  "practicals": [
+    {
+      "id": "hr-11-p1",
+      "number": "1",
+      "title": {
+        "en": "Basic laboratory techniques",
+        "hi": "प्रयोगशाला की मूलभूत तकनीकें",
+        "hiSrc": "translated"
+      },
+      "chapterIds": [],
+      "relatedChapterIds": [],
+      "mapping": "general",
+      "reactions": [],
+      "labId": null
+    },
+    {
+      "id": "hr-11-p2",
+      "number": "2",
+      "title": {
+        "en": "Purification of a sample of a compound by crystallisation",
+        "hi": "क्रिस्टलीकरण द्वारा किसी यौगिक के नमूने का शुद्धिकरण",
+        "hiSrc": "translated"
+      },
+      "chapterIds": [
+        "hr-11-ch08"
+      ],
+      "relatedChapterIds": [],
+      "mapping": "editorial",
+      "reactions": [],
+      "labId": null
+    },
+    {
+      "id": "hr-11-p3",
+      "number": "3",
+      "title": {
+        "en": "Study of the shift in equilibrium in the reaction of ferric ions and thiocyanate ions by increasing the concentration of any one of these ions",
+        "hi": "फ़ेरिक और थायोसायनेट आयनों में से किसी एक की सांद्रता बढ़ाकर उनकी अभिक्रिया में साम्य के विस्थापन का अध्ययन",
+        "hiSrc": "translated"
+      },
+      "chapterIds": [
+        "hr-11-ch06"
+      ],
+      "relatedChapterIds": [],
+      "mapping": "editorial",
+      "reactions": [],
+      "labId": "rx-ferric-thiocyanate"
+    },
+    {
+      "id": "hr-11-p4",
+      "number": "4",
+      "title": {
+        "en": "Determining the pH of some fruit juices",
+        "hi": "कुछ फलों के रस का pH ज्ञात करना",
+        "hiSrc": "translated"
+      },
+      "chapterIds": [
+        "hr-11-ch06"
+      ],
+      "relatedChapterIds": [],
+      "mapping": "editorial",
+      "reactions": [],
+      "labId": null
+    },
+    {
+      "id": "hr-11-p5",
+      "number": "5",
+      "title": {
+        "en": "Studying the variation in pH by the common-ion effect for weak acids and weak bases",
+        "hi": "दुर्बल अम्लों और दुर्बल क्षारकों में सम-आयन प्रभाव से pH परिवर्तन का अध्ययन",
+        "hiSrc": "translated"
+      },
+      "chapterIds": [
+        "hr-11-ch06"
+      ],
+      "relatedChapterIds": [],
+      "mapping": "editorial",
+      "reactions": [],
+      "labId": null
+    },
+    {
+      "id": "hr-11-p6",
+      "number": "6",
+      "title": {
+        "en": "Determining the concentration (strength) of a given sodium hydroxide solution by titrating it against a standard solution of oxalic acid",
+        "hi": "मानक ऑक्सैलिक अम्ल विलयन के विरुद्ध अनुमापन द्वारा दिए गए सोडियम हाइड्रॉक्साइड विलयन की सांद्रता (प्रबलता) ज्ञात करना",
+        "hiSrc": "translated"
+      },
+      "chapterIds": [
+        "hr-11-ch01"
+      ],
+      "relatedChapterIds": [],
+      "mapping": "editorial",
+      "reactions": [],
+      "labId": "oxalic_acid_titration"
+    },
+    {
+      "id": "hr-11-p7",
+      "number": "7",
+      "title": {
+        "en": "Determining the strength of a given solution of dilute hydrochloric acid by titrating it against a standard solution of sodium carbonate",
+        "hi": "मानक सोडियम कार्बोनेट विलयन के विरुद्ध अनुमापन द्वारा दिए गए तनु हाइड्रोक्लोरिक अम्ल विलयन की प्रबलता ज्ञात करना",
+        "hiSrc": "translated"
+      },
+      "chapterIds": [
+        "hr-11-ch01"
+      ],
+      "relatedChapterIds": [],
+      "mapping": "editorial",
+      "reactions": [],
+      "labId": "hcl_sodium_carbonate_titration"
+    },
+    {
+      "id": "hr-11-p8",
+      "number": "8",
+      "title": {
+        "en": "Detecting one cation and one anion in a given salt (insoluble salts excluded)",
+        "hi": "दिए गए लवण में एक धनायन और एक ऋणायन का परीक्षण (अविलेय लवण छोड़कर)",
+        "hiSrc": "translated"
+      },
+      "chapterIds": [],
+      "relatedChapterIds": [],
+      "mapping": "general",
+      "reactions": [],
+      "labId": null
+    }
+  ]
+}

@@ -1,0 +1,753 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "note-cbse-11-ch08-t8.1",
+      "targetId": "cbse-11-ch08-t8.1",
+      "covers": [],
+      "definition": {
+        "en": "Organic chemistry is the chemistry of carbon compounds (other than a few such as carbonates and oxides of carbon).",
+        "hi": "कार्बनिक रसायन कार्बन यौगिकों का रसायन है (कार्बोनेट और कार्बन के ऑक्साइड जैसे कुछ को छोड़कर)।"
+      },
+      "explanation": {
+        "en": "Berzelius believed organic compounds needed a 'vital force' from living organisms. In 1828 Wöhler made urea (an organic compound) from ammonium cyanate, an inorganic compound; Kolbe (acetic acid) and Berthelot (methane) followed, ending the vital force theory.",
+        "hi": "बर्ज़ीलियस मानते थे कि कार्बनिक यौगिकों के लिए सजीवों की 'प्राण शक्ति' चाहिए। 1828 में वोलर ने अकार्बनिक यौगिक अमोनियम सायनेट से यूरिया (कार्बनिक यौगिक) बनाया; फिर कोल्बे (ऐसीटिक अम्ल) और बर्थेलो (मेथेन) ने भी — और प्राण शक्ति सिद्धांत समाप्त हुआ।"
+      },
+      "keyPoints": [
+        {
+          "en": "NH₄CNO → (heat) NH₂CONH₂.",
+          "hi": "NH₄CNO → (ऊष्मा) NH₂CONH₂।"
+        }
+      ],
+      "realLife": {
+        "en": "Medicines, plastics, dyes and fuels are mostly organic compounds made synthetically today.",
+        "hi": "दवाएँ, प्लास्टिक, रंजक और ईंधन — अधिकतर आज संश्लेषित कार्बनिक यौगिक हैं।"
+      },
+      "examFocus": {
+        "en": "State Wöhler's synthesis and its significance.",
+        "hi": "वोलर का संश्लेषण और उसका महत्व।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Thinking organic compounds can only come from living things.",
+          "hi": "यह सोचना कि कार्बनिक यौगिक केवल सजीवों से ही मिल सकते हैं।"
+        }
+      ],
+      "formulas": [
+        "NH₄CNO → NH₂CONH₂"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "organic-basics"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "8.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "quickRevision": {
+        "oneLine": {
+          "en": "Organic chemistry = chemistry of carbon compounds; Wöhler made urea from an inorganic salt.",
+          "hi": "कार्बनिक रसायन = कार्बन यौगिकों का रसायन; व्होलर ने अकार्बनिक लवण से यूरिया बनाया।"
+        },
+        "formula": "NH₄CNO → NH₂CONH₂",
+        "points": [
+          {
+            "en": "This disproved the vital force theory.",
+            "hi": "इसने प्राणशक्ति सिद्धांत का खंडन किया।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch08-t8.2",
+      "targetId": "cbse-11-ch08-t8.2",
+      "covers": [],
+      "definition": {
+        "en": "Carbon is tetravalent and its hybridisation decides the shape of organic molecules: sp³ tetrahedral (CH₄), sp² trigonal planar (C₂H₄), sp linear (C₂H₂).",
+        "hi": "कार्बन चतुःसंयोजी है और उसका संकरण कार्बनिक अणुओं की आकृति तय करता है: sp³ चतुष्फलकीय (CH₄), sp² त्रिकोणीय समतलीय (C₂H₄), sp रैखिक (C₂H₂)।"
+      },
+      "explanation": {
+        "en": "More s-character makes a carbon more electronegative and its bonds shorter: sp (50% s) > sp² (33%) > sp³ (25%). A π bond requires parallel p orbitals, so in ethene all six atoms lie in one plane; the π electrons are easily available to reagents, which is why multiple bonds are reactive centres.",
+        "hi": "अधिक s-लक्षण कार्बन को अधिक विद्युत-ऋणात्मक और आबंधों को छोटा बनाता है: sp (50% s) > sp² (33%) > sp³ (25%)। π आबंध के लिए समांतर p कक्षक चाहिए, अतः एथीन के छहों परमाणु एक तल में होते हैं; π इलेक्ट्रॉन अभिकर्मकों को आसानी से उपलब्ध होते हैं, इसलिए बहु-आबंध क्रियाशील केंद्र होते हैं।"
+      },
+      "keyPoints": [
+        {
+          "en": "C–C bond lengths: C≡C < C=C < C–C.",
+          "hi": "C–C आबंध लंबाई: C≡C < C=C < C–C।"
+        }
+      ],
+      "realLife": {
+        "en": "The planar sp² rings of graphene and benzene give them special electronic properties.",
+        "hi": "ग्रैफ़ीन और बेंज़ीन के समतलीय sp² वलय उन्हें विशेष इलेक्ट्रॉनिक गुण देते हैं।"
+      },
+      "examFocus": {
+        "en": "Identify hybridisation of each carbon in a structure.",
+        "hi": "संरचना में प्रत्येक कार्बन का संकरण पहचानना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Calling the carbon of a C=O group sp³ — it is sp².",
+          "hi": "C=O समूह के कार्बन को sp³ कहना — यह sp² है।"
+        }
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": [
+        "organic-basics",
+        "vsepr-and-hybridisation"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "8.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Count the atoms on carbon: 4 → sp³, 3 → sp², 2 → sp\"",
+            "hi": "\"कार्बन से जुड़े परमाणु गिनें: 4 → sp³, 3 → sp², 2 → sp\""
+          },
+          "recall": {
+            "en": "A carbon bonded to four atoms is sp³ (tetrahedral, 109.5°), to three atoms sp² (trigonal planar, 120°) and to two atoms sp (linear, 180°). Each double bond or triple bond counts as one attached atom.",
+            "hi": "चार परमाणुओं से जुड़ा कार्बन sp³ (चतुष्फलकीय, 109.5°), तीन से जुड़ा sp² (त्रिकोणीय समतलीय, 120°) और दो से जुड़ा sp (रैखिक, 180°) होता है। प्रत्येक द्वि या त्रि आबंध एक जुड़े परमाणु के रूप में गिना जाता है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Carbon is tetravalent; sp³ tetrahedral, sp² trigonal planar, sp linear.",
+          "hi": "कार्बन चतुःसंयोजी है; sp³ चतुष्फलकीय, sp² त्रिकोणीय समतली, sp रैखिक।"
+        },
+        "points": [
+          {
+            "en": "More s-character → shorter, stronger bond and more electronegative carbon.",
+            "hi": "अधिक s-लक्षण → छोटा, प्रबल आबंध और अधिक विद्युत-ऋणात्मक कार्बन।"
+          },
+          {
+            "en": "C≡C < C=C < C–C in bond length.",
+            "hi": "आबंध लंबाई में C≡C < C=C < C–C।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch08-t8.3",
+      "targetId": "cbse-11-ch08-t8.3",
+      "covers": [],
+      "definition": {
+        "en": "Organic structures are drawn as complete structural formulas, condensed formulas (CH₃CH₂OH) or bond-line formulas (zig-zag lines with carbon at each corner and end), and in three dimensions with wedge-and-dash projections.",
+        "hi": "कार्बनिक संरचनाएँ पूर्ण संरचना सूत्र, संघनित सूत्र (CH₃CH₂OH) या आबंध-रेखा सूत्र (टेढ़ी-मेढ़ी रेखाएँ, हर कोने और सिरे पर कार्बन) के रूप में तथा त्रिविमीय रूप में वेज-डैश प्रक्षेप से दर्शाई जाती हैं।"
+      },
+      "explanation": {
+        "en": "In bond-line formulas hydrogens on carbon are not shown; heteroatoms and their hydrogens are written. A solid wedge points towards the viewer, a dashed wedge away from the viewer.",
+        "hi": "आबंध-रेखा सूत्रों में कार्बन पर हाइड्रोजन नहीं दिखाते; विषमपरमाणु और उनके हाइड्रोजन लिखे जाते हैं। ठोस वेज दर्शक की ओर, डैश वेज दर्शक से दूर।"
+      },
+      "keyPoints": [
+        {
+          "en": "Each line end and corner in a bond-line formula is a carbon.",
+          "hi": "आबंध-रेखा सूत्र का हर सिरा और कोना कार्बन है।"
+        }
+      ],
+      "realLife": {
+        "en": "Drug and natural-product structures are published in bond-line form worldwide.",
+        "hi": "दवाओं और प्राकृतिक उत्पादों की संरचनाएँ पूरे विश्व में आबंध-रेखा रूप में प्रकाशित होती हैं।"
+      },
+      "examFocus": {
+        "en": "Convert between structural, condensed and bond-line formulas.",
+        "hi": "संरचना, संघनित और आबंध-रेखा सूत्रों में रूपांतरण।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Forgetting implicit hydrogens when counting atoms in a bond-line formula.",
+          "hi": "आबंध-रेखा सूत्र में परमाणु गिनते समय अंतर्निहित हाइड्रोजन भूल जाना।"
+        }
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": [
+        "organic-basics"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "8.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "quickRevision": {
+        "oneLine": {
+          "en": "Structures: complete, condensed, bond-line and 3-D wedge–dash formulas.",
+          "hi": "संरचनाएँ: पूर्ण, संघनित, आबंध-रेखा और त्रिविम वेज–डैश सूत्र।"
+        },
+        "points": [
+          {
+            "en": "Every corner and line end in a bond-line formula is a carbon.",
+            "hi": "आबंध-रेखा सूत्र में हर कोना और रेखा का सिरा एक कार्बन है।"
+          },
+          {
+            "en": "Wedge = towards viewer; dash = away from viewer.",
+            "hi": "वेज = देखने वाले की ओर; डैश = देखने वाले से दूर।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch08-t8.4",
+      "targetId": "cbse-11-ch08-t8.4",
+      "covers": [],
+      "definition": {
+        "en": "Organic compounds are classified as acyclic (open chain) or cyclic (alicyclic, aromatic — benzenoid and non-benzenoid, heterocyclic), and further by functional groups into homologous series.",
+        "hi": "कार्बनिक यौगिक अचक्रीय (विवृत शृंखला) या चक्रीय (ऐलिसाइक्लिक, ऐरोमैटिक — बेंज़ीनॉइड और अबेंज़ीनॉइड, विषमचक्रीय) में वर्गीकृत होते हैं, और फिर प्रकार्यात्मक समूहों द्वारा समजातीय श्रेणियों में।"
+      },
+      "explanation": {
+        "en": "A functional group (–OH, –CHO, >C=O, –COOH, –NH₂, –X) decides the characteristic reactions. Members of a homologous series differ by –CH₂– and share a general formula and similar chemical properties. Furan, thiophene and pyridine are heterocyclic aromatic compounds.",
+        "hi": "प्रकार्यात्मक समूह (–OH, –CHO, >C=O, –COOH, –NH₂, –X) विशिष्ट अभिक्रियाएँ तय करता है। समजातीय श्रेणी के सदस्य –CH₂– से भिन्न होते हैं, उनका सामान्य सूत्र और रासायनिक गुण समान होते हैं। फ़्यूरान, थायोफ़ीन और पिरिडीन विषमचक्रीय ऐरोमैटिक यौगिक हैं।"
+      },
+      "keyPoints": [
+        {
+          "en": "Tropolone is a non-benzenoid aromatic compound.",
+          "hi": "ट्रोपोलोन अबेंज़ीनॉइड ऐरोमैटिक यौगिक है।"
+        }
+      ],
+      "realLife": {
+        "en": "Pyridine and furan rings appear in vitamins and medicines.",
+        "hi": "पिरिडीन और फ़्यूरान वलय विटामिनों और दवाओं में पाए जाते हैं।"
+      },
+      "examFocus": {
+        "en": "Classify given structures and identify functional groups.",
+        "hi": "दी गई संरचनाओं का वर्गीकरण और प्रकार्यात्मक समूहों की पहचान।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Calling cyclohexane aromatic — it is alicyclic.",
+          "hi": "साइक्लोहेक्सेन को ऐरोमैटिक कहना — यह ऐलिसाइक्लिक है।"
+        }
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": [
+        "organic-basics",
+        "functional-groups-and-nomenclature",
+        "homologous-series"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "8.4"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "quickRevision": {
+        "oneLine": {
+          "en": "Organic compounds: acyclic or cyclic (alicyclic, aromatic, heterocyclic), grouped by functional groups.",
+          "hi": "कार्बनिक यौगिक: विवृत शृंखला या चक्रीय (ऐलिसाइक्लिक, ऐरोमैटिक, विषमचक्रीय), क्रियात्मक समूहों से वर्गीकृत।"
+        },
+        "points": [
+          {
+            "en": "A homologous series differs by –CH₂– in successive members.",
+            "hi": "समजातीय श्रेणी के क्रमागत सदस्य –CH₂– से भिन्न।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch08-t8.5",
+      "targetId": "cbse-11-ch08-t8.5",
+      "covers": [],
+      "definition": {
+        "en": "IUPAC nomenclature names a compound from its longest carbon chain (word root), the suffix of its principal functional group, and prefixes for substituents with lowest-locant numbering.",
+        "hi": "IUPAC नामपद्धति यौगिक का नाम उसकी सबसे लंबी कार्बन शृंखला (शब्द मूल), मुख्य प्रकार्यात्मक समूह के प्रत्यय, और न्यूनतम स्थान-संख्या वाले प्रतिस्थापियों के उपसर्गों से रखती है।"
+      },
+      "explanation": {
+        "en": "Steps: choose the longest chain containing the principal group; number from the end giving the lowest locants (to the functional group first, then multiple bonds, then substituents); list substituents alphabetically with di-, tri- for repeats. Priority of groups: –COOH > –SO₃H > –COOR > –COCl > –CONH₂ > –CN > –CHO > >C=O > –OH > –NH₂ > C=C > C≡C. Halogens, –NO₂ and –OR are always prefixes. Benzene derivatives use ortho/meta/para or numbers.",
+        "hi": "चरण: मुख्य समूह वाली सबसे लंबी शृंखला चुनें; उस सिरे से क्रमांकित करें जिससे स्थान-संख्याएँ न्यूनतम हों (पहले प्रकार्यात्मक समूह, फिर बहु-आबंध, फिर प्रतिस्थापी); प्रतिस्थापी वर्णानुक्रम में, दोहराव के लिए डाइ-, ट्राइ-। समूहों की प्राथमिकता: –COOH > –SO₃H > –COOR > –COCl > –CONH₂ > –CN > –CHO > >C=O > –OH > –NH₂ > C=C > C≡C। हैलोजन, –NO₂ और –OR सदैव उपसर्ग होते हैं। बेंज़ीन व्युत्पन्नों में ऑर्थो/मेटा/पैरा या संख्याएँ।"
+      },
+      "keyPoints": [
+        {
+          "en": "CH₃CH(OH)CH₃ is propan-2-ol; CH₂=CHCHO is prop-2-enal.",
+          "hi": "CH₃CH(OH)CH₃ प्रोपेन-2-ऑल; CH₂=CHCHO प्रोप-2-ईनैल।"
+        }
+      ],
+      "realLife": {
+        "en": "Systematic names on reagent bottles avoid dangerous confusions between similar compounds.",
+        "hi": "अभिकर्मक बोतलों पर व्यवस्थित नाम मिलते-जुलते यौगिकों में ख़तरनाक भ्रम से बचाते हैं।"
+      },
+      "examFocus": {
+        "en": "Name given structures and draw structures from names, including polyfunctional compounds.",
+        "hi": "दी गई संरचनाओं के नाम और नामों से संरचनाएँ, बहुप्रकार्यात्मक यौगिकों सहित।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Numbering to give substituents lower locants than the principal functional group.",
+          "hi": "मुख्य प्रकार्यात्मक समूह के बजाय प्रतिस्थापियों को कम स्थान-संख्या देना।"
+        }
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": [
+        "functional-groups-and-nomenclature"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "8.5"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "Word roots C1–C5: \"Me Eat Peanut Butter Pancakes\" (meth, eth, prop, but, pent)",
+            "hi": "C1–C5 के मूल शब्द: \"Me Eat Peanut Butter Pancakes\" (मेथ, एथ, प्रोप, ब्यूट, पेन्ट)"
+          },
+          "recall": {
+            "en": "meth = 1 C, eth = 2, prop = 3, but = 4, pent = 5 carbons in the parent chain.",
+            "hi": "जनक शृंखला में मेथ = 1 C, एथ = 2, प्रोप = 3, ब्यूट = 4, पेन्ट = 5 कार्बन।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "IUPAC name = prefixes + word root + primary suffix + secondary suffix, lowest locants.",
+          "hi": "IUPAC नाम = पूर्वलग्न + मूल शब्द + प्राथमिक अनुलग्न + द्वितीयक अनुलग्न, न्यूनतम स्थान-संख्या।"
+        },
+        "points": [
+          {
+            "en": "Principal functional group gets the lowest number.",
+            "hi": "मुख्य क्रियात्मक समूह को न्यूनतम संख्या।"
+          },
+          {
+            "en": "Substituent prefixes are listed alphabetically.",
+            "hi": "प्रतिस्थापी पूर्वलग्न वर्णानुक्रम में।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch08-t8.6",
+      "targetId": "cbse-11-ch08-t8.6",
+      "covers": [],
+      "definition": {
+        "en": "Isomers have the same molecular formula but different structures (structural isomerism) or different spatial arrangements (stereoisomerism).",
+        "hi": "समावयवों का आणविक सूत्र समान पर संरचना भिन्न (संरचनात्मक समावयवता) या स्थानिक व्यवस्था भिन्न (त्रिविम समावयवता) होती है।"
+      },
+      "explanation": {
+        "en": "Structural isomerism types: chain (pentane, isopentane, neopentane), position (propan-1-ol and propan-2-ol), functional group (C₂H₆O: ethanol and methoxymethane) and metamerism (unequal alkyl groups around a functional group: diethyl ether and methyl propyl ether). Stereoisomerism includes geometrical and optical isomerism.",
+        "hi": "संरचनात्मक समावयवता के प्रकार: शृंखला (पेंटेन, आइसोपेंटेन, नियोपेंटेन), स्थिति (प्रोपेन-1-ऑल और प्रोपेन-2-ऑल), प्रकार्यात्मक समूह (C₂H₆O: एथनॉल और मेथॉक्सीमेथेन) तथा मध्यावयवता (प्रकार्यात्मक समूह के दोनों ओर असमान ऐल्किल समूह: डाइएथिल ईथर और मेथिल प्रोपिल ईथर)। त्रिविम समावयवता में ज्यामितीय और प्रकाशिक समावयवता आती हैं।"
+      },
+      "keyPoints": [
+        {
+          "en": "Pentane (C₅H₁₂) has three chain isomers.",
+          "hi": "पेंटेन (C₅H₁₂) के तीन शृंखला समावयव हैं।"
+        }
+      ],
+      "realLife": {
+        "en": "Ethanol and dimethyl ether have the same formula but one is a drink solvent and the other a gas.",
+        "hi": "एथनॉल और डाइमेथिल ईथर का सूत्र समान है पर एक विलायक द्रव है और दूसरा गैस।"
+      },
+      "examFocus": {
+        "en": "Identify the type of isomerism between given pairs; draw isomers.",
+        "hi": "दिए गए युग्मों में समावयवता का प्रकार पहचानना; समावयव बनाना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Calling the same molecule drawn differently an isomer.",
+          "hi": "भिन्न ढंग से बनाए गए एक ही अणु को समावयव कहना।"
+        }
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": [
+        "organic-basics"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "8.6"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "quickRevision": {
+        "oneLine": {
+          "en": "Isomers: same molecular formula, different structure (structural) or spatial arrangement (stereo).",
+          "hi": "समावयवी: समान आणविक सूत्र, भिन्न संरचना (संरचनात्मक) या स्थानिक व्यवस्था (त्रिविम)।"
+        },
+        "points": [
+          {
+            "en": "Structural: chain, position, functional group, metamerism.",
+            "hi": "संरचनात्मक: शृंखला, स्थिति, क्रियात्मक समूह, मध्यावयवता।"
+          },
+          {
+            "en": "C₅H₁₂ has three chain isomers.",
+            "hi": "C₅H₁₂ के तीन शृंखला समावयवी।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch08-t8.7",
+      "targetId": "cbse-11-ch08-t8.7",
+      "covers": [],
+      "definition": {
+        "en": "Organic reaction mechanisms describe how bonds break and form. Covalent bonds break homolytically (giving free radicals) or heterolytically (giving carbocations and carbanions); reagents are nucleophiles (electron-rich) or electrophiles (electron-poor).",
+        "hi": "कार्बनिक अभिक्रिया क्रियाविधियाँ बताती हैं कि आबंध कैसे टूटते और बनते हैं। सहसंयोजी आबंध समांश विखंडन (मुक्त मूलक) या विषमांश विखंडन (कार्बधनायन और कार्बऋणायन) से टूटते हैं; अभिकर्मक नाभिकस्नेही (इलेक्ट्रॉन-समृद्ध) या इलेक्ट्रॉनस्नेही (इलेक्ट्रॉन-न्यून) होते हैं।"
+      },
+      "explanation": {
+        "en": "Carbocation stability: 3° > 2° > 1° > methyl (due to inductive effect and hyperconjugation); free radicals follow the same order. Electron displacement effects: inductive effect (permanent, through σ bonds; −I by –NO₂, –CN, halogens; +I by alkyl groups), resonance/mesomeric effect (+R: –OH, –NH₂; −R: –NO₂, –CHO), electromeric effect (temporary, at multiple bonds, only in the presence of a reagent) and hyperconjugation (σ–π delocalisation of C–H bonds adjacent to a carbocation or double bond). Reaction types: substitution, addition, elimination, rearrangement.",
+        "hi": "कार्बधनायन स्थायित्व: 3° > 2° > 1° > मेथिल (प्रेरणिक प्रभाव और अतिसंयुग्मन के कारण); मुक्त मूलकों का भी यही क्रम। इलेक्ट्रॉन विस्थापन प्रभाव: प्रेरणिक प्रभाव (स्थायी, σ आबंधों से; −I: –NO₂, –CN, हैलोजन; +I: ऐल्किल समूह), अनुनाद/मेसोमेरी प्रभाव (+R: –OH, –NH₂; −R: –NO₂, –CHO), इलेक्ट्रोमेरी प्रभाव (अस्थायी, बहु-आबंध पर, केवल अभिकर्मक की उपस्थिति में) और अतिसंयुग्मन (कार्बधनायन या द्विआबंध के निकट C–H आबंधों का σ–π विस्थानीकरण)। अभिक्रिया प्रकार: प्रतिस्थापन, संकलन, विलोपन, पुनर्विन्यास।"
+      },
+      "keyPoints": [
+        {
+          "en": "Nucleophiles: OH⁻, CN⁻, NH₃, H₂O. Electrophiles: H⁺, NO₂⁺, carbocations, BF₃.",
+          "hi": "नाभिकस्नेही: OH⁻, CN⁻, NH₃, H₂O। इलेक्ट्रॉनस्नेही: H⁺, NO₂⁺, कार्बधनायन, BF₃।"
+        },
+        {
+          "en": "Curved arrows show the movement of an electron pair (half-headed arrows for single electrons).",
+          "hi": "वक्र तीर इलेक्ट्रॉन युग्म की गति दर्शाते हैं (एकल इलेक्ट्रॉन के लिए अर्ध-शीर्ष तीर)।"
+        }
+      ],
+      "realLife": {
+        "en": "Understanding mechanisms lets chemists design drug syntheses with fewer side products.",
+        "hi": "क्रियाविधियों की समझ से रसायनज्ञ कम अवांछित उत्पादों वाले दवा-संश्लेषण बनाते हैं।"
+      },
+      "examFocus": {
+        "en": "Order carbocation stability; classify reagents; explain each electronic effect with examples.",
+        "hi": "कार्बधनायन स्थायित्व का क्रम; अभिकर्मकों का वर्गीकरण; उदाहरण सहित प्रत्येक इलेक्ट्रॉनिक प्रभाव।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Confusing the permanent inductive effect with the temporary electromeric effect.",
+          "hi": "स्थायी प्रेरणिक प्रभाव को अस्थायी इलेक्ट्रोमेरी प्रभाव से मिलाना।"
+        }
+      ],
+      "formulas": [
+        "3° > 2° > 1° > CH₃⁺ (carbocation stability)"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "organic-reaction-mechanism"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "8.7"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Nucleophile loves Nucleus (+); Electrophile loves Electrons (−)\"",
+            "hi": "\"नाभिकस्नेही नाभिक (+) से प्रेम करता है; इलेक्ट्रॉनस्नेही इलेक्ट्रॉनों (−) से\""
+          },
+          "recall": {
+            "en": "Nucleophiles (OH⁻, CN⁻, NH₃) attack electron-poor centres; electrophiles (H⁺, NO₂⁺, BF₃) attack electron-rich centres.",
+            "hi": "नाभिकस्नेही (OH⁻, CN⁻, NH₃) इलेक्ट्रॉन-न्यून केंद्रों पर और इलेक्ट्रॉनस्नेही (H⁺, NO₂⁺, BF₃) इलेक्ट्रॉन-समृद्ध केंद्रों पर आक्रमण करते हैं।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Bonds break homolytically (radicals) or heterolytically (carbocations, carbanions).",
+          "hi": "आबंध समांश (मुक्त मूलक) या विषमांश (कार्बधनायन, कार्बऋणायन) रूप से टूटते हैं।"
+        },
+        "formula": "3° > 2° > 1° > CH₃⁺ (carbocation stability)",
+        "points": [
+          {
+            "en": "Nucleophiles are electron-rich; electrophiles are electron-poor.",
+            "hi": "नाभिकस्नेही इलेक्ट्रॉन-समृद्ध; इलेक्ट्रॉनस्नेही इलेक्ट्रॉन-न्यून।"
+          },
+          {
+            "en": "Inductive, resonance, electromeric effects and hyperconjugation shift electrons.",
+            "hi": "प्रेरणिक, अनुनाद, इलेक्ट्रोमेरी प्रभाव और अतिसंयुग्मन इलेक्ट्रॉनों को खिसकाते हैं।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch08-t8.8",
+      "targetId": "cbse-11-ch08-t8.8",
+      "covers": [],
+      "definition": {
+        "en": "Organic compounds are purified by sublimation, crystallisation, distillation (simple, fractional, under reduced pressure, steam), differential extraction and chromatography; purity is checked by melting or boiling point.",
+        "hi": "कार्बनिक यौगिकों का शोधन ऊर्ध्वपातन, क्रिस्टलीकरण, आसवन (सरल, प्रभाजी, निम्न दाब पर, भाप), विभेदी निष्कर्षण और वर्णलेखन से होता है; शुद्धता गलनांक या क्वथनांक से जाँची जाती है।"
+      },
+      "explanation": {
+        "en": "Fractional distillation separates liquids with close boiling points (crude oil); distillation under reduced pressure purifies liquids that decompose at their boiling point (glycerol from soap waste); steam distillation separates steam-volatile, water-immiscible substances (aniline from water). Differential extraction uses a solvent in which the compound is more soluble. Chromatography: adsorption (column, TLC with Rf = distance moved by substance ÷ distance moved by solvent) and partition (paper chromatography).",
+        "hi": "प्रभाजी आसवन निकट क्वथनांक वाले द्रव अलग करता है (कच्चा तेल); निम्न दाब पर आसवन उन द्रवों का शोधन करता है जो क्वथनांक पर अपघटित होते हैं (साबुन अपशिष्ट से ग्लिसरॉल); भाप आसवन भाप-वाष्पशील, जल-अमिश्रणीय पदार्थ अलग करता है (जल से ऐनिलीन)। विभेदी निष्कर्षण में वह विलायक लेते हैं जिसमें यौगिक अधिक घुलता है। वर्णलेखन: अधिशोषण (कॉलम, TLC — Rf = पदार्थ द्वारा चली दूरी ÷ विलायक द्वारा चली दूरी) और वितरण (कागज़ वर्णलेखन)।"
+      },
+      "keyPoints": [
+        {
+          "en": "A pure solid has a sharp melting point.",
+          "hi": "शुद्ध ठोस का गलनांक तीक्ष्ण होता है।"
+        }
+      ],
+      "realLife": {
+        "en": "Pharmaceutical quality control uses TLC and melting points to confirm purity.",
+        "hi": "औषधि गुणवत्ता नियंत्रण में शुद्धता की पुष्टि के लिए TLC और गलनांक प्रयुक्त होते हैं।"
+      },
+      "examFocus": {
+        "en": "Choose a suitable purification method and justify; calculate Rf.",
+        "hi": "उपयुक्त शोधन विधि चुनकर कारण बताना; Rf की गणना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Writing Rf as solvent distance ÷ substance distance (it is always ≤ 1).",
+          "hi": "Rf को विलायक दूरी ÷ पदार्थ दूरी लिखना (यह सदैव ≤ 1 होता है)।"
+        }
+      ],
+      "formulas": [
+        "Rf = distance moved by substance ÷ distance moved by solvent front"
+      ],
+      "practicalIds": [
+        "cbse-11-pB"
+      ],
+      "conceptIds": [
+        "purification-and-analysis",
+        "distillation",
+        "crystallisation",
+        "paper-chromatography"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "8.8"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Rf = Substance ÷ Solvent — the front always wins\"",
+            "hi": "\"Rf = पदार्थ ÷ विलायक — विलायक अग्र सदैव आगे\""
+          },
+          "recall": {
+            "en": "Rf = distance moved by the substance ÷ distance moved by the solvent front. The solvent front always travels farthest, so Rf is never more than 1.",
+            "hi": "Rf = पदार्थ द्वारा चली दूरी ÷ विलायक अग्र द्वारा चली दूरी। विलायक अग्र सदैव सबसे अधिक दूरी तय करता है, इसलिए Rf कभी 1 से अधिक नहीं होता।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Purify by sublimation, crystallisation, distillation, extraction or chromatography; check by sharp m.p.",
+          "hi": "ऊर्ध्वपातन, क्रिस्टलन, आसवन, निष्कर्षण या वर्णलेखन से शोधन; तीक्ष्ण गलनांक से जाँच।"
+        },
+        "formula": "Rf = distance moved by substance ÷ distance moved by solvent front",
+        "points": [
+          {
+            "en": "Steam distillation: steam-volatile, water-immiscible compounds (aniline).",
+            "hi": "भाप आसवन: भाप-वाष्पशील, जल-अमिश्रणीय यौगिक (ऐनिलीन)।"
+          },
+          {
+            "en": "Fractional distillation: liquids with close boiling points.",
+            "hi": "प्रभाजी आसवन: निकट क्वथनांक वाले द्रव।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch08-t8.9",
+      "targetId": "cbse-11-ch08-t8.9",
+      "covers": [],
+      "definition": {
+        "en": "Qualitative analysis detects the elements in an organic compound: carbon and hydrogen (heating with CuO) and nitrogen, sulphur and halogens (Lassaigne's sodium fusion test).",
+        "hi": "गुणात्मक विश्लेषण कार्बनिक यौगिक के तत्वों का पता लगाता है: कार्बन और हाइड्रोजन (CuO के साथ गरम करके) तथा नाइट्रोजन, सल्फ़र और हैलोजन (लैसेने सोडियम संगलन परीक्षण)।"
+      },
+      "explanation": {
+        "en": "C forms CO₂ (lime water turns milky); H forms H₂O (anhydrous CuSO₄ turns blue). In sodium fusion, N, S and X form NaCN, Na₂S and NaX. Nitrogen: extract + FeSO₄, boil, acidify → Prussian blue (Fe₄[Fe(CN)₆]₃). Sulphur: sodium nitroprusside gives violet colour, or lead acetate gives a black PbS precipitate. If both N and S are present, blood-red colour (Fe(SCN)²⁺). Halogens: acidify with HNO₃ (boil off CN⁻/S²⁻ first), add AgNO₃ — white AgCl soluble in NH₄OH, pale yellow AgBr sparingly soluble, yellow AgI insoluble. Phosphorus: ammonium molybdate gives a yellow precipitate.",
+        "hi": "C से CO₂ (चूने का पानी दूधिया); H से H₂O (निर्जल CuSO₄ नीला)। सोडियम संगलन में N, S और X से NaCN, Na₂S और NaX बनते हैं। नाइट्रोजन: निष्कर्ष + FeSO₄, उबालें, अम्लीकृत करें → प्रशियन नीला (Fe₄[Fe(CN)₆]₃)। सल्फ़र: सोडियम नाइट्रोप्रुसाइड से बैंगनी रंग, या लेड ऐसीटेट से काला PbS अवक्षेप। N और S दोनों हों तो रक्त-लाल रंग (Fe(SCN)²⁺)। हैलोजन: HNO₃ से अम्लीकृत करें (पहले CN⁻/S²⁻ को उबालकर हटाएँ), AgNO₃ डालें — सफ़ेद AgCl, NH₄OH में घुलनशील; हल्का पीला AgBr, अल्प घुलनशील; पीला AgI, अघुलनशील। फ़ॉस्फ़ोरस: अमोनियम मॉलिब्डेट से पीला अवक्षेप।"
+      },
+      "keyPoints": [
+        {
+          "en": "Boiling with HNO₃ before the halogen test removes CN⁻ and S²⁻ that would otherwise interfere.",
+          "hi": "हैलोजन परीक्षण से पहले HNO₃ के साथ उबालने से बाधक CN⁻ और S²⁻ हट जाते हैं।"
+        }
+      ],
+      "realLife": {
+        "en": "Forensic and pharmaceutical labs still use element tests as quick first checks.",
+        "hi": "फ़ोरेंसिक और औषधि प्रयोगशालाएँ अब भी त्वरित प्रारंभिक जाँच के लिए तत्व परीक्षण करती हैं।"
+      },
+      "examFocus": {
+        "en": "Describe the Lassaigne tests with colours and reasons; why HNO₃ is added.",
+        "hi": "रंगों और कारणों सहित लैसेने परीक्षणों का वर्णन; HNO₃ क्यों मिलाया जाता है।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Using H₂SO₄ instead of HNO₃ before the silver nitrate test — sulphate would precipitate with Ag⁺.",
+          "hi": "सिल्वर नाइट्रेट परीक्षण से पहले HNO₃ के स्थान पर H₂SO₄ लेना — सल्फ़ेट Ag⁺ के साथ अवक्षेपित होगा।"
+        }
+      ],
+      "formulas": [
+        "Na + C + N → NaCN",
+        "6CN⁻ + Fe²⁺ → [Fe(CN)₆]⁴⁻",
+        "3[Fe(CN)₆]⁴⁻ + 4Fe³⁺ → Fe₄[Fe(CN)₆]₃ (Prussian blue)"
+      ],
+      "practicalIds": [
+        "cbse-11-pF2"
+      ],
+      "conceptIds": [
+        "purification-and-analysis"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "8.9"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"N → Prussian blue, S → violet, N + S → blood red\"",
+            "hi": "\"N → प्रशियन नीला, S → बैंगनी, N + S → रक्त-लाल\""
+          },
+          "recall": {
+            "en": "Lassaigne's extract: nitrogen gives Prussian blue with FeSO₄ and acid; sulphur gives a violet colour with sodium nitroprusside; when both are present, Fe³⁺ gives a blood-red colour (Fe(SCN)²⁺).",
+            "hi": "लैसेने निष्कर्ष: नाइट्रोजन FeSO₄ और अम्ल के साथ प्रशियन नीला रंग देता है; सल्फ़र सोडियम नाइट्रोप्रुसाइड के साथ बैंगनी रंग देता है; दोनों उपस्थित होने पर Fe³⁺ रक्त-लाल रंग (Fe(SCN)²⁺) देता है।"
+          }
+        },
+        {
+          "trick": {
+            "en": "\"Cl white, Br pale yellow, I yellow — less soluble in NH₄OH down the group\"",
+            "hi": "\"Cl सफ़ेद, Br हल्का पीला, I पीला — वर्ग में नीचे NH₄OH में विलेयता घटती है\""
+          },
+          "recall": {
+            "en": "With AgNO₃: AgCl is white and soluble in NH₄OH, AgBr is pale yellow and sparingly soluble, AgI is yellow and insoluble.",
+            "hi": "AgNO₃ के साथ: AgCl सफ़ेद और NH₄OH में विलेय, AgBr हल्का पीला और अल्प विलेय, AgI पीला और अविलेय होता है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Lassaigne's test detects N, S and halogens; CuO heating detects C and H.",
+          "hi": "लासाने परीक्षण N, S और हैलोजन की पहचान करता है; CuO के साथ गरम करने से C और H की।"
+        },
+        "formula": "3[Fe(CN)₆]⁴⁻ + 4Fe³⁺ → Fe₄[Fe(CN)₆]₃ (Prussian blue)",
+        "points": [
+          {
+            "en": "N: Prussian blue; S: violet with sodium nitroprusside; X: precipitate with AgNO₃.",
+            "hi": "N: प्रशियन नीला; S: सोडियम नाइट्रोप्रुसाइड से बैंगनी; X: AgNO₃ से अवक्षेप।"
+          },
+          {
+            "en": "Boil with HNO₃ before the halogen test.",
+            "hi": "हैलोजन परीक्षण से पहले HNO₃ के साथ उबालें।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch08-t8.10",
+      "targetId": "cbse-11-ch08-t8.10",
+      "covers": [],
+      "definition": {
+        "en": "Quantitative analysis finds the percentage of each element: C and H by combustion, N by Dumas or Kjeldahl method, halogens by Carius method, S by conversion to BaSO₄, P as Mg₂P₂O₇ or ammonium phosphomolybdate, and O usually by difference.",
+        "hi": "मात्रात्मक विश्लेषण प्रत्येक तत्व का प्रतिशत ज्ञात करता है: C और H दहन से, N ड्यूमा या कैल्डाल विधि से, हैलोजन कैरियस विधि से, S को BaSO₄ में बदलकर, P को Mg₂P₂O₇ या अमोनियम फ़ॉस्फ़ोमॉलिब्डेट के रूप में, और O प्रायः अंतर से।"
+      },
+      "explanation": {
+        "en": "% C = (12 × mass of CO₂ × 100) ÷ (44 × mass of compound); % H = (2 × mass of H₂O × 100) ÷ (18 × mass of compound). Kjeldahl: % N = 1.4 × M × 2(V − V₁/2) ÷ m, where V mL of H₂SO₄ of molarity M absorbs the ammonia, V₁ mL of NaOH of the same molarity neutralises the excess acid, and m is the mass of compound; it does not work for nitro, azo compounds or nitrogen in rings. Dumas: nitrogen gas collected over KOH. Carius: % X = (atomic mass of X × mass of AgX × 100) ÷ (molar mass of AgX × mass of compound).",
+        "hi": "% C = (12 × CO₂ का द्रव्यमान × 100) ÷ (44 × यौगिक का द्रव्यमान); % H = (2 × H₂O का द्रव्यमान × 100) ÷ (18 × यौगिक का द्रव्यमान)। कैल्डाल: % N = 1.4 × M × 2(V − V₁/2) ÷ m, जहाँ M मोलरता के V mL H₂SO₄ में अमोनिया अवशोषित होती है, उसी मोलरता का V₁ mL NaOH अतिरिक्त अम्ल को उदासीन करता है और m यौगिक का द्रव्यमान है; यह विधि नाइट्रो, ऐज़ो यौगिकों या वलय में नाइट्रोजन के लिए काम नहीं करती। ड्यूमा: नाइट्रोजन गैस KOH के ऊपर एकत्र। कैरियस: % X = (X का परमाणु द्रव्यमान × AgX का द्रव्यमान × 100) ÷ (AgX का मोलर द्रव्यमान × यौगिक का द्रव्यमान)।"
+      },
+      "keyPoints": [
+        {
+          "en": "% O = 100 − sum of other percentages.",
+          "hi": "% O = 100 − अन्य प्रतिशतों का योग।"
+        }
+      ],
+      "realLife": {
+        "en": "Fertiliser and food protein content are measured by the Kjeldahl method.",
+        "hi": "उर्वरकों और भोजन में प्रोटीन की मात्रा कैल्डाल विधि से मापी जाती है।"
+      },
+      "examFocus": {
+        "en": "Numericals on % C, % H, % halogen and % S; limitations of the Kjeldahl method.",
+        "hi": "% C, % H, % हैलोजन और % S पर आंकिक; कैल्डाल विधि की सीमाएँ।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Using 44 for H₂O or 18 for CO₂ in the combustion formulas.",
+          "hi": "दहन सूत्रों में H₂O के लिए 44 या CO₂ के लिए 18 लेना।"
+        }
+      ],
+      "formulas": [
+        "% C = (12 × m(CO₂) × 100) / (44 × m)",
+        "% H = (2 × m(H₂O) × 100) / (18 × m)",
+        "% X = (A(X) × m(AgX) × 100) / (M(AgX) × m)",
+        "% N (Kjeldahl) = 1.4 × M × 2(V − V₁/2) / m"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "purification-and-analysis"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "8.10"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Liebig Likes CH, Dumas & Kjeldahl Know N, Carius Catches X and S\"",
+            "hi": "\"लीबिग C-H, ड्यूमा और कैल्डाल N, कैरियस X और S\""
+          },
+          "recall": {
+            "en": "Liebig method for carbon and hydrogen; Dumas or Kjeldahl for nitrogen; Carius for halogens and sulphur.",
+            "hi": "कार्बन और हाइड्रोजन के लिए लीबिग विधि; नाइट्रोजन के लिए ड्यूमा या कैल्डाल; हैलोजन और सल्फ़र के लिए कैरियस।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Quantitative analysis: Liebig (C, H), Dumas/Kjeldahl (N), Carius (X, S); O by difference.",
+          "hi": "मात्रात्मक विश्लेषण: लीबिग (C, H), ड्यूमा/कैल्डाल (N), कैरियस (X, S); O अंतर से।"
+        },
+        "formula": "% C = (12 × m(CO₂) × 100) / (44 × m)",
+        "points": [
+          {
+            "en": "Kjeldahl fails for nitro, azo and ring-N compounds.",
+            "hi": "कैल्डाल विधि नाइट्रो, ऐज़ो और वलय-N यौगिकों के लिए विफल।"
+          },
+          {
+            "en": "% O = 100 − sum of other percentages.",
+            "hi": "% O = 100 − अन्य प्रतिशतों का योग।"
+          }
+        ]
+      }
+    }
+  ]
+}

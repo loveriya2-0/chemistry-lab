@@ -1,0 +1,223 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "note-cbse-12-surface",
+      "targetId": "cbse-12-surface",
+      "covers": [],
+      "definition": {
+        "en": "Surface chemistry studies phenomena at surfaces and interfaces. Adsorption is the accumulation of a substance (adsorbate) at the surface of another (adsorbent) rather than in its bulk; a colloid is a heterogeneous system in which particles of 1–1000 nm (the dispersed phase) are spread in a dispersion medium.",
+        "hi": "पृष्ठ रसायन सतहों और अंतरापृष्ठों पर होने वाली परिघटनाओं का अध्ययन है। अधिशोषण किसी पदार्थ (अधिशोष्य) का दूसरे पदार्थ (अधिशोषक) की सतह पर, उसके पूरे भाग में नहीं, जमा होना है; कोलॉइड एक विषमांगी तंत्र है जिसमें 1–1000 nm के कण (परिक्षिप्त प्रावस्था) परिक्षेपण माध्यम में फैले होते हैं।"
+      },
+      "explanation": {
+        "en": "Finely divided solids such as charcoal, silica gel and alumina are good adsorbents. In adsorption the substance stays at the surface; in absorption it spreads through the bulk (water vapour is absorbed by anhydrous CaCl₂ but adsorbed by silica gel); both together are sorption. Physisorption is due to weak van der Waals forces; chemisorption involves chemical bonds and high activation energy (activated adsorption) — H₂ on nickel is first physisorbed, then dissociates and is chemisorbed. Uses: high vacuum, gas masks, humidity control, decolourising sugar, heterogeneous catalysis, separating noble gases, froth floatation, adsorption indicators and chromatography. Colloids: lyophilic sols (gum, gelatine, starch) form directly, are reversible and stable; lyophobic sols (metals, sulphides) need special methods, are irreversible and coagulate easily with electrolytes. Colloidal particles carry charge, shown by electrophoresis. Coagulation happens by electrophoresis, mixing oppositely charged sols, boiling, persistent dialysis or adding electrolytes; by the Hardy–Schulze rule, the higher the valence of the flocculating ion the greater its coagulating power (Al³⁺ > Ba²⁺ > Na⁺ for a negative sol; [Fe(CN)₆]⁴⁻ > PO₄³⁻ > SO₄²⁻ > Cl⁻ for a positive sol). Lyophilic colloids protect lyophobic ones (protective colloids). Emulsions are oil-in-water (milk, vanishing cream) or water-in-oil (butter, cream) and are stabilised by emulsifying agents.",
+        "hi": "चारकोल, सिलिका जेल और ऐलुमिना जैसे सूक्ष्म विभाजित ठोस अच्छे अधिशोषक हैं। अधिशोषण में पदार्थ सतह पर रहता है; अवशोषण में पूरे भाग में फैल जाता है (जलवाष्प निर्जल CaCl₂ द्वारा अवशोषित पर सिलिका जेल द्वारा अधिशोषित होती है); दोनों साथ हों तो शोषण। भौतिक अधिशोषण दुर्बल वान्डरवाल्स बलों से होता है; रासायनिक अधिशोषण में रासायनिक आबंध और उच्च सक्रियण ऊर्जा होती है (सक्रियित अधिशोषण) — निकल पर H₂ पहले भौतिक अधिशोषित होकर फिर वियोजित होकर रासायनिक अधिशोषित होती है। उपयोग: उच्च निर्वात, गैस मास्क, आर्द्रता नियंत्रण, शक्कर का विरंजन, विषमांगी उत्प्रेरण, उत्कृष्ट गैसों का पृथक्करण, फेन प्लवन, अधिशोषण सूचक और वर्णलेखन। कोलॉइड: द्रवरागी सॉल (गोंद, जिलेटिन, स्टार्च) सीधे बनते हैं, उत्क्रमणीय और स्थायी होते हैं; द्रवविरागी सॉल (धातुएँ, सल्फ़ाइड) विशेष विधियों से बनते हैं, अनुत्क्रमणीय होते हैं और वैद्युत-अपघट्यों से आसानी से स्कंदित हो जाते हैं। कोलॉइडी कण आवेशित होते हैं, जिसे वैद्युत कण-संचलन दर्शाता है। स्कंदन वैद्युत कण-संचलन, विपरीत आवेशित सॉल मिलाने, उबालने, लगातार अपोहन या वैद्युत-अपघट्य मिलाने से होता है; हार्डी–शुल्ज़े नियम के अनुसार ऊर्णन आयन की संयोजकता जितनी अधिक, स्कंदन क्षमता उतनी अधिक (ऋण सॉल के लिए Al³⁺ > Ba²⁺ > Na⁺; धन सॉल के लिए [Fe(CN)₆]⁴⁻ > PO₄³⁻ > SO₄²⁻ > Cl⁻)। द्रवरागी कोलॉइड द्रवविरागी कोलॉइडों की रक्षा करते हैं (रक्षी कोलॉइड)। पायस तेल-में-जल (दूध, वैनिशिंग क्रीम) या जल-में-तेल (मक्खन, क्रीम) होते हैं और पायसीकारकों से स्थायी किए जाते हैं।"
+      },
+      "keyPoints": [
+        {"en": "Physisorption: weak van der Waals forces; chemisorption: chemical bonds, high activation energy.", "hi": "भौतिक अधिशोषण: दुर्बल वान्डरवाल्स बल; रासायनिक अधिशोषण: रासायनिक आबंध, उच्च सक्रियण ऊर्जा।"},
+        {"en": "Lyophilic sols are reversible and stable; lyophobic sols are irreversible and easily coagulated.", "hi": "द्रवरागी सॉल उत्क्रमणीय और स्थायी; द्रवविरागी सॉल अनुत्क्रमणीय और आसानी से स्कंदित।"},
+        {"en": "Hardy–Schulze rule: greater valence of the coagulating ion → greater coagulating power.", "hi": "हार्डी–शुल्ज़े नियम: स्कंदक आयन की अधिक संयोजकता → अधिक स्कंदन क्षमता।"}
+      ],
+      "realLife": {
+        "en": "Delta formation where rivers meet the sea, the styptic action of alum on cuts, fog, blood and fertile soils are all examples of colloids at work.",
+        "hi": "नदियों के समुद्र से मिलने पर डेल्टा बनना, कटने पर फिटकरी का रक्तस्तंभक प्रभाव, कोहरा, रक्त और उपजाऊ मृदा — सभी कोलॉइडों के उदाहरण हैं।"
+      },
+      "examFocus": {
+        "en": "Formative only (not in the year-end exam): distinguish adsorption and absorption, physisorption and chemisorption, lyophilic and lyophobic sols; explain coagulation and emulsions.",
+        "hi": "केवल रचनात्मक मूल्यांकन (वार्षिक परीक्षा में नहीं): अधिशोषण और अवशोषण, भौतिक और रासायनिक अधिशोषण, द्रवरागी और द्रवविरागी सॉल में अंतर कीजिए; स्कंदन और पायस समझाइए।"
+      },
+      "commonMistakes": [
+        {"en": "Using 'adsorption' and 'absorption' as the same thing — adsorption is surface-only, absorption is throughout the bulk.", "hi": "'अधिशोषण' और 'अवशोषण' को एक ही समझना — अधिशोषण केवल सतह पर, अवशोषण पूरे भाग में होता है।"}
+      ],
+      "formulas": [
+        "Coagulating power (negative sol): Al³⁺ > Ba²⁺ > Na⁺",
+        "Coagulating power (positive sol): [Fe(CN)₆]⁴⁻ > PO₄³⁻ > SO₄²⁻ > Cl⁻"
+      ],
+      "practicalIds": ["cbse-12-pA"],
+      "conceptIds": ["adsorption-and-colloids", "colloids-and-suspensions"],
+      "chemicalIds": [],
+      "sources": [
+        {"sourceId": "cbse-chem-11-12", "section": "Class XII, formative topic 1"},
+        {"sourceId": "cbse-chem-rm", "section": "Surface Chemistry"}
+      ],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "'Chalk in ink': colour on the surface (ADsorbed), solvent inside (ABsorbed)", "hi": "'स्याही में चॉक': रंग सतह पर (अधिशोषित), विलायक अंदर (अवशोषित)"},
+          "recall": {"en": "A chalk stick dipped in ink is coloured only on the surface (adsorption) while the solvent soaks in (absorption); it is white inside.", "hi": "स्याही में डुबोई चॉक केवल सतह पर रंगीन होती है (अधिशोषण) जबकि विलायक अंदर जाता है (अवशोषण); अंदर से यह सफ़ेद रहती है।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Adsorption is a surface phenomenon; colloids are 1–1000 nm particles in a medium.", "hi": "अधिशोषण एक सतही परिघटना है; कोलॉइड माध्यम में 1–1000 nm के कण हैं।"},
+        "formula": "Coagulating power (negative sol): Al³⁺ > Ba²⁺ > Na⁺",
+        "points": [
+          {"en": "O/W emulsion: milk; W/O emulsion: butter.", "hi": "O/W पायस: दूध; W/O पायस: मक्खन।"},
+          {"en": "Lyophilic colloids act as protective colloids.", "hi": "द्रवरागी कोलॉइड रक्षी कोलॉइड का कार्य करते हैं।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-isolation",
+      "targetId": "cbse-12-isolation",
+      "covers": [],
+      "definition": {
+        "en": "Metallurgy is the whole process of isolating a metal from its ore: concentration of the ore, isolation of the metal from the concentrated ore (conversion to oxide and reduction), and purification (refining) of the metal.",
+        "hi": "धातुकर्म अयस्क से धातु के पृथक्करण की पूरी प्रक्रिया है: अयस्क का सांद्रण, सांद्रित अयस्क से धातु का पृथक्करण (ऑक्साइड में परिवर्तन और अपचयन), और धातु का शोधन।"
+      },
+      "explanation": {
+        "en": "Minerals that can be used economically to obtain a metal are ores; unwanted earthy material is gangue. Concentration: hydraulic washing (difference in specific gravity), magnetic separation (e.g. iron ores), froth floatation for sulphide ores (collectors such as pine oil and xanthates, froth stabilisers such as cresols; NaCN as a depressant keeps ZnS out of the froth while PbS floats), and leaching — bauxite is digested with concentrated NaOH at 473–523 K and 35–36 bar to give sodium aluminate, from which hydrated Al₂O₃ is precipitated with CO₂ (seeding); silver and gold are leached with dilute NaCN/KCN in air. Sulphide ores are converted to oxides before reduction: calcination (heating to drive off volatile matter) and roasting (heating in air below the melting point). Refining: distillation (Zn, Hg), liquation (Sn), electrolytic refining (impure metal as anode, pure strip as cathode; for copper, anode mud contains Sb, Se, Te, Ag, Au, Pt), zone refining (impurities more soluble in the melt; for Ge, Si, B, Ga, In of very high purity), vapour-phase refining (Mond process for Ni via Ni(CO)₄; van Arkel method for Zr and Ti via the iodide decomposed on a tungsten filament at about 1800 K) and chromatography.",
+        "hi": "जिन खनिजों से धातु आर्थिक रूप से प्राप्त की जा सके वे अयस्क हैं; अवांछित मिट्टी जैसा पदार्थ गैंग (आधात्री) है। सांद्रण: द्रवचालित धावन (विशिष्ट गुरुत्व में अंतर), चुंबकीय पृथक्करण (जैसे आयरन अयस्क), सल्फ़ाइड अयस्कों के लिए फेन प्लवन (संग्राहक जैसे पाइन तेल और ज़ैन्थेट, फेन स्थायीकारी जैसे क्रीसॉल; अवनमक NaCN, ZnS को फेन से बाहर रखता है जबकि PbS ऊपर आता है), और निक्षालन — बॉक्साइट को 473–523 K और 35–36 bar पर सांद्र NaOH के साथ पचाकर सोडियम ऐलुमिनेट बनाते हैं, जिससे CO₂ द्वारा जलयोजित Al₂O₃ अवक्षेपित किया जाता है (बीजारोपण); सिल्वर और गोल्ड को वायु में तनु NaCN/KCN से निक्षालित किया जाता है। अपचयन से पहले सल्फ़ाइड अयस्कों को ऑक्साइड में बदला जाता है: निस्तापन (वाष्पशील पदार्थ निकालने हेतु गरम करना) और भर्जन (गलनांक से कम ताप पर वायु में गरम करना)। शोधन: आसवन (Zn, Hg), द्रवण (Sn), विद्युत-अपघटनी शोधन (अशुद्ध धातु ऐनोड, शुद्ध पट्टी कैथोड; कॉपर के लिए ऐनोड पंक में Sb, Se, Te, Ag, Au, Pt), मंडल परिष्करण (अशुद्धियाँ गलित में अधिक विलेय; अत्यधिक शुद्ध Ge, Si, B, Ga, In के लिए), वाष्प प्रावस्था परिष्करण (Ni(CO)₄ द्वारा Ni के लिए मॉन्ड प्रक्रम; आयोडाइड को लगभग 1800 K पर टंगस्टन तंतु पर विघटित कर Zr और Ti के लिए वान आर्केल विधि) और वर्णलेखन।"
+      },
+      "keyPoints": [
+        {"en": "Steps of metallurgy: concentration → conversion to oxide (calcination/roasting) → reduction → refining.", "hi": "धातुकर्म के चरण: सांद्रण → ऑक्साइड में परिवर्तन (निस्तापन/भर्जन) → अपचयन → शोधन।"},
+        {"en": "Aluminium is the most abundant metal (third most abundant element, 8.3% by weight); iron is second.", "hi": "ऐलुमिनियम सबसे प्रचुर धातु है (तीसरा सबसे प्रचुर तत्व, भार से 8.3%); आयरन दूसरी है।"},
+        {"en": "Zone refining is based on impurities being more soluble in the melt than in the solid.", "hi": "मंडल परिष्करण इस पर आधारित है कि अशुद्धियाँ ठोस की अपेक्षा गलित में अधिक विलेय होती हैं।"}
+      ],
+      "realLife": {
+        "en": "Ultra-pure silicon and germanium for computer chips are made by zone refining; the Delhi iron pillar shows India's ancient skill in making corrosion-resistant wrought iron.",
+        "hi": "कंप्यूटर चिप के लिए अत्यधिक शुद्ध सिलिकॉन और जर्मेनियम मंडल परिष्करण से बनते हैं; दिल्ली का लौह स्तंभ संक्षारण-रोधी पिटवाँ लोहा बनाने में भारत की प्राचीन कुशलता दर्शाता है।"
+      },
+      "examFocus": {
+        "en": "Formative only (not in the year-end exam): name concentration methods for given ores, distinguish calcination and roasting, explain refining methods with examples.",
+        "hi": "केवल रचनात्मक मूल्यांकन (वार्षिक परीक्षा में नहीं): दिए गए अयस्कों के लिए सांद्रण विधियाँ बताइए, निस्तापन और भर्जन में अंतर कीजिए, उदाहरण सहित शोधन विधियाँ समझाइए।"
+      },
+      "commonMistakes": [
+        {"en": "Calling every mineral an ore — only minerals from which the metal can be extracted economically are ores.", "hi": "हर खनिज को अयस्क कहना — केवल वे खनिज अयस्क हैं जिनसे धातु आर्थिक रूप से निकाली जा सके।"}
+      ],
+      "formulas": [
+        "Al₂O₃ + 2NaOH + 3H₂O → 2Na[Al(OH)₄]",
+        "4M + 8CN⁻ + 2H₂O + O₂ → 4[M(CN)₂]⁻ + 4OH⁻ (M = Ag, Au)",
+        "Ni + 4CO → Ni(CO)₄ → Ni + 4CO",
+        "Zr + 2I₂ → ZrI₄ → Zr + 2I₂",
+        "Anode: Cu → Cu²⁺ + 2e⁻; cathode: Cu²⁺ + 2e⁻ → Cu"
+      ],
+      "practicalIds": [],
+      "conceptIds": ["extraction-of-metals", "electrolytic-refining"],
+      "chemicalIds": [],
+      "sources": [
+        {"sourceId": "cbse-chem-11-12", "section": "Class XII, formative topic 2"},
+        {"sourceId": "cbse-chem-rm", "section": "General Principles and Processes of Isolation of Elements"}
+      ],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "'Mond for Nickel, van Arkel for Zr and Ti'", "hi": "'मॉन्ड निकल के लिए, वान आर्केल Zr और Ti के लिए'"},
+          "recall": {"en": "Vapour-phase refining: Ni forms volatile Ni(CO)₄ (Mond); Zr and Ti form volatile iodides decomposed on a hot tungsten filament (van Arkel).", "hi": "वाष्प प्रावस्था परिष्करण: Ni वाष्पशील Ni(CO)₄ बनाता है (मॉन्ड); Zr और Ti वाष्पशील आयोडाइड बनाते हैं जो गरम टंगस्टन तंतु पर विघटित होते हैं (वान आर्केल)।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Ore → concentration → oxide → reduction → refining.", "hi": "अयस्क → सांद्रण → ऑक्साइड → अपचयन → शोधन।"},
+        "formula": "Ni + 4CO → Ni(CO)₄ → Ni + 4CO",
+        "points": [
+          {"en": "Froth floatation for sulphide ores; leaching for bauxite, Ag, Au.", "hi": "सल्फ़ाइड अयस्कों के लिए फेन प्लवन; बॉक्साइट, Ag, Au के लिए निक्षालन।"},
+          {"en": "Calcination: no air needed; roasting: heating in air.", "hi": "निस्तापन: वायु आवश्यक नहीं; भर्जन: वायु में गरम करना।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-polymers",
+      "targetId": "cbse-12-polymers",
+      "covers": [],
+      "definition": {
+        "en": "Polymers are very large molecules (molecular mass 10³–10⁷ u) formed by joining many repeating structural units derived from simple molecules called monomers; the process is polymerisation.",
+        "hi": "बहुलक बहुत बड़े अणु (आणविक द्रव्यमान 10³–10⁷ u) हैं जो एकलक कहलाने वाले सरल अणुओं से व्युत्पन्न अनेक पुनरावृत्त संरचनात्मक इकाइयों के जुड़ने से बनते हैं; यह प्रक्रिया बहुलकन है।"
+      },
+      "explanation": {
+        "en": "By source, polymers are natural (proteins, cellulose, starch, rubber), semi-synthetic (cellulose acetate or rayon, cellulose nitrate) or synthetic (polythene, nylon-6,6, Buna-S). Addition (chain-growth) polymerisation joins unsaturated monomers, usually via free radicals; condensation (step-growth) polymerisation joins bi- or tri-functional monomers with loss of small molecules such as water. A polymer of a single monomer is a homopolymer (polythene); one made from two different monomers is a copolymer (Buna-S from buta-1,3-diene and styrene). Low-density polythene (high pressure, O₂ or peroxide, branched) is used for wire insulation and squeeze bottles; high-density polythene (Ziegler–Natta catalyst, linear) for buckets and pipes. Teflon is inert (non-stick coatings); polyacrylonitrile (orlon) substitutes for wool. Condensation polymers: nylon-6,6 (hexamethylenediamine + adipic acid), nylon-6 (from caprolactam), terylene/dacron (ethylene glycol + terephthalic acid), bakelite (phenol + formaldehyde, cross-linked thermosetting) and melamine–formaldehyde. Natural rubber is cis-1,4-polyisoprene, an elastomer.",
+        "hi": "स्रोत के आधार पर बहुलक प्राकृतिक (प्रोटीन, सेलुलोस, स्टार्च, रबर), अर्ध-संश्लेषित (सेलुलोस ऐसीटेट या रेयॉन, सेलुलोस नाइट्रेट) या संश्लेषित (पॉलिथीन, नायलॉन-6,6, ब्यूना-S) होते हैं। योगज (शृंखला-वृद्धि) बहुलकन असंतृप्त एकलकों को प्रायः मुक्त मूलकों द्वारा जोड़ता है; संघनन (पद-वृद्धि) बहुलकन द्वि- या त्रि-क्रियात्मक एकलकों को जल जैसे छोटे अणुओं के निष्कासन के साथ जोड़ता है। एक ही एकलक का बहुलक समबहुलक (पॉलिथीन) और दो भिन्न एकलकों से बना सहबहुलक है (ब्यूटा-1,3-डाईन और स्टाइरीन से ब्यूना-S)। निम्न घनत्व पॉलिथीन (उच्च दाब, O₂ या परॉक्साइड, शाखित) तारों के विद्युतरोधन और निचोड़ने वाली बोतलों में; उच्च घनत्व पॉलिथीन (ज़ीग्लर–नाटा उत्प्रेरक, रैखिक) बाल्टियों और पाइपों में प्रयुक्त होता है। टेफ़्लॉन अक्रिय है (नॉन-स्टिक लेपन); पॉलिऐक्रिलोनाइट्राइल (ऑर्लॉन) ऊन का विकल्प है। संघनन बहुलक: नायलॉन-6,6 (हेक्सामेथिलीनडाइऐमीन + ऐडिपिक अम्ल), नायलॉन-6 (कैप्रोलैक्टम से), टेरिलीन/डेक्रॉन (एथिलीन ग्लाइकॉल + टेरेफ़्थैलिक अम्ल), बेकेलाइट (फ़ीनॉल + फ़ॉर्मैल्डिहाइड, तिर्यक-बंधित तापदृढ़) और मेलामीन–फ़ॉर्मैल्डिहाइड। प्राकृतिक रबर cis-1,4-पॉलिआइसोप्रीन है, एक प्रत्यास्थ बहुलक।"
+      },
+      "keyPoints": [
+        {"en": "Homopolymer: one monomer (polythene); copolymer: two monomers (Buna-S).", "hi": "समबहुलक: एक एकलक (पॉलिथीन); सहबहुलक: दो एकलक (ब्यूना-S)।"},
+        {"en": "Addition polymers: polythene, teflon, orlon; condensation polymers: nylons, terylene, bakelite.", "hi": "योगज बहुलक: पॉलिथीन, टेफ़्लॉन, ऑर्लॉन; संघनन बहुलक: नायलॉन, टेरिलीन, बेकेलाइट।"},
+        {"en": "Bakelite is thermosetting (cannot be remoulded); polythene is thermoplastic.", "hi": "बेकेलाइट तापदृढ़ है (पुनः ढाला नहीं जा सकता); पॉलिथीन तापसुघट्य है।"}
+      ],
+      "realLife": {
+        "en": "Non-stick pans (teflon), polyester clothes (terylene), electrical switches (bakelite) and tyres (Buna-S) are all polymers.",
+        "hi": "नॉन-स्टिक बर्तन (टेफ़्लॉन), पॉलिएस्टर वस्त्र (टेरिलीन), बिजली के स्विच (बेकेलाइट) और टायर (ब्यूना-S) सभी बहुलक हैं।"
+      },
+      "examFocus": {
+        "en": "Formative only (not in the year-end exam): define polymerisation; distinguish addition and condensation, homopolymer and copolymer, with examples and monomers.",
+        "hi": "केवल रचनात्मक मूल्यांकन (वार्षिक परीक्षा में नहीं): बहुलकन परिभाषित कीजिए; योगज और संघनन, समबहुलक और सहबहुलक में उदाहरण और एकलकों सहित अंतर कीजिए।"
+      },
+      "commonMistakes": [
+        {"en": "Calling Buna-S a homopolymer — it is a copolymer of buta-1,3-diene and styrene.", "hi": "ब्यूना-S को समबहुलक कहना — यह ब्यूटा-1,3-डाईन और स्टाइरीन का सहबहुलक है।"}
+      ],
+      "formulas": [
+        "n CH₂=CH₂ → –(CH₂–CH₂)ₙ–",
+        "n CF₂=CF₂ → –(CF₂–CF₂)ₙ–"
+      ],
+      "practicalIds": [],
+      "conceptIds": ["polymerisation"],
+      "chemicalIds": [],
+      "sources": [
+        {"sourceId": "cbse-chem-11-12", "section": "Class XII, formative topic 3"},
+        {"sourceId": "cbse-chem-rm", "section": "Polymers"}
+      ],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "Nylon-6,6: 'six carbons in the diamine, six in the diacid'", "hi": "नायलॉन-6,6: 'डाइऐमीन में छह कार्बन, डाइअम्ल में छह'"},
+          "recall": {"en": "Nylon-6,6 is made from hexamethylenediamine (6 C) and adipic acid (6 C); nylon-6 comes from caprolactam alone.", "hi": "नायलॉन-6,6 हेक्सामेथिलीनडाइऐमीन (6 C) और ऐडिपिक अम्ल (6 C) से बनता है; नायलॉन-6 केवल कैप्रोलैक्टम से।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Polymers: monomers joined by addition (chain-growth) or condensation (step-growth).", "hi": "बहुलक: एकलक योगज (शृंखला-वृद्धि) या संघनन (पद-वृद्धि) से जुड़ते हैं।"},
+        "formula": "n CH₂=CH₂ → –(CH₂–CH₂)ₙ–",
+        "points": [
+          {"en": "Homopolymer: polythene; copolymer: Buna-S.", "hi": "समबहुलक: पॉलिथीन; सहबहुलक: ब्यूना-S।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-everyday",
+      "targetId": "cbse-12-everyday",
+      "covers": [],
+      "definition": {
+        "en": "Drugs are low molecular mass chemicals (about 100–500 u) that interact with macromolecular targets to give a biological response; those with a useful therapeutic response are medicines. Food additives such as preservatives, artificial sweeteners and antioxidants keep food safe and palatable.",
+        "hi": "औषधियाँ कम आणविक द्रव्यमान (लगभग 100–500 u) वाले रसायन हैं जो बृहद् आणविक लक्ष्यों से अन्योन्यक्रिया कर जैविक अनुक्रिया देते हैं; उपयोगी चिकित्सीय अनुक्रिया देने वाली औषधियाँ दवाएँ हैं। परिरक्षक, कृत्रिम मधुरक और प्रतिऑक्सीकारक जैसे खाद्य योज्य भोजन को सुरक्षित और स्वादिष्ट रखते हैं।"
+      },
+      "explanation": {
+        "en": "Antacids: NaHCO₃ or Al/Mg hydroxides neutralise excess stomach acid; cimetidine and ranitidine block histamine from stimulating acid secretion. Antihistamines (brompheniramine, terfenadine) compete with histamine for its receptors in allergy. Tranquilizers (iproniazid, phenelzine, chlordiazepoxide, meprobamate, equanil, barbiturates such as veronal and luminal) relieve anxiety or induce sleep. Analgesics: non-narcotic (aspirin, paracetamol; aspirin inhibits prostaglandins, lowers fever and prevents clotting) and narcotic (morphine and other opiates for severe pain). Antimicrobials: antibiotics (penicillin G is narrow-spectrum; ampicillin, amoxycillin, chloramphenicol, vancomycin, ofloxacin are broad-spectrum; salvarsan and sulphonamides were early drugs); antiseptics on living tissue (dettol = chloroxylenol + terpineol, tincture of iodine, iodoform, boric acid); disinfectants on objects (1% phenol is a disinfectant while 0.2% is an antiseptic; chlorine 0.2–0.4 ppm in water). Antifertility pills contain synthetic progesterone (norethindrone) and estrogen (ethynylestradiol) derivatives. In food: saccharin (about 550 times sweeter than sugar), aspartame (about 100 times, unstable when cooked), alitame and sucralose (stable at cooking temperature); preservatives — salt, sugar, oils, sodium benzoate, salts of sorbic and propanoic acids; antioxidants — BHT and BHA, and SO₂ or sulphite for wine, beer and dried fruit.",
+        "hi": "प्रति-अम्ल: NaHCO₃ या Al/Mg हाइड्रॉक्साइड आमाशय के अतिरिक्त अम्ल को उदासीन करते हैं; सिमेटिडीन और रैनिटिडीन हिस्टैमिन को अम्ल स्राव बढ़ाने से रोकते हैं। प्रतिहिस्टैमिन (ब्रॉमफ़ेनिरामीन, टरफ़ेनाडीन) ऐलर्जी में हिस्टैमिन से उसके ग्राहियों के लिए प्रतिस्पर्धा करते हैं। प्रशांतक (आइप्रोनियाज़िड, फ़ेनेलज़ीन, क्लोरडाइऐज़ेपॉक्साइड, मेप्रोबैमेट, इक्वेनिल, वेरोनल और ल्यूमिनल जैसे बार्बिट्यूरेट) चिंता दूर करते या नींद लाते हैं। पीड़ाहारी: अस्वापक (ऐस्पिरिन, पैरासिटामॉल; ऐस्पिरिन प्रोस्टाग्लैंडिन रोकती, ज्वर घटाती और थक्का बनना रोकती है) और स्वापक (गंभीर पीड़ा के लिए मॉर्फ़ीन और अन्य अफ़ीमज)। प्रतिसूक्ष्मजैविक: प्रतिजैविक (पेनिसिलिन G संकीर्ण स्पेक्ट्रम; ऐम्पिसिलिन, ऐमॉक्सीसिलिन, क्लोरैम्फ़ेनिकॉल, वैन्कोमाइसिन, ऑफ़्लॉक्सासिन विस्तृत स्पेक्ट्रम; सैल्वर्सन और सल्फ़ोनैमाइड आरंभिक औषधियाँ थीं); जीवित ऊतकों पर पूतिरोधी (डेटॉल = क्लोरोज़ाइलेनॉल + टर्पिनिऑल, आयोडीन टिंचर, आयोडोफ़ॉर्म, बोरिक अम्ल); निर्जीव वस्तुओं पर विसंक्रामी (1% फ़ीनॉल विसंक्रामी जबकि 0.2% पूतिरोधी; जल में 0.2–0.4 ppm क्लोरीन)। प्रतिजनन गोलियों में संश्लेषित प्रोजेस्टेरॉन (नॉरएथिंड्रॉन) और एस्ट्रोजन (एथिनिलएस्ट्राडाइऑल) व्युत्पन्न होते हैं। भोजन में: सैकरीन (शक्कर से लगभग 550 गुना मीठी), ऐस्पार्टेम (लगभग 100 गुना, पकाने पर अस्थायी), ऐलिटेम और सुक्रालोस (पकाने के ताप पर स्थायी); परिरक्षक — नमक, शक्कर, तेल, सोडियम बेन्ज़ोएट, सॉर्बिक और प्रोपेनॉइक अम्लों के लवण; प्रतिऑक्सीकारक — BHT और BHA, तथा वाइन, बीयर और सूखे फलों के लिए SO₂ या सल्फ़ाइट।"
+      },
+      "keyPoints": [
+        {"en": "Antiseptics are for living tissue; disinfectants are for non-living objects — the same chemical can be either at different concentrations (phenol 0.2% vs 1%).", "hi": "पूतिरोधी जीवित ऊतकों के लिए; विसंक्रामी निर्जीव वस्तुओं के लिए — एक ही रसायन भिन्न सांद्रताओं पर दोनों हो सकता है (फ़ीनॉल 0.2% बनाम 1%)।"},
+        {"en": "Antiallergic and antacid drugs act on different receptors, so antihistamines do not affect stomach acid.", "hi": "प्रतिऐलर्जी और प्रति-अम्ल औषधियाँ भिन्न ग्राहियों पर कार्य करती हैं, इसलिए प्रतिहिस्टैमिन आमाशय अम्ल को प्रभावित नहीं करते।"},
+        {"en": "Aspartame is used only in cold foods and soft drinks; sucralose is stable on cooking.", "hi": "ऐस्पार्टेम केवल ठंडे खाद्य और शीतल पेयों में प्रयुक्त होता है; सुक्रालोस पकाने पर स्थायी है।"}
+      ],
+      "realLife": {
+        "en": "Dettol on a cut, paracetamol for fever, BHA in butter and sodium benzoate in sauces are everyday uses of these chemicals.",
+        "hi": "कटने पर डेटॉल, बुख़ार में पैरासिटामॉल, मक्खन में BHA और सॉस में सोडियम बेन्ज़ोएट — ये इन रसायनों के दैनिक उपयोग हैं।"
+      },
+      "examFocus": {
+        "en": "Formative only (not in the year-end exam): classify given drugs (antacid, antihistamine, tranquilizer, analgesic, antibiotic, antiseptic, disinfectant, antifertility) and food chemicals (preservative, sweetener, antioxidant) with examples.",
+        "hi": "केवल रचनात्मक मूल्यांकन (वार्षिक परीक्षा में नहीं): दी गई औषधियों (प्रति-अम्ल, प्रतिहिस्टैमिन, प्रशांतक, पीड़ाहारी, प्रतिजैविक, पूतिरोधी, विसंक्रामी, प्रतिजनन) और खाद्य रसायनों (परिरक्षक, मधुरक, प्रतिऑक्सीकारक) को उदाहरण सहित वर्गीकृत कीजिए।"
+      },
+      "commonMistakes": [
+        {"en": "Calling aspirin a narcotic — it is a non-narcotic (non-addictive) analgesic; morphine is narcotic.", "hi": "ऐस्पिरिन को स्वापक कहना — यह अस्वापक (आदत न डालने वाली) पीड़ाहारी है; मॉर्फ़ीन स्वापक है।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["medicines-and-food-chemicals"],
+      "chemicalIds": [],
+      "sources": [
+        {"sourceId": "cbse-chem-11-12", "section": "Class XII, formative topic 4"},
+        {"sourceId": "cbse-chem-rm", "section": "Chemistry in Everyday Life"}
+      ],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "'Antiseptic for Skin, Disinfectant for Drains'", "hi": "'पूतिरोधी त्वचा के लिए, विसंक्रामी नालियों के लिए'"},
+          "recall": {"en": "Antiseptics (dettol, tincture of iodine) are applied to living tissue; disinfectants (1% phenol, chlorine) to floors, drains and instruments.", "hi": "पूतिरोधी (डेटॉल, आयोडीन टिंचर) जीवित ऊतकों पर; विसंक्रामी (1% फ़ीनॉल, क्लोरीन) फ़र्श, नालियों और उपकरणों पर लगाए जाते हैं।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Medicines act on enzymes and receptors; food additives preserve, sweeten and protect food.", "hi": "दवाएँ एंज़ाइमों और ग्राहियों पर कार्य करती हैं; खाद्य योज्य भोजन का परिरक्षण, मधुरण और सुरक्षा करते हैं।"},
+        "points": [
+          {"en": "Aspirin, paracetamol: non-narcotic; morphine: narcotic.", "hi": "ऐस्पिरिन, पैरासिटामॉल: अस्वापक; मॉर्फ़ीन: स्वापक।"},
+          {"en": "Saccharin ≈ 550×, aspartame ≈ 100× sweeter than cane sugar.", "hi": "सैकरीन ≈ 550×, ऐस्पार्टेम ≈ 100× इक्षु शर्करा से मीठा।"}
+        ]
+      }
+    }
+  ]
+}

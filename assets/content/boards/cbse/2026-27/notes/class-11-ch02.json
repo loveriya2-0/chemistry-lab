@@ -1,0 +1,517 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "note-cbse-11-ch02-t2.1",
+      "targetId": "cbse-11-ch02-t2.1",
+      "covers": [],
+      "definition": {
+        "en": "Atoms contain three sub-atomic particles: electrons (charge −1.602 × 10⁻¹⁹ C, mass 9.109 × 10⁻³¹ kg), protons (+1.602 × 10⁻¹⁹ C, 1.673 × 10⁻²⁷ kg) and neutrons (no charge, 1.675 × 10⁻²⁷ kg).",
+        "hi": "परमाणुओं में तीन अवपरमाण्विक कण होते हैं: इलेक्ट्रॉन (आवेश −1.602 × 10⁻¹⁹ C, द्रव्यमान 9.109 × 10⁻³¹ kg), प्रोटॉन (+1.602 × 10⁻¹⁹ C, 1.673 × 10⁻²⁷ kg) और न्यूट्रॉन (आवेशरहित, 1.675 × 10⁻²⁷ kg)।"
+      },
+      "explanation": {
+        "en": "Cathode-ray discharge tube experiments showed negatively charged particles (electrons) whose nature does not depend on the electrode material or gas. J. J. Thomson measured their charge-to-mass ratio, e/mₑ = 1.758820 × 10¹¹ C kg⁻¹. Millikan's oil-drop experiment measured the charge, from which the electron's mass was obtained. Positive particles (protons) were found in modified discharge tubes, and Chadwick discovered the neutron (1932) by bombarding beryllium with α-particles.",
+        "hi": "कैथोड किरण विसर्जन नलिका प्रयोगों ने ऋणावेशित कण (इलेक्ट्रॉन) दिखाए, जिनकी प्रकृति इलेक्ट्रोड के पदार्थ या गैस पर निर्भर नहीं करती। जे. जे. टॉमसन ने उनका आवेश/द्रव्यमान अनुपात मापा, e/mₑ = 1.758820 × 10¹¹ C kg⁻¹। मिलिकन के तेल-बूँद प्रयोग से आवेश मापा गया, जिससे इलेक्ट्रॉन का द्रव्यमान ज्ञात हुआ। संशोधित विसर्जन नलिकाओं में धनावेशित कण (प्रोटॉन) मिले, और चैडविक ने (1932) बेरिलियम पर α-कणों की बौछार कर न्यूट्रॉन खोजा।"
+      },
+      "keyPoints": [
+        {
+          "en": "Cathode rays travel in straight lines, are deflected by electric and magnetic fields, and consist of electrons.",
+          "hi": "कैथोड किरणें सीधी रेखा में चलती हैं, विद्युत और चुंबकीय क्षेत्र में विक्षेपित होती हैं और इलेक्ट्रॉनों से बनी होती हैं।"
+        },
+        {
+          "en": "The e/m of positive rays depends on the gas in the tube; the smallest positive particle is the proton (from hydrogen).",
+          "hi": "धन किरणों का e/m नलिका की गैस पर निर्भर करता है; सबसे छोटा धनावेशित कण प्रोटॉन है (हाइड्रोजन से)।"
+        }
+      ],
+      "realLife": {
+        "en": "Cathode-ray tubes were used in old TVs; Millikan's method of measuring tiny charges underlies modern particle physics.",
+        "hi": "पुराने टीवी में कैथोड किरण नलिकाएँ थीं; मिलिकन की सूक्ष्म आवेश मापन विधि आधुनिक कण भौतिकी का आधार है।"
+      },
+      "examFocus": {
+        "en": "Properties of cathode rays; charge and mass of the three particles; who discovered what.",
+        "hi": "कैथोड किरणों के गुण; तीनों कणों के आवेश और द्रव्यमान; किसने क्या खोजा।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Saying the properties of cathode rays depend on the gas used — only positive (anode) rays do.",
+          "hi": "यह कहना कि कैथोड किरणों के गुण प्रयुक्त गैस पर निर्भर हैं — केवल धन (ऐनोड) किरणें निर्भर करती हैं।"
+        }
+      ],
+      "formulas": [
+        "e/mₑ = 1.758820 × 10¹¹ C kg⁻¹",
+        "e = 1.602176 × 10⁻¹⁹ C",
+        "mₑ = 9.1094 × 10⁻³¹ kg"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "subatomic-particles"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "2.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Proton ≈ neutron ≈ 1836 electrons\"",
+            "hi": "\"प्रोटॉन ≈ न्यूट्रॉन ≈ 1836 इलेक्ट्रॉन\""
+          },
+          "recall": {
+            "en": "1.673 × 10⁻²⁷ kg ÷ 9.109 × 10⁻³¹ kg ≈ 1836: a proton is about 1836 times heavier than an electron, and a neutron is very slightly heavier than a proton. So almost all the mass of an atom is in its nucleus.",
+            "hi": "1.673 × 10⁻²⁷ kg ÷ 9.109 × 10⁻³¹ kg ≈ 1836: प्रोटॉन इलेक्ट्रॉन से लगभग 1836 गुना भारी है, और न्यूट्रॉन प्रोटॉन से थोड़ा-सा भारी है। इसलिए परमाणु का लगभग सारा द्रव्यमान नाभिक में होता है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Atoms contain electrons (−), protons (+) and neutrons (neutral).",
+          "hi": "परमाणुओं में इलेक्ट्रॉन (−), प्रोटॉन (+) और न्यूट्रॉन (उदासीन) होते हैं।"
+        },
+        "formula": "e = 1.602176 × 10⁻¹⁹ C",
+        "points": [
+          {
+            "en": "Cathode rays are electrons (Thomson measured e/m; Millikan measured e).",
+            "hi": "कैथोड किरणें इलेक्ट्रॉन हैं (टॉमसन ने e/m, मिलिकन ने e मापा)।"
+          },
+          {
+            "en": "Proton and neutron masses are nearly equal; electron is about 1/1837 of a proton.",
+            "hi": "प्रोटॉन और न्यूट्रॉन के द्रव्यमान लगभग समान; इलेक्ट्रॉन प्रोटॉन का लगभग 1/1837।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch02-t2.2",
+      "targetId": "cbse-11-ch02-t2.2",
+      "covers": [],
+      "definition": {
+        "en": "Atomic models describe how particles are arranged in an atom. Thomson's model: positive sphere with embedded electrons. Rutherford's nuclear model: a tiny, dense, positive nucleus with electrons revolving around it.",
+        "hi": "परमाणु मॉडल बताते हैं कि परमाणु में कण कैसे व्यवस्थित हैं। टॉमसन मॉडल: धनावेशित गोले में धँसे इलेक्ट्रॉन। रदरफ़ोर्ड का नाभिकीय मॉडल: सूक्ष्म, सघन, धनावेशित नाभिक और उसके चारों ओर घूमते इलेक्ट्रॉन।"
+      },
+      "explanation": {
+        "en": "In the α-particle scattering experiment most particles passed through gold foil, a few were deflected through large angles and about 1 in 20,000 bounced back, showing that the atom is mostly empty and that its positive charge and mass are concentrated in a nucleus (radius ≈ 10⁻¹⁵ m vs atom ≈ 10⁻¹⁰ m). Atomic number Z = number of protons; mass number A = protons + neutrons. Isotopes have the same Z and different A; isobars the same A and different Z. Drawbacks of Rutherford's model: a revolving electron should radiate energy and spiral into the nucleus, so it cannot explain atomic stability, and it says nothing about the distribution and energies of electrons.",
+        "hi": "α-कण प्रकीर्णन प्रयोग में अधिकांश कण स्वर्ण पन्नी से निकल गए, कुछ बड़े कोण पर विक्षेपित हुए और लगभग 20,000 में से 1 वापस लौटा, जिससे पता चला कि परमाणु अधिकांशतः रिक्त है और उसका धनावेश तथा द्रव्यमान नाभिक में केंद्रित है (त्रिज्या ≈ 10⁻¹⁵ m, जबकि परमाणु ≈ 10⁻¹⁰ m)। परमाणु क्रमांक Z = प्रोटॉनों की संख्या; द्रव्यमान संख्या A = प्रोटॉन + न्यूट्रॉन। समस्थानिकों का Z समान, A भिन्न; समभारिकों का A समान, Z भिन्न। रदरफ़ोर्ड मॉडल की कमियाँ: घूमते इलेक्ट्रॉन को ऊर्जा विकिरित कर नाभिक में गिर जाना चाहिए, अतः यह स्थायित्व नहीं समझा सकता, और इलेक्ट्रॉनों के वितरण व ऊर्जा के बारे में कुछ नहीं बताता।"
+      },
+      "keyPoints": [
+        {
+          "en": "Number of neutrons = A − Z.",
+          "hi": "न्यूट्रॉनों की संख्या = A − Z।"
+        },
+        {
+          "en": "Isotopes have identical chemical properties because they have the same number of electrons.",
+          "hi": "समस्थानिकों के रासायनिक गुण समान होते हैं क्योंकि उनके इलेक्ट्रॉन समान होते हैं।"
+        }
+      ],
+      "realLife": {
+        "en": "Knowing that most of an atom is empty space explains why radiation can pass through matter.",
+        "hi": "परमाणु का अधिकांश भाग रिक्त है — इससे समझ आता है कि विकिरण पदार्थ से कैसे गुज़रता है।"
+      },
+      "examFocus": {
+        "en": "Observations and conclusions of α-scattering; drawbacks of Rutherford's model; numericals on Z, A and neutrons.",
+        "hi": "α-प्रकीर्णन के प्रेक्षण और निष्कर्ष; रदरफ़ोर्ड मॉडल की कमियाँ; Z, A और न्यूट्रॉन पर आंकिक।"
+      },
+      "commonMistakes": [
+        {
+          "en": "For ions, taking electrons = Z — for Na⁺ electrons = 10, for Cl⁻ electrons = 18.",
+          "hi": "आयनों के लिए इलेक्ट्रॉन = Z मान लेना — Na⁺ में 10 और Cl⁻ में 18 इलेक्ट्रॉन होते हैं।"
+        }
+      ],
+      "formulas": [
+        "A = Z + number of neutrons"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "atomic-models",
+        "isotopes-and-isobars"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "2.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"isotoPes → same P; isobArs → same A\"",
+            "hi": "\"समस्थानिक (isotoPes) → समान प्रोटॉन; समभारिक (isobArs) → समान A\""
+          },
+          "recall": {
+            "en": "Isotopes have the same number of protons (Z); isobars have the same mass number (A).",
+            "hi": "समस्थानिकों में प्रोटॉन (Z) समान; समभारिकों में द्रव्यमान संख्या (A) समान।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Thomson: plum-pudding; Rutherford: tiny dense positive nucleus with electrons around it.",
+          "hi": "टॉमसन: प्लम-पुडिंग; रदरफ़ोर्ड: सूक्ष्म सघन धनात्मक नाभिक और उसके चारों ओर इलेक्ट्रॉन।"
+        },
+        "formula": "A = Z + number of neutrons",
+        "points": [
+          {
+            "en": "Most α-particles passed through gold foil → atom is mostly empty.",
+            "hi": "अधिकांश α-कण सोने की पन्नी से निकल गए → परमाणु अधिकांशतः रिक्त है।"
+          },
+          {
+            "en": "Isotopes: same Z, different A; isobars: same A, different Z.",
+            "hi": "समस्थानिक: समान Z, भिन्न A; समभारिक: समान A, भिन्न Z।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch02-t2.3",
+      "targetId": "cbse-11-ch02-t2.3",
+      "covers": [],
+      "definition": {
+        "en": "Electromagnetic radiation has both wave nature (c = νλ) and particle nature: energy is emitted or absorbed in packets called quanta (photons) with E = hν (Planck).",
+        "hi": "विद्युत-चुंबकीय विकिरण की तरंग प्रकृति (c = νλ) भी है और कण प्रकृति भी: ऊर्जा क्वांटा (फ़ोटॉन) नामक पैकेटों में उत्सर्जित या अवशोषित होती है, E = hν (प्लांक)।"
+      },
+      "explanation": {
+        "en": "Frequency ν, wavelength λ and wavenumber ν̄ = 1/λ describe a wave; c = 3.0 × 10⁸ m s⁻¹. Black-body radiation and the photoelectric effect could not be explained by waves. In the photoelectric effect electrons are ejected instantly only if ν exceeds a threshold ν₀; their kinetic energy increases with frequency, while the number ejected increases with intensity: hν = hν₀ + ½mₑv². Atomic spectra are line spectra; for hydrogen the lines fit the Rydberg formula, ν̄ = 109,677 (1/n₁² − 1/n₂²) cm⁻¹ (Lyman n₁ = 1, Balmer n₁ = 2 in the visible region).",
+        "hi": "आवृत्ति ν, तरंगदैर्ध्य λ और तरंग संख्या ν̄ = 1/λ तरंग का वर्णन करते हैं; c = 3.0 × 10⁸ m s⁻¹। कृष्णिका विकिरण और प्रकाश-विद्युत प्रभाव तरंग से नहीं समझाए जा सके। प्रकाश-विद्युत प्रभाव में इलेक्ट्रॉन तुरंत तभी निकलते हैं जब ν देहली ν₀ से अधिक हो; उनकी गतिज ऊर्जा आवृत्ति के साथ बढ़ती है, जबकि निकलने वाले इलेक्ट्रॉनों की संख्या तीव्रता के साथ: hν = hν₀ + ½mₑv²। परमाणु स्पेक्ट्रम रेखा स्पेक्ट्रम होते हैं; हाइड्रोजन की रेखाएँ रिडबर्ग सूत्र में बैठती हैं, ν̄ = 109,677 (1/n₁² − 1/n₂²) cm⁻¹ (लाइमन n₁ = 1, बामर n₁ = 2 दृश्य क्षेत्र में)।"
+      },
+      "keyPoints": [
+        {
+          "en": "h = 6.626 × 10⁻³⁴ J s.",
+          "hi": "h = 6.626 × 10⁻³⁴ J s।"
+        },
+        {
+          "en": "Emission spectra are bright lines on a dark background; absorption spectra are dark lines on a bright background.",
+          "hi": "उत्सर्जन स्पेक्ट्रम अँधेरी पृष्ठभूमि पर चमकीली रेखाएँ; अवशोषण स्पेक्ट्रम चमकीली पृष्ठभूमि पर काली रेखाएँ।"
+        }
+      ],
+      "realLife": {
+        "en": "Photocells in automatic doors and solar calculators use the photoelectric effect; line spectra identify elements in stars.",
+        "hi": "स्वचालित दरवाज़ों और सौर कैलकुलेटर के फ़ोटोसेल प्रकाश-विद्युत प्रभाव पर चलते हैं; रेखा स्पेक्ट्रम से तारों में तत्व पहचाने जाते हैं।"
+      },
+      "examFocus": {
+        "en": "Numericals on E = hν, c = νλ, photoelectric work function and kinetic energy, and the Rydberg formula.",
+        "hi": "E = hν, c = νλ, प्रकाश-विद्युत कार्य-फलन व गतिज ऊर्जा, और रिडबर्ग सूत्र पर आंकिक।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Thinking brighter light below the threshold frequency can eject electrons — no electrons are emitted below ν₀ whatever the intensity.",
+          "hi": "यह सोचना कि देहली आवृत्ति से कम पर तेज़ प्रकाश इलेक्ट्रॉन निकाल सकता है — ν₀ से कम पर तीव्रता कितनी भी हो, इलेक्ट्रॉन नहीं निकलते।"
+        }
+      ],
+      "formulas": [
+        "c = νλ",
+        "ν̄ = 1/λ",
+        "E = hν = hc/λ",
+        "hν = hν₀ + ½mₑv²",
+        "ν̄ = 109,677 (1/n₁² − 1/n₂²) cm⁻¹"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "quantum-theory-of-radiation"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "2.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "Hydrogen series: \"Lyman 1, Balmer 2, Paschen 3, Brackett 4, Pfund 5\" (n_f)",
+            "hi": "हाइड्रोजन श्रेणियाँ: \"लाइमन 1, बामर 2, पाशन 3, ब्रैकेट 4, फ़ुंड 5\" (n_f)"
+          },
+          "recall": {
+            "en": "Lines ending at n = 1 form the Lyman (UV) series, at n = 2 the Balmer (visible), at 3 Paschen, 4 Brackett, 5 Pfund (infrared).",
+            "hi": "n = 1 पर समाप्त होने वाली रेखाएँ लाइमन (UV), n = 2 पर बामर (दृश्य), 3 पर पाशन, 4 पर ब्रैकेट, 5 पर फ़ुंड (अवरक्त) श्रेणी बनाती हैं।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Light is a wave (c = νλ) and a stream of photons (E = hν).",
+          "hi": "प्रकाश तरंग (c = νλ) भी है और फ़ोटॉनों की धारा (E = hν) भी।"
+        },
+        "formula": "E = hν = hc/λ",
+        "points": [
+          {
+            "en": "Photoelectric effect needs ν > ν₀; intensity changes number, not energy, of electrons.",
+            "hi": "प्रकाश-विद्युत प्रभाव के लिए ν > ν₀; तीव्रता इलेक्ट्रॉनों की संख्या बदलती है, ऊर्जा नहीं।"
+          },
+          {
+            "en": "Line spectra prove quantised energy levels.",
+            "hi": "रेखा स्पेक्ट्रम क्वांटित ऊर्जा स्तर सिद्ध करते हैं।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch02-t2.4",
+      "targetId": "cbse-11-ch02-t2.4",
+      "covers": [],
+      "definition": {
+        "en": "Bohr's model of the hydrogen atom: the electron moves in circular orbits (stationary states) of fixed energy; energy is absorbed or emitted only when it jumps between orbits, with ΔE = hν; angular momentum is quantised, mₑvr = nh/2π.",
+        "hi": "हाइड्रोजन परमाणु का बोर मॉडल: इलेक्ट्रॉन निश्चित ऊर्जा की वृत्ताकार कक्षाओं (स्थिर अवस्थाओं) में घूमता है; ऊर्जा केवल कक्षाओं के बीच कूदने पर अवशोषित या उत्सर्जित होती है, ΔE = hν; कोणीय संवेग क्वांटित है, mₑvr = nh/2π।"
+      },
+      "explanation": {
+        "en": "For hydrogen, Eₙ = −2.18 × 10⁻¹⁸ (1/n²) J and the orbit radius rₙ = 52.9 n² pm. For hydrogen-like ions (He⁺, Li²⁺), Eₙ = −2.18 × 10⁻¹⁸ (Z²/n²) J and rₙ = 52.9 n²/Z pm. Negative energy means the electron is bound; n = ∞ has zero energy (ionised). Bohr's model explains the hydrogen line spectrum but fails for multi-electron atoms, the fine splitting of lines, the effect of magnetic and electric fields, and it contradicts de Broglie's wave nature and Heisenberg's principle.",
+        "hi": "हाइड्रोजन के लिए Eₙ = −2.18 × 10⁻¹⁸ (1/n²) J और कक्षा की त्रिज्या rₙ = 52.9 n² pm। हाइड्रोजन-सदृश आयनों (He⁺, Li²⁺) के लिए Eₙ = −2.18 × 10⁻¹⁸ (Z²/n²) J और rₙ = 52.9 n²/Z pm। ऋणात्मक ऊर्जा का अर्थ है इलेक्ट्रॉन बँधा है; n = ∞ पर ऊर्जा शून्य (आयनित)। बोर मॉडल हाइड्रोजन का रेखा स्पेक्ट्रम समझाता है पर बहु-इलेक्ट्रॉनिक परमाणुओं, रेखाओं के सूक्ष्म विभाजन, चुंबकीय व विद्युत क्षेत्र के प्रभाव को नहीं समझा पाता, और डी ब्रॉग्ली की तरंग प्रकृति व हाइज़ेनबर्ग सिद्धांत के विपरीत है।"
+      },
+      "keyPoints": [
+        {
+          "en": "Energy of the photon emitted when the electron falls from n_i to n_f: ΔE = 2.18 × 10⁻¹⁸ (1/n_f² − 1/n_i²) J.",
+          "hi": "उत्सर्जित फ़ोटॉन की ऊर्जा: इलेक्ट्रॉन के n_i से n_f पर गिरने पर उत्सर्जित फ़ोटॉन की ऊर्जा: ΔE = 2.18 × 10⁻¹⁸ (1/n_f² − 1/n_i²) J।"
+        },
+        {
+          "en": "Ionisation energy of a hydrogen atom from n = 1 is 2.18 × 10⁻¹⁸ J.",
+          "hi": "n = 1 से हाइड्रोजन परमाणु की आयनन ऊर्जा 2.18 × 10⁻¹⁸ J है।"
+        }
+      ],
+      "realLife": {
+        "en": "Sodium street lamps and neon signs glow in colours set by electron jumps between energy levels.",
+        "hi": "सोडियम स्ट्रीट लैंप और नियॉन साइन के रंग ऊर्जा स्तरों के बीच इलेक्ट्रॉन की छलाँग से तय होते हैं।"
+      },
+      "examFocus": {
+        "en": "Numericals on energy, radius and wavelength of transitions; limitations of Bohr's model.",
+        "hi": "संक्रमण की ऊर्जा, त्रिज्या और तरंगदैर्ध्य पर आंकिक; बोर मॉडल की सीमाएँ।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Forgetting Z² for He⁺ or Li²⁺ when using the energy formula.",
+          "hi": "He⁺ या Li²⁺ के लिए ऊर्जा सूत्र में Z² भूल जाना।"
+        }
+      ],
+      "formulas": [
+        "Eₙ = −2.18 × 10⁻¹⁸ (Z²/n²) J",
+        "rₙ = 52.9 (n²/Z) pm",
+        "mₑvr = nh/2π",
+        "ΔE = hν"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "bohr-model-hydrogen"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "2.4"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Radius n²/Z, energy Z²/n² — upside-down twins\"",
+            "hi": "\"त्रिज्या n²/Z, ऊर्जा Z²/n² — उलटे जुड़वाँ\""
+          },
+          "recall": {
+            "en": "rₙ = 52.9 (n²/Z) pm grows with n²; Eₙ = −2.18 × 10⁻¹⁸ (Z²/n²) J has n² in the denominator, so higher orbits are larger and their energy is less negative (closer to zero).",
+            "hi": "rₙ = 52.9 (n²/Z) pm, n² के साथ बढ़ती है; Eₙ = −2.18 × 10⁻¹⁸ (Z²/n²) J में n² हर में है, इसलिए ऊँची कक्षाएँ बड़ी होती हैं और उनकी ऊर्जा कम ऋणात्मक (शून्य के निकट) होती है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Bohr: electron in fixed-energy orbits; jumps absorb or emit ΔE = hν.",
+          "hi": "बोर: इलेक्ट्रॉन निश्चित ऊर्जा वाली कक्षाओं में; कूदने पर ΔE = hν अवशोषित या उत्सर्जित।"
+        },
+        "formula": "Eₙ = −2.18 × 10⁻¹⁸ (Z²/n²) J",
+        "points": [
+          {
+            "en": "Angular momentum mₑvr = nh/2π (quantised).",
+            "hi": "कोणीय संवेग mₑvr = nh/2π (क्वांटित)।"
+          },
+          {
+            "en": "rₙ = 52.9 n²/Z pm; works only for one-electron species.",
+            "hi": "rₙ = 52.9 n²/Z pm; केवल एक-इलेक्ट्रॉन स्पीशीज़ के लिए।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch02-t2.5",
+      "targetId": "cbse-11-ch02-t2.5",
+      "covers": [],
+      "definition": {
+        "en": "Matter has dual behaviour: a moving particle has a wavelength λ = h/mv (de Broglie). Heisenberg's uncertainty principle states that position and momentum of an electron cannot both be known exactly: Δx · Δp ≥ h/4π.",
+        "hi": "द्रव्य का द्वैत व्यवहार है: गतिमान कण की तरंगदैर्ध्य λ = h/mv (डी ब्रॉग्ली)। हाइज़ेनबर्ग का अनिश्चितता सिद्धांत कहता है कि इलेक्ट्रॉन की स्थिति और संवेग दोनों एक साथ ठीक-ठीक ज्ञात नहीं हो सकते: Δx · Δp ≥ h/4π।"
+      },
+      "explanation": {
+        "en": "Electron diffraction confirmed the wave nature of electrons (used in the electron microscope). For everyday objects the de Broglie wavelength is far too small to notice. Because of the uncertainty principle, precise electron orbits (as in Bohr's model) have no meaning; we can speak only of the probability of finding an electron, which led to the quantum mechanical model.",
+        "hi": "इलेक्ट्रॉन विवर्तन ने इलेक्ट्रॉनों की तरंग प्रकृति की पुष्टि की (इलेक्ट्रॉन सूक्ष्मदर्शी में प्रयुक्त)। दैनिक वस्तुओं के लिए डी ब्रॉग्ली तरंगदैर्ध्य इतनी छोटी है कि पता नहीं चलती। अनिश्चितता सिद्धांत के कारण इलेक्ट्रॉन की निश्चित कक्षाओं (बोर मॉडल जैसी) का कोई अर्थ नहीं; हम केवल इलेक्ट्रॉन मिलने की प्रायिकता की बात कर सकते हैं — इसी से क्वांटम यांत्रिकीय मॉडल बना।"
+      },
+      "keyPoints": [
+        {
+          "en": "Δx · Δv ≥ h/4πm; the effect matters only for microscopic particles.",
+          "hi": "Δx · Δv ≥ h/4πm; यह प्रभाव केवल सूक्ष्म कणों के लिए महत्वपूर्ण है।"
+        }
+      ],
+      "realLife": {
+        "en": "Electron microscopes use the wave nature of electrons to see detail far smaller than light allows.",
+        "hi": "इलेक्ट्रॉन सूक्ष्मदर्शी इलेक्ट्रॉनों की तरंग प्रकृति से प्रकाश की सीमा से कहीं छोटे विवरण देखते हैं।"
+      },
+      "examFocus": {
+        "en": "Numericals on de Broglie wavelength and uncertainty; why Bohr's orbits are not meaningful.",
+        "hi": "डी ब्रॉग्ली तरंगदैर्ध्य और अनिश्चितता पर आंकिक; बोर की कक्षाएँ अर्थहीन क्यों।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Using mass in grams in λ = h/mv — use kg with h in J s.",
+          "hi": "λ = h/mv में द्रव्यमान ग्राम में लेना — h (J s) के साथ kg लें।"
+        }
+      ],
+      "formulas": [
+        "λ = h/mv = h/p",
+        "Δx · Δp ≥ h/4π"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "quantum-mechanical-model"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "2.5"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"λ = h/p: big momentum, tiny wave\"",
+            "hi": "\"λ = h/p: अधिक संवेग, बहुत छोटी तरंग\""
+          },
+          "recall": {
+            "en": "Because h is so small, a heavy or fast object has a wavelength far too small to detect (a cricket ball shows no wave nature); only very light particles such as electrons show measurable wave behaviour. The uncertainty principle matters for the same reason.",
+            "hi": "h बहुत छोटा होने के कारण किसी भारी या तेज़ वस्तु की तरंगदैर्ध्य इतनी छोटी होती है कि उसका पता नहीं चलता (क्रिकेट की गेंद में तरंग प्रकृति नहीं दिखती); केवल इलेक्ट्रॉन जैसे बहुत हल्के कण मापने योग्य तरंग व्यवहार दिखाते हैं। इसी कारण अनिश्चितता सिद्धांत भी सूक्ष्म कणों के लिए ही महत्त्वपूर्ण है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Matter has wave nature (λ = h/mv) and position and momentum cannot both be exact.",
+          "hi": "द्रव्य की तरंग प्रकृति होती है (λ = h/mv) और स्थिति तथा संवेग दोनों सटीक नहीं हो सकते।"
+        },
+        "formula": "Δx · Δp ≥ h/4π",
+        "points": [
+          {
+            "en": "Effect matters only for microscopic particles like electrons.",
+            "hi": "प्रभाव केवल इलेक्ट्रॉन जैसे सूक्ष्म कणों के लिए महत्वपूर्ण।"
+          },
+          {
+            "en": "It rules out fixed Bohr orbits.",
+            "hi": "यह निश्चित बोर कक्षाओं को अस्वीकार करता है।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-ch02-t2.6",
+      "targetId": "cbse-11-ch02-t2.6",
+      "covers": [],
+      "definition": {
+        "en": "In the quantum mechanical model, electrons are described by wave functions (Schrödinger equation); an atomic orbital is the region where the probability of finding an electron is high, specified by quantum numbers n, l and m_l (plus spin m_s).",
+        "hi": "क्वांटम यांत्रिकीय मॉडल में इलेक्ट्रॉनों का वर्णन तरंग फलनों (श्रोडिंगर समीकरण) से होता है; परमाणु कक्षक वह क्षेत्र है जहाँ इलेक्ट्रॉन मिलने की प्रायिकता अधिक हो, जिसे क्वांटम संख्याएँ n, l और m_l (तथा चक्रण m_s) निर्धारित करती हैं।"
+      },
+      "explanation": {
+        "en": "n (principal: 1, 2, 3…) gives shell and size; l (azimuthal: 0 to n−1 — s, p, d, f) gives subshell and shape; m_l (−l to +l) gives orientation; m_s = +½ or −½. s orbitals are spherical, p are dumbbell-shaped, d mostly cloverleaf. Number of radial nodes = n − l − 1; angular nodes = l. Filling rules: Aufbau (lower n + l first; same n + l, lower n first: 1s 2s 2p 3s 3p 4s 3d 4p…), Pauli exclusion (no two electrons with all four quantum numbers the same; max 2 per orbital), Hund's rule (fill degenerate orbitals singly first, with parallel spins). Half-filled and completely filled subshells are extra stable: Cr is 3d⁵4s¹ and Cu is 3d¹⁰4s¹.",
+        "hi": "n (मुख्य: 1, 2, 3…) कोश और आकार; l (दिगंशी: 0 से n−1 — s, p, d, f) उपकोश और आकृति; m_l (−l से +l) अभिविन्यास; m_s = +½ या −½। s कक्षक गोलाकार, p डम्बल-आकार, d अधिकतर चतुष्पर्णी। त्रिज्य नोड = n − l − 1; कोणीय नोड = l। भरने के नियम: ऑफ़बाऊ (कम n + l पहले; n + l समान हो तो कम n पहले: 1s 2s 2p 3s 3p 4s 3d 4p…), पाउली अपवर्जन (किन्हीं दो इलेक्ट्रॉनों की चारों क्वांटम संख्याएँ समान नहीं; एक कक्षक में अधिकतम 2), हुंड नियम (समभ्रंश कक्षकों में पहले एक-एक, समांतर चक्रण सहित)। अर्धपूरित और पूर्णपूरित उपकोश अतिरिक्त स्थायी होते हैं: Cr 3d⁵4s¹ और Cu 3d¹⁰4s¹।"
+      },
+      "keyPoints": [
+        {
+          "en": "Maximum electrons in shell n = 2n²; in a subshell 2(2l + 1).",
+          "hi": "n कोश में अधिकतम इलेक्ट्रॉन = 2n²; उपकोश में 2(2l + 1)।"
+        },
+        {
+          "en": "In multi-electron atoms orbital energy depends on n and l; in hydrogen only on n.",
+          "hi": "बहु-इलेक्ट्रॉनिक परमाणुओं में कक्षक ऊर्जा n और l पर निर्भर; हाइड्रोजन में केवल n पर।"
+        },
+        {
+          "en": "ψ has no physical meaning; ψ² gives the probability density.",
+          "hi": "ψ का कोई भौतिक अर्थ नहीं; ψ² प्रायिकता घनत्व देता है।"
+        }
+      ],
+      "realLife": {
+        "en": "Electronic configurations explain the colours of transition-metal compounds, magnetism and how elements bond.",
+        "hi": "इलेक्ट्रॉनिक विन्यास संक्रमण धातु यौगिकों के रंग, चुंबकत्व और तत्वों के आबंधन को समझाते हैं।"
+      },
+      "examFocus": {
+        "en": "Write allowed sets of quantum numbers, count nodes, write configurations (including Cr and Cu exceptions) and state the filling rules.",
+        "hi": "क्वांटम संख्याओं के मान्य समुच्चय, नोड गिनना, विन्यास लिखना (Cr और Cu अपवाद सहित) और भरने के नियम लिखना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Allowing l = n (for n = 2, l can be only 0 or 1) or m_l outside −l…+l.",
+          "hi": "l = n मान लेना (n = 2 के लिए l केवल 0 या 1) या m_l को −l…+l से बाहर लेना।"
+        }
+      ],
+      "formulas": [
+        "Radial nodes = n − l − 1",
+        "Angular nodes = l",
+        "Electrons in subshell = 2(2l + 1)"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "quantum-mechanical-model",
+        "electron-distribution"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "ncert-11-en",
+          "section": "2.6"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"n gives size, l gives shape, m gives orientation, s gives spin\"",
+            "hi": "\"n आकार, l आकृति, m अभिविन्यास, s चक्रण बताता है\""
+          },
+          "recall": {
+            "en": "Principal quantum number n → shell and size; azimuthal l → subshell shape (s, p, d, f); magnetic m_l → orientation; spin m_s → +½ or −½.",
+            "hi": "मुख्य क्वांटम संख्या n → कोश और आकार; दिगंशी l → उपकोश की आकृति (s, p, d, f); चुंबकीय m_l → अभिविन्यास; चक्रण m_s → +½ या −½।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Orbitals are regions of high electron probability, labelled by n, l, m_l and m_s.",
+          "hi": "कक्षक इलेक्ट्रॉन की उच्च प्रायिकता वाले क्षेत्र हैं, जिन्हें n, l, m_l और m_s दर्शाते हैं।"
+        },
+        "formula": "Radial nodes = n − l − 1",
+        "points": [
+          {
+            "en": "Filling: Aufbau (n + l), Pauli (max 2 per orbital, opposite spins), Hund (singly first).",
+            "hi": "भरना: आउफ़बाउ (n + l), पाउली (प्रति कक्षक अधिकतम 2, विपरीत चक्रण), हुंड (पहले एकल)।"
+          },
+          {
+            "en": "Cr 3d⁵4s¹ and Cu 3d¹⁰4s¹ (half-filled/full stability).",
+            "hi": "Cr 3d⁵4s¹ और Cu 3d¹⁰4s¹ (अर्धपूरित/पूर्णपूरित स्थायित्व)।"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1244 @@
+{
+  "schemaVersion": 1,
+  "boardId": "rajasthan",
+  "academicYear": "2026-27",
+  "classLevel": 12,
+  "label": {
+    "en": "Class 12",
+    "hi": "कक्षा 12",
+    "hiSrc": "translated"
+  },
+  "subject": {
+    "id": "chemistry",
+    "code": "41",
+    "name": {
+      "en": "Chemistry",
+      "hi": "रसायन विज्ञान",
+      "hiSrc": "translated"
+    }
+  },
+  "textbook": {
+    "title": {
+      "en": "Chemistry Part I & II, Class XII (NCERT), as prescribed by BSER",
+      "hi": "रसायन विज्ञान भाग I व II, कक्षा 12 (NCERT), BSER द्वारा निर्धारित",
+      "hiSrc": "translated"
+    },
+    "sourceIds": [
+      "ncert-12-en",
+      "ncert-12-hi"
+    ]
+  },
+  "sourceIds": [
+    "rj-chem-12",
+    "ncert-12-en",
+    "ncert-12-hi"
+  ],
+  "examPattern": {
+    "theoryMarks": 56,
+    "internalAssessment": 14,
+    "practicalMarks": 30,
+    "boardExam": true,
+    "attempts": [
+      "main"
+    ],
+    "sourceId": "rj-chem-12",
+    "note": "Theory paper of 56 marks with 14 sessional marks (70), and a 30-mark practical examination."
+  },
+  "units": [],
+  "chapters": [
+    {
+      "id": "rj-12-ch01",
+      "number": 1,
+      "unitId": null,
+      "title": {
+        "en": "Solutions",
+        "hi": "विलयन",
+        "hiSrc": "ncert-decoded"
+      },
+      "curriculumName": null,
+      "assessment": "summative",
+      "weightage": {
+        "marks": 6,
+        "scope": "chapter"
+      },
+      "description": {
+        "en": "Types of solutions; concentration; solubility of solids and gases, Henry's law; vapour pressure, Raoult's law; ideal and non-ideal solutions; colligative properties, osmosis, reverse osmosis and water purification; abnormal molar masses, van 't Hoff factor.",
+        "hi": "विलयनों के प्रकार; सांद्रता; ठोसों और गैसों की विलेयता, हेनरी नियम; वाष्प दाब, राउल्ट नियम; आदर्श और अनादर्श विलयन; अणुसंख्य गुणधर्म, परासरण, प्रतिलोम परासरण और जल शोधन; असामान्य मोलर द्रव्यमान, वान्ट हॉफ़ गुणांक।",
+        "hiSrc": "translated"
+      },
+      "descriptionSourceId": "rj-chem-12",
+      "contentSourceId": null,
+      "topics": [
+        {
+          "id": "rj-12-ch01-t1.1",
+          "number": "1.1",
+          "title": {
+            "en": "Types of Solutions",
+            "hi": "विलयनों के प्रकार",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch01-t1.2",
+          "number": "1.2",
+          "title": {
+            "en": "Expressing Concentration of Solutions",
+            "hi": "विलयनों की सांद्रता को व्यक्त करना",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch01-t1.3",
+          "number": "1.3",
+          "title": {
+            "en": "Solubility",
+            "hi": "विलेयता",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch01-t1.4",
+          "number": "1.4",
+          "title": {
+            "en": "Vapour Pressure of Liquid Solutions",
+            "hi": "द्रवीय विलयनों का वाष्प दाब",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch01-t1.5",
+          "number": "1.5",
+          "title": {
+            "en": "Ideal and Non-ideal Solutions",
+            "hi": "आदर्श एवं अनादर्श विलयन",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch01-t1.6",
+          "number": "1.6",
+          "title": {
+            "en": "Colligative Properties and Determination of Molar Mass",
+            "hi": "अणुसंख्य गुणधर्म और आण्विक द्रव्यमान की गणना",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch01-t1.7",
+          "number": "1.7",
+          "title": {
+            "en": "Abnormal Molar Masses",
+            "hi": "असामान्य मोलर द्रव्यमान",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        }
+      ],
+      "practicalIds": [],
+      "conceptIds": [],
+      "review": {
+        "status": "verified",
+        "note": "Chapter list and marks verified against the BSER syllabus for examination year 2027 (session 2026-27), which prescribes the NCERT book. Topics follow the NCERT sections of the same chapter. Hindi descriptions are our translation and need teacher review."
+      }
+    },
+    {
+      "id": "rj-12-ch02",
+      "number": 2,
+      "unitId": null,
+      "title": {
+        "en": "Electrochemistry",
+        "hi": "वैद्युतरसायन",
+        "hiSrc": "ncert-decoded"
+      },
+      "curriculumName": null,
+      "assessment": "summative",
+      "weightage": {
+        "marks": 6,
+        "scope": "chapter"
+      },
+      "description": {
+        "en": "Electrochemical and galvanic cells, electrode potential, Nernst equation and equilibrium constant, Gibbs energy, conductance, molar and limiting molar conductivity, Kohlrausch's law, electrolysis and its laws, primary and secondary batteries (lead accumulator), fuel cells, corrosion.",
+        "hi": "वैद्युतरासायनिक और गैल्वनी सेल, इलेक्ट्रोड विभव, नर्न्स्ट समीकरण और साम्य स्थिरांक, गिब्स ऊर्जा, चालकत्व, मोलर और सीमांत मोलर चालकता, कोलराउश नियम, वैद्युत अपघटन और उसके नियम, प्राथमिक और द्वितीयक बैटरी (सीसा संचायक), ईंधन सेल, संक्षारण।",
+        "hiSrc": "translated"
+      },
+      "descriptionSourceId": "rj-chem-12",
+      "contentSourceId": null,
+      "topics": [
+        {
+          "id": "rj-12-ch02-t2.1",
+          "number": "2.1",
+          "title": {
+            "en": "Electrochemical Cells",
+            "hi": "वैद्युत रासायनिक सेल",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch02-t2.2",
+          "number": "2.2",
+          "title": {
+            "en": "Galvanic Cells",
+            "hi": "गैल्वैनी सेल",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch02-t2.3",
+          "number": "2.3",
+          "title": {
+            "en": "Nernst Equation",
+            "hi": "नेर्न्स्ट समीकरण",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch02-t2.4",
+          "number": "2.4",
+          "title": {
+            "en": "Conductance of Electrolytic Solutions",
+            "hi": "वैद्युतअपघटनी विलयनों का चालकत्व",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch02-t2.5",
+          "number": "2.5",
+          "title": {
+            "en": "Electrolytic Cells and Electrolysis",
+            "hi": "वैद्युतअपघटनी सेल एवं वैद्युतअपघटन",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch02-t2.6",
+          "number": "2.6",
+          "title": {
+            "en": "Batteries",
+            "hi": "बैटरियाँ",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch02-t2.7",
+          "number": "2.7",
+          "title": {
+            "en": "Fuel Cells",
+            "hi": "ईंधन सेल",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch02-t2.8",
+          "number": "2.8",
+          "title": {
+            "en": "Corrosion",
+            "hi": "संक्षारण",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        }
+      ],
+      "practicalIds": [],
+      "conceptIds": [],
+      "review": {
+        "status": "verified",
+        "note": "Chapter list and marks verified against the BSER syllabus for examination year 2027 (session 2026-27), which prescribes the NCERT book. Topics follow the NCERT sections of the same chapter. Hindi descriptions are our translation and need teacher review."
+      }
+    },
+    {
+      "id": "rj-12-ch03",
+      "number": 3,
+      "unitId": null,
+      "title": {
+        "en": "Chemical Kinetics",
+        "hi": "रासायनिक बलगतिकी",
+        "hiSrc": "ncert-decoded"
+      },
+      "curriculumName": null,
+      "assessment": "summative",
+      "weightage": {
+        "marks": 6,
+        "scope": "chapter"
+      },
+      "description": {
+        "en": "Rate of reaction (average and instantaneous), factors affecting rate, rate law, order and molecularity, integrated rate equations for zero and first order, half-life, temperature dependence and catalysts, collision theory, activation energy, Arrhenius equation.",
+        "hi": "अभिक्रिया वेग (औसत और तात्क्षणिक), वेग को प्रभावित करने वाले कारक, वेग नियम, कोटि और आण्विकता, शून्य और प्रथम कोटि के समाकलित वेग समीकरण, अर्धायु, ताप पर निर्भरता और उत्प्रेरक, संघट्ट सिद्धांत, सक्रियण ऊर्जा, आरेनियस समीकरण।",
+        "hiSrc": "translated"
+      },
+      "descriptionSourceId": "rj-chem-12",
+      "contentSourceId": null,
+      "topics": [
+        {
+          "id": "rj-12-ch03-t3.1",
+          "number": "3.1",
+          "title": {
+            "en": "Rate of a Chemical Reaction",
+            "hi": "रासायनिक अभिक्रिया वेग",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch03-t3.2",
+          "number": "3.2",
+          "title": {
+            "en": "Factors Influencing Rate of a Reaction",
+            "hi": "अभिक्रिया वेग को प्रभावित करने वाले कारक",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch03-t3.3",
+          "number": "3.3",
+          "title": {
+            "en": "Integrated Rate Equations",
+            "hi": "समाकलित वेग समीकरण",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch03-t3.4",
+          "number": "3.4",
+          "title": {
+            "en": "Temperature Dependence of the Rate of a Reaction",
+            "hi": "अभिक्रिया वेग की ताप पर निर्भरता",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch03-t3.5",
+          "number": "3.5",
+          "title": {
+            "en": "Collision Theory of Chemical Reactions",
+            "hi": "रासायनिक अभिक्रिया का संघट्ट सिद्धांत",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        }
+      ],
+      "practicalIds": [],
+      "conceptIds": [],
+      "review": {
+        "status": "verified",
+        "note": "Chapter list and marks verified against the BSER syllabus for examination year 2027 (session 2026-27), which prescribes the NCERT book. Topics follow the NCERT sections of the same chapter. Hindi descriptions are our translation and need teacher review."
+      }
+    },
+    {
+      "id": "rj-12-ch04",
+      "number": 4,
+      "unitId": null,
+      "title": {
+        "en": "The d- and f-Block Elements",
+        "hi": "d- एवं f- ब्लॉक के तत्व",
+        "hiSrc": "ncert-decoded"
+      },
+      "curriculumName": null,
+      "assessment": "summative",
+      "weightage": {
+        "marks": 5,
+        "scope": "chapter"
+      },
+      "description": {
+        "en": "Position in the periodic table, electronic configurations, general properties of transition elements, preparation and properties of K₂Cr₂O₇ and KMnO₄, lanthanoids and lanthanoid contraction, actinoids and comparison with lanthanoids, applications of d- and f-block elements.",
+        "hi": "आवर्त सारणी में स्थान, इलेक्ट्रॉनिक विन्यास, संक्रमण तत्वों के सामान्य गुणधर्म, K₂Cr₂O₇ और KMnO₄ का विरचन और गुणधर्म, लैन्थेनॉयड और लैन्थेनॉयड आकुंचन, ऐक्टिनॉयड और लैन्थेनॉयड से तुलना, d- और f-ब्लॉक तत्वों के अनुप्रयोग।",
+        "hiSrc": "translated"
+      },
+      "descriptionSourceId": "rj-chem-12",
+      "contentSourceId": null,
+      "topics": [
+        {
+          "id": "rj-12-ch04-t4.1",
+          "number": "4.1",
+          "title": {
+            "en": "Position in the Periodic Table",
+            "hi": "आवर्त सारणी में स्थिति",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch04-t4.2",
+          "number": "4.2",
+          "title": {
+            "en": "Electronic Configurations of the d-Block Elements",
+            "hi": "d-ब्लॉक तत्वों के इलेक्ट्रॉनिक विन्यास",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch04-t4.3",
+          "number": "4.3",
+          "title": {
+            "en": "General Properties of the Transition Elements (d-Block)",
+            "hi": "संक्रमण तत्वों (d-ब्लॉक) के सामान्य गुण",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch04-t4.4",
+          "number": "4.4",
+          "title": {
+            "en": "Some Important Compounds of Transition Elements",
+            "hi": "संक्रमण तत्वों के कुछ महत्वपूर्ण यौगिक",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch04-t4.5",
+          "number": "4.5",
+          "title": {
+            "en": "The Lanthanoids",
+            "hi": "लैन्थेनॉयड",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch04-t4.6",
+          "number": "4.6",
+          "title": {
+            "en": "The Actinoids",
+            "hi": "एक्टिनॉयड",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch04-t4.7",
+          "number": "4.7",
+          "title": {
+            "en": "Some Applications of d- and f-Block Elements",
+            "hi": "d- एवं f-ब्लॉक तत्वों के कुछ अनुप्रयोग",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        }
+      ],
+      "practicalIds": [],
+      "conceptIds": [],
+      "review": {
+        "status": "verified",
+        "note": "Chapter list and marks verified against the BSER syllabus for examination year 2027 (session 2026-27), which prescribes the NCERT book. Topics follow the NCERT sections of the same chapter. Hindi descriptions are our translation and need teacher review."
+      }
+    },
+    {
+      "id": "rj-12-ch05",
+      "number": 5,
+      "unitId": null,
+      "title": {
+        "en": "Coordination Compounds",
+        "hi": "उपसहसंयोजन यौगिक",
+        "hiSrc": "ncert-decoded"
+      },
+      "curriculumName": null,
+      "assessment": "summative",
+      "weightage": {
+        "marks": 5,
+        "scope": "chapter"
+      },
+      "description": {
+        "en": "Werner's theory, important terms, formulas and IUPAC nomenclature, isomerism, valence bond theory, magnetic properties, crystal field theory, colour, metal carbonyls, importance and applications.",
+        "hi": "वर्नर का सिद्धांत, महत्वपूर्ण पद, सूत्र और IUPAC नामपद्धति, समावयवता, संयोजकता आबंध सिद्धांत, चुंबकीय गुणधर्म, क्रिस्टल क्षेत्र सिद्धांत, रंग, धातु कार्बोनिल, महत्व और अनुप्रयोग।",
+        "hiSrc": "translated"
+      },
+      "descriptionSourceId": "rj-chem-12",
+      "contentSourceId": null,
+      "topics": [
+        {
+          "id": "rj-12-ch05-t5.1",
+          "number": "5.1",
+          "title": {
+            "en": "Werner's Theory of Coordination Compounds",
+            "hi": "उपसहसंयोजन यौगिकों का वर्नर का सिद्धांत",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch05-t5.2",
+          "number": "5.2",
+          "title": {
+            "en": "Definitions of Some Important Terms Pertaining to Coordination Compounds",
+            "hi": "उपसहसंयोजन यौगिकों से संबंधित कुछ प्रमुख पारिभाषिक शब्द",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch05-t5.3",
+          "number": "5.3",
+          "title": {
+            "en": "Nomenclature of Coordination Compounds",
+            "hi": "उपसहसंयोजन यौगिकों का नामकरण",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch05-t5.4",
+          "number": "5.4",
+          "title": {
+            "en": "Isomerism in Coordination Compounds",
+            "hi": "उपसहसंयोजन यौगिकों में समावयवता",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch05-t5.5",
+          "number": "5.5",
+          "title": {
+            "en": "Bonding in Coordination Compounds",
+            "hi": "उपसहसंयोजन यौगिकों में आबंधन",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch05-t5.6",
+          "number": "5.6",
+          "title": {
+            "en": "Bonding in Metal Carbonyls",
+            "hi": "धातु कार्बोनिलों में आबंधन",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch05-t5.7",
+          "number": "5.7",
+          "title": {
+            "en": "Importance and Applications of Coordination Compounds",
+            "hi": "उपसहसंयोजन यौगिकों का महत्व तथा अनुप्रयोग",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        }
+      ],
+      "practicalIds": [],
+      "conceptIds": [],
+      "review": {
+        "status": "verified",
+        "note": "Chapter list and marks verified against the BSER syllabus for examination year 2027 (session 2026-27), which prescribes the NCERT book. Topics follow the NCERT sections of the same chapter. Hindi descriptions are our translation and need teacher review."
+      }
+    },
+    {
+      "id": "rj-12-ch06",
+      "number": 6,
+      "unitId": null,
+      "title": {
+        "en": "Haloalkanes and Haloarenes",
+        "hi": "हैलोऐल्केन तथा हैलोऐरीन",
+        "hiSrc": "ncert-decoded"
+      },
+      "curriculumName": null,
+      "assessment": "summative",
+      "weightage": {
+        "marks": 6,
+        "scope": "chapter"
+      },
+      "description": {
+        "en": "Classification, nomenclature, nature of the C–X bond, preparation of haloalkanes and haloarenes, physical properties, chemical reactions, optical rotation, mechanism of nucleophilic substitution, polyhalogen compounds (dichloromethane, chloroform, iodoform, carbon tetrachloride, freons, DDT).",
+        "hi": "वर्गीकरण, नामपद्धति, C–X आबंध की प्रकृति, हैलोऐल्केन और हैलोऐरीन का विरचन, भौतिक गुणधर्म, रासायनिक अभिक्रियाएँ, ध्रुवण घूर्णन, नाभिकस्नेही प्रतिस्थापन की क्रियाविधि, बहुहैलोजन यौगिक (डाइक्लोरोमेथेन, क्लोरोफ़ॉर्म, आयडोफ़ॉर्म, कार्बन टेट्राक्लोराइड, फ़्रेऑन, DDT)।",
+        "hiSrc": "translated"
+      },
+      "descriptionSourceId": "rj-chem-12",
+      "contentSourceId": null,
+      "topics": [
+        {
+          "id": "rj-12-ch06-t6.1",
+          "number": "6.1",
+          "title": {
+            "en": "Classification",
+            "hi": "वर्गीकरण",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch06-t6.2",
+          "number": "6.2",
+          "title": {
+            "en": "Nomenclature",
+            "hi": "नामपद्धति",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch06-t6.3",
+          "number": "6.3",
+          "title": {
+            "en": "Nature of C–X Bond",
+            "hi": "C–X आबंध की प्रकृति",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch06-t6.4",
+          "number": "6.4",
+          "title": {
+            "en": "Methods of Preparation of Haloalkanes",
+            "hi": "ऐल्किल हैलाइडों के विरचन की विधियाँ",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch06-t6.5",
+          "number": "6.5",
+          "title": {
+            "en": "Preparation of Haloarenes",
+            "hi": "हैलोएरीनों का विरचन",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch06-t6.6",
+          "number": "6.6",
+          "title": {
+            "en": "Physical Properties",
+            "hi": "भौतिक गुण",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch06-t6.7",
+          "number": "6.7",
+          "title": {
+            "en": "Chemical Reactions",
+            "hi": "रासायनिक अभिक्रियाएँ",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch06-t6.8",
+          "number": "6.8",
+          "title": {
+            "en": "Polyhalogen Compounds",
+            "hi": "पॉलिहैलोजन यौगिक",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        }
+      ],
+      "practicalIds": [],
+      "conceptIds": [],
+      "review": {
+        "status": "verified",
+        "note": "Chapter list and marks verified against the BSER syllabus for examination year 2027 (session 2026-27), which prescribes the NCERT book. Topics follow the NCERT sections of the same chapter. Hindi descriptions are our translation and need teacher review."
+      }
+    },
+    {
+      "id": "rj-12-ch07",
+      "number": 7,
+      "unitId": null,
+      "title": {
+        "en": "Alcohols, Phenols and Ethers",
+        "hi": "ऐल्कोहॉल, फ़ीनॉल एवं ईथर",
+        "hiSrc": "ncert-decoded"
+      },
+      "curriculumName": null,
+      "assessment": "summative",
+      "weightage": {
+        "marks": 6,
+        "scope": "chapter"
+      },
+      "description": {
+        "en": "Alcohols — classification, nomenclature, preparation, properties (primary alcohols only), identification of 1°, 2° and 3° alcohols, mechanism of dehydration, methanol and ethanol; phenols — preparation, properties, acidity, electrophilic substitution, uses; ethers — nomenclature, preparation, properties, uses.",
+        "hi": "ऐल्कोहॉल — वर्गीकरण, नामपद्धति, विरचन, गुणधर्म (केवल प्राथमिक), 1°, 2° और 3° की पहचान, निर्जलन की क्रियाविधि, मेथेनॉल और एथेनॉल; फ़ीनॉल — विरचन, गुणधर्म, अम्लीयता, इलेक्ट्रॉनस्नेही प्रतिस्थापन, उपयोग; ईथर — नामपद्धति, विरचन, गुणधर्म, उपयोग।",
+        "hiSrc": "translated"
+      },
+      "descriptionSourceId": "rj-chem-12",
+      "contentSourceId": null,
+      "topics": [
+        {
+          "id": "rj-12-ch07-t7.1",
+          "number": "7.1",
+          "title": {
+            "en": "Classification",
+            "hi": "वर्गीकरण",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch07-t7.2",
+          "number": "7.2",
+          "title": {
+            "en": "Nomenclature",
+            "hi": "नामपद्धति",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch07-t7.3",
+          "number": "7.3",
+          "title": {
+            "en": "Structures of Functional Groups",
+            "hi": "प्रकार्यात्मक समूहों की संरचनाएँ",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch07-t7.4",
+          "number": "7.4",
+          "title": {
+            "en": "Alcohols and Phenols",
+            "hi": "ऐल्कोहॉल और फ़ीनॉलों का विरचन",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch07-t7.5",
+          "number": "7.5",
+          "title": {
+            "en": "Some Commercially Important Alcohols",
+            "hi": "औद्योगिक महत्व के कुछ ऐल्कोहॉल",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch07-t7.6",
+          "number": "7.6",
+          "title": {
+            "en": "Ethers",
+            "hi": "ईथर",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        }
+      ],
+      "practicalIds": [],
+      "conceptIds": [],
+      "review": {
+        "status": "verified",
+        "note": "Chapter list and marks verified against the BSER syllabus for examination year 2027 (session 2026-27), which prescribes the NCERT book. Topics follow the NCERT sections of the same chapter. Hindi descriptions are our translation and need teacher review."
+      }
+    },
+    {
+      "id": "rj-12-ch08",
+      "number": 8,
+      "unitId": null,
+      "title": {
+        "en": "Aldehydes, Ketones and Carboxylic Acids",
+        "hi": "ऐल्डिहाइड, कीटोन एवं कार्बोक्सिलिक अम्ल",
+        "hiSrc": "ncert-decoded"
+      },
+      "curriculumName": null,
+      "assessment": "summative",
+      "weightage": {
+        "marks": 7,
+        "scope": "chapter"
+      },
+      "description": {
+        "en": "Aldehydes and ketones — nomenclature, nature and structure of the carbonyl group, preparation, properties, mechanism of nucleophilic addition, reactivity of α-hydrogen, uses; carboxylic acids — nomenclature, acidity and structure, preparation, properties, uses.",
+        "hi": "ऐल्डिहाइड और कीटोन — नामपद्धति, कार्बोनिल समूह की प्रकृति और संरचना, विरचन, गुणधर्म, नाभिकस्नेही योग की क्रियाविधि, α-हाइड्रोजन की अभिक्रियाशीलता, उपयोग; कार्बोक्सिलिक अम्ल — नामपद्धति, अम्लीयता और संरचना, विरचन, गुणधर्म, उपयोग।",
+        "hiSrc": "translated"
+      },
+      "descriptionSourceId": "rj-chem-12",
+      "contentSourceId": null,
+      "topics": [
+        {
+          "id": "rj-12-ch08-t8.1",
+          "number": "8.1",
+          "title": {
+            "en": "Nomenclature and Structure of Carbonyl Group",
+            "hi": "कार्बोनिल यौगिकों का नामकरण एवं संरचना",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch08-t8.2",
+          "number": "8.2",
+          "title": {
+            "en": "Preparation of Aldehydes and Ketones",
+            "hi": "ऐल्डिहाइडों एवं कीटोनों का विरचन",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch08-t8.3",
+          "number": "8.3",
+          "title": {
+            "en": "Physical Properties",
+            "hi": "भौतिक गुणधर्म",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch08-t8.4",
+          "number": "8.4",
+          "title": {
+            "en": "Chemical Reactions",
+            "hi": "रासायनिक अभिक्रियाएँ",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch08-t8.5",
+          "number": "8.5",
+          "title": {
+            "en": "Uses of Aldehydes and Ketones",
+            "hi": "ऐल्डिहाइडों एवं कीटोनों के उपयोग",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch08-t8.6",
+          "number": "8.6",
+          "title": {
+            "en": "Nomenclature and Structure of Carboxyl Group",
+            "hi": "कार्बोक्सिलिक समूह की नामपद्धति व संरचना",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch08-t8.7",
+          "number": "8.7",
+          "title": {
+            "en": "Methods of Preparation of Carboxylic Acids",
+            "hi": "कार्बोक्सिलिक अम्ल बनाने की विधियाँ",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch08-t8.8",
+          "number": "8.8",
+          "title": {
+            "en": "Physical Properties",
+            "hi": "भौतिक गुण",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch08-t8.9",
+          "number": "8.9",
+          "title": {
+            "en": "Chemical Reactions",
+            "hi": "रासायनिक अभिक्रियाएँ",
+            "hiSrc": "translated"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch08-t8.10",
+          "number": "8.10",
+          "title": {
+            "en": "Uses of Carboxylic Acids",
+            "hi": "कार्बोक्सिलिक अम्लों के उपयोग",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        }
+      ],
+      "practicalIds": [],
+      "conceptIds": [],
+      "review": {
+        "status": "verified",
+        "note": "Chapter list and marks verified against the BSER syllabus for examination year 2027 (session 2026-27), which prescribes the NCERT book. Topics follow the NCERT sections of the same chapter. Hindi descriptions are our translation and need teacher review."
+      }
+    },
+    {
+      "id": "rj-12-ch09",
+      "number": 9,
+      "unitId": null,
+      "title": {
+        "en": "Amines",
+        "hi": "ऐमीन",
+        "hiSrc": "ncert-decoded"
+      },
+      "curriculumName": null,
+      "assessment": "summative",
+      "weightage": {
+        "marks": 5,
+        "scope": "chapter"
+      },
+      "description": {
+        "en": "Amines — classification, structure, nomenclature, preparation, properties, basic character; diazonium salts — preparation, physical properties, reactions, importance in the synthesis of aromatic compounds.",
+        "hi": "ऐमीन — वर्गीकरण, संरचना, नामपद्धति, विरचन, गुणधर्म, क्षारकीय गुण; डाइऐज़ोनियम लवण — विरचन, भौतिक गुणधर्म, अभिक्रियाएँ, ऐरोमैटिक यौगिकों के संश्लेषण में महत्व।",
+        "hiSrc": "translated"
+      },
+      "descriptionSourceId": "rj-chem-12",
+      "contentSourceId": null,
+      "topics": [
+        {
+          "id": "rj-12-ch09-t9.1",
+          "number": "9.1",
+          "title": {
+            "en": "Structure of Amines",
+            "hi": "ऐमीनों की संरचना",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch09-t9.2",
+          "number": "9.2",
+          "title": {
+            "en": "Classification",
+            "hi": "वर्गीकरण",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch09-t9.3",
+          "number": "9.3",
+          "title": {
+            "en": "Nomenclature",
+            "hi": "नामपद्धति",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch09-t9.4",
+          "number": "9.4",
+          "title": {
+            "en": "Preparation of Amines",
+            "hi": "ऐमीनों का विरचन",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch09-t9.5",
+          "number": "9.5",
+          "title": {
+            "en": "Physical Properties",
+            "hi": "भौतिक गुणधर्म",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch09-t9.6",
+          "number": "9.6",
+          "title": {
+            "en": "Chemical Reactions",
+            "hi": "रासायनिक अभिक्रियाएँ",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch09-t9.7",
+          "number": "9.7",
+          "title": {
+            "en": "Method of Preparation of Diazonium Salts",
+            "hi": "डाइऐज़ोनियम लवणों के विरचन की विधि",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch09-t9.8",
+          "number": "9.8",
+          "title": {
+            "en": "Physical Properties",
+            "hi": "भौतिक गुण",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch09-t9.9",
+          "number": "9.9",
+          "title": {
+            "en": "Chemical Reactions",
+            "hi": "रासायनिक अभिक्रियाएँ",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch09-t9.10",
+          "number": "9.10",
+          "title": {
+            "en": "Importance of Diazonium Salts in Synthesis of Aromatic Compounds",
+            "hi": "ऐरोमैटिक यौगिकों के संश्लेषण में डाइऐज़ोनियम लवणों का महत्व",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        }
+      ],
+      "practicalIds": [],
+      "conceptIds": [],
+      "review": {
+        "status": "verified",
+        "note": "Chapter list and marks verified against the BSER syllabus for examination year 2027 (session 2026-27), which prescribes the NCERT book. Topics follow the NCERT sections of the same chapter. Hindi descriptions are our translation and need teacher review."
+      }
+    },
+    {
+      "id": "rj-12-ch10",
+      "number": 10,
+      "unitId": null,
+      "title": {
+        "en": "Biomolecules",
+        "hi": "जैव-अणु",
+        "hiSrc": "ncert-decoded"
+      },
+      "curriculumName": null,
+      "assessment": "summative",
+      "weightage": {
+        "marks": 4,
+        "scope": "chapter"
+      },
+      "description": {
+        "en": "Carbohydrates (aldoses and ketoses, glucose, fructose, D-L configuration, disaccharides, polysaccharides), proteins (amino acids, peptide bond, structure, denaturation), enzymes, vitamins, nucleic acids (DNA and RNA), hormones (elementary idea).",
+        "hi": "कार्बोहाइड्रेट (ऐल्डोस और कीटोस, ग्लूकोस, फ़्रक्टोस, D-L विन्यास, डाइसैकेराइड, पॉलिसैकेराइड), प्रोटीन (ऐमीनो अम्ल, पेप्टाइड आबंध, संरचना, विकृतीकरण), एन्ज़ाइम, विटामिन, न्यूक्लिक अम्ल (DNA और RNA), हॉर्मोन (प्रारंभिक संकल्पना)।",
+        "hiSrc": "translated"
+      },
+      "descriptionSourceId": "rj-chem-12",
+      "contentSourceId": null,
+      "topics": [
+        {
+          "id": "rj-12-ch10-t10.1",
+          "number": "10.1",
+          "title": {
+            "en": "Carbohydrates",
+            "hi": "कार्बोहाइड्रेट",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch10-t10.2",
+          "number": "10.2",
+          "title": {
+            "en": "Proteins",
+            "hi": "प्रोटीन",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch10-t10.3",
+          "number": "10.3",
+          "title": {
+            "en": "Enzymes",
+            "hi": "एन्ज़ाइम",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch10-t10.4",
+          "number": "10.4",
+          "title": {
+            "en": "Vitamins",
+            "hi": "विटामिन",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch10-t10.5",
+          "number": "10.5",
+          "title": {
+            "en": "Nucleic Acids",
+            "hi": "न्यूक्लीक अम्ल",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-12-ch10-t10.6",
+          "number": "10.6",
+          "title": {
+            "en": "Hormones",
+            "hi": "हॉर्मोन",
+            "hiSrc": "ncert-decoded"
+          },
+          "conceptIds": []
+        }
+      ],
+      "practicalIds": [],
+      "conceptIds": [],
+      "review": {
+        "status": "verified",
+        "note": "Chapter list and marks verified against the BSER syllabus for examination year 2027 (session 2026-27), which prescribes the NCERT book. Topics follow the NCERT sections of the same chapter. Hindi descriptions are our translation and need teacher review."
+      }
+    }
+  ],
+  "practicals": [
+    {
+      "id": "rj-12-p1",
+      "number": "1",
+      "title": {
+        "en": "Titrimetric analysis (redox): molarity of KMnO₄ by titration against standard oxalic acid, and against standard ferrous ammonium sulphate",
+        "hi": "अनुमापनमितीय विश्लेषण (रेडॉक्स): मानक ऑक्सैलिक अम्ल और मानक फ़ेरस अमोनियम सल्फ़ेट के विरुद्ध KMnO₄ की मोलरता",
+        "hiSrc": "translated"
+      },
+      "chapterIds": [
+        "rj-12-ch04"
+      ],
+      "relatedChapterIds": [],
+      "mapping": "editorial",
+      "reactions": [],
+      "labId": null
+    },
+    {
+      "id": "rj-12-p2",
+      "number": "2",
+      "title": {
+        "en": "Qualitative analysis: one cation and one anion in a given salt (insoluble salts excluded)",
+        "hi": "गुणात्मक विश्लेषण: दिए गए लवण में एक धनायन और एक ऋणायन (अविलेय लवण छोड़कर)",
+        "hiSrc": "translated"
+      },
+      "chapterIds": [],
+      "relatedChapterIds": [],
+      "mapping": "general",
+      "reactions": [],
+      "labId": null
+    },
+    {
+      "id": "rj-12-p3A",
+      "number": "3A",
+      "title": {
+        "en": "Tests for functional groups: unsaturation, alcoholic, phenolic, aldehydic, ketonic, carboxyl and primary amino groups",
+        "hi": "प्रकार्यात्मक समूहों के परीक्षण: असंतृप्तता, ऐल्कोहॉली, फ़ीनॉली, ऐल्डिहाइडी, कीटोनी, कार्बोक्सिल और प्राथमिक ऐमीनो समूह",
+        "hiSrc": "translated"
+      },
+      "chapterIds": [
+        "rj-12-ch07",
+        "rj-12-ch08",
+        "rj-12-ch09"
+      ],
+      "relatedChapterIds": [],
+      "mapping": "editorial",
+      "reactions": [],
+      "labId": null
+    },
+    {
+      "id": "rj-12-p3B",
+      "number": "3B",
+      "title": {
+        "en": "Preparation of inorganic compounds: double salts (ferrous ammonium sulphate, potash alum); potassium trioxalatoferrate",
+        "hi": "अकार्बनिक यौगिकों का विरचन: द्विक लवण (फ़ेरस अमोनियम सल्फ़ेट, पोटाश फिटकरी); पोटैशियम ट्राइऑक्सैलेटोफ़ेरेट",
+        "hiSrc": "translated"
+      },
+      "chapterIds": [
+        "rj-12-ch05"
+      ],
+      "relatedChapterIds": [],
+      "mapping": "editorial",
+      "reactions": [],
+      "labId": null
+    },
+    {
+      "id": "rj-12-p3C",
+      "number": "3C",
+      "title": {
+        "en": "Preparation of organic compounds: acetanilide, dibenzalacetone, p-nitroacetanilide, aniline yellow",
+        "hi": "कार्बनिक यौगिकों का विरचन: ऐसीटैनिलाइड, डाइबेन्ज़ल ऐसीटोन, p-नाइट्रोऐसीटैनिलाइड, ऐनिलीन येलो",
+        "hiSrc": "translated"
+      },
+      "chapterIds": [
+        "rj-12-ch09"
+      ],
+      "relatedChapterIds": [],
+      "mapping": "editorial",
+      "reactions": [],
+      "labId": null
+    },
+    {
+      "id": "rj-12-p3D",
+      "number": "3D",
+      "title": {
+        "en": "Tests for carbohydrates, oils and fats, and proteins",
+        "hi": "कार्बोहाइड्रेट, तेल व वसा और प्रोटीन के परीक्षण",
+        "hiSrc": "translated"
+      },
+      "chapterIds": [
+        "rj-12-ch10"
+      ],
+      "relatedChapterIds": [],
+      "mapping": "editorial",
+      "reactions": [],
+      "labId": null
+    },
+    {
+      "id": "rj-12-p4A",
+      "number": "4A",
+      "title": {
+        "en": "Chemical kinetics: sodium thiosulphate with HCl (effect of concentration and temperature); iodide ions with H₂O₂; KIO₃ with Na₂SO₃",
+        "hi": "रासायनिक बलगतिकी: सोडियम थायोसल्फ़ेट और HCl (सांद्रता और ताप का प्रभाव); H₂O₂ के साथ आयोडाइड आयन; KIO₃ और Na₂SO₃",
+        "hiSrc": "translated"
+      },
+      "chapterIds": [
+        "rj-12-ch03"
+      ],
+      "relatedChapterIds": [],
+      "mapping": "editorial",
+      "reactions": [],
+      "labId": null
+    },
+    {
+      "id": "rj-12-p4B",
+      "number": "4B",
+      "title": {
+        "en": "Thermochemical measurement: enthalpy of dissolution of copper sulphate or potassium nitrate; enthalpy of neutralisation of HCl by NaOH; enthalpy change on mixing chloroform and acetone",
+        "hi": "ऊष्मारासायनिक मापन: कॉपर सल्फ़ेट या पोटैशियम नाइट्रेट की विलयन एन्थैल्पी; NaOH द्वारा HCl की उदासीनीकरण एन्थैल्पी; क्लोरोफ़ॉर्म और ऐसीटोन मिलाने पर एन्थैल्पी परिवर्तन",
+        "hiSrc": "translated"
+      },
+      "chapterIds": [],
+      "relatedChapterIds": [],
+      "mapping": "general",
+      "reactions": [],
+      "labId": null
+    },
+    {
+      "id": "rj-12-p4C",
+      "number": "4C",
+      "title": {
+        "en": "Electrochemistry: variation of the cell potential of Zn|Zn²⁺||Cu²⁺|Cu with the concentration of the electrolytes",
+        "hi": "वैद्युत रसायन: इलेक्ट्रोलाइट की सांद्रता के साथ Zn|Zn²⁺||Cu²⁺|Cu सेल विभव में परिवर्तन",
+        "hiSrc": "translated"
+      },
+      "chapterIds": [
+        "rj-12-ch02"
+      ],
+      "relatedChapterIds": [],
+      "mapping": "editorial",
+      "reactions": [],
+      "labId": null
+    }
+  ]
+}

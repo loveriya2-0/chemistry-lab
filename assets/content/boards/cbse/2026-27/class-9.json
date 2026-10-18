@@ -1,0 +1,679 @@
+{
+  "schemaVersion": 1,
+  "boardId": "cbse",
+  "academicYear": "2026-27",
+  "classLevel": 9,
+  "label": {
+    "en": "Class 9",
+    "hi": "कक्षा 9",
+    "hiSrc": "translated"
+  },
+  "subject": {
+    "id": "science",
+    "code": "086",
+    "name": {
+      "en": "Science",
+      "hi": "विज्ञान",
+      "hiSrc": "ncert"
+    }
+  },
+  "textbook": {
+    "title": {
+      "en": "Exploration (NCERT, new textbook)",
+      "hi": "अन्वेषण (Anveshan)",
+      "hiSrc": "ncert"
+    },
+    "sourceIds": [
+      "ncert-9-en",
+      "ncert-9-hi"
+    ]
+  },
+  "sourceIds": [
+    "cbse-sci-9",
+    "ncert-9-en",
+    "ncert-9-hi"
+  ],
+  "examPattern": {
+    "theoryMarks": 80,
+    "internalAssessment": 20,
+    "questionTypes": [
+      "veryShort",
+      "mcq",
+      "assertionReason",
+      "shortAnswer",
+      "longAnswer",
+      "caseBased"
+    ],
+    "internalChoicePercent": 33,
+    "boardExam": false,
+    "sourceId": "cbse-sci-9"
+  },
+  "units": [
+    {
+      "id": "cbse-9-u2",
+      "number": "II",
+      "name": {
+        "en": "Matter – Its Nature and Behaviour",
+        "hi": "द्रव्य – इसकी प्रकृति एवं व्यवहार",
+        "hiSrc": "translated"
+      },
+      "marks": 25,
+      "chapterNumbers": [
+        5,
+        8,
+        9
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "id": "cbse-9-ch05",
+      "number": 5,
+      "unitId": "cbse-9-u2",
+      "title": {
+        "en": "Exploring Mixtures and their Separation",
+        "hi": "मिश्रण एवं उनके पृथक्करण का अन्वेषण",
+        "hiSrc": "ncert"
+      },
+      "curriculumName": null,
+      "assessment": "summative",
+      "weightage": {
+        "marks": 25,
+        "scope": "unit"
+      },
+      "description": {
+        "en": "Homogeneous and heterogeneous mixtures; solutions, suspensions and colloids and their properties; ways to express the concentration of a solution (mass by mass, mass by volume and volume by volume percentage); separation techniques — crystallisation, distillation, paper chromatography, sublimation, centrifugation and coagulation.",
+        "hi": "समांगी एवं विषमांगी मिश्रण; विलयन, निलंबन और कोलॉइड तथा उनके गुण; विलयन की सांद्रता व्यक्त करने के तरीके (द्रव्यमान/द्रव्यमान, द्रव्यमान/आयतन और आयतन/आयतन प्रतिशत); पृथक्करण की तकनीकें — क्रिस्टलीकरण, आसवन, कागज़ वर्णलेखन, ऊर्ध्वपातन, अपकेंद्रण और स्कंदन।",
+        "hiSrc": "translated"
+      },
+      "descriptionSourceId": "cbse-sci-9",
+      "contentSourceId": null,
+      "topics": [
+        {
+          "id": "cbse-9-ch05-t5.1",
+          "number": "5.1",
+          "title": {
+            "en": "How Can We Classify Mixtures?",
+            "hi": "हम मिश्रणों का वर्गीकरण किस प्रकार कर सकते हैं?",
+            "hiSrc": "ncert"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "cbse-9-ch05-t5.2",
+          "number": "5.2",
+          "title": {
+            "en": "Solutions",
+            "hi": "विलयन",
+            "hiSrc": "ncert"
+          },
+          "subtopics": [
+            {
+              "id": "cbse-9-ch05-t5.2.1",
+              "number": "5.2.1",
+              "title": {
+                "en": "Concentration of a solution",
+                "hi": "विलयन की सांद्रता",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "cbse-9-ch05-t5.2.2",
+              "number": "5.2.2",
+              "title": {
+                "en": "How do we express concentration?",
+                "hi": "हम सांद्रता को किस प्रकार व्यक्त करते हैं?",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "cbse-9-ch05-t5.2.3",
+              "number": "5.2.3",
+              "title": {
+                "en": "Solubility of substances",
+                "hi": "पदार्थों की विलेयता",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            }
+          ],
+          "conceptIds": []
+        },
+        {
+          "id": "cbse-9-ch05-t5.3",
+          "number": "5.3",
+          "title": {
+            "en": "Methods of Separation of Homogeneous Mixtures",
+            "hi": "समांगी मिश्रणों के पृथक्करण की विधियाँ",
+            "hiSrc": "ncert"
+          },
+          "subtopics": [
+            {
+              "id": "cbse-9-ch05-t5.3.1",
+              "number": "5.3.1",
+              "title": {
+                "en": "Crystallization",
+                "hi": "क्रिस्टलीकरण",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "cbse-9-ch05-t5.3.2",
+              "number": "5.3.2",
+              "title": {
+                "en": "Distillation",
+                "hi": "आसवन",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "cbse-9-ch05-t5.3.3",
+              "number": "5.3.3",
+              "title": {
+                "en": "Paper Chromatography",
+                "hi": "कागज़ वर्णलेखिकी (कागज़ वर्णलेखन)",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            }
+          ],
+          "conceptIds": []
+        },
+        {
+          "id": "cbse-9-ch05-t5.4",
+          "number": "5.4",
+          "title": {
+            "en": "How Can We Separate the Components of Heterogeneous Mixtures?",
+            "hi": "हम विषमांगी मिश्रणों के घटकों को किस प्रकार पृथक कर सकते हैं?",
+            "hiSrc": "ncert"
+          },
+          "subtopics": [
+            {
+              "id": "cbse-9-ch05-t5.4.1",
+              "number": "5.4.1",
+              "title": {
+                "en": "Separation of two immiscible liquids",
+                "hi": "दो अमिश्रणीय द्रवों का पृथक्करण",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "cbse-9-ch05-t5.4.2",
+              "number": "5.4.2",
+              "title": {
+                "en": "Sublimation",
+                "hi": "ऊर्ध्वपातन",
+                "hiSrc": "translated"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "cbse-9-ch05-t5.4.3",
+              "number": "5.4.3",
+              "title": {
+                "en": "Suspensions",
+                "hi": "निलंबन",
+                "hiSrc": "translated"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "cbse-9-ch05-t5.4.4",
+              "number": "5.4.4",
+              "title": {
+                "en": "Colloids",
+                "hi": "कोलॉइड",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            }
+          ],
+          "conceptIds": []
+        },
+        {
+          "id": "cbse-9-ch05-t5.5",
+          "number": "5.5",
+          "title": {
+            "en": "Tyndall Effect",
+            "hi": "टिंडल प्रभाव",
+            "hiSrc": "ncert"
+          },
+          "conceptIds": []
+        }
+      ],
+      "practicalIds": [
+        "cbse-9-p1",
+        "cbse-9-p2"
+      ],
+      "conceptIds": [],
+      "review": {
+        "status": "verified",
+        "note": "Chapter/topic titles verified against CBSE 2026-27 and NCERT; Hindi descriptions are translations pending teacher review."
+      }
+    },
+    {
+      "id": "cbse-9-ch08",
+      "number": 8,
+      "unitId": "cbse-9-u2",
+      "title": {
+        "en": "Journey Inside the Atom",
+        "hi": "एक यात्रा — परमाणु के भीतर",
+        "hiSrc": "ncert"
+      },
+      "curriculumName": "Structure of an Atom",
+      "assessment": "summative",
+      "weightage": {
+        "marks": 25,
+        "scope": "unit"
+      },
+      "description": {
+        "en": "Atoms as the basic units of elements; subatomic particles; atomic models of Thomson, Rutherford and Bohr; distribution of electrons in the first 18 elements; symbols; valency as combining capacity; atomic number, mass number, isotopes and isobars.",
+        "hi": "परमाणु तत्वों की मूल इकाई; अवपरमाणुक कण; टॉमसन, रदरफ़ोर्ड और बोर के परमाणु मॉडल; पहले 18 तत्वों में इलेक्ट्रॉनों का वितरण; प्रतीक; संयोजन क्षमता के रूप में संयोजकता; परमाणु क्रमांक, द्रव्यमान संख्या, समस्थानिक और समभारिक।",
+        "hiSrc": "translated"
+      },
+      "descriptionSourceId": "cbse-sci-9",
+      "contentSourceId": null,
+      "topics": [
+        {
+          "id": "cbse-9-ch08-t8.1",
+          "number": "8.1",
+          "title": {
+            "en": "Rediscovering the Roots of Atomic Theory",
+            "hi": "परमाणु सिद्धांत की उत्पत्ति का पुनः अन्वेषण",
+            "hiSrc": "ncert"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "cbse-9-ch08-t8.2",
+          "number": "8.2",
+          "title": {
+            "en": "A Short Historical Journey Through Atomic Models",
+            "hi": "परमाणु मॉडलों की एक संक्षिप्त ऐतिहासिक यात्रा",
+            "hiSrc": "ncert"
+          },
+          "subtopics": [
+            {
+              "id": "cbse-9-ch08-t8.2.1",
+              "number": "8.2.1",
+              "title": {
+                "en": "Thomson's model of an atom",
+                "hi": "टॉमसन का परमाणु मॉडल",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "cbse-9-ch08-t8.2.2",
+              "number": "8.2.2",
+              "title": {
+                "en": "Testing Thomson's model: The gold foil experiment",
+                "hi": "टॉमसन मॉडल का परीक्षण — स्वर्ण पर्णिका प्रयोग",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "cbse-9-ch08-t8.2.3",
+              "number": "8.2.3",
+              "title": {
+                "en": "Bohr's model of the atom",
+                "hi": "बोर का परमाणु मॉडल",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            }
+          ],
+          "conceptIds": []
+        },
+        {
+          "id": "cbse-9-ch08-t8.3",
+          "number": "8.3",
+          "title": {
+            "en": "What Components Contribute to the Mass of an Atom?",
+            "hi": "परमाणु के द्रव्यमान में कौन-से घटक योगदान देते हैं?",
+            "hiSrc": "ncert"
+          },
+          "subtopics": [
+            {
+              "id": "cbse-9-ch08-t8.3.1",
+              "number": "8.3.1",
+              "title": {
+                "en": "Discovery of the Neutron",
+                "hi": "न्यूट्रॉन की खोज",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            }
+          ],
+          "conceptIds": []
+        },
+        {
+          "id": "cbse-9-ch08-t8.4",
+          "number": "8.4",
+          "title": {
+            "en": "Symbols of Elements",
+            "hi": "तत्वों के प्रतीक",
+            "hiSrc": "ncert"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "cbse-9-ch08-t8.5",
+          "number": "8.5",
+          "title": {
+            "en": "Atomic Number",
+            "hi": "परमाणु क्रमांक",
+            "hiSrc": "ncert"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "cbse-9-ch08-t8.6",
+          "number": "8.6",
+          "title": {
+            "en": "Mass Number",
+            "hi": "द्रव्यमान संख्या",
+            "hiSrc": "ncert"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "cbse-9-ch08-t8.7",
+          "number": "8.7",
+          "title": {
+            "en": "How Are Electrons Distributed in Different Energy Levels?",
+            "hi": "विभिन्न ऊर्जा स्तरों में इलेक्ट्रॉन किस प्रकार वितरित होते हैं?",
+            "hiSrc": "ncert"
+          },
+          "subtopics": [
+            {
+              "id": "cbse-9-ch08-t8.7.1",
+              "number": "8.7.1",
+              "title": {
+                "en": "Building up atoms",
+                "hi": "परमाणुओं का निर्माण प्रक्रम",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            }
+          ],
+          "conceptIds": []
+        },
+        {
+          "id": "cbse-9-ch08-t8.8",
+          "number": "8.8",
+          "title": {
+            "en": "Combining Capacity of an Atom: Valency",
+            "hi": "परमाणु की संयोजन क्षमता — संयोजकता",
+            "hiSrc": "ncert"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "cbse-9-ch08-t8.9",
+          "number": "8.9",
+          "title": {
+            "en": "A Deeper Look into Atomic Structure",
+            "hi": "परमाणु संरचना पर गहराई से एक दृष्टि",
+            "hiSrc": "translated"
+          },
+          "subtopics": [
+            {
+              "id": "cbse-9-ch08-t8.9.1",
+              "number": "8.9.1",
+              "title": {
+                "en": "Isotopes",
+                "hi": "समस्थानिक",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "cbse-9-ch08-t8.9.2",
+              "number": "8.9.2",
+              "title": {
+                "en": "Isobars",
+                "hi": "समभारिक",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            }
+          ],
+          "conceptIds": []
+        }
+      ],
+      "practicalIds": [],
+      "conceptIds": [],
+      "review": {
+        "status": "verified",
+        "note": "Chapter/topic titles verified against CBSE 2026-27 and NCERT; Hindi descriptions are translations pending teacher review."
+      }
+    },
+    {
+      "id": "cbse-9-ch09",
+      "number": 9,
+      "unitId": "cbse-9-u2",
+      "title": {
+        "en": "Atomic Foundations of Matter",
+        "hi": "द्रव्य का परमाण्विक आधार",
+        "hiSrc": "ncert"
+      },
+      "curriculumName": "Atoms and Molecules",
+      "assessment": "summative",
+      "weightage": {
+        "marks": 25,
+        "scope": "unit"
+      },
+      "description": {
+        "en": "Law of conservation of mass and law of constant proportion; Dalton's atomic theory; molecules of elements and of covalent compounds and their properties; ions and ionic compounds and their properties; writing chemical formulae; molecular mass and formula unit mass.",
+        "hi": "द्रव्यमान संरक्षण का नियम और स्थिर अनुपात का नियम; डाल्टन का परमाणु सिद्धांत; तत्वों और सहसंयोजी यौगिकों के अणु तथा उनके गुण; आयन और आयनिक यौगिक तथा उनके गुण; रासायनिक सूत्र लिखना; आण्विक द्रव्यमान और सूत्र इकाई द्रव्यमान।",
+        "hiSrc": "translated"
+      },
+      "descriptionSourceId": "cbse-sci-9",
+      "contentSourceId": null,
+      "topics": [
+        {
+          "id": "cbse-9-ch09-t9.1",
+          "number": "9.1",
+          "title": {
+            "en": "Law of Conservation of Mass",
+            "hi": "द्रव्यमान संरक्षण का नियम",
+            "hiSrc": "ncert"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "cbse-9-ch09-t9.2",
+          "number": "9.2",
+          "title": {
+            "en": "Law of Constant Proportions",
+            "hi": "स्थिर अनुपात का नियम",
+            "hiSrc": "ncert"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "cbse-9-ch09-t9.3",
+          "number": "9.3",
+          "title": {
+            "en": "Dalton's Atomic Theory",
+            "hi": "डाल्टन का परमाणु सिद्धांत",
+            "hiSrc": "translated"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "cbse-9-ch09-t9.4",
+          "number": "9.4",
+          "title": {
+            "en": "How Atoms Combine?",
+            "hi": "परमाणु किस प्रकार संयोजन करते हैं?",
+            "hiSrc": "ncert"
+          },
+          "subtopics": [
+            {
+              "id": "cbse-9-ch09-t9.4.1",
+              "number": "9.4.1",
+              "title": {
+                "en": "Bonding by sharing of electrons — Covalent Bond",
+                "hi": "इलेक्ट्रॉनों की साझेदारी द्वारा आबंधन — सहसंयोजक आबंध",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "cbse-9-ch09-t9.4.2",
+              "number": "9.4.2",
+              "title": {
+                "en": "Bonding by electron transfer — Ionic bond",
+                "hi": "इलेक्ट्रॉन स्थानांतरण द्वारा आबंधन — आयनिक आबंध",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            }
+          ],
+          "conceptIds": []
+        },
+        {
+          "id": "cbse-9-ch09-t9.5",
+          "number": "9.5",
+          "title": {
+            "en": "Writing Chemical Formulae",
+            "hi": "रासायनिक सूत्रों को लिखना",
+            "hiSrc": "ncert"
+          },
+          "subtopics": [
+            {
+              "id": "cbse-9-ch09-t9.5.1",
+              "number": "9.5.1",
+              "title": {
+                "en": "Writing chemical formulae of covalent compounds",
+                "hi": "सहसंयोजी यौगिकों के रासायनिक सूत्र लिखना",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "cbse-9-ch09-t9.5.2",
+              "number": "9.5.2",
+              "title": {
+                "en": "Writing chemical formulae of ionic compounds",
+                "hi": "आयनिक यौगिकों के रासायनिक सूत्र लिखना",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            }
+          ],
+          "conceptIds": []
+        },
+        {
+          "id": "cbse-9-ch09-t9.6",
+          "number": "9.6",
+          "title": {
+            "en": "Properties of the Ionic and the Covalent Compounds",
+            "hi": "आयनिक और सहसंयोजी यौगिकों के गुणधर्म",
+            "hiSrc": "ncert"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "cbse-9-ch09-t9.7",
+          "number": "9.7",
+          "title": {
+            "en": "Molecular Mass of Covalent Compounds",
+            "hi": "सहसंयोजी यौगिकों का आण्विक द्रव्यमान",
+            "hiSrc": "ncert"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "cbse-9-ch09-t9.8",
+          "number": "9.8",
+          "title": {
+            "en": "Formula Unit Mass of Ionic Compounds",
+            "hi": "आयनिक यौगिकों का सूत्र इकाई द्रव्यमान",
+            "hiSrc": "ncert"
+          },
+          "conceptIds": []
+        }
+      ],
+      "practicalIds": [
+        "cbse-9-p3"
+      ],
+      "conceptIds": [],
+      "review": {
+        "status": "verified",
+        "note": "Chapter/topic titles verified against CBSE 2026-27 and NCERT; Hindi descriptions are translations pending teacher review."
+      }
+    }
+  ],
+  "practicals": [
+    {
+      "id": "cbse-9-p1",
+      "number": "1",
+      "title": {
+        "en": "Preparation of a true solution (common salt, sugar, alum), a suspension (soil, chalk powder, fine sand in water) and a colloidal solution (starch, egg albumin/milk in water); distinguish them by transparency, filtration, stability and Tyndall effect",
+        "hi": "वास्तविक विलयन (साधारण नमक, चीनी, फिटकरी), निलंबन (मिट्टी, चॉक पाउडर, बारीक रेत) और कोलॉइडी विलयन (स्टार्च, अंडे की सफ़ेदी/दूध) बनाना; पारदर्शिता, निस्यंदन, स्थायित्व और टिंडल प्रभाव के आधार पर इनमें अंतर करना",
+        "hiSrc": "translated"
+      },
+      "chapterIds": [
+        "cbse-9-ch05"
+      ],
+      "relatedChapterIds": [],
+      "mapping": "official",
+      "reactions": [],
+      "labId": null
+    },
+    {
+      "id": "cbse-9-p2",
+      "number": "2",
+      "title": {
+        "en": "Separation of components of mixtures: oil and water (separating funnel), colours in black ink (paper chromatography), ammonium chloride and common salt (sublimation), muddy water using alum (coagulation)",
+        "hi": "मिश्रणों के घटकों का पृथक्करण: तेल और जल (पृथक्कारी कीप), काली स्याही के रंग (कागज़ वर्णलेखन), अमोनियम क्लोराइड और नमक (ऊर्ध्वपातन), फिटकरी द्वारा गंदला जल (स्कंदन)",
+        "hiSrc": "translated"
+      },
+      "chapterIds": [
+        "cbse-9-ch05"
+      ],
+      "relatedChapterIds": [],
+      "mapping": "official",
+      "reactions": [],
+      "labId": null
+    },
+    {
+      "id": "cbse-9-p3",
+      "number": "3",
+      "title": {
+        "en": "Verification of the law of conservation of mass in a chemical reaction",
+        "hi": "किसी रासायनिक अभिक्रिया में द्रव्यमान संरक्षण के नियम का सत्यापन",
+        "hiSrc": "translated"
+      },
+      "chapterIds": [
+        "cbse-9-ch09"
+      ],
+      "relatedChapterIds": [],
+      "mapping": "official",
+      "reactions": [],
+      "labId": null
+    }
+  ],
+  "optionalTracks": [
+    {
+      "id": "cbse-9-advanced",
+      "en": "Science at Advanced Level (Optional)",
+      "sourceId": "cbse-sci-9-adv",
+      "loaded": false,
+      "chemistryChapters": [
+        "Structure of Atom",
+        "Chemical Bonding",
+        "Mixtures and Separation of Mixtures"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "schemaVersion": 1,
+  "boards": [
+    {
+      "id": "cbse",
+      "order": 1,
+      "scope": "national",
+      "state": null,
+      "status": "available",
+      "name": {
+        "en": "CBSE",
+        "hi": "सीबीएसई",
+        "hiSrc": "translated"
+      },
+      "officialName": {
+        "en": "Central Board of Secondary Education",
+        "hi": "केंद्रीय माध्यमिक शिक्षा बोर्ड",
+        "hiSrc": "translated"
+      },
+      "curricula": [
+        {
+          "academicYear": "2026-27",
+          "manifest": "boards/cbse/2026-27/manifest.json",
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "cisce",
+      "order": 2,
+      "scope": "national",
+      "state": null,
+      "status": "available",
+      "name": {
+        "en": "ICSE / ISC (CISCE)",
+        "hi": "आईसीएसई / आईएससी (सीआईएससीई)",
+        "hiSrc": "translated"
+      },
+      "officialName": {
+        "en": "Council for the Indian School Certificate Examinations",
+        "hi": "काउंसिल फ़ॉर द इंडियन स्कूल सर्टिफ़िकेट एग्ज़ामिनेशन्स",
+        "hiSrc": "translated"
+      },
+      "curricula": [
+        {
+          "academicYear": "2026-27",
+          "manifest": "boards/cisce/2026-27/manifest.json",
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "up",
+      "order": 3,
+      "scope": "state",
+      "state": "Uttar Pradesh",
+      "status": "available",
+      "name": {
+        "en": "UP Board",
+        "hi": "यूपी बोर्ड",
+        "hiSrc": "translated"
+      },
+      "officialName": {
+        "en": "Uttar Pradesh Madhyamik Shiksha Parishad",
+        "hi": "उत्तर प्रदेश माध्यमिक शिक्षा परिषद",
+        "hiSrc": "translated"
+      },
+      "curricula": [
+        {
+          "academicYear": "2026-27",
+          "manifest": "boards/up/2026-27/manifest.json",
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "bihar",
+      "order": 4,
+      "scope": "state",
+      "state": "Bihar",
+      "status": "comingSoon",
+      "name": {
+        "en": "Bihar Board",
+        "hi": "बिहार बोर्ड",
+        "hiSrc": "translated"
+      },
+      "officialName": null,
+      "curricula": []
+    },
+    {
+      "id": "mp",
+      "order": 5,
+      "scope": "state",
+      "state": "Madhya Pradesh",
+      "status": "comingSoon",
+      "name": {
+        "en": "MP Board",
+        "hi": "एमपी बोर्ड",
+        "hiSrc": "translated"
+      },
+      "officialName": null,
+      "curricula": []
+    },
+    {
+      "id": "rajasthan",
+      "order": 6,
+      "scope": "state",
+      "state": "Rajasthan",
+      "status": "available",
+      "name": {
+        "en": "Rajasthan Board",
+        "hi": "राजस्थान बोर्ड",
+        "hiSrc": "translated"
+      },
+      "officialName": {
+        "en": "Board of Secondary Education, Rajasthan",
+        "hi": "माध्यमिक शिक्षा बोर्ड, राजस्थान",
+        "hiSrc": "translated"
+      },
+      "curricula": [
+        {
+          "academicYear": "2026-27",
+          "manifest": "boards/rajasthan/2026-27/manifest.json",
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "haryana",
+      "order": 7,
+      "scope": "state",
+      "state": "Haryana",
+      "status": "available",
+      "name": {
+        "en": "Haryana Board",
+        "hi": "हरियाणा बोर्ड",
+        "hiSrc": "translated"
+      },
+      "officialName": {
+        "en": "Board of School Education Haryana",
+        "hi": "हरियाणा विद्यालय शिक्षा बोर्ड",
+        "hiSrc": "translated"
+      },
+      "curricula": [
+        {
+          "academicYear": "2026-27",
+          "manifest": "boards/haryana/2026-27/manifest.json",
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "punjab",
+      "order": 8,
+      "scope": "state",
+      "state": "Punjab",
+      "status": "available",
+      "name": {
+        "en": "Punjab Board",
+        "hi": "पंजाब बोर्ड",
+        "hiSrc": "translated"
+      },
+      "officialName": {
+        "en": "Punjab School Education Board",
+        "hi": "पंजाब स्कूल शिक्षा बोर्ड",
+        "hiSrc": "translated"
+      },
+      "curricula": [
+        {
+          "academicYear": "2026-27",
+          "manifest": "boards/punjab/2026-27/manifest.json",
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "maharashtra",
+      "order": 9,
+      "scope": "state",
+      "state": "Maharashtra",
+      "status": "comingSoon",
+      "name": {
+        "en": "Maharashtra Board",
+        "hi": "महाराष्ट्र बोर्ड",
+        "hiSrc": "translated"
+      },
+      "officialName": null,
+      "curricula": []
+    },
+    {
+      "id": "gujarat",
+      "order": 10,
+      "scope": "state",
+      "state": "Gujarat",
+      "status": "comingSoon",
+      "name": {
+        "en": "Gujarat Board",
+        "hi": "गुजरात बोर्ड",
+        "hiSrc": "translated"
+      },
+      "officialName": null,
+      "curricula": []
+    },
+    {
+      "id": "west-bengal",
+      "order": 11,
+      "scope": "state",
+      "state": "West Bengal",
+      "status": "comingSoon",
+      "name": {
+        "en": "West Bengal Board",
+        "hi": "पश्चिम बंगाल बोर्ड",
+        "hiSrc": "translated"
+      },
+      "officialName": null,
+      "curricula": []
+    },
+    {
+      "id": "jharkhand",
+      "order": 12,
+      "scope": "state",
+      "state": "Jharkhand",
+      "status": "comingSoon",
+      "name": {
+        "en": "Jharkhand Board",
+        "hi": "झारखंड बोर्ड",
+        "hiSrc": "translated"
+      },
+      "officialName": null,
+      "curricula": []
+    },
+    {
+      "id": "chhattisgarh",
+      "order": 13,
+      "scope": "state",
+      "state": "Chhattisgarh",
+      "status": "comingSoon",
+      "name": {
+        "en": "Chhattisgarh Board",
+        "hi": "छत्तीसगढ़ बोर्ड",
+        "hiSrc": "translated"
+      },
+      "officialName": null,
+      "curricula": []
+    },
+    {
+      "id": "uttarakhand",
+      "order": 14,
+      "scope": "state",
+      "state": "Uttarakhand",
+      "status": "available",
+      "name": {
+        "en": "Uttarakhand Board",
+        "hi": "उत्तराखंड बोर्ड",
+        "hiSrc": "translated"
+      },
+      "officialName": {
+        "en": "Uttarakhand Board of School Education",
+        "hi": "उत्तराखण्ड विद्यालयी शिक्षा परिषद",
+        "hiSrc": "translated"
+      },
+      "curricula": [
+        {
+          "academicYear": "2026-27",
+          "manifest": "boards/uttarakhand/2026-27/manifest.json",
+          "status": "verified"
+        }
+      ]
+    },
+    {
+      "id": "odisha",
+      "order": 15,
+      "scope": "state",
+      "state": "Odisha",
+      "status": "comingSoon",
+      "name": {
+        "en": "Odisha Board",
+        "hi": "ओडिशा बोर्ड",
+        "hiSrc": "translated"
+      },
+      "officialName": null,
+      "curricula": []
+    },
+    {
+      "id": "karnataka",
+      "order": 16,
+      "scope": "state",
+      "state": "Karnataka",
+      "status": "comingSoon",
+      "name": {
+        "en": "Karnataka Board",
+        "hi": "कर्नाटक बोर्ड",
+        "hiSrc": "translated"
+      },
+      "officialName": null,
+      "curricula": []
+    },
+    {
+      "id": "tamil-nadu",
+      "order": 17,
+      "scope": "state",
+      "state": "Tamil Nadu",
+      "status": "comingSoon",
+      "name": {
+        "en": "Tamil Nadu Board",
+        "hi": "तमिलनाडु बोर्ड",
+        "hiSrc": "translated"
+      },
+      "officialName": null,
+      "curricula": []
+    },
+    {
+      "id": "andhra-pradesh",
+      "order": 18,
+      "scope": "state",
+      "state": "Andhra Pradesh",
+      "status": "comingSoon",
+      "name": {
+        "en": "Andhra Pradesh Board",
+        "hi": "आंध्र प्रदेश बोर्ड",
+        "hiSrc": "translated"
+      },
+      "officialName": null,
+      "curricula": []
+    },
+    {
+      "id": "telangana",
+      "order": 19,
+      "scope": "state",
+      "state": "Telangana",
+      "status": "comingSoon",
+      "name": {
+        "en": "Telangana Board",
+        "hi": "तेलंगाना बोर्ड",
+        "hiSrc": "translated"
+      },
+      "officialName": null,
+      "curricula": []
+    },
+    {
+      "id": "kerala",
+      "order": 20,
+      "scope": "state",
+      "state": "Kerala",
+      "status": "comingSoon",
+      "name": {
+        "en": "Kerala Board",
+        "hi": "केरल बोर्ड",
+        "hiSrc": "translated"
+      },
+      "officialName": null,
+      "curricula": []
+    }
+  ]
+}

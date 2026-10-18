@@ -1,0 +1,844 @@
+{
+  "schemaVersion": 1,
+  "boardId": "rajasthan",
+  "academicYear": "2026-27",
+  "classLevel": 10,
+  "label": {
+    "en": "Class 10",
+    "hi": "कक्षा 10",
+    "hiSrc": "translated"
+  },
+  "subject": {
+    "id": "science",
+    "code": "07",
+    "name": {
+      "en": "Science",
+      "hi": "विज्ञान",
+      "hiSrc": "translated"
+    }
+  },
+  "textbook": {
+    "title": {
+      "en": "Science, Class X (NCERT), as prescribed by BSER",
+      "hi": "विज्ञान, कक्षा 10 (NCERT), BSER द्वारा निर्धारित",
+      "hiSrc": "translated"
+    },
+    "sourceIds": [
+      "ncert-10-en",
+      "ncert-10-hi"
+    ]
+  },
+  "sourceIds": [
+    "rj-sci-10",
+    "ncert-10-en",
+    "ncert-10-hi"
+  ],
+  "examPattern": {
+    "theoryMarks": 80,
+    "internalAssessment": 20,
+    "boardExam": true,
+    "attempts": [
+      "main"
+    ],
+    "sourceId": "rj-sci-10",
+    "note": "One 3¼-hour theory paper of 80 marks and 20 sessional marks (total 100)."
+  },
+  "units": [],
+  "chapters": [
+    {
+      "id": "rj-10-ch01",
+      "number": 1,
+      "unitId": null,
+      "title": {
+        "en": "Chemical Reactions and Equations",
+        "hi": "रासायनिक अभिक्रियाएँ एवं समीकरण",
+        "hiSrc": "ncert"
+      },
+      "curriculumName": null,
+      "assessment": "summative",
+      "weightage": {
+        "marks": 6,
+        "scope": "chapter"
+      },
+      "description": {
+        "en": "Writing and balancing chemical equations; types of reactions — combination, decomposition, exothermic, endothermic, displacement, double displacement, oxidation and reduction; effects of oxidation in everyday life — corrosion, rancidity.",
+        "hi": "रासायनिक समीकरण लिखना और संतुलित करना; अभिक्रियाओं के प्रकार — संयोजन, वियोजन, ऊष्माक्षेपी, ऊष्माशोषी, विस्थापन, द्विविस्थापन, ऑक्सीकरण और अपचयन; दैनिक जीवन में ऑक्सीकरण के प्रभाव — संक्षारण, विकृतगंधिता।",
+        "hiSrc": "translated"
+      },
+      "descriptionSourceId": "rj-sci-10",
+      "contentSourceId": null,
+      "topics": [
+        {
+          "id": "rj-10-ch01-t1.1",
+          "number": "1.1",
+          "title": {
+            "en": "Chemical Equations",
+            "hi": "रासायनिक समीकरण",
+            "hiSrc": "ncert"
+          },
+          "subtopics": [
+            {
+              "id": "rj-10-ch01-t1.1.1",
+              "number": "1.1.1",
+              "title": {
+                "en": "Writing a Chemical Equation",
+                "hi": "रासायनिक समीकरण लिखना",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "rj-10-ch01-t1.1.2",
+              "number": "1.1.2",
+              "title": {
+                "en": "Balanced Chemical Equations",
+                "hi": "संतुलित रासायनिक समीकरण का महत्व",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            }
+          ],
+          "conceptIds": []
+        },
+        {
+          "id": "rj-10-ch01-t1.2",
+          "number": "1.2",
+          "title": {
+            "en": "Types of Chemical Reactions",
+            "hi": "रासायनिक अभिक्रियाओं के प्रकार",
+            "hiSrc": "translated"
+          },
+          "subtopics": [
+            {
+              "id": "rj-10-ch01-t1.2.1",
+              "number": "1.2.1",
+              "title": {
+                "en": "Combination Reaction",
+                "hi": "संयोजन अभिक्रिया",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "rj-10-ch01-t1.2.2",
+              "number": "1.2.2",
+              "title": {
+                "en": "Decomposition Reaction",
+                "hi": "वियोजन (अपघटन) अभिक्रिया",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "rj-10-ch01-t1.2.3",
+              "number": "1.2.3",
+              "title": {
+                "en": "Displacement Reaction",
+                "hi": "विस्थापन अभिक्रिया",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "rj-10-ch01-t1.2.4",
+              "number": "1.2.4",
+              "title": {
+                "en": "Double Displacement Reaction",
+                "hi": "द्विविस्थापन अभिक्रिया",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "rj-10-ch01-t1.2.5",
+              "number": "1.2.5",
+              "title": {
+                "en": "Oxidation and Reduction",
+                "hi": "उपचयन एवं अपचयन",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            }
+          ],
+          "conceptIds": []
+        },
+        {
+          "id": "rj-10-ch01-t1.3",
+          "number": "1.3",
+          "title": {
+            "en": "Have You Observed the Effects of Oxidation Reactions in Everyday Life?",
+            "hi": "क्या आपने दैनिक जीवन में उपचयन अभिक्रियाओं के प्रभावों को देखा है?",
+            "hiSrc": "ncert"
+          },
+          "subtopics": [
+            {
+              "id": "rj-10-ch01-t1.3.1",
+              "number": "1.3.1",
+              "title": {
+                "en": "Corrosion",
+                "hi": "संक्षारण",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "rj-10-ch01-t1.3.2",
+              "number": "1.3.2",
+              "title": {
+                "en": "Rancidity",
+                "hi": "विकृतगंधिता",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            }
+          ],
+          "conceptIds": []
+        }
+      ],
+      "practicalIds": [],
+      "conceptIds": [],
+      "review": {
+        "status": "verified",
+        "note": "Chapter list and marks verified against the BSER syllabus for examination year 2027 (session 2026-27), which prescribes the NCERT book. Topics follow the NCERT sections of the same chapter. Hindi descriptions are our translation and need teacher review."
+      }
+    },
+    {
+      "id": "rj-10-ch02",
+      "number": 2,
+      "unitId": null,
+      "title": {
+        "en": "Acids, Bases and Salts",
+        "hi": "अम्ल, क्षारक एवं लवण",
+        "hiSrc": "ncert"
+      },
+      "curriculumName": null,
+      "assessment": "summative",
+      "weightage": {
+        "marks": 7,
+        "scope": "chapter"
+      },
+      "description": {
+        "en": "Chemical properties and reactions of acids and bases; what acids and bases have in common; acids and bases in water; strength of acid and base solutions and the importance of pH in everyday life; family of salts, pH of salts, chemicals from common salt, water of crystallisation.",
+        "hi": "अम्लों और क्षारकों के रासायनिक गुणधर्म और अभिक्रियाएँ; अम्लों और क्षारकों में समानताएँ; जल में अम्ल या क्षारक; अम्ल-क्षारक विलयनों की प्रबलता और दैनिक जीवन में pH का महत्व; लवणों का परिवार, लवणों का pH, साधारण नमक से रसायन, क्रिस्टलन जल।",
+        "hiSrc": "translated"
+      },
+      "descriptionSourceId": "rj-sci-10",
+      "contentSourceId": null,
+      "topics": [
+        {
+          "id": "rj-10-ch02-t2.1",
+          "number": "2.1",
+          "title": {
+            "en": "Understanding the Chemical Properties of Acids and Bases",
+            "hi": "अम्ल एवं क्षारक के रासायनिक गुणधर्म समझना",
+            "hiSrc": "ncert"
+          },
+          "subtopics": [
+            {
+              "id": "rj-10-ch02-t2.1.1",
+              "number": "2.1.1",
+              "title": {
+                "en": "Acids and Bases in the Laboratory",
+                "hi": "प्रयोगशाला में अम्ल एवं क्षारक",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "rj-10-ch02-t2.1.2",
+              "number": "2.1.2",
+              "title": {
+                "en": "How do Acids and Bases React with Metals?",
+                "hi": "अम्ल एवं क्षारक धातु के साथ कैसे अभिक्रिया करते हैं?",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "rj-10-ch02-t2.1.3",
+              "number": "2.1.3",
+              "title": {
+                "en": "How do Metal Carbonates and Metal Hydrogencarbonates React with Acids?",
+                "hi": "धातु कार्बोनेट तथा धातु हाइड्रोजनकार्बोनेट अम्ल के साथ कैसे अभिक्रिया करते हैं?",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "rj-10-ch02-t2.1.4",
+              "number": "2.1.4",
+              "title": {
+                "en": "How do Acids and Bases React with each other?",
+                "hi": "अम्ल एवं क्षारक परस्पर कैसे अभिक्रिया करते हैं?",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "rj-10-ch02-t2.1.5",
+              "number": "2.1.5",
+              "title": {
+                "en": "Reaction of Metallic Oxides with Acids",
+                "hi": "अम्लों के साथ धात्विक ऑक्साइडों की अभिक्रियाएँ",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "rj-10-ch02-t2.1.6",
+              "number": "2.1.6",
+              "title": {
+                "en": "Reaction of a Non-metallic Oxide with Base",
+                "hi": "क्षारक के साथ अधात्विक ऑक्साइड की अभिक्रियाएँ",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            }
+          ],
+          "conceptIds": []
+        },
+        {
+          "id": "rj-10-ch02-t2.2",
+          "number": "2.2",
+          "title": {
+            "en": "What do All Acids and All Bases Have in Common?",
+            "hi": "सभी अम्लों एवं क्षारकों में क्या समानताएँ हैं?",
+            "hiSrc": "ncert"
+          },
+          "subtopics": [
+            {
+              "id": "rj-10-ch02-t2.2.1",
+              "number": "2.2.1",
+              "title": {
+                "en": "What Happens to an Acid or a Base in a Water Solution?",
+                "hi": "जलीय विलयन में अम्ल या क्षारक का क्या होता है?",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            }
+          ],
+          "conceptIds": []
+        },
+        {
+          "id": "rj-10-ch02-t2.3",
+          "number": "2.3",
+          "title": {
+            "en": "How Strong are Acid or Base Solutions?",
+            "hi": "अम्ल एवं क्षारक के विलयन कितने प्रबल होते हैं?",
+            "hiSrc": "ncert"
+          },
+          "subtopics": [
+            {
+              "id": "rj-10-ch02-t2.3.1",
+              "number": "2.3.1",
+              "title": {
+                "en": "Importance of pH in Everyday Life",
+                "hi": "दैनिक जीवन में pH का महत्त्व",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            }
+          ],
+          "conceptIds": []
+        },
+        {
+          "id": "rj-10-ch02-t2.4",
+          "number": "2.4",
+          "title": {
+            "en": "More about Salts",
+            "hi": "लवण के संबंध में अधिक जानकारी",
+            "hiSrc": "ncert"
+          },
+          "subtopics": [
+            {
+              "id": "rj-10-ch02-t2.4.1",
+              "number": "2.4.1",
+              "title": {
+                "en": "Family of Salts",
+                "hi": "लवण परिवार",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "rj-10-ch02-t2.4.2",
+              "number": "2.4.2",
+              "title": {
+                "en": "pH of Salts",
+                "hi": "लवणों का pH",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "rj-10-ch02-t2.4.3",
+              "number": "2.4.3",
+              "title": {
+                "en": "Chemicals from Common Salt",
+                "hi": "साधारण नमक से रसायन",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "rj-10-ch02-t2.4.4",
+              "number": "2.4.4",
+              "title": {
+                "en": "Are the Crystals of Salts really Dry?",
+                "hi": "क्या लवण के क्रिस्टल वास्तव में शुष्क हैं?",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            }
+          ],
+          "conceptIds": []
+        }
+      ],
+      "practicalIds": [],
+      "conceptIds": [],
+      "review": {
+        "status": "verified",
+        "note": "Chapter list and marks verified against the BSER syllabus for examination year 2027 (session 2026-27), which prescribes the NCERT book. Topics follow the NCERT sections of the same chapter. Hindi descriptions are our translation and need teacher review."
+      }
+    },
+    {
+      "id": "rj-10-ch03",
+      "number": 3,
+      "unitId": null,
+      "title": {
+        "en": "Metals and Non-metals",
+        "hi": "धातु एवं अधातु",
+        "hiSrc": "ncert"
+      },
+      "curriculumName": null,
+      "assessment": "summative",
+      "weightage": {
+        "marks": 5,
+        "scope": "chapter"
+      },
+      "description": {
+        "en": "Physical properties of metals and non-metals; chemical properties of metals; reactivity series; how metals and non-metals react; properties of ionic compounds; occurrence and extraction of metals, enrichment of ores, extraction by reactivity, refining; corrosion and its prevention.",
+        "hi": "धातुओं और अधातुओं के भौतिक गुणधर्म; धातुओं के रासायनिक गुणधर्म; सक्रियता श्रेणी; धातुओं और अधातुओं की अभिक्रिया; आयनिक यौगिकों के गुणधर्म; धातुओं की उपलब्धता और निष्कर्षण, अयस्कों का समृद्धिकरण, सक्रियता के आधार पर निष्कर्षण, परिष्करण; संक्षारण और उसका निवारण।",
+        "hiSrc": "translated"
+      },
+      "descriptionSourceId": "rj-sci-10",
+      "contentSourceId": null,
+      "topics": [
+        {
+          "id": "rj-10-ch03-t3.1",
+          "number": "3.1",
+          "title": {
+            "en": "Physical Properties",
+            "hi": "भौतिक गुणधर्म",
+            "hiSrc": "ncert"
+          },
+          "subtopics": [
+            {
+              "id": "rj-10-ch03-t3.1.1",
+              "number": "3.1.1",
+              "title": {
+                "en": "Metals",
+                "hi": "धातु",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "rj-10-ch03-t3.1.2",
+              "number": "3.1.2",
+              "title": {
+                "en": "Non-metals",
+                "hi": "अधातु",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            }
+          ],
+          "conceptIds": []
+        },
+        {
+          "id": "rj-10-ch03-t3.2",
+          "number": "3.2",
+          "title": {
+            "en": "Chemical Properties of Metals",
+            "hi": "धातुओं के रासायनिक गुणधर्म",
+            "hiSrc": "ncert"
+          },
+          "subtopics": [
+            {
+              "id": "rj-10-ch03-t3.2.1",
+              "number": "3.2.1",
+              "title": {
+                "en": "What happens when Metals are burnt in Air?",
+                "hi": "धातुओं का वायु में दहन करने से क्या होता है?",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "rj-10-ch03-t3.2.2",
+              "number": "3.2.2",
+              "title": {
+                "en": "What happens when Metals react with Water?",
+                "hi": "धातुएँ जब जल के साथ अभिक्रिया करती हैं तो क्या होता है?",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "rj-10-ch03-t3.2.3",
+              "number": "3.2.3",
+              "title": {
+                "en": "What happens when Metals react with Acids?",
+                "hi": "क्या होता है, जब धातुएँ अम्लों के साथ अभिक्रिया करती हैं?",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "rj-10-ch03-t3.2.4",
+              "number": "3.2.4",
+              "title": {
+                "en": "How do Metals react with Solutions of other Metal Salts?",
+                "hi": "अन्य धातु लवणों के विलयन के साथ धातुएँ कैसे अभिक्रिया करती हैं?",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "rj-10-ch03-t3.2.5",
+              "number": "3.2.5",
+              "title": {
+                "en": "The Reactivity Series",
+                "hi": "सक्रियता श्रेणी",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            }
+          ],
+          "conceptIds": []
+        },
+        {
+          "id": "rj-10-ch03-t3.3",
+          "number": "3.3",
+          "title": {
+            "en": "How do Metals and Non-metals React?",
+            "hi": "धातुएँ एवं अधातुएँ कैसे अभिक्रिया करती हैं?",
+            "hiSrc": "ncert"
+          },
+          "subtopics": [
+            {
+              "id": "rj-10-ch03-t3.3.1",
+              "number": "3.3.1",
+              "title": {
+                "en": "Properties of Ionic Compounds",
+                "hi": "आयनिक यौगिकों के गुणधर्म",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            }
+          ],
+          "conceptIds": []
+        },
+        {
+          "id": "rj-10-ch03-t3.4",
+          "number": "3.4",
+          "title": {
+            "en": "Occurrence of Metals",
+            "hi": "धातुओं की प्राप्ति",
+            "hiSrc": "ncert"
+          },
+          "subtopics": [
+            {
+              "id": "rj-10-ch03-t3.4.1",
+              "number": "3.4.1",
+              "title": {
+                "en": "Extraction of Metals",
+                "hi": "धातुओं का निष्कर्षण",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "rj-10-ch03-t3.4.2",
+              "number": "3.4.2",
+              "title": {
+                "en": "Enrichment of Ores",
+                "hi": "अयस्कों का समृद्धीकरण",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "rj-10-ch03-t3.4.3",
+              "number": "3.4.3",
+              "title": {
+                "en": "Extracting Metals Low in the Activity Series",
+                "hi": "सक्रियता श्रेणी में नीचे आने वाली धातुओं का निष्कर्षण",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "rj-10-ch03-t3.4.4",
+              "number": "3.4.4",
+              "title": {
+                "en": "Extracting Metals in the Middle of the Activity Series",
+                "hi": "सक्रियता श्रेणी के मध्य में स्थित धातुओं का निष्कर्षण",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "rj-10-ch03-t3.4.5",
+              "number": "3.4.5",
+              "title": {
+                "en": "Extracting Metals towards the Top of the Activity Series",
+                "hi": "सक्रियता श्रेणी में सबसे ऊपर स्थित धातुओं का निष्कर्षण",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "rj-10-ch03-t3.4.6",
+              "number": "3.4.6",
+              "title": {
+                "en": "Refining of Metals",
+                "hi": "धातुओं का परिष्करण",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            }
+          ],
+          "conceptIds": []
+        },
+        {
+          "id": "rj-10-ch03-t3.5",
+          "number": "3.5",
+          "title": {
+            "en": "Corrosion",
+            "hi": "संक्षारण",
+            "hiSrc": "ncert"
+          },
+          "subtopics": [
+            {
+              "id": "rj-10-ch03-t3.5.1",
+              "number": "3.5.1",
+              "title": {
+                "en": "Prevention of Corrosion",
+                "hi": "संक्षारण से सुरक्षा",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            }
+          ],
+          "conceptIds": []
+        }
+      ],
+      "practicalIds": [],
+      "conceptIds": [],
+      "review": {
+        "status": "verified",
+        "note": "Chapter list and marks verified against the BSER syllabus for examination year 2027 (session 2026-27), which prescribes the NCERT book. Topics follow the NCERT sections of the same chapter. Hindi descriptions are our translation and need teacher review."
+      }
+    },
+    {
+      "id": "rj-10-ch04",
+      "number": 4,
+      "unitId": null,
+      "title": {
+        "en": "Carbon and its Compounds",
+        "hi": "कार्बन एवं उसके यौगिक",
+        "hiSrc": "ncert"
+      },
+      "curriculumName": null,
+      "assessment": "summative",
+      "weightage": {
+        "marks": 7,
+        "scope": "chapter"
+      },
+      "description": {
+        "en": "Covalent bonding in carbon; versatile nature of carbon — saturated and unsaturated compounds, chains, branches and rings, homologous series, nomenclature; chemical properties — combustion, oxidation, addition, substitution; ethanol and ethanoic acid; soaps and detergents.",
+        "hi": "कार्बन में सहसंयोजी आबंध; कार्बन की सर्वतोमुखी प्रकृति — संतृप्त और असंतृप्त यौगिक, शृंखलाएँ, शाखाएँ और वलय, समजातीय श्रेणी, नामपद्धति; रासायनिक गुणधर्म — दहन, ऑक्सीकरण, संकलन, प्रतिस्थापन; एथेनॉल और एथेनॉइक अम्ल; साबुन और अपमार्जक।",
+        "hiSrc": "translated"
+      },
+      "descriptionSourceId": "rj-sci-10",
+      "contentSourceId": null,
+      "topics": [
+        {
+          "id": "rj-10-ch04-t4.1",
+          "number": "4.1",
+          "title": {
+            "en": "Bonding in Carbon – The Covalent Bond",
+            "hi": "कार्बन में आबंधन – सहसंयोजी आबंध",
+            "hiSrc": "ncert"
+          },
+          "conceptIds": []
+        },
+        {
+          "id": "rj-10-ch04-t4.2",
+          "number": "4.2",
+          "title": {
+            "en": "Versatile Nature of Carbon",
+            "hi": "कार्बन की सर्वतोमुखी प्रकृति",
+            "hiSrc": "ncert"
+          },
+          "subtopics": [
+            {
+              "id": "rj-10-ch04-t4.2.1",
+              "number": "4.2.1",
+              "title": {
+                "en": "Saturated and Unsaturated Carbon Compounds",
+                "hi": "संतृप्त एवं असंतृप्त कार्बन यौगिक",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "rj-10-ch04-t4.2.2",
+              "number": "4.2.2",
+              "title": {
+                "en": "Chains, Branches and Rings",
+                "hi": "शृंखलाएँ, शाखाएँ एवं वलय",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "rj-10-ch04-t4.2.3",
+              "number": "4.2.3",
+              "title": {
+                "en": "Will you be my Friend?",
+                "hi": "मुझसे दोस्ती करेंगे?",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "rj-10-ch04-t4.2.4",
+              "number": "4.2.4",
+              "title": {
+                "en": "Homologous Series",
+                "hi": "समजातीय श्रेणी",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "rj-10-ch04-t4.2.5",
+              "number": "4.2.5",
+              "title": {
+                "en": "Nomenclature of Carbon Compounds",
+                "hi": "कार्बन यौगिकों की नामपद्धति",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            }
+          ],
+          "conceptIds": []
+        },
+        {
+          "id": "rj-10-ch04-t4.3",
+          "number": "4.3",
+          "title": {
+            "en": "Chemical Properties of Carbon Compounds",
+            "hi": "कार्बन यौगिकों के रासायनिक गुणधर्म",
+            "hiSrc": "ncert"
+          },
+          "subtopics": [
+            {
+              "id": "rj-10-ch04-t4.3.1",
+              "number": "4.3.1",
+              "title": {
+                "en": "Combustion",
+                "hi": "दहन",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "rj-10-ch04-t4.3.2",
+              "number": "4.3.2",
+              "title": {
+                "en": "Oxidation",
+                "hi": "ऑक्सीकरण",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "rj-10-ch04-t4.3.3",
+              "number": "4.3.3",
+              "title": {
+                "en": "Addition Reaction",
+                "hi": "संकलन अभिक्रिया",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "rj-10-ch04-t4.3.4",
+              "number": "4.3.4",
+              "title": {
+                "en": "Substitution Reaction",
+                "hi": "प्रतिस्थापन अभिक्रिया",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            }
+          ],
+          "conceptIds": []
+        },
+        {
+          "id": "rj-10-ch04-t4.4",
+          "number": "4.4",
+          "title": {
+            "en": "Some Important Carbon Compounds – Ethanol and Ethanoic Acid",
+            "hi": "कुछ महत्वपूर्ण कार्बन यौगिक — एथनॉल तथा एथेनॉइक अम्ल",
+            "hiSrc": "ncert"
+          },
+          "subtopics": [
+            {
+              "id": "rj-10-ch04-t4.4.1",
+              "number": "4.4.1",
+              "title": {
+                "en": "Properties of Ethanol",
+                "hi": "एथनॉल के गुणधर्म",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            },
+            {
+              "id": "rj-10-ch04-t4.4.2",
+              "number": "4.4.2",
+              "title": {
+                "en": "Properties of Ethanoic Acid",
+                "hi": "एथेनॉइक अम्ल के गुणधर्म",
+                "hiSrc": "ncert"
+              },
+              "conceptIds": []
+            }
+          ],
+          "conceptIds": []
+        },
+        {
+          "id": "rj-10-ch04-t4.5",
+          "number": "4.5",
+          "title": {
+            "en": "Soaps and Detergents",
+            "hi": "साबुन और अपमार्जक",
+            "hiSrc": "ncert"
+          },
+          "conceptIds": []
+        }
+      ],
+      "practicalIds": [],
+      "conceptIds": [],
+      "review": {
+        "status": "verified",
+        "note": "Chapter list and marks verified against the BSER syllabus for examination year 2027 (session 2026-27), which prescribes the NCERT book. Topics follow the NCERT sections of the same chapter. Hindi descriptions are our translation and need teacher review."
+      }
+    }
+  ],
+  "practicals": []
+}

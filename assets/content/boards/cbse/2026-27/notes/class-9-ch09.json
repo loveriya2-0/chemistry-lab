@@ -1,0 +1,360 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "note-cbse-9-ch09-t9.1",
+      "targetId": "cbse-9-ch09-t9.1",
+      "covers": [],
+      "definition": {
+        "en": "Law of Conservation of Mass (Lavoisier, 1789): mass can neither be created nor destroyed in a chemical reaction — the total mass of the reactants equals the total mass of the products.",
+        "hi": "द्रव्यमान संरक्षण का नियम (लवाज़िए, 1789): किसी रासायनिक अभिक्रिया में द्रव्यमान का न तो सृजन होता है, न विनाश — अभिकारकों का कुल द्रव्यमान उत्पादों के कुल द्रव्यमान के बराबर होता है।"
+      },
+      "explanation": {
+        "en": "Dissolving salt in water (a physical change) does not change the total mass. For a chemical change, mix vinegar and baking soda: in an open flask the reading drops because carbon dioxide escapes; with a balloon tied on the flask (closed system) the reading stays the same. Mixing sodium sulfate and barium chloride solutions forms a white precipitate of barium sulfate, and the total mass is unchanged because no gas forms.",
+        "hi": "पानी में नमक घोलने (भौतिक परिवर्तन) से कुल द्रव्यमान नहीं बदलता। रासायनिक परिवर्तन के लिए सिरका और खाने का सोडा मिलाएँ: खुले फ्लास्क में पाठ्यांक घटता है क्योंकि कार्बन डाइऑक्साइड निकल जाती है; फ्लास्क पर गुब्बारा बाँधने (बंद निकाय) पर पाठ्यांक वही रहता है। सोडियम सल्फ़ेट और बेरियम क्लोराइड के विलयन मिलाने पर बेरियम सल्फ़ेट का सफ़ेद अवक्षेप बनता है और कुल द्रव्यमान नहीं बदलता, क्योंकि कोई गैस नहीं बनती।"
+      },
+      "keyPoints": [
+        {"en": "If a gas forms, use a closed system to check the law.", "hi": "यदि गैस बनती है तो नियम जाँचने के लिए बंद निकाय का प्रयोग करें।"},
+        {"en": "Small differences in a digital balance reading (±1 in the last digit) are experimental error.", "hi": "डिजिटल तुला के पाठ्यांक में छोटे अंतर (अंतिम अंक में ±1) प्रायोगिक त्रुटि हैं।"},
+        {"en": "Burning ethanol in an open beaker leaves nothing behind, but the law still holds — the products are gases that escaped.", "hi": "खुले बीकर में एथनॉल जलाने पर कुछ नहीं बचता, फिर भी नियम सही है — उत्पाद गैसें थीं जो निकल गईं।"}
+      ],
+      "realLife": {
+        "en": "Balanced recipes in industry and medicine, and every balanced chemical equation, rely on this law.",
+        "hi": "उद्योग और चिकित्सा में मात्राओं की गणना तथा हर संतुलित रासायनिक समीकरण इसी नियम पर आधारित है।"
+      },
+      "examFocus": {
+        "en": "Verify the law from given masses of reactants and products; find an unknown product mass; explain an apparent loss of mass.",
+        "hi": "अभिकारकों और उत्पादों के दिए गए द्रव्यमानों से नियम का सत्यापन करना; अज्ञात उत्पाद का द्रव्यमान ज्ञात करना; द्रव्यमान की आभासी कमी समझाना।"
+      },
+      "commonMistakes": [
+        {"en": "Concluding that mass is lost when a gas escapes from an open container.", "hi": "खुले पात्र से गैस निकलने पर यह निष्कर्ष निकालना कि द्रव्यमान नष्ट हो गया।"}
+      ],
+      "formulas": ["Total mass of reactants = total mass of products", "Sodium sulfate + Barium chloride → Barium sulfate (white ppt) + Sodium chloride"],
+      "practicalIds": ["cbse-9-p3"],
+      "conceptIds": ["law-of-conservation-of-mass"],
+      "chemicalIds": ["barium-sulfate-precipitation"],
+      "sources": [{"sourceId": "ncert-9-en", "section": "9.1, Activities 9.1–9.3, Examples 9.1–9.2"}],
+      "quickRevision": {
+        "oneLine": {"en": "Law of Conservation of Mass (Lavoisier): mass is neither created nor destroyed in a chemical reaction.", "hi": "द्रव्यमान संरक्षण का नियम (लवॉज़िए): रासायनिक अभिक्रिया में द्रव्यमान न तो बनता है, न नष्ट होता है।"},
+        "formula": "Total mass of reactants = total mass of products",
+        "points": [
+          {"en": "If a gas forms, check the law in a closed system.", "hi": "यदि गैस बनती है, तो नियम की जाँच बंद पात्र में करें।"},
+          {"en": "Burning ethanol seems to leave nothing — the products are gases that escaped.", "hi": "एथेनॉल जलने पर कुछ नहीं बचता लगता — उत्पाद गैसें हैं जो निकल गईं।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-9-ch09-t9.2",
+      "targetId": "cbse-9-ch09-t9.2",
+      "covers": [],
+      "definition": {
+        "en": "Law of Constant (Definite) Proportions (Proust): in a compound, the elements are always combined in a fixed ratio by mass, whatever its source or method of preparation.",
+        "hi": "स्थिर (निश्चित) अनुपात का नियम (प्राउस्ट): किसी यौगिक में तत्व सदैव द्रव्यमान के एक निश्चित अनुपात में संयुक्त होते हैं, चाहे यौगिक कहीं से भी प्राप्त हो या किसी भी विधि से बना हो।"
+      },
+      "explanation": {
+        "en": "Pure water from a river, a borewell or the sea always has hydrogen and oxygen in the mass ratio 1 : 8 — 9 g of water always gives 1 g of hydrogen and 8 g of oxygen. Sodium chloride always has sodium and chlorine in the ratio 23 : 35.5, so 46 g of sodium needs (35.5 ÷ 23) × 46 = 71 g of chlorine.",
+        "hi": "नदी, बोरवेल या समुद्र — कहीं के भी शुद्ध जल में हाइड्रोजन और ऑक्सीजन का द्रव्यमान अनुपात सदैव 1 : 8 होता है — 9 g जल से सदैव 1 g हाइड्रोजन और 8 g ऑक्सीजन मिलती है। सोडियम क्लोराइड में सोडियम और क्लोरीन सदैव 23 : 35.5 में होते हैं, अतः 46 g सोडियम के लिए (35.5 ÷ 23) × 46 = 71 g क्लोरीन चाहिए।"
+      },
+      "keyPoints": [
+        {"en": "The law applies to compounds, not to mixtures (a mixture can have any proportion).", "hi": "यह नियम यौगिकों पर लागू होता है, मिश्रणों पर नहीं (मिश्रण किसी भी अनुपात में हो सकता है)।"},
+        {"en": "Ratios 4 : 1 and 8 : 2 are the same ratio, so both samples obey the law.", "hi": "4 : 1 और 8 : 2 एक ही अनुपात हैं, अतः दोनों नमूने नियम का पालन करते हैं।"},
+        {"en": "This law and conservation of mass formed the basis of Dalton's atomic theory.", "hi": "यह नियम और द्रव्यमान संरक्षण नियम डाल्टन के परमाणु सिद्धांत के आधार बने।"}
+      ],
+      "realLife": {
+        "en": "Medicines and fertilisers must have a fixed composition; cinnabar (hingula) always gives mercury and sulfur in the same mass percentage.",
+        "hi": "दवाओं और उर्वरकों का संघटन निश्चित होना चाहिए; सिंगरफ (हिंगुल) से सदैव समान द्रव्यमान प्रतिशत में पारा और गंधक मिलते हैं।"
+      },
+      "examFocus": {
+        "en": "Use a fixed ratio to find the mass of one element from the other; decide whether two samples obey the law.",
+        "hi": "निश्चित अनुपात से एक तत्व के द्रव्यमान से दूसरे का द्रव्यमान ज्ञात करना; बताना कि दो नमूने नियम का पालन करते हैं या नहीं।"
+      },
+      "commonMistakes": [
+        {"en": "Using the atom ratio (2 H : 1 O) as the mass ratio — the mass ratio in water is 1 : 8.", "hi": "परमाणु अनुपात (2 H : 1 O) को द्रव्यमान अनुपात मान लेना — जल में द्रव्यमान अनुपात 1 : 8 है।"}
+      ],
+      "formulas": ["Mass of B = (ratio of B ÷ ratio of A) × mass of A"],
+      "practicalIds": [],
+      "conceptIds": ["law-of-constant-proportions"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-9-en", "section": "9.2, Example 9.3"}],
+      "memoryTricks": [
+        {"trick": {"en": "Compound → Constant ratio; mixture → any ratio", "hi": "यौगिक (Compound) → स्थिर (Constant) अनुपात; मिश्रण → कोई भी अनुपात"}, "recall": {"en": "Compound and Constant both start with C — the law of constant proportions applies only to compounds.", "hi": "Compound और Constant दोनों C से शुरू होते हैं — स्थिर अनुपात का नियम केवल यौगिकों पर लागू होता है।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Law of Constant Proportions (Proust): a compound always contains its elements in a fixed ratio by mass.", "hi": "स्थिर अनुपात का नियम (प्राउस्ट): किसी यौगिक में तत्व सदैव द्रव्यमान के निश्चित अनुपात में होते हैं।"},
+        "formula": "Mass of B = (ratio of B ÷ ratio of A) × mass of A",
+        "points": [
+          {"en": "4 : 1 and 8 : 2 are the same ratio — both samples obey the law.", "hi": "4 : 1 और 8 : 2 एक ही अनुपात हैं — दोनों नमूने नियम का पालन करते हैं।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-9-ch09-t9.3",
+      "targetId": "cbse-9-ch09-t9.3",
+      "covers": [],
+      "definition": {
+        "en": "Dalton's atomic theory (1808) is a set of postulates stating that matter is made of indivisible atoms that combine in simple whole-number ratios and are only rearranged in chemical reactions.",
+        "hi": "डाल्टन का परमाणु सिद्धांत (1808) अभिधारणाओं का समूह है जिसके अनुसार द्रव्य अविभाज्य परमाणुओं से बना है, जो सरल पूर्ण-संख्या अनुपात में जुड़ते हैं और रासायनिक अभिक्रियाओं में केवल पुनर्व्यवस्थित होते हैं।"
+      },
+      "explanation": {
+        "en": "Postulates: (1) all matter is made of tiny particles called atoms that take part in reactions; (2) atoms are indivisible and are neither created nor destroyed in a reaction — this explains conservation of mass; (3) atoms of one element are identical in mass and chemical properties; (4) atoms of different elements differ in mass and properties; (5) atoms combine in simple whole-number ratios; (6) the relative number and kinds of atoms in a given compound are constant — this explains constant proportions.",
+        "hi": "अभिधारणाएँ: (1) सारा द्रव्य परमाणु नामक सूक्ष्म कणों से बना है जो अभिक्रियाओं में भाग लेते हैं; (2) परमाणु अविभाज्य हैं और अभिक्रिया में न बनते हैं, न नष्ट होते हैं — इससे द्रव्यमान संरक्षण समझ आता है; (3) एक तत्व के परमाणु द्रव्यमान और रासायनिक गुणों में समान होते हैं; (4) भिन्न तत्वों के परमाणुओं के द्रव्यमान और गुण भिन्न होते हैं; (5) परमाणु सरल पूर्ण-संख्या अनुपात में जुड़ते हैं; (6) किसी यौगिक में परमाणुओं की आपेक्षिक संख्या और प्रकार स्थिर रहते हैं — इससे स्थिर अनुपात समझ आता है।"
+      },
+      "keyPoints": [
+        {"en": "A postulate is a basic assumption accepted without formal proof.", "hi": "अभिधारणा एक मूल मान्यता है जिसे औपचारिक प्रमाण के बिना स्वीकार किया जाता है।"},
+        {"en": "Later discoveries showed atoms are divisible (electrons, protons, neutrons) and that isotopes of one element differ in mass.", "hi": "बाद की खोजों से पता चला कि परमाणु विभाज्य हैं (इलेक्ट्रॉन, प्रोटॉन, न्यूट्रॉन) और एक तत्व के समस्थानिकों के द्रव्यमान भिन्न होते हैं।"},
+        {"en": "Burning magnesium forms magnesium oxide: Mg and O atoms combine; none are destroyed.", "hi": "मैग्नीशियम जलने पर मैग्नीशियम ऑक्साइड बनता है: Mg और O परमाणु जुड़ते हैं; कोई नष्ट नहीं होता।"}
+      ],
+      "realLife": {
+        "en": "Writing formulas and balancing equations — the basic tools of chemistry — come from Dalton's idea that atoms only rearrange.",
+        "hi": "सूत्र लिखना और समीकरण संतुलित करना — रसायन के मूल उपकरण — डाल्टन के इसी विचार से आए कि परमाणु केवल पुनर्व्यवस्थित होते हैं।"
+      },
+      "examFocus": {
+        "en": "List the postulates; state which postulate explains each law; point out which postulates were later found incorrect.",
+        "hi": "अभिधारणाएँ लिखना; बताना कि कौन-सी अभिधारणा किस नियम को समझाती है; बाद में ग़लत पाई गई अभिधारणाएँ बताना।"
+      },
+      "commonMistakes": [
+        {"en": "Saying atoms combine in a whole-number ratio by mass — the whole-number ratio is in the number of atoms.", "hi": "यह कहना कि परमाणु द्रव्यमान के पूर्ण-संख्या अनुपात में जुड़ते हैं — पूर्ण-संख्या अनुपात परमाणुओं की संख्या में होता है।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["dalton-atomic-theory"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-9-en", "section": "9.3"}],
+      "quickRevision": {
+        "oneLine": {"en": "Dalton's atomic theory (1808): matter is made of indivisible atoms that combine in simple whole-number ratios.", "hi": "डाल्टन का परमाणु सिद्धांत (1808): द्रव्य अविभाज्य परमाणुओं से बना है, जो सरल पूर्ण-संख्या अनुपात में जुड़ते हैं।"},
+        "points": [
+          {"en": "In a reaction atoms are only rearranged, never destroyed.", "hi": "अभिक्रिया में परमाणु केवल पुनर्व्यवस्थित होते हैं, नष्ट नहीं होते।"},
+          {"en": "Later shown wrong: atoms are divisible, and isotopes of one element differ in mass.", "hi": "बाद में ग़लत सिद्ध हुआ: परमाणु विभाज्य हैं, और एक ही तत्व के समस्थानिकों का द्रव्यमान भिन्न होता है।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-9-ch09-t9.4",
+      "targetId": "cbse-9-ch09-t9.4",
+      "covers": ["cbse-9-ch09-t9.4.1"],
+      "definition": {
+        "en": "A molecule is an electrically neutral group of two or more atoms that can exist independently and shows the properties of the substance. A covalent bond is formed when two atoms share a pair of electrons.",
+        "hi": "अणु दो या अधिक परमाणुओं का विद्युत-उदासीन समूह है जो स्वतंत्र रूप से रह सकता है और पदार्थ के गुण दर्शाता है। जब दो परमाणु इलेक्ट्रॉनों का एक युग्म साझा करते हैं तो सहसंयोजक आबंध बनता है।"
+      },
+      "explanation": {
+        "en": "Atoms with incomplete outer shells become stable by sharing or by transferring electrons; the force holding them together is a chemical bond. In H₂ each hydrogen shares its one electron (single bond, H–H). In Cl₂ each chlorine shares one of its seven valence electrons (Cl–Cl). In O₂ each oxygen shares two electrons — a double bond, O=O. In HCl and H₂O, atoms of different elements share electrons, forming covalent compounds. Helium exists as single atoms because it is already stable.",
+        "hi": "अपूर्ण बाहरी कोश वाले परमाणु इलेक्ट्रॉन साझा करके या स्थानांतरित करके स्थायी बनते हैं; उन्हें जोड़े रखने वाला बल रासायनिक आबंध है। H₂ में प्रत्येक हाइड्रोजन अपना एक इलेक्ट्रॉन साझा करता है (एकल आबंध, H–H)। Cl₂ में प्रत्येक क्लोरीन अपने सात में से एक संयोजकता इलेक्ट्रॉन साझा करता है (Cl–Cl)। O₂ में प्रत्येक ऑक्सीजन दो इलेक्ट्रॉन साझा करता है — द्विआबंध, O=O। HCl और H₂O में भिन्न तत्वों के परमाणु इलेक्ट्रॉन साझा कर सहसंयोजक यौगिक बनाते हैं। हीलियम एकल परमाणुओं के रूप में रहता है क्योंकि वह पहले से स्थायी है।"
+      },
+      "keyPoints": [
+        {"en": "Bond formation lowers the total energy, making the arrangement more stable.", "hi": "आबंध बनने से कुल ऊर्जा घटती है और व्यवस्था अधिक स्थायी बनती है।"},
+        {"en": "Naming covalent compounds: prefixes mono-, di-, tri-, tetra-, penta-, hexa-; the second element ends in -ide (CO carbon monoxide, CO₂ carbon dioxide, PCl₃ phosphorus trichloride, SF₆ sulfur hexafluoride, N₂O₄ dinitrogen tetroxide).", "hi": "सहसंयोजक यौगिकों का नामकरण: उपसर्ग मोनो-, डाइ-, ट्राइ-, टेट्रा-, पेंटा-, हेक्सा-; दूसरे तत्व के नाम के अंत में -आइड (CO कार्बन मोनोऑक्साइड, CO₂ कार्बन डाइऑक्साइड, PCl₃ फ़ॉस्फ़ोरस ट्राइक्लोराइड, SF₆ सल्फ़र हेक्साफ़्लुओराइड, N₂O₄ डाइनाइट्रोजन टेट्रॉक्साइड)।"},
+        {"en": "Mono- is dropped for the first element, and no prefix is used before hydrogen (H₂S is hydrogen sulfide).", "hi": "पहले तत्व के लिए मोनो- नहीं लगाते, और हाइड्रोजन से पहले कोई उपसर्ग नहीं लगता (H₂S हाइड्रोजन सल्फ़ाइड है)।"}
+      ],
+      "realLife": {
+        "en": "Water, oxygen gas, cooking gas and sugar are all covalent molecules.",
+        "hi": "जल, ऑक्सीजन गैस, रसोई गैस और चीनी — सभी सहसंयोजक अणु हैं।"
+      },
+      "examFocus": {
+        "en": "Draw electron-dot structures of H₂, Cl₂, O₂, N₂, HCl, H₂O, NH₃, CO₂; name covalent compounds with prefixes.",
+        "hi": "H₂, Cl₂, O₂, N₂, HCl, H₂O, NH₃, CO₂ की इलेक्ट्रॉन-बिंदु संरचनाएँ बनाना; उपसर्गों से सहसंयोजक यौगिकों का नामकरण।"
+      },
+      "commonMistakes": [
+        {"en": "Drawing a single bond in O₂ or N₂ — oxygen has a double bond and nitrogen a triple bond.", "hi": "O₂ या N₂ में एकल आबंध दिखाना — ऑक्सीजन में द्विआबंध और नाइट्रोजन में त्रिआबंध होता है।"}
+      ],
+      "formulas": ["H–H", "Cl–Cl", "O=O", "N≡N"],
+      "practicalIds": [],
+      "conceptIds": ["covalent-bond"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-9-en", "section": "9.4, 9.4.1"}],
+      "quickRevision": {
+        "oneLine": {"en": "Covalent bond: two atoms share a pair of electrons. A molecule is a neutral group of atoms that can exist independently.", "hi": "सहसंयोजी आबंध: दो परमाणु इलेक्ट्रॉन का एक युग्म साझा करते हैं। अणु परमाणुओं का उदासीन समूह है, जो स्वतंत्र रूप से रह सकता है।"},
+        "points": [
+          {"en": "Prefixes mono-, di-, tri-, tetra-, penta-, hexa-; the second element ends in -ide.", "hi": "उपसर्ग मोनो-, डाई-, ट्राई-, टेट्रा-, पेंटा-, हेक्सा-; दूसरा तत्व -आइड पर समाप्त होता है।"},
+          {"en": "Mono- is dropped for the first element (CO is carbon monoxide).", "hi": "पहले तत्व के लिए मोनो- नहीं लिखते (CO कार्बन मोनोऑक्साइड है)।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-9-ch09-t9.4.2",
+      "targetId": "cbse-9-ch09-t9.4.2",
+      "covers": [],
+      "definition": {
+        "en": "An ionic bond is the electrostatic force of attraction between oppositely charged ions, formed when one atom transfers electrons to another. A positive ion is a cation; a negative ion is an anion.",
+        "hi": "आयनिक आबंध विपरीत आवेशित आयनों के बीच का स्थिर-वैद्युत आकर्षण बल है, जो एक परमाणु द्वारा दूसरे को इलेक्ट्रॉन स्थानांतरित करने पर बनता है। धनावेशित आयन धनायन और ऋणावेशित आयन ऋणायन कहलाता है।"
+      },
+      "explanation": {
+        "en": "Sodium (2, 8, 1) loses its one valence electron to become Na⁺ (11 protons, 10 electrons). Chlorine (2, 8, 7) gains that electron to become Cl⁻. The opposite charges attract, forming sodium chloride. Ionic compounds do not form separate molecules — the ions arrange in a repeating three-dimensional crystal, in which each Na⁺ is surrounded by six Cl⁻ and each Cl⁻ by six Na⁺.",
+        "hi": "सोडियम (2, 8, 1) अपना एक संयोजकता इलेक्ट्रॉन खोकर Na⁺ (11 प्रोटॉन, 10 इलेक्ट्रॉन) बनता है। क्लोरीन (2, 8, 7) वह इलेक्ट्रॉन ग्रहण कर Cl⁻ बनता है। विपरीत आवेश आकर्षित होकर सोडियम क्लोराइड बनाते हैं। आयनिक यौगिक अलग अणु नहीं बनाते — आयन एक दोहराए जाने वाले त्रिविमीय क्रिस्टल में व्यवस्थित होते हैं, जिसमें हर Na⁺ छह Cl⁻ से और हर Cl⁻ छह Na⁺ से घिरा रहता है।"
+      },
+      "keyPoints": [
+        {"en": "Metals usually form cations; non-metals usually form anions.", "hi": "धातुएँ प्रायः धनायन और अधातुएँ प्रायः ऋणायन बनाती हैं।"},
+        {"en": "Naming: cation first, then anion; simple anions end in -ide (sodium chloride, calcium oxide, magnesium sulfide).", "hi": "नामकरण: पहले धनायन, फिर ऋणायन; सरल ऋणायनों के नाम -आइड पर समाप्त (सोडियम क्लोराइड, कैल्सियम ऑक्साइड, मैग्नीशियम सल्फ़ाइड)।"},
+        {"en": "Polyatomic ions: OH⁻ hydroxide, NO₃⁻ nitrate, HCO₃⁻ hydrogencarbonate, CO₃²⁻ carbonate, SO₄²⁻ sulfate, NH₄⁺ ammonium.", "hi": "बहुपरमाणुक आयन: OH⁻ हाइड्रॉक्साइड, NO₃⁻ नाइट्रेट, HCO₃⁻ हाइड्रोजनकार्बोनेट, CO₃²⁻ कार्बोनेट, SO₄²⁻ सल्फ़ेट, NH₄⁺ अमोनियम।"},
+        {"en": "Variable valency: Fe²⁺ ferrous, Fe³⁺ ferric; Cu⁺ cuprous, Cu²⁺ cupric.", "hi": "परिवर्ती संयोजकता: Fe²⁺ फ़ेरस, Fe³⁺ फ़ेरिक; Cu⁺ क्यूप्रस, Cu²⁺ क्यूप्रिक।"}
+      ],
+      "realLife": {
+        "en": "Common salt, lime, washing soda and copper sulfate are ionic compounds; salt crystals are cubic because of the regular arrangement of ions.",
+        "hi": "साधारण नमक, चूना, धावन सोडा और कॉपर सल्फ़ेट आयनिक यौगिक हैं; आयनों की नियमित व्यवस्था के कारण नमक के क्रिस्टल घनाकार होते हैं।"
+      },
+      "examFocus": {
+        "en": "Show electron transfer in NaCl, MgCl₂, Na₂S, CaCl₂ with diagrams; write ion symbols with correct charges.",
+        "hi": "NaCl, MgCl₂, Na₂S, CaCl₂ में इलेक्ट्रॉन स्थानांतरण चित्र सहित दिखाना; आयनों के प्रतीक सही आवेश सहित लिखना।"
+      },
+      "commonMistakes": [
+        {"en": "Writing that sodium 'shares' its electron with chlorine — in NaCl the electron is transferred.", "hi": "यह लिखना कि सोडियम क्लोरीन के साथ इलेक्ट्रॉन 'साझा' करता है — NaCl में इलेक्ट्रॉन स्थानांतरित होता है।"}
+      ],
+      "formulas": ["Na → Na⁺ + e⁻", "Cl + e⁻ → Cl⁻", "Na⁺ + Cl⁻ → NaCl"],
+      "practicalIds": [],
+      "conceptIds": ["ionic-bond"],
+      "chemicalIds": ["sodium-chloride"],
+      "sources": [{"sourceId": "ncert-9-en", "section": "9.4.2, Table 9.1"}],
+      "memoryTricks": [
+        {"trick": {"en": "CATion is PAWsitive; ANion = A Negative ION", "hi": "CATion (धनायन) — बिल्ली के पंजे (PAWs) = पॉज़िटिव; ANion (ऋणायन) = A Negative ION"}, "recall": {"en": "Cation = positive ion (usually a metal, Na⁺); anion = negative ion (usually a non-metal, Cl⁻).", "hi": "धनायन = धनावेशित आयन (प्रायः धातु, Na⁺); ऋणायन = ऋणावेशित आयन (प्रायः अधातु, Cl⁻)।"}},
+        {"trick": {"en": "-ous = lower charge, -ic = higher charge", "hi": "-ous = कम आवेश, -ic = अधिक आवेश"}, "recall": {"en": "Fe²⁺ ferrous, Fe³⁺ ferric; Cu⁺ cuprous, Cu²⁺ cupric.", "hi": "Fe²⁺ फ़ेरस, Fe³⁺ फ़ेरिक; Cu⁺ क्यूप्रस, Cu²⁺ क्यूप्रिक।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Ionic bond: electrostatic attraction between oppositely charged ions formed by electron transfer.", "hi": "आयनिक आबंध: इलेक्ट्रॉन स्थानांतरण से बने विपरीत आवेशित आयनों के बीच स्थिरवैद्युत आकर्षण।"},
+        "formula": "Na⁺ + Cl⁻ → NaCl",
+        "points": [
+          {"en": "Metals usually form cations; non-metals usually form anions.", "hi": "धातुएँ प्रायः धनायन बनाती हैं; अधातुएँ प्रायः ऋणायन।"},
+          {"en": "Name the cation first, then the anion (sodium chloride).", "hi": "पहले धनायन, फिर ऋणायन का नाम लें (सोडियम क्लोराइड)।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-9-ch09-t9.5",
+      "targetId": "cbse-9-ch09-t9.5",
+      "covers": ["cbse-9-ch09-t9.5.1", "cbse-9-ch09-t9.5.2"],
+      "definition": {
+        "en": "A chemical formula shows the elements in a compound and the number of atoms (covalent) or the simplest whole-number ratio of ions (ionic). It is written by criss-crossing valencies or charges.",
+        "hi": "रासायनिक सूत्र किसी यौगिक के तत्व और परमाणुओं की संख्या (सहसंयोजक) या आयनों का सरलतम पूर्ण-संख्या अनुपात (आयनिक) दर्शाता है। इसे संयोजकताओं या आवेशों का क्रॉस-गुणन (क्रिस-क्रॉस) करके लिखते हैं।"
+      },
+      "explanation": {
+        "en": "Covalent: write the symbols, write their valencies below, and cross them over as subscripts — H(1) S(2) → H₂S; C(4) Cl(1) → CCl₄. Ionic: write the cation first, put the charge numbers below, cross over and divide by any common factor — Ca²⁺ Cl⁻ → CaCl₂; Al³⁺ O²⁻ → Al₂O₃; Mg²⁺ O²⁻ → Mg₂O₂ → MgO. Put a polyatomic ion in brackets when more than one is needed: Mg(OH)₂, Al(OH)₃, Al₂(SO₄)₃; no bracket for one: CaCO₃.",
+        "hi": "सहसंयोजक: प्रतीक लिखें, नीचे उनकी संयोजकता लिखें और क्रॉस करके पादांक बनाएँ — H(1) S(2) → H₂S; C(4) Cl(1) → CCl₄। आयनिक: पहले धनायन लिखें, नीचे आवेश की संख्याएँ लिखें, क्रॉस करें और उभयनिष्ठ गुणनखंड से भाग दें — Ca²⁺ Cl⁻ → CaCl₂; Al³⁺ O²⁻ → Al₂O₃; Mg²⁺ O²⁻ → Mg₂O₂ → MgO। जब एक से अधिक बहुपरमाणुक आयन चाहिए तो उसे कोष्ठक में लिखें: Mg(OH)₂, Al(OH)₃, Al₂(SO₄)₃; एक हो तो कोष्ठक नहीं: CaCO₃।"
+      },
+      "keyPoints": [
+        {"en": "A subscript of 1 is not written.", "hi": "पादांक 1 नहीं लिखा जाता।"},
+        {"en": "Charges are not shown in the final formula.", "hi": "अंतिम सूत्र में आवेश नहीं दिखाए जाते।"},
+        {"en": "Total positive charge must equal total negative charge (2 Fe³⁺ and 3 O²⁻ → Fe₂O₃).", "hi": "कुल धनावेश कुल ऋणावेश के बराबर होना चाहिए (2 Fe³⁺ और 3 O²⁻ → Fe₂O₃)।"}
+      ],
+      "realLife": {
+        "en": "Labels of fertilisers (NH₄NO₃), antacids (NaHCO₃) and medicines carry formulas worked out this way.",
+        "hi": "उर्वरकों (NH₄NO₃), प्रत्याम्लों (NaHCO₃) और दवाओं के लेबल पर इसी प्रकार ज्ञात सूत्र होते हैं।"
+      },
+      "examFocus": {
+        "en": "Write formulas from names or ion pairs (Fe³⁺ + OH⁻, K⁺ + CO₃²⁻, NH₄⁺ + Cl⁻, Al³⁺ + CO₃²⁻) and name compounds from formulas.",
+        "hi": "नामों या आयन-युग्मों (Fe³⁺ + OH⁻, K⁺ + CO₃²⁻, NH₄⁺ + Cl⁻, Al³⁺ + CO₃²⁻) से सूत्र लिखना और सूत्रों से यौगिकों के नाम लिखना।"
+      },
+      "commonMistakes": [
+        {"en": "Writing AlOH₃ instead of Al(OH)₃ — without brackets the 3 applies only to H.", "hi": "Al(OH)₃ की जगह AlOH₃ लिखना — कोष्ठक के बिना 3 केवल H पर लागू होता है।"},
+        {"en": "Not simplifying Mg₂O₂ to MgO or Ca₂(CO₃)₂ to CaCO₃.", "hi": "Mg₂O₂ को MgO या Ca₂(CO₃)₂ को CaCO₃ में सरल न करना।"}
+      ],
+      "formulas": ["CaCl₂", "Al₂O₃", "MgO", "Mg(OH)₂", "Al(OH)₃", "Al₂(SO₄)₃", "CaCO₃", "Fe₂O₃"],
+      "practicalIds": [],
+      "conceptIds": ["writing-chemical-formulae", "valency"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-9-en", "section": "9.5, 9.5.1, 9.5.2"}],
+      "memoryTricks": [
+        {"trick": {"en": "Swap and drop: swap the valencies, drop the charges and any 1", "hi": "अदला-बदली और हटाना: संयोजकताएँ आपस में बदलें, आवेश और 1 हटा दें"}, "recall": {"en": "Al³⁺ and O²⁻ → Al₂O₃. For ionic compounds reduce to the simplest ratio: Mg²⁺ and O²⁻ → Mg₂O₂ → MgO.", "hi": "Al³⁺ और O²⁻ → Al₂O₃। आयनिक यौगिकों में सरलतम अनुपात लें: Mg²⁺ और O²⁻ → Mg₂O₂ → MgO।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "A chemical formula is written by criss-crossing valencies so that total positive charge equals total negative charge.", "hi": "रासायनिक सूत्र संयोजकताओं का क्रॉस-गुणन करके लिखा जाता है, ताकि कुल धनावेश कुल ऋणावेश के बराबर हो।"},
+        "formula": "Al₂O₃",
+        "points": [
+          {"en": "A subscript of 1 and the charges are not written in the final formula.", "hi": "अंतिम सूत्र में 1 का पादांक और आवेश नहीं लिखे जाते।"},
+          {"en": "Bracket a polyatomic ion used more than once: Mg(OH)₂, Al₂(SO₄)₃.", "hi": "एक से अधिक बार आए बहुपरमाणुक आयन को कोष्ठक में रखें: Mg(OH)₂, Al₂(SO₄)₃।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-9-ch09-t9.6",
+      "targetId": "cbse-9-ch09-t9.6",
+      "covers": [],
+      "definition": {
+        "en": "Ionic and covalent compounds differ in solubility, electrical conductivity and melting/boiling points because of the different forces between their particles.",
+        "hi": "आयनिक और सहसंयोजक यौगिकों की विलेयता, विद्युत चालकता और गलनांक/क्वथनांक भिन्न होते हैं, क्योंकि उनके कणों के बीच के बल भिन्न होते हैं।"
+      },
+      "explanation": {
+        "en": "Ionic compounds (sodium chloride, copper sulfate) usually dissolve in water but not in kerosene or petrol. As solids they do not conduct, because the ions are held in fixed positions; in water (or when molten) the ions can move, so they conduct. Strong attraction between ions gives them high melting and boiling points. Many covalent compounds (camphor, naphthalene) dissolve in kerosene or petrol but not in water and have low melting points. Sugar dissolves in water but does not conduct, because it gives no ions.",
+        "hi": "आयनिक यौगिक (सोडियम क्लोराइड, कॉपर सल्फ़ेट) प्रायः जल में घुलते हैं पर केरोसिन या पेट्रोल में नहीं। ठोस अवस्था में वे विद्युत नहीं चलाते, क्योंकि आयन निश्चित स्थानों पर बँधे होते हैं; जल में (या पिघली अवस्था में) आयन गति कर सकते हैं, इसलिए चालन होता है। आयनों के बीच प्रबल आकर्षण के कारण इनके गलनांक और क्वथनांक उच्च होते हैं। अनेक सहसंयोजक यौगिक (कपूर, नैफ़्थलीन) केरोसिन या पेट्रोल में घुलते हैं, जल में नहीं, और उनके गलनांक कम होते हैं। चीनी जल में घुलती है पर चालन नहीं करती, क्योंकि वह आयन नहीं देती।"
+      },
+      "keyPoints": [
+        {"en": "Conducts in water/molten state but not as a solid → ionic.", "hi": "जल/पिघली अवस्था में चालन पर ठोस में नहीं → आयनिक।"},
+        {"en": "Covalent compounds generally do not conduct, even when dissolved.", "hi": "सहसंयोजक यौगिक प्रायः विलयन में भी विद्युत नहीं चलाते।"},
+        {"en": "Ionic: high m.p./b.p.; covalent: usually low m.p./b.p.", "hi": "आयनिक: उच्च गलनांक/क्वथनांक; सहसंयोजक: प्रायः कम गलनांक/क्वथनांक।"}
+      ],
+      "realLife": {
+        "en": "Salt water conducts electricity (risk near wet switches), while sugar water does not.",
+        "hi": "नमक का पानी विद्युत चलाता है (गीले स्विच के पास ख़तरा), जबकि चीनी का पानी नहीं।"
+      },
+      "examFocus": {
+        "en": "Predict the bond type from conductivity/solubility data; assertion–reason on why ionic solids do not conduct.",
+        "hi": "चालकता/विलेयता आँकड़ों से आबंध का प्रकार बताना; आयनिक ठोस चालन क्यों नहीं करते — इस पर अभिकथन–कारण।"
+      },
+      "commonMistakes": [
+        {"en": "Saying ions move freely in the solid — they are fixed in the lattice in the solid and free in the molten state or solution.", "hi": "यह कहना कि ठोस में आयन मुक्त रूप से घूमते हैं — ठोस में वे जालक में स्थिर होते हैं, पिघली अवस्था या विलयन में मुक्त।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["ionic-bond", "covalent-bond"],
+      "chemicalIds": ["sodium-chloride", "copper-sulfate-pentahydrate"],
+      "sources": [{"sourceId": "ncert-9-en", "section": "9.6, Activity 9.4"}],
+      "memoryTricks": [
+        {"trick": {"en": "Ions must MOVE to conduct: solid ✗, molten or dissolved ✓", "hi": "चालन के लिए आयनों का चलना ज़रूरी: ठोस ✗, पिघला या घुला ✓"}, "recall": {"en": "In a solid ionic compound the ions are locked in place; melting or dissolving frees them, so it conducts.", "hi": "ठोस आयनिक यौगिक में आयन अपनी जगह जकड़े रहते हैं; पिघलाने या घोलने पर वे मुक्त होते हैं, इसलिए चालन होता है।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Ionic and covalent compounds differ in solubility, conductivity and melting/boiling points because of the forces between their particles.", "hi": "आयनिक और सहसंयोजी यौगिक कणों के बीच बलों के कारण विलेयता, चालकता और गलनांक/क्वथनांक में भिन्न होते हैं।"},
+        "points": [
+          {"en": "Conducts when dissolved or molten but not as a solid → ionic.", "hi": "घुलने या पिघलने पर चालन, ठोस में नहीं → आयनिक।"},
+          {"en": "Ionic: high m.p./b.p.; covalent: usually low.", "hi": "आयनिक: उच्च गलनांक/क्वथनांक; सहसंयोजी: प्रायः कम।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-9-ch09-t9.7",
+      "targetId": "cbse-9-ch09-t9.7",
+      "covers": ["cbse-9-ch09-t9.8"],
+      "definition": {
+        "en": "Molecular mass is the sum of the atomic masses of all atoms in a molecule of a covalent compound. Formula unit mass is the sum of the atomic masses of all atoms in one formula unit (simplest ion ratio) of an ionic compound.",
+        "hi": "आण्विक द्रव्यमान किसी सहसंयोजक यौगिक के एक अणु के सभी परमाणुओं के परमाणु द्रव्यमानों का योग है। सूत्र इकाई द्रव्यमान किसी आयनिक यौगिक की एक सूत्र इकाई (आयनों का सरलतम अनुपात) के सभी परमाणुओं के परमाणु द्रव्यमानों का योग है।"
+      },
+      "explanation": {
+        "en": "Multiply each atomic mass by the number of those atoms and add. H₂O = 2 × 1 + 16 = 18 u. CO₂ = 12 + 2 × 16 = 44 u. Ionic compounds have no molecules, so we say formula unit mass: Na₂O = 2 × 23 + 16 = 62 u; Ca(NO₃)₂ = 40 + 2 × (14 + 3 × 16) = 164 u.",
+        "hi": "प्रत्येक परमाणु द्रव्यमान को उन परमाणुओं की संख्या से गुणा करके जोड़ें। H₂O = 2 × 1 + 16 = 18 u। CO₂ = 12 + 2 × 16 = 44 u। आयनिक यौगिकों में अणु नहीं होते, अतः सूत्र इकाई द्रव्यमान कहते हैं: Na₂O = 2 × 23 + 16 = 62 u; Ca(NO₃)₂ = 40 + 2 × (14 + 3 × 16) = 164 u।"
+      },
+      "keyPoints": [
+        {"en": "Use: H 1, C 12, N 14, O 16, Na 23, Mg 24, Cl 35.5, K 39, Ca 40 (u).", "hi": "प्रयोग करें: H 1, C 12, N 14, O 16, Na 23, Mg 24, Cl 35.5, K 39, Ca 40 (u)।"},
+        {"en": "Multiply everything inside a bracket by the subscript outside it.", "hi": "कोष्ठक के भीतर की हर चीज़ को बाहर लिखे पादांक से गुणा करें।"},
+        {"en": "The unit is u (unified atomic mass unit).", "hi": "इकाई u (एकीकृत परमाणु द्रव्यमान इकाई) है।"}
+      ],
+      "realLife": {
+        "en": "Pharmacists and fertiliser makers use these masses to measure out correct amounts of substances.",
+        "hi": "फ़ार्मासिस्ट और उर्वरक निर्माता पदार्थों की सही मात्रा तौलने में इन द्रव्यमानों का प्रयोग करते हैं।"
+      },
+      "examFocus": {
+        "en": "Calculate molecular mass (HNO₃ = 63 u, CH₄ = 16 u) and formula unit mass (KCl = 74.5 u, Mg(OH)₂ = 58 u, NH₄NO₃ = 80 u, NaHCO₃ = 84 u).",
+        "hi": "आण्विक द्रव्यमान (HNO₃ = 63 u, CH₄ = 16 u) और सूत्र इकाई द्रव्यमान (KCl = 74.5 u, Mg(OH)₂ = 58 u, NH₄NO₃ = 80 u, NaHCO₃ = 84 u) की गणना।"
+      },
+      "commonMistakes": [
+        {"en": "Calling the mass of NaCl a 'molecular mass' — NaCl is ionic, so it is a formula unit mass.", "hi": "NaCl के द्रव्यमान को 'आण्विक द्रव्यमान' कहना — NaCl आयनिक है, अतः यह सूत्र इकाई द्रव्यमान है।"}
+      ],
+      "formulas": ["Molecular mass = Σ (atomic mass × number of atoms)", "H₂O = 18 u", "CO₂ = 44 u", "Na₂O = 62 u", "Ca(NO₃)₂ = 164 u"],
+      "practicalIds": [],
+      "conceptIds": ["molecular-and-formula-unit-mass"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-9-en", "section": "9.7, 9.8, Examples 9.4–9.7"}],
+      "quickRevision": {
+        "oneLine": {"en": "Molecular mass = sum of the atomic masses of all atoms in a molecule (formula unit mass for ionic compounds).", "hi": "आण्विक द्रव्यमान = अणु के सभी परमाणुओं के परमाणु द्रव्यमानों का योग (आयनिक यौगिकों के लिए सूत्र इकाई द्रव्यमान)।"},
+        "formula": "Molecular mass = Σ (atomic mass × number of atoms)",
+        "points": [
+          {"en": "Multiply everything inside a bracket by the subscript outside it.", "hi": "कोष्ठक के अंदर की हर चीज़ को बाहर के पादांक से गुणा करें।"},
+          {"en": "Unit: u. H₂O = 18 u, CO₂ = 44 u.", "hi": "इकाई: u। H₂O = 18 u, CO₂ = 44 u।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    }
+  ]
+}

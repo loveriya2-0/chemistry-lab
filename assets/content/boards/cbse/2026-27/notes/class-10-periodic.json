@@ -1,0 +1,47 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "note-cbse-10-periodic",
+      "targetId": "cbse-10-periodic",
+      "covers": [],
+      "definition": {
+        "en": "Periodic classification is the arrangement of elements so that elements with similar properties fall in the same group. The modern periodic law states that the properties of elements are a periodic function of their atomic numbers.",
+        "hi": "आवर्त वर्गीकरण तत्वों की ऐसी व्यवस्था है जिसमें समान गुणों वाले तत्व एक ही समूह में आते हैं। आधुनिक आवर्त नियम कहता है कि तत्वों के गुण उनके परमाणु क्रमांकों के आवर्ती फलन होते हैं।"
+      },
+      "explanation": {
+        "en": "Döbereiner grouped elements in triads, where the middle element's atomic mass is about the average of the other two (Li, Na, K). Newlands' law of octaves said every eighth element resembles the first, like musical notes; it worked only up to calcium. Mendeléev arranged elements by increasing atomic mass and similar properties, left gaps for undiscovered elements and predicted their properties (eka-aluminium = gallium), but could not place hydrogen or isotopes properly. Moseley showed atomic number is more fundamental, so the modern table has 18 groups and 7 periods ordered by atomic number. Across a period, atomic size decreases and metallic character decreases; down a group, atomic size increases and metallic character increases. Elements in a group have the same number of valence electrons.",
+        "hi": "डॉबेराइनर ने तत्वों को त्रिकों में रखा, जिनमें बीच वाले तत्व का परमाणु द्रव्यमान लगभग शेष दो का औसत होता है (Li, Na, K)। न्यूलैंड्स के अष्टक नियम के अनुसार हर आठवाँ तत्व पहले जैसा होता है, संगीत के सुरों की तरह; यह केवल कैल्सियम तक लागू हुआ। मेंडेलीफ़ ने तत्वों को बढ़ते परमाणु द्रव्यमान और समान गुणों के आधार पर रखा, अनखोजे तत्वों के लिए रिक्त स्थान छोड़े और उनके गुणों की भविष्यवाणी की (एका-ऐलुमिनियम = गैलियम), पर हाइड्रोजन और समस्थानिकों को ठीक स्थान नहीं दे सके। मोज़ले ने दिखाया कि परमाणु क्रमांक अधिक मूलभूत है, इसलिए आधुनिक सारणी में परमाणु क्रमांक के क्रम में 18 समूह और 7 आवर्त हैं। आवर्त में बाएँ से दाएँ परमाणु आकार और धात्विक गुण घटते हैं; समूह में ऊपर से नीचे परमाणु आकार और धात्विक गुण बढ़ते हैं। एक समूह के तत्वों के संयोजकता इलेक्ट्रॉन समान होते हैं।"
+      },
+      "keyPoints": [
+        {"en": "This chapter is in the 2026-27 syllabus for formative assessment only — it is not assessed in the year-end board exam.", "hi": "यह अध्याय 2026-27 के पाठ्यक्रम में केवल रचनात्मक आकलन के लिए है — वार्षिक बोर्ड परीक्षा में इसका आकलन नहीं होता।"},
+        {"en": "Period number = number of occupied shells; group (for groups 1–2) = number of valence electrons.", "hi": "आवर्त संख्या = भरे हुए कोशों की संख्या; समूह (समूह 1–2 के लिए) = संयोजकता इलेक्ट्रॉनों की संख्या।"},
+        {"en": "Metals are on the left, non-metals on the right; metalloids (B, Si, Ge, As, Sb, Te, Po) lie along the zig-zag line between them.", "hi": "धातुएँ बाईं ओर, अधातुएँ दाईं ओर; उपधातुएँ (B, Si, Ge, As, Sb, Te, Po) उनके बीच की टेढ़ी-मेढ़ी रेखा पर हैं।"}
+      ],
+      "realLife": {
+        "en": "Chemists use the periodic table to predict how an unfamiliar element will behave — the same idea Mendeléev used to predict gallium and germanium.",
+        "hi": "रसायनज्ञ आवर्त सारणी से अनजान तत्व के व्यवहार का अनुमान लगाते हैं — यही विचार मेंडेलीफ़ ने गैलियम और जर्मेनियम की भविष्यवाणी में अपनाया था।"
+      },
+      "examFocus": {
+        "en": "Useful for school (formative) tests and as background for Class 11; not part of the Class 10 year-end board exam in 2026-27.",
+        "hi": "विद्यालय (रचनात्मक) परीक्षणों के लिए और कक्षा 11 की पृष्ठभूमि के रूप में उपयोगी; 2026-27 में कक्षा 10 की वार्षिक बोर्ड परीक्षा का भाग नहीं।"
+      },
+      "commonMistakes": [
+        {"en": "Arranging the modern table by atomic mass — it is arranged by atomic number.", "hi": "आधुनिक सारणी को परमाणु द्रव्यमान से व्यवस्थित मानना — यह परमाणु क्रमांक से व्यवस्थित है।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["periodic-classification"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "cbse-sci-10", "section": "Unit I, formative-only topic"}, {"sourceId": "cbse-sci-10-rm", "section": "Periodic Classification of Elements"}],
+      "quickRevision": {
+        "oneLine": {"en": "Modern periodic law: the properties of elements are a periodic function of their atomic numbers.", "hi": "आधुनिक आवर्त नियम: तत्वों के गुण उनके परमाणु क्रमांकों के आवर्त फलन होते हैं।"},
+        "points": [
+          {"en": "Period number = number of occupied shells.", "hi": "आवर्त संख्या = भरे हुए कोशों की संख्या।"},
+          {"en": "Metals on the left, non-metals on the right, metalloids along the zig-zag line.", "hi": "धातुएँ बाईं ओर, अधातुएँ दाईं ओर, उपधातुएँ टेढ़ी-मेढ़ी रेखा के साथ।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    }
+  ]
+}

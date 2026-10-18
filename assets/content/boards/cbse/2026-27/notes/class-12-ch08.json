@@ -1,0 +1,530 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "note-cbse-12-ch08-t8.1",
+      "targetId": "cbse-12-ch08-t8.1",
+      "covers": [],
+      "definition": {
+        "en": "In aldehydes the carbonyl group (>C=O) is bonded to a carbon and a hydrogen (methanal: two H); in ketones it is bonded to two carbons. IUPAC names replace the final -e of the alkane by -al (aldehydes) or -one (ketones).",
+        "hi": "ऐल्डिहाइडों में कार्बोनिल समूह (>C=O) एक कार्बन और एक हाइड्रोजन से जुड़ा होता है (मेथेनैल: दो H); कीटोनों में यह दो कार्बनों से जुड़ा होता है। IUPAC नामों में ऐल्केन के अंतिम -e को -al (ऐल्डिहाइड) या -one (कीटोन) से बदलते हैं।"
+      },
+      "explanation": {
+        "en": "Common names of aldehydes come from the related acids (formaldehyde, acetaldehyde) with α, β, γ to show substituent positions; ketones are named from the two groups (dimethyl ketone = acetone), and alkyl phenyl ketones as -phenones (acetophenone). For aldehydes, numbering starts at the CHO carbon; for ketones, from the end nearer the C=O. A ring carrying –CHO is named with the suffix carbaldehyde; benzaldehyde is also accepted. The carbonyl carbon is sp² hybridised with bond angles near 120° (trigonal planar). Oxygen is more electronegative, so the C=O bond is polar: carbon is electrophilic (Lewis acid) and oxygen nucleophilic (Lewis base); carbonyl compounds are more polar than ethers.",
+        "hi": "ऐल्डिहाइडों के सामान्य नाम संबंधित अम्लों से आते हैं (फ़ॉर्मैल्डिहाइड, ऐसीटैल्डिहाइड), प्रतिस्थापियों की स्थिति α, β, γ से दर्शाई जाती है; कीटोनों का नाम दोनों समूहों से होता है (डाइमेथिल कीटोन = ऐसीटोन), और ऐल्किल फ़ेनिल कीटोनों का -फ़ीनोन के रूप में (ऐसीटोफ़ीनोन)। ऐल्डिहाइडों में क्रमांकन CHO कार्बन से और कीटोनों में C=O के निकट वाले सिरे से होता है। –CHO वाले वलय के नाम में carbaldehyde प्रत्यय लगता है; बेन्ज़ैल्डिहाइड नाम भी स्वीकृत है। कार्बोनिल कार्बन sp² संकरित है और आबंध कोण लगभग 120° हैं (त्रिकोणीय समतली)। ऑक्सीजन अधिक विद्युत-ऋणात्मक है, इसलिए C=O आबंध ध्रुवीय है: कार्बन इलेक्ट्रॉनस्नेही (लूइस अम्ल) और ऑक्सीजन नाभिकस्नेही (लूइस क्षारक) केंद्र है; कार्बोनिल यौगिक ईथरों से अधिक ध्रुवीय हैं।"
+      },
+      "keyPoints": [
+        {"en": "Vanillin, salicylaldehyde and cinnamaldehyde give natural fragrances.", "hi": "वैनिलिन, सैलिसिलैल्डिहाइड और सिनैमैल्डिहाइड प्राकृतिक सुगंध देते हैं।"},
+        {"en": "CH₃CH₂COCH₃ = butan-2-one (ethyl methyl ketone); C₆H₅COCH₃ = 1-phenylethanone (acetophenone).", "hi": "CH₃CH₂COCH₃ = ब्यूटेन-2-ओन (एथिल मेथिल कीटोन); C₆H₅COCH₃ = 1-फ़ेनिलएथेनोन (ऐसीटोफ़ीनोन)।"}
+      ],
+      "realLife": {
+        "en": "Carbonyl compounds are found in flavourings, perfumes, plastics, fabrics and drugs; acetone is a common solvent.",
+        "hi": "कार्बोनिल यौगिक सुगंधकों, इत्रों, प्लास्टिक, वस्त्रों और औषधियों में पाए जाते हैं; ऐसीटोन एक सामान्य विलायक है।"
+      },
+      "examFocus": {
+        "en": "Write common and IUPAC names of aldehydes and ketones; describe the structure and polarity of the carbonyl group.",
+        "hi": "ऐल्डिहाइडों और कीटोनों के सामान्य और IUPAC नाम लिखिए; कार्बोनिल समूह की संरचना और ध्रुवता बताइए।"
+      },
+      "commonMistakes": [
+        {"en": "Numbering an aldehyde from the far end — the CHO carbon is always C-1.", "hi": "ऐल्डिहाइड को दूर वाले सिरे से क्रमांकित करना — CHO कार्बन सदैव C-1 होता है।"}
+      ],
+      "formulas": ["RCHO (aldehyde); RCOR′ (ketone)"],
+      "practicalIds": [],
+      "conceptIds": ["carbonyl-compounds"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "8.1"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Aldehyde at the end, so no number\"",
+            "hi": "\"ऐल्डिहाइड सिरे पर, इसलिए कोई संख्या नहीं\""
+          },
+          "recall": {
+            "en": "The aldehyde carbon is always C-1 of the chain, so no locant is written (butanal); a ketone carbonyl lies inside the chain, so its position is shown when it could vary (butan-2-one).",
+            "hi": "ऐल्डिहाइड का कार्बन सदैव शृंखला का C-1 होता है, इसलिए कोई स्थिति-सूचक नहीं लिखा जाता (ब्यूटेनैल); कीटोन का कार्बोनिल शृंखला के भीतर होता है, इसलिए जहाँ स्थिति बदल सकती है वहाँ उसे लिखा जाता है (ब्यूटेन-2-ओन)।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Aldehyde: –CHO (alkanal); ketone: >C=O between two carbons (alkanone).", "hi": "ऐल्डिहाइड: –CHO (ऐल्केनैल); कीटोन: दो कार्बनों के बीच >C=O (ऐल्केनोन)।"},
+        "formula": "RCHO (aldehyde); RCOR′ (ketone)",
+        "points": [
+          {"en": "Carbonyl carbon: sp², 120°, electrophilic.", "hi": "कार्बोनिल कार्बन: sp², 120°, इलेक्ट्रॉनस्नेही।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch08-t8.2",
+      "targetId": "cbse-12-ch08-t8.2",
+      "covers": [],
+      "definition": {
+        "en": "Aldehydes and ketones are made by oxidation or dehydrogenation of alcohols, ozonolysis of alkenes and hydration of alkynes; aldehydes also by Rosenmund and Stephen reductions and from toluene; ketones also from acyl chlorides with dialkylcadmium and by Friedel–Crafts acylation.",
+        "hi": "ऐल्डिहाइड और कीटोन ऐल्कोहॉलों के ऑक्सीकरण या विहाइड्रोजनन, ऐल्कीनों के ओज़ोनी-अपघटन और ऐल्काइनों के जलयोजन से बनते हैं; ऐल्डिहाइड रोज़ेनमुंड और स्टीफ़न अपचयन तथा टॉलूईन से भी; कीटोन डाइऐल्किलकैडमियम के साथ ऐसिल क्लोराइडों से और फ़्रीडेल–क्राफ़्ट्स ऐसिलीकरण से भी।"
+      },
+      "explanation": {
+        "en": "1° alcohols give aldehydes and 2° alcohols give ketones by oxidation, or by passing their vapours over Ag or Cu (industrial). Ethyne + H₂O (H₂SO₄, HgSO₄) gives ethanal; other alkynes give ketones. Rosenmund reduction: RCOCl + H₂ over Pd–BaSO₄ → RCHO. Stephen reaction: nitrile + SnCl₂/HCl → imine, hydrolysed to aldehyde; DIBAL-H also reduces nitriles and esters to aldehydes. From toluene: chromyl chloride (Etard reaction) or CrO₃ in acetic anhydride (via benzylidene diacetate) stops oxidation at benzaldehyde; side-chain chlorination to benzal chloride then hydrolysis is the commercial route; Gatterman–Koch: benzene + CO + HCl with anhydrous AlCl₃/CuCl gives benzaldehyde. Ketones: 2R′MgX + CdCl₂ → R′₂Cd, then R′₂Cd + 2RCOCl → 2RCOR′; arene + RCOCl with anhydrous AlCl₃ (Friedel–Crafts acylation).",
+        "hi": "ऑक्सीकरण से या वाष्पों को Ag या Cu पर प्रवाहित करने से (औद्योगिक) 1° ऐल्कोहॉल ऐल्डिहाइड और 2° ऐल्कोहॉल कीटोन देते हैं। एथाइन + H₂O (H₂SO₄, HgSO₄) से एथेनैल; अन्य ऐल्काइन कीटोन देती हैं। रोज़ेनमुंड अपचयन: Pd–BaSO₄ पर RCOCl + H₂ → RCHO। स्टीफ़न अभिक्रिया: नाइट्राइल + SnCl₂/HCl → इमीन, जिसके जल-अपघटन से ऐल्डिहाइड; DIBAL-H भी नाइट्राइलों और एस्टरों को ऐल्डिहाइडों में अपचित करता है। टॉलूईन से: क्रोमिल क्लोराइड (ईटार्ड अभिक्रिया) या ऐसीटिक ऐनहाइड्राइड में CrO₃ (बेन्ज़िलिडीन डाइऐसीटेट द्वारा) ऑक्सीकरण को बेन्ज़ैल्डिहाइड पर रोकते हैं; पार्श्व-शृंखला क्लोरीनन से बेन्ज़ल क्लोराइड और फिर जल-अपघटन व्यावसायिक विधि है; गाटरमान–कॉख: निर्जल AlCl₃/CuCl के साथ बेन्ज़ीन + CO + HCl से बेन्ज़ैल्डिहाइड। कीटोन: 2R′MgX + CdCl₂ → R′₂Cd, फिर R′₂Cd + 2RCOCl → 2RCOR′; निर्जल AlCl₃ के साथ ऐरीन + RCOCl (फ़्रीडेल–क्राफ़्ट्स ऐसिलीकरण)।"
+      },
+      "keyPoints": [
+        {"en": "Only ethyne gives an aldehyde on hydration; all other alkynes give ketones.", "hi": "जलयोजन पर केवल एथाइन ऐल्डिहाइड देती है; अन्य सभी ऐल्काइन कीटोन देती हैं।"},
+        {"en": "BaSO₄ poisons the Pd catalyst so that the aldehyde is not reduced further to an alcohol.", "hi": "BaSO₄, Pd उत्प्रेरक को विषाक्त करता है ताकि ऐल्डिहाइड आगे ऐल्कोहॉल में अपचित न हो।"}
+      ],
+      "realLife": {
+        "en": "Benzaldehyde for perfumes and dyes is made commercially by hydrolysing benzal chloride obtained from toluene.",
+        "hi": "इत्र और रंजकों के लिए बेन्ज़ैल्डिहाइड व्यावसायिक रूप से टॉलूईन से प्राप्त बेन्ज़ल क्लोराइड के जल-अपघटन से बनाया जाता है।"
+      },
+      "examFocus": {
+        "en": "Write named reactions: Rosenmund, Stephen, Etard, Gatterman–Koch, Friedel–Crafts acylation; give reagents for converting given compounds into aldehydes or ketones.",
+        "hi": "नामित अभिक्रियाएँ लिखिए: रोज़ेनमुंड, स्टीफ़न, ईटार्ड, गाटरमान–कॉख, फ़्रीडेल–क्राफ़्ट्स ऐसिलीकरण; दिए गए यौगिकों को ऐल्डिहाइड या कीटोन में बदलने के अभिकर्मक बताइए।"
+      },
+      "commonMistakes": [
+        {"en": "Using Grignard reagent directly with an acyl chloride to make a ketone — NCERT uses dialkylcadmium, which stops at the ketone.", "hi": "कीटोन बनाने के लिए ऐसिल क्लोराइड के साथ सीधे ग्रिन्यार अभिकर्मक लेना — NCERT डाइऐल्किलकैडमियम प्रयुक्त करता है, जो कीटोन पर रुक जाता है।"}
+      ],
+      "formulas": [
+        "RCOCl + H₂ → RCHO + HCl (Pd–BaSO₄)",
+        "RCN + SnCl₂ + HCl → RCH=NH → RCHO (H₃O⁺)",
+        "C₆H₅CH₃ + CrO₂Cl₂ → C₆H₅CHO (Etard)",
+        "C₆H₆ + CO + HCl → C₆H₅CHO (anhyd. AlCl₃/CuCl)",
+        "2R′MgX + CdCl₂ → R′₂Cd + 2MgXCl",
+        "C₆H₆ + CH₃COCl → C₆H₅COCH₃ + HCl (anhyd. AlCl₃)"
+      ],
+      "practicalIds": [],
+      "conceptIds": ["carbonyl-compounds"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "8.2"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "'Rosenmund from acid chloRide, Stephen from cyaNide'", "hi": "'रोज़ेनमुंड अम्ल क्लोराइड से, स्टीफ़न सायनाइड (नाइट्राइल) से'"},
+          "recall": {"en": "Rosenmund: RCOCl + H₂ (Pd–BaSO₄) → RCHO. Stephen: RCN + SnCl₂/HCl → imine → RCHO.", "hi": "रोज़ेनमुंड: RCOCl + H₂ (Pd–BaSO₄) → RCHO। स्टीफ़न: RCN + SnCl₂/HCl → इमीन → RCHO।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Aldehydes: Rosenmund, Stephen, Etard, Gatterman–Koch; ketones: R₂Cd + RCOCl, Friedel–Crafts acylation.", "hi": "ऐल्डिहाइड: रोज़ेनमुंड, स्टीफ़न, ईटार्ड, गाटरमान–कॉख; कीटोन: R₂Cd + RCOCl, फ़्रीडेल–क्राफ़्ट्स ऐसिलीकरण।"},
+        "formula": "RCOCl + H₂ → RCHO + HCl (Pd–BaSO₄)",
+        "points": [
+          {"en": "1° alcohol → aldehyde; 2° alcohol → ketone.", "hi": "1° ऐल्कोहॉल → ऐल्डिहाइड; 2° ऐल्कोहॉल → कीटोन।"},
+          {"en": "Ethyne + H₂O (HgSO₄/H₂SO₄) → ethanal.", "hi": "एथाइन + H₂O (HgSO₄/H₂SO₄) → एथेनैल।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch08-t8.3",
+      "targetId": "cbse-12-ch08-t8.3",
+      "covers": [],
+      "definition": {
+        "en": "Aldehydes and ketones boil higher than hydrocarbons and ethers of similar mass (dipole–dipole attraction) but lower than alcohols (no intermolecular hydrogen bonding).",
+        "hi": "ऐल्डिहाइड और कीटोन समान द्रव्यमान वाले हाइड्रोकार्बनों और ईथरों से अधिक (द्विध्रुव–द्विध्रुव आकर्षण) पर ऐल्कोहॉलों से कम (अंतराअणुक हाइड्रोजन आबंधन नहीं) ताप पर उबलते हैं।"
+      },
+      "explanation": {
+        "en": "Methanal is a gas, ethanal a volatile liquid, and others are liquids or solids. Methanal, ethanal and propanone mix with water in all proportions because they form hydrogen bonds with water; solubility falls quickly as the alkyl chain grows. All are fairly soluble in organic solvents. Lower aldehydes have sharp pungent smells; larger ones are more fragrant and are used in perfumes and flavours. Order of boiling points (mass 72–74): n-pentane < ethoxyethane < butanal < butan-1-ol.",
+        "hi": "मेथेनैल गैस, एथेनैल वाष्पशील द्रव और अन्य द्रव या ठोस हैं। मेथेनैल, एथेनैल और प्रोपेनोन जल के साथ हाइड्रोजन आबंध बनाने के कारण हर अनुपात में मिश्रणीय हैं; ऐल्किल शृंखला बढ़ने पर विलेयता तेज़ी से घटती है। सभी कार्बनिक विलायकों में पर्याप्त विलेय हैं। निम्न ऐल्डिहाइडों की गंध तीखी होती है; बड़े अणु अधिक सुगंधित होते हैं और इत्रों तथा सुगंधकों में प्रयुक्त होते हैं। क्वथनांकों का क्रम (द्रव्यमान 72–74): n-पेन्टेन < एथॉक्सीएथेन < ब्यूटेनैल < ब्यूटेन-1-ऑल।"
+      },
+      "keyPoints": [
+        {"en": "b.p. order for similar masses: alkane < ether < aldehyde/ketone < alcohol.", "hi": "समान द्रव्यमान के लिए क्वथनांक क्रम: ऐल्केन < ईथर < ऐल्डिहाइड/कीटोन < ऐल्कोहॉल।"},
+        {"en": "Lower members dissolve in water by hydrogen bonding through the carbonyl oxygen.", "hi": "निम्न सदस्य कार्बोनिल ऑक्सीजन द्वारा हाइड्रोजन आबंधन से जल में घुलते हैं।"}
+      ],
+      "realLife": {
+        "en": "Acetone mixes with water and with oils, which makes it a good nail-polish remover and cleaning solvent.",
+        "hi": "ऐसीटोन जल और तेलों दोनों के साथ मिल जाता है, इसलिए यह अच्छा नेल-पॉलिश रिमूवर और सफ़ाई विलायक है।"
+      },
+      "examFocus": {
+        "en": "Arrange compounds in order of boiling point and explain the solubility of lower carbonyl compounds.",
+        "hi": "यौगिकों को क्वथनांक के क्रम में लगाइए और निम्न कार्बोनिल यौगिकों की विलेयता समझाइए।"
+      },
+      "commonMistakes": [
+        {"en": "Saying aldehydes form hydrogen bonds among themselves — they cannot (no O–H); they only accept H-bonds from water.", "hi": "यह कहना कि ऐल्डिहाइड आपस में हाइड्रोजन आबंध बनाते हैं — नहीं बना सकते (O–H नहीं); वे केवल जल से H-आबंध ग्रहण करते हैं।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["carbonyl-compounds"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "8.3"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Boiling ladder: no pull < dipole pull < H-bond < double H-bond\"",
+            "hi": "\"क्वथन सीढ़ी: कोई आकर्षण नहीं < द्विध्रुव आकर्षण < हाइड्रोजन आबंध < दोहरा हाइड्रोजन आबंध\""
+          },
+          "recall": {
+            "en": "For similar molar masses: alkane < ether < aldehyde/ketone (dipole–dipole) < alcohol (hydrogen bonding) < carboxylic acid (hydrogen-bonded dimers).",
+            "hi": "समान मोलर द्रव्यमान के लिए: ऐल्केन < ईथर < ऐल्डिहाइड/कीटोन (द्विध्रुव–द्विध्रुव) < ऐल्कोहॉल (हाइड्रोजन आबंधन) < कार्बोक्सिलिक अम्ल (हाइड्रोजन आबंधित द्वितय)।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Carbonyl compounds: b.p. between ethers and alcohols; lower members water-soluble.", "hi": "कार्बोनिल यौगिक: क्वथनांक ईथरों और ऐल्कोहॉलों के बीच; निम्न सदस्य जल में विलेय।"},
+        "points": [
+          {"en": "n-pentane < ethoxyethane < butanal < butan-1-ol (b.p.).", "hi": "n-पेन्टेन < एथॉक्सीएथेन < ब्यूटेनैल < ब्यूटेन-1-ऑल (क्वथनांक)।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch08-t8.4",
+      "targetId": "cbse-12-ch08-t8.4",
+      "covers": [],
+      "definition": {
+        "en": "Aldehydes and ketones undergo nucleophilic addition at the carbonyl carbon, reduction, oxidation, reactions due to acidic α-hydrogens (aldol condensation), the Cannizzaro reaction and ring substitution.",
+        "hi": "ऐल्डिहाइड और कीटोन कार्बोनिल कार्बन पर नाभिकस्नेही योग, अपचयन, ऑक्सीकरण, अम्लीय α-हाइड्रोजनों के कारण अभिक्रियाएँ (ऐल्डोल संघनन), कैनिज़ारो अभिक्रिया और वलय प्रतिस्थापन करते हैं।"
+      },
+      "explanation": {
+        "en": "A nucleophile attacks the carbonyl carbon roughly perpendicular to its plane; carbon changes from sp² to sp³ in a tetrahedral alkoxide intermediate that takes up a proton. Aldehydes are more reactive than ketones for steric and electronic reasons, and benzaldehyde is less reactive than propanal (resonance lowers polarity). Additions: HCN (base-catalysed) → cyanohydrins; NaHSO₃ → water-soluble adducts (used to purify aldehydes); alcohols with dry HCl → hemiacetals and acetals (ketones + ethylene glycol → ketals); ammonia derivatives H₂N–Z → >C=N–Z (oxime, hydrazone, 2,4-DNP derivative, semicarbazone). Reduction: NaBH₄/LiAlH₄ → alcohols; Clemmensen (Zn–Hg/conc. HCl) or Wolff–Kishner (NH₂NH₂, then KOH in ethylene glycol) → CH₂. Aldehydes are oxidised even by mild agents: Tollens' reagent gives a silver mirror; Fehling's reagent gives a reddish-brown Cu₂O precipitate (aromatic aldehydes do not respond). Ketones need vigorous conditions and C–C cleavage. Methyl ketones (and CH₃CH(OH)– compounds) give the haloform reaction; NaOI gives yellow iodoform. Aldehydes and ketones with an α-H undergo aldol condensation with dilute alkali (aldol/ketol, then α,β-unsaturated product); different carbonyls give cross aldol mixtures. Aldehydes without α-H (HCHO, C₆H₅CHO) undergo Cannizzaro reaction with conc. alkali. In aromatic carbonyls the C=O group is deactivating and meta-directing.",
+        "hi": "नाभिकस्नेही कार्बोनिल कार्बन पर उसके तल के लगभग लंबवत आक्रमण करता है; कार्बन sp² से sp³ में बदलकर चतुष्फलकीय ऐल्कॉक्साइड मध्यवर्ती बनाता है जो एक प्रोटॉन ग्रहण करता है। त्रिविम और इलेक्ट्रॉनिक कारणों से ऐल्डिहाइड कीटोनों से अधिक क्रियाशील हैं, और बेन्ज़ैल्डिहाइड प्रोपेनैल से कम (अनुनाद ध्रुवता घटाता है)। योग: HCN (क्षार-उत्प्रेरित) → सायनोहाइड्रिन; NaHSO₃ → जल-विलेय योगज (ऐल्डिहाइडों के शोधन में); शुष्क HCl के साथ ऐल्कोहॉल → हेमिऐसीटैल और ऐसीटैल (कीटोन + एथिलीन ग्लाइकॉल → कीटैल); अमोनिया व्युत्पन्न H₂N–Z → >C=N–Z (ऑक्सिम, हाइड्रेज़ोन, 2,4-DNP व्युत्पन्न, सेमीकार्बेज़ोन)। अपचयन: NaBH₄/LiAlH₄ → ऐल्कोहॉल; क्लेमेन्सन (Zn–Hg/सांद्र HCl) या वुल्फ़–किश्नर (NH₂NH₂, फिर एथिलीन ग्लाइकॉल में KOH) → CH₂। ऐल्डिहाइड मृदु अभिकर्मकों से भी ऑक्सीकृत होते हैं: टॉलेन्स अभिकर्मक से रजत दर्पण; फ़ेहलिंग अभिकर्मक से लाल-भूरा Cu₂O अवक्षेप (ऐरोमैटिक ऐल्डिहाइड यह परीक्षण नहीं देते)। कीटोनों को प्रबल परिस्थितियाँ और C–C विदलन चाहिए। मेथिल कीटोन (और CH₃CH(OH)– यौगिक) हैलोफ़ॉर्म अभिक्रिया देते हैं; NaOI से पीला आयोडोफ़ॉर्म। α-H वाले ऐल्डिहाइड और कीटोन तनु क्षार के साथ ऐल्डोल संघनन करते हैं (ऐल्डोल/कीटोल, फिर α,β-असंतृप्त उत्पाद); भिन्न कार्बोनिल क्रॉस ऐल्डोल मिश्रण देते हैं। α-H रहित ऐल्डिहाइड (HCHO, C₆H₅CHO) सांद्र क्षार के साथ कैनिज़ारो अभिक्रिया करते हैं। ऐरोमैटिक कार्बोनिलों में C=O समूह निष्क्रियक और मेटा-निर्देशक है।"
+      },
+      "keyPoints": [
+        {"en": "Tollens' and Fehling's tests distinguish aldehydes from ketones.", "hi": "टॉलेन्स और फ़ेहलिंग परीक्षण ऐल्डिहाइडों को कीटोनों से अलग करते हैं।"},
+        {"en": "Iodoform test detects CH₃CO– and CH₃CH(OH)– groups (yellow CHI₃).", "hi": "आयोडोफ़ॉर्म परीक्षण CH₃CO– और CH₃CH(OH)– समूहों की पहचान करता है (पीला CHI₃)।"},
+        {"en": "Cross aldol of two carbonyls that both have α-H gives four products.", "hi": "दो α-H वाले कार्बोनिलों का क्रॉस ऐल्डोल चार उत्पाद देता है।"}
+      ],
+      "realLife": {
+        "en": "Tollens' silver-mirror reaction is used to silver glass, and the 2,4-DNP test helps identify unknown carbonyl compounds in labs.",
+        "hi": "टॉलेन्स की रजत-दर्पण अभिक्रिया काँच पर चाँदी चढ़ाने में प्रयुक्त होती है, और 2,4-DNP परीक्षण प्रयोगशाला में अज्ञात कार्बोनिल यौगिकों की पहचान में सहायक है।"
+      },
+      "examFocus": {
+        "en": "Write mechanisms and examples of nucleophilic addition; named reactions (Clemmensen, Wolff–Kishner, aldol, Cannizzaro, haloform); distinguishing tests; solve structure-based problems (e.g. C₈H₈O = acetophenone).",
+        "hi": "नाभिकस्नेही योग की क्रियाविधि और उदाहरण; नामित अभिक्रियाएँ (क्लेमेन्सन, वुल्फ़–किश्नर, ऐल्डोल, कैनिज़ारो, हैलोफ़ॉर्म); विभेदी परीक्षण; संरचना-आधारित प्रश्न (जैसे C₈H₈O = ऐसीटोफ़ीनोन) हल कीजिए।"
+      },
+      "commonMistakes": [
+        {"en": "Applying aldol to benzaldehyde or methanal — they have no α-H, so they undergo Cannizzaro reaction instead.", "hi": "बेन्ज़ैल्डिहाइड या मेथेनैल पर ऐल्डोल लगाना — इनमें α-H नहीं है, इसलिए ये कैनिज़ारो अभिक्रिया करते हैं।"},
+        {"en": "Expecting benzaldehyde to give Fehling's test — aromatic aldehydes do not respond.", "hi": "बेन्ज़ैल्डिहाइड से फ़ेहलिंग परीक्षण की अपेक्षा — ऐरोमैटिक ऐल्डिहाइड यह परीक्षण नहीं देते।"}
+      ],
+      "formulas": [
+        ">C=O + HCN → >C(OH)CN",
+        "RCHO + 2[Ag(NH₃)₂]⁺ + 3OH⁻ → RCOO⁻ + 2Ag + 2H₂O + 4NH₃",
+        "RCHO + 2Cu²⁺ + 5OH⁻ → RCOO⁻ + Cu₂O + 3H₂O",
+        ">C=O → >CH₂ (Zn–Hg, conc. HCl)",
+        "2CH₃CHO → CH₃CH(OH)CH₂CHO (dil. NaOH)",
+        "2HCHO + conc. KOH → CH₃OH + HCOOK",
+        "R–CO–CH₃ + 3NaOX → R–COONa + CHX₃ + 2NaOH"
+      ],
+      "practicalIds": ["cbse-12-pH"],
+      "conceptIds": ["carbonyl-compounds"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "8.4"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "'α-H present → Aldol; α-H absent → Cannizzaro'", "hi": "'α-H है → ऐल्डोल; α-H नहीं → कैनिज़ारो'"},
+          "recall": {"en": "Carbonyls with α-hydrogen give aldol condensation with dilute alkali; aldehydes without α-hydrogen (HCHO, C₆H₅CHO) disproportionate with concentrated alkali.", "hi": "α-हाइड्रोजन वाले कार्बोनिल तनु क्षार से ऐल्डोल संघनन देते हैं; α-हाइड्रोजन रहित ऐल्डिहाइड (HCHO, C₆H₅CHO) सांद्र क्षार से असमानुपातित होते हैं।"}
+        },
+        {
+          "trick": {"en": "'Clemmensen in acid, Wolff–Kishner in base'", "hi": "'क्लेमेन्सन अम्ल में, वुल्फ़–किश्नर क्षार में'"},
+          "recall": {"en": "Both reduce C=O to CH₂: Clemmensen uses Zn–Hg and conc. HCl; Wolff–Kishner uses hydrazine then KOH in ethylene glycol.", "hi": "दोनों C=O को CH₂ में अपचित करते हैं: क्लेमेन्सन में Zn–Hg और सांद्र HCl; वुल्फ़–किश्नर में हाइड्रेज़ीन फिर एथिलीन ग्लाइकॉल में KOH।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Carbonyls: nucleophilic addition; aldehydes > ketones in reactivity; aldehydes reduce Tollens' and Fehling's.", "hi": "कार्बोनिल: नाभिकस्नेही योग; क्रियाशीलता ऐल्डिहाइड > कीटोन; ऐल्डिहाइड टॉलेन्स और फ़ेहलिंग को अपचित करते हैं।"},
+        "formula": "2HCHO + conc. KOH → CH₃OH + HCOOK",
+        "points": [
+          {"en": "Iodoform test: CH₃CO– or CH₃CH(OH)– → yellow CHI₃.", "hi": "आयोडोफ़ॉर्म परीक्षण: CH₃CO– या CH₃CH(OH)– → पीला CHI₃।"},
+          {"en": "C=O → CH₂: Clemmensen or Wolff–Kishner.", "hi": "C=O → CH₂: क्लेमेन्सन या वुल्फ़–किश्नर।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch08-t8.5",
+      "targetId": "cbse-12-ch08-t8.5",
+      "covers": [],
+      "definition": {
+        "en": "Aldehydes and ketones are used as solvents, starting materials and reagents in the chemical industry and as flavours and fragrances.",
+        "hi": "ऐल्डिहाइड और कीटोन रासायनिक उद्योग में विलायक, प्रारंभिक पदार्थ और अभिकर्मक के रूप में तथा सुगंधक और सुगंधियों के रूप में प्रयुक्त होते हैं।"
+      },
+      "explanation": {
+        "en": "Formaldehyde as formalin (40% solution) preserves biological specimens and is used to make bakelite (phenol–formaldehyde resin) and urea–formaldehyde glues. Acetaldehyde is a starting material for acetic acid, ethyl acetate, vinyl acetate, polymers and drugs. Benzaldehyde is used in perfumery and dyes. Acetone and ethyl methyl ketone are common industrial solvents. Butyraldehyde, vanillin, acetophenone and camphor are known for their odours and flavours.",
+        "hi": "फ़ॉर्मैल्डिहाइड फ़ॉर्मेलिन (40% विलयन) के रूप में जैविक नमूनों का परिरक्षण करता है और बेकेलाइट (फ़ीनॉल–फ़ॉर्मैल्डिहाइड रेज़िन) तथा यूरिया–फ़ॉर्मैल्डिहाइड गोंद बनाने में प्रयुक्त होता है। ऐसीटैल्डिहाइड ऐसीटिक अम्ल, एथिल ऐसीटेट, वाइनिल ऐसीटेट, बहुलकों और औषधियों का प्रारंभिक पदार्थ है। बेन्ज़ैल्डिहाइड इत्र और रंजकों में प्रयुक्त होता है। ऐसीटोन और एथिल मेथिल कीटोन सामान्य औद्योगिक विलायक हैं। ब्यूटिरैल्डिहाइड, वैनिलिन, ऐसीटोफ़ीनोन और कपूर अपनी गंध और स्वाद के लिए जाने जाते हैं।"
+      },
+      "keyPoints": [
+        {"en": "Formalin = 40% aqueous formaldehyde.", "hi": "फ़ॉर्मेलिन = 40% जलीय फ़ॉर्मैल्डिहाइड।"},
+        {"en": "Bakelite is a phenol–formaldehyde resin.", "hi": "बेकेलाइट फ़ीनॉल–फ़ॉर्मैल्डिहाइड रेज़िन है।"}
+      ],
+      "realLife": {
+        "en": "Vanilla flavour (vanillin) and camphor are carbonyl compounds used every day.",
+        "hi": "वनीला का स्वाद (वैनिलिन) और कपूर रोज़ प्रयुक्त होने वाले कार्बोनिल यौगिक हैं।"
+      },
+      "examFocus": {
+        "en": "Give uses of formaldehyde, acetaldehyde, benzaldehyde and acetone.",
+        "hi": "फ़ॉर्मैल्डिहाइड, ऐसीटैल्डिहाइड, बेन्ज़ैल्डिहाइड और ऐसीटोन के उपयोग बताइए।"
+      },
+      "commonMistakes": [
+        {"en": "Calling formalin pure formaldehyde — it is a 40% solution in water.", "hi": "फ़ॉर्मेलिन को शुद्ध फ़ॉर्मैल्डिहाइड कहना — यह जल में 40% विलयन है।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["carbonyl-compounds"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "8.5"}],
+      "review": {"status": "sourceChecked"},
+      "quickRevision": {
+        "oneLine": {"en": "HCHO (formalin, bakelite), CH₃CHO (acetic acid), C₆H₅CHO (perfumes), acetone (solvent).", "hi": "HCHO (फ़ॉर्मेलिन, बेकेलाइट), CH₃CHO (ऐसीटिक अम्ल), C₆H₅CHO (इत्र), ऐसीटोन (विलायक)।"},
+        "points": [
+          {"en": "Formalin preserves biological specimens.", "hi": "फ़ॉर्मेलिन जैविक नमूनों का परिरक्षण करता है।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch08-t8.6",
+      "targetId": "cbse-12-ch08-t8.6",
+      "covers": [],
+      "definition": {
+        "en": "Carboxylic acids contain the carboxyl group –COOH (a carbonyl attached to a hydroxyl). IUPAC names replace the -e of the alkane by -oic acid, and the carboxyl carbon is C-1.",
+        "hi": "कार्बोक्सिलिक अम्लों में कार्बोक्सिल समूह –COOH होता है (हाइड्रॉक्सिल से जुड़ा कार्बोनिल)। IUPAC नामों में ऐल्केन के -e को -oic acid से बदलते हैं और कार्बोक्सिल कार्बन C-1 होता है।"
+      },
+      "explanation": {
+        "en": "Common names come from natural sources: formic acid from red ants (formica), acetic acid from vinegar (acetum), butyric acid from rancid butter (butyrum). Dicarboxylic acids: oxalic (ethanedioic), malonic (propanedioic), succinic (butanedioic), glutaric (pentanedioic), adipic (hexanedioic). In the carboxyl group the bonds to carbon lie in one plane about 120° apart; resonance makes the carboxyl carbon less electrophilic than a carbonyl carbon. Fatty acids (C₁₂–C₁₈) occur in fats as glycerol esters.",
+        "hi": "सामान्य नाम प्राकृतिक स्रोतों से आते हैं: फ़ॉर्मिक अम्ल लाल चींटियों से (formica), ऐसीटिक अम्ल सिरके से (acetum), ब्यूटिरिक अम्ल बासी मक्खन से (butyrum)। डाइकार्बोक्सिलिक अम्ल: ऑक्सैलिक (एथेनडाइऑइक), मैलोनिक (प्रोपेनडाइऑइक), सक्सिनिक (ब्यूटेनडाइऑइक), ग्लूटेरिक (पेन्टेनडाइऑइक), ऐडिपिक (हेक्सेनडाइऑइक)। कार्बोक्सिल समूह में कार्बन के आबंध एक तल में लगभग 120° पर होते हैं; अनुनाद के कारण कार्बोक्सिल कार्बन कार्बोनिल कार्बन से कम इलेक्ट्रॉनस्नेही है। वसीय अम्ल (C₁₂–C₁₈) वसाओं में ग्लिसरॉल के एस्टरों के रूप में मिलते हैं।"
+      },
+      "keyPoints": [
+        {"en": "HCOOH = methanoic acid; CH₃COOH = ethanoic acid; (CH₃)₂CHCOOH = 2-methylpropanoic acid.", "hi": "HCOOH = मेथेनॉइक अम्ल; CH₃COOH = एथेनॉइक अम्ल; (CH₃)₂CHCOOH = 2-मेथिलप्रोपेनॉइक अम्ल।"},
+        {"en": "Carboxylic acids are the parents of acid chlorides, anhydrides, esters and amides.", "hi": "कार्बोक्सिलिक अम्ल अम्ल क्लोराइडों, ऐनहाइड्राइडों, एस्टरों और ऐमाइडों के जनक हैं।"}
+      ],
+      "realLife": {
+        "en": "The sting of a red ant contains formic acid, and vinegar is dilute acetic acid.",
+        "hi": "लाल चींटी के डंक में फ़ॉर्मिक अम्ल होता है और सिरका तनु ऐसीटिक अम्ल है।"
+      },
+      "examFocus": {
+        "en": "Give common and IUPAC names of mono- and dicarboxylic acids; explain why the carboxyl carbon is less electrophilic.",
+        "hi": "मोनो- और डाइकार्बोक्सिलिक अम्लों के सामान्य और IUPAC नाम दीजिए; बताइए कि कार्बोक्सिल कार्बन कम इलेक्ट्रॉनस्नेही क्यों है।"
+      },
+      "commonMistakes": [
+        {"en": "Not counting the –COOH carbon in the parent chain — it is C-1 and is included.", "hi": "जनक शृंखला में –COOH कार्बन को न गिनना — यह C-1 है और शामिल होता है।"}
+      ],
+      "formulas": ["R–COOH"],
+      "practicalIds": [],
+      "conceptIds": ["carbonyl-compounds"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "8.6"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "Diacids C2→C6: 'Oh My, Such Good Apple' (Oxalic, Malonic, Succinic, Glutaric, Adipic)", "hi": "डाइअम्ल C2→C6: 'Oh My, Such Good Apple' (ऑक्सैलिक, मैलोनिक, सक्सिनिक, ग्लूटेरिक, ऐडिपिक)"},
+          "recall": {"en": "Oxalic (C2), malonic (C3), succinic (C4), glutaric (C5), adipic (C6) dicarboxylic acids.", "hi": "ऑक्सैलिक (C2), मैलोनिक (C3), सक्सिनिक (C4), ग्लूटेरिक (C5), ऐडिपिक (C6) डाइकार्बोक्सिलिक अम्ल।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Carboxylic acid: R–COOH, named alkanoic acid (–COOH carbon = C-1).", "hi": "कार्बोक्सिलिक अम्ल: R–COOH, नाम ऐल्केनॉइक अम्ल (–COOH कार्बन = C-1)।"},
+        "formula": "R–COOH",
+        "points": [
+          {"en": "Formic (ants), acetic (vinegar), butyric (rancid butter).", "hi": "फ़ॉर्मिक (चींटियाँ), ऐसीटिक (सिरका), ब्यूटिरिक (बासी मक्खन)।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch08-t8.7",
+      "targetId": "cbse-12-ch08-t8.7",
+      "covers": [],
+      "definition": {
+        "en": "Carboxylic acids are prepared by oxidising primary alcohols and aldehydes, by oxidising alkylbenzenes, by hydrolysing nitriles, amides, acyl halides, anhydrides and esters, and from Grignard reagents with CO₂.",
+        "hi": "कार्बोक्सिलिक अम्ल प्राथमिक ऐल्कोहॉलों और ऐल्डिहाइडों के ऑक्सीकरण, ऐल्किलबेन्ज़ीनों के ऑक्सीकरण, नाइट्राइलों, ऐमाइडों, ऐसिल हैलाइडों, ऐनहाइड्राइडों और एस्टरों के जल-अपघटन, तथा CO₂ के साथ ग्रिन्यार अभिकर्मकों से बनाए जाते हैं।"
+      },
+      "explanation": {
+        "en": "1° alcohols are oxidised with KMnO₄ (neutral, acidic or alkaline) or K₂Cr₂O₇ and CrO₃ in acid (Jones reagent). Vigorous oxidation of alkylbenzenes with chromic acid or KMnO₄ converts the whole side chain to –COOH, whatever its length, if it is 1° or 2° (a tertiary group is not affected). Nitriles hydrolyse through amides to acids with H⁺ or OH⁻ (mild conditions stop at the amide). RMgX + CO₂ (dry ice) then acid gives RCOOH. The nitrile and Grignard routes add one carbon to an alkyl halide (ascending the series). Acid chlorides and anhydrides hydrolyse with water; esters hydrolyse in acid to acids or in base to carboxylates.",
+        "hi": "1° ऐल्कोहॉल KMnO₄ (उदासीन, अम्लीय या क्षारीय) या अम्ल में K₂Cr₂O₇ और CrO₃ (जोन्स अभिकर्मक) से ऑक्सीकृत होते हैं। क्रोमिक अम्ल या KMnO₄ से ऐल्किलबेन्ज़ीनों का प्रबल ऑक्सीकरण पूरी पार्श्व-शृंखला को, उसकी लंबाई कुछ भी हो, –COOH में बदल देता है यदि वह 1° या 2° हो (तृतीयक समूह प्रभावित नहीं होता)। नाइट्राइल H⁺ या OH⁻ से ऐमाइड होते हुए अम्ल में जल-अपघटित होते हैं (मृदु परिस्थितियों में ऐमाइड पर रुकते हैं)। RMgX + CO₂ (शुष्क बर्फ़) फिर अम्ल से RCOOH। नाइट्राइल और ग्रिन्यार विधियाँ ऐल्किल हैलाइड में एक कार्बन जोड़ती हैं (श्रेणी में आरोहण)। अम्ल क्लोराइड और ऐनहाइड्राइड जल से जल-अपघटित होते हैं; एस्टर अम्ल में अम्ल देते हैं या क्षार में कार्बोक्सिलेट।"
+      },
+      "keyPoints": [
+        {"en": "Toluene, ethylbenzene or propylbenzene all give benzoic acid on vigorous oxidation.", "hi": "प्रबल ऑक्सीकरण पर टॉलूईन, एथिलबेन्ज़ीन या प्रोपिलबेन्ज़ीन सभी बेन्ज़ोइक अम्ल देते हैं।"},
+        {"en": "R–X → R–CN → R–COOH and R–X → RMgX → R–COOH both increase the chain by one carbon.", "hi": "R–X → R–CN → R–COOH और R–X → RMgX → R–COOH दोनों शृंखला में एक कार्बन बढ़ाते हैं।"}
+      ],
+      "realLife": {
+        "en": "Industrial oxidation of side chains on benzene rings produces benzoic acid and terephthalic acid for preservatives and polyester.",
+        "hi": "बेन्ज़ीन वलयों पर पार्श्व-शृंखलाओं के औद्योगिक ऑक्सीकरण से परिरक्षकों और पॉलिएस्टर के लिए बेन्ज़ोइक और टेरेफ़्थैलिक अम्ल बनते हैं।"
+      },
+      "examFocus": {
+        "en": "Write conversions such as butan-1-ol → butanoic acid, bromobenzene → benzoic acid, and alkyl halide → acid with one more carbon.",
+        "hi": "ब्यूटेन-1-ऑल → ब्यूटेनॉइक अम्ल, ब्रोमोबेन्ज़ीन → बेन्ज़ोइक अम्ल, और ऐल्किल हैलाइड → एक अधिक कार्बन वाला अम्ल जैसे रूपांतरण लिखिए।"
+      },
+      "commonMistakes": [
+        {"en": "Expecting propylbenzene to give phenylpropanoic acid — the whole side chain is oxidised to –COOH, giving benzoic acid.", "hi": "प्रोपिलबेन्ज़ीन से फ़ेनिलप्रोपेनॉइक अम्ल की अपेक्षा — पूरी पार्श्व-शृंखला –COOH में ऑक्सीकृत होकर बेन्ज़ोइक अम्ल देती है।"}
+      ],
+      "formulas": [
+        "RCH₂OH → RCOOH (KMnO₄ or K₂Cr₂O₇/H⁺)",
+        "R–CN → R–CONH₂ → R–COOH (H⁺ or OH⁻, H₂O)",
+        "RMgX + CO₂ → RCOOMgX → RCOOH (H₃O⁺)",
+        "C₆H₅CH₃ → C₆H₅COOH (KMnO₄–KOH, heat; then H⁺)"
+      ],
+      "practicalIds": [],
+      "conceptIds": ["carbonyl-compounds"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "8.7"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Any 1° or 2° side chain on benzene ends as –COOH\"",
+            "hi": "\"बेन्ज़ीन पर कोई भी 1° या 2° पार्श्व शृंखला अंत में –COOH बनती है\""
+          },
+          "recall": {
+            "en": "On vigorous oxidation (KMnO₄ or chromic acid) the whole side chain is oxidised to –COOH whatever its length, so toluene and ethylbenzene both give benzoic acid. A tertiary alkyl group is not affected.",
+            "hi": "प्रबल ऑक्सीकरण (KMnO₄ या क्रोमिक अम्ल) पर पूरी पार्श्व शृंखला, उसकी लंबाई चाहे जो हो, –COOH में ऑक्सीकृत हो जाती है, इसलिए टॉलूईन और एथिलबेन्ज़ीन दोनों बेन्ज़ोइक अम्ल देते हैं। तृतीयक ऐल्किल समूह प्रभावित नहीं होता।"
+          }
+        },
+        {
+          "trick": {
+            "en": "\"CN or CO₂ adds one carbon\"",
+            "hi": "\"CN या CO₂ एक कार्बन जोड़ता है\""
+          },
+          "recall": {
+            "en": "R–X → R–CN → R–COOH and R–X → RMgX → R–COOH (with CO₂) both give an acid with one more carbon than the alkyl halide.",
+            "hi": "R–X → R–CN → R–COOH और R–X → RMgX → R–COOH (CO₂ के साथ) दोनों ऐल्किल हैलाइड से एक कार्बन अधिक वाला अम्ल देते हैं।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Acids from 1° alcohols, aldehydes, alkylbenzenes, nitriles, Grignard + CO₂, and acid derivatives.", "hi": "अम्ल 1° ऐल्कोहॉलों, ऐल्डिहाइडों, ऐल्किलबेन्ज़ीनों, नाइट्राइलों, ग्रिन्यार + CO₂ और अम्ल व्युत्पन्नों से।"},
+        "formula": "RMgX + CO₂ → RCOOMgX → RCOOH (H₃O⁺)",
+        "points": [
+          {"en": "Any 1°/2° side chain on benzene → –COOH.", "hi": "बेन्ज़ीन पर कोई भी 1°/2° पार्श्व-शृंखला → –COOH।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch08-t8.8",
+      "targetId": "cbse-12-ch08-t8.8",
+      "covers": [],
+      "definition": {
+        "en": "Carboxylic acids have higher boiling points than aldehydes, ketones and even alcohols of similar mass because of extensive intermolecular hydrogen bonding; lower acids are water-soluble.",
+        "hi": "विस्तृत अंतराअणुक हाइड्रोजन आबंधन के कारण कार्बोक्सिलिक अम्लों के क्वथनांक समान द्रव्यमान वाले ऐल्डिहाइडों, कीटोनों और ऐल्कोहॉलों से भी अधिक होते हैं; निम्न अम्ल जल-विलेय हैं।"
+      },
+      "explanation": {
+        "en": "Aliphatic acids up to C₉ are colourless liquids with unpleasant odours; higher acids are wax-like odourless solids. Their hydrogen bonds are not broken completely even in the vapour phase (acids exist as dimers). Simple acids up to four carbons mix with water through hydrogen bonding; solubility falls as the hydrocarbon part grows, and benzoic acid is nearly insoluble in cold water. They dissolve in less polar organic solvents such as benzene, ether, alcohol and chloroform.",
+        "hi": "C₉ तक के ऐलिफ़ैटिक अम्ल अप्रिय गंध वाले रंगहीन द्रव हैं; उच्चतर अम्ल मोम जैसे गंधहीन ठोस हैं। इनके हाइड्रोजन आबंध वाष्प अवस्था में भी पूरी तरह नहीं टूटते (अम्ल द्वितय के रूप में रहते हैं)। चार कार्बन तक के सरल अम्ल हाइड्रोजन आबंधन द्वारा जल में मिश्रणीय हैं; हाइड्रोकार्बन भाग बढ़ने पर विलेयता घटती है, और बेन्ज़ोइक अम्ल ठंडे जल में लगभग अविलेय है। ये बेन्ज़ीन, ईथर, ऐल्कोहॉल और क्लोरोफ़ॉर्म जैसे कम ध्रुवीय कार्बनिक विलायकों में घुलते हैं।"
+      },
+      "keyPoints": [
+        {"en": "b.p. order for similar masses: aldehyde/ketone < alcohol < carboxylic acid.", "hi": "समान द्रव्यमान के लिए क्वथनांक क्रम: ऐल्डिहाइड/कीटोन < ऐल्कोहॉल < कार्बोक्सिलिक अम्ल।"},
+        {"en": "Carboxylic acids exist as hydrogen-bonded dimers.", "hi": "कार्बोक्सिलिक अम्ल हाइड्रोजन-आबंधित द्वितय के रूप में रहते हैं।"}
+      ],
+      "realLife": {
+        "en": "The sharp smell of vinegar and of rancid butter comes from volatile lower carboxylic acids.",
+        "hi": "सिरके और बासी मक्खन की तीखी गंध वाष्पशील निम्न कार्बोक्सिलिक अम्लों से आती है।"
+      },
+      "examFocus": {
+        "en": "Explain why carboxylic acids boil higher than alcohols of similar mass; compare solubilities.",
+        "hi": "बताइए कि कार्बोक्सिलिक अम्ल समान द्रव्यमान वाले ऐल्कोहॉलों से अधिक ताप पर क्यों उबलते हैं; विलेयताओं की तुलना कीजिए।"
+      },
+      "commonMistakes": [
+        {"en": "Assuming hydrogen bonds vanish in the vapour — carboxylic acids remain partly dimerised even as vapour.", "hi": "यह मानना कि वाष्प में हाइड्रोजन आबंध समाप्त हो जाते हैं — कार्बोक्सिलिक अम्ल वाष्प में भी आंशिक रूप से द्वितय बने रहते हैं।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["carbonyl-compounds"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "8.8"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Acids hold hands in pairs\"",
+            "hi": "\"अम्ल जोड़ों में हाथ पकड़ते हैं\""
+          },
+          "recall": {
+            "en": "Two carboxylic acid molecules join through two hydrogen bonds to form a dimer, so acids boil even higher than alcohols of similar molar mass.",
+            "hi": "दो कार्बोक्सिलिक अम्ल अणु दो हाइड्रोजन आबंधों से जुड़कर द्वितय बनाते हैं, इसलिए अम्लों का क्वथनांक समान मोलर द्रव्यमान वाले ऐल्कोहॉलों से भी अधिक होता है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Acids boil highest (H-bonded dimers); lower members water-soluble.", "hi": "अम्ल सबसे अधिक ताप पर उबलते हैं (H-आबंधित द्वितय); निम्न सदस्य जल-विलेय।"},
+        "points": [
+          {"en": "Benzoic acid is nearly insoluble in cold water.", "hi": "बेन्ज़ोइक अम्ल ठंडे जल में लगभग अविलेय है।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch08-t8.9",
+      "targetId": "cbse-12-ch08-t8.9",
+      "covers": [],
+      "definition": {
+        "en": "Carboxylic acids react through the O–H bond (acidity), the C–OH bond (esterification, acid chlorides, amides), the –COOH group as a whole (reduction, decarboxylation) and the hydrocarbon part (HVZ reaction, ring substitution).",
+        "hi": "कार्बोक्सिलिक अम्ल O–H आबंध (अम्लता), C–OH आबंध (एस्टरीकरण, अम्ल क्लोराइड, ऐमाइड), पूरे –COOH समूह (अपचयन, विकार्बोक्सिलन) और हाइड्रोकार्बन भाग (HVZ अभिक्रिया, वलय प्रतिस्थापन) के माध्यम से अभिक्रिया करते हैं।"
+      },
+      "explanation": {
+        "en": "Acids liberate H₂ with active metals, form salts with alkalis and, unlike phenols, release CO₂ from carbonates and hydrogencarbonates (test for –COOH). pKa: CF₃COOH 0.23, benzoic acid 4.19, acetic acid 4.76 (phenol ≈ 10, ethanol ≈ 16); a smaller pKa means a stronger acid. Carboxylate ion is stabilised by two equivalent resonance structures with the charge on two oxygens, so acids are stronger than phenols. Electron-withdrawing groups increase acidity (CF₃COOH > CCl₃COOH > CHCl₂COOH > NO₂CH₂COOH > NCCH₂COOH); electron-donating groups decrease it; phenyl or vinyl directly attached increases it (sp² carbon). Esterification with alcohols needs conc. H₂SO₄ or dry HCl (nucleophilic acyl substitution). PCl₅, PCl₃ or SOCl₂ give acid chlorides (SOCl₂ preferred). NH₃ gives ammonium salts which on strong heating give amides. LiAlH₄ or, better, diborane reduce acids to 1° alcohols; NaBH₄ does not. Sodium salts heated with soda-lime (NaOH : CaO = 3 : 1) lose CO₂ (decarboxylation); Kolbe electrolysis gives hydrocarbons with twice the alkyl carbons. HVZ: Cl₂ or Br₂ with red P gives α-halo acids. In aromatic acids –COOH is deactivating and meta-directing, and they do not undergo Friedel–Crafts reactions.",
+        "hi": "अम्ल सक्रिय धातुओं से H₂ मुक्त करते हैं, क्षारों से लवण बनाते हैं और फ़ीनॉलों के विपरीत कार्बोनेटों और हाइड्रोजनकार्बोनेटों से CO₂ मुक्त करते हैं (–COOH का परीक्षण)। pKa: CF₃COOH 0.23, बेन्ज़ोइक अम्ल 4.19, ऐसीटिक अम्ल 4.76 (फ़ीनॉल ≈ 10, एथेनॉल ≈ 16); कम pKa का अर्थ प्रबल अम्ल। कार्बोक्सिलेट आयन दो समतुल्य अनुनादी संरचनाओं से स्थायी होता है जिनमें आवेश दो ऑक्सीजनों पर होता है, इसलिए अम्ल फ़ीनॉलों से प्रबल हैं। इलेक्ट्रॉन-आकर्षी समूह अम्लता बढ़ाते हैं (CF₃COOH > CCl₃COOH > CHCl₂COOH > NO₂CH₂COOH > NCCH₂COOH); इलेक्ट्रॉन-दाता समूह घटाते हैं; सीधे जुड़ा फ़ेनिल या वाइनिल इसे बढ़ाता है (sp² कार्बन)। ऐल्कोहॉलों से एस्टरीकरण के लिए सांद्र H₂SO₄ या शुष्क HCl चाहिए (नाभिकस्नेही ऐसिल प्रतिस्थापन)। PCl₅, PCl₃ या SOCl₂ से अम्ल क्लोराइड बनते हैं (SOCl₂ को वरीयता)। NH₃ से अमोनियम लवण बनते हैं जो प्रबल गरम करने पर ऐमाइड देते हैं। LiAlH₄ या बेहतर डाइबोरेन अम्लों को 1° ऐल्कोहॉल में अपचित करते हैं; NaBH₄ नहीं करता। सोडियम लवणों को सोडालाइम (NaOH : CaO = 3 : 1) के साथ गरम करने पर CO₂ निकलती है (विकार्बोक्सिलन); कोल्बे विद्युत-अपघटन से ऐल्किल कार्बनों की दोगुनी संख्या वाले हाइड्रोकार्बन बनते हैं। HVZ: लाल P के साथ Cl₂ या Br₂ से α-हैलो अम्ल। ऐरोमैटिक अम्लों में –COOH निष्क्रियक और मेटा-निर्देशक है, और वे फ़्रीडेल–क्राफ़्ट्स अभिक्रिया नहीं करते।"
+      },
+      "keyPoints": [
+        {"en": "Acidity: carboxylic acid > phenol > water > alcohol.", "hi": "अम्लता: कार्बोक्सिलिक अम्ल > फ़ीनॉल > जल > ऐल्कोहॉल।"},
+        {"en": "NaHCO₃ test: only carboxylic acids (not phenols) give brisk effervescence of CO₂.", "hi": "NaHCO₃ परीक्षण: केवल कार्बोक्सिलिक अम्ल (फ़ीनॉल नहीं) CO₂ की तीव्र बुदबुदाहट देते हैं।"},
+        {"en": "Aromatic acids fail Friedel–Crafts because –COOH deactivates the ring and binds AlCl₃.", "hi": "ऐरोमैटिक अम्ल फ़्रीडेल–क्राफ़्ट्स नहीं देते क्योंकि –COOH वलय को निष्क्रिय करता है और AlCl₃ से बंध जाता है।"}
+      ],
+      "realLife": {
+        "en": "Esters formed from acids and alcohols give fruits their smell and are used in perfumes and flavours.",
+        "hi": "अम्लों और ऐल्कोहॉलों से बने एस्टर फलों को उनकी गंध देते हैं और इत्रों तथा सुगंधकों में प्रयुक्त होते हैं।"
+      },
+      "examFocus": {
+        "en": "Explain acidity and substituent effects; write esterification, decarboxylation, Kolbe electrolysis and HVZ reaction; arrange acids by strength.",
+        "hi": "अम्लता और प्रतिस्थापी प्रभाव समझाइए; एस्टरीकरण, विकार्बोक्सिलन, कोल्बे विद्युत-अपघटन और HVZ अभिक्रिया लिखिए; अम्लों को सामर्थ्य के क्रम में लगाइए।"
+      },
+      "commonMistakes": [
+        {"en": "Thinking phenol is a stronger acid because phenoxide has more resonance structures — carboxylate's two equivalent structures with charge on oxygen make it more stable.", "hi": "यह सोचना कि फ़ीनॉक्साइड की अधिक अनुनादी संरचनाओं के कारण फ़ीनॉल प्रबल अम्ल है — कार्बोक्सिलेट की ऑक्सीजन पर आवेश वाली दो समतुल्य संरचनाएँ उसे अधिक स्थायी बनाती हैं।"},
+        {"en": "Using NaBH₄ to reduce a carboxylic acid — it does not reduce –COOH.", "hi": "कार्बोक्सिलिक अम्ल के अपचयन के लिए NaBH₄ लेना — यह –COOH को अपचित नहीं करता।"}
+      ],
+      "formulas": [
+        "RCOOH + NaHCO₃ → RCOONa + H₂O + CO₂↑",
+        "RCOOH + R′OH ⇌ RCOOR′ + H₂O (conc. H₂SO₄)",
+        "RCOOH + SOCl₂ → RCOCl + SO₂ + HCl",
+        "RCOONa + NaOH → RH + Na₂CO₃ (CaO, heat)",
+        "RCH₂COOH + X₂ → RCH(X)COOH + HX (red P)"
+      ],
+      "practicalIds": ["cbse-12-pH"],
+      "conceptIds": ["carbonyl-compounds"],
+      "chemicalIds": ["ethanoic-acid"],
+      "sources": [{"sourceId": "ncert-12-en", "section": "8.9"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "'HVZ puts Halogen at α with red P'", "hi": "'HVZ लाल P से α पर हैलोजन लगाता है'"},
+          "recall": {"en": "Hell–Volhard–Zelinsky: an acid with α-H + Cl₂/Br₂ + red phosphorus → α-halocarboxylic acid.", "hi": "हेल–वोल्हार्ड–ज़ेलिंस्की: α-H वाला अम्ल + Cl₂/Br₂ + लाल फ़ॉस्फ़ोरस → α-हैलोकार्बोक्सिलिक अम्ल।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Acids > phenols in acidity; EWG increase acidity; NaHCO₃ test identifies –COOH.", "hi": "अम्लता में अम्ल > फ़ीनॉल; EWG अम्लता बढ़ाते हैं; NaHCO₃ परीक्षण –COOH पहचानता है।"},
+        "formula": "RCOOH + NaHCO₃ → RCOONa + H₂O + CO₂↑",
+        "points": [
+          {"en": "Decarboxylation with soda-lime; Kolbe electrolysis doubles the alkyl part.", "hi": "सोडालाइम से विकार्बोक्सिलन; कोल्बे विद्युत-अपघटन ऐल्किल भाग दोगुना करता है।"},
+          {"en": "LiAlH₄/B₂H₆ reduce –COOH; NaBH₄ does not.", "hi": "LiAlH₄/B₂H₆ –COOH को अपचित करते हैं; NaBH₄ नहीं।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch08-t8.10",
+      "targetId": "cbse-12-ch08-t8.10",
+      "covers": [],
+      "definition": {
+        "en": "Carboxylic acids and their salts and esters are used in industry, food, perfumes, polymers and soaps.",
+        "hi": "कार्बोक्सिलिक अम्ल तथा उनके लवण और एस्टर उद्योग, भोजन, इत्र, बहुलकों और साबुनों में प्रयुक्त होते हैं।"
+      },
+      "explanation": {
+        "en": "Methanoic acid is used in rubber, textile, dyeing, leather and electroplating industries. Ethanoic acid is a solvent and, as vinegar, a food ingredient. Hexanedioic (adipic) acid is used to make nylon-6,6. Esters of benzoic acid are used in perfumery and sodium benzoate is a food preservative. Higher fatty acids are used to make soaps and detergents.",
+        "hi": "मेथेनॉइक अम्ल रबर, वस्त्र, रंगाई, चमड़ा और विद्युतलेपन उद्योगों में प्रयुक्त होता है। एथेनॉइक अम्ल विलायक है और सिरके के रूप में खाद्य घटक है। हेक्सेनडाइऑइक (ऐडिपिक) अम्ल नायलॉन-6,6 बनाने में प्रयुक्त होता है। बेन्ज़ोइक अम्ल के एस्टर इत्रों में और सोडियम बेन्ज़ोएट खाद्य परिरक्षक के रूप में प्रयुक्त होते हैं। उच्च वसीय अम्ल साबुन और अपमार्जक बनाने में प्रयुक्त होते हैं।"
+      },
+      "keyPoints": [
+        {"en": "Adipic acid → nylon-6,6; sodium benzoate → food preservative.", "hi": "ऐडिपिक अम्ल → नायलॉन-6,6; सोडियम बेन्ज़ोएट → खाद्य परिरक्षक।"},
+        {"en": "Higher fatty acids → soaps and detergents.", "hi": "उच्च वसीय अम्ल → साबुन और अपमार्जक।"}
+      ],
+      "realLife": {
+        "en": "Pickles and sauces often contain sodium benzoate to stop them spoiling.",
+        "hi": "अचार और सॉस को ख़राब होने से बचाने के लिए प्रायः उनमें सोडियम बेन्ज़ोएट मिलाया जाता है।"
+      },
+      "examFocus": {
+        "en": "State uses of methanoic, ethanoic, hexanedioic and benzoic acids and their derivatives.",
+        "hi": "मेथेनॉइक, एथेनॉइक, हेक्सेनडाइऑइक और बेन्ज़ोइक अम्लों तथा उनके व्युत्पन्नों के उपयोग बताइए।"
+      },
+      "commonMistakes": [
+        {"en": "Linking nylon-6,6 to benzoic acid — it is made from hexanedioic (adipic) acid.", "hi": "नायलॉन-6,6 को बेन्ज़ोइक अम्ल से जोड़ना — यह हेक्सेनडाइऑइक (ऐडिपिक) अम्ल से बनता है।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["carbonyl-compounds"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "8.10"}],
+      "review": {"status": "sourceChecked"},
+      "quickRevision": {
+        "oneLine": {"en": "HCOOH (rubber, leather), CH₃COOH (vinegar), adipic acid (nylon-6,6), sodium benzoate (preservative).", "hi": "HCOOH (रबर, चमड़ा), CH₃COOH (सिरका), ऐडिपिक अम्ल (नायलॉन-6,6), सोडियम बेन्ज़ोएट (परिरक्षक)।"},
+        "points": [
+          {"en": "Fatty acids make soaps and detergents.", "hi": "वसीय अम्लों से साबुन और अपमार्जक बनते हैं।"}
+        ]
+      }
+    }
+  ]
+}

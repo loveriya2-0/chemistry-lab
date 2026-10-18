@@ -1,0 +1,182 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "note-cbse-11-sp-block",
+      "targetId": "cbse-11-sp-block",
+      "covers": [],
+      "definition": {
+        "en": "s-block elements (groups 1 and 2) have ns¹⁻² valence configurations; p-block elements (groups 13–18) have ns²np¹⁻⁶. Their properties change regularly across periods and down groups, while the first element of each group behaves anomalously.",
+        "hi": "s-ब्लॉक तत्वों (समूह 1 और 2) का संयोजकता विन्यास ns¹⁻² और p-ब्लॉक तत्वों (समूह 13–18) का ns²np¹⁻⁶ होता है। आवर्तों और समूहों में इनके गुण नियमित रूप से बदलते हैं, जबकि हर समूह का पहला तत्व असंगत व्यवहार करता है।"
+      },
+      "explanation": {
+        "en": "Down groups 1 and 2, atomic and ionic radii increase, ionisation enthalpy decreases and metallic, reducing character increases. Hydration enthalpy decreases with ion size (Li⁺ has the highest, so Li⁺ salts are often hydrated). Group 2 ions are smaller and more highly charged than group 1 ions, so they have higher hydration enthalpies. Lithium and beryllium behave unusually because of their very small size and high polarising power; Li resembles Mg and Be resembles Al (diagonal relationship). In the p-block, the inert pair effect makes lower oxidation states more stable down groups 13 and 14 (Tl⁺, Pb²⁺); catenation is strongest for carbon; N, O and F differ from heavier members because of small size, high electronegativity and absence of d orbitals.",
+        "hi": "समूह 1 और 2 में नीचे की ओर परमाणु और आयनिक त्रिज्याएँ बढ़ती हैं, आयनन एन्थैल्पी घटती है तथा धात्विक और अपचायक गुण बढ़ते हैं। आयन का आकार बढ़ने पर जलयोजन एन्थैल्पी घटती है (Li⁺ की सबसे अधिक, इसलिए Li⁺ के लवण प्रायः जलयोजित)। समूह 2 के आयन समूह 1 से छोटे और अधिक आवेशित हैं, अतः उनकी जलयोजन एन्थैल्पी अधिक है। अत्यंत छोटे आकार और उच्च ध्रुवण क्षमता के कारण लिथियम और बेरिलियम असामान्य व्यवहार करते हैं; Li, Mg से और Be, Al से समानता रखता है (विकर्ण संबंध)। p-ब्लॉक में अक्रिय युग्म प्रभाव से समूह 13 और 14 में नीचे निम्न ऑक्सीकरण अवस्थाएँ अधिक स्थायी होती हैं (Tl⁺, Pb²⁺); शृंखलन कार्बन में सबसे प्रबल है; छोटे आकार, उच्च विद्युत-ऋणात्मकता और d कक्षकों के अभाव के कारण N, O और F भारी सदस्यों से भिन्न हैं।"
+      },
+      "keyPoints": [
+        {
+          "en": "This topic is formative-only in 2026-27 — not assessed in the year-end exam.",
+          "hi": "2026-27 में यह विषय केवल रचनात्मक आकलन के लिए है — वार्षिक परीक्षा में आकलित नहीं।"
+        },
+        {
+          "en": "Catenation: C >> Si > Ge ≈ Sn; lead does not catenate.",
+          "hi": "शृंखलन: C >> Si > Ge ≈ Sn; लेड शृंखलन नहीं करता।"
+        }
+      ],
+      "realLife": {
+        "en": "Lithium's small size makes it ideal for light, high-energy batteries; the inert pair effect explains why lead is mostly found as Pb²⁺.",
+        "hi": "छोटे आकार के कारण लिथियम हल्की, उच्च-ऊर्जा बैटरियों के लिए आदर्श है; अक्रिय युग्म प्रभाव बताता है कि लेड अधिकतर Pb²⁺ के रूप में क्यों मिलता है।"
+      },
+      "examFocus": {
+        "en": "School (formative) tests and background for Class 12 p-block ideas in coordination and d-block chapters.",
+        "hi": "विद्यालय (रचनात्मक) परीक्षण और कक्षा 12 के उपसहसंयोजन व d-ब्लॉक अध्यायों की पृष्ठभूमि।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Saying hydration enthalpy increases down a group — it decreases as ions get larger.",
+          "hi": "यह कहना कि समूह में नीचे जलयोजन एन्थैल्पी बढ़ती है — आयन बड़े होने पर यह घटती है।"
+        }
+      ],
+      "formulas": [
+        "M⁺(g) + aq → M⁺(aq); ΔhydH < 0"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "periodic-trends"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "cbse-chem-11-12",
+          "section": "Class XI, formative topic 1"
+        },
+        {
+          "sourceId": "cbse-chem-rm",
+          "section": "s- and p-Block Elements"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Diagonal = one step right, one step down: Li–Mg, Be–Al\"",
+            "hi": "\"विकर्ण = एक कदम दाएँ, एक कदम नीचे: Li–Mg, Be–Al\""
+          },
+          "recall": {
+            "en": "Lithium and beryllium are anomalous (small size, large charge/radius ratio, high electronegativity) and behave more like the second element of the next group — the element one step right and one step down: Li like Mg, Be like Al. This is called the diagonal relationship.",
+            "hi": "लीथियम और बेरिलियम असामान्य व्यवहार दिखाते हैं (छोटा आकार, अधिक आवेश/त्रिज्या अनुपात, उच्च विद्युत-ऋणात्मकता) और अगले वर्ग के दूसरे तत्त्व — एक कदम दाएँ और एक कदम नीचे वाले तत्त्व — से अधिक मिलते-जुलते हैं: Li, Mg जैसा और Be, Al जैसा। इसे विकर्ण संबंध कहते हैं।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "s-block: ns¹⁻²; p-block: ns²np¹⁻⁶; first member of each group is anomalous.",
+          "hi": "s-ब्लॉक: ns¹⁻²; p-ब्लॉक: ns²np¹⁻⁶; हर वर्ग का पहला सदस्य असंगत।"
+        },
+        "points": [
+          {
+            "en": "Formative only in 2026-27.",
+            "hi": "2026-27 में केवल रचनात्मक।"
+          },
+          {
+            "en": "Catenation: C >> Si > Ge ≈ Sn; Pb does not catenate.",
+            "hi": "शृंखलन: C >> Si > Ge ≈ Sn; Pb शृंखलन नहीं करता।"
+          }
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-11-gaseous",
+      "targetId": "cbse-11-gaseous",
+      "covers": [],
+      "definition": {
+        "en": "The behaviour of gases is described by the gas laws — Boyle's (p ∝ 1/V at constant T), Charles' (V ∝ T at constant p), Gay-Lussac's (p ∝ T at constant V) and Avogadro's (V ∝ n) — which combine into the ideal gas equation pV = nRT.",
+        "hi": "गैसों का व्यवहार गैस नियमों से वर्णित होता है — बॉयल (स्थिर T पर p ∝ 1/V), चार्ल्स (स्थिर p पर V ∝ T), गे-लुसैक (स्थिर V पर p ∝ T) और आवोगाद्रो (V ∝ n) — जो मिलकर आदर्श गैस समीकरण pV = nRT बनाते हैं।"
+      },
+      "explanation": {
+        "en": "R = 8.314 J K⁻¹ mol⁻¹ (0.0831 bar L K⁻¹ mol⁻¹). Combined gas law: p₁V₁/T₁ = p₂V₂/T₂. Dalton's law: total pressure = sum of partial pressures. Real gases deviate from ideal behaviour at high pressure and low temperature because molecules have volume and attract each other; the compressibility factor Z = pV/nRT is 1 for an ideal gas. The van der Waals equation (p + an²/V²)(V − nb) = nRT corrects for attraction (a) and molecular volume (b).",
+        "hi": "R = 8.314 J K⁻¹ mol⁻¹ (0.0831 bar L K⁻¹ mol⁻¹)। संयुक्त गैस नियम: p₁V₁/T₁ = p₂V₂/T₂। डाल्टन नियम: कुल दाब = आंशिक दाबों का योग। उच्च दाब और निम्न ताप पर वास्तविक गैसें आदर्श व्यवहार से विचलित होती हैं क्योंकि अणुओं का आयतन होता है और वे एक-दूसरे को आकर्षित करते हैं; संपीड्यता गुणांक Z = pV/nRT आदर्श गैस के लिए 1 है। वान्डरवाल्स समीकरण (p + an²/V²)(V − nb) = nRT आकर्षण (a) और आण्विक आयतन (b) का संशोधन करता है।"
+      },
+      "keyPoints": [
+        {
+          "en": "This topic is formative-only in 2026-27 — qualitative treatment, not assessed in the year-end exam.",
+          "hi": "2026-27 में यह विषय केवल रचनात्मक आकलन के लिए है — गुणात्मक विवेचन, वार्षिक परीक्षा में आकलित नहीं।"
+        },
+        {
+          "en": "Temperatures in gas laws must be in kelvin.",
+          "hi": "गैस नियमों में ताप केल्विन में होना चाहिए।"
+        }
+      ],
+      "realLife": {
+        "en": "Tyre pressure rising on a hot day (Gay-Lussac) and hot-air balloons (Charles) are everyday gas-law examples.",
+        "hi": "गर्म दिन में टायर का दाब बढ़ना (गे-लुसैक) और गर्म हवा के गुब्बारे (चार्ल्स) गैस नियमों के दैनिक उदाहरण हैं।"
+      },
+      "examFocus": {
+        "en": "Useful for formative tests and as background for colligative properties and thermodynamics.",
+        "hi": "रचनात्मक परीक्षणों के लिए तथा अणुसंख्य गुणधर्मों और ऊष्मागतिकी की पृष्ठभूमि के रूप में उपयोगी।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Using °C in pV = nRT.",
+          "hi": "pV = nRT में °C का प्रयोग करना।"
+        }
+      ],
+      "formulas": [
+        "pV = nRT",
+        "p₁V₁/T₁ = p₂V₂/T₂",
+        "p_total = p₁ + p₂ + …",
+        "Z = pV/nRT",
+        "(p + an²/V²)(V − nb) = nRT"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "gas-laws"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "cbse-chem-11-12",
+          "section": "Class XI, formative topic 2"
+        },
+        {
+          "sourceId": "cbse-chem-rm",
+          "section": "States of Matter: Gaseous State"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      },
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"PV = nRT — Pretty Vegetables = naturally Red Tomatoes\"",
+            "hi": "\"PV = nRT\" — दाब × आयतन = मोल × R × ताप"
+          },
+          "recall": {
+            "en": "Pressure × volume equals moles × gas constant × temperature (in kelvin).",
+            "hi": "दाब × आयतन = मोल × गैस स्थिरांक × ताप (केल्विन में)।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Gas laws (Boyle, Charles, Gay-Lussac, Avogadro) combine into pV = nRT.",
+          "hi": "गैस नियम (बॉयल, चार्ल्स, गे-लुसैक, ऐवोगैड्रो) मिलकर pV = nRT बनाते हैं।"
+        },
+        "formula": "pV = nRT",
+        "points": [
+          {
+            "en": "Formative only in 2026-27; temperatures in kelvin.",
+            "hi": "2026-27 में केवल रचनात्मक; ताप केल्विन में।"
+          },
+          {
+            "en": "Real gases deviate at high p and low T (Z ≠ 1).",
+            "hi": "वास्तविक गैसें उच्च p और निम्न T पर विचलित होती हैं (Z ≠ 1)।"
+          }
+        ]
+      }
+    }
+  ]
+}

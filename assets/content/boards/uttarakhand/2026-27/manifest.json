@@ -1,0 +1,580 @@
+{
+  "schemaVersion": 1,
+  "id": "uttarakhand-2026-27",
+  "boardId": "uttarakhand",
+  "academicYear": "2026-27",
+  "status": "verified",
+  "retrieved": "2026-10-17",
+  "classes": [
+    {
+      "classLevel": 9,
+      "file": "boards/uttarakhand/2026-27/class-9.json"
+    },
+    {
+      "classLevel": 10,
+      "file": "boards/uttarakhand/2026-27/class-10.json"
+    }
+  ],
+  "sources": [
+    {
+      "id": "uk-sci-9-10",
+      "title": "UBSE High School Science (033) syllabus 2026-27, Classes IX & X",
+      "url": "https://cdnbbsr.s3waas.gov.in/s32dbf21633f03afcf882eaf10e4b5caca/uploads/2026/04/202604021259186267.pdf",
+      "publisher": "UBSE",
+      "retrieved": "2026-10-17"
+    },
+    {
+      "id": "ncert-9-en",
+      "title": "NCERT Science Class IX \"Exploration\"",
+      "url": "https://ncert.nic.in/textbook.php?iesc1=0-13",
+      "publisher": "NCERT",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "ncert-9-hi",
+      "title": "NCERT विज्ञान कक्षा 9 \"अन्वेषण\"",
+      "url": "https://ncert.nic.in/textbook.php?ihsc1=0-13",
+      "publisher": "NCERT",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "ncert-10-en",
+      "title": "NCERT Science Class X (Reprint 2026-27)",
+      "url": "https://ncert.nic.in/textbook.php?jesc1=0-13",
+      "publisher": "NCERT",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "ncert-10-hi",
+      "title": "NCERT विज्ञान कक्षा 10",
+      "url": "https://ncert.nic.in/textbook.php?jhsc1=0-13",
+      "publisher": "NCERT",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "ncert-11-en",
+      "title": "NCERT Chemistry Part I & II Class XI (Reprint 2026-27)",
+      "url": "https://ncert.nic.in/textbook.php?kech1=0-6",
+      "publisher": "NCERT",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "ncert-11-hi",
+      "title": "NCERT रसायन विज्ञान भाग I व II कक्षा 11",
+      "url": "https://ncert.nic.in/textbook.php?khch1=0-6",
+      "publisher": "NCERT",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "ncert-12-en",
+      "title": "NCERT Chemistry Part I & II Class XII (Reprint 2026-27)",
+      "url": "https://ncert.nic.in/textbook.php?lech1=0-5",
+      "publisher": "NCERT",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "ncert-12-hi",
+      "title": "NCERT रसायन विज्ञान भाग I व II कक्षा 12",
+      "url": "https://ncert.nic.in/textbook.php?lhch1=0-5",
+      "publisher": "NCERT",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "cbse-sci-9",
+      "title": "CBSE Science (086) Class IX 2026-27",
+      "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/ScienceSt_SecP1_2026-27.pdf",
+      "publisher": "CBSE",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "cbse-sci-10",
+      "title": "CBSE Science (086) Class X 2026-27",
+      "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/Science_SecP1_2026-27.pdf",
+      "publisher": "CBSE",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "cbse-sci-10-rm",
+      "title": "CBSE Reading Material, Science Class X 2026-27",
+      "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart1/Science_SecP1IX_2026-27_RM.pdf",
+      "publisher": "CBSE",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "cbse-chem-11-12",
+      "title": "CBSE Chemistry (043) Classes XI-XII 2026-27",
+      "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Chemistry_SecP2_2026-27.pdf",
+      "publisher": "CBSE",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "id": "cbse-chem-rm",
+      "title": "CBSE Reading Material, Chemistry XI-XII 2026-27",
+      "url": "https://cbseacademic.nic.in/web_material/CurriculumMain27/SecPart2/Chemistry_SecP2_2026-27_RM.pdf",
+      "publisher": "CBSE",
+      "retrieved": "2026-10-05"
+    }
+  ],
+  "concepts": [
+    "library/concepts/matter-and-atoms.json",
+    "library/concepts/reactions-and-compounds.json",
+    "library/concepts/physical-chemistry.json",
+    "library/concepts/inorganic-chemistry.json",
+    "library/concepts/organic-chemistry.json"
+  ],
+  "chemicals": [
+    "library/chemicals.json",
+    "library/chemicals-advanced.json"
+  ],
+  "practicalGuides": [
+    "library/practical-guides.json"
+  ],
+  "notes": [],
+  "questions": [],
+  "labs": [
+    {
+      "id": "acid_base_titration",
+      "summary": "NaOH + HCl with phenolphthalein (interactive)",
+      "topicIds": [
+        "uk-10-ch02-t2.1.4"
+      ],
+      "practicalLinks": []
+    },
+    {
+      "id": "oxygen_preparation",
+      "summary": "H₂O₂ with MnO₂ catalyst (interactive)",
+      "topicIds": [
+        "uk-10-ch01-t1.2.2"
+      ],
+      "practicalLinks": []
+    },
+    {
+      "id": "oxalic_acid_titration",
+      "summary": "NaOH (burette) against 0.05 M oxalic acid with phenolphthalein (interactive)",
+      "topicIds": [],
+      "practicalLinks": []
+    },
+    {
+      "id": "hcl_sodium_carbonate_titration",
+      "summary": "HCl (burette) against 0.05 M sodium carbonate with methyl orange (interactive)",
+      "topicIds": [],
+      "practicalLinks": []
+    },
+    {
+      "id": "kmno4_oxalic_titration",
+      "summary": "KMnO₄ (burette) against 0.05 M oxalic acid, warm and acidified, KMnO₄ as its own indicator (interactive)",
+      "topicIds": [],
+      "practicalLinks": []
+    },
+    {
+      "id": "kmno4_mohr_salt_titration",
+      "summary": "KMnO₄ (burette) against 0.1 M Mohr's salt, acidified, at room temperature (interactive)",
+      "topicIds": [],
+      "practicalLinks": []
+    }
+  ],
+  "reactionLab": {
+    "reagents": [
+      "library/lab-reagents.json"
+    ],
+    "reactions": [
+      "library/lab-reactions.json"
+    ],
+    "placements": [
+      {
+        "id": "rx-quicklime-water",
+        "topicIds": [
+          "uk-10-ch01-t1.2.1"
+        ],
+        "practicalLinks": [
+          {
+            "practicalId": "uk-10-p2",
+            "relation": "related",
+            "note": {
+              "en": "This lab is the 'action of water on quicklime' part of Practical 2 (combination reaction).",
+              "hi": "यह लैब प्रयोग 2 का 'बिना बुझे चूने पर जल की क्रिया' वाला भाग है (संयोजन अभिक्रिया)।",
+              "hiSrc": "translated"
+            }
+          }
+        ]
+      },
+      {
+        "id": "rx-ferrous-sulphate-heat",
+        "topicIds": [
+          "uk-10-ch01-t1.2.2"
+        ],
+        "practicalLinks": [
+          {
+            "practicalId": "uk-10-p2",
+            "relation": "related",
+            "note": {
+              "en": "This lab is the 'action of heat on ferrous sulphate crystals' part of Practical 2 (decomposition reaction).",
+              "hi": "यह लैब प्रयोग 2 का 'फ़ेरस सल्फ़ेट के क्रिस्टलों पर ऊष्मा की क्रिया' वाला भाग है (वियोजन अभिक्रिया)।",
+              "hiSrc": "translated"
+            }
+          }
+        ]
+      },
+      {
+        "id": "rx-silver-chloride-sunlight",
+        "topicIds": [
+          "uk-10-ch01-t1.2.2"
+        ],
+        "practicalLinks": []
+      },
+      {
+        "id": "rx-iron-copper-sulphate",
+        "topicIds": [
+          "uk-10-ch01-t1.2.3"
+        ],
+        "practicalLinks": [
+          {
+            "practicalId": "uk-10-p2",
+            "relation": "related",
+            "note": {
+              "en": "This lab is the 'iron nails in copper sulphate solution' part of Practical 2 (displacement reaction).",
+              "hi": "यह लैब प्रयोग 2 का 'कॉपर सल्फ़ेट विलयन में लोहे की कीलें' वाला भाग है (विस्थापन अभिक्रिया)।",
+              "hiSrc": "translated"
+            }
+          },
+          {
+            "practicalId": "uk-10-p3",
+            "relation": "related",
+            "note": {
+              "en": "This lab is one of the combinations in Practical 3: iron in copper sulphate solution.",
+              "hi": "यह लैब प्रयोग 3 का एक संयोजन है: कॉपर सल्फ़ेट विलयन में लोहा।",
+              "hiSrc": "translated"
+            }
+          },
+          {
+            "practicalId": "uk-9-p3",
+            "relation": "related",
+            "note": {
+              "en": "This lab is the 'iron with copper sulphate solution' part of Practical 3.",
+              "hi": "यह लैब प्रयोग 3 का 'लोहा तथा कॉपर सल्फ़ेट विलयन' वाला भाग है।",
+              "hiSrc": "translated"
+            }
+          }
+        ]
+      },
+      {
+        "id": "rx-barium-sulphate",
+        "topicIds": [
+          "uk-10-ch01-t1.2.4"
+        ],
+        "practicalLinks": [
+          {
+            "practicalId": "uk-10-p2",
+            "relation": "related",
+            "note": {
+              "en": "This lab is the 'sodium sulphate with barium chloride solution' part of Practical 2 (double displacement reaction).",
+              "hi": "यह लैब प्रयोग 2 का 'बेरियम क्लोराइड विलयन के साथ सोडियम सल्फ़ेट' वाला भाग है (द्विविस्थापन अभिक्रिया)।",
+              "hiSrc": "translated"
+            }
+          },
+          {
+            "practicalId": "uk-9-p3",
+            "relation": "related",
+            "note": {
+              "en": "This lab is the 'sodium sulphate with barium chloride solution' part of Practical 3.",
+              "hi": "यह लैब प्रयोग 3 का 'सोडियम सल्फ़ेट तथा बेरियम क्लोराइड विलयन' वाला भाग है।",
+              "hiSrc": "translated"
+            }
+          }
+        ]
+      },
+      {
+        "id": "rx-lead-iodide",
+        "topicIds": [
+          "uk-10-ch01-t1.2.4"
+        ],
+        "practicalLinks": []
+      },
+      {
+        "id": "rx-zinc-sulphuric-acid",
+        "topicIds": [
+          "uk-10-ch02-t2.1.2"
+        ],
+        "practicalLinks": [
+          {
+            "practicalId": "uk-9-p3",
+            "relation": "related",
+            "note": {
+              "en": "This lab is the 'zinc with dilute sulphuric acid' part of Practical 3.",
+              "hi": "यह लैब प्रयोग 3 का 'ज़िंक तथा तनु सल्फ़्यूरिक अम्ल' वाला भाग है।",
+              "hiSrc": "translated"
+            }
+          }
+        ]
+      },
+      {
+        "id": "rx-zinc-sodium-hydroxide",
+        "topicIds": [
+          "uk-10-ch02-t2.1.2"
+        ],
+        "practicalLinks": [
+          {
+            "practicalId": "uk-10-p1b",
+            "relation": "related",
+            "note": {
+              "en": "This lab is the \"NaOH with zinc metal\" part of Practical 1B.",
+              "hi": "यह लैब प्रयोग 1B का \"ज़िंक धातु के साथ NaOH\" वाला भाग है।",
+              "hiSrc": "translated"
+            }
+          }
+        ]
+      },
+      {
+        "id": "rx-sodium-carbonate-acid",
+        "topicIds": [
+          "uk-10-ch02-t2.1.3"
+        ],
+        "practicalLinks": [
+          {
+            "practicalId": "uk-10-p1b",
+            "relation": "related",
+            "note": {
+              "en": "This lab is the \"HCl with solid sodium carbonate\" part of Practical 1B.",
+              "hi": "यह लैब प्रयोग 1B का \"ठोस सोडियम कार्बोनेट के साथ HCl\" वाला भाग है।",
+              "hiSrc": "translated"
+            }
+          }
+        ]
+      },
+      {
+        "id": "rx-baking-soda-acid",
+        "topicIds": [
+          "uk-10-ch02-t2.1.3"
+        ],
+        "practicalLinks": []
+      },
+      {
+        "id": "rx-magnesium-acid",
+        "topicIds": [
+          "uk-10-ch03-t3.2.3"
+        ],
+        "practicalLinks": []
+      },
+      {
+        "id": "rx-zinc-copper-sulphate",
+        "topicIds": [
+          "uk-10-ch03-t3.2.4"
+        ],
+        "practicalLinks": [
+          {
+            "practicalId": "uk-10-p3",
+            "relation": "related",
+            "note": {
+              "en": "This lab is one of the combinations in Practical 3: zinc in copper sulphate solution.",
+              "hi": "यह लैब प्रयोग 3 का एक संयोजन है: कॉपर सल्फ़ेट विलयन में ज़िंक।",
+              "hiSrc": "translated"
+            }
+          }
+        ]
+      },
+      {
+        "id": "rx-ethanoic-acid-baking-soda",
+        "topicIds": [
+          "uk-10-ch04-t4.4.2"
+        ],
+        "practicalLinks": [
+          {
+            "practicalId": "uk-10-p8",
+            "relation": "related",
+            "note": {
+              "en": "This lab is the \"reaction with sodium hydrogen carbonate\" part of Practical 8.",
+              "hi": "यह लैब प्रयोग 8 का \"सोडियम हाइड्रोजन कार्बोनेट के साथ अभिक्रिया\" वाला भाग है।",
+              "hiSrc": "translated"
+            }
+          }
+        ]
+      },
+      {
+        "id": "rx-zinc-hydrochloric-acid",
+        "topicIds": [
+          "uk-10-ch02-t2.1.2"
+        ],
+        "practicalLinks": [
+          {
+            "practicalId": "uk-10-p1b",
+            "relation": "related",
+            "note": {
+              "en": "This lab is the \"HCl with zinc metal\" part of Practical 1B.",
+              "hi": "यह लैब प्रयोग 1B का \"ज़िंक धातु के साथ HCl\" वाला भाग है।",
+              "hiSrc": "translated"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "legacyIdMap": {},
+  "practicalCoverage": [
+    {
+      "practicalId": "uk-10-p1b",
+      "level": "partiallyInteractive",
+      "covered": {
+        "en": "Zinc with HCl, zinc with NaOH, and solid sodium carbonate with HCl.",
+        "hi": "HCl के साथ ज़िंक, NaOH के साथ ज़िंक, और HCl के साथ ठोस सोडियम कार्बोनेट।",
+        "hiSrc": "translated"
+      },
+      "notCovered": {
+        "en": "The litmus tests, and solid sodium carbonate with NaOH.",
+        "hi": "लिटमस परीक्षण, और NaOH के साथ ठोस सोडियम कार्बोनेट।",
+        "hiSrc": "translated"
+      }
+    },
+    {
+      "practicalId": "uk-10-p2",
+      "level": "fullyInteractive",
+      "covered": {
+        "en": "All four reactions, one virtual lab each: quicklime and water, heating ferrous sulphate, iron nails in copper sulphate, sodium sulphate with barium chloride.",
+        "hi": "चारों अभिक्रियाएँ, प्रत्येक की एक वर्चुअल लैब: बिना बुझा चूना और जल, फ़ेरस सल्फ़ेट को गरम करना, कॉपर सल्फ़ेट में लोहे की कीलें, बेरियम क्लोराइड के साथ सोडियम सल्फ़ेट।",
+        "hiSrc": "translated"
+      },
+      "notCovered": null
+    },
+    {
+      "practicalId": "uk-10-p3",
+      "level": "partiallyInteractive",
+      "covered": {
+        "en": "Iron in copper sulphate and zinc in copper sulphate.",
+        "hi": "कॉपर सल्फ़ेट में लोहा और कॉपर सल्फ़ेट में ज़िंक।",
+        "hiSrc": "translated"
+      },
+      "notCovered": {
+        "en": "The other metal–salt combinations (including those where nothing happens) and aluminium, so the full reactivity order is not built in the lab.",
+        "hi": "अन्य धातु–लवण संयोजन (उनमें वे भी जिनमें कुछ नहीं होता) और ऐलुमिनियम, इसलिए पूरा सक्रियता क्रम लैब में नहीं बनता।",
+        "hiSrc": "translated"
+      }
+    },
+    {
+      "practicalId": "uk-10-p8",
+      "level": "partiallyInteractive",
+      "covered": {
+        "en": "The reaction of ethanoic acid with sodium hydrogen carbonate.",
+        "hi": "सोडियम हाइड्रोजन कार्बोनेट के साथ एथेनॉइक अम्ल की अभिक्रिया।",
+        "hiSrc": "translated"
+      },
+      "notCovered": {
+        "en": "Odour, solubility in water and the effect on litmus.",
+        "hi": "गंध, जल में विलेयता और लिटमस पर प्रभाव।",
+        "hiSrc": "translated"
+      }
+    },
+    {
+      "practicalId": "uk-9-p3",
+      "level": "partiallyInteractive",
+      "covered": {
+        "en": "Iron with copper sulphate solution, zinc with dilute sulphuric acid, and sodium sulphate with barium chloride.",
+        "hi": "कॉपर सल्फ़ेट विलयन के साथ लोहा, तनु सल्फ़्यूरिक अम्ल के साथ ज़िंक, और बेरियम क्लोराइड के साथ सोडियम सल्फ़ेट।",
+        "hiSrc": "translated"
+      },
+      "notCovered": {
+        "en": "Burning magnesium ribbon in air and heating copper sulphate crystals.",
+        "hi": "वायु में मैग्नीशियम रिबन का दहन और कॉपर सल्फ़ेट क्रिस्टल को गरम करना।",
+        "hiSrc": "translated"
+      }
+    }
+  ],
+  "sharedContent": {
+    "fromBoard": "cbse",
+    "basis": {
+      "en": "UBSE prescribes the NCERT Science books for Classes 9 and 10. Class 10 has the same chapters as the CBSE content, so the source-checked notes and questions are reused; Class 9 follows the earlier NCERT Class 9 chapters, so notes are reused only for topics whose idea is the same. Classes 11–12 are not included yet. CBSE previous-year questions are not shared.",
+      "hi": "UBSE कक्षा 9 और 10 के लिए NCERT विज्ञान पुस्तकें निर्धारित करता है। कक्षा 10 के अध्याय CBSE सामग्री जैसे ही हैं, इसलिए स्रोत-जाँचे नोट्स और प्रश्न पुनः उपयोग किए गए हैं; कक्षा 9 NCERT कक्षा 9 के पुराने अध्यायों के अनुसार है, इसलिए वहाँ केवल समान विचार वाले विषयों के नोट्स उपयोग हुए हैं। कक्षा 11–12 अभी शामिल नहीं हैं। CBSE के पिछले वर्षों के प्रश्न साझा नहीं किए गए।",
+      "hiSrc": "translated"
+    },
+    "chapters": [
+      {
+        "from": "cbse-10-ch01",
+        "to": "uk-10-ch01"
+      },
+      {
+        "from": "cbse-10-ch02",
+        "to": "uk-10-ch02"
+      },
+      {
+        "from": "cbse-10-ch03",
+        "to": "uk-10-ch03"
+      },
+      {
+        "from": "cbse-10-ch04",
+        "to": "uk-10-ch04"
+      }
+    ],
+    "topics": [
+      {
+        "from": "cbse-9-ch05-t5.4.2",
+        "to": "uk-9-ch01-t1.5"
+      },
+      {
+        "from": "cbse-9-ch05-t5.1",
+        "to": "uk-9-ch02-t2.2"
+      },
+      {
+        "from": "cbse-9-ch05-t5.4.3",
+        "to": "uk-9-ch02-t2.3"
+      },
+      {
+        "from": "cbse-9-ch05-t5.4.4",
+        "to": "uk-9-ch02-t2.4"
+      },
+      {
+        "from": "cbse-9-ch09-t9.1",
+        "to": "uk-9-ch03-t3.1"
+      },
+      {
+        "from": "cbse-9-ch09-t9.2",
+        "to": "uk-9-ch03-t3.2"
+      },
+      {
+        "from": "cbse-9-ch09-t9.3",
+        "to": "uk-9-ch03-t3.3"
+      },
+      {
+        "from": "cbse-9-ch09-t9.7",
+        "to": "uk-9-ch03-t3.4"
+      },
+      {
+        "from": "cbse-9-ch08-t8.2",
+        "to": "uk-9-ch04-t4.1"
+      },
+      {
+        "from": "cbse-9-ch08-t8.3",
+        "to": "uk-9-ch04-t4.2"
+      },
+      {
+        "from": "cbse-9-ch08-t8.3.1",
+        "to": "uk-9-ch04-t4.2.1"
+      },
+      {
+        "from": "cbse-9-ch08-t8.8",
+        "to": "uk-9-ch04-t4.3"
+      },
+      {
+        "from": "cbse-9-ch09-t9.5",
+        "to": "uk-9-ch04-t4.4"
+      },
+      {
+        "from": "cbse-9-ch09-t9.5.1",
+        "to": "uk-9-ch04-t4.4.1"
+      },
+      {
+        "from": "cbse-9-ch09-t9.5.2",
+        "to": "uk-9-ch04-t4.4.2"
+      },
+      {
+        "from": "cbse-9-ch08-t8.9",
+        "to": "uk-9-ch04-t4.5"
+      },
+      {
+        "from": "cbse-9-ch08-t8.9.1",
+        "to": "uk-9-ch04-t4.5.1"
+      },
+      {
+        "from": "cbse-9-ch08-t8.9.2",
+        "to": "uk-9-ch04-t4.5.2"
+      }
+    ]
+  }
+}

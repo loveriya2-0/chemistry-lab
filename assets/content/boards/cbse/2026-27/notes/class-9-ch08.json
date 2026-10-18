@@ -1,0 +1,499 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "note-cbse-9-ch08-t8.1",
+      "targetId": "cbse-9-ch08-t8.1",
+      "covers": [],
+      "definition": {
+        "en": "Atomic theory is the idea that all matter is made of extremely small particles called atoms. It began as a philosophical idea and became scientific with John Dalton's theory of 1808.",
+        "hi": "परमाणु सिद्धांत यह विचार है कि सभी द्रव्य परमाणु नामक अत्यंत सूक्ष्म कणों से बना है। यह एक दार्शनिक विचार के रूप में आरंभ हुआ और 1808 में जॉन डाल्टन के सिद्धांत से वैज्ञानिक बना।"
+      },
+      "explanation": {
+        "en": "More than 2,000 years ago Acharya Kanada in India said that if matter (dravya) is divided again and again we reach particles that cannot be divided — parmanus — which combine as dyads and triads. In Greece, Leucippus and Democritus called such particles atomos (indivisible). These were ideas, not experiments. Dalton's atomic theory (1808) was the first description based on experiments of his time; it treated atoms as indivisible building blocks.",
+        "hi": "2,000 से अधिक वर्ष पहले भारत में आचार्य कणाद ने कहा कि द्रव्य को बार-बार विभाजित करने पर ऐसे कण मिलेंगे जिन्हें और विभाजित नहीं किया जा सकता — परमाणु — जो द्विक और त्रिक के रूप में जुड़ते हैं। यूनान में ल्यूसिपस और डेमोक्रिटस ने ऐसे कणों को एटमॉस (अविभाज्य) कहा। ये विचार थे, प्रयोग नहीं। डाल्टन का परमाणु सिद्धांत (1808) अपने समय के प्रयोगों पर आधारित पहला वर्णन था; इसमें परमाणुओं को अविभाज्य मूल इकाइयाँ माना गया।"
+      },
+      "keyPoints": [
+        {"en": "Kanada's ideas are recorded in the Vaisesika Sutras.", "hi": "कणाद के विचार वैशेषिक सूत्र में दर्ज हैं।"},
+        {"en": "Early ideas did not say in what proportions atoms combine.", "hi": "प्रारंभिक विचारों में यह नहीं बताया गया था कि परमाणु किस अनुपात में जुड़ते हैं।"},
+        {"en": "Dalton's theory became the starting point for later atomic models.", "hi": "डाल्टन का सिद्धांत बाद के परमाणु मॉडलों का आरंभ बिंदु बना।"}
+      ],
+      "realLife": {
+        "en": "Everything around us — our body, a brick, water — is built from atoms; understanding atoms underlies medicines, materials and electronics.",
+        "hi": "हमारे आस-पास सब कुछ — हमारा शरीर, ईंट, पानी — परमाणुओं से बना है; दवाओं, पदार्थों और इलेक्ट्रॉनिक्स की समझ परमाणु की समझ पर टिकी है।"
+      },
+      "examFocus": {
+        "en": "Know who proposed what (Kanada, Democritus, Dalton) and the difference between a philosophical idea and an experiment-based theory.",
+        "hi": "किसने क्या प्रस्तावित किया (कणाद, डेमोक्रिटस, डाल्टन) और दार्शनिक विचार तथा प्रयोग-आधारित सिद्धांत में अंतर जानना।"
+      },
+      "commonMistakes": [
+        {"en": "Treating 'atoms are indivisible' as a modern fact — later discoveries showed atoms contain smaller particles.", "hi": "'परमाणु अविभाज्य हैं' को आधुनिक तथ्य मानना — बाद की खोजों से पता चला कि परमाणु में छोटे कण होते हैं।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["atomic-models"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-9-en", "section": "8.1"}],
+      "quickRevision": {
+        "oneLine": {"en": "Atomic theory: all matter is made of tiny particles called atoms; Dalton made it scientific in 1808.", "hi": "परमाणु सिद्धांत: सारा द्रव्य परमाणु नामक अति सूक्ष्म कणों से बना है; डाल्टन ने 1808 में इसे वैज्ञानिक रूप दिया।"},
+        "points": [
+          {"en": "Kanada's ideas are recorded in the Vaisesika Sutras.", "hi": "कणाद के विचार वैशेषिक सूत्रों में मिलते हैं।"},
+          {"en": "Dalton's theory was the starting point for later atomic models.", "hi": "डाल्टन का सिद्धांत बाद के परमाणु मॉडलों का आरंभ बिंदु बना।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-9-ch08-t8.2",
+      "targetId": "cbse-9-ch08-t8.2",
+      "covers": ["cbse-9-ch08-t8.2.1"],
+      "definition": {
+        "en": "An electron is a negatively charged subatomic particle (relative charge −1) with a mass much smaller than an atom. Thomson's model pictures the atom as a sphere of positive charge with electrons spread through it (the plum pudding model).",
+        "hi": "इलेक्ट्रॉन एक ऋणावेशित उपपरमाण्विक कण है (आपेक्षिक आवेश −1) जिसका द्रव्यमान परमाणु से बहुत कम है। टॉमसन का मॉडल परमाणु को धनावेश के गोले के रूप में दिखाता है जिसमें इलेक्ट्रॉन फैले रहते हैं (प्लम पुडिंग मॉडल)।"
+      },
+      "explanation": {
+        "en": "Radioactivity showed that atoms give out radiation, so they are not indivisible. In 1897 J. J. Thomson passed electricity through a gas at very low pressure and found cathode rays — streams of negative particles, later called electrons. The rays were the same whatever the cathode or gas, so electrons are present in all atoms. Since atoms are neutral, Thomson placed the electrons in a sphere of positive charge, like seeds in a watermelon.",
+        "hi": "रेडियोऐक्टिवता से पता चला कि परमाणु विकिरण छोड़ते हैं, अतः वे अविभाज्य नहीं हैं। 1897 में जे. जे. टॉमसन ने बहुत कम दाब पर गैस से विद्युत प्रवाहित कर कैथोड किरणें पाईं — ऋणावेशित कणों की धाराएँ, जिन्हें बाद में इलेक्ट्रॉन कहा गया। कैथोड या गैस बदलने पर भी किरणें वैसी ही रहीं, अतः इलेक्ट्रॉन सभी परमाणुओं में होते हैं। परमाणु उदासीन होता है, इसलिए टॉमसन ने इलेक्ट्रॉनों को धनावेश के गोले में रखा, जैसे तरबूज़ में बीज।"
+      },
+      "keyPoints": [
+        {"en": "Charge of an electron = −1.602 × 10⁻¹⁹ C, taken as −1 by convention.", "hi": "इलेक्ट्रॉन का आवेश = −1.602 × 10⁻¹⁹ C, जिसे परिपाटी से −1 माना जाता है।"},
+        {"en": "Thomson's model explained that an atom is neutral overall.", "hi": "टॉमसन मॉडल ने समझाया कि परमाणु कुल मिलाकर उदासीन होता है।"},
+        {"en": "It could not explain the gold foil experiment and was replaced.", "hi": "यह स्वर्ण पर्णिका प्रयोग को नहीं समझा सका और बदल दिया गया।"}
+      ],
+      "realLife": {
+        "en": "Cathode ray tubes were used in old TVs and computer monitors; the electron is the particle that carries current in every wire.",
+        "hi": "कैथोड किरण नलिकाएँ पुराने टीवी और कंप्यूटर मॉनिटर में प्रयुक्त होती थीं; हर तार में विद्युत धारा इलेक्ट्रॉन ही ले जाते हैं।"
+      },
+      "examFocus": {
+        "en": "Describe Thomson's model with a diagram and state why he concluded that electrons are present in all atoms.",
+        "hi": "चित्र सहित टॉमसन मॉडल का वर्णन करना और बताना कि उन्होंने सभी परमाणुओं में इलेक्ट्रॉन होने का निष्कर्ष क्यों निकाला।"
+      },
+      "commonMistakes": [
+        {"en": "Putting a nucleus in Thomson's model — his model has no nucleus.", "hi": "टॉमसन मॉडल में नाभिक दिखाना — उनके मॉडल में नाभिक नहीं है।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["atomic-models", "subatomic-particles"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-9-en", "section": "8.2, 8.2.1"}],
+      "memoryTricks": [
+        {"trick": {"en": "Thomson's atom = a watermelon", "hi": "थॉमसन का परमाणु = तरबूज़"}, "recall": {"en": "The red flesh is the sphere of positive charge; the seeds spread through it are the electrons.", "hi": "लाल गूदा धनावेश का गोला है; उसमें फैले बीज इलेक्ट्रॉन हैं।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Thomson's model: a sphere of positive charge with electrons spread through it.", "hi": "थॉमसन मॉडल: धनावेश का एक गोला, जिसमें इलेक्ट्रॉन फैले हुए हैं।"},
+        "points": [
+          {"en": "Electron: relative charge −1 (−1.602 × 10⁻¹⁹ C).", "hi": "इलेक्ट्रॉन: सापेक्ष आवेश −1 (−1.602 × 10⁻¹⁹ C)।"},
+          {"en": "It explained the neutral atom but not the gold foil experiment.", "hi": "इसने उदासीन परमाणु को समझाया, पर स्वर्ण पन्नी प्रयोग को नहीं।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-9-ch08-t8.2.2",
+      "targetId": "cbse-9-ch08-t8.2.2",
+      "covers": [],
+      "definition": {
+        "en": "In the gold foil (α-particle scattering) experiment, alpha particles were fired at very thin gold foil. From the results Rutherford proposed the nuclear (planetary) model: a tiny, dense, positive nucleus at the centre with electrons revolving around it.",
+        "hi": "स्वर्ण पर्णिका (α-कण प्रकीर्णन) प्रयोग में अल्फ़ा कणों को सोने की बहुत पतली पन्नी पर दागा गया। परिणामों से रदरफ़ोर्ड ने नाभिकीय (ग्रहीय) मॉडल दिया: केंद्र में एक सूक्ष्म, सघन, धनावेशित नाभिक और उसके चारों ओर घूमते इलेक्ट्रॉन।"
+      },
+      "explanation": {
+        "en": "Geiger and Marsden (1911, under Rutherford) expected α-particles to pass almost straight through Thomson's atom. Most did pass straight — so most of the atom is empty space. Some were deflected through large angles and a very few bounced back — so the positive charge and most of the mass are packed in a very small nucleus. The nucleus (≈10⁻¹⁵ m) is about 10⁵ times smaller than the atom (≈10⁻¹⁰ m). Rutherford also identified the proton as the positive particle of the nucleus.",
+        "hi": "गाइगर और मार्सडेन (1911, रदरफ़ोर्ड के निर्देशन में) को आशा थी कि α-कण टॉमसन परमाणु से लगभग सीधे निकल जाएँगे। अधिकांश सीधे निकल गए — अतः परमाणु का अधिकांश भाग रिक्त है। कुछ बड़े कोणों पर विक्षेपित हुए और बहुत थोड़े वापस लौट आए — अतः धनावेश और अधिकांश द्रव्यमान एक बहुत छोटे नाभिक में केंद्रित है। नाभिक (≈10⁻¹⁵ m) परमाणु (≈10⁻¹⁰ m) से लगभग 10⁵ गुना छोटा है। रदरफ़ोर्ड ने नाभिक के धनावेशित कण प्रोटॉन की पहचान भी की।"
+      },
+      "keyPoints": [
+        {"en": "Most α-particles undeflected → atom is mostly empty space.", "hi": "अधिकांश α-कण अविक्षेपित → परमाणु अधिकांशतः रिक्त है।"},
+        {"en": "A few bounced back → a small, dense, positively charged nucleus.", "hi": "कुछ वापस लौटे → एक छोटा, सघन, धनावेशित नाभिक।"},
+        {"en": "Limitation: an electron moving in a circle is accelerating and should lose energy and spiral into the nucleus, so the model cannot explain why atoms are stable.", "hi": "सीमा: वृत्ताकार पथ पर चलता इलेक्ट्रॉन त्वरित होता है, उसे ऊर्जा खोकर नाभिक में गिर जाना चाहिए; अतः यह मॉडल परमाणु के स्थायित्व को नहीं समझा पाता।"},
+        {"en": "Protons are much heavier than electrons and carry an equal and opposite charge (+1); in a neutral atom, protons = electrons.", "hi": "प्रोटॉन इलेक्ट्रॉन से बहुत भारी होते हैं और बराबर व विपरीत आवेश (+1) रखते हैं; उदासीन परमाणु में प्रोटॉन = इलेक्ट्रॉन।"}
+      ],
+      "realLife": {
+        "en": "If an atom were the size of a cricket ground, its nucleus would be like a peppercorn at the centre — this empty-space picture explains why α-radiation passes through thin materials.",
+        "hi": "यदि परमाणु क्रिकेट के मैदान जितना बड़ा हो तो उसका नाभिक केंद्र में काली मिर्च के दाने जितना होगा — यही रिक्त-स्थान वाली तस्वीर बताती है कि α-विकिरण पतले पदार्थों से क्यों निकल जाता है।"
+      },
+      "examFocus": {
+        "en": "Link each observation of the experiment to its conclusion, state the model's features and its limitation, and explain why one back-scattered particle rules out Thomson's model.",
+        "hi": "प्रयोग के प्रत्येक प्रेक्षण को उसके निष्कर्ष से जोड़ना, मॉडल की विशेषताएँ और सीमा लिखना, तथा समझाना कि एक भी वापस लौटा कण टॉमसन मॉडल को क्यों ग़लत सिद्ध करता है।"
+      },
+      "commonMistakes": [
+        {"en": "Saying the experiment showed neutrons — neutrons were discovered later by Chadwick (1932).", "hi": "यह कहना कि प्रयोग ने न्यूट्रॉन दिखाए — न्यूट्रॉन की खोज बाद में चैडविक ने (1932) की।"}
+      ],
+      "formulas": ["Size of atom ≈ 10⁻¹⁰ m; size of nucleus ≈ 10⁻¹⁵ m"],
+      "practicalIds": [],
+      "conceptIds": ["atomic-models", "subatomic-particles"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-9-en", "section": "8.2.2"}],
+      "memoryTricks": [
+        {"trick": {"en": "MOST went through → MOSTLY empty; a FEW bounced back → a tiny, dense, positive centre", "hi": "अधिकांश आर-पार → परमाणु अधिकांशतः खाली; कुछ वापस लौटे → छोटा, सघन, धनावेशित केंद्र"}, "recall": {"en": "Pair each observation with its conclusion — this is how the answer is marked in the exam.", "hi": "हर प्रेक्षण को उसके निष्कर्ष के साथ जोड़कर लिखें — परीक्षा में उत्तर इसी प्रकार जाँचा जाता है।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Rutherford's model: a tiny, dense, positive nucleus at the centre with electrons revolving around it.", "hi": "रदरफ़ोर्ड मॉडल: केंद्र में एक छोटा, सघन, धनावेशित नाभिक और उसके चारों ओर घूमते इलेक्ट्रॉन।"},
+        "formula": "Size of atom ≈ 10⁻¹⁰ m; size of nucleus ≈ 10⁻¹⁵ m",
+        "points": [
+          {"en": "Most α-particles passed undeflected → the atom is mostly empty space.", "hi": "अधिकांश α-कण बिना मुड़े निकल गए → परमाणु अधिकांशतः खाली है।"},
+          {"en": "Limitation: it cannot explain why atoms are stable.", "hi": "सीमा: यह नहीं समझा सकता कि परमाणु स्थायी क्यों हैं।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-9-ch08-t8.2.3",
+      "targetId": "cbse-9-ch08-t8.2.3",
+      "covers": [],
+      "definition": {
+        "en": "Bohr's model (1913): electrons revolve around the nucleus only in certain fixed circular orbits called stationary states, shells or energy levels (K, L, M, N or n = 1, 2, 3, 4), and an electron does not lose energy while it stays in one shell.",
+        "hi": "बोर का मॉडल (1913): इलेक्ट्रॉन नाभिक के चारों ओर केवल कुछ निश्चित वृत्ताकार कक्षाओं — स्थिर अवस्थाओं, कोशों या ऊर्जा स्तरों (K, L, M, N या n = 1, 2, 3, 4) — में घूमते हैं, और किसी एक कोश में रहते हुए इलेक्ट्रॉन ऊर्जा नहीं खोता।"
+      },
+      "explanation": {
+        "en": "Bohr solved the stability problem of Rutherford's model by a postulate: in a stationary state the electron's energy stays constant even though it moves. The K shell (n = 1) is closest to the nucleus and has the least energy; energy increases outward. An electron moves to another shell only by absorbing or releasing exactly the energy difference between the two shells.",
+        "hi": "बोर ने रदरफ़ोर्ड मॉडल की स्थायित्व समस्या को एक अभिधारणा से हल किया: स्थिर अवस्था में इलेक्ट्रॉन गतिमान होते हुए भी उसकी ऊर्जा स्थिर रहती है। K कोश (n = 1) नाभिक के सबसे निकट है और उसकी ऊर्जा सबसे कम है; बाहर की ओर ऊर्जा बढ़ती है। इलेक्ट्रॉन दूसरे कोश में तभी जाता है जब वह दोनों कोशों के ऊर्जा-अंतर के बराबर ऊर्जा अवशोषित या उत्सर्जित करे।"
+      },
+      "keyPoints": [
+        {"en": "Electrons cannot exist between allowed shells.", "hi": "इलेक्ट्रॉन अनुमत कोशों के बीच नहीं रह सकते।"},
+        {"en": "Each shell can hold only a certain number of electrons.", "hi": "प्रत्येक कोश में केवल निश्चित संख्या में इलेक्ट्रॉन रह सकते हैं।"},
+        {"en": "Bohr's model also has limitations; the modern quantum mechanical model describes electron clouds.", "hi": "बोर मॉडल की भी सीमाएँ हैं; आधुनिक क्वांटम यांत्रिक मॉडल इलेक्ट्रॉन मेघ का वर्णन करता है।"},
+        {"en": "Shell letters start at K because the naming came from X-ray series (Barkla).", "hi": "कोशों के नाम K से आरंभ होते हैं क्योंकि यह नामकरण X-किरण श्रेणियों (बार्कला) से आया।"}
+      ],
+      "realLife": {
+        "en": "Electrons jumping between energy levels explain the colours of fireworks, neon signs and street lamps.",
+        "hi": "ऊर्जा स्तरों के बीच इलेक्ट्रॉनों का कूदना आतिशबाज़ी, नियॉन साइन और सड़क की बत्तियों के रंगों को समझाता है।"
+      },
+      "examFocus": {
+        "en": "State Bohr's postulates, mark correct/incorrect statements about the model, and explain why Bohr succeeded where Rutherford failed.",
+        "hi": "बोर की अभिधारणाएँ लिखना, मॉडल संबंधी सही/ग़लत कथन पहचानना, और समझाना कि रदरफ़ोर्ड जहाँ असफल रहे वहाँ बोर क्यों सफल हुए।"
+      },
+      "commonMistakes": [
+        {"en": "Writing that shells farther from the nucleus have less energy — energy increases outward.", "hi": "यह लिखना कि नाभिक से दूर के कोशों की ऊर्जा कम है — ऊर्जा बाहर की ओर बढ़ती है।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["atomic-models"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-9-en", "section": "8.2.3"}],
+      "memoryTricks": [
+        {"trick": {"en": "Shells follow the alphabet from K: K, L, M, N = n 1, 2, 3, 4", "hi": "कोश वर्णमाला क्रम में K से: K, L, M, N = n 1, 2, 3, 4"}, "recall": {"en": "The innermost shell is K (n = 1); each next letter is the next shell outwards.", "hi": "सबसे भीतरी कोश K (n = 1) है; हर अगला अक्षर बाहर का अगला कोश है।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Bohr's model: electrons revolve only in fixed shells (K, L, M, N) and lose no energy while in a shell.", "hi": "बोर मॉडल: इलेक्ट्रॉन केवल निश्चित कोशों (K, L, M, N) में घूमते हैं और कोश में रहते हुए ऊर्जा नहीं खोते।"},
+        "points": [
+          {"en": "Electrons cannot exist between allowed shells.", "hi": "इलेक्ट्रॉन अनुमत कोशों के बीच नहीं रह सकते।"},
+          {"en": "Each shell holds only a certain number of electrons.", "hi": "प्रत्येक कोश में केवल निश्चित संख्या में इलेक्ट्रॉन आ सकते हैं।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-9-ch08-t8.3",
+      "targetId": "cbse-9-ch08-t8.3",
+      "covers": ["cbse-9-ch08-t8.3.1"],
+      "definition": {
+        "en": "A neutron is an uncharged subatomic particle (symbol n⁰) found in the nucleus, with a mass nearly equal to that of a proton. It was discovered by James Chadwick in 1932.",
+        "hi": "न्यूट्रॉन नाभिक में पाया जाने वाला आवेशरहित उपपरमाण्विक कण (प्रतीक n⁰) है, जिसका द्रव्यमान लगभग प्रोटॉन के बराबर होता है। इसकी खोज 1932 में जेम्स चैडविक ने की।"
+      },
+      "explanation": {
+        "en": "Helium has two protons but is about four times as heavy as hydrogen, which has one. Something else in the nucleus adds mass without charge — the neutron. Electrons are so light that the mass of an atom comes almost entirely from its protons and neutrons. All nuclei have neutrons except ordinary hydrogen.",
+        "hi": "हीलियम में दो प्रोटॉन हैं, पर वह एक प्रोटॉन वाले हाइड्रोजन से लगभग चार गुना भारी है। नाभिक में कुछ और है जो बिना आवेश के द्रव्यमान बढ़ाता है — न्यूट्रॉन। इलेक्ट्रॉन इतने हल्के हैं कि परमाणु का लगभग सारा द्रव्यमान प्रोटॉन और न्यूट्रॉन से आता है। साधारण हाइड्रोजन को छोड़कर सभी नाभिकों में न्यूट्रॉन होते हैं।"
+      },
+      "keyPoints": [
+        {"en": "Electron e⁻: charge −1; proton p⁺: +1; neutron n⁰: 0.", "hi": "इलेक्ट्रॉन e⁻: आवेश −1; प्रोटॉन p⁺: +1; न्यूट्रॉन n⁰: 0।"},
+        {"en": "Heavier atoms have more neutrons than protons (iron: 26 p, 30 n; uranium: 92 p, 146 n).", "hi": "भारी परमाणुओं में प्रोटॉन से अधिक न्यूट्रॉन होते हैं (लोहा: 26 p, 30 n; यूरेनियम: 92 p, 146 n)।"},
+        {"en": "Neutrons reduce proton–proton repulsion and help the nuclear force hold the nucleus together.", "hi": "न्यूट्रॉन प्रोटॉन–प्रोटॉन प्रतिकर्षण घटाते हैं और नाभिकीय बल को नाभिक बाँधे रखने में सहायता करते हैं।"}
+      ],
+      "realLife": {
+        "en": "Because neutrons are uncharged they easily enter nuclei; this led to nuclear power. BARC's Dhruva reactor in Mumbai uses neutron beams to study materials and medicines.",
+        "hi": "आवेशरहित होने के कारण न्यूट्रॉन आसानी से नाभिकों में प्रवेश करते हैं; इसी से नाभिकीय ऊर्जा संभव हुई। मुंबई में BARC का ध्रुव रिएक्टर पदार्थों और दवाओं के अध्ययन में न्यूट्रॉन किरणों का उपयोग करता है।"
+      },
+      "examFocus": {
+        "en": "Tabulate the three subatomic particles with symbol, relative charge and location; explain why the neutron was needed to account for atomic mass.",
+        "hi": "तीनों उपपरमाण्विक कणों को प्रतीक, आपेक्षिक आवेश और स्थान सहित तालिका में लिखना; समझाना कि परमाणु द्रव्यमान को समझाने के लिए न्यूट्रॉन क्यों आवश्यक था।"
+      },
+      "commonMistakes": [
+        {"en": "Adding electrons when finding the mass of an atom — their mass is negligible.", "hi": "परमाणु का द्रव्यमान निकालते समय इलेक्ट्रॉन जोड़ना — इनका द्रव्यमान नगण्य है।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["subatomic-particles"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-9-en", "section": "8.3, 8.3.1, Table 8.1"}],
+      "memoryTricks": [
+        {"trick": {"en": "Proton = Positive, Neutron = Neutral", "hi": "प्रोटॉन = पॉज़िटिव (धन), न्यूट्रॉन = न्यूट्रल (उदासीन)"}, "recall": {"en": "P–P and N–N: proton +1, neutron 0; the electron is the negative one (−1).", "hi": "P–P और N–N: प्रोटॉन +1, न्यूट्रॉन 0; इलेक्ट्रॉन ऋणावेशित (−1) है।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Neutron: uncharged particle in the nucleus with mass nearly equal to a proton; discovered by Chadwick (1932).", "hi": "न्यूट्रॉन: नाभिक में स्थित अनावेशित कण, द्रव्यमान लगभग प्रोटॉन जितना; चैडविक ने (1932) खोजा।"},
+        "points": [
+          {"en": "e⁻: −1; p⁺: +1; n⁰: 0.", "hi": "e⁻: −1; p⁺: +1; n⁰: 0।"},
+          {"en": "Heavier atoms have more neutrons than protons (iron: 26 p, 30 n).", "hi": "भारी परमाणुओं में प्रोटॉन से अधिक न्यूट्रॉन होते हैं (लोहा: 26 p, 30 n)।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-9-ch08-t8.4",
+      "targetId": "cbse-9-ch08-t8.4",
+      "covers": [],
+      "definition": {
+        "en": "The symbol of an element is a one- or two-letter short form of its name, approved today by IUPAC, used worldwide in place of the full name.",
+        "hi": "किसी तत्व का प्रतीक उसके नाम का एक या दो अक्षरों का संक्षिप्त रूप है, जिसे आज IUPAC स्वीकृत करता है और जिसे पूरे विश्व में पूरे नाम के स्थान पर प्रयोग किया जाता है।"
+      },
+      "explanation": {
+        "en": "Dalton first used pictures as symbols (1803). Berzelius (1813) suggested letters from Latin names. Rules: the first letter is a capital, the second (if any) is small — Al, Co (not CO, which is carbon monoxide). Some symbols use a later letter (Cl, Zn) and some come from Latin, Greek or German names: Fe (ferrum), Cu (cuprum), Na (natrium), K (kalium), Ag (argentum), Au (aurum), Pb (plumbum), Hg (hydrargyros), W (wolfram).",
+        "hi": "डाल्टन ने सबसे पहले चित्रों को प्रतीक बनाया (1803)। बर्ज़ीलियस (1813) ने लैटिन नामों के अक्षरों का सुझाव दिया। नियम: पहला अक्षर बड़ा (कैपिटल), दूसरा (यदि हो) छोटा — Al, Co (CO नहीं, वह कार्बन मोनोऑक्साइड है)। कुछ प्रतीकों में बाद का अक्षर आता है (Cl, Zn) और कुछ लैटिन, यूनानी या जर्मन नामों से आते हैं: Fe (फ़ेरम), Cu (क्यूप्रम), Na (नेट्रियम), K (कैलियम), Ag (अर्जेंटम), Au (ऑरम), Pb (प्लम्बम), Hg (हाइड्रार्जिरॉस), W (वोल्फ़्राम)।"
+      },
+      "keyPoints": [
+        {"en": "IUPAC = International Union of Pure and Applied Chemistry.", "hi": "IUPAC = इंटरनेशनल यूनियन ऑफ़ प्योर एंड एप्लाइड केमिस्ट्री।"},
+        {"en": "About 118 elements are known today; some are made artificially.", "hi": "आज लगभग 118 तत्व ज्ञात हैं; कुछ कृत्रिम रूप से बनाए गए हैं।"},
+        {"en": "Symbols let scientists communicate across languages.", "hi": "प्रतीकों से वैज्ञानिक भाषा की बाधा के बिना संवाद कर पाते हैं।"}
+      ],
+      "realLife": {
+        "en": "Food and medicine labels, fertiliser bags (N-P-K) and battery labels (Li-ion) all use element symbols.",
+        "hi": "खाद्य और दवा के लेबल, उर्वरक के बोरे (N-P-K) और बैटरी के लेबल (Li-ion) — सभी में तत्वों के प्रतीक प्रयोग होते हैं।"
+      },
+      "examFocus": {
+        "en": "Write correct symbols (capital/small letters) and know the Latin-origin symbols.",
+        "hi": "सही प्रतीक (बड़ा/छोटा अक्षर) लिखना और लैटिन मूल वाले प्रतीक जानना।"
+      },
+      "commonMistakes": [
+        {"en": "Writing both letters as capitals (CL, CO) — CO means carbon monoxide, not cobalt.", "hi": "दोनों अक्षर बड़े लिखना (CL, CO) — CO का अर्थ कार्बन मोनोऑक्साइड है, कोबाल्ट नहीं।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": [],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-9-en", "section": "8.4, Table 8.2"}],
+      "quickRevision": {
+        "oneLine": {"en": "Symbol: a one- or two-letter short form of an element's name, approved by IUPAC.", "hi": "प्रतीक: तत्व के नाम का एक या दो अक्षरों वाला संक्षिप्त रूप, जिसे IUPAC स्वीकृत करता है।"},
+        "points": [
+          {"en": "About 118 elements are known; some are made artificially.", "hi": "लगभग 118 तत्व ज्ञात हैं; कुछ कृत्रिम रूप से बनाए गए हैं।"},
+          {"en": "Symbols let scientists communicate across languages.", "hi": "प्रतीकों से वैज्ञानिक भाषाओं की सीमा पार कर संवाद कर पाते हैं।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-9-ch08-t8.5",
+      "targetId": "cbse-9-ch08-t8.5",
+      "covers": ["cbse-9-ch08-t8.6"],
+      "definition": {
+        "en": "Atomic number (Z) is the number of protons in the nucleus of an atom. Mass number (A) is the total number of protons and neutrons (nucleons) in the nucleus.",
+        "hi": "परमाणु क्रमांक (Z) किसी परमाणु के नाभिक में प्रोटॉनों की संख्या है। द्रव्यमान संख्या (A) नाभिक में प्रोटॉनों और न्यूट्रॉनों (न्यूक्लिऑनों) की कुल संख्या है।"
+      },
+      "explanation": {
+        "en": "Atomic number decides which element an atom is: every atom with 6 protons is carbon. In a neutral atom electrons = protons = Z. Mass number counts the heavy particles, so neutrons = A − Z. An atom is written with A as a superscript and Z as a subscript before the symbol, e.g. ¹²₆C (A = 12, Z = 6, so 6 neutrons).",
+        "hi": "परमाणु क्रमांक तय करता है कि परमाणु किस तत्व का है: 6 प्रोटॉन वाला हर परमाणु कार्बन है। उदासीन परमाणु में इलेक्ट्रॉन = प्रोटॉन = Z। द्रव्यमान संख्या भारी कणों को गिनती है, अतः न्यूट्रॉन = A − Z। परमाणु को प्रतीक के पहले ऊपर A और नीचे Z लिखकर दर्शाते हैं, जैसे ¹²₆C (A = 12, Z = 6, अतः 6 न्यूट्रॉन)।"
+      },
+      "keyPoints": [
+        {"en": "Z identifies the element and decides its chemical behaviour.", "hi": "Z तत्व की पहचान कराता है और उसका रासायनिक व्यवहार तय करता है।"},
+        {"en": "Protons and neutrons together are called nucleons.", "hi": "प्रोटॉन और न्यूट्रॉन को मिलाकर न्यूक्लिऑन कहते हैं।"},
+        {"en": "Hydrogen: p = 1, n = 0, A = 1; helium: 2, 2, 4; lithium: 3, 4, 7.", "hi": "हाइड्रोजन: p = 1, n = 0, A = 1; हीलियम: 2, 2, 4; लिथियम: 3, 4, 7।"}
+      ],
+      "realLife": {
+        "en": "The atomic number is the 'identity card' of an element — the periodic table is arranged by it.",
+        "hi": "परमाणु क्रमांक तत्व का 'पहचान पत्र' है — आवर्त सारणी इसी के क्रम में बनी है।"
+      },
+      "examFocus": {
+        "en": "Numericals: find p, n and e from A and Z (and for ions, adjust electrons by the charge); complete tables of atomic data.",
+        "hi": "आंकिक प्रश्न: A और Z से p, n और e ज्ञात करना (आयनों के लिए आवेश के अनुसार इलेक्ट्रॉन बदलना); परमाणु आँकड़ों की तालिका पूरी करना।"
+      },
+      "commonMistakes": [
+        {"en": "Taking mass number as the number of neutrons — neutrons = A − Z.", "hi": "द्रव्यमान संख्या को न्यूट्रॉनों की संख्या मान लेना — न्यूट्रॉन = A − Z।"},
+        {"en": "For an ion, electrons ≠ protons: Na⁺ has 11 p but 10 e.", "hi": "आयन में इलेक्ट्रॉन ≠ प्रोटॉन: Na⁺ में 11 p पर 10 e होते हैं।"}
+      ],
+      "formulas": ["Z = number of protons", "A = protons + neutrons", "Neutrons = A − Z", "Neutral atom: electrons = Z"],
+      "practicalIds": [],
+      "conceptIds": ["subatomic-particles"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-9-en", "section": "8.5, 8.6, Table 8.3"}],
+      "memoryTricks": [
+        {"trick": {"en": "A = \"All\" in the nucleus (p + n); Z = protons only", "hi": "A = नाभिक में \"सब कुछ\" (p + n); Z = केवल प्रोटॉन"}, "recall": {"en": "So neutrons = A − Z, and in a neutral atom electrons = Z.", "hi": "इसलिए न्यूट्रॉन = A − Z, और उदासीन परमाणु में इलेक्ट्रॉन = Z।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Atomic number Z = number of protons; mass number A = protons + neutrons.", "hi": "परमाणु क्रमांक Z = प्रोटॉनों की संख्या; द्रव्यमान संख्या A = प्रोटॉन + न्यूट्रॉन।"},
+        "formula": "Neutrons = A − Z",
+        "points": [
+          {"en": "Z identifies the element and decides its chemical behaviour.", "hi": "Z तत्व की पहचान है और उसका रासायनिक व्यवहार तय करता है।"},
+          {"en": "Neutral atom: electrons = Z.", "hi": "उदासीन परमाणु: इलेक्ट्रॉन = Z।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-9-ch08-t8.7",
+      "targetId": "cbse-9-ch08-t8.7",
+      "covers": ["cbse-9-ch08-t8.7.1"],
+      "definition": {
+        "en": "The electronic configuration of an atom is the way its electrons are distributed among the shells K, L, M, N…",
+        "hi": "किसी परमाणु का इलेक्ट्रॉनिक विन्यास यह बताता है कि उसके इलेक्ट्रॉन K, L, M, N… कोशों में किस प्रकार वितरित हैं।"
+      },
+      "explanation": {
+        "en": "Bohr and Bury's rules: (1) a shell can hold at most 2n² electrons — K 2, L 8, M 18; (2) the outermost shell holds at most 8; (3) shells fill in order from the inside, K before L before M. So sodium (Z = 11) is 2, 8, 1 and chlorine (Z = 17) is 2, 8, 7. Building the first 18 elements adds one electron at a time to the next available shell.",
+        "hi": "बोर और बरी के नियम: (1) किसी कोश में अधिकतम 2n² इलेक्ट्रॉन — K में 2, L में 8, M में 18; (2) सबसे बाहरी कोश में अधिकतम 8; (3) कोश भीतर से क्रम में भरते हैं, K पहले फिर L फिर M। अतः सोडियम (Z = 11) 2, 8, 1 और क्लोरीन (Z = 17) 2, 8, 7 है। पहले 18 तत्वों में हर बार अगले उपलब्ध कोश में एक इलेक्ट्रॉन जुड़ता है।"
+      },
+      "keyPoints": [
+        {"en": "K (n = 1): 2; L (n = 2): 8; M (n = 3): 18 maximum.", "hi": "K (n = 1): 2; L (n = 2): 8; M (n = 3): अधिकतम 18।"},
+        {"en": "For the first 18 elements, M is filled only up to 8 (argon 2, 8, 8).", "hi": "पहले 18 तत्वों में M केवल 8 तक भरता है (आर्गन 2, 8, 8)।"},
+        {"en": "Mg (12): 2, 8, 2; S (16): 2, 8, 6; Ar (18): 2, 8, 8.", "hi": "Mg (12): 2, 8, 2; S (16): 2, 8, 6; Ar (18): 2, 8, 8।"}
+      ],
+      "realLife": {
+        "en": "The outermost electrons decide how an element reacts — why sodium is so reactive and neon is not.",
+        "hi": "सबसे बाहरी इलेक्ट्रॉन तय करते हैं कि तत्व कैसे अभिक्रिया करेगा — इसीलिए सोडियम बहुत क्रियाशील है और नियॉन नहीं।"
+      },
+      "examFocus": {
+        "en": "Write configurations for Z = 1 to 18, draw the atomic structure diagram, and count valence electrons.",
+        "hi": "Z = 1 से 18 तक के विन्यास लिखना, परमाणु संरचना का चित्र बनाना और संयोजकता इलेक्ट्रॉन गिनना।"
+      },
+      "commonMistakes": [
+        {"en": "Putting 9 or more electrons in the outermost shell (writing potassium as 2, 8, 9) — the outer shell holds at most 8, so K is 2, 8, 8, 1.", "hi": "सबसे बाहरी कोश में 9 या अधिक इलेक्ट्रॉन रखना (पोटैशियम को 2, 8, 9 लिखना) — बाहरी कोश में अधिकतम 8, अतः K = 2, 8, 8, 1।"}
+      ],
+      "formulas": ["Maximum electrons in shell n = 2n²"],
+      "practicalIds": [],
+      "conceptIds": ["electron-distribution"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-9-en", "section": "8.7, 8.7.1, Table 8.4"}],
+      "memoryTricks": [
+        {"trick": {"en": "2n² gives 2, 8, 18 — but stop M at 8 for the first 18 elements", "hi": "2n² से 2, 8, 18 — पर पहले 18 तत्वों में M कोश 8 पर रोकें"}, "recall": {"en": "K 2, L 8, M 18 is the maximum; up to argon the pattern is 2, 8, 8.", "hi": "K 2, L 8, M 18 अधिकतम हैं; आर्गन तक क्रम 2, 8, 8 ही रहता है।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Electronic configuration: how the electrons of an atom are distributed among the shells K, L, M, N.", "hi": "इलेक्ट्रॉनिक विन्यास: परमाणु के इलेक्ट्रॉन K, L, M, N कोशों में कैसे बँटे हैं।"},
+        "formula": "Maximum electrons in shell n = 2n²",
+        "points": [
+          {"en": "Mg (12): 2, 8, 2; S (16): 2, 8, 6; Ar (18): 2, 8, 8.", "hi": "Mg (12): 2, 8, 2; S (16): 2, 8, 6; Ar (18): 2, 8, 8।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-9-ch08-t8.8",
+      "targetId": "cbse-9-ch08-t8.8",
+      "covers": [],
+      "definition": {
+        "en": "Valency is the combining capacity of an atom: the number of electrons it loses, gains or shares to complete its octet (or duplet for the K shell).",
+        "hi": "संयोजकता किसी परमाणु की संयोजन क्षमता है: अष्टक (K कोश के लिए द्विक) पूरा करने के लिए वह जितने इलेक्ट्रॉन खोता, ग्रहण करता या साझा करता है।"
+      },
+      "explanation": {
+        "en": "The outermost occupied shell is the valence shell and its electrons are valence electrons. Atoms with 8 (helium: 2) valence electrons are stable and largely unreactive. Atoms with 1–3 valence electrons usually lose them (Na 2, 8, 1 → valency 1); with 5–7 they usually gain (O 2, 6 → valency 2); carbon (2, 4) shares four, so its valency is 4. Combining capacity can also be read from formulas with hydrogen or chlorine: H₂O → O is 2, NH₃ → N is 3, MgCl₂ → Mg is 2.",
+        "hi": "सबसे बाहरी भरा कोश संयोजकता कोश है और उसके इलेक्ट्रॉन संयोजकता इलेक्ट्रॉन। 8 (हीलियम: 2) संयोजकता इलेक्ट्रॉन वाले परमाणु स्थायी और लगभग अक्रियाशील होते हैं। 1–3 संयोजकता इलेक्ट्रॉन वाले परमाणु प्रायः उन्हें खोते हैं (Na 2, 8, 1 → संयोजकता 1); 5–7 वाले प्रायः ग्रहण करते हैं (O 2, 6 → संयोजकता 2); कार्बन (2, 4) चार इलेक्ट्रॉन साझा करता है, अतः उसकी संयोजकता 4 है। हाइड्रोजन या क्लोरीन वाले सूत्रों से भी संयोजन क्षमता पढ़ी जा सकती है: H₂O → O की 2, NH₃ → N की 3, MgCl₂ → Mg की 2।"
+      },
+      "keyPoints": [
+        {"en": "Valence electrons ≤ 4: valency = number of valence electrons.", "hi": "संयोजकता इलेक्ट्रॉन ≤ 4: संयोजकता = संयोजकता इलेक्ट्रॉनों की संख्या।"},
+        {"en": "Valence electrons > 4: valency = 8 − valence electrons.", "hi": "संयोजकता इलेक्ट्रॉन > 4: संयोजकता = 8 − संयोजकता इलेक्ट्रॉन।"},
+        {"en": "Noble gases (He, Ne, Ar) have valency 0.", "hi": "उत्कृष्ट गैसों (He, Ne, Ar) की संयोजकता 0 है।"}
+      ],
+      "realLife": {
+        "en": "Valency lets us predict formulas such as H₂O, NaCl and CO₂ without memorising them.",
+        "hi": "संयोजकता से हम H₂O, NaCl और CO₂ जैसे सूत्र बिना रटे बता सकते हैं।"
+      },
+      "examFocus": {
+        "en": "Find valency from Z via the configuration; predict whether an atom loses, gains or shares electrons.",
+        "hi": "Z से विन्यास बनाकर संयोजकता ज्ञात करना; बताना कि परमाणु इलेक्ट्रॉन खोएगा, ग्रहण करेगा या साझा करेगा।"
+      },
+      "commonMistakes": [
+        {"en": "Giving chlorine (2, 8, 7) a valency of 7 — it needs one electron, so its valency is 1.", "hi": "क्लोरीन (2, 8, 7) की संयोजकता 7 बताना — उसे एक इलेक्ट्रॉन चाहिए, अतः संयोजकता 1 है।"}
+      ],
+      "formulas": ["Valency = valence electrons (if 1–4) or 8 − valence electrons (if 5–8)"],
+      "practicalIds": [],
+      "conceptIds": ["valency"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-9-en", "section": "8.8"}],
+      "memoryTricks": [
+        {"trick": {"en": "4 or fewer → count them; more than 4 → 8 minus", "hi": "4 या कम → गिन लें; 4 से अधिक → 8 में से घटाएँ"}, "recall": {"en": "Mg has 2 valence electrons → valency 2. S has 6 → valency 8 − 6 = 2.", "hi": "Mg में 2 संयोजी इलेक्ट्रॉन → संयोजकता 2। S में 6 → संयोजकता 8 − 6 = 2।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Valency: the combining capacity of an atom — electrons lost, gained or shared to complete its octet.", "hi": "संयोजकता: परमाणु की संयोजन क्षमता — अष्टक पूरा करने के लिए खोए, ग्रहण किए या साझा किए गए इलेक्ट्रॉन।"},
+        "formula": "Valency = valence electrons (if 1–4) or 8 − valence electrons (if 5–8)",
+        "points": [
+          {"en": "Noble gases (He, Ne, Ar) have valency 0.", "hi": "उत्कृष्ट गैसों (He, Ne, Ar) की संयोजकता 0 है।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-9-ch08-t8.9",
+      "targetId": "cbse-9-ch08-t8.9",
+      "covers": ["cbse-9-ch08-t8.9.1"],
+      "definition": {
+        "en": "Isotopes are atoms of the same element with the same atomic number but different mass numbers (different numbers of neutrons).",
+        "hi": "समस्थानिक एक ही तत्व के वे परमाणु हैं जिनका परमाणु क्रमांक समान पर द्रव्यमान संख्या भिन्न होती है (न्यूट्रॉनों की संख्या भिन्न)।"
+      },
+      "explanation": {
+        "en": "Natural hydrogen is a mix of protium ¹₁H (no neutron), deuterium ²₁H (one) and tritium ³₁H (two). Carbon has ¹²C, ¹³C and ¹⁴C. Isotopes have the same electrons and configuration, so the same chemical properties, but different physical properties such as melting and boiling points. The atomic mass of an element is the weighted average of its isotopes by natural abundance: chlorine (75% ³⁵Cl, 25% ³⁷Cl) = 35 × 0.75 + 37 × 0.25 = 35.5 u.",
+        "hi": "प्राकृतिक हाइड्रोजन प्रोटियम ¹₁H (कोई न्यूट्रॉन नहीं), ड्यूटीरियम ²₁H (एक) और ट्राइटियम ³₁H (दो) का मिश्रण है। कार्बन के ¹²C, ¹³C और ¹⁴C हैं। समस्थानिकों के इलेक्ट्रॉन और विन्यास समान होते हैं, अतः रासायनिक गुण समान, पर गलनांक–क्वथनांक जैसे भौतिक गुण भिन्न। किसी तत्व का परमाणु द्रव्यमान उसके समस्थानिकों का प्राकृतिक प्रचुरता के अनुसार भारित औसत है: क्लोरीन (75% ³⁵Cl, 25% ³⁷Cl) = 35 × 0.75 + 37 × 0.25 = 35.5 u।"
+      },
+      "keyPoints": [
+        {"en": "Uses: ²³⁵U as nuclear fuel; ⁶⁰Co in cancer treatment; ¹³¹I for goitre and thyroid cancer; ¹⁴C for dating fossils.", "hi": "उपयोग: ²³⁵U नाभिकीय ईंधन; ⁶⁰Co कैंसर उपचार; ¹³¹I घेंघा और थायरॉइड कैंसर; ¹⁴C जीवाश्मों की आयु ज्ञात करना।"},
+        {"en": "Atomic masses are measured in unified atomic mass units (u).", "hi": "परमाणु द्रव्यमान एकीकृत परमाणु द्रव्यमान इकाई (u) में मापे जाते हैं।"},
+        {"en": "A fractional average (35.5 u) does not mean any single atom has that mass.", "hi": "भिन्नात्मक औसत (35.5 u) का अर्थ यह नहीं कि किसी एक परमाणु का द्रव्यमान इतना है।"}
+      ],
+      "realLife": {
+        "en": "Radio-isotopes are used in hospitals (cobalt-60, iodine-131), nuclear power plants (uranium-235) and archaeology (carbon-14).",
+        "hi": "रेडियो-समस्थानिक अस्पतालों (कोबाल्ट-60, आयोडीन-131), नाभिकीय बिजलीघरों (यूरेनियम-235) और पुरातत्व (कार्बन-14) में प्रयोग होते हैं।"
+      },
+      "examFocus": {
+        "en": "Identify isotopes from p/n data, explain why their chemical properties are the same, and calculate average atomic mass from abundances.",
+        "hi": "p/n आँकड़ों से समस्थानिक पहचानना, उनके रासायनिक गुण समान होने का कारण बताना, और प्रचुरता से औसत परमाणु द्रव्यमान की गणना करना।"
+      },
+      "commonMistakes": [
+        {"en": "Taking a simple average ((35 + 37) ÷ 2 = 36) instead of the weighted average (35.5).", "hi": "भारित औसत (35.5) के बजाय साधारण औसत ((35 + 37) ÷ 2 = 36) लेना।"}
+      ],
+      "formulas": ["Average atomic mass = Σ (isotope mass × % abundance ÷ 100)"],
+      "practicalIds": [],
+      "conceptIds": ["isotopes-and-isobars"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-9-en", "section": "8.9, 8.9.1"}],
+      "memoryTricks": [
+        {"trick": {"en": "isoToPes: same Place → same element, same Protons", "hi": "आइसोटोप (isoTOPes): समान स्थान → वही तत्व, समान प्रोटॉन"}, "recall": {"en": "Greek isos = equal, topos = place: isotopes take the same place in the periodic table because their atomic number is the same; only the neutrons differ.", "hi": "यूनानी isos = समान, topos = स्थान: समस्थानिक आवर्त सारणी में एक ही स्थान पर आते हैं क्योंकि उनका परमाणु क्रमांक समान है; केवल न्यूट्रॉन भिन्न होते हैं।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Isotopes: atoms of the same element with the same Z but different A (different numbers of neutrons).", "hi": "समस्थानिक: एक ही तत्व के परमाणु, जिनका Z समान पर A भिन्न है (न्यूट्रॉन की संख्या भिन्न)।"},
+        "formula": "Average atomic mass = Σ (isotope mass × % abundance ÷ 100)",
+        "points": [
+          {"en": "Uses: ²³⁵U fuel, ⁶⁰Co cancer treatment, ¹³¹I goitre, ¹⁴C dating fossils.", "hi": "उपयोग: ²³⁵U ईंधन, ⁶⁰Co कैंसर उपचार, ¹³¹I घेंघा, ¹⁴C जीवाश्मों की आयु।"},
+          {"en": "35.5 u is an average; no single chlorine atom has that mass.", "hi": "35.5 u औसत है; किसी एक क्लोरीन परमाणु का द्रव्यमान इतना नहीं होता।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-9-ch08-t8.9.2",
+      "targetId": "cbse-9-ch08-t8.9.2",
+      "covers": [],
+      "definition": {
+        "en": "Isobars are atoms of different elements that have the same mass number but different atomic numbers.",
+        "hi": "समभारिक भिन्न तत्वों के वे परमाणु हैं जिनकी द्रव्यमान संख्या समान पर परमाणु क्रमांक भिन्न होते हैं।"
+      },
+      "explanation": {
+        "en": "Calcium (Z = 20), potassium (Z = 19) and argon (Z = 18) can each have mass number 40. They have the same total number of nucleons, but different numbers of protons, so they are different elements with different chemical properties.",
+        "hi": "कैल्सियम (Z = 20), पोटैशियम (Z = 19) और आर्गन (Z = 18) — तीनों की द्रव्यमान संख्या 40 हो सकती है। इनमें न्यूक्लिऑनों की कुल संख्या समान है पर प्रोटॉनों की संख्या भिन्न, अतः ये भिन्न रासायनिक गुणों वाले भिन्न तत्व हैं।"
+      },
+      "keyPoints": [
+        {"en": "Isotopes: same Z, different A. Isobars: same A, different Z.", "hi": "समस्थानिक: Z समान, A भिन्न। समभारिक: A समान, Z भिन्न।"},
+        {"en": "Isobars have different chemical properties because their electron numbers differ.", "hi": "समभारिकों के रासायनिक गुण भिन्न होते हैं क्योंकि उनके इलेक्ट्रॉनों की संख्या भिन्न होती है।"}
+      ],
+      "realLife": {
+        "en": "Telling isotopes and isobars apart is the basis of reading nuclear data tables used in medicine and energy.",
+        "hi": "समस्थानिकों और समभारिकों में भेद करना चिकित्सा और ऊर्जा में प्रयुक्त नाभिकीय आँकड़ा-तालिकाएँ पढ़ने का आधार है।"
+      },
+      "examFocus": {
+        "en": "From given p and n values of three species, say which pairs are isotopes and which are isobars, with reason.",
+        "hi": "तीन स्पीशीज़ के दिए गए p और n मानों से कारण सहित बताना कि कौन-से युग्म समस्थानिक और कौन-से समभारिक हैं।"
+      },
+      "commonMistakes": [
+        {"en": "Mixing up the two terms — remember 'iso-BAR' = same weight (mass number).", "hi": "दोनों शब्दों को मिला देना — याद रखें 'सम-भार' = समान भार (द्रव्यमान संख्या)।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["isotopes-and-isobars"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-9-en", "section": "8.9.2"}],
+      "memoryTricks": [
+        {"trick": {"en": "isotoPes → same P (protons); isobArs → same A (mass number)", "hi": "isotoPes → समान P (प्रोटॉन); isobArs → समान A (द्रव्यमान संख्या)"}, "recall": {"en": "The letter hidden in each word tells what is equal. Greek baros = weight, so isobars have equal mass number.", "hi": "हर शब्द में छिपा अक्षर बताता है कि क्या समान है। यूनानी baros = भार, इसलिए समभारिकों की द्रव्यमान संख्या समान होती है।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Isobars: atoms of different elements with the same mass number but different atomic numbers.", "hi": "समभारिक: भिन्न तत्वों के परमाणु, जिनकी द्रव्यमान संख्या समान पर परमाणु क्रमांक भिन्न है।"},
+        "points": [
+          {"en": "Isotopes: same Z, different A. Isobars: same A, different Z.", "hi": "समस्थानिक: Z समान, A भिन्न। समभारिक: A समान, Z भिन्न।"},
+          {"en": "Isobars differ chemically because their electron numbers differ.", "hi": "समभारिकों के रासायनिक गुण भिन्न होते हैं क्योंकि उनके इलेक्ट्रॉनों की संख्या भिन्न है।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    }
+  ]
+}

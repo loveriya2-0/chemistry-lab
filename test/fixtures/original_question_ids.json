@@ -1,0 +1,2193 @@
+{
+ "q-cbse-9-ch05-01": {
+  "topicId": "cbse-9-ch05-t5.1",
+  "correctOption": 2,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which of the following is a homogeneous mixture?"
+ },
+ "q-cbse-9-ch05-02": {
+  "topicId": "cbse-9-ch05-t5.2",
+  "correctOption": null,
+  "type": "numerical",
+  "marks": 2,
+  "question": "25 g of sugar is dissolved in 100 g of water. Find the mass by mass percentage of sugar in the solution."
+ },
+ "q-cbse-9-ch05-03": {
+  "topicId": "cbse-9-ch05-t5.2",
+  "correctOption": null,
+  "type": "numerical",
+  "marks": 2,
+  "question": "A saline drip is labelled 0.9% m/v sodium chloride. How much sodium chloride is present in 500 mL of it?"
+ },
+ "q-cbse-9-ch05-04": {
+  "topicId": "cbse-9-ch05-t5.2.3",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "The solubility of potassium nitrate in water is 62 g per 100 g at 40 °C and 106 g per 100 g at 60 °C. (a) What mass is needed to saturate 50 g of water at 40 °C? (b) What happens if a saturated solution in 100 g of water at 60 °C is cooled to 40 °C?"
+ },
+ "q-cbse-9-ch05-05": {
+  "topicId": "cbse-9-ch05-t5.3",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Give two reasons why crystallisation is a better method than evaporation for obtaining pure copper sulphate."
+ },
+ "q-cbse-9-ch05-06": {
+  "topicId": "cbse-9-ch05-t5.3.2",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Boiling points: water 100 °C, acetone 56 °C, alcohol 78 °C, benzene 80 °C. Which pair can be separated by simple distillation?"
+ },
+ "q-cbse-9-ch05-07": {
+  "topicId": "cbse-9-ch05-t5.3.3",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "In paper chromatography, why is the starting line drawn with a pencil, and why must the solvent level be below the ink spot?"
+ },
+ "q-cbse-9-ch05-08": {
+  "topicId": "cbse-9-ch05-t5.4.2",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "You are given a mixture of sand, common salt and naphthalene. Write the sequence of steps to separate all three, naming each technique."
+ },
+ "q-cbse-9-ch05-09": {
+  "topicId": "cbse-9-ch05-t5.5",
+  "correctOption": 0,
+  "type": "assertionReason",
+  "marks": 1,
+  "question": "Assertion (A): A solution of copper sulphate in water does not show the Tyndall effect.\nReason (R): The particles of a true solution are smaller than 1 nm and cannot scatter light."
+ },
+ "q-cbse-9-ch05-10": {
+  "topicId": "cbse-9-ch05-t5.4.4",
+  "correctOption": null,
+  "type": "longAnswer",
+  "marks": 5,
+  "question": "Compare a true solution, a colloid and a suspension on the basis of (a) nature, (b) particle size, (c) visibility of particles, (d) separation by filtration, (e) settling and (f) Tyndall effect. Give one example of each."
+ },
+ "q-cbse-9-ch05-11": {
+  "topicId": "cbse-9-ch05-t5.4.3",
+  "correctOption": null,
+  "type": "caseBased",
+  "marks": 4,
+  "question": "A village gets muddy water from a pond. Even after filtering through cloth, the water stays cloudy. A health worker adds a little powdered alum, stirs, and leaves it for some time; a layer of mud settles at the bottom.\n(a) What type of mixture is muddy water? (1)\n(b) Name the process caused by alum. (1)\n(c) Why did cloth filtration not clear the water, and how is the clear water finally separated from the settled mud? (2)"
+ },
+ "q-cbse-9-ch05-12": {
+  "topicId": "cbse-9-ch05-t5.4",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Mustard oil and water are put in a separating funnel. Which layer forms on top and why? Which layer is drained out first?"
+ },
+ "q-cbse-9-ch08-01": {
+  "topicId": "cbse-9-ch08-t8.2.2",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "In the gold foil experiment, most α-particles passed through the foil undeflected. This showed that:"
+ },
+ "q-cbse-9-ch08-02": {
+  "topicId": "cbse-9-ch08-t8.5",
+  "correctOption": null,
+  "type": "numerical",
+  "marks": 2,
+  "question": "An atom has atomic number 26 and 56 nucleons. Find its numbers of protons, electrons and neutrons."
+ },
+ "q-cbse-9-ch08-03": {
+  "topicId": "cbse-9-ch08-t8.7",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Write the electronic configurations of magnesium (Z = 12) and sulphur (Z = 16) and state the number of valence electrons in each."
+ },
+ "q-cbse-9-ch08-04": {
+  "topicId": "cbse-9-ch08-t8.8",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "The valency of an element with electronic configuration 2, 8, 7 is:"
+ },
+ "q-cbse-9-ch08-05": {
+  "topicId": "cbse-9-ch08-t8.9",
+  "correctOption": null,
+  "type": "numerical",
+  "marks": 3,
+  "question": "Bromine occurs as ⁷⁹Br (49.7%) and ⁸¹Br (50.3%). Calculate the average atomic mass of bromine."
+ },
+ "q-cbse-9-ch08-06": {
+  "topicId": "cbse-9-ch08-t8.9.2",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Three species have: X — 18 protons, 19 neutrons; Y — 17 protons, 18 neutrons; Z — 17 protons, 20 neutrons. State the relationship between (a) Y and Z, (b) X and Z, giving reasons."
+ },
+ "q-cbse-9-ch08-07": {
+  "topicId": "cbse-9-ch08-t8.2.3",
+  "correctOption": 0,
+  "type": "assertionReason",
+  "marks": 1,
+  "question": "Assertion (A): Rutherford's model could not explain the stability of the atom.\nReason (R): An electron revolving in a circular orbit is accelerating and should lose energy and fall into the nucleus."
+ },
+ "q-cbse-9-ch08-08": {
+  "topicId": "cbse-9-ch08-t8.2",
+  "correctOption": null,
+  "type": "longAnswer",
+  "marks": 5,
+  "question": "(a) Describe Thomson's model of the atom. (b) List three observations of the gold foil experiment and the conclusion drawn from each. (c) State one limitation of Rutherford's model and how Bohr addressed it."
+ },
+ "q-cbse-9-ch08-09": {
+  "topicId": "cbse-9-ch08-t8.4",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Write the symbols of iron, sodium, potassium and silver, and name the language their symbols come from."
+ },
+ "q-cbse-9-ch08-10": {
+  "topicId": "cbse-9-ch08-t8.5",
+  "correctOption": null,
+  "type": "caseBased",
+  "marks": 4,
+  "question": "Element X has mass number 35 and 18 neutrons.\n(a) How many protons and electrons does X have? (1)\n(b) Identify X and write its electronic configuration. (1)\n(c) What is its valency? If two more neutrons are added to its nucleus, what is the new mass number and how is the new atom related to X? (2)"
+ },
+ "q-cbse-9-ch08-11": {
+  "topicId": "cbse-9-ch08-t8.3",
+  "correctOption": 2,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which subatomic particle was discovered by James Chadwick in 1932?"
+ },
+ "q-cbse-9-ch08-12": {
+  "topicId": "cbse-9-ch08-t8.9",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Why do isotopes of an element have the same chemical properties? Give two uses of isotopes."
+ },
+ "q-cbse-9-ch09-01": {
+  "topicId": "cbse-9-ch09-t9.1",
+  "correctOption": null,
+  "type": "numerical",
+  "marks": 2,
+  "question": "5.3 g of sodium carbonate reacts with 6.0 g of acetic acid to give 2.2 g of carbon dioxide, 0.9 g of water and 8.2 g of sodium acetate. Show that the law of conservation of mass is obeyed."
+ },
+ "q-cbse-9-ch09-02": {
+  "topicId": "cbse-9-ch09-t9.2",
+  "correctOption": null,
+  "type": "numerical",
+  "marks": 2,
+  "question": "Carbon monoxide contains carbon and oxygen in the mass ratio 3 : 4. How much oxygen combines with 9 g of carbon to form carbon monoxide?"
+ },
+ "q-cbse-9-ch09-03": {
+  "topicId": "cbse-9-ch09-t9.3",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Which postulate of Dalton's atomic theory explains (a) the law of conservation of mass and (b) the law of constant proportions?"
+ },
+ "q-cbse-9-ch09-04": {
+  "topicId": "cbse-9-ch09-t9.5",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "The correct formula of aluminium hydroxide is:"
+ },
+ "q-cbse-9-ch09-05": {
+  "topicId": "cbse-9-ch09-t9.5",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Write the formulae of the compounds formed by: (a) Fe³⁺ and OH⁻, (b) K⁺ and CO₃²⁻, (c) NH₄⁺ and Cl⁻, (d) Al³⁺ and CO₃²⁻, (e) Ca²⁺ and Br⁻, (f) K⁺ and SO₄²⁻."
+ },
+ "q-cbse-9-ch09-06": {
+  "topicId": "cbse-9-ch09-t9.4.2",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Element A has one electron in its third shell and element B has six electrons in its second shell. (a) What ions do A and B form? (b) What type of bond forms between them? (c) Write the formula of the compound."
+ },
+ "q-cbse-9-ch09-07": {
+  "topicId": "cbse-9-ch09-t9.6",
+  "correctOption": 0,
+  "type": "assertionReason",
+  "marks": 1,
+  "question": "Assertion (A): Solid sodium chloride does not conduct electricity, but its aqueous solution does.\nReason (R): In the solid, the ions are held in fixed positions; in solution they are free to move."
+ },
+ "q-cbse-9-ch09-08": {
+  "topicId": "cbse-9-ch09-t9.7",
+  "correctOption": null,
+  "type": "numerical",
+  "marks": 2,
+  "question": "Calculate (a) the molecular mass of HNO₃ and (b) the formula unit mass of Mg(OH)₂. (H = 1 u, N = 14 u, O = 16 u, Mg = 24 u)"
+ },
+ "q-cbse-9-ch09-09": {
+  "topicId": "cbse-9-ch09-t9.4",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "How many shared pairs of electrons are there between the two atoms in an oxygen molecule (O₂)?"
+ },
+ "q-cbse-9-ch09-10": {
+  "topicId": "cbse-9-ch09-t9.4",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Name the following covalent compounds: (a) PCl₃ (b) SF₆ (c) N₂O₄ (d) H₂S."
+ },
+ "q-cbse-9-ch09-11": {
+  "topicId": "cbse-9-ch09-t9.1",
+  "correctOption": null,
+  "type": "caseBased",
+  "marks": 4,
+  "question": "A student weighs a flask containing vinegar and a separate balloon containing baking soda. In set-up 1 she pours the baking soda into the open flask; in set-up 2 she ties the balloon on the flask before tipping the baking soda in.\n(a) What would she observe in the flask? (1)\n(b) In which set-up does the final reading equal the initial reading? (1)\n(c) Explain the difference between the two set-ups using the law of conservation of mass. (2)"
+ },
+ "q-cbse-9-ch09-12": {
+  "topicId": "cbse-9-ch09-t9.6",
+  "correctOption": null,
+  "type": "longAnswer",
+  "marks": 5,
+  "question": "(a) Show the formation of sodium chloride by electron transfer (Na: Z = 11, Cl: Z = 17). (b) Show the formation of a water molecule by sharing of electrons. (c) Give three differences between the properties of ionic and covalent compounds."
+ },
+ "q-cbse-10-ch01-01": {
+  "topicId": "cbse-10-ch01-t1.1",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which of the following equations is balanced?"
+ },
+ "q-cbse-10-ch01-02": {
+  "topicId": "cbse-10-ch01-t1.1",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Balance: (a) BaCl₂ + Al₂(SO₄)₃ → BaSO₄ + AlCl₃ (b) Na + H₂O → NaOH + H₂"
+ },
+ "q-cbse-10-ch01-03": {
+  "topicId": "cbse-10-ch01-t1.2",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Why is respiration considered an exothermic reaction? Write the equation."
+ },
+ "q-cbse-10-ch01-04": {
+  "topicId": "cbse-10-ch01-t1.2.2",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "In the electrolysis of water, the gas collected at the cathode is:"
+ },
+ "q-cbse-10-ch01-05": {
+  "topicId": "cbse-10-ch01-t1.2.2",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Give one example each, with a balanced equation, of decomposition brought about by (a) heat, (b) electricity and (c) light."
+ },
+ "q-cbse-10-ch01-06": {
+  "topicId": "cbse-10-ch01-t1.2.3",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "An iron nail is kept in copper sulphate solution for 20 minutes. What two changes do you observe? Write the equation."
+ },
+ "q-cbse-10-ch01-07": {
+  "topicId": "cbse-10-ch01-t1.2.4",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "When solutions of lead nitrate and potassium iodide are mixed, a precipitate forms. Its colour and the type of reaction are:"
+ },
+ "q-cbse-10-ch01-08": {
+  "topicId": "cbse-10-ch01-t1.2.5",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "In the reaction ZnO + C → Zn + CO:"
+ },
+ "q-cbse-10-ch01-09": {
+  "topicId": "cbse-10-ch01-t1.2.5",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Copper powder is heated in a china dish and then hydrogen is passed over the hot product. Describe the colour changes, write both equations and name what is oxidised and reduced in the second reaction."
+ },
+ "q-cbse-10-ch01-10": {
+  "topicId": "cbse-10-ch01-t1.3",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "What is rancidity? Give two ways to prevent it."
+ },
+ "q-cbse-10-ch01-11": {
+  "topicId": "cbse-10-ch01-t1.2",
+  "correctOption": 1,
+  "type": "assertionReason",
+  "marks": 1,
+  "question": "Assertion (A): The reaction of quick lime with water is a combination reaction.\nReason (R): A large amount of heat is released in the reaction."
+ },
+ "q-cbse-10-ch01-12": {
+  "topicId": "cbse-10-ch01-t1.2",
+  "correctOption": null,
+  "type": "longAnswer",
+  "marks": 5,
+  "question": "Classify each reaction and justify: (a) CaO + H₂O → Ca(OH)₂ (b) 2FeSO₄ → Fe₂O₃ + SO₂ + SO₃ (c) Fe + CuSO₄ → FeSO₄ + Cu (d) Na₂SO₄ + BaCl₂ → BaSO₄ + 2NaCl (e) CuO + H₂ → Cu + H₂O"
+ },
+ "q-cbse-10-ch01-13": {
+  "topicId": "cbse-10-ch01-t1.2.2",
+  "correctOption": null,
+  "type": "caseBased",
+  "marks": 4,
+  "question": "A student passes an electric current through water containing a few drops of dilute sulphuric acid, collecting the gases in two test tubes placed over the carbon electrodes. After some time, one test tube holds about twice as much gas as the other.\n(a) Which gas collects at the cathode and which at the anode? (1)\n(b) Why is the volume of one gas double that of the other? (1)\n(c) Write the balanced equation, name the type of reaction, and describe a test for the gas with the larger volume. (2)"
+ },
+ "q-cbse-10-ch02-01": {
+  "topicId": "cbse-10-ch02-t2.1",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Phenolphthalein in a basic solution is:"
+ },
+ "q-cbse-10-ch02-02": {
+  "topicId": "cbse-10-ch02-t2.1.3",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "A metal compound A reacts with dilute HCl to give effervescence; the gas puts out a burning candle. If one product is calcium chloride, identify A and write the balanced equation."
+ },
+ "q-cbse-10-ch02-03": {
+  "topicId": "cbse-10-ch02-t2.2",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Why should water never be added to concentrated acid? How should the acid be diluted?"
+ },
+ "q-cbse-10-ch02-04": {
+  "topicId": "cbse-10-ch02-t2.3",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Solutions A, B, C, D and E have pH 4, 1, 11, 7 and 9. Which is (a) neutral, (b) strongly alkaline, (c) strongly acidic, (d) weakly acidic, (e) weakly alkaline? Arrange them in increasing order of hydrogen-ion concentration."
+ },
+ "q-cbse-10-ch02-05": {
+  "topicId": "cbse-10-ch02-t2.3",
+  "correctOption": 0,
+  "type": "assertionReason",
+  "marks": 1,
+  "question": "Assertion (A): Tooth decay starts when the pH of the mouth falls below 5.5.\nReason (R): Bacteria in the mouth produce acids by breaking down sugar and food particles left after eating."
+ },
+ "q-cbse-10-ch02-06": {
+  "topicId": "cbse-10-ch02-t2.4.3",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Describe the chlor-alkali process. Write the equation and give one use of each of the three products."
+ },
+ "q-cbse-10-ch02-07": {
+  "topicId": "cbse-10-ch02-t2.4.3",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which compound is used to remove the permanent hardness of water?"
+ },
+ "q-cbse-10-ch02-08": {
+  "topicId": "cbse-10-ch02-t2.4.4",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "How is Plaster of Paris prepared? Why must it be stored in a moisture-proof container?"
+ },
+ "q-cbse-10-ch02-09": {
+  "topicId": "cbse-10-ch02-t2.4",
+  "correctOption": 2,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which salt gives a solution with pH more than 7?"
+ },
+ "q-cbse-10-ch02-10": {
+  "topicId": "cbse-10-ch02-t2.1.4",
+  "correctOption": null,
+  "type": "caseBased",
+  "marks": 4,
+  "question": "A student adds two drops of phenolphthalein to 2 mL of dilute NaOH and then adds dilute HCl drop by drop.\n(a) What colour is the NaOH solution after adding phenolphthalein? (1)\n(b) What happens to the colour as HCl is added, and why? (1)\n(c) Write the equation and name the type of reaction. What happens if a few drops of NaOH are added again? (2)"
+ },
+ "q-cbse-10-ch02-11": {
+  "topicId": "cbse-10-ch02-t2.4.3",
+  "correctOption": null,
+  "type": "longAnswer",
+  "marks": 5,
+  "question": "(a) How is baking soda produced? Write the equation. (b) What happens when it is heated? Write the equation. (c) Why does baking powder make cakes soft and spongy? (d) Give two other uses of baking soda."
+ },
+ "q-cbse-10-ch02-12": {
+  "topicId": "cbse-10-ch02-t2.2",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Why does an aqueous solution of an acid conduct electricity, while solutions of glucose and alcohol do not?"
+ },
+ "q-cbse-10-ch03-01": {
+  "topicId": "cbse-10-ch03-t3.1",
+  "correctOption": 2,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which non-metal is a good conductor of electricity?"
+ },
+ "q-cbse-10-ch03-02": {
+  "topicId": "cbse-10-ch03-t3.2",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "What are amphoteric oxides? Write equations showing the amphoteric nature of aluminium oxide."
+ },
+ "q-cbse-10-ch03-03": {
+  "topicId": "cbse-10-ch03-t3.2.2",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Describe how sodium, calcium, magnesium and iron react with water, giving one equation."
+ },
+ "q-cbse-10-ch03-04": {
+  "topicId": "cbse-10-ch03-t3.2.4",
+  "correctOption": 2,
+  "type": "mcq",
+  "marks": 1,
+  "question": "A strip of copper is placed in each of these solutions. In which will a reaction occur?"
+ },
+ "q-cbse-10-ch03-05": {
+  "topicId": "cbse-10-ch03-t3.2.3",
+  "correctOption": 0,
+  "type": "assertionReason",
+  "marks": 1,
+  "question": "Assertion (A): Hydrogen gas is usually not evolved when a metal reacts with nitric acid.\nReason (R): Nitric acid is a strong oxidising agent that oxidises the hydrogen produced to water."
+ },
+ "q-cbse-10-ch03-06": {
+  "topicId": "cbse-10-ch03-t3.3",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "(a) Show the formation of MgCl₂ by the transfer of electrons (Mg: Z = 12, Cl: Z = 17). (b) Why do ionic compounds have high melting points?"
+ },
+ "q-cbse-10-ch03-07": {
+  "topicId": "cbse-10-ch03-t3.4.4",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Differentiate between roasting and calcination with an equation for each. How is zinc obtained from zinc oxide?"
+ },
+ "q-cbse-10-ch03-08": {
+  "topicId": "cbse-10-ch03-t3.4.5",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Why can sodium not be obtained by heating sodium oxide with carbon? How is it obtained?"
+ },
+ "q-cbse-10-ch03-09": {
+  "topicId": "cbse-10-ch03-t3.4.6",
+  "correctOption": null,
+  "type": "caseBased",
+  "marks": 4,
+  "question": "Copper obtained by reduction contains impurities and is purified by electrolytic refining.\n(a) What are the anode and cathode made of? (1)\n(b) Name the electrolyte and write its formula. (1)\n(c) Explain how copper is refined, writing the reactions at the two electrodes, and state where the impurities go. (2)"
+ },
+ "q-cbse-10-ch03-10": {
+  "topicId": "cbse-10-ch03-t3.5",
+  "correctOption": null,
+  "type": "longAnswer",
+  "marks": 5,
+  "question": "(a) Describe an activity to show that both air and water are needed for rusting. (b) Give three methods of preventing rusting. (c) Why does galvanised iron stay protected even if the zinc coating is broken?"
+ },
+ "q-cbse-10-ch03-11": {
+  "topicId": "cbse-10-ch03-t3.4",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Why are metals like Na, K, Ca and Mg never found in their free state in nature?"
+ },
+ "q-cbse-10-ch03-12": {
+  "topicId": "cbse-10-ch03-t3.5",
+  "correctOption": 2,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Solder, used to join electrical wires, is an alloy of:"
+ },
+ "q-cbse-10-ch04-01": {
+  "topicId": "cbse-10-ch04-t4.1",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Why does carbon form neither C⁴⁺ cations nor C⁴⁻ anions?"
+ },
+ "q-cbse-10-ch04-02": {
+  "topicId": "cbse-10-ch04-t4.2",
+  "correctOption": 2,
+  "type": "mcq",
+  "marks": 1,
+  "question": "The total number of electrons shared in a molecule of ethyne (C₂H₂) is:"
+ },
+ "q-cbse-10-ch04-03": {
+  "topicId": "cbse-10-ch04-t4.2.2",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "What are structural isomers? Draw the two isomers of butane."
+ },
+ "q-cbse-10-ch04-04": {
+  "topicId": "cbse-10-ch04-t4.2.4",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Define a homologous series. Why do the members show a gradation in physical properties but similar chemical properties? Give the next two members after CH₃OH."
+ },
+ "q-cbse-10-ch04-05": {
+  "topicId": "cbse-10-ch04-t4.2.5",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Name: (a) CH₃CH₂CHO (b) CH₃COCH₃ (c) CH₃CH₂Br (d) CH₃CH=CH₂"
+ },
+ "q-cbse-10-ch04-06": {
+  "topicId": "cbse-10-ch04-t4.3.3",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Vegetable oils are converted into vanaspati ghee by:"
+ },
+ "q-cbse-10-ch04-07": {
+  "topicId": "cbse-10-ch04-t4.3.4",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "What is a substitution reaction? Write the reaction of methane with chlorine with its condition."
+ },
+ "q-cbse-10-ch04-08": {
+  "topicId": "cbse-10-ch04-t4.4",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "A neutral compound X (C₂H₆O) gives a gas that burns with a pop sound when sodium is added to it. Identify X and write the equation. What happens when X is heated with excess conc. H₂SO₄ at 443 K?"
+ },
+ "q-cbse-10-ch04-09": {
+  "topicId": "cbse-10-ch04-t4.4.2",
+  "correctOption": null,
+  "type": "caseBased",
+  "marks": 4,
+  "question": "In the lab, 1 mL ethanol and 1 mL glacial acetic acid are warmed with a few drops of conc. H₂SO₄, then poured into water; a sweet smell is noticed.\n(a) Name the reaction and the sweet-smelling product. (1)\n(b) Write the equation. (1)\n(c) What happens when this product is heated with NaOH? Write the equation and name the reaction and one of its uses. (2)"
+ },
+ "q-cbse-10-ch04-10": {
+  "topicId": "cbse-10-ch04-t4.5",
+  "correctOption": null,
+  "type": "longAnswer",
+  "marks": 5,
+  "question": "(a) Explain the cleansing action of soap with a labelled diagram of a micelle. (b) Why does soap not work well in hard water? (c) How do detergents overcome this problem?"
+ },
+ "q-cbse-10-ch04-11": {
+  "topicId": "cbse-10-ch04-t4.3",
+  "correctOption": 2,
+  "type": "assertionReason",
+  "marks": 1,
+  "question": "Assertion (A): Unsaturated hydrocarbons burn with a yellow, sooty flame.\nReason (R): Unsaturated hydrocarbons contain only single bonds between carbon atoms."
+ },
+ "q-cbse-10-ch04-12": {
+  "topicId": "cbse-10-ch04-t4.3.2",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Alkaline KMnO₄ is added drop by drop to warm ethanol. Its purple colour disappears at first but stays after excess is added. Explain, and name the product."
+ },
+ "q-cbse-11-ch01-01": {
+  "topicId": "cbse-11-ch01-t1.2",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which of the following is a homogeneous mixture?"
+ },
+ "q-cbse-11-ch01-02": {
+  "topicId": "cbse-11-ch01-t1.4",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "How many significant figures are there in 0.00450?"
+ },
+ "q-cbse-11-ch01-03": {
+  "topicId": "cbse-11-ch01-t1.8",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Number of molecules in 9 g of water (M = 18 g mol⁻¹) is:"
+ },
+ "q-cbse-11-ch01-04": {
+  "topicId": "cbse-11-ch01-t1.5",
+  "correctOption": 0,
+  "type": "assertionReason",
+  "marks": 1,
+  "question": "Assertion (A): Hydrogen and oxygen combine to form water in the mass ratio 1 : 8 whatever the source of water.\nReason (R): A given compound always contains exactly the same proportion of elements by weight."
+ },
+ "q-cbse-11-ch01-05": {
+  "topicId": "cbse-11-ch01-t1.3",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Convert 37 °C into kelvin and into °F."
+ },
+ "q-cbse-11-ch01-06": {
+  "topicId": "cbse-11-ch01-t1.5",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "State the law of multiple proportions with an example."
+ },
+ "q-cbse-11-ch01-07": {
+  "topicId": "cbse-11-ch01-t1.7",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Chlorine has two isotopes ³⁵Cl (75.77%) and ³⁷Cl (24.23%). Calculate its average atomic mass."
+ },
+ "q-cbse-11-ch01-08": {
+  "topicId": "cbse-11-ch01-t1.9",
+  "correctOption": null,
+  "type": "numerical",
+  "marks": 3,
+  "question": "A compound contains 4.07% hydrogen, 24.27% carbon and 71.65% chlorine. Its molar mass is 98.96 g. Find its empirical and molecular formulas."
+ },
+ "q-cbse-11-ch01-09": {
+  "topicId": "cbse-11-ch01-t1.10",
+  "correctOption": null,
+  "type": "numerical",
+  "marks": 3,
+  "question": "50.0 kg of N₂ and 10.0 kg of H₂ are mixed to make NH₃ (N₂ + 3H₂ → 2NH₃). Find the limiting reagent and the mass of NH₃ formed."
+ },
+ "q-cbse-11-ch01-10": {
+  "topicId": "cbse-11-ch01-t1.10",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Define molarity and molality. Which one is preferred when temperature varies, and why?"
+ },
+ "q-cbse-11-ch01-11": {
+  "topicId": "cbse-11-ch01-t1.6",
+  "correctOption": null,
+  "type": "longAnswer",
+  "marks": 5,
+  "question": "State the postulates of Dalton's atomic theory. Which laws of chemical combination does it explain, and what are its limitations?"
+ },
+ "q-cbse-11-ch01-12": {
+  "topicId": "cbse-11-ch01-t1.10",
+  "correctOption": null,
+  "type": "caseBased",
+  "marks": 4,
+  "question": "A student dissolves 4 g of NaOH (M = 40 g mol⁻¹) in water to make 250 mL of solution, and separately dissolves 4 g of NaOH in 250 g of water.\n(a) Calculate the molarity of the first solution. (1)\n(b) Calculate the molality of the second solution. (1)\n(c) The first solution is diluted to 1 L. What is the new molarity, and which relation did you use? (2)"
+ },
+ "q-cbse-11-ch02-01": {
+  "topicId": "cbse-11-ch02-t2.1",
+  "correctOption": 2,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which particle has the smallest mass?"
+ },
+ "q-cbse-11-ch02-02": {
+  "topicId": "cbse-11-ch02-t2.6",
+  "correctOption": 2,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which set of quantum numbers is not possible?"
+ },
+ "q-cbse-11-ch02-03": {
+  "topicId": "cbse-11-ch02-t2.3",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "The Balmer series of hydrogen lies in which region of the spectrum?"
+ },
+ "q-cbse-11-ch02-04": {
+  "topicId": "cbse-11-ch02-t2.6",
+  "correctOption": 0,
+  "type": "assertionReason",
+  "marks": 1,
+  "question": "Assertion (A): The electronic configuration of chromium is [Ar] 3d⁵ 4s¹, not [Ar] 3d⁴ 4s².\nReason (R): Half-filled and completely filled subshells have extra stability due to symmetry and exchange energy."
+ },
+ "q-cbse-11-ch02-05": {
+  "topicId": "cbse-11-ch02-t2.2",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Write the number of protons, neutrons and electrons in ⁸⁰₃₅Br."
+ },
+ "q-cbse-11-ch02-06": {
+  "topicId": "cbse-11-ch02-t2.5",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "State Heisenberg's uncertainty principle. Why is it not noticed for a moving ball?"
+ },
+ "q-cbse-11-ch02-07": {
+  "topicId": "cbse-11-ch02-t2.6",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "How many radial and angular nodes does a 3p orbital have?"
+ },
+ "q-cbse-11-ch02-08": {
+  "topicId": "cbse-11-ch02-t2.3",
+  "correctOption": null,
+  "type": "numerical",
+  "marks": 3,
+  "question": "Calculate the energy of one photon of yellow light of wavelength 580 nm. (h = 6.626 × 10⁻³⁴ J s, c = 3.0 × 10⁸ m s⁻¹)"
+ },
+ "q-cbse-11-ch02-09": {
+  "topicId": "cbse-11-ch02-t2.4",
+  "correctOption": null,
+  "type": "numerical",
+  "marks": 3,
+  "question": "Calculate the energy emitted when the electron of a hydrogen atom falls from n = 5 to n = 2, and the wavelength of the light."
+ },
+ "q-cbse-11-ch02-10": {
+  "topicId": "cbse-11-ch02-t2.2",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Describe the observations of Rutherford's α-particle scattering experiment and the conclusions drawn from them."
+ },
+ "q-cbse-11-ch02-11": {
+  "topicId": "cbse-11-ch02-t2.6",
+  "correctOption": null,
+  "type": "longAnswer",
+  "marks": 5,
+  "question": "State the Aufbau principle, Pauli exclusion principle and Hund's rule. Write the electronic configurations of N, Fe and Cu, and give the number of unpaired electrons in each."
+ },
+ "q-cbse-11-ch02-12": {
+  "topicId": "cbse-11-ch02-t2.3",
+  "correctOption": null,
+  "type": "caseBased",
+  "marks": 4,
+  "question": "When light of a suitable frequency falls on a clean potassium surface, electrons are emitted. Below a certain frequency no electrons come out however bright the light is.\n(a) What is this phenomenon called? (1)\n(b) What is the minimum frequency called? (1)\n(c) What happens to the number and to the kinetic energy of the emitted electrons if the intensity of light is increased? Explain using Einstein's equation. (2)"
+ },
+ "q-cbse-11-ch03-01": {
+  "topicId": "cbse-11-ch03-t3.7",
+  "correctOption": 2,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which element has the highest electronegativity?"
+ },
+ "q-cbse-11-ch03-02": {
+  "topicId": "cbse-11-ch03-t3.7",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "The correct order of size for the isoelectronic species is:"
+ },
+ "q-cbse-11-ch03-03": {
+  "topicId": "cbse-11-ch03-t3.4",
+  "correctOption": 0,
+  "type": "mcq",
+  "marks": 1,
+  "question": "The IUPAC temporary symbol for the element with atomic number 119 is:"
+ },
+ "q-cbse-11-ch03-04": {
+  "topicId": "cbse-11-ch03-t3.7",
+  "correctOption": 0,
+  "type": "assertionReason",
+  "marks": 1,
+  "question": "Assertion (A): The first ionisation enthalpy of nitrogen is higher than that of oxygen.\nReason (R): Nitrogen has a stable half-filled 2p³ configuration, while removing one electron from oxygen (2p⁴) relieves electron–electron repulsion."
+ },
+ "q-cbse-11-ch03-05": {
+  "topicId": "cbse-11-ch03-t3.3",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "State the modern periodic law. How many periods and groups are there in the long form of the periodic table?"
+ },
+ "q-cbse-11-ch03-06": {
+  "topicId": "cbse-11-ch03-t3.6",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Give the block, period and group of an element with configuration 1s² 2s² 2p⁶ 3s² 3p⁴."
+ },
+ "q-cbse-11-ch03-07": {
+  "topicId": "cbse-11-ch03-t3.2",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Why did Mendeléev leave gaps in his periodic table? Give one example."
+ },
+ "q-cbse-11-ch03-08": {
+  "topicId": "cbse-11-ch03-t3.7",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Explain why (a) cations are smaller than their parent atoms, (b) chlorine has a more negative electron gain enthalpy than fluorine, (c) noble gases have large positive electron gain enthalpies."
+ },
+ "q-cbse-11-ch03-09": {
+  "topicId": "cbse-11-ch03-t3.6",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "State three general characteristics of d-block elements."
+ },
+ "q-cbse-11-ch03-10": {
+  "topicId": "cbse-11-ch03-t3.7",
+  "correctOption": null,
+  "type": "longAnswer",
+  "marks": 5,
+  "question": "Explain how atomic radius, ionisation enthalpy and electronegativity vary across a period and down a group, with reasons. How do these trends relate to metallic character and the nature of oxides?"
+ },
+ "q-cbse-11-ch03-11": {
+  "topicId": "cbse-11-ch03-t3.7",
+  "correctOption": null,
+  "type": "caseBased",
+  "marks": 4,
+  "question": "A student compares Na, Mg, Al, Si, P, S and Cl of period 3. She notes that Na reacts vigorously with water while Cl₂ is a strong oxidising agent.\n(a) Which element has the largest atomic radius? (1)\n(b) Which has the highest first ionisation enthalpy? (1)\n(c) Why is Na a strong reducing agent while Cl is a strong oxidising agent? (2)"
+ },
+ "q-cbse-11-ch03-12": {
+  "topicId": "cbse-11-ch03-t3.6",
+  "correctOption": 2,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Elements of group 18 are called:"
+ },
+ "q-cbse-11-ch04-01": {
+  "topicId": "cbse-11-ch04-t4.6",
+  "correctOption": 2,
+  "type": "mcq",
+  "marks": 1,
+  "question": "The hybridisation of carbon in ethyne (C₂H₂) is:"
+ },
+ "q-cbse-11-ch04-02": {
+  "topicId": "cbse-11-ch04-t4.4",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "The shape of the NH₃ molecule according to VSEPR theory is:"
+ },
+ "q-cbse-11-ch04-03": {
+  "topicId": "cbse-11-ch04-t4.8",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which species is paramagnetic?"
+ },
+ "q-cbse-11-ch04-04": {
+  "topicId": "cbse-11-ch04-t4.3",
+  "correctOption": 0,
+  "type": "assertionReason",
+  "marks": 1,
+  "question": "Assertion (A): BF₃ has zero dipole moment although the B–F bonds are polar.\nReason (R): In its symmetrical trigonal planar structure, the three bond dipoles cancel each other."
+ },
+ "q-cbse-11-ch04-05": {
+  "topicId": "cbse-11-ch04-t4.1",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Calculate the formal charge on the central oxygen atom of O₃ in its Lewis structure (one O=O and one O–O bond)."
+ },
+ "q-cbse-11-ch04-06": {
+  "topicId": "cbse-11-ch04-t4.5",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Distinguish between σ and π bonds (two points)."
+ },
+ "q-cbse-11-ch04-07": {
+  "topicId": "cbse-11-ch04-t4.9",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Why is H₂O a liquid while H₂S is a gas at room temperature?"
+ },
+ "q-cbse-11-ch04-08": {
+  "topicId": "cbse-11-ch04-t4.6",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Explain the formation of the PCl₅ molecule on the basis of hybridisation. Why are the axial bonds longer than the equatorial bonds?"
+ },
+ "q-cbse-11-ch04-09": {
+  "topicId": "cbse-11-ch04-t4.7",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Using MO theory, write the electronic configuration of N₂ and calculate its bond order. Is N₂ diamagnetic or paramagnetic?"
+ },
+ "q-cbse-11-ch04-10": {
+  "topicId": "cbse-11-ch04-t4.4",
+  "correctOption": null,
+  "type": "longAnswer",
+  "marks": 5,
+  "question": "State the main postulates of VSEPR theory. Predict the shapes of BeCl₂, BF₃, CH₄, NH₃ and H₂O and explain why the bond angle decreases from CH₄ to H₂O."
+ },
+ "q-cbse-11-ch04-11": {
+  "topicId": "cbse-11-ch04-t4.3",
+  "correctOption": null,
+  "type": "caseBased",
+  "marks": 4,
+  "question": "Bond order, bond length and bond enthalpy are related. For carbon–carbon bonds, C–C is 154 pm (348 kJ mol⁻¹), C=C 134 pm (610 kJ mol⁻¹) and C≡C 120 pm (835 kJ mol⁻¹).\n(a) How does bond length change as bond order increases? (1)\n(b) Which bond is the strongest? (1)\n(c) The two O–O bonds in ozone are of equal length (128 pm), between those of O–O and O=O. Explain. (2)"
+ },
+ "q-cbse-11-ch04-12": {
+  "topicId": "cbse-11-ch04-t4.2",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "An ionic bond is most likely to form between:"
+ },
+ "q-cbse-11-ch05-01": {
+  "topicId": "cbse-11-ch05-t5.1",
+  "correctOption": 2,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which of the following is NOT a state function?"
+ },
+ "q-cbse-11-ch05-02": {
+  "topicId": "cbse-11-ch05-t5.2",
+  "correctOption": 2,
+  "type": "mcq",
+  "marks": 1,
+  "question": "For the reaction N₂(g) + 3H₂(g) → 2NH₃(g), the relation between ΔH and ΔU is:"
+ },
+ "q-cbse-11-ch05-03": {
+  "topicId": "cbse-11-ch05-t5.6",
+  "correctOption": 0,
+  "type": "mcq",
+  "marks": 1,
+  "question": "A reaction has ΔH < 0 and ΔS > 0. It is:"
+ },
+ "q-cbse-11-ch05-04": {
+  "topicId": "cbse-11-ch05-t5.4",
+  "correctOption": 0,
+  "type": "assertionReason",
+  "marks": 1,
+  "question": "Assertion (A): The standard enthalpy of formation of O₂(g) is zero.\nReason (R): The standard enthalpy of formation of an element in its reference (most stable) state is taken as zero."
+ },
+ "q-cbse-11-ch05-05": {
+  "topicId": "cbse-11-ch05-t5.1",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Distinguish between an open, a closed and an isolated system with one example each."
+ },
+ "q-cbse-11-ch05-06": {
+  "topicId": "cbse-11-ch05-t5.2",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Classify as extensive or intensive: mass, temperature, volume, density."
+ },
+ "q-cbse-11-ch05-07": {
+  "topicId": "cbse-11-ch05-t5.2",
+  "correctOption": null,
+  "type": "numerical",
+  "marks": 2,
+  "question": "Two litres of an ideal gas at 10 atm expand isothermally against a constant external pressure of 1 atm until the volume is 10 L. Calculate the work done."
+ },
+ "q-cbse-11-ch05-08": {
+  "topicId": "cbse-11-ch05-t5.4",
+  "correctOption": null,
+  "type": "numerical",
+  "marks": 3,
+  "question": "Calculate the standard enthalpy of formation of CH₃OH(l) from: CH₃OH(l) + 3/2 O₂(g) → CO₂(g) + 2H₂O(l), ΔrH⊖ = −726 kJ mol⁻¹; C(graphite) + O₂(g) → CO₂(g), ΔcH⊖ = −393 kJ mol⁻¹; H₂(g) + ½O₂(g) → H₂O(l), ΔfH⊖ = −286 kJ mol⁻¹."
+ },
+ "q-cbse-11-ch05-09": {
+  "topicId": "cbse-11-ch05-t5.3",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "How are ΔU and ΔH measured experimentally? Name the apparatus used in each case."
+ },
+ "q-cbse-11-ch05-10": {
+  "topicId": "cbse-11-ch05-t5.6",
+  "correctOption": null,
+  "type": "longAnswer",
+  "marks": 5,
+  "question": "Define entropy and Gibbs energy. Derive the criterion of spontaneity in terms of ΔG and discuss the effect of temperature on the spontaneity of reactions for the four combinations of signs of ΔH and ΔS."
+ },
+ "q-cbse-11-ch05-11": {
+  "topicId": "cbse-11-ch05-t5.7",
+  "correctOption": null,
+  "type": "caseBased",
+  "marks": 4,
+  "question": "For the reaction 2NO₂(g) ⇌ N₂O₄(g) at 298 K, ΔG⊖ = −4.73 kJ mol⁻¹ (R = 8.314 J K⁻¹ mol⁻¹).\n(a) Is the forward reaction favoured under standard conditions? (1)\n(b) What is the value of ΔG at equilibrium? (1)\n(c) Calculate the equilibrium constant K at 298 K. (2)"
+ },
+ "q-cbse-11-ch05-12": {
+  "topicId": "cbse-11-ch05-t5.5",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Enthalpy of combustion of a substance is always:"
+ },
+ "q-cbse-11-ch06-01": {
+  "topicId": "cbse-11-ch06-t6.3",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "For the reaction N₂(g) + O₂(g) ⇌ 2NO(g), the expression for Kc is:"
+ },
+ "q-cbse-11-ch06-02": {
+  "topicId": "cbse-11-ch06-t6.11",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "The pH of a 1.0 × 10⁻³ M HCl solution is:"
+ },
+ "q-cbse-11-ch06-03": {
+  "topicId": "cbse-11-ch06-t6.10",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "The conjugate base of HSO₄⁻ is:"
+ },
+ "q-cbse-11-ch06-04": {
+  "topicId": "cbse-11-ch06-t6.8",
+  "correctOption": 0,
+  "type": "assertionReason",
+  "marks": 1,
+  "question": "Assertion (A): Increasing pressure increases the yield of ammonia in the Haber process.\nReason (R): Equilibrium shifts towards the side with fewer moles of gas when pressure is increased."
+ },
+ "q-cbse-11-ch06-05": {
+  "topicId": "cbse-11-ch06-t6.5",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Write Kp for CaCO₃(s) ⇌ CaO(s) + CO₂(g). Why are the solids not included?"
+ },
+ "q-cbse-11-ch06-06": {
+  "topicId": "cbse-11-ch06-t6.6",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "For a reaction K = 2 × 10⁻³ and the reaction quotient Q = 5 × 10⁻². In which direction will the reaction proceed?"
+ },
+ "q-cbse-11-ch06-07": {
+  "topicId": "cbse-11-ch06-t6.4",
+  "correctOption": null,
+  "type": "numerical",
+  "marks": 3,
+  "question": "For N₂(g) + 3H₂(g) ⇌ 2NH₃(g), Kc = 0.105 at 500 K. Calculate Kp (R = 0.0831 bar L mol⁻¹ K⁻¹)."
+ },
+ "q-cbse-11-ch06-08": {
+  "topicId": "cbse-11-ch06-t6.13",
+  "correctOption": null,
+  "type": "numerical",
+  "marks": 3,
+  "question": "The solubility product of AgCl at 298 K is 1.8 × 10⁻¹⁰. Calculate its solubility in mol L⁻¹."
+ },
+ "q-cbse-11-ch06-09": {
+  "topicId": "cbse-11-ch06-t6.12",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "What is a buffer solution? How does an acetic acid–sodium acetate buffer resist a change in pH when a little acid or base is added?"
+ },
+ "q-cbse-11-ch06-10": {
+  "topicId": "cbse-11-ch06-t6.11",
+  "correctOption": 2,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which of the following salts gives a basic aqueous solution?"
+ },
+ "q-cbse-11-ch06-11": {
+  "topicId": "cbse-11-ch06-t6.8",
+  "correctOption": null,
+  "type": "longAnswer",
+  "marks": 5,
+  "question": "State Le Chatelier's principle. Using N₂(g) + 3H₂(g) ⇌ 2NH₃(g), ΔH < 0, explain the effect of (a) adding H₂, (b) increasing pressure, (c) increasing temperature, (d) adding a catalyst, (e) adding an inert gas at constant volume."
+ },
+ "q-cbse-11-ch06-12": {
+  "topicId": "cbse-11-ch06-t6.11",
+  "correctOption": null,
+  "type": "caseBased",
+  "marks": 4,
+  "question": "Pure water ionises slightly: 2H₂O ⇌ H₃O⁺ + OH⁻. At 298 K, Kw = 1.0 × 10⁻¹⁴.\n(a) What is [H₃O⁺] in pure water at 298 K? (1)\n(b) What is the pH of a 0.01 M NaOH solution? (1)\n(c) Kw increases on heating. Is hot pure water acidic, basic or neutral? Explain. (2)"
+ },
+ "q-cbse-11-ch07-01": {
+  "topicId": "cbse-11-ch07-t7.3",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "The oxidation number of Cr in K₂Cr₂O₇ is:"
+ },
+ "q-cbse-11-ch07-02": {
+  "topicId": "cbse-11-ch07-t7.2",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "In Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s), the oxidising agent is:"
+ },
+ "q-cbse-11-ch07-03": {
+  "topicId": "cbse-11-ch07-t7.3",
+  "correctOption": 0,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which of the following is a disproportionation reaction?"
+ },
+ "q-cbse-11-ch07-04": {
+  "topicId": "cbse-11-ch07-t7.3",
+  "correctOption": 0,
+  "type": "assertionReason",
+  "marks": 1,
+  "question": "Assertion (A): Fluorine does not show disproportionation reactions.\nReason (R): Fluorine is the most electronegative element and cannot have a positive oxidation state."
+ },
+ "q-cbse-11-ch07-05": {
+  "topicId": "cbse-11-ch07-t7.1",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Identify the substance oxidised and the substance reduced in: CuO + H₂ → Cu + H₂O."
+ },
+ "q-cbse-11-ch07-06": {
+  "topicId": "cbse-11-ch07-t7.3",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Find the oxidation number of S in H₂SO₄ and of N in NH₄⁺."
+ },
+ "q-cbse-11-ch07-07": {
+  "topicId": "cbse-11-ch07-t7.4",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "What is the role of a salt bridge in an electrochemical cell?"
+ },
+ "q-cbse-11-ch07-08": {
+  "topicId": "cbse-11-ch07-t7.3",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Balance by the ion–electron method in acidic medium: MnO₄⁻ + Fe²⁺ → Mn²⁺ + Fe³⁺."
+ },
+ "q-cbse-11-ch07-09": {
+  "topicId": "cbse-11-ch07-t7.4",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Draw a labelled description of the Daniell cell. Which electrode is the anode and which reaction occurs there?"
+ },
+ "q-cbse-11-ch07-10": {
+  "topicId": "cbse-11-ch07-t7.3",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "In which compound does oxygen have an oxidation number of +2?"
+ },
+ "q-cbse-11-ch07-11": {
+  "topicId": "cbse-11-ch07-t7.3",
+  "correctOption": null,
+  "type": "longAnswer",
+  "marks": 5,
+  "question": "Define oxidation and reduction in terms of oxidation number. Balance the following by the oxidation-number method: Cr₂O₇²⁻ + SO₃²⁻ → Cr³⁺ + SO₄²⁻ (acidic medium). Identify the oxidising and reducing agents."
+ },
+ "q-cbse-11-ch07-12": {
+  "topicId": "cbse-11-ch07-t7.3",
+  "correctOption": null,
+  "type": "caseBased",
+  "marks": 4,
+  "question": "In a laboratory, a purple KMnO₄ solution is added drop by drop to an acidified FeSO₄ solution. The purple colour disappears until all Fe²⁺ is used up, after which a permanent pink colour appears.\n(a) What is the oxidation state of Mn in KMnO₄? (1)\n(b) Which species is oxidised? (1)\n(c) Why is no separate indicator needed, and why is HCl not used to acidify? (2)"
+ },
+ "q-cbse-11-ch08-01": {
+  "topicId": "cbse-11-ch08-t8.2",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "The hybridisation of the carbon atoms in benzene is:"
+ },
+ "q-cbse-11-ch08-02": {
+  "topicId": "cbse-11-ch08-t8.7",
+  "correctOption": 2,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which of the following is an electrophile?"
+ },
+ "q-cbse-11-ch08-03": {
+  "topicId": "cbse-11-ch08-t8.5",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "The IUPAC name of CH₃–CH(OH)–CH₃ is:"
+ },
+ "q-cbse-11-ch08-04": {
+  "topicId": "cbse-11-ch08-t8.7",
+  "correctOption": 0,
+  "type": "assertionReason",
+  "marks": 1,
+  "question": "Assertion (A): A tertiary carbocation is more stable than a primary carbocation.\nReason (R): Alkyl groups release electrons by inductive effect and hyperconjugation, dispersing the positive charge."
+ },
+ "q-cbse-11-ch08-05": {
+  "topicId": "cbse-11-ch08-t8.6",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Write the structures of the three chain isomers of C₅H₁₂."
+ },
+ "q-cbse-11-ch08-06": {
+  "topicId": "cbse-11-ch08-t8.7",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Distinguish between homolytic and heterolytic cleavage of a covalent bond."
+ },
+ "q-cbse-11-ch08-07": {
+  "topicId": "cbse-11-ch08-t8.8",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Which method would you use to purify (a) camphor, (b) aniline from water? Give reasons."
+ },
+ "q-cbse-11-ch08-08": {
+  "topicId": "cbse-11-ch08-t8.10",
+  "correctOption": null,
+  "type": "numerical",
+  "marks": 3,
+  "question": "On complete combustion, 0.246 g of an organic compound gave 0.198 g of CO₂ and 0.1014 g of H₂O. Find the percentage of C and H."
+ },
+ "q-cbse-11-ch08-09": {
+  "topicId": "cbse-11-ch08-t8.9",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "How is nitrogen detected in an organic compound by Lassaigne's test? Write the equations."
+ },
+ "q-cbse-11-ch08-10": {
+  "topicId": "cbse-11-ch08-t8.4",
+  "correctOption": 2,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which of the following is a heterocyclic aromatic compound?"
+ },
+ "q-cbse-11-ch08-11": {
+  "topicId": "cbse-11-ch08-t8.7",
+  "correctOption": null,
+  "type": "longAnswer",
+  "marks": 5,
+  "question": "Explain the inductive effect, resonance effect and hyperconjugation with one example each. How do they explain the stability order of carbocations 3° > 2° > 1° > CH₃⁺?"
+ },
+ "q-cbse-11-ch08-12": {
+  "topicId": "cbse-11-ch08-t8.8",
+  "correctOption": null,
+  "type": "caseBased",
+  "marks": 4,
+  "question": "A student separates the coloured components of an ink using a strip of filter paper dipped in a solvent. After some time the solvent front has moved 10 cm, and a blue spot has moved 6 cm from the starting line.\n(a) Name this technique. (1)\n(b) Calculate the Rf value of the blue component. (1)\n(c) What is the stationary phase here, and why do different components move different distances? (2)"
+ },
+ "q-cbse-11-ch09-01": {
+  "topicId": "cbse-11-ch09-t9.3",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "The major product of the addition of HBr to propene (no peroxide) is:"
+ },
+ "q-cbse-11-ch09-02": {
+  "topicId": "cbse-11-ch09-t9.5",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which of the following is aromatic?"
+ },
+ "q-cbse-11-ch09-03": {
+  "topicId": "cbse-11-ch09-t9.4",
+  "correctOption": 2,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which of the following is the most acidic?"
+ },
+ "q-cbse-11-ch09-04": {
+  "topicId": "cbse-11-ch09-t9.2",
+  "correctOption": 0,
+  "type": "assertionReason",
+  "marks": 1,
+  "question": "Assertion (A): Methane cannot be prepared by the Wurtz reaction.\nReason (R): The Wurtz reaction joins two alkyl groups and gives an alkane with an even number of carbon atoms (at least two)."
+ },
+ "q-cbse-11-ch09-05": {
+  "topicId": "cbse-11-ch09-t9.3",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "What is the peroxide (Kharasch) effect? Give the product of propene with HBr in the presence of peroxide."
+ },
+ "q-cbse-11-ch09-06": {
+  "topicId": "cbse-11-ch09-t9.4",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "How is ethyne prepared from calcium carbide? Write the equation."
+ },
+ "q-cbse-11-ch09-07": {
+  "topicId": "cbse-11-ch09-t9.6",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Why should exposure to benzene and polynuclear hydrocarbons be avoided?"
+ },
+ "q-cbse-11-ch09-08": {
+  "topicId": "cbse-11-ch09-t9.5",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Write equations for the nitration, chlorination and Friedel–Crafts methylation of benzene, naming the catalysts."
+ },
+ "q-cbse-11-ch09-09": {
+  "topicId": "cbse-11-ch09-t9.2",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Draw the Newman projections of the staggered and eclipsed conformations of ethane. Which is more stable and why?"
+ },
+ "q-cbse-11-ch09-10": {
+  "topicId": "cbse-11-ch09-t9.1",
+  "correctOption": 2,
+  "type": "mcq",
+  "marks": 1,
+  "question": "The general formula of alkynes is:"
+ },
+ "q-cbse-11-ch09-11": {
+  "topicId": "cbse-11-ch09-t9.3",
+  "correctOption": null,
+  "type": "longAnswer",
+  "marks": 5,
+  "question": "Write the structural formula of the alkene that on ozonolysis gives propanal and propanone, and name it. Write any three methods of preparation of alkenes with equations."
+ },
+ "q-cbse-11-ch09-12": {
+  "topicId": "cbse-11-ch09-t9.5",
+  "correctOption": null,
+  "type": "caseBased",
+  "marks": 4,
+  "question": "Toluene (methylbenzene) and nitrobenzene are both nitrated. Toluene reacts faster and gives mainly o- and p-nitrotoluene, while nitrobenzene reacts slowly and gives mainly m-dinitrobenzene.\n(a) Is –CH₃ activating or deactivating? (1)\n(b) Which kind of director is –NO₂? (1)\n(c) Explain the difference in reactivity and orientation. (2)"
+ },
+ "q-cbse-12-ch01-01": {
+  "topicId": "cbse-12-ch01-t1.2",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which concentration term does not change with temperature?"
+ },
+ "q-cbse-12-ch01-02": {
+  "topicId": "cbse-12-ch01-t1.6",
+  "correctOption": 2,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which of the following is NOT a colligative property?"
+ },
+ "q-cbse-12-ch01-03": {
+  "topicId": "cbse-12-ch01-t1.7",
+  "correctOption": 2,
+  "type": "mcq",
+  "marks": 1,
+  "question": "The van 't Hoff factor for K₂SO₄ assuming complete dissociation is:"
+ },
+ "q-cbse-12-ch01-04": {
+  "topicId": "cbse-12-ch01-t1.5",
+  "correctOption": 0,
+  "type": "assertionReason",
+  "marks": 1,
+  "question": "Assertion (A): A mixture of ethanol and acetone shows positive deviation from Raoult's law.\nReason (R): Acetone molecules break some of the hydrogen bonds between ethanol molecules, so the escaping tendency increases."
+ },
+ "q-cbse-12-ch01-05": {
+  "topicId": "cbse-12-ch01-t1.3",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "State Henry's law. Why are soft-drink bottles sealed under high pressure?"
+ },
+ "q-cbse-12-ch01-06": {
+  "topicId": "cbse-12-ch01-t1.6",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "What are isotonic solutions? Why does a blood cell swell in water (hypotonic)?"
+ },
+ "q-cbse-12-ch01-07": {
+  "topicId": "cbse-12-ch01-t1.6",
+  "correctOption": null,
+  "type": "numerical",
+  "marks": 3,
+  "question": "18 g of glucose (M = 180 g mol⁻¹) is dissolved in 1 kg of water. At what temperature will the water boil? (K_b for water = 0.52 K kg mol⁻¹, b.p. 373.15 K)"
+ },
+ "q-cbse-12-ch01-08": {
+  "topicId": "cbse-12-ch01-t1.6",
+  "correctOption": null,
+  "type": "numerical",
+  "marks": 3,
+  "question": "200 cm³ of an aqueous solution of a protein contains 1.26 g of the protein. Its osmotic pressure at 300 K is 2.57 × 10⁻³ bar. Calculate the molar mass of the protein (R = 0.083 L bar mol⁻¹ K⁻¹)."
+ },
+ "q-cbse-12-ch01-09": {
+  "topicId": "cbse-12-ch01-t1.5",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Distinguish between ideal and non-ideal solutions. What are azeotropes? Give one example of a minimum-boiling azeotrope."
+ },
+ "q-cbse-12-ch01-10": {
+  "topicId": "cbse-12-ch01-t1.4",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "The vapour pressures of pure liquids A and B are 450 and 700 mm Hg at 350 K. Find the composition of the liquid mixture if the total vapour pressure is 600 mm Hg."
+ },
+ "q-cbse-12-ch01-11": {
+  "topicId": "cbse-12-ch01-t1.6",
+  "correctOption": null,
+  "type": "longAnswer",
+  "marks": 5,
+  "question": "What are colligative properties? Derive the relation between relative lowering of vapour pressure and the molar mass of a non-volatile solute. Why is osmotic pressure the best method to find molar masses of proteins?"
+ },
+ "q-cbse-12-ch01-12": {
+  "topicId": "cbse-12-ch01-t1.6",
+  "correctOption": null,
+  "type": "caseBased",
+  "marks": 4,
+  "question": "In cold countries, ethylene glycol is added to the water in car radiators. In hilly areas, salt is spread on icy roads.\n(a) Which colligative property is used in both cases? (1)\n(b) Write the formula relating this property to molality. (1)\n(c) Why does 1 mol of NaCl lower the freezing point about twice as much as 1 mol of glucose? (2)"
+ },
+ "q-cbse-12-ch02-01": {
+  "topicId": "cbse-12-ch02-t2.2",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "In a galvanic cell, oxidation occurs at the:"
+ },
+ "q-cbse-12-ch02-02": {
+  "topicId": "cbse-12-ch02-t2.4",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "On dilution of a solution of a strong electrolyte:"
+ },
+ "q-cbse-12-ch02-03": {
+  "topicId": "cbse-12-ch02-t2.6",
+  "correctOption": 2,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which of the following is a secondary (rechargeable) battery?"
+ },
+ "q-cbse-12-ch02-04": {
+  "topicId": "cbse-12-ch02-t2.8",
+  "correctOption": 0,
+  "type": "assertionReason",
+  "marks": 1,
+  "question": "Assertion (A): Iron rusts faster near the sea coast.\nReason (R): Salt water contains ions that increase the conductivity of the water film, speeding up the electrochemical process of rusting."
+ },
+ "q-cbse-12-ch02-05": {
+  "topicId": "cbse-12-ch02-t2.2",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Write the cell representation of the Daniell cell and its standard emf."
+ },
+ "q-cbse-12-ch02-06": {
+  "topicId": "cbse-12-ch02-t2.7",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Write the electrode reactions of the H₂–O₂ fuel cell. Give one advantage of fuel cells."
+ },
+ "q-cbse-12-ch02-07": {
+  "topicId": "cbse-12-ch02-t2.3",
+  "correctOption": null,
+  "type": "numerical",
+  "marks": 3,
+  "question": "Calculate the emf of the cell Ni(s) | Ni²⁺(0.001 M) || Ag⁺(0.1 M) | Ag(s) at 298 K. E⊖cell = 1.05 V."
+ },
+ "q-cbse-12-ch02-08": {
+  "topicId": "cbse-12-ch02-t2.5",
+  "correctOption": null,
+  "type": "numerical",
+  "marks": 3,
+  "question": "A current of 1.5 A is passed through CuSO₄ solution for 10 minutes. Calculate the mass of copper deposited (Cu = 63.5 g mol⁻¹, F = 96500 C mol⁻¹)."
+ },
+ "q-cbse-12-ch02-09": {
+  "topicId": "cbse-12-ch02-t2.4",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "State Kohlrausch's law of independent migration of ions. Give two applications."
+ },
+ "q-cbse-12-ch02-10": {
+  "topicId": "cbse-12-ch02-t2.8",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Explain rusting of iron as an electrochemical process with reactions. Give two methods of preventing it."
+ },
+ "q-cbse-12-ch02-11": {
+  "topicId": "cbse-12-ch02-t2.3",
+  "correctOption": null,
+  "type": "longAnswer",
+  "marks": 5,
+  "question": "Write the Nernst equation for a cell and show how it gives the relation between E⊖cell and the equilibrium constant. Calculate Kc for Cu(s) + 2Ag⁺(aq) → Cu²⁺(aq) + 2Ag(s), E⊖cell = 0.46 V, and ΔrG⊖ for the reaction."
+ },
+ "q-cbse-12-ch02-12": {
+  "topicId": "cbse-12-ch02-t2.6",
+  "correctOption": null,
+  "type": "caseBased",
+  "marks": 4,
+  "question": "A car battery has six lead storage cells in series. During use (discharge) the density of the sulphuric acid falls; on charging it rises again.\n(a) What are the anode and cathode materials? (1)\n(b) Write the overall reaction during discharge. (1)\n(c) Why does the acid density fall during discharge, and what happens on charging? (2)"
+ },
+ "q-cbse-12-ch03-01": {
+  "topicId": "cbse-12-ch03-t3.3",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "The half-life of a first-order reaction is:"
+ },
+ "q-cbse-12-ch03-02": {
+  "topicId": "cbse-12-ch03-t3.2",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "The unit of the rate constant of a zero-order reaction is:"
+ },
+ "q-cbse-12-ch03-03": {
+  "topicId": "cbse-12-ch03-t3.4",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "A catalyst increases the rate of a reaction by:"
+ },
+ "q-cbse-12-ch03-04": {
+  "topicId": "cbse-12-ch03-t3.2",
+  "correctOption": 0,
+  "type": "assertionReason",
+  "marks": 1,
+  "question": "Assertion (A): The order of a reaction can be fractional.\nReason (R): Order is determined experimentally and need not equal the stoichiometric coefficients."
+ },
+ "q-cbse-12-ch03-05": {
+  "topicId": "cbse-12-ch03-t3.2",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Distinguish between order and molecularity of a reaction (two points)."
+ },
+ "q-cbse-12-ch03-06": {
+  "topicId": "cbse-12-ch03-t3.3",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "What is a pseudo first-order reaction? Give an example."
+ },
+ "q-cbse-12-ch03-07": {
+  "topicId": "cbse-12-ch03-t3.3",
+  "correctOption": null,
+  "type": "numerical",
+  "marks": 3,
+  "question": "A first-order reaction has k = 1.15 × 10⁻³ s⁻¹. How long will 5 g of the reactant take to reduce to 3 g?"
+ },
+ "q-cbse-12-ch03-08": {
+  "topicId": "cbse-12-ch03-t3.4",
+  "correctOption": null,
+  "type": "numerical",
+  "marks": 3,
+  "question": "The rate constant of a reaction doubles when temperature rises from 298 K to 308 K. Calculate the activation energy (R = 8.314 J K⁻¹ mol⁻¹)."
+ },
+ "q-cbse-12-ch03-09": {
+  "topicId": "cbse-12-ch03-t3.5",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "According to collision theory, why do all collisions not lead to a reaction? Explain the terms threshold energy and orientation factor."
+ },
+ "q-cbse-12-ch03-10": {
+  "topicId": "cbse-12-ch03-t3.1",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "For 2N₂O₅ → 4NO₂ + O₂, write the rate in terms of each species. If N₂O₅ disappears at 0.02 mol L⁻¹ s⁻¹, at what rate is NO₂ formed?"
+ },
+ "q-cbse-12-ch03-11": {
+  "topicId": "cbse-12-ch03-t3.3",
+  "correctOption": null,
+  "type": "longAnswer",
+  "marks": 5,
+  "question": "Derive the integrated rate equation for a first-order reaction. Show that its half-life is independent of initial concentration, and that 99.9% completion takes about ten half-lives."
+ },
+ "q-cbse-12-ch03-12": {
+  "topicId": "cbse-12-ch03-t3.4",
+  "correctOption": null,
+  "type": "caseBased",
+  "marks": 4,
+  "question": "Food spoils faster in summer than in winter, and refrigerated milk stays fresh for days. A cook uses a pressure cooker to cook dal faster.\n(a) Which factor affecting reaction rate is illustrated? (1)\n(b) Write the Arrhenius equation. (1)\n(c) Explain, using activation energy, why a small rise in temperature greatly increases the rate. (2)"
+ },
+ "q-cbse-12-ch04-01": {
+  "topicId": "cbse-12-ch04-t4.1",
+  "correctOption": 2,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which of the following is NOT regarded as a transition element?"
+ },
+ "q-cbse-12-ch04-02": {
+  "topicId": "cbse-12-ch04-t4.3",
+  "correctOption": 3,
+  "type": "mcq",
+  "marks": 1,
+  "question": "The spin-only magnetic moment of Mn²⁺ (Z = 25) is about:"
+ },
+ "q-cbse-12-ch04-03": {
+  "topicId": "cbse-12-ch04-t4.5",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which lanthanoid commonly shows the +4 oxidation state?"
+ },
+ "q-cbse-12-ch04-04": {
+  "topicId": "cbse-12-ch04-t4.3",
+  "correctOption": 0,
+  "type": "assertionReason",
+  "marks": 1,
+  "question": "Assertion (A): Transition metals and their compounds are good catalysts.\nReason (R): They can adopt multiple oxidation states and form complexes, and provide surfaces where reactants bond and react."
+ },
+ "q-cbse-12-ch04-05": {
+  "topicId": "cbse-12-ch04-t4.3",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Why is Cu⁺ unstable in aqueous solution?"
+ },
+ "q-cbse-12-ch04-06": {
+  "topicId": "cbse-12-ch04-t4.5",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "What is lanthanoid contraction? Give one consequence."
+ },
+ "q-cbse-12-ch04-07": {
+  "topicId": "cbse-12-ch04-t4.4",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Write the ionic equation for the reaction of acidified KMnO₄ with Fe²⁺."
+ },
+ "q-cbse-12-ch04-08": {
+  "topicId": "cbse-12-ch04-t4.3",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Give reasons: (a) Transition metals form coloured ions. (b) Zn²⁺ salts are white. (c) Transition metals form interstitial compounds."
+ },
+ "q-cbse-12-ch04-09": {
+  "topicId": "cbse-12-ch04-t4.6",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Compare lanthanoids and actinoids with respect to (a) oxidation states, (b) radioactivity, (c) the size of the contraction."
+ },
+ "q-cbse-12-ch04-10": {
+  "topicId": "cbse-12-ch04-t4.4",
+  "correctOption": 0,
+  "type": "mcq",
+  "marks": 1,
+  "question": "The colour change when an acidified solution of K₂Cr₂O₇ is reduced is:"
+ },
+ "q-cbse-12-ch04-11": {
+  "topicId": "cbse-12-ch04-t4.4",
+  "correctOption": null,
+  "type": "longAnswer",
+  "marks": 5,
+  "question": "Describe the preparation of potassium dichromate from chromite ore with equations. What is the effect of increasing pH on a dichromate solution? Write the half-reaction of dichromate as an oxidant in acid and its reaction with iodide ions."
+ },
+ "q-cbse-12-ch04-12": {
+  "topicId": "cbse-12-ch04-t4.3",
+  "correctOption": null,
+  "type": "caseBased",
+  "marks": 4,
+  "question": "Among the first-row transition metals, manganese shows oxidation states from +2 to +7, while scandium shows only +3 and zinc only +2. Mn₂O₇ is a covalent green oil, whereas MnO is ionic.\n(a) Why does Mn show the largest number of oxidation states? (1)\n(b) Why does Zn show only +2? (1)\n(c) Why are higher oxides more covalent and acidic than lower ones? (2)"
+ },
+ "q-cbse-12-ch05-01": {
+  "topicId": "cbse-12-ch05-t5.2",
+  "correctOption": 2,
+  "type": "mcq",
+  "marks": 1,
+  "question": "The coordination number of Co in [Co(en)₃]³⁺ is:"
+ },
+ "q-cbse-12-ch05-02": {
+  "topicId": "cbse-12-ch05-t5.3",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "The IUPAC name of K₃[Fe(CN)₆] is:"
+ },
+ "q-cbse-12-ch05-03": {
+  "topicId": "cbse-12-ch05-t5.5",
+  "correctOption": 3,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which ligand produces the strongest crystal field?"
+ },
+ "q-cbse-12-ch05-04": {
+  "topicId": "cbse-12-ch05-t5.4",
+  "correctOption": 0,
+  "type": "assertionReason",
+  "marks": 1,
+  "question": "Assertion (A): Tetrahedral complexes do not show geometrical isomerism.\nReason (R): In a tetrahedron the relative positions of all four ligand sites are equivalent with respect to each other."
+ },
+ "q-cbse-12-ch05-05": {
+  "topicId": "cbse-12-ch05-t5.1",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "When excess AgNO₃ is added to a solution of CoCl₃·5NH₃, 2 moles of AgCl precipitate per mole. Write the formula of the complex."
+ },
+ "q-cbse-12-ch05-06": {
+  "topicId": "cbse-12-ch05-t5.2",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "What are ambidentate ligands? Give two examples."
+ },
+ "q-cbse-12-ch05-07": {
+  "topicId": "cbse-12-ch05-t5.6",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Explain synergic bonding in metal carbonyls."
+ },
+ "q-cbse-12-ch05-08": {
+  "topicId": "cbse-12-ch05-t5.5",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Using VBT, explain why [Ni(CN)₄]²⁻ is square planar and diamagnetic while [NiCl₄]²⁻ is tetrahedral and paramagnetic."
+ },
+ "q-cbse-12-ch05-09": {
+  "topicId": "cbse-12-ch05-t5.4",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Indicate the type of isomerism shown by: (a) [Co(NH₃)₅(NO₂)]Cl₂, (b) [Co(NH₃)₆][Cr(CN)₆], (c) [Co(NH₃)₅(SO₄)]Br."
+ },
+ "q-cbse-12-ch05-10": {
+  "topicId": "cbse-12-ch05-t5.7",
+  "correctOption": 2,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which metal is present in chlorophyll?"
+ },
+ "q-cbse-12-ch05-11": {
+  "topicId": "cbse-12-ch05-t5.5",
+  "correctOption": null,
+  "type": "longAnswer",
+  "marks": 5,
+  "question": "Explain crystal field splitting in an octahedral complex. On the basis of CFT, explain why [Fe(CN)₆]³⁻ is weakly paramagnetic while [FeF₆]³⁻ is strongly paramagnetic, and why [Ti(H₂O)₆]³⁺ is violet."
+ },
+ "q-cbse-12-ch05-12": {
+  "topicId": "cbse-12-ch05-t5.7",
+  "correctOption": null,
+  "type": "caseBased",
+  "marks": 4,
+  "question": "Hardness of water is estimated by titrating it with Na₂EDTA. In photography, unexposed AgBr is removed by washing the film with hypo. Gold is extracted by dissolving it in dilute NaCN in the presence of air.\n(a) What is the denticity of EDTA⁴⁻? (1)\n(b) Write the formula of the complex formed by hypo with AgBr. (1)\n(c) Name the gold complex formed and how gold is recovered from it. (2)"
+ },
+ "q-cbse-12-ch06-01": {
+  "topicId": "cbse-12-ch06-t6.7",
+  "correctOption": 3,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which alkyl halide reacts fastest by the SN2 mechanism?"
+ },
+ "q-cbse-12-ch06-02": {
+  "topicId": "cbse-12-ch06-t6.4",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "The reaction CH₃CH₂Br + NaI (dry acetone) → CH₃CH₂I + NaBr is called:"
+ },
+ "q-cbse-12-ch06-03": {
+  "topicId": "cbse-12-ch06-t6.6",
+  "correctOption": 2,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which has the highest boiling point?"
+ },
+ "q-cbse-12-ch06-04": {
+  "topicId": "cbse-12-ch06-t6.7",
+  "correctOption": 0,
+  "type": "assertionReason",
+  "marks": 1,
+  "question": "Assertion (A): Haloarenes are less reactive than haloalkanes towards nucleophilic substitution.\nReason (R): In haloarenes the C–X bond acquires partial double bond character due to resonance."
+ },
+ "q-cbse-12-ch06-05": {
+  "topicId": "cbse-12-ch06-t6.7",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Why does KCN give alkyl cyanides but AgCN gives isocyanides with alkyl halides?"
+ },
+ "q-cbse-12-ch06-06": {
+  "topicId": "cbse-12-ch06-t6.8",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Why is chloroform stored in closed dark-coloured bottles completely filled?"
+ },
+ "q-cbse-12-ch06-07": {
+  "topicId": "cbse-12-ch06-t6.7",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Predict the major alkene formed when 2-bromopentane is heated with alcoholic KOH. Name the rule."
+ },
+ "q-cbse-12-ch06-08": {
+  "topicId": "cbse-12-ch06-t6.7",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Compare SN1 and SN2 reactions on the basis of (a) kinetics, (b) mechanism, (c) stereochemistry, with an example of each."
+ },
+ "q-cbse-12-ch06-09": {
+  "topicId": "cbse-12-ch06-t6.7",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Write the equations for (a) Wurtz reaction, (b) Fittig reaction, (c) preparation of a Grignard reagent. Why must Grignard reagents be prepared under anhydrous conditions?"
+ },
+ "q-cbse-12-ch06-10": {
+  "topicId": "cbse-12-ch06-t6.1",
+  "correctOption": 2,
+  "type": "mcq",
+  "marks": 1,
+  "question": "C₆H₅CH₂Cl is classified as a:"
+ },
+ "q-cbse-12-ch06-11": {
+  "topicId": "cbse-12-ch06-t6.7",
+  "correctOption": null,
+  "type": "longAnswer",
+  "marks": 5,
+  "question": "Explain why haloarenes are much less reactive than haloalkanes towards nucleophilic substitution (give four reasons). How does the presence of –NO₂ groups at ortho and para positions change this reactivity? Why is chlorine, though deactivating, ortho/para directing?"
+ },
+ "q-cbse-12-ch06-12": {
+  "topicId": "cbse-12-ch06-t6.8",
+  "correctOption": null,
+  "type": "caseBased",
+  "marks": 4,
+  "question": "Freons were once widely used in refrigerators and aerosol cans. DDT was sprayed to kill malaria-carrying mosquitoes. Both are now restricted.\n(a) Give the formula of freon-12. (1)\n(b) Why is freon harmful although it is non-toxic? (1)\n(c) Give two reasons why the use of DDT was banned in many countries. (2)"
+ },
+ "q-cbse-12-ch07-01": {
+  "topicId": "cbse-12-ch07-t7.4",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which of the following is the most acidic?"
+ },
+ "q-cbse-12-ch07-02": {
+  "topicId": "cbse-12-ch07-t7.4",
+  "correctOption": 2,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Phenol on treatment with bromine water gives:"
+ },
+ "q-cbse-12-ch07-03": {
+  "topicId": "cbse-12-ch07-t7.6",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Anisole on heating with HI gives:"
+ },
+ "q-cbse-12-ch07-04": {
+  "topicId": "cbse-12-ch07-t7.4",
+  "correctOption": 0,
+  "type": "assertionReason",
+  "marks": 1,
+  "question": "Assertion (A): o-Nitrophenol is steam volatile while p-nitrophenol is not.\nReason (R): o-Nitrophenol has intramolecular hydrogen bonding, while p-nitrophenol has intermolecular hydrogen bonding."
+ },
+ "q-cbse-12-ch07-05": {
+  "topicId": "cbse-12-ch07-t7.4",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "How will you distinguish between 1°, 2° and 3° alcohols using the Lucas test?"
+ },
+ "q-cbse-12-ch07-06": {
+  "topicId": "cbse-12-ch07-t7.5",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "What is denatured alcohol? Why is methanol poisoning treated with ethanol?"
+ },
+ "q-cbse-12-ch07-07": {
+  "topicId": "cbse-12-ch07-t7.6",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Why can di-tert-butyl ether not be prepared by Williamson synthesis, and what forms instead with (CH₃)₃CBr and CH₃ONa?"
+ },
+ "q-cbse-12-ch07-08": {
+  "topicId": "cbse-12-ch07-t7.4",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Write the equations for (a) Kolbe's reaction, (b) Reimer–Tiemann reaction, (c) the cumene process for phenol."
+ },
+ "q-cbse-12-ch07-09": {
+  "topicId": "cbse-12-ch07-t7.4",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Give equations for preparing (a) propan-2-ol from propene, (b) a primary alcohol from methanal using a Grignard reagent, (c) a secondary alcohol from a ketone by reduction."
+ },
+ "q-cbse-12-ch07-10": {
+  "topicId": "cbse-12-ch07-t7.2",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "The IUPAC name of CH₃–O–C₂H₅ is:"
+ },
+ "q-cbse-12-ch07-11": {
+  "topicId": "cbse-12-ch07-t7.4",
+  "correctOption": null,
+  "type": "longAnswer",
+  "marks": 5,
+  "question": "Explain why phenol is more acidic than ethanol. How do –NO₂ and –CH₃ substituents affect the acidity of phenol? Arrange in increasing acid strength: propan-1-ol, 2,4,6-trinitrophenol, 3-nitrophenol, 3,5-dinitrophenol, phenol, 4-methylphenol."
+ },
+ "q-cbse-12-ch07-12": {
+  "topicId": "cbse-12-ch07-t7.5",
+  "correctOption": null,
+  "type": "caseBased",
+  "marks": 4,
+  "question": "In wine making, crushed grapes ferment in the absence of air. Sugar is first converted into glucose and fructose, which yeast changes into ethanol. If air gets in, the wine turns sour.\n(a) Name the two enzymes involved. (1)\n(b) Write the equation for fermentation of glucose. (1)\n(c) Why does the wine turn sour in air, and why does fermentation stop at about 14% alcohol? (2)"
+ },
+ "q-cbse-12-ch08-01": {
+  "topicId": "cbse-12-ch08-t8.4",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which reagent can distinguish between ethanal and propanone?"
+ },
+ "q-cbse-12-ch08-02": {
+  "topicId": "cbse-12-ch08-t8.4",
+  "correctOption": 2,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which compound undergoes the Cannizzaro reaction?"
+ },
+ "q-cbse-12-ch08-03": {
+  "topicId": "cbse-12-ch08-t8.9",
+  "correctOption": 3,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which is the strongest acid?"
+ },
+ "q-cbse-12-ch08-04": {
+  "topicId": "cbse-12-ch08-t8.4",
+  "correctOption": 0,
+  "type": "assertionReason",
+  "marks": 1,
+  "question": "Assertion (A): Aldehydes are more reactive than ketones in nucleophilic addition reactions.\nReason (R): In ketones two alkyl groups hinder the approach of the nucleophile and reduce the electrophilicity of the carbonyl carbon."
+ },
+ "q-cbse-12-ch08-05": {
+  "topicId": "cbse-12-ch08-t8.2",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Write the Rosenmund reduction and the Etard reaction."
+ },
+ "q-cbse-12-ch08-06": {
+  "topicId": "cbse-12-ch08-t8.4",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "What is the iodoform test? Which of these give it: ethanol, methanol, propanone, propanal?"
+ },
+ "q-cbse-12-ch08-07": {
+  "topicId": "cbse-12-ch08-t8.10",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Give one use each of methanoic acid, ethanoic acid and hexanedioic acid."
+ },
+ "q-cbse-12-ch08-08": {
+  "topicId": "cbse-12-ch08-t8.4",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Write the aldol condensation of ethanal and the Cannizzaro reaction of methanal. Why does methanal not undergo aldol condensation?"
+ },
+ "q-cbse-12-ch08-09": {
+  "topicId": "cbse-12-ch08-t8.9",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Why is a carboxylic acid a stronger acid than phenol, although phenoxide has more resonance structures?"
+ },
+ "q-cbse-12-ch08-10": {
+  "topicId": "cbse-12-ch08-t8.9",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "The Hell–Volhard–Zelinsky reaction converts a carboxylic acid into:"
+ },
+ "q-cbse-12-ch08-11": {
+  "topicId": "cbse-12-ch08-t8.4",
+  "correctOption": null,
+  "type": "longAnswer",
+  "marks": 5,
+  "question": "An organic compound A (C₈H₈O) gives an orange-red precipitate with 2,4-DNP and a yellow precipitate on heating with iodine and NaOH. It does not reduce Tollens' or Fehling's reagent and does not decolourise bromine water. On drastic oxidation with chromic acid it gives B (C₇H₆O₂). Identify A and B and write the reactions."
+ },
+ "q-cbse-12-ch08-12": {
+  "topicId": "cbse-12-ch08-t8.4",
+  "correctOption": null,
+  "type": "caseBased",
+  "marks": 4,
+  "question": "A student has three bottles: ethanal, propanone and benzaldehyde, with labels lost. She heats each with Fehling's solution, then with Tollens' reagent.\n(a) Which gives a reddish-brown precipitate with Fehling's solution? (1)\n(b) Which two give a silver mirror with Tollens' reagent? (1)\n(c) Name the reaction to reduce propanone to propane and write its reagents. (2)"
+ },
+ "q-cbse-12-ch09-01": {
+  "topicId": "cbse-12-ch09-t9.6",
+  "correctOption": 2,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which of the following is the strongest base in aqueous solution?"
+ },
+ "q-cbse-12-ch09-02": {
+  "topicId": "cbse-12-ch09-t9.6",
+  "correctOption": 0,
+  "type": "mcq",
+  "marks": 1,
+  "question": "The carbylamine test is given by:"
+ },
+ "q-cbse-12-ch09-03": {
+  "topicId": "cbse-12-ch09-t9.4",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Hoffmann bromamide degradation of benzamide gives:"
+ },
+ "q-cbse-12-ch09-04": {
+  "topicId": "cbse-12-ch09-t9.6",
+  "correctOption": 0,
+  "type": "assertionReason",
+  "marks": 1,
+  "question": "Assertion (A): Aniline on nitration gives a substantial amount of m-nitroaniline.\nReason (R): In the strongly acidic nitrating mixture, aniline is protonated to the anilinium ion, which is meta-directing."
+ },
+ "q-cbse-12-ch09-05": {
+  "topicId": "cbse-12-ch09-t9.4",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Why can aromatic primary amines not be prepared by the Gabriel phthalimide synthesis?"
+ },
+ "q-cbse-12-ch09-06": {
+  "topicId": "cbse-12-ch09-t9.5",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Why do primary amines have higher boiling points than tertiary amines of the same molar mass?"
+ },
+ "q-cbse-12-ch09-07": {
+  "topicId": "cbse-12-ch09-t9.9",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Write the coupling reaction of benzenediazonium chloride with phenol and name the product."
+ },
+ "q-cbse-12-ch09-08": {
+  "topicId": "cbse-12-ch09-t9.6",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "How is Hinsberg's reagent used to distinguish primary, secondary and tertiary amines?"
+ },
+ "q-cbse-12-ch09-09": {
+  "topicId": "cbse-12-ch09-t9.10",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Using diazonium salts, show how benzene can be converted into (a) fluorobenzene, (b) benzonitrile, (c) phenol (via aniline)."
+ },
+ "q-cbse-12-ch09-10": {
+  "topicId": "cbse-12-ch09-t9.3",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "The IUPAC name of CH₃NHC₂H₅ is:"
+ },
+ "q-cbse-12-ch09-11": {
+  "topicId": "cbse-12-ch09-t9.6",
+  "correctOption": null,
+  "type": "longAnswer",
+  "marks": 5,
+  "question": "Explain the basicity of amines: (a) why aliphatic amines are stronger bases than ammonia, (b) why aniline is weaker than ammonia, (c) why the order in water for ethylamines is (C₂H₅)₂NH > (C₂H₅)₃N > C₂H₅NH₂. How is the high reactivity of aniline controlled for monosubstitution?"
+ },
+ "q-cbse-12-ch09-12": {
+  "topicId": "cbse-12-ch09-t9.7",
+  "correctOption": null,
+  "type": "caseBased",
+  "marks": 4,
+  "question": "Aniline is dissolved in dilute HCl and cooled in ice. Sodium nitrite solution is added slowly. The solution is then divided: one part is warmed, another is mixed with cuprous cyanide, and a third is added to an alkaline solution of phenol giving a coloured compound.\n(a) Name the reaction carried out in the cold. (1)\n(b) Why is the mixture kept at 273–278 K? (1)\n(c) Name the products in the three parts. (2)"
+ },
+ "q-cbse-12-ch10-01": {
+  "topicId": "cbse-12-ch10-t10.1",
+  "correctOption": 2,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which of the following is a non-reducing sugar?"
+ },
+ "q-cbse-12-ch10-02": {
+  "topicId": "cbse-12-ch10-t10.4",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Deficiency of vitamin C causes:"
+ },
+ "q-cbse-12-ch10-03": {
+  "topicId": "cbse-12-ch10-t10.5",
+  "correctOption": 2,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which base is present in RNA but not in DNA?"
+ },
+ "q-cbse-12-ch10-04": {
+  "topicId": "cbse-12-ch10-t10.2",
+  "correctOption": 0,
+  "type": "assertionReason",
+  "marks": 1,
+  "question": "Assertion (A): Amino acids are high-melting, water-soluble solids.\nReason (R): They exist as dipolar zwitter ions with salt-like character."
+ },
+ "q-cbse-12-ch10-05": {
+  "topicId": "cbse-12-ch10-t10.1",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "What is invert sugar? Why is it so called?"
+ },
+ "q-cbse-12-ch10-06": {
+  "topicId": "cbse-12-ch10-t10.2",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "What is denaturation of proteins? Give two examples."
+ },
+ "q-cbse-12-ch10-07": {
+  "topicId": "cbse-12-ch10-t10.4",
+  "correctOption": null,
+  "type": "veryShort",
+  "marks": 2,
+  "question": "Classify vitamins A, B₁, C, D and K as fat-soluble or water-soluble. Why must water-soluble vitamins be taken regularly?"
+ },
+ "q-cbse-12-ch10-08": {
+  "topicId": "cbse-12-ch10-t10.1",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Give three reactions of glucose that cannot be explained by its open-chain structure, and explain how the cyclic structure accounts for them."
+ },
+ "q-cbse-12-ch10-09": {
+  "topicId": "cbse-12-ch10-t10.5",
+  "correctOption": null,
+  "type": "shortAnswer",
+  "marks": 3,
+  "question": "Distinguish between DNA and RNA (three points). What is a nucleoside?"
+ },
+ "q-cbse-12-ch10-10": {
+  "topicId": "cbse-12-ch10-t10.6",
+  "correctOption": 1,
+  "type": "mcq",
+  "marks": 1,
+  "question": "Which hormone keeps the blood glucose level within narrow limits by lowering it?"
+ },
+ "q-cbse-12-ch10-11": {
+  "topicId": "cbse-12-ch10-t10.2",
+  "correctOption": null,
+  "type": "longAnswer",
+  "marks": 5,
+  "question": "What are proteins? Describe the primary, secondary, tertiary and quaternary structures of proteins. Distinguish between fibrous and globular proteins with examples."
+ },
+ "q-cbse-12-ch10-12": {
+  "topicId": "cbse-12-ch10-t10.3",
+  "correctOption": null,
+  "type": "caseBased",
+  "marks": 4,
+  "question": "Digestion of food involves many reactions that take place at body temperature and neutral pH. The acid hydrolysis of sucrose has an activation energy of 6.22 kJ mol⁻¹, but with the enzyme sucrase it is only 2.15 kJ mol⁻¹.\n(a) What are enzymes chemically? (1)\n(b) How are enzymes usually named? Give one example. (1)\n(c) How does sucrase speed up the reaction, and what does \"specific\" mean for an enzyme? (2)"
+ }
+}

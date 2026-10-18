@@ -1,0 +1,325 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "laws-of-chemical-combination",
+      "type": "law",
+      "title": {"en": "Laws of chemical combination", "hi": "रासायनिक संयोजन के नियम"},
+      "sections": {
+        "whatIsIt": {"en": "Five laws describe how elements combine: conservation of mass, definite proportions, multiple proportions, Gay Lussac's law of gaseous volumes and Avogadro's law.", "hi": "पाँच नियम बताते हैं कि तत्व कैसे संयोजित होते हैं: द्रव्यमान संरक्षण, निश्चित अनुपात, गुणित अनुपात, गे-लुसैक का गैसीय आयतन नियम और ऐवोगैड्रो नियम।"},
+        "howItWorks": {"en": "Mass is neither created nor destroyed; a compound always has the same elements in the same mass ratio; when two elements form more than one compound, the masses of one that combine with a fixed mass of the other are in a simple whole-number ratio; gases react in simple volume ratios; equal volumes of gases at the same T and P contain equal numbers of molecules.", "hi": "द्रव्यमान न बनता है न नष्ट होता है; किसी यौगिक में सदैव वही तत्व उसी द्रव्यमान अनुपात में होते हैं; जब दो तत्व एक से अधिक यौगिक बनाते हैं तो दूसरे के निश्चित द्रव्यमान से संयोजित होने वाले पहले के द्रव्यमान सरल पूर्णांक अनुपात में होते हैं; गैसें सरल आयतन अनुपात में अभिक्रिया करती हैं; समान T और P पर गैसों के समान आयतनों में अणुओं की संख्या समान होती है।"},
+        "whyImportant": {"en": "These laws led Dalton to his atomic theory and are the basis of all chemical calculations.", "hi": "इन्हीं नियमों से डाल्टन ने अपना परमाणु सिद्धांत दिया और ये सभी रासायनिक गणनाओं का आधार हैं।"},
+        "realLifeUses": {"en": "Industries rely on fixed composition to make products of consistent quality, e.g. water always has H and O in 1 : 8 by mass.", "hi": "उद्योग एकसमान गुणवत्ता के उत्पाद बनाने के लिए निश्चित संघटन पर निर्भर करते हैं, जैसे जल में H और O सदैव द्रव्यमान से 1 : 8 में होते हैं।"},
+        "rememberForExam": {"en": "Illustrate multiple proportions with H₂O and H₂O₂ (16 g and 32 g of O with 2 g H, ratio 1 : 2) and Gay Lussac's law with H₂ + O₂ → H₂O volumes 2 : 1 : 2.", "hi": "गुणित अनुपात H₂O और H₂O₂ से समझाइए (2 g H के साथ 16 g और 32 g O, अनुपात 1 : 2) और गे-लुसैक नियम H₂ + O₂ → H₂O के आयतन 2 : 1 : 2 से।"}
+      },
+      "equations": ["2H₂(g) + O₂(g) → 2H₂O(g)  (volumes 2 : 1 : 2)"],
+      "relatedConceptIds": ["law-of-conservation-of-mass", "law-of-constant-proportions", "mole-concept"],
+      "sources": [{"sourceId": "ncert-11-en", "section": "1.5"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "mole-concept",
+      "type": "concept",
+      "title": {"en": "Mole concept and molar mass", "hi": "मोल संकल्पना और मोलर द्रव्यमान"},
+      "sections": {
+        "whatIsIt": {"en": "One mole is the amount of substance containing exactly 6.02214076 × 10²³ elementary entities (Avogadro constant, N_A); the mass of one mole in grams is the molar mass.", "hi": "एक मोल पदार्थ की वह मात्रा है जिसमें ठीक 6.02214076 × 10²³ मूल सत्ताएँ (ऐवोगैड्रो स्थिरांक, N_A) होती हैं; एक मोल का ग्राम में द्रव्यमान मोलर द्रव्यमान है।"},
+        "howItWorks": {"en": "Number of moles n = given mass ÷ molar mass = number of particles ÷ N_A. Molar mass is numerically equal to atomic, molecular or formula mass in u.", "hi": "मोलों की संख्या n = दिया गया द्रव्यमान ÷ मोलर द्रव्यमान = कणों की संख्या ÷ N_A। मोलर द्रव्यमान संख्यात्मक रूप से u में परमाणु, आणविक या सूत्र द्रव्यमान के बराबर होता है।"},
+        "whyImportant": {"en": "Chemists count particles by weighing; the mole links the mass we measure to the number of atoms or molecules that react.", "hi": "रसायनज्ञ तौलकर कणों की गिनती करते हैं; मोल मापे गए द्रव्यमान को अभिक्रिया करने वाले परमाणुओं या अणुओं की संख्या से जोड़ता है।"},
+        "realLifeUses": {"en": "Doses of medicines and quantities of fertilisers and raw materials are worked out using moles.", "hi": "औषधियों की खुराक और उर्वरकों तथा कच्चे माल की मात्राएँ मोलों से निकाली जाती हैं।"},
+        "rememberForExam": {"en": "Molar mass of H₂O = 18.02 g mol⁻¹, of NaCl = 58.5 g mol⁻¹; always convert mass to moles before using a balanced equation.", "hi": "H₂O का मोलर द्रव्यमान = 18.02 g mol⁻¹, NaCl का = 58.5 g mol⁻¹; संतुलित समीकरण प्रयोग करने से पहले सदैव द्रव्यमान को मोलों में बदलें।"}
+      },
+      "equations": ["n = m ÷ M", "N = n × N_A (N_A = 6.022 × 10²³ mol⁻¹)"],
+      "relatedConceptIds": ["molecular-and-formula-unit-mass", "stoichiometry"],
+      "sources": [{"sourceId": "ncert-11-en", "section": "1.8"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "stoichiometry",
+      "type": "concept",
+      "title": {"en": "Stoichiometry and limiting reagent", "hi": "रससमीकरणमिति और सीमांत अभिकर्मक"},
+      "sections": {
+        "whatIsIt": {"en": "Stoichiometry is the calculation of masses and volumes of reactants and products from a balanced equation; the reactant used up first is the limiting reagent.", "hi": "संतुलित समीकरण से अभिकारकों और उत्पादों के द्रव्यमानों और आयतनों की गणना रससमीकरणमिति है; जो अभिकारक पहले समाप्त होता है वह सीमांत अभिकर्मक है।"},
+        "howItWorks": {"en": "Convert given quantities to moles, use the mole ratio of the balanced equation, and convert back to mass or volume; the limiting reagent decides how much product forms. Concentrations are expressed as mass %, mole fraction, molarity (mol L⁻¹) and molality (mol kg⁻¹).", "hi": "दी गई मात्राओं को मोलों में बदलें, संतुलित समीकरण के मोल अनुपात का प्रयोग करें और फिर द्रव्यमान या आयतन में बदलें; सीमांत अभिकर्मक तय करता है कि कितना उत्पाद बनेगा। सांद्रता द्रव्यमान %, मोल-अंश, मोलरता (mol L⁻¹) और मोललता (mol kg⁻¹) में व्यक्त होती है।"},
+        "whyImportant": {"en": "It tells how much of each substance is needed or produced, avoiding waste and unwanted excess.", "hi": "यह बताती है कि प्रत्येक पदार्थ कितना चाहिए या बनेगा, जिससे अपव्यय और अनचाहा आधिक्य नहीं होता।"},
+        "realLifeUses": {"en": "Rocket fuels, combustion engines and chemical plants are designed using stoichiometric ratios.", "hi": "रॉकेट ईंधन, दहन इंजन और रासायनिक संयंत्र रससमीकरणमितीय अनुपातों से डिज़ाइन किए जाते हैं।"},
+        "rememberForExam": {"en": "Find the limiting reagent by comparing available mole ratios with the equation's ratio; molarity changes with temperature, molality does not.", "hi": "उपलब्ध मोल अनुपातों की समीकरण के अनुपात से तुलना कर सीमांत अभिकर्मक ज्ञात करें; मोलरता ताप के साथ बदलती है, मोललता नहीं।"}
+      },
+      "equations": ["CH₄ + 2O₂ → CO₂ + 2H₂O", "M = moles of solute ÷ volume of solution (L)", "m = moles of solute ÷ mass of solvent (kg)"],
+      "relatedConceptIds": ["mole-concept", "solutions-concentration"],
+      "sources": [{"sourceId": "ncert-11-en", "section": "1.10"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "quantum-theory-of-radiation",
+      "type": "concept",
+      "title": {"en": "Planck's quantum theory and the photoelectric effect", "hi": "प्लांक का क्वांटम सिद्धांत और प्रकाश-विद्युत प्रभाव"},
+      "sections": {
+        "whatIsIt": {"en": "Energy is emitted or absorbed not continuously but in small packets called quanta (photons for light), each with energy E = hν.", "hi": "ऊर्जा सतत रूप से नहीं बल्कि क्वांटा (प्रकाश के लिए फ़ोटॉन) कहलाने वाले छोटे पैकेटों में उत्सर्जित या अवशोषित होती है, प्रत्येक की ऊर्जा E = hν होती है।"},
+        "howItWorks": {"en": "Electromagnetic radiation has c = νλ. In the photoelectric effect, electrons are ejected from a metal only if the light's frequency exceeds the threshold ν₀; extra energy appears as kinetic energy: hν = hν₀ + ½mₑv². Line spectra show that atoms absorb and emit only definite energies.", "hi": "विद्युतचुंबकीय विकिरण में c = νλ। प्रकाश-विद्युत प्रभाव में धातु से इलेक्ट्रॉन तभी निकलते हैं जब प्रकाश की आवृत्ति देहली आवृत्ति ν₀ से अधिक हो; अतिरिक्त ऊर्जा गतिज ऊर्जा बनती है: hν = hν₀ + ½mₑv²। रेखा स्पेक्ट्रम दर्शाते हैं कि परमाणु केवल निश्चित ऊर्जाएँ अवशोषित और उत्सर्जित करते हैं।"},
+        "whyImportant": {"en": "It explained black-body radiation, the photoelectric effect and atomic spectra, which classical wave theory could not, and led to Bohr's model.", "hi": "इसने कृष्णिका विकिरण, प्रकाश-विद्युत प्रभाव और परमाण्विक स्पेक्ट्रम समझाए, जिन्हें शास्त्रीय तरंग सिद्धांत नहीं समझा पाया, और बोर मॉडल की ओर ले गया।"},
+        "realLifeUses": {"en": "Solar cells, light sensors and automatic doors work on the photoelectric effect.", "hi": "सौर सेल, प्रकाश संवेदक और स्वचालित दरवाज़े प्रकाश-विद्युत प्रभाव पर काम करते हैं।"},
+        "rememberForExam": {"en": "h = 6.626 × 10⁻³⁴ J s; brighter light (more photons) ejects more electrons but does not increase their kinetic energy — only higher frequency does.", "hi": "h = 6.626 × 10⁻³⁴ J s; अधिक तीव्र प्रकाश (अधिक फ़ोटॉन) अधिक इलेक्ट्रॉन निकालता है पर उनकी गतिज ऊर्जा नहीं बढ़ाता — केवल अधिक आवृत्ति ऐसा करती है।"}
+      },
+      "equations": ["E = hν", "c = νλ", "hν = hν₀ + ½mₑv²"],
+      "relatedConceptIds": ["bohr-model-hydrogen"],
+      "sources": [{"sourceId": "ncert-11-en", "section": "2.3"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "bohr-model-hydrogen",
+      "type": "concept",
+      "title": {"en": "Bohr's model of the hydrogen atom", "hi": "हाइड्रोजन परमाणु का बोर मॉडल"},
+      "sections": {
+        "whatIsIt": {"en": "Bohr proposed that the electron in a hydrogen atom moves in fixed circular orbits (stationary states) of definite energy and emits or absorbs energy only when it jumps between them.", "hi": "बोर ने प्रस्तावित किया कि हाइड्रोजन परमाणु में इलेक्ट्रॉन निश्चित ऊर्जा वाली निश्चित वृत्ताकार कक्षाओं (स्थायी अवस्थाओं) में घूमता है और केवल उनके बीच कूदने पर ऊर्जा उत्सर्जित या अवशोषित करता है।"},
+        "howItWorks": {"en": "Angular momentum is quantised, mvr = nh/2π. The energy of the nth orbit is Eₙ = −2.18 × 10⁻¹⁸ (1/n²) J and the radius is rₙ = 52.9 n² pm. A jump from nᵢ to n_f gives a photon of energy ΔE = hν, producing the Lyman, Balmer, Paschen, Brackett and Pfund series.", "hi": "कोणीय संवेग क्वांटित है, mvr = nh/2π। n वीं कक्षा की ऊर्जा Eₙ = −2.18 × 10⁻¹⁸ (1/n²) J और त्रिज्या rₙ = 52.9 n² pm है। nᵢ से n_f पर कूदने से ΔE = hν ऊर्जा का फ़ोटॉन निकलता है, जिससे लाइमन, बामर, पाशन, ब्रैकेट और फ़ुंड श्रेणियाँ बनती हैं।"},
+        "whyImportant": {"en": "It explained the line spectrum and stability of the hydrogen atom, though it fails for multi-electron atoms and ignores the dual nature of the electron.", "hi": "इसने हाइड्रोजन परमाणु के रेखा स्पेक्ट्रम और स्थायित्व को समझाया, यद्यपि यह बहु-इलेक्ट्रॉन परमाणुओं के लिए विफल है और इलेक्ट्रॉन की द्वैत प्रकृति की उपेक्षा करता है।"},
+        "realLifeUses": {"en": "Spectral lines are used to identify elements in stars and in street lamps.", "hi": "स्पेक्ट्रमी रेखाओं से तारों और सड़क बत्तियों में तत्वों की पहचान की जाती है।"},
+        "rememberForExam": {"en": "Balmer lines (n_f = 2) are in the visible region; energy is negative because the electron is bound; limitations: no explanation of multi-electron spectra, Zeeman and Stark effects.", "hi": "बामर रेखाएँ (n_f = 2) दृश्य क्षेत्र में हैं; ऊर्जा ऋणात्मक है क्योंकि इलेक्ट्रॉन बंधा है; सीमाएँ: बहु-इलेक्ट्रॉन स्पेक्ट्रम, ज़ीमान और स्टार्क प्रभाव की व्याख्या नहीं।"}
+      },
+      "equations": ["Eₙ = −2.18 × 10⁻¹⁸ (Z²/n²) J", "rₙ = 52.9 (n²/Z) pm", "ν̄ = 109677 (1/n₁² − 1/n₂²) cm⁻¹"],
+      "relatedConceptIds": ["quantum-theory-of-radiation", "quantum-mechanical-model", "atomic-models"],
+      "sources": [{"sourceId": "ncert-11-en", "section": "2.4"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "quantum-mechanical-model",
+      "type": "concept",
+      "title": {"en": "Quantum mechanical model, orbitals and quantum numbers", "hi": "क्वांटम यांत्रिक मॉडल, कक्षक और क्वांटम संख्याएँ"},
+      "sections": {
+        "whatIsIt": {"en": "Electrons have dual (wave–particle) nature; their position and momentum cannot both be known exactly, so the atom is described by orbitals — regions of high probability of finding an electron — labelled by quantum numbers n, l, m_l and m_s.", "hi": "इलेक्ट्रॉनों की द्वैत (तरंग–कण) प्रकृति होती है; इनकी स्थिति और संवेग दोनों सटीक रूप से नहीं जाने जा सकते, इसलिए परमाणु को कक्षकों — इलेक्ट्रॉन पाने की उच्च प्रायिकता वाले क्षेत्रों — से वर्णित किया जाता है, जिन्हें क्वांटम संख्याएँ n, l, m_l और m_s दर्शाती हैं।"},
+        "howItWorks": {"en": "de Broglie: λ = h/mv; Heisenberg: Δx·Δp ≥ h/4π. n gives the shell, l (0 to n−1) the subshell s, p, d, f, m_l (−l to +l) the orientation, and m_s (+½ or −½) the spin. Orbitals fill by the Aufbau principle (n + l rule), Pauli exclusion principle (no two electrons with all four numbers the same) and Hund's rule (pairing only after singly filling).", "hi": "डी-ब्रॉग्ली: λ = h/mv; हाइज़ेनबर्ग: Δx·Δp ≥ h/4π। n कोश, l (0 से n−1) उपकोश s, p, d, f, m_l (−l से +l) अभिविन्यास और m_s (+½ या −½) चक्रण बताते हैं। कक्षक आउफ़बाउ सिद्धांत (n + l नियम), पाउली अपवर्जन सिद्धांत (कोई दो इलेक्ट्रॉन चारों संख्याओं में समान नहीं) और हुंड नियम (एकल भरने के बाद ही युग्मन) से भरते हैं।"},
+        "whyImportant": {"en": "Electronic configurations from this model explain the periodic table, bonding and chemical properties.", "hi": "इस मॉडल से प्राप्त इलेक्ट्रॉनिक विन्यास आवर्त सारणी, आबंधन और रासायनिक गुणों को समझाते हैं।"},
+        "realLifeUses": {"en": "Electron microscopes use the wave nature of electrons to see objects far smaller than visible light can show.", "hi": "इलेक्ट्रॉन सूक्ष्मदर्शी इलेक्ट्रॉनों की तरंग प्रकृति से दृश्य प्रकाश की क्षमता से बहुत छोटी वस्तुएँ देखते हैं।"},
+        "rememberForExam": {"en": "Half-filled and full subshells are extra stable: Cr is 3d⁵4s¹ and Cu is 3d¹⁰4s¹; number of orbitals in a shell = n², maximum electrons = 2n².", "hi": "अर्धपूरित और पूर्णपूरित उपकोश अधिक स्थायी: Cr 3d⁵4s¹ और Cu 3d¹⁰4s¹; किसी कोश में कक्षकों की संख्या = n², अधिकतम इलेक्ट्रॉन = 2n²।"}
+      },
+      "equations": ["λ = h/mv", "Δx × Δp ≥ h/4π"],
+      "relatedConceptIds": ["bohr-model-hydrogen", "electron-distribution", "periodic-trends"],
+      "sources": [{"sourceId": "ncert-11-en", "section": "2.5–2.6"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "first-law-of-thermodynamics",
+      "type": "law",
+      "title": {"en": "First law of thermodynamics, internal energy and enthalpy", "hi": "ऊष्मागतिकी का प्रथम नियम, आंतरिक ऊर्जा और एन्थैल्पी"},
+      "sections": {
+        "whatIsIt": {"en": "Energy of an isolated system is constant; the change in internal energy of a system equals the heat given to it plus the work done on it: ΔU = q + w.", "hi": "विलगित तंत्र की ऊर्जा स्थिर रहती है; तंत्र की आंतरिक ऊर्जा में परिवर्तन उसे दी गई ऊष्मा और उस पर किए गए कार्य के योग के बराबर है: ΔU = q + w।"},
+        "howItWorks": {"en": "Systems are open, closed or isolated; U, H, p, V, T are state functions, while q and w are not. Pressure–volume work is w = −p_ex ΔV (reversible isothermal expansion of an ideal gas: w = −2.303 nRT log V_f/V_i). Enthalpy H = U + pV; at constant pressure ΔH = q_p and ΔH = ΔU + Δn_g RT. ΔU is measured in a bomb calorimeter (constant volume) and ΔH in a coffee-cup calorimeter (constant pressure).", "hi": "तंत्र खुले, बंद या विलगित होते हैं; U, H, p, V, T अवस्था फलन हैं, जबकि q और w नहीं। दाब–आयतन कार्य w = −p_ex ΔV है (आदर्श गैस का उत्क्रमणीय समतापी प्रसार: w = −2.303 nRT log V_f/V_i)। एन्थैल्पी H = U + pV; स्थिर दाब पर ΔH = q_p और ΔH = ΔU + Δn_g RT। ΔU बम कैलोरीमीटर (स्थिर आयतन) में और ΔH कप कैलोरीमीटर (स्थिर दाब) में मापा जाता है।"},
+        "whyImportant": {"en": "It accounts for every energy change in chemical reactions and engines.", "hi": "यह रासायनिक अभिक्रियाओं और इंजनों में हर ऊर्जा परिवर्तन का हिसाब रखता है।"},
+        "realLifeUses": {"en": "The calorie value of food and the heat output of fuels are found with calorimeters.", "hi": "भोजन का कैलोरी मान और ईंधनों से मिलने वाली ऊष्मा कैलोरीमीटर से ज्ञात की जाती है।"},
+        "rememberForExam": {"en": "Sign convention: work done on the system and heat absorbed by it are positive; for free expansion of an ideal gas w = 0; ΔH = ΔU when Δn_g = 0.", "hi": "चिह्न परिपाटी: तंत्र पर किया गया कार्य और उसके द्वारा अवशोषित ऊष्मा धनात्मक; आदर्श गैस के मुक्त प्रसार में w = 0; जब Δn_g = 0 तो ΔH = ΔU।"}
+      },
+      "equations": ["ΔU = q + w", "w = −p_ex ΔV", "ΔH = ΔU + Δn_g RT"],
+      "relatedConceptIds": ["hess-law-and-enthalpy", "entropy-and-gibbs-energy"],
+      "sources": [{"sourceId": "ncert-11-en", "section": "5.1–5.3"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "hess-law-and-enthalpy",
+      "type": "law",
+      "title": {"en": "Enthalpy of reaction and Hess's law", "hi": "अभिक्रिया एन्थैल्पी और हेस का नियम"},
+      "sections": {
+        "whatIsIt": {"en": "Hess's law of constant heat summation: if a reaction takes place in several steps, its enthalpy change is the sum of the enthalpy changes of the steps.", "hi": "हेस का स्थिर ऊष्मा योग नियम: यदि कोई अभिक्रिया अनेक चरणों में होती है तो उसका एन्थैल्पी परिवर्तन उन चरणों के एन्थैल्पी परिवर्तनों का योग होता है।"},
+        "howItWorks": {"en": "Thermochemical equations can be added, subtracted and multiplied like algebraic equations. Standard enthalpies of formation give ΔrH° = Σ ΔfH°(products) − Σ ΔfH°(reactants); bond enthalpies give ΔrH° = Σ bond enthalpies of reactants − Σ bond enthalpies of products. Special enthalpies include combustion, atomisation, bond dissociation, solution and lattice enthalpy (from the Born–Haber cycle).", "hi": "ऊष्मरासायनिक समीकरणों को बीजगणितीय समीकरणों की तरह जोड़ा, घटाया और गुणा किया जा सकता है। मानक संभवन एन्थैल्पी से ΔrH° = Σ ΔfH°(उत्पाद) − Σ ΔfH°(अभिकारक); आबंध एन्थैल्पी से ΔrH° = Σ अभिकारकों की आबंध एन्थैल्पी − Σ उत्पादों की आबंध एन्थैल्पी। विशेष एन्थैल्पियों में दहन, परमाणुकरण, आबंध वियोजन, विलयन और जालक एन्थैल्पी (बॉर्न–हाबर चक्र से) शामिल हैं।"},
+        "whyImportant": {"en": "It lets us find enthalpy changes that cannot be measured directly, such as the formation of CO from C and O₂.", "hi": "इससे ऐसे एन्थैल्पी परिवर्तन ज्ञात होते हैं जिन्हें सीधे नहीं मापा जा सकता, जैसे C और O₂ से CO का बनना।"},
+        "realLifeUses": {"en": "Fuel efficiencies and the energy released by explosives are calculated with Hess's law.", "hi": "ईंधन दक्षताएँ और विस्फोटकों द्वारा मुक्त ऊर्जा हेस नियम से परिकलित की जाती हैं।"},
+        "rememberForExam": {"en": "ΔfH° of an element in its standard state is zero; reversing an equation reverses the sign of ΔH.", "hi": "मानक अवस्था में किसी तत्व की ΔfH° शून्य होती है; समीकरण उलटने पर ΔH का चिह्न उलट जाता है।"}
+      },
+      "equations": ["ΔrH° = Σ ΔfH°(products) − Σ ΔfH°(reactants)", "C(graphite) + ½O₂(g) → CO(g)  ΔrH° = −110.5 kJ mol⁻¹"],
+      "relatedConceptIds": ["first-law-of-thermodynamics", "exothermic-endothermic"],
+      "sources": [{"sourceId": "ncert-11-en", "section": "5.4–5.5"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "entropy-and-gibbs-energy",
+      "type": "concept",
+      "title": {"en": "Entropy, Gibbs energy and spontaneity", "hi": "एन्ट्रॉपी, गिब्स ऊर्जा और स्वतःप्रवर्तिता"},
+      "sections": {
+        "whatIsIt": {"en": "Entropy (S) measures the randomness of a system; Gibbs energy G = H − TS decides whether a process is spontaneous at constant temperature and pressure.", "hi": "एन्ट्रॉपी (S) तंत्र की यादृच्छिकता का माप है; गिब्स ऊर्जा G = H − TS तय करती है कि स्थिर ताप और दाब पर कोई प्रक्रम स्वतःप्रवर्तित है या नहीं।"},
+        "howItWorks": {"en": "For a reversible process ΔS = q_rev/T. A process is spontaneous if ΔS_total > 0, or equivalently ΔG = ΔH − TΔS < 0. ΔG < 0 spontaneous, ΔG = 0 equilibrium, ΔG > 0 non-spontaneous. At equilibrium ΔG° = −RT ln K = −2.303 RT log K.", "hi": "उत्क्रमणीय प्रक्रम के लिए ΔS = q_rev/T। प्रक्रम स्वतःप्रवर्तित है यदि ΔS_कुल > 0, या समतुल्य रूप से ΔG = ΔH − TΔS < 0। ΔG < 0 स्वतःप्रवर्तित, ΔG = 0 साम्य, ΔG > 0 अस्वतःप्रवर्तित। साम्य पर ΔG° = −RT ln K = −2.303 RT log K।"},
+        "whyImportant": {"en": "It predicts which reactions can occur by themselves and how far they go.", "hi": "यह बताती है कि कौन-सी अभिक्रियाएँ स्वयं हो सकती हैं और कितनी दूर तक।"},
+        "realLifeUses": {"en": "Ice melting above 0 °C and dissolving of salts are explained by the balance of ΔH and TΔS.", "hi": "0 °C से ऊपर बर्फ़ का पिघलना और लवणों का घुलना ΔH और TΔS के संतुलन से समझाए जाते हैं।"},
+        "rememberForExam": {"en": "ΔH < 0 and ΔS > 0: always spontaneous; ΔH > 0 and ΔS < 0: never; otherwise temperature decides. Gas formation and dissolution usually increase entropy.", "hi": "ΔH < 0 और ΔS > 0: सदैव स्वतःप्रवर्तित; ΔH > 0 और ΔS < 0: कभी नहीं; अन्यथा ताप तय करता है। गैस बनना और विलयन प्रायः एन्ट्रॉपी बढ़ाते हैं।"}
+      },
+      "equations": ["ΔG = ΔH − TΔS", "ΔG° = −2.303 RT log K", "ΔS = q_rev / T"],
+      "relatedConceptIds": ["first-law-of-thermodynamics", "chemical-equilibrium"],
+      "sources": [{"sourceId": "ncert-11-en", "section": "5.6–5.7"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "chemical-equilibrium",
+      "type": "concept",
+      "title": {"en": "Chemical equilibrium and equilibrium constant", "hi": "रासायनिक साम्य और साम्य स्थिरांक"},
+      "sections": {
+        "whatIsIt": {"en": "Chemical equilibrium is the dynamic state in which the forward and backward reactions occur at equal rates, so concentrations stay constant; the law of chemical equilibrium relates these concentrations through the equilibrium constant K.", "hi": "रासायनिक साम्य वह गतिक अवस्था है जिसमें अग्र और पश्च अभिक्रियाएँ समान दर से होती हैं, इसलिए सांद्रताएँ स्थिर रहती हैं; रासायनिक साम्य का नियम इन सांद्रताओं को साम्य स्थिरांक K से संबंधित करता है।"},
+        "howItWorks": {"en": "For aA + bB ⇌ cC + dD, Kc = [C]ᶜ[D]ᵈ/[A]ᵃ[B]ᵇ; for gases Kp = Kc(RT)^Δn. Pure solids and liquids are left out (heterogeneous equilibria). Comparing the reaction quotient Q with K predicts direction: Q < K forward, Q > K backward, Q = K equilibrium. A large K (> 10³) means mostly products.", "hi": "aA + bB ⇌ cC + dD के लिए Kc = [C]ᶜ[D]ᵈ/[A]ᵃ[B]ᵇ; गैसों के लिए Kp = Kc(RT)^Δn। शुद्ध ठोस और द्रव छोड़ दिए जाते हैं (विषमांगी साम्य)। अभिक्रिया भागफल Q की K से तुलना दिशा बताती है: Q < K अग्र, Q > K पश्च, Q = K साम्य। बड़ा K (> 10³) का अर्थ अधिकतर उत्पाद।"},
+        "whyImportant": {"en": "It tells the extent of a reaction and how to maximise yield.", "hi": "यह अभिक्रिया की सीमा और लब्धि अधिकतम करने का तरीका बताता है।"},
+        "realLifeUses": {"en": "Oxygen transport by haemoglobin and the manufacture of ammonia depend on equilibrium.", "hi": "हीमोग्लोबिन द्वारा ऑक्सीजन परिवहन और अमोनिया का निर्माण साम्य पर निर्भर हैं।"},
+        "rememberForExam": {"en": "K changes only with temperature; reversing an equation gives 1/K; multiplying by n gives Kⁿ; catalysts do not change K.", "hi": "K केवल ताप से बदलता है; समीकरण उलटने पर 1/K; n से गुणा करने पर Kⁿ; उत्प्रेरक K नहीं बदलते।"}
+      },
+      "equations": ["Kc = [C]ᶜ[D]ᵈ / [A]ᵃ[B]ᵇ", "Kp = Kc (RT)^Δn", "N₂(g) + 3H₂(g) ⇌ 2NH₃(g)"],
+      "relatedConceptIds": ["le-chatelier-principle", "entropy-and-gibbs-energy"],
+      "sources": [{"sourceId": "ncert-11-en", "section": "6.1–6.7"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "le-chatelier-principle",
+      "type": "law",
+      "title": {"en": "Le Chatelier's principle", "hi": "ला-शातेलिए का सिद्धांत"},
+      "sections": {
+        "whatIsIt": {"en": "When a system at equilibrium is disturbed by a change in concentration, pressure or temperature, it shifts in the direction that counteracts the change.", "hi": "जब साम्य में किसी तंत्र को सांद्रता, दाब या ताप में परिवर्तन से विचलित किया जाता है, तो वह उस दिशा में खिसकता है जो परिवर्तन का प्रतिकार करे।"},
+        "howItWorks": {"en": "Adding a reactant or removing a product shifts equilibrium forward; increasing pressure favours the side with fewer gas moles; raising temperature favours the endothermic direction and changes K; adding an inert gas at constant volume has no effect; a catalyst only helps reach equilibrium faster.", "hi": "अभिकारक जोड़ने या उत्पाद हटाने से साम्य आगे खिसकता है; दाब बढ़ाने से कम गैस मोलों वाला पक्ष अनुकूल होता है; ताप बढ़ाने से ऊष्माशोषी दिशा अनुकूल होती है और K बदलता है; स्थिर आयतन पर अक्रिय गैस मिलाने का कोई प्रभाव नहीं; उत्प्रेरक केवल साम्य तक शीघ्र पहुँचाता है।"},
+        "whyImportant": {"en": "It is used to choose conditions that give the best yield in industry.", "hi": "इसका उपयोग उद्योग में सर्वोत्तम लब्धि देने वाली परिस्थितियाँ चुनने में होता है।"},
+        "realLifeUses": {"en": "In the Haber process for NH₃ (exothermic, fewer gas moles), high pressure and a moderate temperature with an iron catalyst are used.", "hi": "NH₃ के हाबर प्रक्रम (ऊष्माक्षेपी, कम गैस मोल) में आयरन उत्प्रेरक के साथ उच्च दाब और मध्यम ताप प्रयुक्त होते हैं।"},
+        "rememberForExam": {"en": "Only a temperature change alters the value of K; other changes alter the position of equilibrium, not K.", "hi": "केवल ताप परिवर्तन K का मान बदलता है; अन्य परिवर्तन साम्य की स्थिति बदलते हैं, K नहीं।"}
+      },
+      "equations": ["N₂(g) + 3H₂(g) ⇌ 2NH₃(g)  ΔH = −92.38 kJ mol⁻¹"],
+      "relatedConceptIds": ["chemical-equilibrium"],
+      "sources": [{"sourceId": "ncert-11-en", "section": "6.8"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "acids-bases-ph-equilibrium",
+      "type": "concept",
+      "title": {"en": "Ionic equilibrium: acids, bases, pH, buffers and solubility product", "hi": "आयनिक साम्य: अम्ल, क्षारक, pH, बफ़र और विलेयता गुणनफल"},
+      "sections": {
+        "whatIsIt": {"en": "Ionic equilibrium deals with the partial ionisation of weak electrolytes and of water, and with the dissolution of sparingly soluble salts. Acids and bases are defined by Arrhenius (H⁺/OH⁻ in water), Brönsted–Lowry (proton donor/acceptor) and Lewis (electron-pair acceptor/donor).", "hi": "आयनिक साम्य दुर्बल वैद्युत-अपघट्यों और जल के आंशिक आयनन तथा अल्प विलेय लवणों के घुलने से संबंधित है। अम्लों और क्षारकों की परिभाषाएँ आरेनियस (जल में H⁺/OH⁻), ब्रॉन्स्टेड–लौरी (प्रोटॉन दाता/ग्राही) और लूइस (इलेक्ट्रॉन-युग्म ग्राही/दाता) ने दीं।"},
+        "howItWorks": {"en": "Water ionises: Kw = [H⁺][OH⁻] = 1.0 × 10⁻¹⁴ at 298 K; pH = −log[H⁺] and pH + pOH = 14. Weak acids have Ka (and pKa), weak bases Kb, with Ka × Kb = Kw for a conjugate pair. Buffers (weak acid + its salt) resist pH change. The common-ion effect suppresses ionisation. For a sparingly soluble salt, Ksp is the product of ion concentrations; precipitation occurs when the ionic product exceeds Ksp.", "hi": "जल आयनित होता है: 298 K पर Kw = [H⁺][OH⁻] = 1.0 × 10⁻¹⁴; pH = −log[H⁺] और pH + pOH = 14। दुर्बल अम्लों के Ka (और pKa), दुर्बल क्षारकों के Kb होते हैं, संयुग्मी युग्म के लिए Ka × Kb = Kw। बफ़र (दुर्बल अम्ल + उसका लवण) pH परिवर्तन का प्रतिरोध करते हैं। सम-आयन प्रभाव आयनन को दबाता है। अल्प विलेय लवण के लिए Ksp आयन सांद्रताओं का गुणनफल है; आयनिक गुणनफल Ksp से अधिक होने पर अवक्षेपण होता है।"},
+        "whyImportant": {"en": "It explains acidity and basicity of solutions, salt hydrolysis, buffer action and selective precipitation in salt analysis.", "hi": "यह विलयनों की अम्लता और क्षारकता, लवण जल-अपघटन, बफ़र क्रिया और लवण विश्लेषण में चयनात्मक अवक्षेपण को समझाता है।"},
+        "realLifeUses": {"en": "Blood is buffered at pH about 7.4; group separation in salt analysis uses the common-ion effect and Ksp.", "hi": "रक्त pH लगभग 7.4 पर बफ़रित है; लवण विश्लेषण में समूह पृथक्करण सम-आयन प्रभाव और Ksp पर आधारित है।"},
+        "rememberForExam": {"en": "Henderson equation for an acidic buffer: pH = pKa + log([salt]/[acid]); salts of strong acid + weak base give acidic solutions.", "hi": "अम्लीय बफ़र के लिए हेंडरसन समीकरण: pH = pKa + log([लवण]/[अम्ल]); प्रबल अम्ल + दुर्बल क्षारक के लवण अम्लीय विलयन देते हैं।"}
+      },
+      "equations": ["Kw = [H⁺][OH⁻] = 1.0 × 10⁻¹⁴ (298 K)", "pH = −log[H⁺]", "pH = pKa + log([salt]/[acid])", "Ksp(AgCl) = [Ag⁺][Cl⁻]"],
+      "relatedConceptIds": ["acids-and-bases", "ph-scale", "chemical-equilibrium"],
+      "sources": [{"sourceId": "ncert-11-en", "section": "6.9–6.13"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "oxidation-number",
+      "type": "concept",
+      "title": {"en": "Oxidation number and balancing redox reactions", "hi": "ऑक्सीकरण संख्या और रेडॉक्स अभिक्रियाओं का संतुलन"},
+      "sections": {
+        "whatIsIt": {"en": "Oxidation number is the charge an atom would have if all its bonds were completely ionic, with electrons given to the more electronegative atom. Oxidation is an increase and reduction a decrease in oxidation number (loss and gain of electrons).", "hi": "ऑक्सीकरण संख्या वह आवेश है जो किसी परमाणु पर होता यदि उसके सभी आबंध पूर्णतः आयनिक होते और इलेक्ट्रॉन अधिक विद्युत-ऋणात्मक परमाणु को चले जाते। ऑक्सीकरण संख्या में वृद्धि ऑक्सीकरण और कमी अपचयन है (इलेक्ट्रॉनों की हानि और लाभ)।"},
+        "howItWorks": {"en": "Rules: elements in free state = 0; monoatomic ion = its charge; O is −2 (−1 in peroxides, +2 in OF₂); H is +1 (−1 in metal hydrides); F is always −1; the sum in a neutral molecule is zero and in an ion equals its charge. Redox reactions are balanced by the oxidation-number method or the half-reaction (ion–electron) method, adding H⁺/H₂O in acid or OH⁻/H₂O in base.", "hi": "नियम: मुक्त अवस्था में तत्व = 0; एकपरमाणुक आयन = उसका आवेश; O = −2 (परॉक्साइडों में −1, OF₂ में +2); H = +1 (धातु हाइड्राइडों में −1); F सदैव −1; उदासीन अणु में योग शून्य और आयन में उसके आवेश के बराबर। रेडॉक्स अभिक्रियाएँ ऑक्सीकरण-संख्या विधि या अर्ध-अभिक्रिया (आयन–इलेक्ट्रॉन) विधि से संतुलित की जाती हैं, अम्ल में H⁺/H₂O और क्षार में OH⁻/H₂O जोड़कर।"},
+        "whyImportant": {"en": "It identifies oxidising and reducing agents and makes balancing complex redox equations systematic.", "hi": "इससे ऑक्सीकारक और अपचायक पहचाने जाते हैं और जटिल रेडॉक्स समीकरणों का संतुलन क्रमबद्ध होता है।"},
+        "realLifeUses": {"en": "Redox titrations (KMnO₄, K₂Cr₂O₇), batteries, corrosion and metallurgy are all redox processes.", "hi": "रेडॉक्स अनुमापन (KMnO₄, K₂Cr₂O₇), बैटरियाँ, संक्षारण और धातुकर्म सभी रेडॉक्स प्रक्रम हैं।"},
+        "rememberForExam": {"en": "In a disproportionation reaction the same element is both oxidised and reduced, e.g. 2H₂O₂ → 2H₂O + O₂.", "hi": "असमानुपातन अभिक्रिया में एक ही तत्व ऑक्सीकृत और अपचित दोनों होता है, जैसे 2H₂O₂ → 2H₂O + O₂।"}
+      },
+      "equations": ["MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O", "Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s)"],
+      "relatedConceptIds": ["oxidation-reduction", "electrochemical-cells"],
+      "sources": [{"sourceId": "ncert-11-en", "section": "7.1–7.3"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "electrochemical-cells",
+      "type": "concept",
+      "title": {"en": "Electrochemical cells, electrode potential and electrolysis", "hi": "वैद्युतरासायनिक सेल, इलेक्ट्रोड विभव और विद्युत-अपघटन"},
+      "sections": {
+        "whatIsIt": {"en": "A galvanic (voltaic) cell converts the chemical energy of a spontaneous redox reaction into electrical energy; an electrolytic cell uses electricity to drive a non-spontaneous reaction.", "hi": "गैल्वेनी (वोल्टीय) सेल स्वतःप्रवर्तित रेडॉक्स अभिक्रिया की रासायनिक ऊर्जा को विद्युत ऊर्जा में बदलता है; विद्युत-अपघटनी सेल विद्युत से अस्वतःप्रवर्तित अभिक्रिया कराता है।"},
+        "howItWorks": {"en": "In the Daniell cell, Zn (anode, oxidation) and Cu (cathode, reduction) are joined by a salt bridge; E°cell = E°cathode − E°anode = 1.1 V. Standard electrode potentials are measured against the standard hydrogen electrode (0 V); a more negative E° means a stronger reducing agent. ΔG° = −nFE°cell. In electrolysis, Faraday's laws give the mass deposited: m = ZIt.", "hi": "डेनियल सेल में Zn (ऐनोड, ऑक्सीकरण) और Cu (कैथोड, अपचयन) लवण सेतु से जुड़े होते हैं; E°सेल = E°कैथोड − E°ऐनोड = 1.1 V। मानक इलेक्ट्रोड विभव मानक हाइड्रोजन इलेक्ट्रोड (0 V) के सापेक्ष मापे जाते हैं; अधिक ऋणात्मक E° का अर्थ प्रबल अपचायक। ΔG° = −nFE°सेल। विद्युत-अपघटन में फ़ैराडे के नियम जमा द्रव्यमान बताते हैं: m = ZIt।"},
+        "whyImportant": {"en": "It is the basis of batteries, fuel cells, corrosion protection and industrial production of metals.", "hi": "यह बैटरियों, ईंधन सेलों, संक्षारण से रक्षा और धातुओं के औद्योगिक उत्पादन का आधार है।"},
+        "realLifeUses": {"en": "Dry cells, lead storage batteries, H₂–O₂ fuel cells and electroplating all use electrochemistry.", "hi": "शुष्क सेल, लेड संचायक बैटरी, H₂–O₂ ईंधन सेल और विद्युतलेपन सभी वैद्युतरसायन पर आधारित हैं।"},
+        "rememberForExam": {"en": "Anode = oxidation, cathode = reduction (in both cell types); 1 F = 96487 C mol⁻¹ (≈ 96500 C).", "hi": "ऐनोड = ऑक्सीकरण, कैथोड = अपचयन (दोनों प्रकार के सेलों में); 1 F = 96487 C mol⁻¹ (≈ 96500 C)।"}
+      },
+      "equations": ["E°cell = E°cathode − E°anode", "ΔG° = −nFE°cell", "Zn + Cu²⁺ → Zn²⁺ + Cu  (E° = 1.1 V)"],
+      "relatedConceptIds": ["oxidation-number", "nernst-and-conductance"],
+      "sources": [{"sourceId": "ncert-11-en", "section": "7.4"}, {"sourceId": "ncert-12-en", "section": "2.1–2.2, 2.5–2.8"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "gas-laws",
+      "type": "law",
+      "title": {"en": "Gas laws and the ideal gas equation", "hi": "गैस नियम और आदर्श गैस समीकरण"},
+      "sections": {
+        "whatIsIt": {"en": "Boyle's law (p ∝ 1/V at constant T), Charles' law (V ∝ T at constant p), Gay Lussac's law (p ∝ T at constant V) and Avogadro's law (V ∝ n) combine into the ideal gas equation pV = nRT.", "hi": "बॉयल नियम (स्थिर T पर p ∝ 1/V), चार्ल्स नियम (स्थिर p पर V ∝ T), गे-लुसैक नियम (स्थिर V पर p ∝ T) और ऐवोगैड्रो नियम (V ∝ n) मिलकर आदर्श गैस समीकरण pV = nRT बनाते हैं।"},
+        "howItWorks": {"en": "Temperatures are in kelvin. Dalton's law of partial pressures: p_total = p₁ + p₂ + …. Real gases deviate from ideal behaviour at high pressure and low temperature; the compressibility factor Z = pV/nRT equals 1 for an ideal gas.", "hi": "ताप केल्विन में लिए जाते हैं। डाल्टन का आंशिक दाब नियम: p_कुल = p₁ + p₂ + …। वास्तविक गैसें उच्च दाब और निम्न ताप पर आदर्श व्यवहार से विचलित होती हैं; आदर्श गैस के लिए संपीड्यता गुणांक Z = pV/nRT = 1।"},
+        "whyImportant": {"en": "They predict how gases respond to changes in pressure, volume and temperature.", "hi": "ये बताते हैं कि गैसें दाब, आयतन और ताप में परिवर्तन पर कैसे व्यवहार करती हैं।"},
+        "realLifeUses": {"en": "Hot-air balloons (Charles' law), syringes and tyre pressure (Boyle's law) are everyday examples.", "hi": "गर्म हवा के गुब्बारे (चार्ल्स नियम), सिरिंज और टायर दाब (बॉयल नियम) दैनिक उदाहरण हैं।"},
+        "rememberForExam": {"en": "Formative only for 2026-27: qualitative treatment; R = 8.314 J K⁻¹ mol⁻¹.", "hi": "2026-27 में केवल रचनात्मक: गुणात्मक अध्ययन; R = 8.314 J K⁻¹ mol⁻¹।"}
+      },
+      "equations": ["pV = nRT", "p₁V₁/T₁ = p₂V₂/T₂"],
+      "relatedConceptIds": ["mole-concept"],
+      "sources": [{"sourceId": "cbse-chem-rm", "section": "States of Matter: Gaseous State"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "solutions-concentration",
+      "type": "concept",
+      "title": {"en": "Solutions, concentration terms and solubility", "hi": "विलयन, सांद्रता पद और विलेयता"},
+      "sections": {
+        "whatIsIt": {"en": "A solution is a homogeneous mixture of two or more components; its concentration can be given as mass %, volume %, ppm, mole fraction, molarity or molality.", "hi": "विलयन दो या अधिक घटकों का समांगी मिश्रण है; इसकी सांद्रता द्रव्यमान %, आयतन %, ppm, मोल-अंश, मोलरता या मोललता में दी जा सकती है।"},
+        "howItWorks": {"en": "Solubility of a solid depends on the nature of solute and solvent ('like dissolves like') and on temperature. Solubility of a gas in a liquid follows Henry's law, p = K_H x, and decreases with rising temperature.", "hi": "ठोस की विलेयता विलेय और विलायक की प्रकृति ('समान समान को घोलता है') तथा ताप पर निर्भर है। द्रव में गैस की विलेयता हेनरी नियम p = K_H x का पालन करती है और ताप बढ़ने पर घटती है।"},
+        "whyImportant": {"en": "Concentration terms let us prepare and compare solutions accurately.", "hi": "सांद्रता पदों से विलयन सही-सही बनाए और तुलना किए जाते हैं।"},
+        "realLifeUses": {"en": "Soft drinks are bottled under CO₂ pressure (Henry's law); scuba divers face 'bends' because N₂ dissolved at high pressure bubbles out.", "hi": "शीतल पेय CO₂ दाब में भरे जाते हैं (हेनरी नियम); गोताखोरों को 'बेंड्स' होता है क्योंकि उच्च दाब पर घुली N₂ बुलबुलों के रूप में निकलती है।"},
+        "rememberForExam": {"en": "Molality, mole fraction, mass % and ppm do not change with temperature; molarity does.", "hi": "मोललता, मोल-अंश, द्रव्यमान % और ppm ताप से नहीं बदलते; मोलरता बदलती है।"}
+      },
+      "equations": ["p = K_H x", "x_A + x_B = 1"],
+      "relatedConceptIds": ["concentration-of-solution", "stoichiometry", "raoult-law-and-colligative"],
+      "sources": [{"sourceId": "ncert-12-en", "section": "1.1–1.3"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "raoult-law-and-colligative",
+      "type": "law",
+      "title": {"en": "Raoult's law and colligative properties", "hi": "राउल्ट नियम और अणुसंख्य गुणधर्म"},
+      "sections": {
+        "whatIsIt": {"en": "Raoult's law: the partial vapour pressure of each volatile component is proportional to its mole fraction. Colligative properties depend only on the number of solute particles, not on their nature.", "hi": "राउल्ट नियम: प्रत्येक वाष्पशील घटक का आंशिक वाष्प दाब उसके मोल-अंश के समानुपाती होता है। अणुसंख्य गुणधर्म केवल विलेय कणों की संख्या पर निर्भर करते हैं, उनकी प्रकृति पर नहीं।"},
+        "howItWorks": {"en": "Ideal solutions obey Raoult's law (ΔmixH = 0, ΔmixV = 0); non-ideal solutions show positive or negative deviation and may form azeotropes. The four colligative properties are relative lowering of vapour pressure, elevation of boiling point (ΔTb = Kb m), depression of freezing point (ΔTf = Kf m) and osmotic pressure (π = CRT). They give molar masses; the van't Hoff factor i corrects for association or dissociation.", "hi": "आदर्श विलयन राउल्ट नियम का पालन करते हैं (ΔmixH = 0, ΔmixV = 0); अनादर्श विलयन धनात्मक या ऋणात्मक विचलन दर्शाते हैं और स्थिरक्वाथी बना सकते हैं। चार अणुसंख्य गुणधर्म हैं: वाष्प दाब का आपेक्षिक अवनमन, क्वथनांक उन्नयन (ΔTb = Kb m), हिमांक अवनमन (ΔTf = Kf m) और परासरण दाब (π = CRT)। इनसे मोलर द्रव्यमान ज्ञात होते हैं; वान्ट हॉफ़ गुणक i संगुणन या वियोजन के लिए संशोधन करता है।"},
+        "whyImportant": {"en": "They allow molar masses (even of proteins and polymers) to be found and explain everyday effects of dissolved substances.", "hi": "इनसे मोलर द्रव्यमान (प्रोटीनों और बहुलकों के भी) ज्ञात होते हैं और घुले पदार्थों के दैनिक प्रभाव समझ में आते हैं।"},
+        "realLifeUses": {"en": "Salt on icy roads lowers the freezing point; reverse osmosis desalinates sea water; IV fluids must be isotonic with blood.", "hi": "बर्फ़ीली सड़कों पर नमक हिमांक घटाता है; उत्क्रम परासरण समुद्री जल को अलवणित करता है; IV द्रव रक्त के समपरासरी होने चाहिए।"},
+        "rememberForExam": {"en": "For NaCl i ≈ 2 (dissociation); for ethanoic acid in benzene i ≈ 0.5 (dimerisation); osmotic pressure is preferred for macromolecules.", "hi": "NaCl के लिए i ≈ 2 (वियोजन); बेन्ज़ीन में एथेनॉइक अम्ल के लिए i ≈ 0.5 (द्वितयन); बृहद् अणुओं के लिए परासरण दाब को वरीयता।"}
+      },
+      "equations": ["p₁ = p₁° x₁", "ΔTb = i Kb m", "ΔTf = i Kf m", "π = i CRT"],
+      "relatedConceptIds": ["solutions-concentration"],
+      "sources": [{"sourceId": "ncert-12-en", "section": "1.4–1.7"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "nernst-and-conductance",
+      "type": "concept",
+      "title": {"en": "Nernst equation and conductance of electrolytes", "hi": "नेर्न्स्ट समीकरण और वैद्युत-अपघट्यों का चालकत्व"},
+      "sections": {
+        "whatIsIt": {"en": "The Nernst equation gives the electrode or cell potential at any concentration; conductance measures how well an electrolyte solution carries current.", "hi": "नेर्न्स्ट समीकरण किसी भी सांद्रता पर इलेक्ट्रोड या सेल विभव देता है; चालकत्व मापता है कि वैद्युत-अपघट्य विलयन कितनी अच्छी तरह धारा प्रवाहित करता है।"},
+        "howItWorks": {"en": "E_cell = E°cell − (0.059/n) log Q at 298 K; at equilibrium E_cell = 0 and E°cell = (0.059/n) log Kc. Conductivity κ = 1/ρ; molar conductivity Λm = κ × 1000/C (S cm² mol⁻¹). Λm increases on dilution: slowly for strong electrolytes (Λm = Λ°m − A√C) and steeply for weak ones. Kohlrausch's law: Λ°m = sum of limiting ionic conductivities; it gives Λ°m and degree of dissociation α = Λm/Λ°m of weak electrolytes.", "hi": "298 K पर E_सेल = E°सेल − (0.059/n) log Q; साम्य पर E_सेल = 0 और E°सेल = (0.059/n) log Kc। चालकता κ = 1/ρ; मोलर चालकता Λm = κ × 1000/C (S cm² mol⁻¹)। तनुकरण पर Λm बढ़ती है: प्रबल वैद्युत-अपघट्यों में धीरे (Λm = Λ°m − A√C) और दुर्बल में तेज़ी से। कोलराउश नियम: Λ°m = सीमांत आयनिक चालकताओं का योग; इससे दुर्बल वैद्युत-अपघट्यों के Λ°m और वियोजन मात्रा α = Λm/Λ°m ज्ञात होते हैं।"},
+        "whyImportant": {"en": "It links cell potential with concentration and equilibrium, and conductance with ionisation of electrolytes.", "hi": "यह सेल विभव को सांद्रता और साम्य से, तथा चालकत्व को वैद्युत-अपघट्यों के आयनन से जोड़ता है।"},
+        "realLifeUses": {"en": "pH meters and conductivity meters for checking water purity work on these principles.", "hi": "pH मीटर और जल की शुद्धता जाँचने वाले चालकता मीटर इन्हीं सिद्धांतों पर काम करते हैं।"},
+        "rememberForExam": {"en": "Conductivity decreases on dilution but molar conductivity increases; Λ°m of a weak electrolyte cannot be found by extrapolation — use Kohlrausch's law.", "hi": "तनुकरण पर चालकता घटती है पर मोलर चालकता बढ़ती है; दुर्बल वैद्युत-अपघट्य का Λ°m बहिर्वेशन से नहीं मिलता — कोलराउश नियम का प्रयोग करें।"}
+      },
+      "equations": ["E_cell = E°cell − (0.059/n) log Q", "E°cell = (0.059/n) log Kc", "Λm = κ × 1000 / C", "Λm = Λ°m − A√C"],
+      "relatedConceptIds": ["electrochemical-cells"],
+      "sources": [{"sourceId": "ncert-12-en", "section": "2.3–2.4"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "chemical-kinetics",
+      "type": "concept",
+      "title": {"en": "Rate of reaction, order and activation energy", "hi": "अभिक्रिया वेग, कोटि और सक्रियण ऊर्जा"},
+      "sections": {
+        "whatIsIt": {"en": "Chemical kinetics studies how fast reactions go; the rate is the change in concentration per unit time, and the rate law expresses it in terms of reactant concentrations raised to powers whose sum is the order.", "hi": "रासायनिक बलगतिकी अध्ययन करती है कि अभिक्रियाएँ कितनी तेज़ी से होती हैं; वेग प्रति इकाई समय सांद्रता में परिवर्तन है, और वेग नियम इसे अभिकारक सांद्रताओं की घातों के रूप में व्यक्त करता है जिनका योग कोटि है।"},
+        "howItWorks": {"en": "Rate depends on concentration, temperature and catalyst. Order is experimental (can be zero or fractional); molecularity is theoretical and only for elementary steps. Zero order: [R] = [R]₀ − kt, t½ = [R]₀/2k. First order: k = (2.303/t) log([R]₀/[R]), t½ = 0.693/k (independent of concentration). Arrhenius: k = A e^(−Ea/RT); the rate roughly doubles for a 10 K rise. Collision theory: only collisions with enough energy and proper orientation react. Catalysts lower Ea.", "hi": "वेग सांद्रता, ताप और उत्प्रेरक पर निर्भर है। कोटि प्रायोगिक है (शून्य या भिन्नात्मक हो सकती है); आण्विकता सैद्धांतिक है और केवल प्राथमिक चरणों के लिए। शून्य कोटि: [R] = [R]₀ − kt, t½ = [R]₀/2k। प्रथम कोटि: k = (2.303/t) log([R]₀/[R]), t½ = 0.693/k (सांद्रता से स्वतंत्र)। आरेनियस: k = A e^(−Ea/RT); 10 K वृद्धि पर वेग लगभग दोगुना। संघट्ट सिद्धांत: केवल पर्याप्त ऊर्जा और उचित अभिविन्यास वाले संघट्ट अभिक्रिया करते हैं। उत्प्रेरक Ea घटाते हैं।"},
+        "whyImportant": {"en": "It helps control reaction speed in industry, medicine shelf-life and food preservation.", "hi": "यह उद्योग, औषधियों की शेल्फ़-लाइफ़ और खाद्य परिरक्षण में अभिक्रिया की गति नियंत्रित करने में सहायक है।"},
+        "realLifeUses": {"en": "Refrigeration slows food spoilage (lower T); radioactive decay (first order) is used in carbon dating.", "hi": "प्रशीतन भोजन के ख़राब होने को धीमा करता है (कम T); रेडियोधर्मी क्षय (प्रथम कोटि) कार्बन काल-निर्धारण में प्रयुक्त होता है।"},
+        "rememberForExam": {"en": "Units of k: zero order mol L⁻¹ s⁻¹, first order s⁻¹; log(k₂/k₁) = (Ea/2.303R)(1/T₁ − 1/T₂).", "hi": "k की इकाइयाँ: शून्य कोटि mol L⁻¹ s⁻¹, प्रथम कोटि s⁻¹; log(k₂/k₁) = (Ea/2.303R)(1/T₁ − 1/T₂)।"}
+      },
+      "equations": ["k = (2.303/t) log([R]₀/[R])", "t½ = 0.693/k", "k = A e^(−Ea/RT)", "log(k₂/k₁) = (Ea/2.303R)(1/T₁ − 1/T₂)"],
+      "relatedConceptIds": ["chemical-equilibrium"],
+      "sources": [{"sourceId": "ncert-12-en", "section": "3.1–3.5"}],
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "adsorption-and-colloids",
+      "type": "concept",
+      "title": {"en": "Adsorption, catalysis and colloids", "hi": "अधिशोषण, उत्प्रेरण और कोलॉइड"},
+      "sections": {
+        "whatIsIt": {"en": "Adsorption is the accumulation of molecules at a surface; colloids are dispersions of particles 1–1000 nm in size in a medium.", "hi": "अधिशोषण सतह पर अणुओं का जमा होना है; कोलॉइड किसी माध्यम में 1–1000 nm आकार के कणों के परिक्षेपण हैं।"},
+        "howItWorks": {"en": "Physisorption uses van der Waals forces; chemisorption forms chemical bonds. Catalysts may be homogeneous (same phase) or heterogeneous (different phase); zeolites are shape-selective catalysts. Lyophilic sols are reversible and stable; lyophobic sols are irreversible and coagulate with electrolytes according to the Hardy–Schulze rule.", "hi": "भौतिक अधिशोषण वान्डरवाल्स बलों से होता है; रासायनिक अधिशोषण रासायनिक आबंध बनाता है। उत्प्रेरक समांगी (समान प्रावस्था) या विषमांगी (भिन्न प्रावस्था) हो सकते हैं; ज़िओलाइट आकृति-चयनात्मक उत्प्रेरक हैं। द्रवरागी सॉल उत्क्रमणीय और स्थायी; द्रवविरागी सॉल अनुत्क्रमणीय होते हैं और हार्डी–शुल्ज़े नियम के अनुसार वैद्युत-अपघट्यों से स्कंदित होते हैं।"},
+        "whyImportant": {"en": "Many industrial catalysts, purification steps and natural phenomena depend on surfaces and colloids.", "hi": "अनेक औद्योगिक उत्प्रेरक, शोधन चरण और प्राकृतिक परिघटनाएँ सतहों और कोलॉइडों पर निर्भर हैं।"},
+        "realLifeUses": {"en": "Gas masks, silica gel packets, delta formation and the cleansing action of soaps involve adsorption and colloids.", "hi": "गैस मास्क, सिलिका जेल की थैलियाँ, डेल्टा निर्माण और साबुन की सफ़ाई क्रिया में अधिशोषण और कोलॉइड शामिल हैं।"},
+        "rememberForExam": {"en": "Formative only for 2026-27: Al³⁺ > Ba²⁺ > Na⁺ for coagulating a negative sol.", "hi": "2026-27 में केवल रचनात्मक: ऋण सॉल के स्कंदन के लिए Al³⁺ > Ba²⁺ > Na⁺।"}
+      },
+      "equations": ["2KClO₃ → 2KCl + 3O₂ (MnO₂, 473–633 K)"],
+      "relatedConceptIds": ["colloids-and-suspensions", "tyndall-effect"],
+      "sources": [{"sourceId": "cbse-chem-rm", "section": "Surface Chemistry"}],
+      "review": {"status": "sourceChecked"}
+    }
+  ]
+}

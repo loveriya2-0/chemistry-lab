@@ -1,0 +1,501 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "note-cbse-9-ch05-t5.1",
+      "targetId": "cbse-9-ch05-t5.1",
+      "covers": [],
+      "definition": {
+        "en": "A mixture whose composition is uniform throughout is a homogeneous mixture (a solution). A mixture whose composition is not uniform, with parts that can be seen separately, is a heterogeneous mixture.",
+        "hi": "जिस मिश्रण का संघटन पूरे मिश्रण में एकसमान होता है, उसे समांगी मिश्रण (विलयन) कहते हैं। जिस मिश्रण का संघटन एकसमान नहीं होता और जिसके घटक अलग-अलग दिखाई देते हैं, उसे विषमांगी मिश्रण कहते हैं।"
+      },
+      "explanation": {
+        "en": "Stir sugar into water: the first sip and the last sip are equally sweet, so the mixture is the same everywhere — it is homogeneous. Stir sand into water: you can see the sand and it settles down, so it is heterogeneous. Vinegar and soda water are homogeneous; sand in water and oil with water are heterogeneous.",
+        "hi": "पानी में चीनी घोलें तो पहला और आख़िरी घूँट बराबर मीठा लगता है, अर्थात् मिश्रण हर जगह एक जैसा है — यह समांगी है। पानी में रेत मिलाएँ तो रेत अलग दिखती है और नीचे बैठ जाती है — यह विषमांगी है। सिरका और सोडा जल समांगी हैं; पानी में रेत और पानी के साथ तेल विषमांगी हैं।"
+      },
+      "keyPoints": [
+        {"en": "A solution is always homogeneous.", "hi": "विलयन सदैव समांगी होता है।"},
+        {"en": "Mixtures are also grouped by particle behaviour into solutions, suspensions and colloids.", "hi": "कणों के व्यवहार के आधार पर मिश्रणों को विलयन, निलंबन और कोलॉइड में भी बाँटा जाता है।"},
+        {"en": "A laser beam, filtration and leaving the mixture undisturbed help to tell these types apart.", "hi": "लेज़र किरण, निस्यंदन (छानना) और मिश्रण को कुछ समय स्थिर छोड़ देना — इनसे इन प्रकारों को पहचाना जा सकता है।"}
+      ],
+      "realLife": {
+        "en": "Most things we use are mixtures: air, sea water, milk, tea, alloys like brass. Knowing the type of mixture tells us how to separate it — for example, sugar from sugarcane juice or cells from a blood sample.",
+        "hi": "हमारे द्वारा उपयोग की जाने वाली अधिकांश वस्तुएँ मिश्रण हैं: वायु, समुद्री जल, दूध, चाय, पीतल जैसी मिश्रधातुएँ। मिश्रण का प्रकार जानकर ही हम तय करते हैं कि उसे कैसे पृथक करें — जैसे गन्ने के रस से चीनी या रक्त के नमूने से कोशिकाएँ।"
+      },
+      "examFocus": {
+        "en": "Classify given mixtures (air, milk, brass, smoke, muddy water, vinegar) as homogeneous or heterogeneous and give a reason.",
+        "hi": "दिए गए मिश्रणों (वायु, दूध, पीतल, धुआँ, गंदला पानी, सिरका) को कारण सहित समांगी या विषमांगी में वर्गीकृत करना।"
+      },
+      "commonMistakes": [
+        {"en": "Calling every liquid a solution — oil with water is a liquid mixture but it is heterogeneous.", "hi": "हर द्रव को विलयन मान लेना — पानी में तेल द्रव मिश्रण है, परंतु विषमांगी है।"}
+      ],
+      "formulas": [],
+      "practicalIds": ["cbse-9-p1"],
+      "conceptIds": ["mixture-types"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-9-en", "section": "5.1"}],
+      "memoryTricks": [
+        {"trick": {"en": "HOMO = same, HETERO = different", "hi": "होमो (HOMO) = समान, हेटेरो (HETERO) = भिन्न"}, "recall": {"en": "Homogeneous: the same composition everywhere (sugar in water). Heterogeneous: different parts you can see (sand in water).", "hi": "समांगी: हर जगह एक जैसा संघटन (पानी में चीनी)। विषमांगी: अलग-अलग भाग दिखाई देते हैं (पानी में रेत)।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Uniform composition → homogeneous; non-uniform, with parts seen separately → heterogeneous.", "hi": "एकसमान संघटन → समांगी; असमान संघटन, जिसके भाग अलग दिखें → विषमांगी।"},
+        "points": [
+          {"en": "A solution is always homogeneous.", "hi": "विलयन सदैव समांगी होता है।"},
+          {"en": "Vinegar and soda water are homogeneous; sand in water and oil with water are heterogeneous.", "hi": "सिरका और सोडा जल समांगी हैं; पानी में रेत और पानी के साथ तेल विषमांगी हैं।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-9-ch05-t5.2",
+      "targetId": "cbse-9-ch05-t5.2",
+      "covers": ["cbse-9-ch05-t5.2.1", "cbse-9-ch05-t5.2.2"],
+      "definition": {
+        "en": "A solution is a homogeneous mixture of a solute (the substance that dissolves) in a solvent (the substance that dissolves it). The concentration of a solution is the amount of solute dissolved in a given amount of solvent or solution.",
+        "hi": "विलयन, विलेय (घुलने वाला पदार्थ) और विलायक (घोलने वाला पदार्थ) का समांगी मिश्रण है। किसी दी गई मात्रा के विलायक या विलयन में घुले विलेय की मात्रा को विलयन की सांद्रता कहते हैं।"
+      },
+      "explanation": {
+        "en": "ORS works only when salt and sugar are added to water in the right proportion; a farmer's pesticide spray works only at the right strength. Concentration tells us this proportion as a number. In Class 9 we write it as a percentage: mass by mass (% m/m), mass by volume (% m/v) and volume by volume (% v/v).",
+        "hi": "ओ.आर.एस. तभी काम करता है जब पानी में नमक और चीनी सही अनुपात में मिलाए जाएँ; किसान का कीटनाशक घोल भी सही सांद्रता पर ही असर करता है। सांद्रता इस अनुपात को संख्या के रूप में बताती है। कक्षा 9 में हम इसे प्रतिशत में लिखते हैं: द्रव्यमान द्वारा द्रव्यमान (% m/m), द्रव्यमान द्वारा आयतन (% m/v) और आयतन द्वारा आयतन (% v/v)।"
+      },
+      "keyPoints": [
+        {"en": "% m/m: grams of solute in 100 g of solution — used for packaged foods, milk powder, alloys.", "hi": "% m/m: 100 g विलयन में विलेय के ग्राम — पैकेटबंद खाद्य, दूध पाउडर, मिश्रधातुओं के लिए।"},
+        {"en": "% m/v: grams of solute in 100 mL of solution — used for medicines, e.g. 5% glucose, 0.9% saline drip.", "hi": "% m/v: 100 mL विलयन में विलेय के ग्राम — दवाओं में, जैसे 5% ग्लूकोस, 0.9% सलाइन ड्रिप।"},
+        {"en": "% v/v: millilitres of a liquid solute in 100 mL of solution — used when two liquids are mixed, e.g. vinegar, perfumes.", "hi": "% v/v: 100 mL विलयन में द्रव विलेय के मिलीलीटर — जब दो द्रव मिलाए जाते हैं, जैसे सिरका, इत्र।"},
+        {"en": "Mass of solution = mass of solute + mass of solvent.", "hi": "विलयन का द्रव्यमान = विलेय का द्रव्यमान + विलायक का द्रव्यमान।"}
+      ],
+      "realLife": {
+        "en": "A hospital saline drip is 0.9% m/v sodium chloride (0.9 g salt in 100 mL); vinegar is about 5% v/v acetic acid; food labels show nutrients as percentages by mass.",
+        "hi": "अस्पताल की सलाइन ड्रिप 0.9% m/v सोडियम क्लोराइड होती है (100 mL में 0.9 g नमक); सिरके में लगभग 5% v/v ऐसीटिक अम्ल होता है; खाद्य पैकेटों पर पोषक तत्व द्रव्यमान प्रतिशत में लिखे होते हैं।"
+      },
+      "examFocus": {
+        "en": "Numericals: find the percentage, or find the mass/volume of solute from a given percentage. Always add solute and solvent to get the solution first.",
+        "hi": "आंकिक प्रश्न: प्रतिशत ज्ञात करना, या दिए गए प्रतिशत से विलेय का द्रव्यमान/आयतन ज्ञात करना। पहले विलेय और विलायक को जोड़कर विलयन की मात्रा निकालें।"
+      },
+      "commonMistakes": [
+        {"en": "Dividing by the mass of solvent instead of the mass of solution (10 g salt in 90 g water is 10%, not 11.1%).", "hi": "विलयन के बजाय विलायक के द्रव्यमान से भाग देना (90 g पानी में 10 g नमक 10% है, 11.1% नहीं)।"},
+        {"en": "Mixing units: % m/v needs grams of solute and millilitres of solution.", "hi": "इकाइयाँ मिला देना: % m/v में विलेय ग्राम में और विलयन मिलीलीटर में होना चाहिए।"}
+      ],
+      "formulas": [
+        "Mass by mass % = (mass of solute ÷ mass of solution) × 100",
+        "Mass by volume % = (mass of solute in g ÷ volume of solution in mL) × 100",
+        "Volume by volume % = (volume of solute ÷ volume of solution) × 100"
+      ],
+      "practicalIds": ["cbse-9-p1"],
+      "conceptIds": ["concentration-of-solution"],
+      "chemicalIds": ["sodium-chloride"],
+      "sources": [{"sourceId": "ncert-9-en", "section": "5.2–5.2.2"}],
+      "memoryTricks": [
+        {"trick": {"en": "Read the name left to right: first word = solute, second word = SOLUTION", "hi": "नाम को बाएँ से दाएँ पढ़ें: पहला शब्द = विलेय, दूसरा शब्द = विलयन"}, "recall": {"en": "\"Mass by volume\" = grams of solute per 100 mL of solution. The bottom of the fraction is always the solution (solute + solvent), never the solvent alone.", "hi": "\"द्रव्यमान द्वारा आयतन\" = 100 mL विलयन में विलेय के ग्राम। भिन्न के नीचे सदैव विलयन (विलेय + विलायक) आता है, अकेला विलायक कभी नहीं।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Concentration = amount of solute in a given amount of solvent or solution.", "hi": "सांद्रता = विलायक या विलयन की दी गई मात्रा में घुले विलेय की मात्रा।"},
+        "formula": "Mass by mass % = (mass of solute ÷ mass of solution) × 100",
+        "points": [
+          {"en": "Mass of solution = mass of solute + mass of solvent.", "hi": "विलयन का द्रव्यमान = विलेय का द्रव्यमान + विलायक का द्रव्यमान।"},
+          {"en": "% m/v needs grams of solute and millilitres of solution (e.g. 0.9% saline).", "hi": "% m/v में विलेय ग्राम में और विलयन मिलीलीटर में होता है (जैसे 0.9% सेलाइन)।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-9-ch05-t5.2.3",
+      "targetId": "cbse-9-ch05-t5.2.3",
+      "covers": [],
+      "definition": {
+        "en": "Solubility is the maximum amount of a solute that can dissolve in a fixed quantity of solvent (100 g or 100 mL) at a given temperature. A solution that cannot dissolve any more solute at that temperature is saturated.",
+        "hi": "किसी निश्चित ताप पर विलायक की निश्चित मात्रा (100 g या 100 mL) में घुल सकने वाली विलेय की अधिकतम मात्रा उसकी विलेयता कहलाती है। जो विलयन उस ताप पर और विलेय नहीं घोल सकता, वह संतृप्त विलयन है।"
+      },
+      "explanation": {
+        "en": "Keep adding salt to a glass of water and a point comes when no more dissolves — the solution is saturated. Warm it and more dissolves, because the solubility of most solids increases with temperature. Gases behave the other way: they dissolve less in warm water, which is why a warm soft drink goes flat faster.",
+        "hi": "पानी के गिलास में नमक डालते जाएँ तो एक समय ऐसा आता है जब और नमक नहीं घुलता — विलयन संतृप्त हो जाता है। गरम करने पर और नमक घुल जाता है, क्योंकि अधिकांश ठोसों की विलेयता ताप बढ़ने पर बढ़ती है। गैसें इसके विपरीत व्यवहार करती हैं: गरम पानी में वे कम घुलती हैं, इसीलिए गरम कोल्ड ड्रिंक जल्दी फीकी पड़ जाती है।"
+      },
+      "keyPoints": [
+        {"en": "Always state the temperature with a solubility value.", "hi": "विलेयता के मान के साथ ताप अवश्य बताएँ।"},
+        {"en": "A graph of solubility against temperature is a solubility curve.", "hi": "विलेयता और ताप के बीच का ग्राफ़ विलेयता वक्र कहलाता है।"},
+        {"en": "Different substances change solubility very differently: potassium nitrate rises steeply with temperature, sodium chloride hardly changes.", "hi": "भिन्न पदार्थों की विलेयता ताप के साथ बहुत भिन्न ढंग से बदलती है: पोटैशियम नाइट्रेट की विलेयता तेज़ी से बढ़ती है, सोडियम क्लोराइड की लगभग नहीं बदलती।"},
+        {"en": "Cooling a hot saturated solution makes the extra solute come out as crystals — the basis of crystallisation.", "hi": "गरम संतृप्त विलयन को ठंडा करने पर अतिरिक्त विलेय क्रिस्टल के रूप में बाहर आ जाता है — यही क्रिस्टलीकरण का आधार है।"}
+      ],
+      "realLife": {
+        "en": "Fish need dissolved oxygen; warm water holds less oxygen. Sugar syrup for sweets is made with hot water because more sugar dissolves when hot.",
+        "hi": "मछलियों को घुली हुई ऑक्सीजन चाहिए; गरम पानी में ऑक्सीजन कम घुलती है। मिठाई की चाशनी गरम पानी में बनाई जाती है क्योंकि गरम पानी में अधिक चीनी घुलती है।"
+      },
+      "examFocus": {
+        "en": "Read a solubility table or curve: find the mass needed to saturate a given mass of water, and predict what happens when a hot saturated solution cools.",
+        "hi": "विलेयता तालिका या वक्र पढ़ना: दिए गए पानी को संतृप्त करने के लिए आवश्यक द्रव्यमान ज्ञात करना, और गरम संतृप्त विलयन के ठंडा होने पर क्या होगा यह बताना।"
+      },
+      "commonMistakes": [
+        {"en": "Forgetting to scale: solubility is per 100 g of water, so for 50 g of water use half the value.", "hi": "अनुपात न लगाना: विलेयता 100 g पानी के लिए होती है, अतः 50 g पानी के लिए आधा मान लें।"}
+      ],
+      "formulas": ["Mass of solute to saturate m g of water = (solubility per 100 g) × m ÷ 100"],
+      "practicalIds": [],
+      "conceptIds": ["solubility"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-9-en", "section": "5.2.3, Activity 5.2, Table 5.4"}],
+      "quickRevision": {
+        "oneLine": {"en": "Solubility = the maximum solute that dissolves in 100 g (or 100 mL) of solvent at a given temperature.", "hi": "विलेयता = किसी निश्चित ताप पर 100 g (या 100 mL) विलायक में घुल सकने वाले विलेय की अधिकतम मात्रा।"},
+        "formula": "Mass of solute to saturate m g of water = (solubility per 100 g) × m ÷ 100",
+        "points": [
+          {"en": "A saturated solution cannot dissolve any more solute at that temperature.", "hi": "संतृप्त विलयन उस ताप पर और विलेय नहीं घोल सकता।"},
+          {"en": "Always state the temperature with a solubility value.", "hi": "विलेयता के मान के साथ ताप अवश्य बताएँ।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-9-ch05-t5.3",
+      "targetId": "cbse-9-ch05-t5.3",
+      "covers": ["cbse-9-ch05-t5.3.1"],
+      "definition": {
+        "en": "Crystallisation is the process of forming pure crystals from a saturated solution. A crystal is a solid whose particles are arranged in a regular geometric pattern.",
+        "hi": "संतृप्त विलयन से शुद्ध क्रिस्टल बनाने की प्रक्रिया क्रिस्टलीकरण कहलाती है। क्रिस्टल वह ठोस है जिसके कण एक नियमित ज्यामितीय क्रम में व्यवस्थित होते हैं।"
+      },
+      "explanation": {
+        "en": "The components of a homogeneous mixture cannot be seen or filtered apart, so we use differences in properties such as solubility and boiling point. In crystallisation, a hot saturated solution (for example, copper sulfate) is filtered to remove insoluble impurities and then cooled slowly. Solubility falls on cooling, so the pure substance separates as crystals while soluble impurities stay in the solution.",
+        "hi": "समांगी मिश्रण के घटक न दिखते हैं, न छनकर अलग होते हैं, इसलिए हम विलेयता और क्वथनांक जैसे गुणों के अंतर का उपयोग करते हैं। क्रिस्टलीकरण में गरम संतृप्त विलयन (जैसे कॉपर सल्फेट) को छानकर अघुलनशील अशुद्धियाँ हटाई जाती हैं और फिर धीरे-धीरे ठंडा किया जाता है। ठंडा होने पर विलेयता घटती है, इसलिए शुद्ध पदार्थ क्रिस्टल के रूप में अलग हो जाता है और घुलनशील अशुद्धियाँ विलयन में रह जाती हैं।"
+      },
+      "keyPoints": [
+        {"en": "Principle: the solubility of a substance changes with temperature.", "hi": "सिद्धांत: किसी पदार्थ की विलेयता ताप के साथ बदलती है।"},
+        {"en": "Slow cooling gives larger, well-shaped crystals; fast cooling gives small ones.", "hi": "धीरे ठंडा करने पर बड़े, सुडौल क्रिस्टल बनते हैं; जल्दी ठंडा करने पर छोटे क्रिस्टल।"},
+        {"en": "Used to purify solids and to separate a solid present in small quantity from another soluble solid.", "hi": "ठोसों के शोधन में तथा कम मात्रा में उपस्थित किसी ठोस को दूसरे विलेय ठोस से अलग करने में उपयोगी।"},
+        {"en": "Crystallisation is better than evaporation to dryness: evaporation leaves soluble impurities behind with the solid, and some solids decompose on strong heating.", "hi": "क्रिस्टलीकरण पूर्ण वाष्पन से बेहतर है: वाष्पन में घुलनशील अशुद्धियाँ ठोस के साथ ही रह जाती हैं और कुछ ठोस तेज़ गरम करने पर अपघटित हो जाते हैं।"}
+      ],
+      "realLife": {
+        "en": "Salt is obtained from sea water by evaporation and crystallisation; candy sugar (mishri), alum and many medicines are purified by crystallisation. Snowflakes and frost are natural crystals.",
+        "hi": "समुद्री जल से नमक वाष्पन और क्रिस्टलीकरण द्वारा प्राप्त किया जाता है; मिश्री, फिटकरी और अनेक दवाएँ क्रिस्टलीकरण से शुद्ध की जाती हैं। हिमकण और पाला प्राकृतिक क्रिस्टल हैं।"
+      },
+      "examFocus": {
+        "en": "Write the steps of crystallising copper sulfate in order, explain why the hot solution is filtered, and compare crystallisation with evaporation.",
+        "hi": "कॉपर सल्फेट के क्रिस्टलीकरण के चरण क्रम से लिखना, गरम विलयन को छानने का कारण बताना, और क्रिस्टलीकरण की तुलना वाष्पन से करना।"
+      },
+      "commonMistakes": [
+        {"en": "Saying evaporation and crystallisation are the same — evaporation removes all the solvent; crystallisation forms pure crystals from a saturated solution.", "hi": "वाष्पन और क्रिस्टलीकरण को एक ही मानना — वाष्पन में पूरा विलायक उड़ जाता है; क्रिस्टलीकरण में संतृप्त विलयन से शुद्ध क्रिस्टल बनते हैं।"}
+      ],
+      "formulas": ["Mass deposited on cooling = solubility at higher temperature − solubility at lower temperature (per 100 g water)"],
+      "practicalIds": [],
+      "conceptIds": ["crystallisation", "solubility"],
+      "chemicalIds": ["copper-sulfate-pentahydrate"],
+      "sources": [{"sourceId": "ncert-9-en", "section": "5.3.1, Activity 5.3"}],
+      "quickRevision": {
+        "oneLine": {"en": "Crystallisation: pure crystals form from a saturated solution as it cools.", "hi": "क्रिस्टलन: संतृप्त विलयन के ठंडा होने पर शुद्ध क्रिस्टल बनते हैं।"},
+        "formula": "Mass deposited on cooling = solubility at higher temperature − solubility at lower temperature (per 100 g water)",
+        "points": [
+          {"en": "Principle: solubility changes with temperature.", "hi": "सिद्धांत: ताप के साथ विलेयता बदलती है।"},
+          {"en": "Slow cooling → larger crystals; fast cooling → small crystals.", "hi": "धीरे ठंडा करने पर → बड़े क्रिस्टल; जल्दी ठंडा करने पर → छोटे क्रिस्टल।"},
+          {"en": "Better than evaporation to dryness, which leaves soluble impurities in the solid.", "hi": "यह सुखाने तक वाष्पन से बेहतर है, जिसमें घुली अशुद्धियाँ ठोस में ही रह जाती हैं।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-9-ch05-t5.3.2",
+      "targetId": "cbse-9-ch05-t5.3.2",
+      "covers": [],
+      "definition": {
+        "en": "Distillation is the process of heating a liquid mixture until the liquid with the lower boiling point vaporises, and then cooling the vapour back to a pure liquid (the distillate).",
+        "hi": "द्रव मिश्रण को तब तक गरम करना कि कम क्वथनांक वाला द्रव वाष्प बन जाए, और फिर उस वाष्प को ठंडा करके शुद्ध द्रव (आसुत) प्राप्त करना, आसवन कहलाता है।"
+      },
+      "explanation": {
+        "en": "Acetone boils at about 56 °C and water at 100 °C. On heating their mixture, acetone vaporises first; its vapour passes through a water-cooled condenser, turns back into liquid and is collected separately, while water stays in the flask. Distillation also recovers a solvent from a solution, for example pure water from salt water.",
+        "hi": "ऐसीटोन लगभग 56 °C पर और जल 100 °C पर उबलता है। इनके मिश्रण को गरम करने पर पहले ऐसीटोन वाष्प बनता है; उसकी वाष्प जल-शीतित संघनित्र से होकर पुनः द्रव बनती है और अलग पात्र में एकत्र होती है, जबकि जल फ्लास्क में रह जाता है। आसवन से विलयन में से विलायक भी वापस मिल जाता है, जैसे नमक के पानी से शुद्ध जल।"
+      },
+      "keyPoints": [
+        {"en": "Simple distillation separates miscible liquids whose boiling points differ by at least about 25 °C.", "hi": "सरल आसवन उन मिश्रणीय द्रवों को अलग करता है जिनके क्वथनांकों में कम-से-कम लगभग 25 °C का अंतर हो।"},
+        {"en": "If the difference is smaller, fractional distillation is used (e.g. separating crude petroleum into LPG, petrol, kerosene, diesel).", "hi": "अंतर इससे कम हो तो प्रभाजी आसवन किया जाता है (जैसे कच्चे पेट्रोलियम से एल.पी.जी., पेट्रोल, केरोसिन, डीज़ल अलग करना)।"},
+        {"en": "Apparatus: distillation flask, thermometer, condenser (water in at the bottom, out at the top), receiver.", "hi": "उपकरण: आसवन फ्लास्क, तापमापी, संघनित्र (जल नीचे से अंदर, ऊपर से बाहर), ग्राही पात्र।"}
+      ],
+      "realLife": {
+        "en": "Distilled water for batteries and labs; perfumes such as Kannauj's mitti ka ittar made by the traditional deg-bhapka distillation; petroleum refineries.",
+        "hi": "बैटरी और प्रयोगशाला के लिए आसुत जल; कन्नौज का मिट्टी का इत्र जैसे सुगंध पारंपरिक डेग-भपका आसवन विधि से; पेट्रोलियम रिफ़ाइनरी।"
+      },
+      "examFocus": {
+        "en": "Draw and label the distillation set-up; choose distillation vs fractional distillation from given boiling points; explain why acetone and water separate well.",
+        "hi": "आसवन उपकरण का नामांकित चित्र बनाना; दिए गए क्वथनांकों से आसवन या प्रभाजी आसवन चुनना; ऐसीटोन और जल के अच्छी तरह अलग होने का कारण बताना।"
+      },
+      "commonMistakes": [
+        {"en": "Choosing simple distillation for liquids with close boiling points (alcohol 78 °C and benzene 80 °C) — they need fractional distillation.", "hi": "निकट क्वथनांक वाले द्रवों (ऐल्कोहॉल 78 °C और बेंज़ीन 80 °C) के लिए सरल आसवन चुनना — इनके लिए प्रभाजी आसवन चाहिए।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["distillation"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-9-en", "section": "5.3.2"}],
+      "memoryTricks": [
+        {"trick": {"en": "Condenser water: LOW IN, HIGH OUT", "hi": "संघनित्र का पानी: नीचे से अंदर, ऊपर से बाहर"}, "recall": {"en": "Cold water enters the condenser at the bottom and leaves at the top.", "hi": "ठंडा पानी संघनित्र में नीचे से प्रवेश करता है और ऊपर से निकलता है।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Distillation: the lower-boiling liquid vaporises and its vapour is cooled back to a pure liquid (distillate).", "hi": "आसवन: कम क्वथनांक वाला द्रव वाष्पित होता है और उसकी वाष्प ठंडी होकर फिर शुद्ध द्रव (आसुत) बनती है।"},
+        "points": [
+          {"en": "Simple distillation: boiling points differ by at least about 25 °C.", "hi": "साधारण आसवन: क्वथनांकों में कम से कम लगभग 25 °C का अंतर हो।"},
+          {"en": "Smaller difference → fractional distillation (crude petroleum → LPG, petrol, kerosene, diesel).", "hi": "कम अंतर → प्रभाजी आसवन (कच्चा पेट्रोलियम → LPG, पेट्रोल, केरोसिन, डीज़ल)।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-9-ch05-t5.3.3",
+      "targetId": "cbse-9-ch05-t5.3.3",
+      "covers": [],
+      "definition": {
+        "en": "Paper chromatography separates the components of a mixture (such as the dyes in ink) because they move up a strip of paper with the solvent at different speeds.",
+        "hi": "कागज़ वर्णलेखन (क्रोमैटोग्राफी) किसी मिश्रण के घटकों (जैसे स्याही के रंजक) को अलग करता है, क्योंकि वे विलायक के साथ कागज़ की पट्टी पर अलग-अलग गति से ऊपर चढ़ते हैं।"
+      },
+      "explanation": {
+        "en": "Put a dot of black sketch-pen ink on a pencil line 2 cm above the bottom of a filter-paper strip and dip the end in water, keeping the water below the dot. As water rises, each dye moves a different distance — depending on how strongly it is attracted to the paper and how well it dissolves in the solvent — so the single black spot spreads into separate coloured spots.",
+        "hi": "फ़िल्टर पेपर की पट्टी पर नीचे से 2 cm ऊपर पेंसिल से रेखा खींचकर उस पर काले स्केच-पेन से बिंदु लगाएँ और पट्टी का सिरा पानी में डुबोएँ, पर पानी बिंदु से नीचे रहे। पानी ऊपर चढ़ने पर हर रंजक अलग दूरी तय करता है — इस पर निर्भर कि वह कागज़ से कितना चिपकता है और विलायक में कितना घुलता है — इसलिए एक काला धब्बा अलग-अलग रंगीन धब्बों में बँट जाता है।"
+      },
+      "keyPoints": [
+        {"en": "Chromatography means 'writing with colour' (Greek chroma = colour, graphein = to write).", "hi": "क्रोमैटोग्राफी का अर्थ है 'रंगों से लिखना' (यूनानी क्रोमा = रंग, ग्राफ़ीन = लिखना)।"},
+        {"en": "The line is drawn in pencil because pencil graphite does not dissolve and run.", "hi": "रेखा पेंसिल से खींची जाती है क्योंकि पेंसिल का ग्रेफ़ाइट घुलकर फैलता नहीं।"},
+        {"en": "Water does not suit every mixture; alcohol or a mixture of solvents may be needed (e.g. for leaf pigments).", "hi": "हर मिश्रण के लिए पानी उपयुक्त नहीं; ऐल्कोहॉल या विलायकों का मिश्रण लेना पड़ सकता है (जैसे पत्ती के वर्णकों के लिए)।"}
+      ],
+      "realLife": {
+        "en": "Separating colours in dyes and food colours, separating pigments of spinach leaves and flower petals, and testing for banned colours or drugs.",
+        "hi": "रंजकों और खाद्य रंगों के रंग अलग करना, पालक की पत्तियों और फूलों की पंखुड़ियों के वर्णक अलग करना, तथा प्रतिबंधित रंगों या दवाओं की जाँच।"
+      },
+      "examFocus": {
+        "en": "Describe the activity with a labelled diagram and explain why the solvent must stay below the spot.",
+        "hi": "नामांकित चित्र सहित क्रियाकलाप का वर्णन करना और बताना कि विलायक धब्बे से नीचे क्यों रहना चाहिए।"
+      },
+      "commonMistakes": [
+        {"en": "Dipping the spot into the solvent — the ink then just dissolves into the solvent instead of moving up the paper.", "hi": "धब्बे को विलायक में डुबो देना — तब स्याही कागज़ पर चढ़ने के बजाय विलायक में घुल जाती है।"}
+      ],
+      "formulas": [],
+      "practicalIds": ["cbse-9-p2"],
+      "conceptIds": ["paper-chromatography"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-9-en", "section": "5.3.3, Activity 5.5"}],
+      "memoryTricks": [
+        {"trick": {"en": "CHROMA + GRAPHY = colour + writing", "hi": "क्रोमा (CHROMA) + ग्राफ़ी (GRAPHY) = रंग + लिखना"}, "recall": {"en": "The coloured components \"write\" themselves at different heights on the paper because they move up with the solvent at different speeds.", "hi": "रंगीन घटक काग़ज़ पर अलग-अलग ऊँचाई पर स्वयं को \"लिख\" देते हैं, क्योंकि वे विलायक के साथ अलग-अलग गति से ऊपर चढ़ते हैं।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Paper chromatography separates dyes because they rise with the solvent at different speeds.", "hi": "काग़ज़ वर्णलेखन रंजकों को अलग करता है, क्योंकि वे विलायक के साथ अलग-अलग गति से ऊपर चढ़ते हैं।"},
+        "points": [
+          {"en": "Draw the start line in pencil — graphite does not dissolve and run.", "hi": "आरंभ रेखा पेंसिल से खींचें — ग्रेफ़ाइट घुलकर फैलता नहीं।"},
+          {"en": "Water does not suit every mixture; leaf pigments need alcohol or a solvent mixture.", "hi": "हर मिश्रण के लिए पानी उपयुक्त नहीं; पत्ती के वर्णकों के लिए ऐल्कोहॉल या विलायकों का मिश्रण चाहिए।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-9-ch05-t5.4",
+      "targetId": "cbse-9-ch05-t5.4",
+      "covers": ["cbse-9-ch05-t5.4.1"],
+      "definition": {
+        "en": "Liquids that do not mix and form separate layers are immiscible. They are separated with a separating funnel, using the difference in their densities.",
+        "hi": "जो द्रव आपस में नहीं मिलते और अलग परतें बनाते हैं, वे अमिश्रणीय द्रव हैं। इन्हें उनके घनत्वों के अंतर के आधार पर पृथक्कारी कीप से अलग किया जाता है।"
+      },
+      "explanation": {
+        "en": "Pour mustard oil and water into a separating funnel and let it stand. The lighter oil forms the upper layer and the denser water the lower layer. Open the stopcock to drain the water, discard the small mixed portion, and collect the oil separately. For heterogeneous mixtures we choose a method based on a property of one component — size, density, magnetism, or the ability to sublime.",
+        "hi": "पृथक्कारी कीप में सरसों का तेल और पानी डालकर स्थिर छोड़ दें। हल्का तेल ऊपरी परत और भारी पानी निचली परत बनाता है। स्टॉपकॉक खोलकर पानी निकाल लें, बीच का थोड़ा मिला हुआ भाग फेंक दें और तेल अलग एकत्र करें। विषमांगी मिश्रणों के लिए हम किसी घटक के गुण — आकार, घनत्व, चुंबकत्व या ऊर्ध्वपातन — के आधार पर विधि चुनते हैं।"
+      },
+      "keyPoints": [
+        {"en": "The denser liquid forms the lower layer and is drained out first.", "hi": "अधिक घनत्व वाला द्रव निचली परत बनाता है और पहले निकाला जाता है।"},
+        {"en": "Most gas mixtures are homogeneous; smoke, fog and dusty air are heterogeneous mixtures with a gas.", "hi": "अधिकांश गैस मिश्रण समांगी होते हैं; धुआँ, कोहरा और धूल भरी वायु गैस वाले विषमांगी मिश्रण हैं।"},
+        {"en": "Most solid–solid mixtures are heterogeneous, e.g. iron nails in sawdust (separated by a magnet).", "hi": "अधिकांश ठोस–ठोस मिश्रण विषमांगी होते हैं, जैसे बुरादे में लोहे की कीलें (चुंबक से अलग)।"}
+      ],
+      "realLife": {
+        "en": "Separating oil from water in kitchens and industry; removing oil spills from water.",
+        "hi": "रसोई और उद्योगों में पानी से तेल अलग करना; जल से तेल-रिसाव हटाना।"
+      },
+      "examFocus": {
+        "en": "Draw a separating funnel, state which layer is on top and why (densities), and list the steps in order.",
+        "hi": "पृथक्कारी कीप का चित्र बनाना, कौन-सी परत ऊपर रहेगी और क्यों (घनत्व) बताना, और चरण क्रम से लिखना।"
+      },
+      "commonMistakes": [
+        {"en": "Saying the liquid present in larger amount goes to the bottom — position depends on density, not amount.", "hi": "यह कहना कि अधिक मात्रा वाला द्रव नीचे जाएगा — स्थिति घनत्व पर निर्भर है, मात्रा पर नहीं।"}
+      ],
+      "formulas": [],
+      "practicalIds": ["cbse-9-p2"],
+      "conceptIds": ["mixture-types"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-9-en", "section": "5.4, 5.4.1, Activity 5.6"}],
+      "memoryTricks": [
+        {"trick": {"en": "Denser → Down → Drained first", "hi": "सघन → नीचे → पहले निकलता है"}, "recall": {"en": "In a separating funnel the denser liquid forms the lower layer, so it comes out first when the stopcock is opened.", "hi": "पृथक्कारी कीप में सघन द्रव निचली परत बनाता है, इसलिए स्टॉपकॉक खोलने पर वही पहले निकलता है।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Immiscible liquids form separate layers and are separated with a separating funnel.", "hi": "अमिश्रणीय द्रव अलग परतें बनाते हैं और पृथक्कारी कीप से अलग किए जाते हैं।"},
+        "points": [
+          {"en": "The denser liquid is the lower layer and is drained out first.", "hi": "सघन द्रव निचली परत होता है और पहले निकाला जाता है।"},
+          {"en": "Iron nails in sawdust are separated with a magnet.", "hi": "बुरादे में मिली लोहे की कीलें चुंबक से अलग की जाती हैं।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-9-ch05-t5.4.2",
+      "targetId": "cbse-9-ch05-t5.4.2",
+      "covers": [],
+      "definition": {
+        "en": "Sublimation is the change of a solid directly into vapour on heating (below its melting point), without becoming a liquid. The reverse change, vapour directly to solid, is deposition.",
+        "hi": "गरम करने पर (गलनांक से नीचे) किसी ठोस का द्रव बने बिना सीधे वाष्प में बदल जाना ऊर्ध्वपातन कहलाता है। इसका उलटा, वाष्प का सीधे ठोस बनना, निक्षेपण कहलाता है।"
+      },
+      "explanation": {
+        "en": "Heat a mixture of camphor and sand in a china dish under an inverted funnel with a cotton plug. Camphor turns into vapour and deposits as white solid on the cool inner wall of the funnel, while sand stays in the dish. Naphthalene, ammonium chloride and dry ice (solid carbon dioxide) also sublime.",
+        "hi": "चीनी मिट्टी की प्याली में कपूर और रेत का मिश्रण लेकर ऊपर रुई लगी उलटी कीप रखकर गरम करें। कपूर वाष्प बनकर कीप की ठंडी भीतरी दीवार पर सफ़ेद ठोस के रूप में जम जाता है, जबकि रेत प्याली में रह जाती है। नैफ़्थलीन, अमोनियम क्लोराइड और शुष्क बर्फ़ (ठोस कार्बन डाइऑक्साइड) भी ऊर्ध्वपातित होते हैं।"
+      },
+      "keyPoints": [
+        {"en": "Used to separate a sublimable solid from a non-sublimable one (camphor + sand, ammonium chloride + common salt).", "hi": "ऊर्ध्वपातनीय ठोस को अऊर्ध्वपातनीय ठोस से अलग करने में उपयोगी (कपूर + रेत, अमोनियम क्लोराइड + साधारण नमक)।"},
+        {"en": "Sublimation is different from evaporation: evaporation is liquid → vapour at the surface of a liquid.", "hi": "ऊर्ध्वपातन वाष्पन से भिन्न है: वाष्पन में द्रव की सतह से द्रव → वाष्प होता है।"},
+        {"en": "An alloy is a homogeneous mixture of metals (or a metal and a non-metal); its components cannot be separated by physical methods. Brass ≈ 80% Cu + 20% Zn; bronze ≈ 80% Cu + 20% Sn.", "hi": "मिश्रधातु धातुओं (या धातु और अधातु) का समांगी मिश्रण है; इसके घटक भौतिक विधियों से अलग नहीं होते। पीतल ≈ 80% Cu + 20% Zn; काँसा ≈ 80% Cu + 20% Sn।"}
+      ],
+      "realLife": {
+        "en": "Naphthalene balls in cupboards slowly disappear by sublimation; dry ice keeps ice cream cold without leaving any liquid.",
+        "hi": "अलमारी में रखी नैफ़्थलीन की गोलियाँ ऊर्ध्वपातन से धीरे-धीरे ग़ायब हो जाती हैं; शुष्क बर्फ़ बिना कोई द्रव छोड़े आइसक्रीम ठंडी रखती है।"
+      },
+      "examFocus": {
+        "en": "Describe separation of camphor/naphthalene/ammonium chloride from sand or salt with a diagram, and distinguish sublimation from evaporation.",
+        "hi": "चित्र सहित रेत या नमक से कपूर/नैफ़्थलीन/अमोनियम क्लोराइड का पृथक्करण बताना, और ऊर्ध्वपातन तथा वाष्पन में अंतर करना।"
+      },
+      "commonMistakes": [
+        {"en": "Writing that the solid 'melts and then evaporates' — in sublimation there is no liquid stage.", "hi": "यह लिखना कि ठोस 'पिघलकर फिर वाष्पित होता है' — ऊर्ध्वपातन में द्रव अवस्था आती ही नहीं।"}
+      ],
+      "formulas": [],
+      "practicalIds": ["cbse-9-p2"],
+      "conceptIds": ["sublimation"],
+      "chemicalIds": ["ammonium-chloride"],
+      "sources": [{"sourceId": "ncert-9-en", "section": "5.4.2, Activity 5.7"}],
+      "memoryTricks": [
+        {"trick": {"en": "Solids that sublime: \"CAN\" — Camphor, Ammonium chloride, Naphthalene", "hi": "ऊर्ध्वपातित होने वाले ठोस: \"CAN\" — कपूर (Camphor), अमोनियम क्लोराइड, नैफ़्थलीन"}, "recall": {"en": "Each of these turns directly from solid to vapour on heating, so it can be separated from sand or common salt by sublimation.", "hi": "ये सभी गरम करने पर सीधे ठोस से वाष्प बनते हैं, इसलिए ऊर्ध्वपातन द्वारा इन्हें रेत या साधारण नमक से अलग किया जा सकता है।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Sublimation: solid → vapour directly on heating; the reverse (vapour → solid) is deposition.", "hi": "ऊर्ध्वपातन: गरम करने पर ठोस सीधे वाष्प बनता है; उल्टा परिवर्तन (वाष्प → ठोस) निक्षेपण है।"},
+        "points": [
+          {"en": "Separates camphor from sand and ammonium chloride from common salt.", "hi": "इससे कपूर को रेत से और अमोनियम क्लोराइड को साधारण नमक से अलग करते हैं।"},
+          {"en": "Alloys are homogeneous: brass ≈ Cu + Zn, bronze ≈ Cu + Sn.", "hi": "मिश्रधातुएँ समांगी होती हैं: पीतल ≈ Cu + Zn, कांसा ≈ Cu + Sn।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-9-ch05-t5.4.3",
+      "targetId": "cbse-9-ch05-t5.4.3",
+      "covers": [],
+      "definition": {
+        "en": "A suspension is a heterogeneous mixture in which insoluble solid particles, large enough to be seen (more than about 1000 nm), stay spread through a liquid for a while and then settle.",
+        "hi": "निलंबन वह विषमांगी मिश्रण है जिसमें आँखों से दिखने लायक बड़े (लगभग 1000 nm से बड़े) अघुलनशील ठोस कण कुछ समय तक द्रव में फैले रहते हैं और फिर नीचे बैठ जाते हैं।"
+      },
+      "explanation": {
+        "en": "Sand in water, sawdust in water and muddy water are suspensions. The heavy particles settle on standing, but very fine particles may keep the water cloudy even after filtering. Two methods help: centrifugation spins the mixture fast so heavier particles move outward to the bottom of the tube; coagulation adds a coagulant such as alum so fine particles clump together and settle (sedimentation), after which the water is decanted or filtered.",
+        "hi": "पानी में रेत, पानी में बुरादा और गंदला पानी निलंबन हैं। भारी कण स्थिर रखने पर बैठ जाते हैं, पर बहुत बारीक कण छानने के बाद भी पानी को धुँधला रख सकते हैं। दो विधियाँ सहायक हैं: अपकेंद्रण में मिश्रण को तेज़ी से घुमाया जाता है ताकि भारी कण बाहर की ओर नली की तली में चले जाएँ; स्कंदन में फिटकरी जैसा स्कंदक मिलाया जाता है ताकि बारीक कण आपस में जुड़कर बैठ जाएँ (अवसादन), फिर पानी निथारकर या छानकर अलग कर लिया जाता है।"
+      },
+      "keyPoints": [
+        {"en": "Particles of a suspension are visible, settle on standing and can be separated by filtration; they scatter light.", "hi": "निलंबन के कण दिखते हैं, स्थिर रखने पर बैठ जाते हैं, छनकर अलग हो सकते हैं और प्रकाश का प्रकीर्णन करते हैं।"},
+        {"en": "Centrifugation separates blood into plasma and cells; a hand-powered paperfuge does this without electricity.", "hi": "अपकेंद्रण से रक्त को प्लाज़्मा और कोशिकाओं में अलग किया जाता है; हाथ से चलने वाला पेपरफ़्यूज यह बिना बिजली के करता है।"},
+        {"en": "Making paneer is also coagulation — lemon juice or vinegar coagulates milk proteins.", "hi": "पनीर बनाना भी स्कंदन है — नींबू का रस या सिरका दूध के प्रोटीन को स्कंदित करता है।"}
+      ],
+      "realLife": {
+        "en": "Alum (fitkari) is used to clear muddy drinking water; sewage treatment uses sedimentation, coagulation and filtration; blood banks use centrifuges.",
+        "hi": "गंदले पेयजल को साफ़ करने में फिटकरी का उपयोग; मल-जल उपचार में अवसादन, स्कंदन और निस्यंदन; रक्त बैंकों में अपकेंद्रित्र का उपयोग।"
+      },
+      "examFocus": {
+        "en": "Choose and justify a method for muddy water or a blood sample; list properties of a suspension.",
+        "hi": "गंदले पानी या रक्त के नमूने के लिए विधि चुनकर कारण बताना; निलंबन के गुण लिखना।"
+      },
+      "commonMistakes": [
+        {"en": "Thinking filtration always clears muddy water — very fine particles pass through; coagulation or centrifugation is needed.", "hi": "यह सोचना कि छानने से गंदला पानी हमेशा साफ़ हो जाता है — बहुत बारीक कण निकल जाते हैं; स्कंदन या अपकेंद्रण आवश्यक है।"}
+      ],
+      "formulas": [],
+      "practicalIds": ["cbse-9-p1", "cbse-9-p2"],
+      "conceptIds": ["colloids-and-suspensions"],
+      "chemicalIds": ["potash-alum"],
+      "sources": [{"sourceId": "ncert-9-en", "section": "5.4.3"}],
+      "quickRevision": {
+        "oneLine": {"en": "Suspension: heterogeneous; particles bigger than about 1000 nm are visible and settle on standing.", "hi": "निलंबन: विषमांगी; लगभग 1000 nm से बड़े कण दिखाई देते हैं और रखने पर नीचे बैठ जाते हैं।"},
+        "points": [
+          {"en": "Separated by filtration; it scatters light.", "hi": "निस्यंदन से अलग होता है; यह प्रकाश को प्रकीर्णित करता है।"},
+          {"en": "Centrifugation separates blood into plasma and cells.", "hi": "अपकेंद्रण से रक्त को प्लाज़्मा और कोशिकाओं में अलग करते हैं।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-9-ch05-t5.4.4",
+      "targetId": "cbse-9-ch05-t5.4.4",
+      "covers": [],
+      "definition": {
+        "en": "A colloid is a mixture whose particles (about 1–1000 nm) are larger than those of a solution but too small to see; they stay evenly spread and do not settle. Its parts are the dispersed phase (the particles) and the dispersion medium (in which they are spread).",
+        "hi": "कोलॉइड वह मिश्रण है जिसके कण (लगभग 1–1000 nm) विलयन के कणों से बड़े पर दिखने में बहुत छोटे होते हैं; वे समान रूप से फैले रहते हैं और नीचे नहीं बैठते। इसके भाग हैं परिक्षिप्त प्रावस्था (कण) और परिक्षेपण माध्यम (जिसमें वे फैले हैं)।"
+      },
+      "explanation": {
+        "en": "Milk, blood, tomato sauce and ice cream look uniform, yet a beam of light shows the particles are there. Particle size is what separates the three kinds: solution < 1 nm, colloid 1–1000 nm, suspension > 1000 nm. When both phases of a colloid are liquids it is an emulsion — milk and vanishing cream are oil-in-water; butter and cold cream are water-in-oil.",
+        "hi": "दूध, रक्त, टमाटर सॉस और आइसक्रीम देखने में एकसमान लगते हैं, फिर भी प्रकाश की किरण दिखा देती है कि उनमें कण हैं। तीनों प्रकारों को कणों का आकार अलग करता है: विलयन < 1 nm, कोलॉइड 1–1000 nm, निलंबन > 1000 nm। जब कोलॉइड की दोनों प्रावस्थाएँ द्रव हों तो वह पायस (इमल्शन) कहलाता है — दूध और वैनिशिंग क्रीम तेल-में-जल; मक्खन और कोल्ड क्रीम जल-में-तेल पायस हैं।"
+      },
+      "keyPoints": [
+        {"en": "Colloids appear homogeneous but are heterogeneous.", "hi": "कोलॉइड देखने में समांगी पर वास्तव में विषमांगी होते हैं।"},
+        {"en": "Colloidal particles pass through filter paper and do not settle, but they scatter light (Tyndall effect).", "hi": "कोलॉइडी कण फ़िल्टर पेपर से निकल जाते हैं और नीचे नहीं बैठते, पर प्रकाश का प्रकीर्णन करते हैं (टिंडल प्रभाव)।"},
+        {"en": "Emulsifying agents (e.g. proteins in milk, soap) keep emulsions stable.", "hi": "पायसीकारक (जैसे दूध के प्रोटीन, साबुन) पायस को स्थायी रखते हैं।"},
+        {"en": "In blood, cells and proteins form the dispersed phase and plasma water is the dispersion medium.", "hi": "रक्त में कोशिकाएँ और प्रोटीन परिक्षिप्त प्रावस्था तथा प्लाज़्मा का जल परिक्षेपण माध्यम है।"}
+      ],
+      "realLife": {
+        "en": "Milk, curd, butter, creams, fog and clouds are colloids; many liquid medicines are made as emulsions so they mix with water and taste better.",
+        "hi": "दूध, दही, मक्खन, क्रीम, कोहरा और बादल कोलॉइड हैं; कई द्रव दवाएँ पायस के रूप में बनाई जाती हैं ताकि वे जल में मिल सकें और स्वाद अच्छा रहे।"
+      },
+      "examFocus": {
+        "en": "Complete the solution–colloid–suspension comparison table (nature, particle size, visibility, filtration, settling, Tyndall effect) and identify the dispersed phase and medium.",
+        "hi": "विलयन–कोलॉइड–निलंबन तुलना तालिका (प्रकृति, कण आकार, दृश्यता, निस्यंदन, बैठना, टिंडल प्रभाव) पूरी करना तथा परिक्षिप्त प्रावस्था और माध्यम पहचानना।"
+      },
+      "commonMistakes": [
+        {"en": "Calling milk a solution because it looks uniform — it is a colloid.", "hi": "एकसमान दिखने के कारण दूध को विलयन कहना — यह कोलॉइड है।"}
+      ],
+      "formulas": ["Particle size: solution < 1 nm < colloid < 1000 nm < suspension"],
+      "practicalIds": ["cbse-9-p1"],
+      "conceptIds": ["colloids-and-suspensions", "tyndall-effect"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-9-en", "section": "5.4.4, 5.5"}],
+      "memoryTricks": [
+        {"trick": {"en": "Colloid sits in the Centre: Solution < 1 nm < Colloid < 1000 nm < Suspension", "hi": "कोलॉइड बीच में: विलयन < 1 nm < कोलॉइड < 1000 nm < निलंबन"}, "recall": {"en": "Colloid and Centre both start with C. Smaller than a colloid is a solution; bigger is a suspension.", "hi": "Colloid और Centre दोनों C से शुरू होते हैं। कोलॉइड से छोटे कण विलयन में, बड़े कण निलंबन में होते हैं।"}}
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Colloid: particles about 1–1000 nm; looks homogeneous but is heterogeneous; does not settle.", "hi": "कोलॉइड: कण लगभग 1–1000 nm; समांगी दिखता है परंतु विषमांगी है; नीचे नहीं बैठता।"},
+        "formula": "Particle size: solution < 1 nm < colloid < 1000 nm < suspension",
+        "points": [
+          {"en": "Passes through filter paper but shows the Tyndall effect.", "hi": "फ़िल्टर पेपर से निकल जाता है, परंतु टिंडल प्रभाव दिखाता है।"},
+          {"en": "Two parts: dispersed phase (the particles) and dispersion medium.", "hi": "दो भाग: परिक्षिप्त प्रावस्था (कण) और परिक्षेपण माध्यम।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    },
+    {
+      "id": "note-cbse-9-ch05-t5.5",
+      "targetId": "cbse-9-ch05-t5.5",
+      "covers": [],
+      "definition": {
+        "en": "The Tyndall effect is the scattering of a beam of light by particles in a colloid or suspension, which makes the path of the beam visible.",
+        "hi": "कोलॉइड या निलंबन के कणों द्वारा प्रकाश-किरण का प्रकीर्णन, जिससे किरण का मार्ग दिखाई देने लगता है, टिंडल प्रभाव कहलाता है।"
+      },
+      "explanation": {
+        "en": "Shine a laser through salt water, chalk water and milk-water. In salt water the beam is invisible from the side, because dissolved particles are too small to scatter it. In chalk water and diluted milk the beam is visible, because their bigger particles scatter light. The effect is named after John Tyndall.",
+        "hi": "नमक के घोल, चॉक वाले पानी और दूध मिले पानी से लेज़र गुज़ारें। नमक के घोल में किरण बगल से नहीं दिखती, क्योंकि घुले हुए कण उसे बिखेरने के लिए बहुत छोटे हैं। चॉक वाले पानी और पतले दूध में किरण दिखती है, क्योंकि उनके बड़े कण प्रकाश को बिखेरते हैं। यह प्रभाव जॉन टिंडल के नाम पर है।"
+      },
+      "keyPoints": [
+        {"en": "True solutions do not show the Tyndall effect; colloids and suspensions do.", "hi": "वास्तविक विलयन टिंडल प्रभाव नहीं दिखाते; कोलॉइड और निलंबन दिखाते हैं।"},
+        {"en": "It is a quick way to tell a colloid from a true solution when both look clear.", "hi": "जब दोनों पारदर्शी दिखें, तब कोलॉइड को वास्तविक विलयन से पहचानने का यह आसान तरीका है।"}
+      ],
+      "realLife": {
+        "en": "Sunbeams through gaps in tree leaves or into a dusty room, stadium floodlights on a misty night and headlights in fog all show the Tyndall effect; smoky, dusty cities look hazy for the same reason.",
+        "hi": "पेड़ों की पत्तियों के बीच से या धूल भरे कमरे में आती धूप की किरणें, कोहरे वाली रात में स्टेडियम की फ़्लडलाइट और धुंध में वाहन की हेडलाइट — सभी टिंडल प्रभाव दिखाते हैं; इसी कारण धुएँ और धूल वाले शहर धुँधले दिखते हैं।"
+      },
+      "examFocus": {
+        "en": "Pick which mixtures show the Tyndall effect (dust in air, starch in water) and which do not (copper sulfate or acetone in water), with reasons; assertion–reason questions on particle size.",
+        "hi": "कौन-से मिश्रण टिंडल प्रभाव दिखाते हैं (वायु में धूल, जल में स्टार्च) और कौन-से नहीं (जल में कॉपर सल्फेट या ऐसीटोन), कारण सहित बताना; कण-आकार पर अभिकथन–कारण प्रश्न।"
+      },
+      "commonMistakes": [
+        {"en": "Saying solution particles are too large to scatter light — they are too small.", "hi": "यह कहना कि विलयन के कण प्रकाश बिखेरने के लिए बहुत बड़े हैं — वास्तव में वे बहुत छोटे हैं।"}
+      ],
+      "formulas": [],
+      "practicalIds": ["cbse-9-p1"],
+      "conceptIds": ["tyndall-effect"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-9-en", "section": "5.5, Activity 5.1"}],
+      "quickRevision": {
+        "oneLine": {"en": "Tyndall effect: particles of a colloid or suspension scatter a light beam, making its path visible.", "hi": "टिंडल प्रभाव: कोलॉइड या निलंबन के कण प्रकाश किरण को प्रकीर्णित करते हैं, जिससे उसका मार्ग दिखने लगता है।"},
+        "points": [
+          {"en": "True solutions do not show it; colloids and suspensions do.", "hi": "वास्तविक विलयन इसे नहीं दिखाते; कोलॉइड और निलंबन दिखाते हैं।"},
+          {"en": "Quick way to tell a colloid from a clear true solution.", "hi": "साफ़ दिखने वाले वास्तविक विलयन और कोलॉइड में अंतर करने का आसान तरीका।"}
+        ]
+      },
+      "review": {"status": "sourceChecked"}
+    }
+  ]
+}

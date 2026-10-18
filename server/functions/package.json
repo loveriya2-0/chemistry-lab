@@ -1,0 +1,18 @@
+{
+  "name": "vcl-premium-verify",
+  "description": "Verifies Virtual Chemistry Lab Premium purchases with the Google Play Developer API.",
+  "private": true,
+  "main": "index.js",
+  "engines": {
+    "node": "22"
+  },
+  "scripts": {
+    "test": "node --test test/play_verify.test.js",
+    "deploy": "firebase deploy --only functions"
+  },
+  "dependencies": {
+    "firebase-admin": "^14.5.0",
+    "firebase-functions": "^7.4.0",
+    "googleapis": "^186.0.0"
+  }
+}

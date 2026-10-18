@@ -1,0 +1,1063 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "sodium-chloride",
+      "kind": "compound",
+      "name": {
+        "en": "Sodium chloride (common salt)",
+        "hi": "सोडियम क्लोराइड (साधारण नमक)"
+      },
+      "formula": "NaCl",
+      "properties": [
+        {
+          "en": "White crystalline ionic solid; high melting point.",
+          "hi": "सफ़ेद क्रिस्टलीय आयनिक ठोस; उच्च गलनांक।"
+        },
+        {
+          "en": "Soluble in water; its solution is neutral (pH 7) and conducts electricity.",
+          "hi": "जल में घुलनशील; इसका विलयन उदासीन (pH 7) और विद्युत चालक होता है।"
+        },
+        {
+          "en": "Solubility hardly changes with temperature.",
+          "hi": "ताप के साथ विलेयता लगभग नहीं बदलती।"
+        }
+      ],
+      "uses": [
+        {
+          "en": "Food and preserving food.",
+          "hi": "भोजन और खाद्य परिरक्षण।"
+        },
+        {
+          "en": "Raw material for NaOH, chlorine, baking soda, washing soda and bleaching powder.",
+          "hi": "NaOH, क्लोरीन, खाने का सोडा, धावन सोडा और विरंजक चूर्ण का कच्चा माल।"
+        },
+        {
+          "en": "0.9% m/v saline drips in hospitals.",
+          "hi": "अस्पतालों में 0.9% m/v सलाइन ड्रिप।"
+        }
+      ],
+      "equations": [
+        "NaOH + HCl → NaCl + H₂O",
+        "2NaCl + 2H₂O → 2NaOH + Cl₂ + H₂"
+      ],
+      "explanation": {
+        "en": "Formed by transfer of one electron from sodium to chlorine; obtained from sea water by evaporation and crystallisation, or mined as rock salt.",
+        "hi": "सोडियम से क्लोरीन को एक इलेक्ट्रॉन के स्थानांतरण से बनता है; समुद्री जल से वाष्पन और क्रिस्टलीकरण द्वारा या सेंधा नमक के रूप में खनन से प्राप्त होता है।"
+      },
+      "practicalNote": {
+        "en": "Dissolved in water to make a true solution when comparing solutions, colloids and suspensions.",
+        "hi": "विलयन, कोलॉइड और निलंबन की तुलना करते समय जल में घोलकर वास्तविक विलयन बनाया जाता है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "9.4.2"
+        },
+        {
+          "sourceId": "ncert-10-en",
+          "section": "2.4.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "hydrochloric-acid",
+      "kind": "compound",
+      "name": {
+        "en": "Hydrochloric acid",
+        "hi": "हाइड्रोक्लोरिक अम्ल"
+      },
+      "formula": "HCl",
+      "properties": [
+        {
+          "en": "Strong acid; turns blue litmus red; gives H₃O⁺ ions in water.",
+          "hi": "प्रबल अम्ल; नीले लिटमस को लाल करता है; जल में H₃O⁺ आयन देता है।"
+        },
+        {
+          "en": "Reacts with active metals to give hydrogen and with carbonates to give CO₂.",
+          "hi": "सक्रिय धातुओं से हाइड्रोजन और कार्बोनेटों से CO₂ देता है।"
+        },
+        {
+          "en": "Dry HCl gas shows no acidic behaviour without water.",
+          "hi": "शुष्क HCl गैस जल के बिना अम्लीय व्यवहार नहीं दिखाती।"
+        }
+      ],
+      "uses": [
+        {
+          "en": "Produced in the stomach to help digestion.",
+          "hi": "पाचन में सहायता के लिए आमाशय में बनता है।"
+        },
+        {
+          "en": "Laboratory reagent; part of aqua regia (with HNO₃, 3 : 1).",
+          "hi": "प्रयोगशाला अभिकर्मक; अम्लराज का भाग (HNO₃ के साथ, 3 : 1)।"
+        }
+      ],
+      "equations": [
+        "Zn + 2HCl → ZnCl₂ + H₂",
+        "Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂",
+        "HCl + H₂O → H₃O⁺ + Cl⁻"
+      ],
+      "explanation": {
+        "en": "A solution of hydrogen chloride gas in water; its acidity comes from H⁺ ions that form only in water.",
+        "hi": "हाइड्रोजन क्लोराइड गैस का जल में विलयन; इसकी अम्लता उन H⁺ आयनों से है जो केवल जल में बनते हैं।"
+      },
+      "practicalNote": {
+        "en": "Tested with litmus, zinc granules and solid sodium carbonate, and its pH found with pH paper.",
+        "hi": "लिटमस, ज़िंक के दानों और ठोस सोडियम कार्बोनेट से परीक्षण, तथा pH पेपर से pH ज्ञात करना।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "2.1–2.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "sodium-hydroxide",
+      "kind": "compound",
+      "name": {
+        "en": "Sodium hydroxide (caustic soda)",
+        "hi": "सोडियम हाइड्रॉक्साइड (कास्टिक सोडा)"
+      },
+      "formula": "NaOH",
+      "properties": [
+        {
+          "en": "Strong base (alkali); soapy, corrosive; turns red litmus blue and phenolphthalein pink.",
+          "hi": "प्रबल क्षारक (क्षार); साबुन जैसा, संक्षारक; लाल लिटमस को नीला और फ़ीनॉल्फ़्थेलिन को गुलाबी करता है।"
+        },
+        {
+          "en": "Dissolving it in water is highly exothermic.",
+          "hi": "इसे जल में घोलना अत्यधिक ऊष्माक्षेपी है।"
+        },
+        {
+          "en": "Reacts with zinc on warming to give hydrogen and sodium zincate.",
+          "hi": "गरम करने पर ज़िंक से अभिक्रिया कर हाइड्रोजन और सोडियम ज़िंकेट देता है।"
+        }
+      ],
+      "uses": [
+        {
+          "en": "Making soaps and detergents, paper and artificial fibres.",
+          "hi": "साबुन-अपमार्जक, काग़ज़ और कृत्रिम रेशे बनाना।"
+        },
+        {
+          "en": "Degreasing metals; laboratory reagent.",
+          "hi": "धातुओं से चिकनाई हटाना; प्रयोगशाला अभिकर्मक।"
+        }
+      ],
+      "equations": [
+        "2NaCl + 2H₂O → 2NaOH + Cl₂ + H₂",
+        "2NaOH + Zn → Na₂ZnO₂ + H₂",
+        "NaOH + HCl → NaCl + H₂O"
+      ],
+      "explanation": {
+        "en": "Made by the chlor-alkali process; forms near the cathode when brine is electrolysed.",
+        "hi": "क्लोर-क्षार प्रक्रम से बनता है; ब्राइन के विद्युत-अपघटन में कैथोड के पास बनता है।"
+      },
+      "practicalNote": {
+        "en": "Tested with litmus, zinc granules and solid sodium carbonate, and its pH found with pH paper.",
+        "hi": "लिटमस, ज़िंक के दानों और ठोस सोडियम कार्बोनेट से परीक्षण, तथा pH पेपर से pH ज्ञात करना।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "2.1.2, 2.4.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "bleaching-powder",
+      "kind": "compound",
+      "name": {
+        "en": "Bleaching powder",
+        "hi": "विरंजक चूर्ण"
+      },
+      "formula": "Ca(ClO)₂",
+      "properties": [
+        {
+          "en": "White powder with a smell of chlorine; a strong oxidising agent.",
+          "hi": "क्लोरीन की गंध वाला सफ़ेद चूर्ण; प्रबल ऑक्सीकारक।"
+        },
+        {
+          "en": "The current NCERT book represents it as Ca(ClO)₂ and notes that its actual composition is complex; older books write CaOCl₂.",
+          "hi": "वर्तमान NCERT पुस्तक इसे Ca(ClO)₂ से दर्शाती है और बताती है कि इसका वास्तविक संघटन जटिल है; पुरानी पुस्तकों में CaOCl₂ लिखा जाता था।"
+        }
+      ],
+      "uses": [
+        {
+          "en": "Bleaching cotton, linen, wood pulp and washed clothes.",
+          "hi": "सूती और लिनन वस्त्र, लकड़ी की लुगदी और धुले कपड़ों का विरंजन।"
+        },
+        {
+          "en": "Making drinking water free from germs; oxidising agent in industry.",
+          "hi": "पेयजल को रोगाणुमुक्त करना; उद्योग में ऑक्सीकारक।"
+        }
+      ],
+      "equations": [
+        "2Ca(OH)₂ + 2Cl₂ → Ca(ClO)₂ + CaCl₂ + 2H₂O"
+      ],
+      "explanation": {
+        "en": "Made by passing chlorine (from the chlor-alkali process) over dry slaked lime.",
+        "hi": "शुष्क बुझे चूने पर (क्लोर-क्षार प्रक्रम से प्राप्त) क्लोरीन प्रवाहित करके बनाया जाता है।"
+      },
+      "practicalNote": null,
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "2.4.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "baking-soda",
+      "kind": "compound",
+      "name": {
+        "en": "Baking soda (sodium hydrogencarbonate)",
+        "hi": "खाने का सोडा (सोडियम हाइड्रोजनकार्बोनेट)"
+      },
+      "formula": "NaHCO₃",
+      "properties": [
+        {
+          "en": "Mild, non-corrosive basic salt.",
+          "hi": "हल्का, असंक्षारक क्षारकीय लवण।"
+        },
+        {
+          "en": "On heating gives sodium carbonate, water and carbon dioxide.",
+          "hi": "गरम करने पर सोडियम कार्बोनेट, जल और कार्बन डाइऑक्साइड देता है।"
+        },
+        {
+          "en": "Reacts with acids with effervescence (CO₂).",
+          "hi": "अम्लों से बुदबुदाहट (CO₂) के साथ अभिक्रिया करता है।"
+        }
+      ],
+      "uses": [
+        {
+          "en": "Baking powder (with tartaric acid) — CO₂ makes cakes soft and spongy.",
+          "hi": "बेकिंग पाउडर (टार्टरिक अम्ल के साथ) — CO₂ से केक नरम और स्पंजी बनते हैं।"
+        },
+        {
+          "en": "Antacids; soda-acid fire extinguishers; faster cooking.",
+          "hi": "प्रत्याम्ल; सोडा-अम्ल अग्निशामक; जल्दी पकाना।"
+        }
+      ],
+      "equations": [
+        "NaCl + H₂O + CO₂ + NH₃ → NH₄Cl + NaHCO₃",
+        "2NaHCO₃ →(heat) Na₂CO₃ + H₂O + CO₂",
+        "NaHCO₃ + H⁺ → CO₂ + H₂O + sodium salt of acid"
+      ],
+      "explanation": {
+        "en": "Made from common salt, ammonia and carbon dioxide; being basic, it neutralises acids.",
+        "hi": "साधारण नमक, अमोनिया और कार्बन डाइऑक्साइड से बनता है; क्षारकीय होने के कारण अम्लों को उदासीन करता है।"
+      },
+      "practicalNote": {
+        "en": "Gives brisk effervescence with ethanoic acid when studying the properties of acetic acid; its solution is basic on pH paper.",
+        "hi": "ऐसीटिक अम्ल के गुणों के अध्ययन में एथेनॉइक अम्ल के साथ तीव्र बुदबुदाहट देता है; pH पेपर पर इसका विलयन क्षारकीय दिखता है।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "2.4.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "washing-soda",
+      "kind": "compound",
+      "name": {
+        "en": "Washing soda (sodium carbonate decahydrate)",
+        "hi": "धावन सोडा (सोडियम कार्बोनेट डेकाहाइड्रेट)"
+      },
+      "formula": "Na₂CO₃·10H₂O",
+      "properties": [
+        {
+          "en": "Basic salt; contains ten molecules of water of crystallisation.",
+          "hi": "क्षारकीय लवण; इसमें क्रिस्टलन जल के दस अणु होते हैं।"
+        },
+        {
+          "en": "Gives CO₂ with acids.",
+          "hi": "अम्लों के साथ CO₂ देता है।"
+        }
+      ],
+      "uses": [
+        {
+          "en": "Glass, soap and paper industries; making borax.",
+          "hi": "काँच, साबुन और काग़ज़ उद्योग; बोरैक्स बनाना।"
+        },
+        {
+          "en": "Household cleaning; removing permanent hardness of water.",
+          "hi": "घरेलू सफ़ाई; जल की स्थायी कठोरता हटाना।"
+        }
+      ],
+      "equations": [
+        "Na₂CO₃ + 10H₂O → Na₂CO₃·10H₂O"
+      ],
+      "explanation": {
+        "en": "Obtained by heating baking soda to sodium carbonate and recrystallising it.",
+        "hi": "खाने के सोडे को गरम कर सोडियम कार्बोनेट बनाकर उसके पुनःक्रिस्टलीकरण से प्राप्त होता है।"
+      },
+      "practicalNote": null,
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "2.4.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "plaster-of-paris",
+      "kind": "compound",
+      "name": {
+        "en": "Plaster of Paris (calcium sulphate hemihydrate)",
+        "hi": "प्लास्टर ऑफ़ पेरिस (कैल्सियम सल्फ़ेट हेमीहाइड्रेट)"
+      },
+      "formula": "CaSO₄·½H₂O",
+      "properties": [
+        {
+          "en": "White powder; sets into a hard mass of gypsum when mixed with water.",
+          "hi": "सफ़ेद चूर्ण; जल मिलाने पर जिप्सम का कठोर पिंड बनकर जम जाता है।"
+        },
+        {
+          "en": "Two formula units share one water molecule.",
+          "hi": "दो सूत्र इकाइयाँ एक जल-अणु साझा करती हैं।"
+        }
+      ],
+      "uses": [
+        {
+          "en": "Plaster for supporting fractured bones.",
+          "hi": "टूटी हड्डियों को सहारा देने वाला प्लास्टर।"
+        },
+        {
+          "en": "Toys, decorative materials and smoothing surfaces.",
+          "hi": "खिलौने, सजावटी सामग्री और सतहें चिकनी करना।"
+        }
+      ],
+      "equations": [
+        "CaSO₄·2H₂O →(373 K) CaSO₄·½H₂O + 1½H₂O",
+        "CaSO₄·½H₂O + 1½H₂O → CaSO₄·2H₂O"
+      ],
+      "explanation": {
+        "en": "Made by heating gypsum at 373 K; must be stored in moisture-proof containers.",
+        "hi": "जिप्सम को 373 K पर गरम करके बनाया जाता है; इसे नमीरोधी पात्रों में रखना चाहिए।"
+      },
+      "practicalNote": null,
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "2.4.4"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "copper-sulfate-pentahydrate",
+      "kind": "compound",
+      "name": {
+        "en": "Copper sulphate pentahydrate (blue vitriol)",
+        "hi": "कॉपर सल्फ़ेट पेंटाहाइड्रेट (नीला थोथा)"
+      },
+      "formula": "CuSO₄·5H₂O",
+      "properties": [
+        {
+          "en": "Blue crystals; turn white on heating as water of crystallisation is lost; blue again with water.",
+          "hi": "नीले क्रिस्टल; गरम करने पर क्रिस्टलन जल निकलने से सफ़ेद; जल डालने पर फिर नीले।"
+        },
+        {
+          "en": "Ionic: soluble in water, solution conducts electricity; toxic.",
+          "hi": "आयनिक: जल में घुलनशील, विलयन विद्युत चालक; विषैला।"
+        },
+        {
+          "en": "Its solution is acidic (salt of a strong acid and weak base).",
+          "hi": "इसका विलयन अम्लीय है (प्रबल अम्ल और दुर्बल क्षारक का लवण)।"
+        }
+      ],
+      "uses": [
+        {
+          "en": "Electrolyte (acidified) in electrolytic refining of copper.",
+          "hi": "कॉपर के विद्युत-अपघटनी परिष्करण में (अम्लीकृत) विद्युत-अपघट्य।"
+        },
+        {
+          "en": "Crystallisation activity; displacement reactions in the lab.",
+          "hi": "क्रिस्टलीकरण क्रियाकलाप; प्रयोगशाला में विस्थापन अभिक्रियाएँ।"
+        }
+      ],
+      "equations": [
+        "CuSO₄·5H₂O →(heat) CuSO₄ + 5H₂O",
+        "Fe + CuSO₄ → FeSO₄ + Cu",
+        "Zn + CuSO₄ → ZnSO₄ + Cu"
+      ],
+      "explanation": {
+        "en": "A common salt in school labs that shows water of crystallisation, crystallisation and displacement.",
+        "hi": "विद्यालय प्रयोगशालाओं का सामान्य लवण, जिससे क्रिस्टलन जल, क्रिस्टलीकरण और विस्थापन दिखाए जाते हैं।"
+      },
+      "practicalNote": {
+        "en": "Iron nails dipped in its solution (displacement) and metals placed in salt solutions to compare reactivity.",
+        "hi": "इसके विलयन में लोहे की कीलें डुबोना (विस्थापन) और सक्रियता की तुलना के लिए धातुओं को लवण-विलयनों में रखना।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.3.1"
+        },
+        {
+          "sourceId": "ncert-10-en",
+          "section": "1.2.3, 2.4.4, 3.4.6"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "ferrous-sulfate-heptahydrate",
+      "kind": "compound",
+      "name": {
+        "en": "Ferrous sulphate heptahydrate (green vitriol)",
+        "hi": "फ़ेरस सल्फ़ेट हेप्टाहाइड्रेट (हरा कसीस)"
+      },
+      "formula": "FeSO₄·7H₂O",
+      "properties": [
+        {
+          "en": "Green crystals containing seven molecules of water of crystallisation.",
+          "hi": "सात क्रिस्टलन जल-अणुओं वाले हरे क्रिस्टल।"
+        },
+        {
+          "en": "On heating loses water, then decomposes giving SO₂ and SO₃ (smell of burning sulphur) and leaving ferric oxide.",
+          "hi": "गरम करने पर जल खोता है, फिर वियोजित होकर SO₂ और SO₃ (जलते गंधक की गंध) देता है और फ़ेरिक ऑक्साइड बचता है।"
+        }
+      ],
+      "uses": [
+        {
+          "en": "Standard example of thermal decomposition in school labs.",
+          "hi": "विद्यालय प्रयोगशालाओं में तापीय वियोजन का मानक उदाहरण।"
+        }
+      ],
+      "equations": [
+        "2FeSO₄ →(heat) Fe₂O₃ + SO₂ + SO₃"
+      ],
+      "explanation": {
+        "en": "Shows that decomposition needs heat (endothermic) and that a single reactant gives several products.",
+        "hi": "दिखाता है कि वियोजन में ऊष्मा चाहिए (ऊष्माशोषी) और एक अभिकारक से अनेक उत्पाद बनते हैं।"
+      },
+      "practicalNote": {
+        "en": "Action of heat on ferrous sulphate crystals in a dry boiling tube.",
+        "hi": "शुष्क क्वथन नली में फ़ेरस सल्फ़ेट क्रिस्टलों पर ऊष्मा का प्रभाव।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "1.2.2, Activity 1.5"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "calcium-oxide",
+      "kind": "compound",
+      "name": {
+        "en": "Calcium oxide (quick lime)",
+        "hi": "कैल्सियम ऑक्साइड (बिना बुझा चूना)"
+      },
+      "formula": "CaO",
+      "properties": [
+        {
+          "en": "White solid; basic oxide.",
+          "hi": "सफ़ेद ठोस; क्षारकीय ऑक्साइड।"
+        },
+        {
+          "en": "Reacts vigorously with water, releasing a lot of heat.",
+          "hi": "जल से तीव्र अभिक्रिया करता है और बहुत ऊष्मा देता है।"
+        }
+      ],
+      "uses": [
+        {
+          "en": "Manufacture of cement; making slaked lime; treating acidic soil.",
+          "hi": "सीमेंट निर्माण; बुझा चूना बनाना; अम्लीय मिट्टी का उपचार।"
+        }
+      ],
+      "equations": [
+        "CaCO₃ →(heat) CaO + CO₂",
+        "CaO + H₂O → Ca(OH)₂ + heat"
+      ],
+      "explanation": {
+        "en": "Made by heating limestone (decomposition); slaking it with water is a combination reaction.",
+        "hi": "चूना-पत्थर गरम करके (वियोजन) बनता है; जल से बुझाना संयोजन अभिक्रिया है।"
+      },
+      "practicalNote": {
+        "en": "Action of water on quick lime in a beaker.",
+        "hi": "बीकर में बिना बुझे चूने पर जल की क्रिया।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "1.2.1, 1.2.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "calcium-hydroxide",
+      "kind": "compound",
+      "name": {
+        "en": "Calcium hydroxide (slaked lime / lime water)",
+        "hi": "कैल्सियम हाइड्रॉक्साइड (बुझा चूना / चूने का पानी)"
+      },
+      "formula": "Ca(OH)₂",
+      "properties": [
+        {
+          "en": "Base; its clear solution in water is lime water.",
+          "hi": "क्षारक; जल में इसका स्वच्छ विलयन चूने का पानी है।"
+        },
+        {
+          "en": "Turns milky with CO₂ (calcium carbonate forms); clears again with excess CO₂.",
+          "hi": "CO₂ से दूधिया हो जाता है (कैल्सियम कार्बोनेट बनता है); अधिक CO₂ से फिर स्वच्छ।"
+        }
+      ],
+      "uses": [
+        {
+          "en": "Whitewashing walls; testing for carbon dioxide; making bleaching powder.",
+          "hi": "दीवारों पर सफ़ेदी; कार्बन डाइऑक्साइड का परीक्षण; विरंजक चूर्ण बनाना।"
+        }
+      ],
+      "equations": [
+        "Ca(OH)₂ + CO₂ → CaCO₃ + H₂O",
+        "CaCO₃ + H₂O + CO₂ → Ca(HCO₃)₂"
+      ],
+      "explanation": {
+        "en": "Formed when quick lime reacts with water; reacts with CO₂ in air to give a shiny CaCO₃ finish on whitewashed walls.",
+        "hi": "बिना बुझे चूने और जल की अभिक्रिया से बनता है; वायु की CO₂ से अभिक्रिया कर सफ़ेदी वाली दीवारों पर चमकदार CaCO₃ परत देता है।"
+      },
+      "practicalNote": null,
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "1.2.1, 2.1.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "methane",
+      "kind": "compound",
+      "name": {
+        "en": "Methane",
+        "hi": "मेथेन"
+      },
+      "formula": "CH₄",
+      "properties": [
+        {
+          "en": "Simplest saturated hydrocarbon (alkane); gas with single covalent bonds.",
+          "hi": "सबसे सरल संतृप्त हाइड्रोकार्बन (ऐल्केन); एकल सहसंयोजी आबंधों वाली गैस।"
+        },
+        {
+          "en": "Burns with a clean blue flame; reacts with chlorine in sunlight (substitution).",
+          "hi": "स्वच्छ नीली ज्वाला से जलती है; सूर्य के प्रकाश में क्लोरीन से अभिक्रिया (प्रतिस्थापन)।"
+        }
+      ],
+      "uses": [
+        {
+          "en": "Major component of CNG and biogas; fuel.",
+          "hi": "सी.एन.जी. और बायोगैस का मुख्य घटक; ईंधन।"
+        }
+      ],
+      "equations": [
+        "CH₄ + 2O₂ → CO₂ + 2H₂O + heat and light",
+        "CH₄ + Cl₂ →(sunlight) CH₃Cl + HCl"
+      ],
+      "explanation": {
+        "en": "Carbon shares one electron pair with each of four hydrogen atoms; first member of the alkane series CₙH₂ₙ₊₂.",
+        "hi": "कार्बन चार हाइड्रोजन परमाणुओं में से प्रत्येक के साथ एक इलेक्ट्रॉन युग्म साझा करता है; ऐल्केन श्रेणी CₙH₂ₙ₊₂ का पहला सदस्य।"
+      },
+      "practicalNote": null,
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "4.1, 4.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "ethanol",
+      "kind": "compound",
+      "name": {
+        "en": "Ethanol (ethyl alcohol)",
+        "hi": "एथनॉल (एथिल ऐल्कोहॉल)"
+      },
+      "formula": "C₂H₅OH",
+      "properties": [
+        {
+          "en": "Liquid, soluble in water; neutral to litmus.",
+          "hi": "द्रव, जल में घुलनशील; लिटमस के प्रति उदासीन।"
+        },
+        {
+          "en": "Reacts with sodium to give hydrogen; dehydrated to ethene by hot conc. H₂SO₄; oxidised to ethanoic acid.",
+          "hi": "सोडियम से हाइड्रोजन देता है; गरम सांद्र H₂SO₄ से निर्जलित होकर एथीन; ऑक्सीकृत होकर एथेनॉइक अम्ल।"
+        }
+      ],
+      "uses": [
+        {
+          "en": "Solvent in medicines (tincture of iodine, cough syrups); sanitisers.",
+          "hi": "दवाओं में विलायक (टिंचर आयोडीन, कफ़ सिरप); सैनिटाइज़र।"
+        },
+        {
+          "en": "Fuel additive in petrol (cleaner burning).",
+          "hi": "पेट्रोल में ईंधन योजक (स्वच्छ दहन)।"
+        }
+      ],
+      "equations": [
+        "2Na + 2CH₃CH₂OH → 2CH₃CH₂ONa + H₂",
+        "CH₃CH₂OH →(conc. H₂SO₄, 443 K) CH₂=CH₂ + H₂O",
+        "CH₃CH₂OH + 3O₂ → 2CO₂ + 3H₂O"
+      ],
+      "explanation": {
+        "en": "Made by fermenting molasses from sugarcane; industrial alcohol is denatured with methanol and blue dye.",
+        "hi": "गन्ने के शीरे के किण्वन से बनता है; औद्योगिक ऐल्कोहॉल को मेथनॉल और नीले रंग से विकृत किया जाता है।"
+      },
+      "practicalNote": null,
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "4.4.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "ethanoic-acid",
+      "kind": "compound",
+      "name": {
+        "en": "Ethanoic acid (acetic acid)",
+        "hi": "एथेनॉइक अम्ल (ऐसीटिक अम्ल)"
+      },
+      "formula": "CH₃COOH",
+      "properties": [
+        {
+          "en": "Weak carboxylic acid with a vinegar smell; turns blue litmus red.",
+          "hi": "सिरके जैसी गंध वाला दुर्बल कार्बोक्सिलिक अम्ल; नीले लिटमस को लाल करता है।"
+        },
+        {
+          "en": "Pure acid (m.p. 290 K) freezes in winter — glacial acetic acid.",
+          "hi": "शुद्ध अम्ल (गलनांक 290 K) सर्दियों में जम जाता है — ग्लेशियल ऐसीटिक अम्ल।"
+        },
+        {
+          "en": "Gives CO₂ with carbonates and hydrogencarbonates; forms esters with alcohols.",
+          "hi": "कार्बोनेटों और हाइड्रोजनकार्बोनेटों से CO₂ देता है; ऐल्कोहॉलों के साथ एस्टर बनाता है।"
+        }
+      ],
+      "uses": [
+        {
+          "en": "Vinegar (5–8% solution) as a preservative in pickles.",
+          "hi": "सिरका (5–8% विलयन) अचार में परिरक्षक के रूप में।"
+        }
+      ],
+      "equations": [
+        "CH₃COOH + NaHCO₃ → CH₃COONa + H₂O + CO₂",
+        "NaOH + CH₃COOH → CH₃COONa + H₂O",
+        "CH₃COOH + C₂H₅OH →(acid) CH₃COOC₂H₅ + H₂O"
+      ],
+      "explanation": {
+        "en": "The –COOH group makes it acidic, but it ionises much less than HCl, so it is a weak acid.",
+        "hi": "–COOH समूह इसे अम्लीय बनाता है, पर यह HCl से बहुत कम आयनित होता है, इसलिए दुर्बल अम्ल है।"
+      },
+      "practicalNote": {
+        "en": "Studying its odour, solubility in water, effect on litmus and reaction with sodium hydrogencarbonate.",
+        "hi": "इसकी गंध, जल में विलेयता, लिटमस पर प्रभाव और सोडियम हाइड्रोजनकार्बोनेट से अभिक्रिया का अध्ययन।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "4.4.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "ammonium-chloride",
+      "kind": "compound",
+      "name": {
+        "en": "Ammonium chloride",
+        "hi": "अमोनियम क्लोराइड"
+      },
+      "formula": "NH₄Cl",
+      "properties": [
+        {
+          "en": "White solid that sublimes on heating.",
+          "hi": "सफ़ेद ठोस जो गरम करने पर ऊर्ध्वपातित होता है।"
+        },
+        {
+          "en": "Its solution is acidic (salt of a strong acid and a weak base).",
+          "hi": "इसका विलयन अम्लीय होता है (प्रबल अम्ल और दुर्बल क्षारक का लवण)।"
+        }
+      ],
+      "uses": [
+        {
+          "en": "Separating it from common salt by sublimation in the lab.",
+          "hi": "प्रयोगशाला में ऊर्ध्वपातन द्वारा इसे साधारण नमक से अलग करना।"
+        },
+        {
+          "en": "By-product of making baking soda.",
+          "hi": "खाने का सोडा बनाने में उप-उत्पाद।"
+        }
+      ],
+      "equations": [
+        "NaCl + H₂O + CO₂ + NH₃ → NH₄Cl + NaHCO₃"
+      ],
+      "explanation": {
+        "en": "Because it sublimes and common salt does not, a mixture of the two can be separated by heating.",
+        "hi": "यह ऊर्ध्वपातित होता है और साधारण नमक नहीं, इसलिए दोनों का मिश्रण गरम करके अलग किया जा सकता है।"
+      },
+      "practicalNote": {
+        "en": "Separating a mixture of ammonium chloride and common salt by sublimation.",
+        "hi": "ऊर्ध्वपातन द्वारा अमोनियम क्लोराइड और साधारण नमक के मिश्रण का पृथक्करण।"
+      },
+      "sources": [
+        {
+          "sourceId": "cbse-sci-9",
+          "section": "Practical 2"
+        },
+        {
+          "sourceId": "ncert-10-en",
+          "section": "2.4.2, 2.4.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "potash-alum",
+      "kind": "compound",
+      "name": {
+        "en": "Alum (fitkari)",
+        "hi": "फिटकरी"
+      },
+      "formula": null,
+      "properties": [
+        {
+          "en": "White crystalline substance soluble in water.",
+          "hi": "जल में घुलनशील सफ़ेद क्रिस्टलीय पदार्थ।"
+        },
+        {
+          "en": "Acts as a coagulant: makes fine suspended particles clump together and settle.",
+          "hi": "स्कंदक का काम करती है: बारीक निलंबित कणों को आपस में जोड़कर नीचे बैठा देती है।"
+        }
+      ],
+      "uses": [
+        {
+          "en": "Clearing muddy water before filtration; water purification.",
+          "hi": "छानने से पहले गंदले पानी को साफ़ करना; जल-शोधन।"
+        }
+      ],
+      "equations": [],
+      "explanation": {
+        "en": "Coagulation by alum followed by sedimentation and decantation or filtration removes fine particles that pass through a filter.",
+        "hi": "फिटकरी से स्कंदन, फिर अवसादन और निथारना या छानना — इससे वे बारीक कण हटते हैं जो फ़िल्टर से निकल जाते हैं।"
+      },
+      "practicalNote": {
+        "en": "Clearing muddy water with alum (coagulation); alum solution as an example of a true solution.",
+        "hi": "फिटकरी से गंदला पानी साफ़ करना (स्कंदन); फिटकरी का विलयन वास्तविक विलयन के उदाहरण के रूप में।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "5.4.3"
+        },
+        {
+          "sourceId": "cbse-sci-9",
+          "section": "Practicals 1–2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "barium-sulfate-precipitation",
+      "kind": "reaction",
+      "name": {
+        "en": "Sodium sulphate + barium chloride (precipitation)",
+        "hi": "सोडियम सल्फ़ेट + बेरियम क्लोराइड (अवक्षेपण)"
+      },
+      "formula": null,
+      "properties": [
+        {
+          "en": "A white precipitate of barium sulphate forms immediately.",
+          "hi": "बेरियम सल्फ़ेट का सफ़ेद अवक्षेप तुरंत बनता है।"
+        },
+        {
+          "en": "No gas is formed, so the total mass does not change even in an open flask.",
+          "hi": "कोई गैस नहीं बनती, इसलिए खुले फ्लास्क में भी कुल द्रव्यमान नहीं बदलता।"
+        }
+      ],
+      "uses": [
+        {
+          "en": "Verifying the law of conservation of mass; example of double displacement.",
+          "hi": "द्रव्यमान संरक्षण नियम का सत्यापन; द्विविस्थापन का उदाहरण।"
+        }
+      ],
+      "equations": [
+        "Na₂SO₄(aq) + BaCl₂(aq) → BaSO₄(s) + 2NaCl(aq)"
+      ],
+      "explanation": {
+        "en": "Ba²⁺ and SO₄²⁻ ions combine to form insoluble BaSO₄, while Na⁺ and Cl⁻ stay in solution.",
+        "hi": "Ba²⁺ और SO₄²⁻ आयन जुड़कर अघुलनशील BaSO₄ बनाते हैं, जबकि Na⁺ और Cl⁻ विलयन में रहते हैं।"
+      },
+      "practicalNote": {
+        "en": "Weighing the reactants and products to verify conservation of mass, and classifying it as double displacement.",
+        "hi": "द्रव्यमान संरक्षण के सत्यापन हेतु अभिकारकों और उत्पादों को तौलना, तथा इसे द्विविस्थापन के रूप में वर्गीकृत करना।"
+      },
+      "sources": [
+        {
+          "sourceId": "ncert-9-en",
+          "section": "Activity 9.3"
+        },
+        {
+          "sourceId": "ncert-10-en",
+          "section": "Activity 1.10"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "silver-chloride-photolysis",
+      "kind": "reaction",
+      "name": {
+        "en": "Decomposition of silver chloride by light",
+        "hi": "प्रकाश द्वारा सिल्वर क्लोराइड का वियोजन"
+      },
+      "formula": null,
+      "properties": [
+        {
+          "en": "White silver chloride turns grey in sunlight as silver forms.",
+          "hi": "धूप में सफ़ेद सिल्वर क्लोराइड धूसर हो जाता है क्योंकि चाँदी बनती है।"
+        },
+        {
+          "en": "Silver bromide decomposes in the same way.",
+          "hi": "सिल्वर ब्रोमाइड भी इसी प्रकार वियोजित होता है।"
+        }
+      ],
+      "uses": [
+        {
+          "en": "Black-and-white photography.",
+          "hi": "श्वेत-श्याम फ़ोटोग्राफ़ी।"
+        }
+      ],
+      "equations": [
+        "2AgCl(s) →(sunlight) 2Ag(s) + Cl₂(g)",
+        "2AgBr(s) →(sunlight) 2Ag(s) + Br₂(g)"
+      ],
+      "explanation": {
+        "en": "Light supplies the energy for decomposition (photolytic decomposition).",
+        "hi": "वियोजन के लिए ऊर्जा प्रकाश देता है (प्रकाश-अपघटनी वियोजन)।"
+      },
+      "practicalNote": null,
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "1.2.2, Activity 1.8"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "electrolysis-of-water",
+      "kind": "reaction",
+      "name": {
+        "en": "Electrolysis of water",
+        "hi": "जल का विद्युत-अपघटन"
+      },
+      "formula": null,
+      "properties": [
+        {
+          "en": "Hydrogen collects at the cathode and oxygen at the anode.",
+          "hi": "हाइड्रोजन कैथोड पर और ऑक्सीजन ऐनोड पर एकत्र होती है।"
+        },
+        {
+          "en": "Volume of hydrogen is twice that of oxygen; by mass the ratio is 1 : 8.",
+          "hi": "हाइड्रोजन का आयतन ऑक्सीजन का दोगुना होता है; द्रव्यमान में अनुपात 1 : 8 है।"
+        }
+      ],
+      "uses": [
+        {
+          "en": "Producing pure hydrogen; showing that water is a compound of H and O.",
+          "hi": "शुद्ध हाइड्रोजन बनाना; यह दिखाना कि जल H और O का यौगिक है।"
+        }
+      ],
+      "equations": [
+        "2H₂O(l) →(electricity) 2H₂(g) + O₂(g)"
+      ],
+      "explanation": {
+        "en": "Electricity supplies the energy to break water into its elements — an electrolytic decomposition.",
+        "hi": "विद्युत जल को उसके तत्वों में तोड़ने की ऊर्जा देती है — यह विद्युत-अपघटनी वियोजन है।"
+      },
+      "practicalNote": null,
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "1.2.2, Activity 1.7"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "chlor-alkali-reaction",
+      "kind": "reaction",
+      "name": {
+        "en": "Chlor-alkali process (electrolysis of brine)",
+        "hi": "क्लोर-क्षार प्रक्रम (ब्राइन का विद्युत-अपघटन)"
+      },
+      "formula": null,
+      "properties": [
+        {
+          "en": "Chlorine at the anode, hydrogen at the cathode, sodium hydroxide near the cathode.",
+          "hi": "ऐनोड पर क्लोरीन, कैथोड पर हाइड्रोजन, कैथोड के पास सोडियम हाइड्रॉक्साइड।"
+        }
+      ],
+      "uses": [
+        {
+          "en": "NaOH: soaps, paper, fibres. Cl₂: water treatment, PVC, disinfectants. H₂: fuels, margarine, ammonia for fertilisers.",
+          "hi": "NaOH: साबुन, काग़ज़, रेशे। Cl₂: जल-शोधन, PVC, रोगाणुनाशक। H₂: ईंधन, मार्गरीन, उर्वरकों के लिए अमोनिया।"
+        }
+      ],
+      "equations": [
+        "2NaCl(aq) + 2H₂O(l) → 2NaOH(aq) + Cl₂(g) + H₂(g)"
+      ],
+      "explanation": {
+        "en": "Named after its products: 'chlor' for chlorine and 'alkali' for sodium hydroxide; all three products are useful.",
+        "hi": "इसका नाम इसके उत्पादों पर है: क्लोरीन के लिए 'क्लोर' और सोडियम हाइड्रॉक्साइड के लिए 'क्षार'; तीनों उत्पाद उपयोगी हैं।"
+      },
+      "practicalNote": null,
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "2.4.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "thermite-reaction",
+      "kind": "reaction",
+      "name": {
+        "en": "Thermite reaction",
+        "hi": "थर्मिट अभिक्रिया"
+      },
+      "formula": null,
+      "properties": [
+        {
+          "en": "Highly exothermic displacement — the iron produced is molten.",
+          "hi": "अत्यधिक ऊष्माक्षेपी विस्थापन — बनने वाला लोहा पिघली अवस्था में होता है।"
+        },
+        {
+          "en": "Aluminium acts as the reducing agent because it is more reactive than iron.",
+          "hi": "ऐलुमिनियम अपचायक का काम करता है क्योंकि वह लोहे से अधिक क्रियाशील है।"
+        }
+      ],
+      "uses": [
+        {
+          "en": "Joining railway tracks and cracked machine parts.",
+          "hi": "रेल की पटरियाँ और मशीनों के टूटे भाग जोड़ना।"
+        }
+      ],
+      "equations": [
+        "Fe₂O₃(s) + 2Al(s) → 2Fe(l) + Al₂O₃(s) + heat"
+      ],
+      "explanation": {
+        "en": "An example of displacement used in extracting or using metals in the middle of the reactivity series.",
+        "hi": "सक्रियता श्रेणी के मध्य की धातुओं के निष्कर्षण या उपयोग में प्रयुक्त विस्थापन का उदाहरण।"
+      },
+      "practicalNote": null,
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "3.4.4"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "esterification-reaction",
+      "kind": "reaction",
+      "name": {
+        "en": "Esterification and saponification",
+        "hi": "एस्टरीकरण और साबुनीकरण"
+      },
+      "formula": null,
+      "properties": [
+        {
+          "en": "An acid and an alcohol form a sweet-smelling ester in the presence of an acid catalyst.",
+          "hi": "अम्ल उत्प्रेरक की उपस्थिति में अम्ल और ऐल्कोहॉल मीठी गंध वाला एस्टर बनाते हैं।"
+        },
+        {
+          "en": "Heating the ester with NaOH gives back the alcohol and the sodium salt of the acid.",
+          "hi": "एस्टर को NaOH के साथ गरम करने पर ऐल्कोहॉल और अम्ल का सोडियम लवण पुनः मिलते हैं।"
+        }
+      ],
+      "uses": [
+        {
+          "en": "Esters in perfumes and flavourings; saponification to make soap.",
+          "hi": "इत्र और सुगंधकारकों में एस्टर; साबुन बनाने के लिए साबुनीकरण।"
+        }
+      ],
+      "equations": [
+        "CH₃COOH + CH₃CH₂OH →(acid) CH₃COOCH₂CH₃ + H₂O",
+        "CH₃COOC₂H₅ →(NaOH) C₂H₅OH + CH₃COONa"
+      ],
+      "explanation": {
+        "en": "Saponification is so named because the same type of reaction is used to make soap.",
+        "hi": "साबुनीकरण नाम इसलिए है क्योंकि इसी प्रकार की अभिक्रिया से साबुन बनाया जाता है।"
+      },
+      "practicalNote": null,
+      "sources": [
+        {
+          "sourceId": "ncert-10-en",
+          "section": "4.4.2, Activity 4.8"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    }
+  ]
+}

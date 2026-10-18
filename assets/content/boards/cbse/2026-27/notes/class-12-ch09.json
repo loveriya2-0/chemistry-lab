@@ -1,0 +1,502 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "note-cbse-12-ch09-t9.1",
+      "targetId": "cbse-12-ch09-t9.1",
+      "covers": [],
+      "definition": {
+        "en": "Amines are derivatives of ammonia in which one or more hydrogen atoms are replaced by alkyl or aryl groups; their nitrogen is sp³ hybridised with a lone pair, giving a pyramidal shape.",
+        "hi": "ऐमीन अमोनिया के व्युत्पन्न हैं जिनमें एक या अधिक हाइड्रोजन परमाणु ऐल्किल या ऐरिल समूहों से प्रतिस्थापित होते हैं; इनका नाइट्रोजन sp³ संकरित है और एकाकी युग्म के कारण आकृति पिरामिडी होती है।"
+      },
+      "explanation": {
+        "en": "Like ammonia, nitrogen in amines is trivalent and carries an unshared electron pair in the fourth sp³ orbital. Because the lone pair repels the bond pairs, the C–N–E angle (E = C or H) is less than 109.5°; in trimethylamine it is 108°. Amines occur in proteins, vitamins, alkaloids and hormones; adrenaline and ephedrine raise blood pressure, novocain is a dental anaesthetic, and benadryl is an antihistamine.",
+        "hi": "अमोनिया की तरह ऐमीनों में नाइट्रोजन त्रिसंयोजी है और चौथे sp³ कक्षक में एक असहभाजित इलेक्ट्रॉन युग्म रखता है। एकाकी युग्म आबंध युग्मों को प्रतिकर्षित करता है, इसलिए C–N–E कोण (E = C या H) 109.5° से कम होता है; ट्राइमेथिलऐमीन में यह 108° है। ऐमीन प्रोटीनों, विटामिनों, ऐल्केलॉइडों और हॉर्मोनों में पाए जाते हैं; ऐड्रिनेलिन और एफ़ेड्रिन रक्तचाप बढ़ाते हैं, नोवोकेन दंत चिकित्सा में निश्चेतक है और बेनाड्रिल प्रतिहिस्टैमिन है।"
+      },
+      "keyPoints": [
+        {"en": "Amine nitrogen: sp³, pyramidal, one lone pair (makes amines basic and nucleophilic).", "hi": "ऐमीन नाइट्रोजन: sp³, पिरामिडी, एक एकाकी युग्म (जो ऐमीनों को क्षारकीय और नाभिकस्नेही बनाता है)।"},
+        {"en": "C–N–C angle in (CH₃)₃N is 108°.", "hi": "(CH₃)₃N में C–N–C कोण 108° है।"}
+      ],
+      "realLife": {
+        "en": "Quaternary ammonium salts are used as surfactants, and many drugs such as benadryl contain amino groups.",
+        "hi": "चतुष्क अमोनियम लवण पृष्ठसक्रियक के रूप में प्रयुक्त होते हैं, और बेनाड्रिल जैसी अनेक औषधियों में ऐमीनो समूह होते हैं।"
+      },
+      "examFocus": {
+        "en": "Describe the structure and hybridisation of amines and explain the bond angle.",
+        "hi": "ऐमीनों की संरचना और संकरण बताइए तथा आबंध कोण समझाइए।"
+      },
+      "commonMistakes": [
+        {"en": "Drawing amines as planar — nitrogen is pyramidal because of its lone pair.", "hi": "ऐमीनों को समतली बनाना — एकाकी युग्म के कारण नाइट्रोजन पिरामिडी है।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["amines-and-diazonium"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "9.1"}],
+      "review": {"status": "sourceChecked"},
+      "quickRevision": {
+        "oneLine": {"en": "Amines: NH₃ with H replaced by R/Ar; N is sp³ and pyramidal.", "hi": "ऐमीन: NH₃ जिसमें H की जगह R/Ar; N sp³ और पिरामिडी।"},
+        "points": [
+          {"en": "Lone pair on N → basic, nucleophilic.", "hi": "N पर एकाकी युग्म → क्षारकीय, नाभिकस्नेही।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch09-t9.2",
+      "targetId": "cbse-12-ch09-t9.2",
+      "covers": [],
+      "definition": {
+        "en": "Amines are primary (RNH₂), secondary (R₂NH) or tertiary (R₃N) according to how many hydrogens of ammonia are replaced by alkyl or aryl groups.",
+        "hi": "अमोनिया के कितने हाइड्रोजन ऐल्किल या ऐरिल समूहों से प्रतिस्थापित हुए हैं, इसके अनुसार ऐमीन प्राथमिक (RNH₂), द्वितीयक (R₂NH) या तृतीयक (R₃N) होते हैं।"
+      },
+      "explanation": {
+        "en": "Replacing one H gives a 1° amine (R–NH₂ or Ar–NH₂); replacing two gives a 2° amine (R–NH–R′); replacing all three gives a 3° amine. Amines are 'simple' when all the groups are the same and 'mixed' when they differ. Note that 1°, 2°, 3° here refer to the nitrogen, not to the carbon as in alcohols: (CH₃)₃C–NH₂ is a primary amine.",
+        "hi": "एक H के प्रतिस्थापन से 1° ऐमीन (R–NH₂ या Ar–NH₂), दो से 2° ऐमीन (R–NH–R′) और तीनों से 3° ऐमीन बनता है। सभी समूह समान हों तो ऐमीन 'सरल' और भिन्न हों तो 'मिश्रित' कहलाते हैं। ध्यान दें कि यहाँ 1°, 2°, 3° नाइट्रोजन के लिए है, ऐल्कोहॉलों की तरह कार्बन के लिए नहीं: (CH₃)₃C–NH₂ प्राथमिक ऐमीन है।"
+      },
+      "keyPoints": [
+        {"en": "Number of H on N: 1° has 2, 2° has 1, 3° has none.", "hi": "N पर H की संख्या: 1° में 2, 2° में 1, 3° में कोई नहीं।"},
+        {"en": "Aryl amines (aniline) have –NH₂ directly on the benzene ring.", "hi": "ऐरिल ऐमीनों (ऐनिलीन) में –NH₂ सीधे बेन्ज़ीन वलय पर होता है।"}
+      ],
+      "realLife": {
+        "en": "Adrenaline and ephedrine contain secondary amino groups; benadryl contains a tertiary amino group.",
+        "hi": "ऐड्रिनेलिन और एफ़ेड्रिन में द्वितीयक ऐमीनो समूह और बेनाड्रिल में तृतीयक ऐमीनो समूह होता है।"
+      },
+      "examFocus": {
+        "en": "Classify amines as 1°, 2° or 3°, simple or mixed.",
+        "hi": "ऐमीनों को 1°, 2° या 3°, सरल या मिश्रित में वर्गीकृत कीजिए।"
+      },
+      "commonMistakes": [
+        {"en": "Calling tert-butylamine a tertiary amine — only one H on N is replaced, so it is primary.", "hi": "tert-ब्यूटिलऐमीन को तृतीयक ऐमीन कहना — N पर केवल एक H प्रतिस्थापित है, अतः यह प्राथमिक है।"}
+      ],
+      "formulas": ["1°: R–NH₂; 2°: R₂NH; 3°: R₃N"],
+      "practicalIds": [],
+      "conceptIds": ["amines-and-diazonium"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "9.2"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Amine degree = groups on N, not on C\"",
+            "hi": "\"ऐमीन की कोटि = N पर समूह, C पर नहीं\""
+          },
+          "recall": {
+            "en": "Count the alkyl or aryl groups attached to nitrogen: one → 1°, two → 2°, three → 3°. So (CH₃)₃C–NH₂ (tert-butylamine) is a primary amine, unlike alcohols where the degree refers to the carbon.",
+            "hi": "नाइट्रोजन से जुड़े ऐल्किल या ऐरिल समूह गिनें: एक → 1°, दो → 2°, तीन → 3°। इसलिए (CH₃)₃C–NH₂ (tert-ब्यूटिलऐमीन) प्राथमिक ऐमीन है, जबकि ऐल्कोहॉलों में कोटि कार्बन के आधार पर होती है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "1°/2°/3° amine = 1/2/3 H of NH₃ replaced by R or Ar.", "hi": "1°/2°/3° ऐमीन = NH₃ के 1/2/3 H की जगह R या Ar।"},
+        "formula": "1°: R–NH₂; 2°: R₂NH; 3°: R₃N",
+        "points": [
+          {"en": "Classification is based on nitrogen, not carbon.", "hi": "वर्गीकरण नाइट्रोजन के आधार पर है, कार्बन के नहीं।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch09-t9.3",
+      "targetId": "cbse-12-ch09-t9.3",
+      "covers": [],
+      "definition": {
+        "en": "In IUPAC names primary amines are alkanamines (the 'e' of the alkane is replaced by 'amine'); substituents on nitrogen are shown with the locant N; C₆H₅NH₂ is benzenamine (aniline).",
+        "hi": "IUPAC नामों में प्राथमिक ऐमीन ऐल्केनऐमीन होते हैं (ऐल्केन के 'e' को 'amine' से बदलते हैं); नाइट्रोजन पर प्रतिस्थापी N स्थान-संकेत से दर्शाए जाते हैं; C₆H₅NH₂ बेन्ज़ीनऐमीन (ऐनिलीन) है।"
+      },
+      "explanation": {
+        "en": "Common names prefix the alkyl group to 'amine' as one word (methylamine, dimethylamine). IUPAC: CH₃NH₂ = methanamine; CH₃NHCH₂CH₃ = N-methylethanamine; (CH₃CH₂)₃N = N,N-diethylethanamine. With two amino groups the 'e' of the hydrocarbon is kept: H₂N–CH₂–CH₂–NH₂ = ethane-1,2-diamine. Aniline is also an accepted IUPAC name; substituted anilines are named from it (N,N-dimethylaniline).",
+        "hi": "सामान्य नामों में ऐल्किल समूह को 'ऐमीन' से जोड़कर एक शब्द बनाते हैं (मेथिलऐमीन, डाइमेथिलऐमीन)। IUPAC: CH₃NH₂ = मेथेनऐमीन; CH₃NHCH₂CH₃ = N-मेथिलएथेनऐमीन; (CH₃CH₂)₃N = N,N-डाइएथिलएथेनऐमीन। दो ऐमीनो समूह होने पर हाइड्रोकार्बन का 'e' रखा जाता है: H₂N–CH₂–CH₂–NH₂ = एथेन-1,2-डाइऐमीन। ऐनिलीन भी स्वीकृत IUPAC नाम है; प्रतिस्थापित ऐनिलीनों का नाम इसी से होता है (N,N-डाइमेथिलऐनिलीन)।"
+      },
+      "keyPoints": [
+        {"en": "The larger alkyl group forms the parent alkanamine; smaller groups on N get the prefix N-.", "hi": "बड़ा ऐल्किल समूह जनक ऐल्केनऐमीन बनाता है; N पर छोटे समूहों को N- उपसर्ग मिलता है।"},
+        {"en": "C₆H₅CH₂NH₂ = phenylmethanamine (benzylamine).", "hi": "C₆H₅CH₂NH₂ = फ़ेनिलमेथेनऐमीन (बेन्ज़िलऐमीन)।"}
+      ],
+      "realLife": {
+        "en": "Ethane-1,2-diamine (en) is the common didentate ligand used in coordination compounds.",
+        "hi": "एथेन-1,2-डाइऐमीन (en) उपसहसंयोजन यौगिकों में प्रयुक्त सामान्य द्विदंतुर लिगेंड है।"
+      },
+      "examFocus": {
+        "en": "Write IUPAC names of 1°, 2° and 3° amines using the N-locant, and structures from names.",
+        "hi": "N-स्थान-संकेत का उपयोग कर 1°, 2° और 3° ऐमीनों के IUPAC नाम और नामों से संरचनाएँ लिखिए।"
+      },
+      "commonMistakes": [
+        {"en": "Writing 'ethylmethylamine' as the IUPAC name — it is N-methylethanamine.", "hi": "IUPAC नाम 'एथिलमेथिलऐमीन' लिखना — सही नाम N-मेथिलएथेनऐमीन है।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["amines-and-diazonium"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "9.3"}],
+      "review": {"status": "sourceChecked"},
+      "quickRevision": {
+        "oneLine": {"en": "1° amine: alkanamine; 2°/3°: N-alkyl alkanamine; aniline = benzenamine.", "hi": "1° ऐमीन: ऐल्केनऐमीन; 2°/3°: N-ऐल्किल ऐल्केनऐमीन; ऐनिलीन = बेन्ज़ीनऐमीन।"},
+        "points": [
+          {"en": "Diamines keep the 'e': ethane-1,2-diamine.", "hi": "डाइऐमीनों में 'e' रहता है: एथेन-1,2-डाइऐमीन।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch09-t9.4",
+      "targetId": "cbse-12-ch09-t9.4",
+      "covers": [],
+      "definition": {
+        "en": "Amines are prepared by reduction of nitro compounds, ammonolysis of alkyl halides, reduction of nitriles and amides, Gabriel phthalimide synthesis and Hoffmann bromamide degradation.",
+        "hi": "ऐमीन नाइट्रो यौगिकों के अपचयन, ऐल्किल हैलाइडों के अमोनी-अपघटन, नाइट्राइलों और ऐमाइडों के अपचयन, गैब्रिएल थैलिमाइड संश्लेषण और हॉफ़मान ब्रोमैमाइड निम्नीकरण से बनाए जाते हैं।"
+      },
+      "explanation": {
+        "en": "Nitro compounds are reduced with H₂/Ni, Pd or Pt, or with metals in acid; Fe scrap + HCl is preferred because FeCl₂ hydrolyses to release HCl, so little acid is needed. Ammonolysis: alkyl or benzyl halide + ethanolic NH₃ in a sealed tube at 373 K gives a mixture of 1°, 2°, 3° amines and the quaternary salt; a large excess of NH₃ favours the 1° amine. Nitriles reduced with LiAlH₄ or H₂/Ni give 1° amines with one more carbon (ascent of the series). Amides are reduced by LiAlH₄. Gabriel synthesis: phthalimide + ethanolic KOH → potassium phthalimide, heated with R–X then hydrolysed → pure 1° amine (not aromatic amines, as aryl halides do not react). Hoffmann bromamide degradation: RCONH₂ + Br₂ + 4NaOH → RNH₂ (one carbon fewer) + Na₂CO₃ + 2NaBr + 2H₂O.",
+        "hi": "नाइट्रो यौगिक H₂/Ni, Pd या Pt से, या अम्ल में धातुओं से अपचित होते हैं; Fe छीलन + HCl को वरीयता दी जाती है क्योंकि FeCl₂ जल-अपघटित होकर HCl मुक्त करता है, इसलिए कम अम्ल चाहिए। अमोनी-अपघटन: 373 K पर बंद नली में ऐल्किल या बेन्ज़िल हैलाइड + ऐल्कोहॉली NH₃ से 1°, 2°, 3° ऐमीनों और चतुष्क लवण का मिश्रण बनता है; NH₃ का अधिक आधिक्य 1° ऐमीन को बढ़ावा देता है। LiAlH₄ या H₂/Ni से अपचित नाइट्राइल एक अधिक कार्बन वाले 1° ऐमीन देते हैं (श्रेणी में आरोहण)। ऐमाइड LiAlH₄ से अपचित होते हैं। गैब्रिएल संश्लेषण: थैलिमाइड + ऐल्कोहॉली KOH → पोटैशियम थैलिमाइड, R–X के साथ गरम कर फिर जल-अपघटन → शुद्ध 1° ऐमीन (ऐरोमैटिक ऐमीन नहीं, क्योंकि ऐरिल हैलाइड अभिक्रिया नहीं करते)। हॉफ़मान ब्रोमैमाइड निम्नीकरण: RCONH₂ + Br₂ + 4NaOH → RNH₂ (एक कार्बन कम) + Na₂CO₃ + 2NaBr + 2H₂O।"
+      },
+      "keyPoints": [
+        {"en": "Nitrile reduction adds one carbon; Hoffmann degradation removes one carbon.", "hi": "नाइट्राइल अपचयन एक कार्बन जोड़ता है; हॉफ़मान निम्नीकरण एक कार्बन घटाता है।"},
+        {"en": "Gabriel synthesis gives only primary aliphatic amines, free of 2° and 3° amines.", "hi": "गैब्रिएल संश्लेषण केवल प्राथमिक ऐलिफ़ैटिक ऐमीन देता है, 2° और 3° ऐमीनों से मुक्त।"},
+        {"en": "Benzamide (7 C) → aniline (6 C) by Hoffmann degradation.", "hi": "हॉफ़मान निम्नीकरण से बेन्ज़ैमाइड (7 C) → ऐनिलीन (6 C)।"}
+      ],
+      "realLife": {
+        "en": "Aniline for dyes and drugs is made on a large scale by reducing nitrobenzene with iron scrap and hydrochloric acid.",
+        "hi": "रंजकों और औषधियों के लिए ऐनिलीन बड़े पैमाने पर नाइट्रोबेन्ज़ीन को आयरन छीलन और हाइड्रोक्लोरिक अम्ल से अपचित कर बनाया जाता है।"
+      },
+      "examFocus": {
+        "en": "Write Gabriel synthesis and Hoffmann bromamide degradation; give conversions that increase or decrease the carbon chain by one; explain why Gabriel fails for aromatic amines.",
+        "hi": "गैब्रिएल संश्लेषण और हॉफ़मान ब्रोमैमाइड निम्नीकरण लिखिए; एक कार्बन बढ़ाने या घटाने वाले रूपांतरण दीजिए; बताइए गैब्रिएल ऐरोमैटिक ऐमीनों के लिए क्यों विफल है।"
+      },
+      "commonMistakes": [
+        {"en": "Expecting ammonolysis to give only a primary amine — it gives a mixture unless NH₃ is in large excess.", "hi": "यह मानना कि अमोनी-अपघटन केवल प्राथमिक ऐमीन देगा — NH₃ के अधिक आधिक्य के बिना यह मिश्रण देता है।"}
+      ],
+      "formulas": [
+        "C₆H₅NO₂ + 6[H] → C₆H₅NH₂ + 2H₂O (Fe/HCl)",
+        "RX + NH₃ → RNH₂ + HX (ethanol, 373 K)",
+        "R–C≡N + 4[H] → R–CH₂–NH₂ (LiAlH₄ or H₂/Ni)",
+        "RCONH₂ + Br₂ + 4NaOH → RNH₂ + Na₂CO₃ + 2NaBr + 2H₂O"
+      ],
+      "practicalIds": [],
+      "conceptIds": ["amines-and-diazonium"],
+      "chemicalIds": ["aniline"],
+      "sources": [{"sourceId": "ncert-12-en", "section": "9.4"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "'Hoffmann Hacks off one carbon'", "hi": "'हॉफ़मान एक कार्बन काट देता है'"},
+          "recall": {"en": "Hoffmann bromamide degradation (amide + Br₂ + NaOH) gives a primary amine with one carbon fewer than the amide.", "hi": "हॉफ़मान ब्रोमैमाइड निम्नीकरण (ऐमाइड + Br₂ + NaOH) ऐमाइड से एक कार्बन कम वाला प्राथमिक ऐमीन देता है।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Amines from nitro compounds, halides (ammonolysis), nitriles, Gabriel synthesis, Hoffmann degradation.", "hi": "ऐमीन नाइट्रो यौगिकों, हैलाइडों (अमोनी-अपघटन), नाइट्राइलों, गैब्रिएल संश्लेषण, हॉफ़मान निम्नीकरण से।"},
+        "formula": "RCONH₂ + Br₂ + 4NaOH → RNH₂ + Na₂CO₃ + 2NaBr + 2H₂O",
+        "points": [
+          {"en": "Fe/HCl preferred for nitro reduction.", "hi": "नाइट्रो अपचयन के लिए Fe/HCl को वरीयता।"},
+          {"en": "Gabriel: only aliphatic 1° amines.", "hi": "गैब्रिएल: केवल ऐलिफ़ैटिक 1° ऐमीन।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch09-t9.5",
+      "targetId": "cbse-12-ch09-t9.5",
+      "covers": [],
+      "definition": {
+        "en": "Lower aliphatic amines are gases with a fishy smell and are water-soluble through hydrogen bonding; 1° and 2° amines are associated by intermolecular hydrogen bonds, 3° amines are not.",
+        "hi": "निम्न ऐलिफ़ैटिक ऐमीन मछली जैसी गंध वाली गैसें हैं और हाइड्रोजन आबंधन से जल-विलेय हैं; 1° और 2° ऐमीन अंतराअणुक हाइड्रोजन आबंधों से संगुणित होते हैं, 3° नहीं।"
+      },
+      "explanation": {
+        "en": "Primary amines with three or more carbons are liquids, higher ones solids. Aniline and other arylamines are colourless but darken on storage due to atmospheric oxidation. Solubility in water decreases as the hydrophobic alkyl part grows. Since N (3.0) is less electronegative than O (3.5), amines form weaker hydrogen bonds than alcohols, so butan-1-ol is more water-soluble than butan-1-amine and alcohols boil higher than amines of similar mass. Boiling points of isomeric amines: primary > secondary > tertiary, because 1° amines have two H on N for hydrogen bonding and 3° amines have none.",
+        "hi": "तीन या अधिक कार्बन वाले प्राथमिक ऐमीन द्रव और उच्चतर ठोस हैं। ऐनिलीन और अन्य ऐरिलऐमीन रंगहीन होते हैं पर भंडारण में वायुमंडलीय ऑक्सीकरण से रंगीन हो जाते हैं। हाइड्रोफ़ोबिक ऐल्किल भाग बढ़ने पर जल में विलेयता घटती है। N (3.0) की विद्युत-ऋणात्मकता O (3.5) से कम होने के कारण ऐमीन ऐल्कोहॉलों से दुर्बल हाइड्रोजन आबंध बनाते हैं, इसलिए ब्यूटेन-1-ऑल, ब्यूटेन-1-ऐमीन से अधिक जल-विलेय है और समान द्रव्यमान पर ऐल्कोहॉल ऐमीनों से अधिक ताप पर उबलते हैं। समावयवी ऐमीनों के क्वथनांक: प्राथमिक > द्वितीयक > तृतीयक, क्योंकि 1° ऐमीनों में हाइड्रोजन आबंधन के लिए N पर दो H और 3° में कोई नहीं होता।"
+      },
+      "keyPoints": [
+        {"en": "b.p. of isomers: 1° > 2° > 3° amine.", "hi": "समावयवियों का क्वथनांक: 1° > 2° > 3° ऐमीन।"},
+        {"en": "Ethylamine is soluble in water, aniline is not (large hydrophobic ring).", "hi": "एथिलऐमीन जल में विलेय है, ऐनिलीन नहीं (बड़ा हाइड्रोफ़ोबिक वलय)।"}
+      ],
+      "realLife": {
+        "en": "The fishy smell of stale fish comes from lower aliphatic amines.",
+        "hi": "बासी मछली की गंध निम्न ऐलिफ़ैटिक ऐमीनों से आती है।"
+      },
+      "examFocus": {
+        "en": "Explain the boiling point order of isomeric amines and compare amines with alcohols in solubility and boiling point.",
+        "hi": "समावयवी ऐमीनों के क्वथनांक क्रम को समझाइए और विलेयता तथा क्वथनांक में ऐमीनों की ऐल्कोहॉलों से तुलना कीजिए।"
+      },
+      "commonMistakes": [
+        {"en": "Expecting a tertiary amine to boil highest because it has the most carbon — it has no N–H, so no hydrogen bonding between its molecules.", "hi": "यह मानना कि सबसे अधिक कार्बन के कारण तृतीयक ऐमीन सबसे अधिक ताप पर उबलेगा — इसमें N–H नहीं, इसलिए अणुओं के बीच हाइड्रोजन आबंधन नहीं।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["amines-and-diazonium"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "9.5"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"More N–H, more H-bonds, higher boiling point\"",
+            "hi": "\"अधिक N–H, अधिक हाइड्रोजन आबंध, अधिक क्वथनांक\""
+          },
+          "recall": {
+            "en": "A 1° amine has two N–H hydrogens, a 2° amine one and a 3° amine none, so the boiling points of isomeric amines are 1° > 2° > 3°.",
+            "hi": "1° ऐमीन में दो N–H हाइड्रोजन, 2° में एक और 3° में कोई नहीं होता, इसलिए समावयवी ऐमीनों के क्वथनांक 1° > 2° > 3° होते हैं।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Amines H-bond (weaker than alcohols); isomer b.p. 1° > 2° > 3°.", "hi": "ऐमीन H-आबंध बनाते हैं (ऐल्कोहॉलों से दुर्बल); समावयवी क्वथनांक 1° > 2° > 3°।"},
+        "points": [
+          {"en": "Arylamines darken on storage (air oxidation).", "hi": "ऐरिलऐमीन भंडारण में गहरे हो जाते हैं (वायु ऑक्सीकरण)।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch09-t9.6",
+      "targetId": "cbse-12-ch09-t9.6",
+      "covers": [],
+      "definition": {
+        "en": "Amines are basic (Lewis bases) and nucleophilic because of the lone pair on nitrogen; they undergo salt formation, alkylation, acylation, the carbylamine reaction, reactions with nitrous acid and Hinsberg's reagent, and (aryl amines) electrophilic substitution.",
+        "hi": "नाइट्रोजन पर एकाकी युग्म के कारण ऐमीन क्षारकीय (लूइस क्षारक) और नाभिकस्नेही हैं; ये लवण निर्माण, ऐल्किलीकरण, ऐसिलीकरण, कार्बिलऐमीन अभिक्रिया, नाइट्रस अम्ल और हिन्सबर्ग अभिकर्मक से अभिक्रियाएँ और (ऐरिल ऐमीन) इलेक्ट्रॉनस्नेही प्रतिस्थापन करते हैं।"
+      },
+      "explanation": {
+        "en": "Basicity: larger Kb (smaller pKb) means a stronger base; pKb of NH₃ is 4.75 and of aliphatic amines 3 to 4.22. In the gas phase 3° > 2° > 1° > NH₃ (+I effect), but in water the order depends on +I effect, solvation and steric hindrance: (C₂H₅)₂NH > (C₂H₅)₃N > C₂H₅NH₂ > NH₃ and (CH₃)₂NH > CH₃NH₂ > (CH₃)₃N > NH₃. Aniline is weaker than ammonia because its lone pair is delocalised into the ring (five resonance structures vs two for anilinium); –OCH₃ and –CH₃ increase and –NO₂, –SO₃H, –COOH, –X decrease basicity of anilines. Acylation with acid chlorides or anhydrides (with pyridine) gives amides. Carbylamine test: 1° amines + CHCl₃ + ethanolic KOH give foul-smelling isocyanides. With HNO₂ (NaNO₂ + HCl), 1° aliphatic amines give alcohols and N₂ quantitatively; aromatic 1° amines at 273–278 K give diazonium salts. Hinsberg's reagent (C₆H₅SO₂Cl): 1° amine gives a sulphonamide soluble in alkali; 2° gives one insoluble in alkali; 3° does not react. –NH₂ strongly activates the ring (o/p): bromine water gives white 2,4,6-tribromoaniline; acetylation controls reactivity, so p-nitroaniline is made via acetanilide; direct nitration gives tarry products and some meta isomer (anilinium ion is meta-directing); sulphonation gives sulphanilic acid; aniline gives no Friedel–Crafts reaction (forms a salt with AlCl₃).",
+        "hi": "क्षारकता: अधिक Kb (कम pKb) का अर्थ प्रबल क्षारक; NH₃ का pKb 4.75 और ऐलिफ़ैटिक ऐमीनों का 3 से 4.22 है। गैस प्रावस्था में 3° > 2° > 1° > NH₃ (+I प्रभाव), पर जल में क्रम +I प्रभाव, विलायकयोजन और त्रिविम बाधा पर निर्भर है: (C₂H₅)₂NH > (C₂H₅)₃N > C₂H₅NH₂ > NH₃ तथा (CH₃)₂NH > CH₃NH₂ > (CH₃)₃N > NH₃। ऐनिलीन अमोनिया से दुर्बल है क्योंकि इसका एकाकी युग्म वलय में विस्थानीकृत है (ऐनिलिनियम की दो के मुकाबले पाँच अनुनादी संरचनाएँ); –OCH₃ और –CH₃ ऐनिलीनों की क्षारकता बढ़ाते और –NO₂, –SO₃H, –COOH, –X घटाते हैं। अम्ल क्लोराइडों या ऐनहाइड्राइडों से ऐसिलीकरण (पिरिडीन के साथ) ऐमाइड देता है। कार्बिलऐमीन परीक्षण: 1° ऐमीन + CHCl₃ + ऐल्कोहॉली KOH दुर्गंधयुक्त आइसोसायनाइड देते हैं। HNO₂ (NaNO₂ + HCl) से 1° ऐलिफ़ैटिक ऐमीन ऐल्कोहॉल और मात्रात्मक N₂ देते हैं; ऐरोमैटिक 1° ऐमीन 273–278 K पर डाइऐज़ोनियम लवण देते हैं। हिन्सबर्ग अभिकर्मक (C₆H₅SO₂Cl): 1° ऐमीन क्षार में विलेय सल्फ़ोनैमाइड देता है; 2° क्षार में अविलेय; 3° अभिक्रिया नहीं करता। –NH₂ वलय को प्रबल रूप से सक्रिय करता है (o/p): ब्रोमीन जल से सफ़ेद 2,4,6-ट्राइब्रोमोऐनिलीन; ऐसीटिलीकरण क्रियाशीलता नियंत्रित करता है, इसलिए p-नाइट्रोऐनिलीन ऐसीटैनिलाइड द्वारा बनाया जाता है; सीधा नाइट्रोकरण टार जैसे उत्पाद और कुछ मेटा समावयवी देता है (ऐनिलिनियम आयन मेटा-निर्देशक है); सल्फ़ोनीकरण से सल्फ़ैनिलिक अम्ल; ऐनिलीन फ़्रीडेल–क्राफ़्ट्स अभिक्रिया नहीं देता (AlCl₃ के साथ लवण बनाता है)।"
+      },
+      "keyPoints": [
+        {"en": "Basic strength: (C₂H₅)₂NH > C₂H₅NH₂ > NH₃ > C₆H₅NH₂.", "hi": "क्षारकीय सामर्थ्य: (C₂H₅)₂NH > C₂H₅NH₂ > NH₃ > C₆H₅NH₂।"},
+        {"en": "Carbylamine (isocyanide) test is given only by primary amines.", "hi": "कार्बिलऐमीन (आइसोसायनाइड) परीक्षण केवल प्राथमिक ऐमीन देते हैं।"},
+        {"en": "Hinsberg test distinguishes 1°, 2° and 3° amines (p-toluenesulphonyl chloride is now used).", "hi": "हिन्सबर्ग परीक्षण 1°, 2° और 3° ऐमीनों में अंतर करता है (अब p-टॉलूईनसल्फ़ोनिल क्लोराइड प्रयुक्त होता है)।"}
+      ],
+      "realLife": {
+        "en": "Amine salts are water-soluble, which is used to separate amines from non-basic compounds and to make amine drugs dissolve.",
+        "hi": "ऐमीन लवण जल-विलेय होते हैं, जिसका उपयोग ऐमीनों को अक्षारकीय यौगिकों से अलग करने और ऐमीन औषधियों को घुलनशील बनाने में होता है।"
+      },
+      "examFocus": {
+        "en": "Arrange amines by basic strength with reasons; write carbylamine, Hinsberg and nitrous acid reactions; explain why aniline gives m-nitroaniline on nitration and why it fails Friedel–Crafts.",
+        "hi": "कारण सहित ऐमीनों को क्षारकीय सामर्थ्य के क्रम में लगाइए; कार्बिलऐमीन, हिन्सबर्ग और नाइट्रस अम्ल अभिक्रियाएँ लिखिए; बताइए नाइट्रोकरण पर ऐनिलीन m-नाइट्रोऐनिलीन क्यों देता है और फ़्रीडेल–क्राफ़्ट्स क्यों नहीं देता।"
+      },
+      "commonMistakes": [
+        {"en": "Using the gas-phase order 3° > 2° > 1° for aqueous solution — in water solvation and steric effects change the order.", "hi": "जलीय विलयन के लिए गैस प्रावस्था का क्रम 3° > 2° > 1° लेना — जल में विलायकयोजन और त्रिविम प्रभाव क्रम बदल देते हैं।"},
+        {"en": "Thinking aniline is more basic than ammonia because the ring is large — the lone pair is delocalised, so aniline is weaker.", "hi": "यह सोचना कि बड़े वलय के कारण ऐनिलीन अमोनिया से अधिक क्षारकीय है — एकाकी युग्म विस्थानीकृत है, इसलिए ऐनिलीन दुर्बल है।"}
+      ],
+      "formulas": [
+        "R–NH₂ + CHCl₃ + 3KOH → R–NC + 3KCl + 3H₂O",
+        "R–NH₂ + HNO₂ → R–OH + N₂ + H₂O",
+        "C₆H₅NH₂ + 3Br₂ (aq) → 2,4,6-tribromoaniline + 3HBr",
+        "C₆H₅NH₂ + HCl → C₆H₅NH₃⁺Cl⁻"
+      ],
+      "practicalIds": ["cbse-12-pH", "cbse-12-pG"],
+      "conceptIds": ["amines-and-diazonium"],
+      "chemicalIds": ["aniline"],
+      "sources": [{"sourceId": "ncert-12-en", "section": "9.6"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "Hinsberg: '1° dissolves, 2° doesn't, 3° won't react'", "hi": "हिन्सबर्ग: '1° घुलता है, 2° नहीं घुलता, 3° अभिक्रिया ही नहीं करता'"},
+          "recall": {"en": "1° amine gives a sulphonamide with an acidic N–H, soluble in alkali; 2° gives one without N–H, insoluble in alkali; 3° amines do not react.", "hi": "1° ऐमीन अम्लीय N–H वाला क्षार-विलेय सल्फ़ोनैमाइड देता है; 2° N–H रहित, क्षार-अविलेय; 3° ऐमीन अभिक्रिया नहीं करते।"}
+        },
+        {
+          "trick": {"en": "Aqueous basicity (ethyl): '2 > 3 > 1 > NH₃'; (methyl): '2 > 1 > 3 > NH₃'", "hi": "जलीय क्षारकता (एथिल): '2 > 3 > 1 > NH₃'; (मेथिल): '2 > 1 > 3 > NH₃'"},
+          "recall": {"en": "(C₂H₅)₂NH > (C₂H₅)₃N > C₂H₅NH₂ > NH₃ and (CH₃)₂NH > CH₃NH₂ > (CH₃)₃N > NH₃ in water.", "hi": "जल में (C₂H₅)₂NH > (C₂H₅)₃N > C₂H₅NH₂ > NH₃ और (CH₃)₂NH > CH₃NH₂ > (CH₃)₃N > NH₃।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Amines are bases; aliphatic > NH₃ > aniline; tests: carbylamine (1°), Hinsberg (1°/2°/3°).", "hi": "ऐमीन क्षारक हैं; ऐलिफ़ैटिक > NH₃ > ऐनिलीन; परीक्षण: कार्बिलऐमीन (1°), हिन्सबर्ग (1°/2°/3°)।"},
+        "formula": "R–NH₂ + CHCl₃ + 3KOH → R–NC + 3KCl + 3H₂O",
+        "points": [
+          {"en": "–NH₂ is o/p directing and strongly activating; protect it by acetylation.", "hi": "–NH₂ o/p निर्देशक और प्रबल सक्रियक; ऐसीटिलीकरण से सुरक्षित करें।"},
+          {"en": "Aniline: no Friedel–Crafts; nitration gives some meta product.", "hi": "ऐनिलीन: फ़्रीडेल–क्राफ़्ट्स नहीं; नाइट्रोकरण कुछ मेटा उत्पाद देता है।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch09-t9.7",
+      "targetId": "cbse-12-ch09-t9.7",
+      "covers": [],
+      "definition": {
+        "en": "Arenediazonium salts (ArN₂⁺X⁻) are prepared by diazotisation: treating a primary aromatic amine with nitrous acid (NaNO₂ + HCl) at 273–278 K.",
+        "hi": "ऐरीनडाइऐज़ोनियम लवण (ArN₂⁺X⁻) डाइऐज़ोकरण द्वारा बनाए जाते हैं: 273–278 K पर प्राथमिक ऐरोमैटिक ऐमीन को नाइट्रस अम्ल (NaNO₂ + HCl) से उपचारित करना।"
+      },
+      "explanation": {
+        "en": "Nitrous acid is produced in the reaction mixture from sodium nitrite and hydrochloric acid. The salts are named by adding 'diazonium' to the parent hydrocarbon followed by the anion: C₆H₅N₂⁺Cl⁻ is benzenediazonium chloride and C₆H₅N₂⁺HSO₄⁻ is benzenediazonium hydrogensulphate. Arenediazonium ions are stabilised by resonance and survive for a short time in cold solution; alkyl diazonium salts are highly unstable. Because of this instability the salt is not stored but used immediately.",
+        "hi": "नाइट्रस अम्ल अभिक्रिया मिश्रण में ही सोडियम नाइट्राइट और हाइड्रोक्लोरिक अम्ल से बनता है। इन लवणों का नाम जनक हाइड्रोकार्बन में 'डाइऐज़ोनियम' जोड़कर और फिर ऋणायन का नाम लिखकर होता है: C₆H₅N₂⁺Cl⁻ बेन्ज़ीनडाइऐज़ोनियम क्लोराइड और C₆H₅N₂⁺HSO₄⁻ बेन्ज़ीनडाइऐज़ोनियम हाइड्रोजनसल्फ़ेट है। ऐरीनडाइऐज़ोनियम आयन अनुनाद से स्थायी होते हैं और ठंडे विलयन में थोड़े समय तक बने रहते हैं; ऐल्किल डाइऐज़ोनियम लवण अत्यधिक अस्थायी हैं। इसी अस्थायित्व के कारण लवण को संग्रहित नहीं किया जाता बल्कि तुरंत प्रयोग किया जाता है।"
+      },
+      "keyPoints": [
+        {"en": "Temperature must be kept at 273–278 K (ice bath).", "hi": "ताप 273–278 K (बर्फ़ स्नान) पर रखना आवश्यक है।"},
+        {"en": "Aromatic diazonium salts are more stable than aliphatic ones because of resonance.", "hi": "अनुनाद के कारण ऐरोमैटिक डाइऐज़ोनियम लवण ऐलिफ़ैटिक लवणों से अधिक स्थायी हैं।"}
+      ],
+      "realLife": {
+        "en": "Diazotisation is the first step in making the azo dyes used to colour clothes and foods.",
+        "hi": "डाइऐज़ोकरण कपड़ों और खाद्य पदार्थों को रंगने वाले ऐज़ो रंजक बनाने का पहला चरण है।"
+      },
+      "examFocus": {
+        "en": "Write the diazotisation reaction with conditions; explain the stability of arenediazonium salts.",
+        "hi": "परिस्थितियों सहित डाइऐज़ोकरण अभिक्रिया लिखिए; ऐरीनडाइऐज़ोनियम लवणों का स्थायित्व समझाइए।"
+      },
+      "commonMistakes": [
+        {"en": "Carrying out diazotisation at room temperature — the salt then decomposes to phenol; it must be kept cold.", "hi": "कमरे के ताप पर डाइऐज़ोकरण करना — तब लवण फ़ीनॉल में विघटित हो जाता है; इसे ठंडा रखना आवश्यक है।"}
+      ],
+      "formulas": ["C₆H₅NH₂ + NaNO₂ + 2HCl → C₆H₅N₂⁺Cl⁻ + NaCl + 2H₂O (273–278 K)"],
+      "practicalIds": [],
+      "conceptIds": ["amines-and-diazonium"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "9.7"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Diazotise ice-cold: 0–5 °C\"",
+            "hi": "\"डाइऐज़ोटीकरण बर्फ़-ठंडे में: 0–5 °C\""
+          },
+          "recall": {
+            "en": "Diazotisation is carried out at 273–278 K (0–5 °C) in an ice bath because the diazonium salt decomposes on warming.",
+            "hi": "डाइऐज़ोटीकरण 273–278 K (0–5 °C) पर बर्फ़-स्नान में किया जाता है क्योंकि गरम करने पर डाइऐज़ोनियम लवण विघटित हो जाता है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Diazotisation: ArNH₂ + NaNO₂ + HCl at 273–278 K → ArN₂⁺Cl⁻.", "hi": "डाइऐज़ोकरण: 273–278 K पर ArNH₂ + NaNO₂ + HCl → ArN₂⁺Cl⁻।"},
+        "formula": "C₆H₅NH₂ + NaNO₂ + 2HCl → C₆H₅N₂⁺Cl⁻ + NaCl + 2H₂O (273–278 K)",
+        "points": [
+          {"en": "Use immediately; stable only when cold.", "hi": "तुरंत प्रयोग करें; केवल ठंडे में स्थायी।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch09-t9.8",
+      "targetId": "cbse-12-ch09-t9.8",
+      "covers": [],
+      "definition": {
+        "en": "Benzenediazonium chloride is a colourless crystalline solid, readily soluble in water, stable in the cold but reacting with water on warming and decomposing easily when dry.",
+        "hi": "बेन्ज़ीनडाइऐज़ोनियम क्लोराइड एक रंगहीन क्रिस्टलीय ठोस है, जल में आसानी से विलेय, ठंड में स्थायी पर गरम करने पर जल से अभिक्रिया करता है और शुष्क अवस्था में आसानी से विघटित हो जाता है।"
+      },
+      "explanation": {
+        "en": "Because the dry salt decomposes easily, it is always used in solution. Benzenediazonium fluoroborate, by contrast, is insoluble in water and stable at room temperature, which is why it is used to make aryl fluorides.",
+        "hi": "शुष्क लवण आसानी से विघटित होता है, इसलिए इसका सदैव विलयन में प्रयोग किया जाता है। इसके विपरीत बेन्ज़ीनडाइऐज़ोनियम फ़्लुओरोबोरेट जल में अविलेय और कमरे के ताप पर स्थायी है, इसीलिए इससे ऐरिल फ़्लुओराइड बनाए जाते हैं।"
+      },
+      "keyPoints": [
+        {"en": "Chloride salt: soluble, unstable when warm or dry; fluoroborate: insoluble, stable at room temperature.", "hi": "क्लोराइड लवण: विलेय, गरम या शुष्क होने पर अस्थायी; फ़्लुओरोबोरेट: अविलेय, कमरे के ताप पर स्थायी।"}
+      ],
+      "realLife": {
+        "en": "The poor stability of dry diazonium salts is a safety concern in dye factories, so they are made and used in cold solution.",
+        "hi": "शुष्क डाइऐज़ोनियम लवणों का कम स्थायित्व रंजक कारख़ानों में सुरक्षा का विषय है, इसलिए इन्हें ठंडे विलयन में बनाकर प्रयोग किया जाता है।"
+      },
+      "examFocus": {
+        "en": "State the physical properties of benzenediazonium chloride and compare it with the fluoroborate.",
+        "hi": "बेन्ज़ीनडाइऐज़ोनियम क्लोराइड के भौतिक गुण बताइए और फ़्लुओरोबोरेट से तुलना कीजिए।"
+      },
+      "commonMistakes": [
+        {"en": "Assuming all diazonium salts are unstable at room temperature — the fluoroborate is stable.", "hi": "यह मानना कि सभी डाइऐज़ोनियम लवण कमरे के ताप पर अस्थायी हैं — फ़्लुओरोबोरेट स्थायी है।"}
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": ["amines-and-diazonium"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "9.8"}],
+      "review": {"status": "sourceChecked"},
+      "quickRevision": {
+        "oneLine": {"en": "C₆H₅N₂⁺Cl⁻: colourless, water-soluble, stable only when cold and in solution.", "hi": "C₆H₅N₂⁺Cl⁻: रंगहीन, जल-विलेय, केवल ठंडे विलयन में स्थायी।"},
+        "points": [
+          {"en": "Fluoroborate salt is water-insoluble and stable.", "hi": "फ़्लुओरोबोरेट लवण जल-अविलेय और स्थायी है।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch09-t9.9",
+      "targetId": "cbse-12-ch09-t9.9",
+      "covers": [],
+      "definition": {
+        "en": "Diazonium salts react in two ways: the –N₂⁺ group is displaced by nucleophiles (N₂ escapes), or the diazo group is retained in coupling reactions that give coloured azo compounds.",
+        "hi": "डाइऐज़ोनियम लवण दो प्रकार से अभिक्रिया करते हैं: नाभिकस्नेही –N₂⁺ समूह को विस्थापित करते हैं (N₂ निकलती है), या युग्मन अभिक्रियाओं में डाइऐज़ो समूह बना रहता है और रंगीन ऐज़ो यौगिक बनते हैं।"
+      },
+      "explanation": {
+        "en": "Displacement: Cl⁻, Br⁻ and CN⁻ in the presence of Cu(I) (Sandmeyer); Cl or Br with the halogen acid and copper powder (Gatterman); KI gives iodobenzene; HBF₄ gives the fluoroborate, which on heating gives the aryl fluoride; H₃PO₂ or ethanol replaces –N₂⁺ by H (giving benzene); warming to 283 K hydrolyses it to phenol; heating the fluoroborate with aqueous NaNO₂ and Cu gives nitrobenzene. Coupling (electrophilic substitution): benzenediazonium chloride couples with phenol at the para position to give p-hydroxyazobenzene and with aniline to give p-aminoazobenzene; the –N=N– link with extended conjugation makes them coloured dyes.",
+        "hi": "विस्थापन: Cu(I) की उपस्थिति में Cl⁻, Br⁻ और CN⁻ (सैन्डमायर); हैलोजन अम्ल और कॉपर चूर्ण के साथ Cl या Br (गाटरमान); KI से आयोडोबेन्ज़ीन; HBF₄ से फ़्लुओरोबोरेट, जो गरम करने पर ऐरिल फ़्लुओराइड देता है; H₃PO₂ या एथेनॉल –N₂⁺ को H से बदलते हैं (बेन्ज़ीन); 283 K तक गरम करने पर जल-अपघटन से फ़ीनॉल; फ़्लुओरोबोरेट को जलीय NaNO₂ और Cu के साथ गरम करने पर नाइट्रोबेन्ज़ीन। युग्मन (इलेक्ट्रॉनस्नेही प्रतिस्थापन): बेन्ज़ीनडाइऐज़ोनियम क्लोराइड फ़ीनॉल से पैरा स्थिति पर युग्मित होकर p-हाइड्रॉक्सीऐज़ोबेन्ज़ीन और ऐनिलीन से p-ऐमीनोऐज़ोबेन्ज़ीन देता है; विस्तृत संयुग्मन वाला –N=N– बंधन इन्हें रंगीन रंजक बनाता है।"
+      },
+      "keyPoints": [
+        {"en": "Sandmeyer uses Cu₂Cl₂/Cu₂Br₂/CuCN; Gatterman uses Cu powder with HCl/HBr.", "hi": "सैन्डमायर में Cu₂Cl₂/Cu₂Br₂/CuCN; गाटरमान में HCl/HBr के साथ Cu चूर्ण।"},
+        {"en": "Coupling with phenol occurs at the para position (alkaline medium); with aniline also at para.", "hi": "फ़ीनॉल के साथ युग्मन पैरा स्थिति पर (क्षारीय माध्यम); ऐनिलीन के साथ भी पैरा पर।"}
+      ],
+      "realLife": {
+        "en": "Azo compounds formed by coupling are used as dyes for textiles.",
+        "hi": "युग्मन से बने ऐज़ो यौगिक वस्त्रों के रंजक के रूप में प्रयुक्त होते हैं।"
+      },
+      "examFocus": {
+        "en": "Write Sandmeyer, Gatterman and coupling reactions; convert benzenediazonium chloride into chloro-, bromo-, iodo-, fluoro-, cyano- and nitrobenzene, phenol and benzene.",
+        "hi": "सैन्डमायर, गाटरमान और युग्मन अभिक्रियाएँ लिखिए; बेन्ज़ीनडाइऐज़ोनियम क्लोराइड को क्लोरो-, ब्रोमो-, आयोडो-, फ़्लुओरो-, सायनो- और नाइट्रोबेन्ज़ीन, फ़ीनॉल और बेन्ज़ीन में बदलिए।"
+      },
+      "commonMistakes": [
+        {"en": "Adding CuCl for iodobenzene — iodide replaces the diazo group with KI alone.", "hi": "आयोडोबेन्ज़ीन के लिए CuCl डालना — केवल KI से आयोडाइड डाइऐज़ो समूह का स्थान ले लेता है।"}
+      ],
+      "formulas": [
+        "ArN₂⁺X⁻ + CuCl → ArCl + N₂ (Sandmeyer)",
+        "ArN₂⁺X⁻ + Cu/HCl → ArCl + N₂ + CuX (Gatterman)",
+        "ArN₂⁺Cl⁻ + KI → ArI + KCl + N₂",
+        "ArN₂⁺Cl⁻ + H₃PO₂ + H₂O → ArH + N₂ + H₃PO₃ + HCl",
+        "ArN₂⁺Cl⁻ + H₂O → ArOH + N₂ + HCl (warm)",
+        "C₆H₅N₂⁺Cl⁻ + C₆H₅OH → p-HO–C₆H₄–N=N–C₆H₅ + HCl (OH⁻)"
+      ],
+      "practicalIds": [],
+      "conceptIds": ["amines-and-diazonium"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "9.9"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {"en": "'Sandmeyer = Salt of copper; Gatterman = Granules (powder) of copper'", "hi": "'सैन्डमायर = कॉपर का लवण; गाटरमान = कॉपर का चूर्ण'"},
+          "recall": {"en": "Sandmeyer uses Cu(I) salts (CuCl, CuBr, CuCN); Gatterman uses copper powder with HCl or HBr.", "hi": "सैन्डमायर में Cu(I) लवण (CuCl, CuBr, CuCN); गाटरमान में HCl या HBr के साथ कॉपर चूर्ण।"}
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Diazonium: –N₂⁺ replaced (Cl, Br, CN, I, F, H, OH, NO₂) or coupled to give azo dyes.", "hi": "डाइऐज़ोनियम: –N₂⁺ प्रतिस्थापित (Cl, Br, CN, I, F, H, OH, NO₂) या युग्मित होकर ऐज़ो रंजक।"},
+        "formula": "ArN₂⁺X⁻ + CuCl → ArCl + N₂ (Sandmeyer)",
+        "points": [
+          {"en": "Coupling with phenol → p-hydroxyazobenzene.", "hi": "फ़ीनॉल से युग्मन → p-हाइड्रॉक्सीऐज़ोबेन्ज़ीन।"}
+        ]
+      }
+    },
+    {
+      "id": "note-cbse-12-ch09-t9.10",
+      "targetId": "cbse-12-ch09-t9.10",
+      "covers": [],
+      "definition": {
+        "en": "Diazonium salts are very good intermediates for putting –F, –Cl, –Br, –I, –CN, –OH and –NO₂ groups into an aromatic ring, including substituents that cannot be introduced by direct substitution.",
+        "hi": "डाइऐज़ोनियम लवण ऐरोमैटिक वलय में –F, –Cl, –Br, –I, –CN, –OH और –NO₂ समूह लगाने के बहुत अच्छे मध्यवर्ती हैं, उन प्रतिस्थापियों सहित जो सीधे प्रतिस्थापन से नहीं लगाए जा सकते।"
+      },
+      "explanation": {
+        "en": "Aryl fluorides and iodides cannot be made by direct halogenation of benzene. A cyano group cannot be introduced by nucleophilic substitution of chlorine in chlorobenzene, but cyanobenzene is easily obtained from the diazonium salt. So converting an –NH₂ group to –N₂⁺ and then replacing it gives substituted aromatic compounds that are otherwise hard to make, and coupling gives azo dyes.",
+        "hi": "बेन्ज़ीन के सीधे हैलोजनन से ऐरिल फ़्लुओराइड और आयोडाइड नहीं बनाए जा सकते। क्लोरोबेन्ज़ीन में क्लोरीन के नाभिकस्नेही प्रतिस्थापन से सायनो समूह नहीं लगाया जा सकता, पर डाइऐज़ोनियम लवण से सायनोबेन्ज़ीन आसानी से मिल जाता है। इस प्रकार –NH₂ समूह को –N₂⁺ में बदलकर फिर उसे प्रतिस्थापित करने से ऐसे प्रतिस्थापित ऐरोमैटिक यौगिक मिलते हैं जो अन्यथा बनाना कठिन है, और युग्मन से ऐज़ो रंजक बनते हैं।"
+      },
+      "keyPoints": [
+        {"en": "ArF and ArI: only practical via diazonium salts.", "hi": "ArF और ArI: व्यावहारिक रूप से केवल डाइऐज़ोनियम लवणों द्वारा।"},
+        {"en": "Benzonitrile (C₆H₅CN) from benzenediazonium chloride + CuCN.", "hi": "बेन्ज़ीनडाइऐज़ोनियम क्लोराइड + CuCN से बेन्ज़ोनाइट्राइल (C₆H₅CN)।"}
+      ],
+      "realLife": {
+        "en": "Many medicines and dyes are built by first placing an amino group on a ring and then replacing it via the diazonium salt.",
+        "hi": "अनेक औषधियाँ और रंजक पहले वलय पर ऐमीनो समूह लगाकर और फिर डाइऐज़ोनियम लवण द्वारा उसे प्रतिस्थापित कर बनाए जाते हैं।"
+      },
+      "examFocus": {
+        "en": "Plan multi-step conversions (e.g. aniline → fluorobenzene, nitrobenzene → benzoic acid via cyanide) using diazonium salts.",
+        "hi": "डाइऐज़ोनियम लवणों का उपयोग कर बहुचरणीय रूपांतरण (जैसे ऐनिलीन → फ़्लुओरोबेन्ज़ीन, सायनाइड द्वारा नाइट्रोबेन्ज़ीन → बेन्ज़ोइक अम्ल) बनाइए।"
+      },
+      "commonMistakes": [
+        {"en": "Trying to make cyanobenzene from chlorobenzene + KCN — aryl halides do not undergo this substitution; use the diazonium route.", "hi": "क्लोरोबेन्ज़ीन + KCN से सायनोबेन्ज़ीन बनाने का प्रयास — ऐरिल हैलाइड यह प्रतिस्थापन नहीं करते; डाइऐज़ोनियम मार्ग अपनाएँ।"}
+      ],
+      "formulas": ["ArN₂⁺Cl⁻ + CuCN → ArCN + N₂"],
+      "practicalIds": [],
+      "conceptIds": ["amines-and-diazonium"],
+      "chemicalIds": [],
+      "sources": [{"sourceId": "ncert-12-en", "section": "9.10"}],
+      "review": {"status": "sourceChecked"},
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "\"Fluoride via fluoroborate, iodide via KI, cyanide via CuCN\"",
+            "hi": "\"फ़्लुओराइड फ़्लुओरोबोरेट से, आयोडाइड KI से, सायनाइड CuCN से\""
+          },
+          "recall": {
+            "en": "ArF: precipitate the diazonium fluoroborate with HBF₄, then heat it. ArI: treat the diazonium salt solution with KI. ArCN: CuCN. These are groups that are hard or impossible to put on the ring by direct substitution.",
+            "hi": "ArF: HBF₄ से डाइऐज़ोनियम फ़्लुओरोबोरेट अवक्षेपित करके गरम करें। ArI: डाइऐज़ोनियम लवण के विलयन को KI से उपचारित करें। ArCN: CuCN। ये ऐसे समूह हैं जिन्हें सीधे प्रतिस्थापन से वलय पर लाना कठिन या असंभव है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {"en": "Diazonium salts introduce F, I, CN, OH, NO₂ that direct substitution cannot.", "hi": "डाइऐज़ोनियम लवण वे F, I, CN, OH, NO₂ लगाते हैं जो सीधा प्रतिस्थापन नहीं लगा पाता।"},
+        "formula": "ArN₂⁺Cl⁻ + CuCN → ArCN + N₂",
+        "points": [
+          {"en": "Route: ArNH₂ → ArN₂⁺ → ArX.", "hi": "मार्ग: ArNH₂ → ArN₂⁺ → ArX।"}
+        ]
+      }
+    }
+  ]
+}
