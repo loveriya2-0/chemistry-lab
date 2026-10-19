@@ -10,14 +10,16 @@ export const axis = { stroke: '#94a3b8', fontSize: 12 };
 
 export default function Dashboard() {
   const { can } = useAuth();
-  const overview = useQuery({ queryKey: ['overview'], queryFn: () => api('/stats/overview') });
-  const revenue = useQuery({ queryKey: ['revenue', 30], queryFn: () => api<any[]>('/stats/revenue?days=30'), enabled: can('editor') });
-  const users = useQuery({ queryKey: ['users', 30], queryFn: () => api('/stats/users?days=30') });
-  const coverage = useQuery({ queryKey: ['coverage'], queryFn: () => api('/stats/coverage') });
-  const audit = useQuery({ queryKey: ['audit', 8], queryFn: () => api<any[]>('/audit?limit=8'), enabled: can('editor', 'reviewer') });
+  // One request instead of five: each API call opens its own DB connection.
+  const dash = useQuery({ queryKey: ['overview', 'dashboard'], queryFn: () => api('/stats/dashboard?days=30') });
 
-  if (overview.isLoading) return <Spinner />;
-  const o = overview.data;
+  if (dash.isLoading) return <Spinner />;
+  const d = dash.data;
+  const o = d.overview;
+  const revenue = { data: d.revenue as any[] | null };
+  const users = { data: d.users };
+  const coverage = { data: d.coverage };
+  const audit = { data: d.audit as any[] | null };
   const review = Object.entries(o.contentByReview as Record<string, number>).map(([k, v]) => ({ name: REVIEW_LABEL[k as Review] ?? k, key: k, value: v }));
   const totalContent = review.reduce((a, r) => a + r.value, 0);
 
