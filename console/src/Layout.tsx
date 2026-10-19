@@ -54,8 +54,8 @@ export default function Layout() {
       </div>;
 
   return (
-    <div className="min-h-screen lg:flex">
-      <aside className={`fixed inset-y-0 left-0 z-30 flex w-[17rem] flex-col bg-[#0c0e1a] text-slate-300 transition-transform duration-300 lg:sticky lg:top-0 lg:h-screen lg:translate-x-0 ${open ? 'translate-x-0' : '-translate-x-full'}`}>
+    <div className="min-h-screen lg:flex lg:h-screen lg:overflow-hidden">
+      <aside className={`fixed inset-y-0 left-0 z-30 flex w-[17rem] flex-col bg-[#0c0e1a] text-slate-300 transition-transform duration-300 lg:static lg:h-full lg:shrink-0 lg:translate-x-0 ${open ? 'translate-x-0' : '-translate-x-full'}`}>
         <div className="pointer-events-none absolute inset-x-0 top-0 h-48 bg-gradient-to-b from-brand-600/20 to-transparent" />
         <div className="relative flex items-center gap-3 px-5 py-6">
           <div className="rounded-xl bg-gradient-to-br from-brand-400 to-violet-600 p-2.5 text-white shadow-glow"><FlaskConical size={20} /></div>
@@ -101,7 +101,7 @@ export default function Layout() {
       </aside>
       {open && <div className="fixed inset-0 z-20 bg-slate-950/60 backdrop-blur-sm lg:hidden" onClick={() => setOpen(false)} />}
 
-      <div className="min-w-0 flex-1">
+      <div className="min-w-0 flex-1 lg:h-full lg:overflow-y-auto">
         <header className="sticky top-0 z-10 flex items-center gap-3 border-b border-slate-200/70 bg-white/75 px-4 py-3 backdrop-blur-xl dark:border-white/[0.06] dark:bg-[#0b0d14]/75 sm:px-6 lg:px-8">
           <button onClick={() => setOpen(true)} className="rounded-lg p-1.5 hover:bg-slate-100 dark:hover:bg-white/10 lg:hidden" aria-label="Open menu"><Menu size={20} /></button>
           <div className="min-w-0 flex-1">
