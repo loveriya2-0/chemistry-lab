@@ -9,7 +9,7 @@ const PALETTE = ['#6366f1', '#0ea5e9', '#10b981', '#f59e0b', '#ec4899', '#8b5cf6
 function Donut({ title, data }: { title: string; data: { name: string; value: number }[] }) {
   return (
     <div className="card p-5">
-      <h2 className="mb-2 font-medium">{title}</h2>
+      <h2 className="card-title mb-2">{title}</h2>
       {!data.length ? <Empty>No data yet</Empty> : (
         <>
           <div className="h-44"><ResponsiveContainer><PieChart>
@@ -34,7 +34,7 @@ export default function Analytics() {
     <>
       <PageHeader title="Users & analytics" subtitle="Anonymous usage reported by the app (install id only — no personal data)" />
       <div className="card p-5">
-        <h2 className="mb-4 font-medium">Daily active users — last 30 days</h2>
+        <h2 className="card-title mb-4">Daily active users — last 30 days</h2>
         <div className="h-60"><ResponsiveContainer><LineChart data={u.dau}>
           <CartesianGrid strokeDasharray="3 3" stroke="#94a3b8" strokeOpacity={0.2} />
           <XAxis dataKey="date" tickFormatter={(d) => d.slice(5)} {...axis} /><YAxis allowDecimals={false} {...axis} /><Tooltip />
@@ -58,7 +58,7 @@ export default function Analytics() {
           )}
         </div>
         <div className="card p-5">
-          <h2 className="mb-4 font-medium">AI tutor requests — last 30 days</h2>
+          <h2 className="card-title mb-4">AI tutor requests — last 30 days</h2>
           <div className="h-60"><ResponsiveContainer><BarChart data={learning.data?.aiTutor || []}>
             <CartesianGrid strokeDasharray="3 3" stroke="#94a3b8" strokeOpacity={0.2} />
             <XAxis dataKey="date" tickFormatter={(d) => d.slice(5)} {...axis} /><YAxis allowDecimals={false} {...axis} /><Tooltip />

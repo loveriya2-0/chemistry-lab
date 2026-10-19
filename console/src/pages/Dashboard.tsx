@@ -34,17 +34,17 @@ export default function Dashboard() {
 
       <div className="mt-4 grid gap-4 lg:grid-cols-3">
         <div className="card p-5 lg:col-span-2">
-          <h2 className="mb-4 font-medium">Revenue — last 30 days</h2>
+          <h2 className="card-title mb-4">Revenue — last 30 days</h2>
           {can('editor') ? (
             <div className="h-64">
               <ResponsiveContainer>
                 <AreaChart data={revenue.data || []}>
-                  <defs><linearGradient id="rev" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stopColor="#6366f1" stopOpacity={0.35} /><stop offset="100%" stopColor="#6366f1" stopOpacity={0} /></linearGradient></defs>
+                  <defs><linearGradient id="rev" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stopColor="#6463f2" stopOpacity={0.35} /><stop offset="100%" stopColor="#6463f2" stopOpacity={0} /></linearGradient></defs>
                   <CartesianGrid strokeDasharray="3 3" stroke="#94a3b8" strokeOpacity={0.2} />
                   <XAxis dataKey="date" tickFormatter={(d) => d.slice(5)} {...axis} />
                   <YAxis allowDecimals={false} {...axis} />
                   <Tooltip formatter={(v: number) => inr(v)} />
-                  <Area dataKey="revenue" name="Revenue" stroke="#6366f1" strokeWidth={2} fill="url(#rev)" />
+                  <Area dataKey="revenue" name="Revenue" stroke="#6463f2" strokeWidth={2} fill="url(#rev)" />
                 </AreaChart>
               </ResponsiveContainer>
             </div>
@@ -52,7 +52,7 @@ export default function Dashboard() {
         </div>
 
         <div className="card p-5">
-          <h2 className="mb-2 font-medium">Content review status</h2>
+          <h2 className="card-title mb-2">Content review status</h2>
           <div className="h-48">
             <ResponsiveContainer>
               <PieChart>
@@ -76,7 +76,7 @@ export default function Dashboard() {
 
       <div className="mt-4 grid gap-4 lg:grid-cols-3">
         <div className="card p-5 lg:col-span-2">
-          <h2 className="mb-4 font-medium">New installs — last 30 days</h2>
+          <h2 className="card-title mb-4">New installs — last 30 days</h2>
           <div className="h-56">
             <ResponsiveContainer>
               <AreaChart data={users.data?.growth || []}>
@@ -91,7 +91,7 @@ export default function Dashboard() {
         </div>
 
         <div className="card p-5">
-          <h2 className="mb-3 font-medium">Needs attention</h2>
+          <h2 className="card-title mb-3">Needs attention</h2>
           <ul className="space-y-2 text-sm">
             <Task to="/review" icon={<ClipboardCheck size={16} />} label="Items waiting for review" n={o.pendingReview} />
             <Task to="/feedback" icon={<MessageSquare size={16} />} label="New feedback" n={o.openFeedback} />
@@ -107,13 +107,13 @@ export default function Dashboard() {
 
       <div className="mt-4 grid gap-4 lg:grid-cols-2">
         <div className="card p-5">
-          <h2 className="mb-3 font-medium">Question coverage (target {coverage.data?.target ?? 10}/topic)</h2>
+          <h2 className="card-title mb-3">Question coverage (target {coverage.data?.target ?? 10}/topic)</h2>
           <p className="mb-3 text-sm text-slate-500">{coverage.data?.totalQuestions ?? 0} questions across {coverage.data?.topics.length ?? 0} topics</p>
           <ul className="max-h-60 space-y-2 overflow-auto pr-1">
             {(coverage.data?.topics || []).filter((t: any) => t.missing > 0).slice(0, 12).map((t: any) => (
               <li key={t.topicId} className="text-sm">
                 <div className="flex justify-between"><span className="truncate">{t.topicId}</span><span className="text-slate-500">{t.count}/{coverage.data.target}</span></div>
-                <div className="mt-1 h-1.5 rounded-full bg-slate-100 dark:bg-slate-800"><div className="h-full rounded-full bg-amber-500" style={{ width: `${(t.count / coverage.data.target) * 100}%` }} /></div>
+                <div className="mt-1 h-1.5 rounded-full bg-slate-100 dark:bg-slate-800"><div className="h-full rounded-full bg-gradient-to-r from-amber-400 to-orange-500" style={{ width: `${(t.count / coverage.data.target) * 100}%` }} /></div>
               </li>
             ))}
             {coverage.data && coverage.data.belowTarget === 0 && <Empty>Every topic meets the target 🎉</Empty>}
@@ -121,7 +121,7 @@ export default function Dashboard() {
         </div>
 
         <div className="card p-5">
-          <h2 className="mb-3 font-medium">Recent activity</h2>
+          <h2 className="card-title mb-3">Recent activity</h2>
           {!can('editor', 'reviewer') ? <Empty>No access</Empty> : (
             <ul className="divide-y divide-slate-100 dark:divide-slate-800">
               {(audit.data || []).map((a) => (
@@ -142,7 +142,7 @@ export default function Dashboard() {
 function Task({ to, icon, label, n }: { to: string; icon: React.ReactNode; label: string; n: number }) {
   return (
     <li>
-      <Link to={to} className="flex items-center justify-between rounded-lg px-2 py-2 hover:bg-slate-50 dark:hover:bg-slate-800">
+      <Link to={to} className="flex items-center justify-between rounded-lg px-2 py-2 transition hover:bg-slate-50 dark:hover:bg-white/5">
         <span className="flex items-center gap-2 text-slate-600 dark:text-slate-300">{icon}{label}</span>
         <span className={`rounded-full px-2 py-0.5 text-xs font-semibold ${n > 0 ? 'bg-amber-100 text-amber-700 dark:bg-amber-500/20 dark:text-amber-300' : 'bg-slate-100 text-slate-500 dark:bg-slate-800'}`}>{n}</span>
       </Link>
