@@ -37,7 +37,7 @@ Roles: `admin` (all), `editor` (content, announcements, feedback, revenue view),
 - `POST /api/v1/internal/purchases` (header `x-internal-secret`) — call from `server/functions` after Google Play verification
 
 ## Flutter app connection
-Build the app with `--dart-define=CONTENT_API_URL=https://your-api` (empty = fully offline, as before).
+Build the app with `--dart-define=CONTENT_API_URL=https://lab-console-api.wearepartnerha.workers.dev` (empty = fully offline, as before).
 - On launch the app sends an anonymous install ping and downloads reviewed content (`lib/sync/remote_content.dart`), cached in SharedPreferences.
 - `ContentRepository` merges the cache over the bundled JSON: console items replace bundled ones with the same id, and new items are added. The merge happens at the next launch, so a screen never changes while being read. Offline or a bad cache → bundled content.
 - Limitation: un-publishing an item in the console does not hide a bundled copy until the next app release.
@@ -49,11 +49,12 @@ Build the app with `--dart-define=CONTENT_API_URL=https://your-api` (empty = ful
 
 ## Hosting on Cloudflare
 - **Console** (static): project root `console`, build `npm run build`, deploy `npx wrangler deploy`, build variable `VITE_API_URL=<api url>`.
-- **API** (Cloudflare Containers, needs the Workers Paid plan): project root `api`, deploy `npx wrangler deploy`. `api/Dockerfile` runs the Express server and `api/worker/index.js` routes requests to it.
-  1. Create a free MongoDB Atlas cluster; allow access from anywhere (`0.0.0.0/0`) since container IPs are not fixed.
-  2. Set Worker secrets (dashboard → the API project → Settings → Variables and Secrets, or `npx wrangler secret put NAME`): `MONGODB_URI`, `JWT_SECRET`, `INTERNAL_SECRET`, `CORS_ORIGINS` (the console's URL).
-  3. Deploy, then once from your computer with `MONGODB_URI` in `api/.env`: `npm run seed` and `npm run create-admin`.
-- The first request after 15 idle minutes starts the container (a few seconds).
+- **API** (Workers Free plan, no Docker): project root `api`, deploy `npx wrangler deploy` → `https://lab-console-api.wearepartnerha.workers.dev`. `api/worker/index.js` runs the Express app directly in the Worker (`nodejs_compat`); `CORS_ORIGINS` is a var in `api/wrangler.jsonc`.
+  1. Create a free MongoDB Atlas cluster; allow access from anywhere (`0.0.0.0/0`) since Worker IPs are not fixed.
+  2. Set Worker secrets with `npx wrangler secret put NAME`: `MONGODB_URI`, `JWT_SECRET`, `INTERNAL_SECRET`, optionally `GOOGLE_CLIENT_ID`.
+  3. Once from your computer with `MONGODB_URI` in `api/.env`: `npm run seed` and `npm run create-admin`.
+- Each request opens its own MongoDB connection (Workers can't share sockets between requests), so expect ~100–300 ms extra per request.
+- Local Worker test: put `MONGODB_URI`/`JWT_SECRET` in `api/.dev.vars` and run `npx wrangler dev`.
 
 ## Continue with Google
 Only people an admin has added in **Team** can sign in; Google just proves who they are (email must be verified). Nobody can sign up on their own.
