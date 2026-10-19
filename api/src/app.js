@@ -13,7 +13,8 @@ export function createApp() {
   const app = express();
   app.disable('x-powered-by');
   app.use(helmet());
-  app.use(cors({ origin: config.corsOrigins }));
+  // maxAge lets browsers cache the preflight instead of sending OPTIONS before every call.
+  app.use(cors({ origin: config.corsOrigins, maxAge: 86400 }));
   app.use(express.json({ limit: '5mb' }));
 
   app.get('/health', (_req, res) => res.json({ ok: true }));

@@ -12,7 +12,7 @@ const day = (d) => d.toISOString().slice(0, 10);
 const daysAgo = (n) => new Date(Date.now() - n * 86400000);
 
 // ---------- stats ----------
-r.get('/stats/overview', wrap(async (_req, res) => {
+async function overviewStats() {
   const [installs, active7, active1, premium, content, revenueAgg, refunds, openFeedback, pendingReview] = await Promise.all([
     AppUser.countDocuments(),
     AppUser.countDocuments({ lastSeenAt: { $gte: daysAgo(7) } }),
@@ -25,16 +25,15 @@ r.get('/stats/overview', wrap(async (_req, res) => {
     ContentItem.countDocuments({ review: 'needsReview' }),
   ]);
   const review = Object.fromEntries(content.map((c) => [c._id, c.n]));
-  res.json({
+  return {
     installs, activeUsers7d: active7, activeUsers1d: active1, premiumUsers: premium,
     conversionPct: installs ? +((premium / installs) * 100).toFixed(2) : 0,
     revenueInr: revenueAgg[0]?.total || 0, orders: revenueAgg[0]?.n || 0, refunds,
     openFeedback, pendingReview, contentByReview: review,
-  });
-}));
+  };
+}
 
-r.get('/stats/revenue', wrap(async (req, res) => {
-  const days = Math.min(Number(req.query.days) || 30, 365);
+async function revenueStats(days) {
   const rows = await Purchase.aggregate([
     { $match: { purchasedAt: { $gte: daysAgo(days) } } },
     { $group: {
@@ -44,11 +43,10 @@ r.get('/stats/revenue', wrap(async (req, res) => {
       refunds: { $sum: { $cond: [{ $eq: ['$state', 'refunded'] }, 1, 0] } },
     } },
   ]);
-  res.json(fillDays(rows, days, { revenue: 0, orders: 0, refunds: 0 }));
-}));
+  return fillDays(rows, days, { revenue: 0, orders: 0, refunds: 0 });
+}
 
-r.get('/stats/users', wrap(async (req, res) => {
-  const days = Math.min(Number(req.query.days) || 30, 365);
+async function userStats(days) {
   const [growth, byBoard, byClass, byVersion, activity] = await Promise.all([
     AppUser.aggregate([
       { $match: { firstSeenAt: { $gte: daysAgo(days) } } },
@@ -63,14 +61,14 @@ r.get('/stats/users', wrap(async (req, res) => {
       { $project: { dau: { $size: '$users' } } },
     ]),
   ]);
-  res.json({
+  return {
     growth: fillDays(growth, days, { installs: 0 }),
     dau: fillDays(activity, days, { dau: 0 }),
     byBoard: byBoard.map((x) => ({ name: x._id || 'unknown', value: x.n })),
     byClass: byClass.map((x) => ({ name: x._id ? `Class ${x._id}` : 'unknown', value: x.n })),
     byVersion: byVersion.map((x) => ({ name: x._id || 'unknown', value: x.n })),
-  });
-}));
+  };
+}
 
 r.get('/stats/learning', wrap(async (_req, res) => {
   const weak = await Event.aggregate([
@@ -91,21 +89,43 @@ r.get('/stats/learning', wrap(async (_req, res) => {
 }));
 
 // Questions per topic vs target (replaces QUESTION_COVERAGE.md)
-r.get('/stats/coverage', wrap(async (req, res) => {
-  const target = Number(req.query.target) || 10;
+async function coverageStats(target, classLevel) {
   const match = { type: 'question', topicId: { $ne: null } };
-  if (req.query.classLevel) match.classLevel = Number(req.query.classLevel);
+  if (classLevel) match.classLevel = classLevel;
   const rows = await ContentItem.aggregate([
     { $match: match },
     { $group: { _id: '$topicId', chapterId: { $first: '$chapterId' }, classLevel: { $first: '$classLevel' }, count: { $sum: 1 } } },
     { $sort: { classLevel: 1, _id: 1 } },
   ]);
   const topics = rows.map((x) => ({ topicId: x._id, chapterId: x.chapterId, classLevel: x.classLevel, count: x.count, missing: Math.max(0, target - x.count) }));
-  res.json({
+  return {
     target, topics,
     totalQuestions: topics.reduce((a, t) => a + t.count, 0),
     belowTarget: topics.filter((t) => t.missing > 0).length,
-  });
+  };
+}
+
+const daysParam = (req) => Math.min(Number(req.query.days) || 30, 365);
+const can = (req, ...roles) => req.user.role === 'admin' || roles.includes(req.user.role);
+
+r.get('/stats/overview', wrap(async (_req, res) => res.json(await overviewStats())));
+r.get('/stats/revenue', wrap(async (req, res) => res.json(await revenueStats(daysParam(req)))));
+r.get('/stats/users', wrap(async (req, res) => res.json(await userStats(daysParam(req)))));
+r.get('/stats/coverage', wrap(async (req, res) =>
+  res.json(await coverageStats(Number(req.query.target) || 10, Number(req.query.classLevel) || null))));
+
+// Everything the dashboard shows in one request: on Workers each request pays
+// for its own MongoDB connection, so five calls cost five connections.
+r.get('/stats/dashboard', wrap(async (req, res) => {
+  const days = daysParam(req);
+  const [overview, revenue, users, coverage, audit] = await Promise.all([
+    overviewStats(),
+    can(req, 'editor') ? revenueStats(days) : null,
+    userStats(days),
+    coverageStats(10, null),
+    can(req, 'editor', 'reviewer') ? AuditLog.find().sort({ createdAt: -1 }).limit(8).lean() : null,
+  ]);
+  res.json({ overview, revenue, users, coverage, audit });
 }));
 
 function fillDays(rows, days, zero) {
