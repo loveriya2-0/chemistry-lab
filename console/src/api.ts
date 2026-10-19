@@ -1,4 +1,7 @@
-const BASE = `${import.meta.env.VITE_API_URL || ''}/api/v1`;
+// Production builds (e.g. Cloudflare's git builds, where .env files are absent)
+// fall back to the deployed API; dev leaves it empty so Vite proxies /api.
+const PROD_API = 'https://lab-console-api.wearepartnerha.workers.dev';
+const BASE = `${import.meta.env.VITE_API_URL || (import.meta.env.PROD ? PROD_API : '')}/api/v1`;
 const KEY = 'lab-console-token';
 
 export const tokenStore = {
