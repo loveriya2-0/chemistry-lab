@@ -72,6 +72,7 @@
     {
       "id": "note-cbse-11-ch06-t6.2",
       "targetId": "cbse-11-ch06-t6.2",
+      "diagrams": ["dynamic-equilibrium"],
       "covers": [],
       "definition": {
         "en": "Chemical equilibrium is reached in a reversible reaction when the rate of the forward reaction equals the rate of the backward reaction, so concentrations stop changing.",

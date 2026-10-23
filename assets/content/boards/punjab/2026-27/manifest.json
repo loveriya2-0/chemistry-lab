@@ -158,8 +158,12 @@
   "practicalGuides": [
     "library/practical-guides.json"
   ],
-  "notes": [],
-  "questions": [],
+  "notes": [
+    "boards/punjab/2026-27/notes/class-9.json"
+  ],
+  "questions": [
+    "boards/punjab/2026-27/questions/class-9.json"
+  ],
   "labs": [
     {
       "id": "acid_base_titration",

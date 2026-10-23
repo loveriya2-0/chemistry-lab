@@ -6,6 +6,7 @@ import 'models/practical_coverage.dart';
 import 'models/pyq.dart';
 import 'models/review.dart';
 import 'models/syllabus.dart';
+import 'models/topic_note.dart';
 
 /// Integrity rules every board's data must pass before it ships.
 /// Returns human-readable problems; empty means valid.
@@ -243,6 +244,9 @@ abstract final class ContentValidator {
       }
       if (n.keyPoints.isEmpty) issues.add('$where: no key points');
       if (n.commonMistakes.isEmpty) issues.add('$where: no common mistakes');
+      for (final d in n.diagrams) {
+        if (!topicDiagramIds.contains(d)) issues.add('$where: unknown diagram "$d"');
+      }
       // Memory tricks are optional, but any that ship must be complete.
       if (n.memoryTricks.length > maxMemoryTricks) issues.add('$where: more than $maxMemoryTricks memory tricks');
       for (final (i, m) in n.memoryTricks.indexed) {

@@ -93,7 +93,7 @@
           "hi": "यह कहना कि मेंडेलीफ़ ने परमाणु क्रमांक से व्यवस्थित किया — उन्होंने परमाणु भार लिया।"
         }
       ],
-      "formulas": [],
+      "formulas": ["Döbereiner triad (Li, Na, K): atomic weight of Na ≈ (6.9 + 39.1) ÷ 2 = 23.0"],
       "practicalIds": [],
       "conceptIds": [
         "periodic-classification"
@@ -425,6 +425,7 @@
     {
       "id": "note-cbse-11-ch03-t3.7",
       "targetId": "cbse-11-ch03-t3.7",
+      "diagrams": ["periodic-trends"],
       "covers": [],
       "definition": {
         "en": "Periodic trends are regular changes in atomic radius, ionic radius, ionisation enthalpy, electron gain enthalpy, electronegativity and valence across periods and down groups.",
@@ -462,7 +463,7 @@
           "hi": "यह कहना कि फ़्लुओरीन की इलेक्ट्रॉन लब्धि एन्थैल्पी सबसे ऋणात्मक है — क्लोरीन की है।"
         }
       ],
-      "formulas": [],
+      "formulas": ["M(g) → M⁺(g) + e⁻; ΔᵢH = ionisation enthalpy (always positive)", "X(g) + e⁻ → X⁻(g); ΔₑₐH = electron gain enthalpy", "Na(g) → Na⁺(g) + e⁻; ΔᵢH = +496 kJ mol⁻¹", "Cl(g) + e⁻ → Cl⁻(g); ΔₑₐH = −349 kJ mol⁻¹"],
       "practicalIds": [],
       "conceptIds": [
         "periodic-trends"

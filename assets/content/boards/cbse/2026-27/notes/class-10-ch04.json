@@ -4,6 +4,7 @@
     {
       "id": "note-cbse-10-ch04-t4.1",
       "targetId": "cbse-10-ch04-t4.1",
+      "diagrams": ["covalent-methane"],
       "covers": [],
       "definition": {
         "en": "A covalent bond is a bond formed by the sharing of electron pairs between two atoms. Carbon forms covalent bonds because it has four valence electrons.",
@@ -531,6 +532,7 @@
     {
       "id": "note-cbse-10-ch04-t4.5",
       "targetId": "cbse-10-ch04-t4.5",
+      "diagrams": ["soap-micelle"],
       "covers": [],
       "definition": {
         "en": "Soaps are sodium or potassium salts of long-chain carboxylic acids. Detergents are generally sodium salts of sulphonic acids or ammonium salts with chloride or bromide ions. A micelle is a cluster of soap molecules with their hydrocarbon tails inside and ionic heads outside.",

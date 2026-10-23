@@ -4,6 +4,7 @@ import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
+import 'ai/gemini_tutor_service.dart';
 import 'ai/tutor_service.dart';
 import 'content/content_catalog.dart';
 import 'content/content_repository.dart';
@@ -55,8 +56,8 @@ class VirtualChemistryLabApp extends StatelessWidget {
   final SharedPreferences prefs;
   final ContentCatalog catalog;
 
-  /// The AI tutor; by default Claude, configured at build time
-  /// (see [TutorConfig]). Tests pass a fake.
+  /// The AI tutor; by default Gemini or Claude, configured at build time
+  /// (see [GeminiConfig] and [TutorConfig]). Tests pass a fake.
   final TutorService? tutor;
 
   /// Google Play Billing and the purchase-verify server; by default the
@@ -81,7 +82,7 @@ class VirtualChemistryLabApp extends StatelessWidget {
         ChangeNotifierProvider(create: (_) => StudyProgressStore(prefs)),
         ChangeNotifierProvider(create: (_) => FocusSettings(prefs)),
         Provider(create: (_) => StudySessionStore(prefs)),
-        Provider<TutorService>(create: (_) => tutor ?? ClaudeTutorService(TutorConfig.fromEnvironment())),
+        Provider<TutorService>(create: (_) => tutor ?? tutorFromEnvironment()),
         // Not lazy: re-checks purchases (restores, refunds) at app start.
         ChangeNotifierProvider(
           lazy: false,

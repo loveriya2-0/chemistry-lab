@@ -80,6 +80,7 @@
     {
       "id": "note-cbse-12-ch02-t2.2",
       "targetId": "cbse-12-ch02-t2.2",
+      "diagrams": ["daniell-cell"],
       "covers": [],
       "definition": {
         "en": "A galvanic cell has two half-cells (electrodes in their electrolytes) joined by a salt bridge; the potential difference between them is the cell potential (emf), E_cell = E_right − E_left = E_cathode − E_anode.",

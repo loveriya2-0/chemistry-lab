@@ -1,0 +1,529 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "note-rj-9-ch01-t1.1",
+      "targetId": "rj-9-ch01-t1.1",
+      "covers": [
+        "rj-9-ch01-t1.2"
+      ],
+      "definition": {
+        "en": "Matter is anything that has mass and occupies space. It is made of extremely small particles that have spaces between them, keep moving all the time and attract each other.",
+        "hi": "जिस वस्तु में द्रव्यमान हो और जो स्थान घेरे, वह द्रव्य है। द्रव्य अत्यंत सूक्ष्म कणों से बना है जिनके बीच रिक्त स्थान होता है, जो निरंतर गतिशील रहते हैं और एक-दूसरे को आकर्षित करते हैं।"
+      },
+      "explanation": {
+        "en": "Dissolve a little salt in water: the water level hardly rises because salt particles fit into the spaces between water particles. A drop of ink spreads through still water by itself because particles keep moving (diffusion), and faster in hot water because particles move faster when heated. A solid iron nail is hard to break because its particles hold each other strongly.",
+        "hi": "पानी में थोड़ा नमक घोलें: जल-स्तर लगभग नहीं बढ़ता, क्योंकि नमक के कण पानी के कणों के बीच के रिक्त स्थानों में समा जाते हैं। स्थिर पानी में स्याही की एक बूँद अपने-आप फैल जाती है क्योंकि कण निरंतर गति करते हैं (विसरण); गरम पानी में यह तेज़ी से फैलती है क्योंकि गरम करने पर कणों की गति बढ़ जाती है। लोहे की कील को तोड़ना कठिन है क्योंकि उसके कण एक-दूसरे को प्रबलता से पकड़े रहते हैं।"
+      },
+      "keyPoints": [
+        {
+          "en": "Particles of matter are very small — a crystal of potassium permanganate can colour a large volume of water.",
+          "hi": "द्रव्य के कण अत्यंत सूक्ष्म होते हैं — पोटैशियम परमैंगनेट का एक क्रिस्टल बहुत अधिक पानी को रंगीन कर सकता है।"
+        },
+        {
+          "en": "Particles have spaces between them and are continuously moving; their kinetic energy rises with temperature.",
+          "hi": "कणों के बीच रिक्त स्थान होता है और वे निरंतर गतिशील रहते हैं; ताप बढ़ने पर उनकी गतिज ऊर्जा बढ़ती है।"
+        },
+        {
+          "en": "Particles attract each other; this force of attraction is strongest in solids and weakest in gases.",
+          "hi": "कण एक-दूसरे को आकर्षित करते हैं; यह आकर्षण बल ठोसों में सबसे अधिक और गैसों में सबसे कम होता है।"
+        },
+        {
+          "en": "Diffusion is the intermixing of particles of two substances on their own; it is fastest in gases.",
+          "hi": "दो पदार्थों के कणों का अपने-आप आपस में मिल जाना विसरण है; यह गैसों में सबसे तेज़ होता है।"
+        }
+      ],
+      "realLife": {
+        "en": "We smell hot food from far away because its vapour particles diffuse quickly through air; sugar dissolves faster in hot tea than in cold milk.",
+        "hi": "गरम भोजन की गंध दूर तक पहुँचती है क्योंकि उसके वाष्प कण वायु में तेज़ी से विसरित होते हैं; चीनी ठंडे दूध की तुलना में गरम चाय में जल्दी घुलती है।"
+      },
+      "examFocus": {
+        "en": "Give reasons using particle properties: why the smell of incense spreads, why diffusion is faster on heating, why the water level does not rise on dissolving salt.",
+        "hi": "कणों के गुणों से कारण बताइए: अगरबत्ती की गंध क्यों फैलती है, गरम करने पर विसरण तेज़ क्यों होता है, नमक घोलने पर जल-स्तर क्यों नहीं बढ़ता।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Saying particles stop moving in a solid — they still vibrate about fixed positions.",
+          "hi": "यह कहना कि ठोस में कण रुक जाते हैं — वे अपनी निश्चित स्थितियों पर कंपन करते रहते हैं।"
+        }
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": [],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "rj-sci-9",
+          "section": "1.1"
+        }
+      ],
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "S-M-A: Spaces, Moving, Attract",
+            "hi": "स-ग-आ: स्थान (रिक्त), गति, आकर्षण"
+          },
+          "recall": {
+            "en": "Three properties of particles: they have spaces between them, they are always moving, and they attract each other.",
+            "hi": "कणों के तीन गुण: उनके बीच रिक्त स्थान है, वे सदा गतिशील हैं, और वे एक-दूसरे को आकर्षित करते हैं।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Matter = tiny particles with spaces, constant motion and mutual attraction.",
+          "hi": "द्रव्य = रिक्त स्थान, निरंतर गति और परस्पर आकर्षण वाले सूक्ष्म कण।"
+        },
+        "points": [
+          {
+            "en": "Diffusion is fastest in gases and speeds up on heating.",
+            "hi": "विसरण गैसों में सबसे तेज़ होता है और गरम करने पर बढ़ता है।"
+          }
+        ]
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "note-rj-9-ch01-t1.3",
+      "targetId": "rj-9-ch01-t1.3",
+      "covers": [],
+      "definition": {
+        "en": "Matter exists in three states — solid, liquid and gas — which differ in the arrangement, spacing and movement of their particles.",
+        "hi": "द्रव्य तीन अवस्थाओं — ठोस, द्रव और गैस — में पाया जाता है, जो कणों की व्यवस्था, उनके बीच की दूरी और उनकी गति में भिन्न होती हैं।"
+      },
+      "explanation": {
+        "en": "In a solid such as ice, particles are packed closely and only vibrate, so a solid has a fixed shape and volume. In a liquid such as water, particles are close but can slide past each other, so it has a fixed volume but takes the shape of its container. In a gas such as steam, particles are far apart and move freely, so a gas has no fixed shape or volume and can be compressed easily — that is why LPG and CNG can be filled into cylinders.",
+        "hi": "बर्फ जैसे ठोस में कण पास-पास सटे रहते हैं और केवल कंपन करते हैं, इसलिए ठोस का आकार और आयतन निश्चित होता है। पानी जैसे द्रव में कण पास-पास होते हुए भी एक-दूसरे पर फिसल सकते हैं, इसलिए उसका आयतन निश्चित होता है पर आकार बर्तन जैसा हो जाता है। भाप जैसी गैस में कण दूर-दूर होते हैं और स्वतंत्र रूप से घूमते हैं, इसलिए गैस का न आकार निश्चित होता है न आयतन, और उसे आसानी से संपीडित किया जा सकता है — इसी कारण LPG और CNG सिलिंडरों में भरी जाती हैं।"
+      },
+      "keyPoints": [
+        {
+          "en": "Solids: fixed shape and volume, negligible compressibility, rigid.",
+          "hi": "ठोस: निश्चित आकार और आयतन, नगण्य संपीड्यता, दृढ़।"
+        },
+        {
+          "en": "Liquids: fixed volume, no fixed shape, can flow; gases and solids can dissolve in them.",
+          "hi": "द्रव: निश्चित आयतन, अनिश्चित आकार, बह सकते हैं; गैसें और ठोस इनमें घुल सकते हैं।"
+        },
+        {
+          "en": "Gases: no fixed shape or volume, highly compressible, exert pressure on the walls of the container.",
+          "hi": "गैसें: न निश्चित आकार न आयतन, अत्यधिक संपीड्य, बर्तन की दीवारों पर दाब डालती हैं।"
+        },
+        {
+          "en": "Order of interparticle attraction: solid > liquid > gas; order of particle spacing and kinetic energy: gas > liquid > solid.",
+          "hi": "अंतराकणिक आकर्षण का क्रम: ठोस > द्रव > गैस; कणों के बीच दूरी और गतिज ऊर्जा का क्रम: गैस > द्रव > ठोस।"
+        }
+      ],
+      "realLife": {
+        "en": "Compressed gases are used as fuel (CNG in vehicles, LPG at home) and oxygen cylinders in hospitals store a large amount of gas in a small volume.",
+        "hi": "संपीडित गैसें ईंधन के रूप में (वाहनों में CNG, घर में LPG) प्रयुक्त होती हैं, और अस्पतालों के ऑक्सीजन सिलिंडर कम आयतन में बहुत अधिक गैस रखते हैं।"
+      },
+      "examFocus": {
+        "en": "Compare solids, liquids and gases (shape, volume, compressibility, fluidity, diffusion) in a table; explain why a sponge or rubber band is still a solid.",
+        "hi": "ठोस, द्रव और गैस की तुलना (आकार, आयतन, संपीड्यता, तरलता, विसरण) तालिका में; समझाइए कि स्पंज या रबर बैंड फिर भी ठोस क्यों है।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Calling a sponge a non-solid because it can be pressed — it is a solid with tiny holes filled with air.",
+          "hi": "स्पंज को दबाया जा सकता है इसलिए उसे ठोस न मानना — यह ठोस है जिसके सूक्ष्म छिद्रों में वायु भरी होती है।"
+        },
+        {
+          "en": "Saying liquids have no fixed volume — only their shape changes.",
+          "hi": "यह कहना कि द्रवों का आयतन निश्चित नहीं होता — केवल उनका आकार बदलता है।"
+        }
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": [],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "rj-sci-9",
+          "section": "1.3"
+        }
+      ],
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "Solid: Shape + Size fixed; Liquid: only Litres fixed; Gas: Goes anywhere",
+            "hi": "ठोस: आकार + आयतन तय; द्रव: केवल आयतन (लीटर) तय; गैस: कहीं भी फैल जाए"
+          },
+          "recall": {
+            "en": "A solid keeps its shape and volume, a liquid keeps only its volume, a gas keeps neither and fills its container.",
+            "hi": "ठोस आकार और आयतन दोनों रखता है, द्रव केवल आयतन, गैस दोनों में से कुछ नहीं — वह पूरे बर्तन में भर जाती है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Attraction: solid > liquid > gas; compressibility and spacing: gas > liquid > solid.",
+          "hi": "आकर्षण: ठोस > द्रव > गैस; संपीड्यता और दूरी: गैस > द्रव > ठोस।"
+        },
+        "points": [
+          {
+            "en": "Only gases are highly compressible — hence CNG and LPG cylinders.",
+            "hi": "केवल गैसें अत्यधिक संपीड्य हैं — इसीलिए CNG और LPG सिलिंडर।"
+          }
+        ]
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "note-rj-9-ch01-t1.4",
+      "targetId": "rj-9-ch01-t1.4",
+      "covers": [],
+      "definition": {
+        "en": "Matter changes from one state to another on heating or cooling, or by changing pressure. The temperature at which a solid melts is its melting point; the temperature at which a liquid boils at atmospheric pressure is its boiling point.",
+        "hi": "गरम या ठंडा करने से, अथवा दाब बदलने से, द्रव्य एक अवस्था से दूसरी अवस्था में बदल जाता है। जिस ताप पर ठोस पिघलता है वह उसका गलनांक है; वायुमंडलीय दाब पर जिस ताप पर द्रव उबलता है वह उसका क्वथनांक है।"
+      },
+      "explanation": {
+        "en": "Heat ice: its temperature stays at 0 °C (273 K) until all of it melts, because the heat supplied is used to overcome the attraction between particles — this hidden heat is the latent heat of fusion. Water likewise stays at 100 °C (373 K) while boiling (latent heat of vaporisation). Cooling reverses these: steam condenses to water and water freezes to ice. Raising pressure and lowering temperature can liquefy a gas; solid CO₂ (dry ice) turns straight into gas when pressure falls to 1 atm.",
+        "hi": "बर्फ को गरम करें: जब तक सारी बर्फ पिघल न जाए, ताप 0 °C (273 K) पर ही रहता है, क्योंकि दी गई ऊष्मा कणों के बीच का आकर्षण तोड़ने में लगती है — यही छिपी ऊष्मा संगलन की गुप्त ऊष्मा है। इसी प्रकार उबलते समय पानी 100 °C (373 K) पर रहता है (वाष्पन की गुप्त ऊष्मा)। ठंडा करने पर ये उलट जाते हैं: भाप संघनित होकर पानी और पानी जमकर बर्फ बनता है। दाब बढ़ाने और ताप घटाने से गैस को द्रवित किया जा सकता है; ठोस CO₂ (शुष्क बर्फ) दाब 1 atm होने पर सीधे गैस बन जाती है।"
+      },
+      "keyPoints": [
+        {
+          "en": "Melting point of ice = 0 °C = 273.15 K; boiling point of water = 100 °C = 373 K.",
+          "hi": "बर्फ का गलनांक = 0 °C = 273.15 K; पानी का क्वथनांक = 100 °C = 373 K।"
+        },
+        {
+          "en": "Temperature stays constant during a change of state because heat is used as latent heat.",
+          "hi": "अवस्था परिवर्तन के दौरान ताप स्थिर रहता है क्योंकि ऊष्मा गुप्त ऊष्मा के रूप में उपयोग होती है।"
+        },
+        {
+          "en": "Condensation (gas → liquid) and freezing (liquid → solid) release heat; sublimation is solid → gas directly (camphor, naphthalene, ammonium chloride).",
+          "hi": "संघनन (गैस → द्रव) और हिमीकरण (द्रव → ठोस) में ऊष्मा निकलती है; ऊर्ध्वपातन ठोस का सीधे गैस बनना है (कपूर, नैफ़्थलीन, अमोनियम क्लोराइड)।"
+        },
+        {
+          "en": "Particles in steam at 100 °C have more energy than water at 100 °C — they carry the latent heat of vaporisation.",
+          "hi": "100 °C की भाप के कणों में 100 °C के पानी से अधिक ऊर्जा होती है — उनमें वाष्पन की गुप्त ऊष्मा होती है।"
+        }
+      ],
+      "realLife": {
+        "en": "Steam burns are more severe than burns from boiling water at the same temperature; gases like LPG are liquefied under pressure for storage.",
+        "hi": "समान ताप पर उबलते पानी की तुलना में भाप से जलना अधिक गंभीर होता है; LPG जैसी गैसों को भंडारण के लिए दाब देकर द्रवित किया जाता है।"
+      },
+      "examFocus": {
+        "en": "Convert between °C and K; explain why temperature stays constant during melting/boiling; explain why steam causes more severe burns.",
+        "hi": "°C और K में रूपांतरण; समझाइए कि गलन/क्वथन के दौरान ताप स्थिर क्यों रहता है; भाप से जलना अधिक गंभीर क्यों होता है।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Adding 273 the wrong way: to go from kelvin to Celsius, subtract 273.",
+          "hi": "273 को उल्टा जोड़ना: केल्विन से सेल्सियस में बदलने के लिए 273 घटाएँ।"
+        },
+        {
+          "en": "Thinking the supplied heat is lost when temperature does not rise during melting — it is stored as latent heat.",
+          "hi": "यह मानना कि गलन के समय ताप न बढ़ने पर दी गई ऊष्मा नष्ट हो जाती है — वह गुप्त ऊष्मा के रूप में संचित होती है।"
+        }
+      ],
+      "formulas": [
+        "T(K) = t(°C) + 273",
+        "H₂O(s) → H₂O(l)",
+        "H₂O(l) → H₂O(g)",
+        "CO₂(s) → CO₂(g)"
+      ],
+      "practicalIds": [],
+      "conceptIds": [],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "rj-sci-9",
+          "section": "1.4"
+        }
+      ],
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "C to K: add 273; K to C: take 273 away",
+            "hi": "C से K: 273 जोड़ो; K से C: 273 घटाओ"
+          },
+          "recall": {
+            "en": "0 °C = 273 K and 100 °C = 373 K; kelvin is always the bigger number.",
+            "hi": "0 °C = 273 K और 100 °C = 373 K; केल्विन वाली संख्या सदा बड़ी होती है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "During melting and boiling the temperature stays fixed; the heat goes in as latent heat.",
+          "hi": "गलन और क्वथन के समय ताप स्थिर रहता है; ऊष्मा गुप्त ऊष्मा के रूप में जाती है।"
+        },
+        "formula": "T(K) = t(°C) + 273",
+        "points": [
+          {
+            "en": "Ice melts at 273 K; water boils at 373 K.",
+            "hi": "बर्फ 273 K पर पिघलती है; पानी 373 K पर उबलता है।"
+          },
+          {
+            "en": "High pressure + low temperature liquefy a gas.",
+            "hi": "उच्च दाब + निम्न ताप से गैस द्रवित होती है।"
+          }
+        ]
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "note-rj-9-ch01-t1.5",
+      "targetId": "rj-9-ch01-t1.5",
+      "covers": [],
+      "definition": {
+        "en": "Evaporation is the change of a liquid into vapour at any temperature below its boiling point. It is a surface phenomenon and causes cooling.",
+        "hi": "क्वथनांक से कम किसी भी ताप पर द्रव का वाष्प में बदलना वाष्पन है। यह एक पृष्ठीय (सतही) घटना है और इससे शीतलता उत्पन्न होती है।"
+      },
+      "explanation": {
+        "en": "Wet clothes dry even without boiling: particles at the surface that have enough energy escape into the air. The particles that escape take energy with them, so the liquid left behind — and anything it touches — cools down. That is why sweating cools the body and water in an earthen pot (matka) stays cool.",
+        "hi": "गीले कपड़े बिना उबाले भी सूख जाते हैं: सतह के जिन कणों में पर्याप्त ऊर्जा होती है, वे वायु में निकल जाते हैं। निकलने वाले कण अपने साथ ऊर्जा ले जाते हैं, इसलिए बचा हुआ द्रव — और जिससे वह छू रहा है — ठंडा हो जाता है। इसी से पसीना शरीर को ठंडक देता है और मिट्टी के घड़े (मटके) का पानी ठंडा रहता है।"
+      },
+      "keyPoints": [
+        {
+          "en": "Rate of evaporation increases with larger surface area, higher temperature, lower humidity and higher wind speed.",
+          "hi": "वाष्पन की दर बढ़ती है: अधिक पृष्ठ क्षेत्रफल, उच्च ताप, कम आर्द्रता और तेज़ हवा से।"
+        },
+        {
+          "en": "Evaporation happens at all temperatures and only at the surface; boiling happens at a fixed temperature throughout the liquid.",
+          "hi": "वाष्पन सभी तापों पर और केवल सतह पर होता है; क्वथन एक निश्चित ताप पर पूरे द्रव में होता है।"
+        },
+        {
+          "en": "Evaporation causes cooling because the liquid loses its most energetic particles.",
+          "hi": "वाष्पन से शीतलता होती है क्योंकि द्रव अपने सबसे अधिक ऊर्जा वाले कण खो देता है।"
+        }
+      ],
+      "realLife": {
+        "en": "We wear cotton clothes in summer because cotton absorbs sweat and lets it evaporate; acetone (nail-polish remover) feels cold on the palm; a desert cooler cools better on a dry, hot day.",
+        "hi": "गर्मियों में हम सूती कपड़े पहनते हैं क्योंकि सूती कपड़ा पसीना सोखकर उसे वाष्पित होने देता है; ऐसीटोन (नेल-पॉलिश रिमूवर) हथेली पर ठंडा लगता है; रेगिस्तानी कूलर शुष्क गर्म दिन में अधिक ठंडक देता है।"
+      },
+      "examFocus": {
+        "en": "List factors affecting evaporation; give reasons — cotton clothes in summer, water drops on the outside of a glass of ice water, matka water stays cool.",
+        "hi": "वाष्पन को प्रभावित करने वाले कारक; कारण बताइए — गर्मी में सूती कपड़े, बर्फ के पानी वाले गिलास के बाहर पानी की बूँदें, मटके का पानी ठंडा रहना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Treating evaporation and boiling as the same — boiling is a bulk change at a fixed temperature.",
+          "hi": "वाष्पन और क्वथन को एक मानना — क्वथन निश्चित ताप पर पूरे द्रव में होने वाला परिवर्तन है।"
+        },
+        {
+          "en": "Saying the drops outside a cold glass leak through the glass — they come from water vapour in the air condensing.",
+          "hi": "यह कहना कि ठंडे गिलास के बाहर की बूँदें गिलास से रिसती हैं — वे वायु की जलवाष्प के संघनन से बनती हैं।"
+        }
+      ],
+      "formulas": [],
+      "practicalIds": [],
+      "conceptIds": [],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "rj-sci-9",
+          "section": "1.5"
+        }
+      ],
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "SHAW speeds evaporation: Surface ↑, Heat ↑, Air humidity ↓, Wind ↑",
+            "hi": "SHAW: सतह ↑, ऊष्मा (ताप) ↑, आर्द्रता ↓, हवा ↑ — वाष्पन तेज़"
+          },
+          "recall": {
+            "en": "More surface area, higher temperature, drier air and faster wind all make a liquid evaporate faster.",
+            "hi": "अधिक पृष्ठ क्षेत्रफल, उच्च ताप, शुष्क वायु और तेज़ हवा — सभी से द्रव जल्दी वाष्पित होता है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Evaporation: surface change below the boiling point that cools the liquid.",
+          "hi": "वाष्पन: क्वथनांक से नीचे होने वाला सतही परिवर्तन जो द्रव को ठंडा करता है।"
+        },
+        "points": [
+          {
+            "en": "Faster with more surface, more heat, less humidity, more wind.",
+            "hi": "अधिक सतह, अधिक ताप, कम आर्द्रता, तेज़ हवा से तेज़।"
+          }
+        ]
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "note-rj-9-ch02-t2.5",
+      "targetId": "rj-9-ch02-t2.5",
+      "covers": [],
+      "definition": {
+        "en": "A physical change alters only physical properties such as state, shape or size, and no new substance forms. A chemical change forms one or more new substances with new properties.",
+        "hi": "भौतिक परिवर्तन में केवल अवस्था, आकार या माप जैसे भौतिक गुण बदलते हैं और कोई नया पदार्थ नहीं बनता। रासायनिक परिवर्तन में नए गुणों वाले एक या अधिक नए पदार्थ बनते हैं।"
+      },
+      "explanation": {
+        "en": "Melting ice gives water, which can be frozen back to ice — the substance is still water, so this is a physical change. Burning a magnesium ribbon gives white ash (magnesium oxide), which cannot be turned back into magnesium by cooling — a new substance has formed, so this is a chemical change. Burning a candle shows both: the wax melts (physical) and the wax vapour burns (chemical).",
+        "hi": "बर्फ पिघलकर पानी बनती है जिसे फिर जमाकर बर्फ बनाया जा सकता है — पदार्थ वही (पानी) रहता है, इसलिए यह भौतिक परिवर्तन है। मैग्नीशियम रिबन जलाने पर सफ़ेद राख (मैग्नीशियम ऑक्साइड) बनती है, जिसे ठंडा करके वापस मैग्नीशियम नहीं बनाया जा सकता — नया पदार्थ बना है, अतः यह रासायनिक परिवर्तन है। मोमबत्ती जलना दोनों दिखाता है: मोम का पिघलना (भौतिक) और मोम के वाष्प का जलना (रासायनिक)।"
+      },
+      "keyPoints": [
+        {
+          "en": "Physical changes: melting, boiling, dissolving salt in water, breaking glass, magnetising iron — usually reversible.",
+          "hi": "भौतिक परिवर्तन: पिघलना, उबलना, पानी में नमक घोलना, काँच टूटना, लोहे को चुंबकित करना — प्रायः उत्क्रमणीय।"
+        },
+        {
+          "en": "Chemical changes: burning, rusting, cooking food, souring of milk, digestion — a new substance forms.",
+          "hi": "रासायनिक परिवर्तन: जलना, जंग लगना, भोजन पकाना, दूध का खट्टा होना, पाचन — नया पदार्थ बनता है।"
+        },
+        {
+          "en": "Signs of a chemical change: gas given off, change of colour, heat or light produced, precipitate formed.",
+          "hi": "रासायनिक परिवर्तन के संकेत: गैस निकलना, रंग बदलना, ऊष्मा या प्रकाश उत्पन्न होना, अवक्षेप बनना।"
+        }
+      ],
+      "realLife": {
+        "en": "Rusting of iron gates, ripening of fruit and cooking are chemical changes; making ice cubes and drying clothes are physical changes.",
+        "hi": "लोहे के गेट पर जंग लगना, फलों का पकना और खाना बनाना रासायनिक परिवर्तन हैं; बर्फ के टुकड़े बनाना और कपड़े सुखाना भौतिक परिवर्तन हैं।"
+      },
+      "examFocus": {
+        "en": "Classify given changes as physical or chemical with a reason; explain why burning of a candle involves both.",
+        "hi": "दिए गए परिवर्तनों को कारण सहित भौतिक या रासायनिक में वर्गीकृत करना; समझाना कि मोमबत्ती जलने में दोनों परिवर्तन क्यों होते हैं।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Calling dissolving of sugar a chemical change — the sugar can be recovered by evaporation, so it is physical.",
+          "hi": "चीनी घुलने को रासायनिक परिवर्तन कहना — वाष्पन द्वारा चीनी वापस मिल जाती है, अतः यह भौतिक है।"
+        }
+      ],
+      "formulas": [
+        "2Mg(s) + O₂(g) → 2MgO(s)",
+        "C(s) + O₂(g) → CO₂(g)",
+        "H₂O(s) ⇌ H₂O(l)"
+      ],
+      "practicalIds": [],
+      "conceptIds": [],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "rj-sci-9",
+          "section": "2.5"
+        }
+      ],
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "New substance? → Chemical. Same substance? → Physical.",
+            "hi": "नया पदार्थ? → रासायनिक। वही पदार्थ? → भौतिक।"
+          },
+          "recall": {
+            "en": "Ask only one question: has a new substance formed? Burning Mg gives MgO (chemical); melting ice still gives water (physical).",
+            "hi": "केवल एक प्रश्न पूछें: क्या नया पदार्थ बना? Mg जलने पर MgO बनता है (रासायनिक); बर्फ पिघलने पर पानी ही रहता है (भौतिक)।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Physical change: no new substance; chemical change: new substance with new properties.",
+          "hi": "भौतिक परिवर्तन: कोई नया पदार्थ नहीं; रासायनिक परिवर्तन: नए गुणों वाला नया पदार्थ।"
+        },
+        "formula": "2Mg(s) + O₂(g) → 2MgO(s)",
+        "points": [
+          {
+            "en": "Burning of a candle is both physical (melting wax) and chemical (burning vapour).",
+            "hi": "मोमबत्ती का जलना भौतिक (मोम पिघलना) और रासायनिक (वाष्प जलना) दोनों है।"
+          }
+        ]
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "note-rj-9-ch02-t2.6",
+      "targetId": "rj-9-ch02-t2.6",
+      "covers": [],
+      "definition": {
+        "en": "An element is a pure substance that cannot be broken into simpler substances by chemical reactions. A compound is a pure substance made of two or more elements chemically combined in a fixed proportion by mass. A mixture contains two or more substances mixed in any proportion without chemical combination.",
+        "hi": "तत्व वह शुद्ध पदार्थ है जिसे रासायनिक अभिक्रियाओं द्वारा सरल पदार्थों में नहीं तोड़ा जा सकता। यौगिक वह शुद्ध पदार्थ है जो दो या अधिक तत्वों के द्रव्यमान के निश्चित अनुपात में रासायनिक संयोग से बनता है। मिश्रण में दो या अधिक पदार्थ बिना रासायनिक संयोग के किसी भी अनुपात में मिले रहते हैं।"
+      },
+      "explanation": {
+        "en": "Mix iron filings and sulphur powder: a magnet still pulls out the iron, so this is a mixture and each part keeps its own properties. Heat the mixture strongly: it glows and forms black iron sulphide (FeS). Now a magnet does not attract it, and with dilute acid it gives smelly hydrogen sulphide instead of hydrogen — a compound with new properties has formed.",
+        "hi": "लोहे का बुरादा और गंधक का चूर्ण मिलाएँ: चुंबक अब भी लोहे को खींच लेता है, अतः यह मिश्रण है और हर घटक अपने गुण बनाए रखता है। इस मिश्रण को तेज़ गरम करें: यह दीप्त होकर काला आयरन सल्फ़ाइड (FeS) बनाता है। अब चुंबक इसे आकर्षित नहीं करता, और तनु अम्ल के साथ यह हाइड्रोजन के बजाय दुर्गंधयुक्त हाइड्रोजन सल्फ़ाइड देता है — नए गुणों वाला यौगिक बन गया है।"
+      },
+      "keyPoints": [
+        {
+          "en": "Elements are classified as metals, non-metals and metalloids (e.g. boron, silicon, germanium).",
+          "hi": "तत्वों को धातु, अधातु और उपधातु (जैसे बोरॉन, सिलिकॉन, जर्मेनियम) में वर्गीकृत किया जाता है।"
+        },
+        {
+          "en": "A compound has a fixed composition and new properties; its components can be separated only by chemical or electrochemical methods.",
+          "hi": "यौगिक का संघटन निश्चित होता है और गुण नए होते हैं; उसके घटक केवल रासायनिक या विद्युत-रासायनिक विधियों से अलग किए जा सकते हैं।"
+        },
+        {
+          "en": "A mixture has variable composition, keeps the properties of its components and can be separated by physical methods.",
+          "hi": "मिश्रण का संघटन परिवर्ती होता है, उसमें घटकों के गुण बने रहते हैं और उसे भौतिक विधियों से अलग किया जा सकता है।"
+        },
+        {
+          "en": "Energy is usually given out or taken in when a compound forms, but not when a mixture is made.",
+          "hi": "यौगिक बनने पर प्रायः ऊर्जा निकलती या अवशोषित होती है, पर मिश्रण बनाने पर नहीं।"
+        }
+      ],
+      "realLife": {
+        "en": "Water (H₂O) and common salt (NaCl) are compounds; air, sea water and brass are mixtures; oxygen, iron and copper are elements.",
+        "hi": "जल (H₂O) और साधारण नमक (NaCl) यौगिक हैं; वायु, समुद्री जल और पीतल मिश्रण हैं; ऑक्सीजन, लोहा और ताँबा तत्व हैं।"
+      },
+      "examFocus": {
+        "en": "Tabulate differences between a mixture and a compound using the iron–sulphur experiment; classify substances as element, compound or mixture.",
+        "hi": "लोहा–गंधक प्रयोग के आधार पर मिश्रण और यौगिक में अंतर तालिका में लिखना; पदार्थों को तत्व, यौगिक या मिश्रण में वर्गीकृत करना।"
+      },
+      "commonMistakes": [
+        {
+          "en": "Calling air or brass a compound — they have variable composition, so they are mixtures.",
+          "hi": "वायु या पीतल को यौगिक कहना — इनका संघटन परिवर्ती है, अतः ये मिश्रण हैं।"
+        },
+        {
+          "en": "Saying a compound keeps the properties of its elements — sodium chloride is neither a soft metal nor a poisonous gas.",
+          "hi": "यह कहना कि यौगिक में उसके तत्वों के गुण रहते हैं — सोडियम क्लोराइड न तो मुलायम धातु है न विषैली गैस।"
+        }
+      ],
+      "formulas": [
+        "Fe(s) + S(s) → FeS(s) (heat)",
+        "FeS(s) + H₂SO₄(aq) → FeSO₄(aq) + H₂S(g)",
+        "Fe(s) + H₂SO₄(aq) → FeSO₄(aq) + H₂(g)"
+      ],
+      "practicalIds": [],
+      "conceptIds": [
+        "mixture-types"
+      ],
+      "chemicalIds": [],
+      "sources": [
+        {
+          "sourceId": "rj-sci-9",
+          "section": "2.6"
+        }
+      ],
+      "memoryTricks": [
+        {
+          "trick": {
+            "en": "Mixture = Mix & separate; Compound = Combined for good",
+            "hi": "मिश्रण = मिलाओ और अलग करो; यौगिक = सदा के लिए जुड़ गया"
+          },
+          "recall": {
+            "en": "A mixture can be separated by physical means and keeps old properties; a compound is chemically combined, fixed in ratio and has new properties.",
+            "hi": "मिश्रण भौतिक विधियों से अलग हो जाता है और पुराने गुण रखता है; यौगिक रासायनिक रूप से जुड़ा, निश्चित अनुपात वाला और नए गुणों वाला होता है।"
+          }
+        }
+      ],
+      "quickRevision": {
+        "oneLine": {
+          "en": "Element: simplest pure substance; compound: elements combined in fixed ratio; mixture: any ratio, no combination.",
+          "hi": "तत्व: सबसे सरल शुद्ध पदार्थ; यौगिक: निश्चित अनुपात में संयुक्त तत्व; मिश्रण: कोई भी अनुपात, कोई संयोग नहीं।"
+        },
+        "formula": "Fe(s) + S(s) → FeS(s) (heat)",
+        "points": [
+          {
+            "en": "Iron + sulphur mixture: magnet attracts iron. FeS compound: magnet does not.",
+            "hi": "लोहा + गंधक मिश्रण: चुंबक लोहे को खींचता है। FeS यौगिक: नहीं खींचता।"
+          }
+        ]
+      },
+      "review": {
+        "status": "sourceChecked"
+      }
+    }
+  ]
+}
