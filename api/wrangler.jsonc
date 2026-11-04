@@ -1,0 +1,18 @@
+{
+  // Runs the Express API directly as a Worker (Workers Free plan, no container).
+  // Secrets: MONGODB_URI, JWT_SECRET, INTERNAL_SECRET, GOOGLE_CLIENT_ID
+  // (`npx wrangler secret put <NAME>`); they reach the app as process.env.
+  "name": "lab-console-api",
+  "main": "worker/index.js",
+  "compatibility_date": "2026-10-01",
+  "compatibility_flags": ["nodejs_compat"],
+  // Bundling picks packages' "browser" builds; point these at Node versions.
+  "alias": {
+    "iconv-lite": "./worker/iconv-lite.js",
+    "mongoose": "./node_modules/mongoose/index.js"
+  },
+  "vars": {
+    "NODE_ENV": "production",
+    "CORS_ORIGINS": "https://lab-console.wearepartnerha.workers.dev,https://labconsole.wearepartnerha.workers.dev"
+  }
+}

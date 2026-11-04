@@ -1,20 +1,48 @@
 # virtual_chemistry_lab
 
-A new Flutter project.
+Virtual Chemistry Lab: a Flutter app for chemistry notes, practice questions,
+PYQs and virtual lab experiments, managed from the Lab Console (`console/`, `api/`).
 
-## Getting Started
+## Building the APK
 
-This project is a starting point for a Flutter application.
+The app syncs content from the Lab Console API and reports installs/purchases to it.
+The API URL is baked in at build time with `--dart-define`:
 
-A few resources to get you started if this is your first Flutter project:
+| Setting | Value |
+|---|---|
+| `CONTENT_API_URL` | `https://lab-console-api.wearepartnerha.workers.dev` |
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Use the base URL only: the app adds `/api/v1/public/...` itself, so don't append
+`/api/v1` or a trailing path. Without `CONTENT_API_URL` the app runs fully offline on
+its bundled content.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```sh
+flutter pub get
+
+# Release APK (install directly on a phone / share the file)
+flutter build apk --release   --dart-define=CONTENT_API_URL=https://lab-console-api.wearepartnerha.workers.dev
+
+# Smaller APKs, one per CPU type (most phones need app-arm64-v8a-release.apk)
+flutter build apk --release --split-per-abi   --dart-define=CONTENT_API_URL=https://lab-console-api.wearepartnerha.workers.dev
+```
+
+Output: `build/app/outputs/flutter-apk/app-release.apk` (or `app-<abi>-release.apk`).
+Install on a connected phone with `flutter install` or `adb install <file>.apk`.
+
+On Windows PowerShell, put the command on one line or replace the trailing `\` with
+a backtick (`` ` ``).
+
+Add these too when the features are set up (see the sections below):
+
+```sh
+  --dart-define=AI_TUTOR_PROXY_URL=https://your-server.example/v1/messages   --dart-define=PREMIUM_VERIFY_URL=https://.../verifyPurchase
+```
+
+For the Play Store, build an app bundle with the same flags instead:
+`flutter build appbundle --release --dart-define=CONTENT_API_URL=...` (needs the upload
+key, see [Upload key](#upload-key-required-by-google-play)). Without
+`android/key.properties` the release APK is signed with the debug key: fine for
+testing on phones, not accepted by Google Play.
 
 ## AI Chemistry Tutor
 

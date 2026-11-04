@@ -1,3 +1,6 @@
+import 'dart:async';
+import 'dart:math';
+
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
@@ -29,6 +32,7 @@ import 'state/language_controller.dart';
 import 'study/personal_notes_store.dart';
 import 'study/study_focus.dart';
 import 'study/study_progress_store.dart';
+import 'sync/remote_content.dart';
 
 // TODO: Uncomment when Firebase is configured
 // import 'package:cloud_firestore/cloud_firestore.dart';
@@ -43,11 +47,32 @@ Future<void> main() async {
   // await Firebase.initializeApp();
 
   final prefs = await SharedPreferences.getInstance();
-  final catalog = await ContentCatalog.load(ContentRepository());
+  final remote = RemoteContentCache(prefs);
+  final catalog = await ContentCatalog.load(ContentRepository(remote: remote));
   await migrateLegacyProgress(prefs, catalog);
   // A study session cut off by the app closing is saved as interrupted.
   await StudySessionStore(prefs).recoverInterrupted();
   runApp(VirtualChemistryLabApp(prefs: prefs, catalog: catalog));
+  unawaited(_syncWithConsole(prefs, remote));
+}
+
+/// Fetches content published in the Lab Console for the next launch and
+/// reports an anonymous install. Does nothing without `CONTENT_API_URL`.
+Future<void> _syncWithConsole(SharedPreferences prefs, RemoteContentCache cache) async {
+  final sync = RemoteContentSync(config: RemoteContentConfig.fromEnvironment(), cache: cache);
+  if (!sync.config.enabled) return;
+  var id = prefs.getString('install_id');
+  if (id == null) {
+    final r = Random.secure();
+    id = List.generate(24, (_) => r.nextInt(16).toRadixString(16)).join();
+    await prefs.setString('install_id', id);
+  }
+  await sync.reportInstall(
+    installId: id,
+    boardId: prefs.getString(AppState.boardKey),
+    classLevel: prefs.getInt(AppState.classKey),
+  );
+  await sync.refresh();
 }
 
 /// Moves progress saved under draft curriculum ids onto the verified ids.

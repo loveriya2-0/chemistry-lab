@@ -2,6 +2,7 @@ import 'dart:convert';
 
 import 'package:flutter/services.dart';
 
+import '../sync/remote_content.dart';
 import 'models/board.dart';
 import 'models/syllabus.dart';
 
@@ -10,7 +11,7 @@ import 'models/syllabus.dart';
 /// Fully data-driven: a new board or academic year is a new folder plus an
 /// entry in `boards.json` — no code changes.
 class ContentRepository {
-  ContentRepository({AssetBundle? bundle}) : _bundle = bundle ?? rootBundle;
+  ContentRepository({AssetBundle? bundle, this.remote}) : _bundle = bundle ?? rootBundle;
 
   static const root = 'assets/content';
 
@@ -28,12 +29,56 @@ class ContentRepository {
   /// is the default provenance for every bilingual text in the file.
   Future<List<Json>> jsonList(String relativePath) async {
     final decoded = jsonDecode(await _bundle.loadString('$root/$relativePath'));
-    if (decoded is List<Object?>) return [for (final e in decoded) e! as Json];
+    if (decoded is List<Object?>) return _withRemote(relativePath, [for (final e in decoded) e! as Json]);
     final file = decoded as Json;
     final hiSrc = file['hiSrc'] as String?;
-    return [
+    return _withRemote(relativePath, [
       for (final e in file['items']! as List<Object?>) hiSrc == null ? e! as Json : _withHiSrc(e, hiSrc) as Json,
-    ];
+    ]);
+  }
+
+  /// Lab Console content downloaded earlier (see `RemoteContentSync`).
+  /// Reviewed items replace bundled ones with the same id; items the app
+  /// does not ship yet are added once. Items the console un-publishes stay
+  /// as bundled until the next app release.
+  final RemoteContentCache? remote;
+  final _addedRemote = <String>{};
+
+  static String? _remoteType(String path) {
+    if (path.contains('/notes/')) return 'note';
+    if (path.contains('/questions/')) return 'question';
+    if (path.contains('/pyq/')) return 'pyq';
+    if (path.startsWith('library/concepts/')) return 'concept';
+    return switch (path) {
+      'library/chemicals.json' || 'library/chemicals-advanced.json' => 'chemical',
+      'library/lab-reactions.json' => 'reaction',
+      'library/lab-reagents.json' => 'reagent',
+      'library/practical-guides.json' => 'guide',
+      _ => null,
+    };
+  }
+
+  List<Json> _withRemote(String path, List<Json> bundled) {
+    final type = _remoteType(path);
+    final cache = remote;
+    if (type == null || cache == null) return bundled;
+    final fromServer = cache.items(type);
+    if (fromServer.isEmpty) return bundled;
+    final byId = {for (final e in fromServer) e['id']! as String: e};
+    final merged = [for (final e in bundled) byId[e['id']] ?? e];
+    // Class-specific files (questions, notes, PYQs) only take their own class.
+    final fileClass = int.tryParse(RegExp(r'class-(\d+)').firstMatch(path)?.group(1) ?? '');
+    final known = {for (final e in bundled) e['id']};
+    for (final e in fromServer) {
+      final id = e['id']! as String;
+      if (known.contains(id) || _addedRemote.contains('$type/$id')) continue;
+      final cls = e['classLevel'];
+      if (fileClass != null && cls != null && cls != fileClass) continue;
+      if (fileClass == null && (type == 'note' || type == 'question' || type == 'pyq')) continue;
+      _addedRemote.add('$type/$id');
+      merged.add(e);
+    }
+    return merged;
   }
 
   /// Fills in [hiSrc] on every `{en, hi}` text that does not set its own.

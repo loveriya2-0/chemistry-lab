@@ -1,0 +1,9 @@
+{
+  "name": "lab-console",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./dist",
+    // React Router paths like /content/question must serve index.html
+    "not_found_handling": "single-page-application"
+  }
+}
