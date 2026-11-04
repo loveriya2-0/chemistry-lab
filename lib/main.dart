@@ -11,6 +11,7 @@ import 'content/content_repository.dart';
 import 'content/legacy_migration.dart';
 import 'core/theme.dart';
 import 'data/bookmark_store.dart';
+// import 'data/feedback_store.dart'; // TODO: Enable when Firebase is configured
 import 'data/focus_session_store.dart';
 import 'data/practical_attempt_store.dart';
 import 'data/practicals_repository.dart';
@@ -29,9 +30,18 @@ import 'study/personal_notes_store.dart';
 import 'study/study_focus.dart';
 import 'study/study_progress_store.dart';
 
+// TODO: Uncomment when Firebase is configured
+// import 'package:cloud_firestore/cloud_firestore.dart';
+// import 'package:firebase_core/firebase_core.dart';
+// import 'package:firebase_storage/firebase_storage.dart';
+
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]);
+
+  // TODO: Initialize Firebase when google-services.json is configured
+  // await Firebase.initializeApp();
+
   final prefs = await SharedPreferences.getInstance();
   final catalog = await ContentCatalog.load(ContentRepository());
   await migrateLegacyProgress(prefs, catalog);
@@ -73,6 +83,8 @@ class VirtualChemistryLabApp extends StatelessWidget {
         Provider.value(value: prefs),
         Provider.value(value: catalog),
         Provider(create: (_) => PracticalsRepository(reactionLabs: ReactionLabs.fromCatalog(catalog))),
+        // TODO: Enable when Firebase is configured
+        // Provider(create: (_) => FeedbackStore(FirebaseFirestore.instance, FirebaseStorage.instance)),
         ChangeNotifierProvider(create: (_) => AppState(prefs)),
         ChangeNotifierProvider(create: (_) => LanguageController(prefs)),
         Provider(create: (_) => FocusSessionStore(prefs)),
