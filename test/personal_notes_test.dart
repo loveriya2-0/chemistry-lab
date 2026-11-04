@@ -139,6 +139,9 @@ void main() {
       await tester.pumpAndSettle();
 
       await tester.scrollUntilVisible(find.text('Add a note'), 300, scrollable: find.byType(Scrollable).first);
+      // Bring it clear of the bottom previous/next bar.
+      await tester.drag(find.byType(Scrollable).first, const Offset(0, -200));
+      await tester.pumpAndSettle();
       await tester.tap(find.text('Add a note'));
       await tester.pumpAndSettle();
       expect(find.byType(NoteEditorScreen), findsOneWidget);

@@ -25,7 +25,7 @@ void main() {
   group('UP Board (UPMSP) 2026-27', () {
     test('passes every syllabus and content rule', () async {
       expect(ContentValidator.curriculum(up.manifest, await ContentRepository().allClasses('up')), isEmpty);
-      expect(ContentValidator.learningContent(up, notesForClasses: {10, 11, 12}), isEmpty);
+      expect(ContentValidator.learningContent(up, notesForClasses: {9, 10, 11, 12}), isEmpty);
       // The CBSE content is unaffected.
       expect(ContentValidator.learningContent(cbse, notesForClasses: {9, 10, 11, 12}), isEmpty);
     });
@@ -59,15 +59,15 @@ void main() {
     test('shares NCERT notes and practice questions under UP ids — never CBSE previous-year questions', () {
       expect(up.pyqs, isEmpty);
       final perClass = {for (final l in [9, 10, 11, 12]) l: up.practiceQuestions(classLevel: l).length};
-      expect(perClass, {9: 54, 10: 193, 11: 226, 12: 242});
+      expect(perClass, {9: 63, 10: 193, 11: 226, 12: 242});
       for (final level in [10, 11, 12]) {
         expect(perClass[level], cbse.practiceQuestions(classLevel: level).length, reason: 'Class $level');
       }
-      expect(up.notes, hasLength(201));
+      expect(up.notes, hasLength(205));
       for (final n in up.notes) {
         expect(n.id, isNot(contains('cbse')), reason: n.id);
         expect(n.targetId, startsWith('up-'), reason: n.id);
-        expect(n.practicalIds, isEmpty, reason: '${n.id}: no CBSE practical links');
+        expect(n.practicalIds.where((p) => !p.startsWith('up-')), isEmpty, reason: '${n.id}: no CBSE practical links');
       }
       for (final q in up.questions) {
         expect(q.id, isNot(contains('cbse')), reason: q.id);
@@ -81,13 +81,14 @@ void main() {
       expect(shared.topicId, 'up-12-ch01-t1.6');
     });
 
-    test('Class 9 reuses notes only where the idea is the same; other topics stay empty', () {
+    test('Class 9: every topic has a note — shared where the idea is the same, UP\'s own otherwise', () {
       final c9 = up.classes[9]!;
       final topics = [for (final ch in c9.chapters) ...ch.topics.expand((t) => t.selfAndDescendants)];
       expect(topics, hasLength(23));
-      final empty = [for (final t in topics) if (up.noteFor(t.id) == null) t.number];
+      expect([for (final t in topics) if (up.noteFor(t.id) == null) t.number], isEmpty);
       // "Matter in our surroundings" (except sublimation) and "Elements, compounds and mixtures".
-      expect(empty, ['1.1', '1.2', '1.3', '1.4', '2.1']);
+      final own = [for (final t in topics) if (up.noteFor(t.id)!.sources.single.sourceId == 'up-sci-9') t.number];
+      expect(own, ['1.1', '1.2', '1.3', '1.4', '2.1']);
     });
 
     test('practical status: only what the labs really do is marked interactive', () {
@@ -162,12 +163,13 @@ void main() {
       expect(find.textContaining('Practice questions ·'), findsOneWidget);
     });
 
-    testWidgets('UP Class 9: a topic with no checked note says so honestly', (tester) async {
+    testWidgets('UP Class 9: "Matter in Our Surroundings" topics now show their notes', (tester) async {
       await launchApp(tester, board: 'up', size: const Size(1080, 6000));
       await scrollAndTap(tester, find.text('Class 9'));
       await scrollAndTap(tester, find.text('Matter in Our Surroundings'));
       await scrollAndTap(tester, find.text('Evaporation and Cooling'));
-      expect(find.textContaining('not in the app yet'), findsOneWidget);
+      expect(find.textContaining('not in the app yet'), findsNothing);
+      expect(find.textContaining('Evaporation is the change of a liquid into vapour'), findsOneWidget);
     });
 
     testWidgets('UP board selection in Hindi shows UP Board as available', (tester) async {

@@ -16,7 +16,7 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
 # In Windows, build-name is used as the major, minor, and patch parts
 # of the product and file versions while build-number is used as the build suffix.
-version: 1.0.0+1
+version: 1.0.1+2
 
 environment:
   sdk: ^3.13.4
@@ -41,6 +41,14 @@ dependencies:
   http: ^1.6.0
   in_app_purchase: ^3.3.1
   in_app_purchase_android: ^0.5.4
+  # TODO: Uncomment when Firebase is configured with google-services.json
+  # firebase_core: ^2.25.0
+  # cloud_firestore: ^4.15.0
+  # firebase_storage: ^11.6.0
+  # image_picker: ^1.0.7
+  # device_info_plus: ^9.1.2
+  # timeago: ^3.6.1
+  # cached_network_image: ^3.3.1
 
 dev_dependencies:
   flutter_test:
@@ -72,11 +80,19 @@ flutter:
     - assets/content/boards/cbse/2026-27/questions/
     - assets/content/boards/cbse/2026-27/pyq/
     - assets/content/boards/up/2026-27/
+    - assets/content/boards/up/2026-27/notes/
+    - assets/content/boards/up/2026-27/questions/
     - assets/content/boards/rajasthan/2026-27/
+    - assets/content/boards/rajasthan/2026-27/notes/
+    - assets/content/boards/rajasthan/2026-27/questions/
     - assets/content/boards/haryana/2026-27/
     - assets/content/boards/uttarakhand/2026-27/
+    - assets/content/boards/uttarakhand/2026-27/notes/
+    - assets/content/boards/uttarakhand/2026-27/questions/
     - assets/content/boards/cisce/2026-27/
     - assets/content/boards/punjab/2026-27/
+    - assets/content/boards/punjab/2026-27/notes/
+    - assets/content/boards/punjab/2026-27/questions/
     - assets/content/library/
     - assets/content/library/concepts/
 

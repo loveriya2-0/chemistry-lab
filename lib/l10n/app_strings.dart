@@ -221,6 +221,9 @@ abstract class AppStrings {
   String get easyExplanationTitle;
   String get memoryTrickTitle;
   String get reactionFormulaTitle;
+  String get diagramTitle;
+  String get diagramZoomHint;
+  String stateSymbolName(String symbol);
   String get commonMistakesTitle;
   String get quickRevisionTitle;
   String get mustRemember;
@@ -778,6 +781,18 @@ class EnStrings extends AppStrings {
   String get memoryTrickTitle => '🧠 Memory trick';
   @override
   String get reactionFormulaTitle => '🧪 Reactions & formulas';
+  @override
+  String get diagramTitle => '🖼️ Understand with a picture';
+  @override
+  String get diagramZoomHint => 'Tap the picture to zoom';
+  @override
+  String stateSymbolName(String symbol) => switch (symbol) {
+        's' => 'solid',
+        'l' => 'liquid',
+        'g' => 'gas',
+        'aq' => 'in water',
+        _ => symbol,
+      };
   @override
   String get commonMistakesTitle => '⚠️ Common mistakes';
   @override
@@ -1515,6 +1530,18 @@ class HiStrings extends AppStrings {
   String get memoryTrickTitle => '🧠 याद करने की ट्रिक';
   @override
   String get reactionFormulaTitle => '🧪 अभिक्रिया / सूत्र';
+  @override
+  String get diagramTitle => '🖼️ चित्र से समझें';
+  @override
+  String get diagramZoomHint => 'बड़ा देखने के लिए चित्र पर टैप करें';
+  @override
+  String stateSymbolName(String symbol) => switch (symbol) {
+        's' => 'ठोस',
+        'l' => 'द्रव',
+        'g' => 'गैस',
+        'aq' => 'जलीय',
+        _ => symbol,
+      };
   @override
   String get commonMistakesTitle => '⚠️ आम गलतियाँ';
   @override

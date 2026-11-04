@@ -181,6 +181,7 @@
     {
       "id": "note-cbse-10-ch03-t3.2.4",
       "targetId": "cbse-10-ch03-t3.2.4",
+      "diagrams": ["activity-series"],
       "covers": ["cbse-10-ch03-t3.2.5"],
       "definition": {
         "en": "A more reactive metal displaces a less reactive metal from a solution of its salt. Arranging metals in order of decreasing reactivity gives the reactivity (activity) series.",
@@ -228,6 +229,7 @@
     {
       "id": "note-cbse-10-ch03-t3.3",
       "targetId": "cbse-10-ch03-t3.3",
+      "diagrams": ["ionic-bond-nacl"],
       "covers": ["cbse-10-ch03-t3.3.1"],
       "definition": {
         "en": "Metals react with non-metals by transferring electrons: the metal loses electrons to form a cation and the non-metal gains them to form an anion. The compounds so formed are ionic (electrovalent) compounds.",
@@ -271,6 +273,7 @@
     {
       "id": "note-cbse-10-ch03-t3.4",
       "targetId": "cbse-10-ch03-t3.4",
+      "diagrams": ["activity-series"],
       "covers": ["cbse-10-ch03-t3.4.1", "cbse-10-ch03-t3.4.2"],
       "definition": {
         "en": "Minerals are naturally occurring elements or compounds in the earth's crust; minerals from which a metal can be extracted profitably are ores. Gangue is the soil, sand and other impurity mixed with an ore.",

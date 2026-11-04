@@ -7,12 +7,14 @@ import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
+import 'ai/gemini_tutor_service.dart';
 import 'ai/tutor_service.dart';
 import 'content/content_catalog.dart';
 import 'content/content_repository.dart';
 import 'content/legacy_migration.dart';
 import 'core/theme.dart';
 import 'data/bookmark_store.dart';
+// import 'data/feedback_store.dart'; // TODO: Enable when Firebase is configured
 import 'data/focus_session_store.dart';
 import 'data/practical_attempt_store.dart';
 import 'data/practicals_repository.dart';
@@ -32,9 +34,18 @@ import 'study/study_focus.dart';
 import 'study/study_progress_store.dart';
 import 'sync/remote_content.dart';
 
+// TODO: Uncomment when Firebase is configured
+// import 'package:cloud_firestore/cloud_firestore.dart';
+// import 'package:firebase_core/firebase_core.dart';
+// import 'package:firebase_storage/firebase_storage.dart';
+
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]);
+
+  // TODO: Initialize Firebase when google-services.json is configured
+  // await Firebase.initializeApp();
+
   final prefs = await SharedPreferences.getInstance();
   final remote = RemoteContentCache(prefs);
   final catalog = await ContentCatalog.load(ContentRepository(remote: remote));
@@ -80,8 +91,8 @@ class VirtualChemistryLabApp extends StatelessWidget {
   final SharedPreferences prefs;
   final ContentCatalog catalog;
 
-  /// The AI tutor; by default Claude, configured at build time
-  /// (see [TutorConfig]). Tests pass a fake.
+  /// The AI tutor; by default Gemini or Claude, configured at build time
+  /// (see [GeminiConfig] and [TutorConfig]). Tests pass a fake.
   final TutorService? tutor;
 
   /// Google Play Billing and the purchase-verify server; by default the
@@ -97,6 +108,8 @@ class VirtualChemistryLabApp extends StatelessWidget {
         Provider.value(value: prefs),
         Provider.value(value: catalog),
         Provider(create: (_) => PracticalsRepository(reactionLabs: ReactionLabs.fromCatalog(catalog))),
+        // TODO: Enable when Firebase is configured
+        // Provider(create: (_) => FeedbackStore(FirebaseFirestore.instance, FirebaseStorage.instance)),
         ChangeNotifierProvider(create: (_) => AppState(prefs)),
         ChangeNotifierProvider(create: (_) => LanguageController(prefs)),
         Provider(create: (_) => FocusSessionStore(prefs)),
@@ -106,7 +119,7 @@ class VirtualChemistryLabApp extends StatelessWidget {
         ChangeNotifierProvider(create: (_) => StudyProgressStore(prefs)),
         ChangeNotifierProvider(create: (_) => FocusSettings(prefs)),
         Provider(create: (_) => StudySessionStore(prefs)),
-        Provider<TutorService>(create: (_) => tutor ?? ClaudeTutorService(TutorConfig.fromEnvironment())),
+        Provider<TutorService>(create: (_) => tutor ?? tutorFromEnvironment()),
         // Not lazy: re-checks purchases (restores, refunds) at app start.
         ChangeNotifierProvider(
           lazy: false,

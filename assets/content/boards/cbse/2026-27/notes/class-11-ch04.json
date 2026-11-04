@@ -87,6 +87,7 @@
     {
       "id": "note-cbse-11-ch04-t4.2",
       "targetId": "cbse-11-ch04-t4.2",
+      "diagrams": ["ionic-bond-nacl"],
       "covers": [],
       "definition": {
         "en": "An ionic (electrovalent) bond forms by transfer of electrons from an element of low ionisation enthalpy to one of high negative electron gain enthalpy, the ions being held by electrostatic attraction.",
@@ -231,6 +232,7 @@
     {
       "id": "note-cbse-11-ch04-t4.4",
       "targetId": "cbse-11-ch04-t4.4",
+      "diagrams": ["vsepr-shapes"],
       "covers": [],
       "definition": {
         "en": "VSEPR theory predicts molecular shapes: electron pairs around the central atom repel each other and arrange themselves as far apart as possible.",
@@ -390,6 +392,7 @@
     {
       "id": "note-cbse-11-ch04-t4.6",
       "targetId": "cbse-11-ch04-t4.6",
+      "diagrams": ["vsepr-shapes"],
       "covers": [],
       "definition": {
         "en": "Hybridisation is the intermixing of atomic orbitals of slightly different energies on the same atom to form an equal number of identical hybrid orbitals.",

@@ -176,6 +176,7 @@
     {
       "id": "note-cbse-9-ch09-t9.4.2",
       "targetId": "cbse-9-ch09-t9.4.2",
+      "diagrams": ["ionic-bond-nacl"],
       "covers": [],
       "definition": {
         "en": "An ionic bond is the electrostatic force of attraction between oppositely charged ions, formed when one atom transfers electrons to another. A positive ion is a cation; a negative ion is an anion.",

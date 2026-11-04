@@ -89,6 +89,7 @@
     {
       "id": "note-cbse-11-ch02-t2.2",
       "targetId": "cbse-11-ch02-t2.2",
+      "diagrams": ["gold-foil"],
       "covers": [],
       "definition": {
         "en": "Atomic models describe how particles are arranged in an atom. Thomson's model: positive sphere with embedded electrons. Rutherford's nuclear model: a tiny, dense, positive nucleus with electrons revolving around it.",

@@ -91,6 +91,7 @@
     {
       "id": "note-cbse-9-ch08-t8.2.2",
       "targetId": "cbse-9-ch08-t8.2.2",
+      "diagrams": ["gold-foil"],
       "covers": [],
       "definition": {
         "en": "In the gold foil (α-particle scattering) experiment, alpha particles were fired at very thin gold foil. From the results Rutherford proposed the nuclear (planetary) model: a tiny, dense, positive nucleus at the centre with electrons revolving around it.",
@@ -138,6 +139,7 @@
     {
       "id": "note-cbse-9-ch08-t8.2.3",
       "targetId": "cbse-9-ch08-t8.2.3",
+      "diagrams": ["bohr-sodium"],
       "covers": [],
       "definition": {
         "en": "Bohr's model (1913): electrons revolve around the nucleus only in certain fixed circular orbits called stationary states, shells or energy levels (K, L, M, N or n = 1, 2, 3, 4), and an electron does not lose energy while it stays in one shell.",
@@ -318,6 +320,7 @@
     {
       "id": "note-cbse-9-ch08-t8.7",
       "targetId": "cbse-9-ch08-t8.7",
+      "diagrams": ["bohr-sodium"],
       "covers": ["cbse-9-ch08-t8.7.1"],
       "definition": {
         "en": "The electronic configuration of an atom is the way its electrons are distributed among the shells K, L, M, N…",

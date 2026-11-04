@@ -252,6 +252,7 @@
     {
       "id": "note-cbse-12-ch03-t3.4",
       "targetId": "cbse-12-ch03-t3.4",
+      "diagrams": ["activation-energy"],
       "covers": [],
       "definition": {
         "en": "Rate constants increase with temperature as described by the Arrhenius equation, k = A e^(−Ea/RT), where Ea is the activation energy and A the frequency (pre-exponential) factor.",

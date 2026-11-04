@@ -235,6 +235,7 @@
     {
       "id": "note-cbse-9-ch05-t5.3.3",
       "targetId": "cbse-9-ch05-t5.3.3",
+      "diagrams": ["paper-chromatography"],
       "covers": [],
       "definition": {
         "en": "Paper chromatography separates the components of a mixture (such as the dyes in ink) because they move up a strip of paper with the solvent at different speeds.",
@@ -459,6 +460,7 @@
     {
       "id": "note-cbse-9-ch05-t5.5",
       "targetId": "cbse-9-ch05-t5.5",
+      "diagrams": ["tyndall-effect"],
       "covers": [],
       "definition": {
         "en": "The Tyndall effect is the scattering of a beam of light by particles in a colloid or suspension, which makes the path of the beam visible.",

@@ -23,7 +23,7 @@ void main() {
     test('passes every rule; chapter marks are marked as not published', () async {
       expect(pb.classLevels, [9, 10, 11, 12]);
       expect(ContentValidator.curriculum(pb.manifest, await ContentRepository().allClasses('punjab')), isEmpty);
-      expect(ContentValidator.learningContent(pb, notesForClasses: {10, 11, 12}), isEmpty);
+      expect(ContentValidator.learningContent(pb, notesForClasses: {9, 10, 11, 12}), isEmpty);
       for (final level in pb.classLevels) {
         for (final c in pb.classes[level]!.examChapters) {
           expect(c.weightage.scope, WeightageScope.notPublished, reason: c.id);
@@ -33,12 +33,12 @@ void main() {
       expect((pb.classes[12]!.examPattern.theoryMarks, pb.classes[12]!.examPattern.practicalMarks), (70, 25));
     });
 
-    test('reuses NCERT questions for 10–12; Class 9 has an unmapped mole-concept topic', () {
+    test('reuses NCERT questions for 10–12; Class 9 mole concept has Punjab\'s own note', () {
       expect(pb.pyqs, isEmpty);
       for (final level in [10, 11, 12]) {
         expect(pb.practiceQuestions(classLevel: level).length, cbse.practiceQuestions(classLevel: level).length);
       }
-      expect(pb.noteFor('pb-9-ch03-t3.9'), isNull);
+      expect(pb.noteFor('pb-9-ch03-t3.9')!.formulas, contains('n = m ÷ M'));
       expect(pb.questions.where((q) => q.id.contains('cbse') || q.id.contains('-rj-')), isEmpty);
     });
 

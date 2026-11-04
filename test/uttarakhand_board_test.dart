@@ -19,7 +19,7 @@ void main() {
     test('only Classes 9 and 10, from the official HS Science 2026-27 syllabus', () async {
       expect(uk.classLevels, [9, 10]);
       expect(ContentValidator.curriculum(uk.manifest, await ContentRepository().allClasses('uttarakhand')), isEmpty);
-      expect(ContentValidator.learningContent(uk, notesForClasses: {10}), isEmpty);
+      expect(ContentValidator.learningContent(uk, notesForClasses: {9, 10}), isEmpty);
       expect(uk.classes[9]!.units.single.marks, 25);
       expect(uk.classes[10]!.units.single.marks, 25);
       expect(uk.classes[10]!.examPattern.boardExam, isTrue);

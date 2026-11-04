@@ -18,7 +18,7 @@ void main() {
   group('Rajasthan Board (BSER) 2026-27', () {
     test('passes every syllabus and content rule', () async {
       expect(ContentValidator.curriculum(rj.manifest, await ContentRepository().allClasses('rajasthan')), isEmpty);
-      expect(ContentValidator.learningContent(rj, notesForClasses: {10, 11, 12}), isEmpty);
+      expect(ContentValidator.learningContent(rj, notesForClasses: {9, 10, 11, 12}), isEmpty);
     });
 
     test('marks and exam pattern are those of the BSER examination-2027 syllabus', () {
@@ -50,10 +50,11 @@ void main() {
       }
     });
 
-    test('Class 9: topics without a matching checked note stay empty', () {
+    test('Class 9: every topic has a note; old-NCERT topics use Rajasthan\'s own notes', () {
       final topics = [for (final ch in rj.classes[9]!.chapters) ...ch.topics.expand((t) => t.selfAndDescendants)];
-      final empty = [for (final t in topics) if (rj.noteFor(t.id) == null) t.number];
-      expect(empty, ['1.1', '1.2', '1.3', '1.4', '1.5', '2.5', '2.6']);
+      expect([for (final t in topics) if (rj.noteFor(t.id) == null) t.number], isEmpty);
+      final own = [for (final t in topics) if (rj.noteFor(t.id)!.sources.single.sourceId == 'rj-sci-9') t.number];
+      expect(own, ['1.1', '1.2', '1.3', '1.4', '1.5', '2.5', '2.6']);
     });
 
     test('practical status is honest', () {

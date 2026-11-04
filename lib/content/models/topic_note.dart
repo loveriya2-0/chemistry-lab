@@ -4,6 +4,26 @@ import '../content_text.dart';
 import 'review.dart';
 import 'syllabus.dart' show Json;
 
+/// Ids of the hand-drawn diagrams the app can show with a note
+/// (drawn in widgets/topic_diagrams.dart).
+const topicDiagramIds = {
+  'ph-scale',
+  'reaction-types',
+  'activity-series',
+  'ionic-bond-nacl',
+  'covalent-methane',
+  'bohr-sodium',
+  'gold-foil',
+  'tyndall-effect',
+  'paper-chromatography',
+  'periodic-trends',
+  'vsepr-shapes',
+  'daniell-cell',
+  'activation-energy',
+  'soap-micelle',
+  'dynamic-equilibrium',
+};
+
 List<ContentText> _texts(Object? json) =>
     [for (final e in (json as List<Object?>? ?? const [])) ContentText.fromJson(e! as Json)];
 
@@ -75,6 +95,7 @@ class TopicNote {
     required this.review,
     this.memoryTricks = const [],
     this.quickRevision,
+    this.diagrams = const [],
   });
 
   factory TopicNote.fromJson(Json json) => TopicNote(
@@ -98,6 +119,7 @@ class TopicNote {
           final Json q => QuickRevision.fromJson(q),
           _ => null,
         },
+        diagrams: _strings(json['diagrams']),
       );
 
   final String id;
@@ -130,6 +152,9 @@ class TopicNote {
 
   /// Optional last-minute summary.
   final QuickRevision? quickRevision;
+
+  /// Built-in drawings that explain this note (ids from [topicDiagramIds]).
+  final List<String> diagrams;
 
   Iterable<String> get allTargetIds sync* {
     yield targetId;

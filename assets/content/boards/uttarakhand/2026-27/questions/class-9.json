@@ -1,0 +1,351 @@
+{
+  "hiSrc": "translated",
+  "items": [
+    {
+      "id": "q-uk-9-ch01-t1.1-1",
+      "classLevel": 9,
+      "chapterId": "uk-9-ch01",
+      "topicId": "uk-9-ch01-t1.1",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "Which state of matter has a fixed volume but no fixed shape?",
+        "hi": "द्रव्य की किस अवस्था का आयतन निश्चित होता है पर आकार नहीं?"
+      },
+      "options": [
+        {
+          "en": "Solid",
+          "hi": "ठोस"
+        },
+        {
+          "en": "Liquid",
+          "hi": "द्रव"
+        },
+        {
+          "en": "Gas",
+          "hi": "गैस"
+        },
+        {
+          "en": "None of these",
+          "hi": "इनमें से कोई नहीं"
+        }
+      ],
+      "correctOption": 1,
+      "answer": {
+        "en": "Liquid",
+        "hi": "द्रव"
+      },
+      "explanation": {
+        "en": "Liquid particles are close together (fixed volume) but can slide over each other, so a liquid takes the shape of its container.",
+        "hi": "द्रव के कण पास-पास होते हैं (निश्चित आयतन) पर एक-दूसरे पर फिसल सकते हैं, इसलिए द्रव बर्तन का आकार ले लेता है।"
+      },
+      "sources": [
+        {
+          "sourceId": "uk-sci-9-10",
+          "section": "1.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-uk-9-ch01-t1.1-2",
+      "classLevel": 9,
+      "chapterId": "uk-9-ch01",
+      "topicId": "uk-9-ch01-t1.1",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "medium",
+      "question": {
+        "en": "Why can a large amount of gas be filled into a small cylinder?",
+        "hi": "थोड़े आयतन के सिलिंडर में बहुत अधिक गैस क्यों भरी जा सकती है?"
+      },
+      "answer": {
+        "en": "Gas particles are far apart, so a gas is highly compressible.",
+        "hi": "गैस के कण दूर-दूर होते हैं, इसलिए गैस अत्यधिक संपीड्य होती है।"
+      },
+      "explanation": {
+        "en": "Applying pressure pushes the widely spaced gas particles closer together, reducing the volume greatly.",
+        "hi": "दाब लगाने पर दूर-दूर स्थित गैस के कण पास आ जाते हैं और आयतन बहुत घट जाता है।"
+      },
+      "sources": [
+        {
+          "sourceId": "uk-sci-9-10",
+          "section": "1.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-uk-9-ch01-t1.2-1",
+      "classLevel": 9,
+      "chapterId": "uk-9-ch01",
+      "topicId": "uk-9-ch01-t1.2",
+      "type": "numerical",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "Convert 25 °C and 373 K to the other scale.",
+        "hi": "25 °C और 373 K को दूसरे पैमाने में बदलिए।"
+      },
+      "answer": {
+        "en": "25 °C = 298 K; 373 K = 100 °C",
+        "hi": "25 °C = 298 K; 373 K = 100 °C"
+      },
+      "explanation": {
+        "en": "K = °C + 273, so 25 + 273 = 298 K; °C = K − 273, so 373 − 273 = 100 °C.",
+        "hi": "K = °C + 273, अतः 25 + 273 = 298 K; °C = K − 273, अतः 373 − 273 = 100 °C।"
+      },
+      "sources": [
+        {
+          "sourceId": "uk-sci-9-10",
+          "section": "1.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-uk-9-ch01-t1.2-2",
+      "classLevel": 9,
+      "chapterId": "uk-9-ch01",
+      "topicId": "uk-9-ch01-t1.2",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "medium",
+      "question": {
+        "en": "While ice is melting, its temperature:",
+        "hi": "बर्फ के पिघलते समय उसका ताप:"
+      },
+      "options": [
+        {
+          "en": "keeps rising",
+          "hi": "लगातार बढ़ता है"
+        },
+        {
+          "en": "stays constant at 0 °C",
+          "hi": "0 °C पर स्थिर रहता है"
+        },
+        {
+          "en": "falls",
+          "hi": "घटता है"
+        },
+        {
+          "en": "rises then falls",
+          "hi": "पहले बढ़ता फिर घटता है"
+        }
+      ],
+      "correctOption": 1,
+      "answer": {
+        "en": "stays constant at 0 °C",
+        "hi": "0 °C पर स्थिर रहता है"
+      },
+      "explanation": {
+        "en": "The heat supplied is used as latent heat of fusion to overcome the attraction between particles, not to raise the temperature.",
+        "hi": "दी गई ऊष्मा संगलन की गुप्त ऊष्मा के रूप में कणों का आकर्षण तोड़ने में लगती है, ताप बढ़ाने में नहीं।"
+      },
+      "sources": [
+        {
+          "sourceId": "uk-sci-9-10",
+          "section": "1.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-uk-9-ch01-t1.2-3",
+      "classLevel": 9,
+      "chapterId": "uk-9-ch01",
+      "topicId": "uk-9-ch01-t1.2",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "medium",
+      "question": {
+        "en": "Why does steam at 100 °C cause more severe burns than water at 100 °C?",
+        "hi": "100 °C की भाप, 100 °C के पानी से अधिक गंभीर रूप से क्यों जलाती है?"
+      },
+      "answer": {
+        "en": "Steam carries extra energy as latent heat of vaporisation, which it releases on condensing on the skin.",
+        "hi": "भाप में वाष्पन की गुप्त ऊष्मा के रूप में अतिरिक्त ऊर्जा होती है, जो त्वचा पर संघनित होते समय निकलती है।"
+      },
+      "explanation": {
+        "en": "Both are at 100 °C, but each gram of steam gives out its latent heat as it turns back into water on the skin, in addition to the heat of hot water.",
+        "hi": "दोनों 100 °C पर हैं, परंतु भाप त्वचा पर पानी में बदलते समय गरम पानी की ऊष्मा के अतिरिक्त अपनी गुप्त ऊष्मा भी देती है।"
+      },
+      "sources": [
+        {
+          "sourceId": "uk-sci-9-10",
+          "section": "1.2"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-uk-9-ch01-t1.3-1",
+      "classLevel": 9,
+      "chapterId": "uk-9-ch01",
+      "topicId": "uk-9-ch01-t1.3",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "Which change will slow down evaporation of water from a dish?",
+        "hi": "किस परिवर्तन से तश्तरी के पानी का वाष्पन धीमा होगा?"
+      },
+      "options": [
+        {
+          "en": "Increasing wind speed",
+          "hi": "हवा की गति बढ़ाना"
+        },
+        {
+          "en": "Increasing humidity of the air",
+          "hi": "वायु की आर्द्रता बढ़ाना"
+        },
+        {
+          "en": "Using a wider dish",
+          "hi": "चौड़ी तश्तरी लेना"
+        },
+        {
+          "en": "Raising the temperature",
+          "hi": "ताप बढ़ाना"
+        }
+      ],
+      "correctOption": 1,
+      "answer": {
+        "en": "Increasing humidity of the air",
+        "hi": "वायु की आर्द्रता बढ़ाना"
+      },
+      "explanation": {
+        "en": "Humid air already holds a lot of water vapour, so it takes up less more; the other three speed up evaporation.",
+        "hi": "आर्द्र वायु में पहले से बहुत जलवाष्प होती है, इसलिए वह और कम ग्रहण करती है; शेष तीनों वाष्पन को तेज़ करते हैं।"
+      },
+      "sources": [
+        {
+          "sourceId": "uk-sci-9-10",
+          "section": "1.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-uk-9-ch01-t1.3-2",
+      "classLevel": 9,
+      "chapterId": "uk-9-ch01",
+      "topicId": "uk-9-ch01-t1.3",
+      "type": "veryShort",
+      "marks": 2,
+      "difficulty": "medium",
+      "question": {
+        "en": "Why does water kept in an earthen pot (matka) become cool in summer?",
+        "hi": "गर्मियों में मिट्टी के घड़े (मटके) में रखा पानी ठंडा क्यों हो जाता है?"
+      },
+      "answer": {
+        "en": "Water seeps through the pores and evaporates from the outer surface, taking heat from the pot and the water inside.",
+        "hi": "पानी छिद्रों से रिसकर बाहरी सतह से वाष्पित होता है और घड़े तथा अंदर के पानी से ऊष्मा ले लेता है।"
+      },
+      "explanation": {
+        "en": "Evaporation needs energy (latent heat), which is drawn from the pot and its water, so their temperature falls.",
+        "hi": "वाष्पन के लिए ऊर्जा (गुप्त ऊष्मा) चाहिए, जो घड़े और उसके पानी से ली जाती है, इसलिए उनका ताप घट जाता है।"
+      },
+      "sources": [
+        {
+          "sourceId": "uk-sci-9-10",
+          "section": "1.3"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-uk-9-ch02-t2.1-1",
+      "classLevel": 9,
+      "chapterId": "uk-9-ch02",
+      "topicId": "uk-9-ch02-t2.1",
+      "type": "mcq",
+      "marks": 1,
+      "difficulty": "easy",
+      "question": {
+        "en": "Which of the following is a compound?",
+        "hi": "निम्नलिखित में से कौन-सा यौगिक है?"
+      },
+      "options": [
+        {
+          "en": "Air",
+          "hi": "वायु"
+        },
+        {
+          "en": "Brass",
+          "hi": "पीतल"
+        },
+        {
+          "en": "Common salt",
+          "hi": "साधारण नमक"
+        },
+        {
+          "en": "Sea water",
+          "hi": "समुद्री जल"
+        }
+      ],
+      "correctOption": 2,
+      "answer": {
+        "en": "Common salt",
+        "hi": "साधारण नमक"
+      },
+      "explanation": {
+        "en": "Common salt (NaCl) has sodium and chlorine combined in a fixed ratio; air, brass and sea water have variable composition.",
+        "hi": "साधारण नमक (NaCl) में सोडियम और क्लोरीन निश्चित अनुपात में संयुक्त हैं; वायु, पीतल और समुद्री जल का संघटन परिवर्ती है।"
+      },
+      "sources": [
+        {
+          "sourceId": "uk-sci-9-10",
+          "section": "2.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    },
+    {
+      "id": "q-uk-9-ch02-t2.1-2",
+      "classLevel": 9,
+      "chapterId": "uk-9-ch02",
+      "topicId": "uk-9-ch02-t2.1",
+      "type": "shortAnswer",
+      "marks": 3,
+      "difficulty": "medium",
+      "question": {
+        "en": "Give three differences between a mixture of iron filings and sulphur and the compound iron sulphide.",
+        "hi": "लोहे के बुरादे और गंधक के मिश्रण तथा यौगिक आयरन सल्फ़ाइड में तीन अंतर लिखिए।"
+      },
+      "answer": {
+        "en": "(1) A magnet attracts iron from the mixture but not from FeS. (2) The mixture gives hydrogen with dilute acid; FeS gives hydrogen sulphide. (3) The mixture can have any proportion; FeS has a fixed ratio and its formation gives out heat.",
+        "hi": "(1) चुंबक मिश्रण से लोहा खींच लेता है, FeS से नहीं। (2) तनु अम्ल के साथ मिश्रण हाइड्रोजन देता है; FeS हाइड्रोजन सल्फ़ाइड देता है। (3) मिश्रण किसी भी अनुपात में हो सकता है; FeS का अनुपात निश्चित है और बनते समय ऊष्मा निकलती है।"
+      },
+      "explanation": {
+        "en": "In the mixture the components keep their properties; in the compound they have combined chemically into a new substance.",
+        "hi": "मिश्रण में घटक अपने गुण बनाए रखते हैं; यौगिक में वे रासायनिक रूप से जुड़कर नया पदार्थ बना लेते हैं।"
+      },
+      "sources": [
+        {
+          "sourceId": "uk-sci-9-10",
+          "section": "2.1"
+        }
+      ],
+      "review": {
+        "status": "sourceChecked"
+      }
+    }
+  ]
+}

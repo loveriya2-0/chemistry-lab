@@ -47,6 +47,7 @@
     {
       "id": "note-cbse-10-ch01-t1.2",
       "targetId": "cbse-10-ch01-t1.2",
+      "diagrams": ["reaction-types"],
       "covers": ["cbse-10-ch01-t1.2.1"],
       "definition": {
         "en": "In a combination reaction two or more substances combine to form a single product. Reactions that release heat are exothermic; reactions that absorb heat are endothermic.",

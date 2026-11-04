@@ -51,7 +51,25 @@ Every topic, chapter, concept and reaction screen has an **Ask AI** button
 class, chapter, topic and the app's checked notes for it, and every answer is
 labelled **AI Explanation** — it is never mixed into the verified notes or PYQs.
 
-No API key is stored in the code. Connect the tutor at build time:
+No API key is stored in the code. Connect the tutor at build time.
+
+**Gemini** (used whenever a Gemini setting is given):
+
+```sh
+# Release builds: your own server keeps the key (recommended)
+flutter build apk --dart-define=GEMINI_PROXY_URL=https://your-server.example/gemini
+
+# Local testing only: the key is compiled into the app, so never ship this
+flutter run --dart-define=GEMINI_API_KEY=AIza...
+```
+
+Optional: `--dart-define=GEMINI_MODEL=gemini-3.8-flash` (default). The app calls
+`https://generativelanguage.googleapis.com/v1beta/models/<model>:generateContent`
+with header `x-goog-api-key`. A Gemini proxy receives that JSON body unchanged,
+adds the key, forwards it to the model URL and returns the response as-is.
+Get a key at https://aistudio.google.com/apikey.
+
+**Claude** (used when no Gemini setting is given):
 
 ```sh
 # Release builds: your own server keeps the key (recommended)
@@ -143,3 +161,18 @@ debug key, which Google Play rejects.
 
 Payments are live only after the product is active and these tests pass on
 the testing track, then a production release is published.
+
+## Topic pictures
+
+Topic notes can show hand-drawn, labelled diagrams (English and Hindi) under
+**🖼️ Understand with a picture**; tap one to zoom. They are drawn in code
+(`lib/widgets/topic_diagrams.dart`) and attached to a note with
+`"diagrams": ["ph-scale"]` in its JSON; the content validator rejects unknown
+ids. Available: ph-scale, reaction-types, activity-series, ionic-bond-nacl,
+covalent-methane, bohr-sodium, gold-foil, tyndall-effect, paper-chromatography,
+periodic-trends, vsepr-shapes, daniell-cell, activation-energy, soap-micelle,
+dynamic-equilibrium.
+
+Every balanced equation in a note is also drawn automatically as a reaction
+picture (reactant cards → product cards with the number of units, state
+symbols and conditions over the arrow) — `lib/widgets/reaction_picture.dart`.

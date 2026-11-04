@@ -224,6 +224,7 @@
     {
       "id": "note-cbse-10-ch02-t2.3",
       "targetId": "cbse-10-ch02-t2.3",
+      "diagrams": ["ph-scale"],
       "covers": ["cbse-10-ch02-t2.3.1"],
       "definition": {
         "en": "The pH scale (0 to 14) is a number scale that shows how acidic or basic a solution is: pH 7 is neutral, below 7 is acidic and above 7 is basic. A universal indicator shows different colours at different pH values.",

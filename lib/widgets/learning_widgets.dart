@@ -14,6 +14,8 @@ import '../l10n/app_strings.dart';
 import '../l10n/study_strings.dart';
 import '../study/study_progress_store.dart';
 import 'info_pill.dart';
+import 'reaction_picture.dart';
+import 'topic_diagrams.dart';
 
 /// Card with a coloured heading, used for every content section.
 class ContentSection extends StatelessWidget {
@@ -86,7 +88,8 @@ class BulletList extends StatelessWidget {
 }
 
 /// A formula or balanced equation, in a tinted box that scrolls sideways
-/// if it is wider than a small phone.
+/// if it is wider than a small phone. A plain equation is also drawn as a
+/// picture of what reacts and what forms.
 class FormulaBox extends StatelessWidget {
   const FormulaBox(this.formula, {super.key, this.saved, this.onToggleSave});
 
@@ -98,12 +101,8 @@ class FormulaBox extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container(
-      width: double.infinity,
-      margin: const EdgeInsets.only(bottom: 6),
-      padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 10),
-      decoration: BoxDecoration(color: LabColors.primarySoft, borderRadius: BorderRadius.circular(12)),
-      child: Row(
+    final equation = ReactionEquation.tryParse(formula);
+    final text = Row(
         children: [
           Expanded(
             child: SingleChildScrollView(
@@ -122,7 +121,27 @@ class FormulaBox extends StatelessWidget {
               icon: Icon((saved ?? false) ? Icons.bookmark_rounded : Icons.bookmark_border_rounded, size: 20, color: LabColors.primary),
             ),
         ],
-      ),
+      );
+    return Container(
+      width: double.infinity,
+      margin: const EdgeInsets.only(bottom: 6),
+      padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 10),
+      decoration: BoxDecoration(color: LabColors.primarySoft, borderRadius: BorderRadius.circular(12)),
+      child: equation == null
+          ? text
+          : Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                text,
+                const SizedBox(height: 8),
+                Container(
+                  width: double.infinity,
+                  padding: const EdgeInsets.all(10),
+                  decoration: BoxDecoration(color: Colors.white, borderRadius: BorderRadius.circular(10)),
+                  child: ReactionPicture(equation: equation),
+                ),
+              ],
+            ),
     );
   }
 }
@@ -203,7 +222,7 @@ class ReviewLabel extends StatelessWidget {
 }
 
 /// Every section of one topic note, in the approved order: concept,
-/// easy explanation, memory trick, main points, reactions/formulas,
+/// easy explanation, picture, memory trick, main points, reactions/formulas,
 /// real-life use, exam importance, common mistakes, quick revision.
 /// Optional sections (trick, formulas, quick revision) are hidden when
 /// the note has none. Practice questions follow the note on its page.
@@ -263,6 +282,7 @@ class NoteView extends StatelessWidget {
           ),
         ),
         ContentSection(title: s.easyExplanationTitle, child: BodyText(ct(note.explanation))),
+        for (final d in note.diagrams) TopicDiagramCard(id: d),
         if (note.memoryTricks.isNotEmpty) MemoryTrickCard(tricks: note.memoryTricks),
         ContentSection(title: s.keyPointsTitle, color: LabColors.amber, child: BulletList([for (final p in note.keyPoints) ct(p)], color: LabColors.warning)),
         if (note.formulas.isNotEmpty)
